@@ -1,0 +1,31 @@
+{
+  "states": {
+    "Andhra Pradesh": "#2E7D32",
+    "Arunachal Pradesh": "#FBC02D",
+    "Assam": "#1976D2",
+    "Bihar": "#D32F2F",
+    "Chhattisgarh": "#F57C00"
+  },
+  "colorMetadata": {
+    "#2E7D32": {
+      "name": "green",
+      "description": "Green - represents growth and temples"
+    },
+    "#FBC02D": {
+      "name": "yellow",
+      "description": "Yellow - bright and spiritual"
+    },
+    "#1976D2": {
+      "name": "blue",
+      "description": "Blue - sacred and calming"
+    },
+    "#D32F2F": {
+      "name": "red",
+      "description": "Red - auspicious and powerful"
+    },
+    "#F57C00": {
+      "name": "orange",
+      "description": "Orange - sacred Indian color"
+    }
+  }
+}

@@ -8,17 +8,26 @@ const PADDING = 16
 const PIN_PADDING = 40
 
 export default function IndiaMap({ onCityClick, height = 400 }) {
-  const { status, featureCollection, colorByName } = useIndiaAtlas()
+  const { status, featureCollection, colorByName, statesWithTemples } = useIndiaAtlas()
 
-  const { path, projection } = useMemo(() => {
-    if (!featureCollection) return { path: null, projection: null }
+  const { path, projection, citiesWithTemples } = useMemo(() => {
+    if (!featureCollection) return { path: null, projection: null, citiesWithTemples: [] }
 
-    // Create pins collection from all cities for fitting
+    // Create pins collection only from cities that have temple data
     const pins = []
+    const cities = []
+
     statesAndCities.forEach((state) => {
-      state.cities.forEach((city) => {
-        pins.push({ type: 'Feature', geometry: { type: 'Point', coordinates: [city.lon, city.lat] } })
-      })
+      // Only include cities from states that have temple data
+      if (statesWithTemples.has(state.state)) {
+        state.cities.forEach((city) => {
+          pins.push({ type: 'Feature', geometry: { type: 'Point', coordinates: [city.lon, city.lat] } })
+          cities.push({
+            ...city,
+            state: state.state,
+          })
+        })
+      }
     })
 
     const pinCollection = {
@@ -34,36 +43,25 @@ export default function IndiaMap({ onCityClick, height = 400 }) {
       pinCollection
     )
 
-    return { path: geoPath(projection), projection }
-  }, [featureCollection, height])
+    return { path: geoPath(projection), projection, citiesWithTemples: cities }
+  }, [featureCollection, height, statesWithTemples])
 
   if (status === 'loading') return <p className="map-status">Loading map…</p>
   if (status === 'error') return <p className="map-status">Map not available.</p>
   if (!featureCollection) return <p className="map-status">No map available.</p>
-
-  const allCities = []
-  statesAndCities.forEach((state) => {
-    state.cities.forEach((city) => {
-      allCities.push({
-        ...city,
-        state: state.state,
-      })
-    })
-  })
 
   return (
     <svg
       className="india-map"
       viewBox={`0 0 ${WIDTH} ${height}`}
       role="img"
-      aria-label="Map of India with states and cities"
+      aria-label="Map of India with temple cities"
     >
       <defs>
         <style>{`
-          .state-path { stroke: #333; stroke-width: 0.5; cursor: pointer; }
-          .state-path:hover { opacity: 0.8; }
-          .city-dot { cursor: pointer; }
-          .city-tooltip { font-size: 11px; pointer-events: none; }
+          .state-path { stroke: #333; stroke-width: 0.8; cursor: default; }
+          .city-dot { cursor: pointer; transition: r 0.2s ease, fill 0.2s ease; }
+          .city-dot:hover { r: 4; filter: drop-shadow(0 0 3px rgba(0,0,0,0.3)); }
         `}</style>
       </defs>
 
@@ -78,20 +76,24 @@ export default function IndiaMap({ onCityClick, height = 400 }) {
             className="state-path"
             fill={color}
             stroke="#333"
-            strokeWidth="0.5"
+            strokeWidth="0.8"
+            opacity="0.85"
           >
             <title>{stateName}</title>
           </path>
         )
       })}
 
-      {/* Render city points as small dots with tooltips */}
+      {/* Render city points as small dots with tooltips (only cities with temple data) */}
       {projection &&
-        allCities.map((city) => {
+        citiesWithTemples.map((city) => {
           const [x, y] = projection([city.lon, city.lat])
           return (
-            <g key={`${city.state}-${city.name}`} onClick={() => onCityClick && onCityClick(city.state, city.name)}>
-              <circle cx={x} cy={y} r={2.5} fill="#333" className="city-dot" />
+            <g
+              key={`${city.state}-${city.name}`}
+              onClick={() => onCityClick && onCityClick(city.state, city.name)}
+            >
+              <circle cx={x} cy={y} r={2.5} fill="#1a1a1a" className="city-dot" />
               <title>{city.name}</title>
             </g>
           )
