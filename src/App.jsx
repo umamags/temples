@@ -6,7 +6,7 @@ import './App.css'
 
 export default function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/temples/">
       <Routes>
         <Route path="/" element={<Layout />}>
           <Route index element={<HomePage />} />
