@@ -305,7 +305,7 @@
         "name": "Sri Venkateswara Temple",
         "main_deity": "Lord Venkateswara",
         "image_url": "https://example.com/sri_venkateswara_temple.jpg",
-        "website": null,
+        "website": "https://en.wikipedia.org/wiki/Kanger%20Valley%20National%20Park",
         "year_constructed": 2010,
         "festivals_and_events": [
           "Vaikunta Ekadasi",
@@ -316,7 +316,7 @@
         "name": "Hanuman Temple",
         "main_deity": "Lord Hanuman",
         "image_url": "https://example.com/hanuman_temple.jpg",
-        "website": null,
+        "website": "https://en.wikipedia.org/wiki/Kagaznagar%2C%20Telangana",
         "year_constructed": 1800,
         "festivals_and_events": [
           "Hanuman Jayanti",
@@ -327,7 +327,7 @@
         "name": "Kali Temple",
         "main_deity": "Goddess Kali",
         "image_url": "https://example.com/kali_temple.jpg",
-        "website": null,
+        "website": "https://en.wikipedia.org/wiki/Kagaznagar%2C%20Telangana",
         "year_constructed": 1900,
         "festivals_and_events": [
           "Kali Puja",
@@ -340,7 +340,7 @@
         "name": "Shiv Temple",
         "main_deity": "Lord Shiva",
         "image_url": "https://example.com/shiv-temple.jpg",
-        "website": null,
+        "website": "https://en.wikipedia.org/wiki/Chhattisgarh",
         "year_constructed": 1850,
         "festivals_and_events": [
           "Maha Shivaratri",
@@ -362,7 +362,7 @@
         "name": "Hanuman Temple",
         "main_deity": "Lord Hanuman",
         "image_url": "https://example.com/hanuman-temple.jpg",
-        "website": null,
+        "website": "https://en.wikipedia.org/wiki/Kanker%20district",
         "year_constructed": 1900,
         "festivals_and_events": [
           "Hanuman Jayanti",
@@ -373,7 +373,7 @@
         "name": "Durga Temple",
         "main_deity": "Goddess Durga",
         "image_url": "https://example.com/durga-temple.jpg",
-        "website": null,
+        "website": "https://en.wikipedia.org/wiki/Chhattisgarh",
         "year_constructed": 1925,
         "festivals_and_events": [
           "Navaratri",
@@ -384,7 +384,7 @@
         "name": "Radha Krishna Mandir",
         "main_deity": "Lord Krishna",
         "image_url": "https://example.com/radha-krishna-mandir.jpg",
-        "website": null,
+        "website": "https://en.wikipedia.org/wiki/Dharamjaigarh",
         "year_constructed": 1930,
         "festivals_and_events": [
           "Janmashtami",
@@ -397,7 +397,7 @@
         "name": "Bilaspur Devi Temple",
         "main_deity": "Devi",
         "image_url": "https://example.com/bilaspur_devi.jpg",
-        "website": null,
+        "website": "https://en.wikipedia.org/wiki/Dhamtari%20district",
         "year_constructed": 1800,
         "festivals_and_events": [
           "Navratri",
@@ -408,7 +408,7 @@
         "name": "Siyadevi Temple",
         "main_deity": "Sita",
         "image_url": "https://example.com/siyadevi.jpg",
-        "website": null,
+        "website": "https://en.wikipedia.org/wiki/Balod",
         "year_constructed": 1500,
         "festivals_and_events": [
           "Ram Navami",

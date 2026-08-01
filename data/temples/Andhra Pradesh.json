@@ -5,7 +5,7 @@
         "name": "Amareswara Swamy Temple",
         "main_deity": "Lord Shiva",
         "image_url": "https://example.com/amareswara_swamy.jpg",
-        "website": null,
+        "website": "https://en.wikipedia.org/wiki/Amararama",
         "year_constructed": 1234,
         "festivals_and_events": [
           "Maha Shivaratri",
@@ -16,7 +16,7 @@
         "name": "Sri Lakshmi Narasimha Swamy Temple",
         "main_deity": "Lord Narasimha",
         "image_url": "https://example.com/lakshmi_narasimha.jpg",
-        "website": null,
+        "website": "https://en.wikipedia.org/wiki/Tourism%20in%20Andhra%20Pradesh",
         "year_constructed": 1350,
         "festivals_and_events": [
           "Narasimha Jayanti",
@@ -38,7 +38,7 @@
         "name": "Chaturmukha Brahma Temple",
         "main_deity": "Lord Brahma",
         "image_url": "https://example.com/chaturmukha_brahma.jpg",
-        "website": null,
+        "website": "https://en.wikipedia.org/wiki/Amararama",
         "year_constructed": 1450,
         "festivals_and_events": [
           "Brahmotsavam",
@@ -49,7 +49,7 @@
         "name": "Sri Venkateswara Swamy Temple",
         "main_deity": "Lord Venkateswara",
         "image_url": "https://example.com/venkateswara_swamy.jpg",
-        "website": null,
+        "website": "https://en.wikipedia.org/wiki/Tourism%20in%20Andhra%20Pradesh",
         "year_constructed": 1800,
         "festivals_and_events": [
           "Vaikunta Ekadasi",
@@ -62,7 +62,7 @@
         "name": "Simhachalam Temple",
         "main_deity": "Varaha Lakshmi Narasimha",
         "image_url": "https://example.com/simhachalam.jpg",
-        "website": "http://www.simhachalamdevasthanam.net/",
+        "website": "https://en.wikipedia.org/wiki/Varaha%20Lakshmi%20Narasimha%20temple%2C%20Simhachalam",
         "year_constructed": 1098,
         "festivals_and_events": [
           "Narasimha Jayanti",
@@ -73,7 +73,7 @@
         "name": "ISKCON Temple",
         "main_deity": "Lord Krishna",
         "image_url": "https://example.com/iskcon.jpg",
-        "website": "https://www.iskconvizag.com/",
+        "website": "https://en.wikipedia.org/wiki/Satyanarayana%20Temple%2C%20Annavaram",
         "year_constructed": 2005,
         "festivals_and_events": [
           "Janmashtami",
@@ -84,7 +84,7 @@
         "name": "Kali Temple",
         "main_deity": "Kali Maa",
         "image_url": "https://example.com/kalitemple.jpg",
-        "website": null,
+        "website": "https://en.wikipedia.org/wiki/Yaganti%20temple",
         "year_constructed": 1984,
         "festivals_and_events": [
           "Durga Puja",
@@ -95,7 +95,7 @@
         "name": "Sri Venkateswara Swamy Temple",
         "main_deity": "Lord Venkateswara",
         "image_url": "https://example.com/venkateswara.jpg",
-        "website": null,
+        "website": "https://en.wikipedia.org/wiki/Venkateswara%20Temple%2C%20Tirumala",
         "year_constructed": 1991,
         "festivals_and_events": [
           "Brahmotsavam",
@@ -106,7 +106,7 @@
         "name": "Sri Kanaka Maha Lakshmi Temple",
         "main_deity": "Goddess Lakshmi",
         "image_url": "https://example.com/kanakamahalakshmi.jpg",
-        "website": null,
+        "website": "https://en.wikipedia.org/wiki/Kanaka%20Durga%20Temple",
         "year_constructed": 1912,
         "festivals_and_events": [
           "Varalakshmi Vratam",
@@ -210,7 +210,7 @@
         "name": "Sri Govindaraja Swamy Temple",
         "main_deity": "Lord Vishnu",
         "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Govindaraja_Swamy_Temple.jpg",
-        "website": null,
+        "website": "https://en.wikipedia.org/wiki/Govindaraja%20Temple%2C%20Tirupati",
         "year_constructed": 1130,
         "festivals_and_events": [
           "Vaikunta Ekadasi",
@@ -221,7 +221,7 @@
         "name": "Sri Varahaswami Temple",
         "main_deity": "Lord Varaha",
         "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Tirumala_Temple_04.jpg",
-        "website": null,
+        "website": "https://en.wikipedia.org/wiki/Varahaswamy%20Temple",
         "year_constructed": 300,
         "festivals_and_events": [
           "Brahmotsavam",
@@ -234,7 +234,7 @@
         "name": "Sri Panakala Lakshmi Narasimha Swamy Temple",
         "main_deity": "Lakshmi Narasimha",
         "image_url": "https://example.com/sri_panakala_lakshmi_narasimha_swamy_temple.jpg",
-        "website": null,
+        "website": "https://en.wikipedia.org/wiki/Lakshmi%20Narasimha%20Temple%2C%20Mangalagiri",
         "year_constructed": 1234,
         "festivals_and_events": [
           "Narasimha Jayanti",
@@ -245,7 +245,7 @@
         "name": "Kotappakonda Trikoteswara Swamy Temple",
         "main_deity": "Shiva",
         "image_url": "https://example.com/kotappakonda_trikoteswara_swamy_temple.jpg",
-        "website": null,
+        "website": "https://en.wikipedia.org/wiki/Kotappakonda",
         "year_constructed": 1500,
         "festivals_and_events": [
           "Maha Shivaratri",
@@ -256,7 +256,7 @@
         "name": "Sri Amaralingeswara Swamy Temple",
         "main_deity": "Shiva",
         "image_url": "https://example.com/sri_amaralingeswara_swamy_temple.jpg",
-        "website": null,
+        "website": "https://en.wikipedia.org/wiki/Yaganti%20temple",
         "year_constructed": 1234,
         "festivals_and_events": [
           "Maha Shivaratri",
@@ -267,7 +267,7 @@
         "name": "Uppalapadu Bird Sanctuary Temple",
         "main_deity": "Subrahmanya Swamy",
         "image_url": "https://example.com/uppalapadu_bird_sanctuary_temple.jpg",
-        "website": null,
+        "website": "https://en.wikipedia.org/wiki/Guntur",
         "year_constructed": 1800,
         "festivals_and_events": [
           "Thaipusam",
@@ -291,7 +291,7 @@
         "name": "Sri Ranganathaswamy Temple",
         "main_deity": "Lord Ranganatha",
         "image_url": "https://example.com/sri_ranganathaswamy_temple.jpg",
-        "website": null,
+        "website": "https://en.wikipedia.org/wiki/Sri%20Talpagiri%20Ranganadha%20Swamy%20Temple%2C%20Nellore",
         "year_constructed": 1070,
         "festivals_and_events": [
           "Vaikunta Ekadasi",
@@ -313,7 +313,7 @@
         "name": "Narasimhaswamy Temple, Penchalakona",
         "main_deity": "Lord Narasimha",
         "image_url": "https://example.com/narasimhaswamy_temple.jpg",
-        "website": null,
+        "website": "https://en.wikipedia.org/wiki/Nellore%20district",
         "year_constructed": 8,
         "festivals_and_events": [
           "Narasimha Jayanthi",

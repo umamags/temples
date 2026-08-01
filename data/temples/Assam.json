@@ -346,7 +346,7 @@
         "name": "Radha Krishna Temple",
         "main_deity": "Radha Krishna",
         "image_url": "https://example.com/radhakrishna.jpg",
-        "website": null,
+        "website": "https://en.wikipedia.org/wiki/Radha%20Krishna%20Mandir%2C%20Dibrugarh",
         "year_constructed": 1985,
         "festivals_and_events": [
           "Janmashtami",
@@ -357,7 +357,7 @@
         "name": "Jagannath Temple",
         "main_deity": "Jagannath",
         "image_url": "https://example.com/jagannath.jpg",
-        "website": null,
+        "website": "https://en.wikipedia.org/wiki/Jagannath%20Temple%2C%20Dibrugarh",
         "year_constructed": 2010,
         "festivals_and_events": [
           "Rath Yatra",
@@ -368,7 +368,7 @@
         "name": "Hanuman Temple",
         "main_deity": "Hanuman",
         "image_url": "https://example.com/hanuman.jpg",
-        "website": null,
+        "website": "https://en.wikipedia.org/wiki/Jagannath%20Temple%2C%20Dibrugarh",
         "year_constructed": 1970,
         "festivals_and_events": [
           "Hanuman Jayanti",
@@ -390,7 +390,7 @@
         "name": "Shiv Mandir",
         "main_deity": "Shiva",
         "image_url": "https://example.com/shiva.jpg",
-        "website": null,
+        "website": "https://en.wikipedia.org/wiki/Basugaon",
         "year_constructed": 1955,
         "festivals_and_events": [
           "Maha Shivaratri",
@@ -403,7 +403,7 @@
         "name": "Shanti Ashram",
         "main_deity": "Lord Shiva",
         "image_url": "https://example.com/shanti_ashram.jpg",
-        "website": null,
+        "website": "https://en.wikipedia.org/wiki/Shanti%20Ashram",
         "year_constructed": 1972,
         "festivals_and_events": [
           "Maha Shivaratri",
@@ -414,7 +414,7 @@
         "name": "Sri Sri Auniati Satra",
         "main_deity": "Lord Krishna",
         "image_url": "https://example.com/auniati_satra.jpg",
-        "website": null,
+        "website": "https://en.wikipedia.org/wiki/Majuli",
         "year_constructed": 1653,
         "festivals_and_events": [
           "Janmashtami",
@@ -425,7 +425,7 @@
         "name": "Dhekiakhowa Bornamghar",
         "main_deity": "Vishnu",
         "image_url": "https://example.com/dhekiakhowa_bornamghar.jpg",
-        "website": null,
+        "website": "https://en.wikipedia.org/wiki/Dhekiakhowa%20Bornamghar",
         "year_constructed": 1461,
         "festivals_and_events": [
           "Bihu",
@@ -436,7 +436,7 @@
         "name": "Garh Ali Satra",
         "main_deity": "Vishnu",
         "image_url": "https://example.com/garh_ali_satra.jpg",
-        "website": null,
+        "website": "https://en.wikipedia.org/wiki/Assam",
         "year_constructed": 1730,
         "festivals_and_events": [
           "Bihu",
@@ -447,7 +447,7 @@
         "name": "Thengal Bhawan",
         "main_deity": "Goddess Durga",
         "image_url": "https://example.com/thengal_bhawan.jpg",
-        "website": null,
+        "website": "https://en.wikipedia.org/wiki/Jorhat%20district",
         "year_constructed": 1880,
         "festivals_and_events": [
           "Durga Puja",

@@ -5,7 +5,7 @@
         "name": "Kapaleeshwarar Temple",
         "main_deity": "Shiva",
         "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Kapaleeswarar_temple%2C_Chennai%2C_South_India.jpg",
-        "website": "http://kapaleeswarartemple.com/",
+        "website": "https://en.wikipedia.org/wiki/Kapaleeshwarar%20Temple",
         "year_constructed": 700,
         "festivals_and_events": [
           "Panguni Peruvizha",
@@ -16,7 +16,7 @@
         "name": "Parthasarathy Temple",
         "main_deity": "Krishna",
         "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Parthasarathy_temple.jpg",
-        "website": "http://parthasarathytemple.tnhrce.in/",
+        "website": "https://en.wikipedia.org/wiki/Parthasarathy%20Temple%2C%20Chennai",
         "year_constructed": 800,
         "festivals_and_events": [
           "Vaikunta Ekadasi",
@@ -27,7 +27,7 @@
         "name": "Vadapalani Murugan Temple",
         "main_deity": "Murugan",
         "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Vadapalani_Murugan_Temple.jpg",
-        "website": null,
+        "website": "https://en.wikipedia.org/wiki/Kundrathur%20Murugan%20Temple",
         "year_constructed": 1890,
         "festivals_and_events": [
           "Thai Poosam",
@@ -38,7 +38,7 @@
         "name": "Marundeeswarar Temple",
         "main_deity": "Shiva",
         "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Marundeeswarar_Temple.jpg",
-        "website": "http://marundeeswarartemple.tnhrce.in/",
+        "website": "https://en.wikipedia.org/wiki/Marundeeswarar%20Temple",
         "year_constructed": 1150,
         "festivals_and_events": [
           "Shiva Rathri",
@@ -49,7 +49,7 @@
         "name": "Ashtalakshmi Temple",
         "main_deity": "Lakshmi",
         "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Ashtalakshmi_temple.jpg",
-        "website": "http://ashtalakshmitemple.tnhrce.in/",
+        "website": "https://en.wikipedia.org/wiki/Ashtalakshmi%20Temple%2C%20Chennai",
         "year_constructed": 1976,
         "festivals_and_events": [
           "Navaratri",
@@ -62,7 +62,7 @@
         "name": "Marudamalai Temple",
         "main_deity": "Lord Murugan",
         "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Marudhamalai_Temple.jpg",
-        "website": "http://marudhamalaimurugantemple.tnhrce.in/",
+        "website": "https://en.wikipedia.org/wiki/List%20of%20Hindu%20temples%20in%20Tamil%20Nadu",
         "year_constructed": 1200,
         "festivals_and_events": [
           "Thaipusam",
@@ -73,7 +73,7 @@
         "name": "Eachanari Vinayagar Temple",
         "main_deity": "Lord Ganesha",
         "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Eachanari_Vinayagar_Temple.jpg",
-        "website": "http://eachanarivinayagar.tnhrce.in/",
+        "website": "https://en.wikipedia.org/wiki/List%20of%20Hindu%20temples%20in%20Tamil%20Nadu",
         "year_constructed": 1500,
         "festivals_and_events": [
           "Vinayaka Chaturthi",
@@ -84,7 +84,7 @@
         "name": "Perur Pateeswarar Temple",
         "main_deity": "Lord Shiva",
         "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Perur_Pateeswarar_Temple.jpg",
-        "website": "http://perurpatteeswarartemple.tnhrce.in/",
+        "website": "https://en.wikipedia.org/wiki/Perur%20Pateeswarar%20Temple%2C%20Coimbatore",
         "year_constructed": 600,
         "festivals_and_events": [
           "Aadi Perukku",
@@ -95,7 +95,7 @@
         "name": "Dhyanalinga",
         "main_deity": "No specific deity",
         "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Dhyanalinga.jpg",
-        "website": "https://isha.sadhguru.org/dhyanalinga/",
+        "website": "https://en.wikipedia.org/wiki/Coimbatore%20district",
         "year_constructed": 1999,
         "festivals_and_events": [
           "Maha Shivaratri",
@@ -106,7 +106,7 @@
         "name": "Arulmigu Koniamman Temple",
         "main_deity": "Goddess Koniamman",
         "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Koniamman_Temple.jpg",
-        "website": null,
+        "website": "https://en.wikipedia.org/wiki/Arulmigu%20Koniamman%20Temple",
         "year_constructed": 1200,
         "festivals_and_events": [
           "Pongal",
@@ -119,7 +119,7 @@
         "name": "Meenakshi Amman Temple",
         "main_deity": "Meenakshi (a form of Parvati) and Sundareshwarar (a form of Shiva)",
         "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Meenakshi_Amman_temple_panorama.jpg",
-        "website": "http://www.maduraimeenakshi.org",
+        "website": "https://en.wikipedia.org/wiki/Meenakshi%20Temple",
         "year_constructed": 1623,
         "festivals_and_events": [
           "Meenakshi Thirukalyanam",
@@ -130,7 +130,7 @@
         "name": "Koodal Azhagar Temple",
         "main_deity": "Vishnu (as Koodal Azhagar)",
         "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Koodal_Azhagar_Temple_Tower.jpg",
-        "website": null,
+        "website": "https://en.wikipedia.org/wiki/Koodal%20Azhagar%20Temple",
         "year_constructed": 1310,
         "festivals_and_events": [
           "Vaikunta Ekadasi",
@@ -141,7 +141,7 @@
         "name": "Thirupparamkunram Murugan Temple",
         "main_deity": "Murugan",
         "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Thirupparamkunram_Murugan_Temple.jpg",
-        "website": null,
+        "website": "https://en.wikipedia.org/wiki/Subramaniya%20Swamy%20Temple%2C%20Thiruparankundram",
         "year_constructed": 6,
         "festivals_and_events": [
           "Skanda Sashti",
@@ -152,7 +152,7 @@
         "name": "Alagar Koyil",
         "main_deity": "Vishnu (as Sundararaja Perumal)",
         "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Alagar_Koyil.jpg",
-        "website": null,
+        "website": "https://en.wikipedia.org/wiki/Madurai%20district",
         "year_constructed": 7,
         "festivals_and_events": [
           "Chithirai Festival",
@@ -163,7 +163,7 @@
         "name": "Pazhamudircholai Murugan Temple",
         "main_deity": "Murugan",
         "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Pazhamudircholai_Murugan_Temple.jpg",
-        "website": null,
+        "website": "https://en.wikipedia.org/wiki/Murugan%20Temple%2C%20Pazhamudircholai",
         "year_constructed": 8,
         "festivals_and_events": [
           "Kanda Sashti",
@@ -176,7 +176,7 @@
         "name": "Kottai Mariamman Temple",
         "main_deity": "Mariamman",
         "image_url": "https://example.com/kottai_mariamman.jpg",
-        "website": null,
+        "website": "https://en.wikipedia.org/wiki/List%20of%20Hindu%20temples%20in%20Tamil%20Nadu",
         "year_constructed": 1689,
         "festivals_and_events": [
           "Aadi Festival",
