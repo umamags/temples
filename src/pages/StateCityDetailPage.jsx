@@ -1,7 +1,9 @@
 import { Link, useParams, useNavigate } from 'react-router-dom'
 import { statesAndCities } from '../data/statesData'
-import { deslugify } from '../utils/slug'
+import { citiesWithTempleData } from '../data/citiesWithTempleData'
+import { deslugify, slugify } from '../utils/slug'
 import { useTemples } from '../data/useTemples'
+import TempleTable from '../components/TempleTable'
 import IndiaMap from '../components/IndiaMap'
 
 export default function StateCityDetailPage() {
@@ -11,11 +13,20 @@ export default function StateCityDetailPage() {
   const displayStateName = deslugify(stateName)
   const displayCityName = deslugify(cityName)
 
+  // Find state from statesData
   const stateData = statesAndCities.find((s) => s.state === displayStateName)
-  const city = stateData?.cities.find((c) => c.name === displayCityName)
+
+  // Find city from citiesWithTempleData (the source of truth)
+  const cityWithTempleData = citiesWithTempleData.find(
+    (c) => c.state === displayStateName && c.city === displayCityName
+  )
+
+  // Also check if city is in stateData for backward compatibility
+  const cityInState = stateData?.cities.find((c) => c.name === displayCityName)
+
   const { temples, status: templesStatus } = useTemples(displayStateName, displayCityName)
 
-  if (!stateData || !city) {
+  if (!stateData || (!cityWithTempleData && !cityInState)) {
     return (
       <div className="page">
         <p className="status status-error">State or city not found.</p>
@@ -24,11 +35,21 @@ export default function StateCityDetailPage() {
     )
   }
 
+  // Use city data from whichever source has it
+  const city = cityWithTempleData || cityInState
+
   const handleCityClick = (state, clickedCity) => {
     if (state === displayStateName && clickedCity === displayCityName) {
       return // Already on this page
     }
-    navigate(`/state/${state.replace(/\s+/g, '-').toLowerCase()}/city/${clickedCity.replace(/\s+/g, '-').toLowerCase()}`)
+    navigate(`/state/${slugify(state)}/city/${slugify(clickedCity)}`)
+  }
+
+  const handleStateClick = (state) => {
+    if (state === displayStateName) {
+      return // Already on this state's page
+    }
+    navigate(`/state/${slugify(state)}`)
   }
 
   return (
@@ -47,7 +68,7 @@ export default function StateCityDetailPage() {
       </div>
 
       <div className="map-container">
-        <IndiaMap onCityClick={handleCityClick} height={400} />
+        <IndiaMap onCityClick={handleCityClick} onStateClick={handleStateClick} height={400} />
       </div>
 
       <section className="detail-section">
@@ -107,45 +128,14 @@ export default function StateCityDetailPage() {
       </section>
 
       <section className="detail-section">
-        <h2>Temples and Sacred Sites</h2>
         {templesStatus === 'loading' && <p style={{ color: '#666' }}>Loading temples...</p>}
         {templesStatus === 'error' && <p style={{ color: '#e74c3c' }}>Unable to load temples data</p>}
         {templesStatus === 'ready' && temples.length > 0 ? (
-          <div className="temples-grid">
-            {temples.map((temple, idx) => (
-              <div key={idx} className="temple-card">
-                <h3>{temple.name}</h3>
-                {temple.image_url && (
-                  <img src={temple.image_url} alt={temple.name} style={{ width: '100%' }} />
-                )}
-                <p>
-                  <strong>Main Deity:</strong> {temple.main_deity}
-                </p>
-                {temple.year_constructed && (
-                  <p>
-                    <strong>Year Constructed:</strong> {temple.year_constructed}
-                  </p>
-                )}
-                {temple.website && (
-                  <p>
-                    <a href={temple.website} target="_blank" rel="noopener noreferrer" className="temple-website">
-                      Visit Website →
-                    </a>
-                  </p>
-                )}
-                {temple.festivals_and_events && temple.festivals_and_events.length > 0 && (
-                  <div>
-                    <strong>Festivals & Events:</strong>
-                    <ul style={{ marginLeft: '1.5rem', marginTop: '0.5rem', color: '#666' }}>
-                      {temple.festivals_and_events.map((festival, i) => (
-                        <li key={i}>{festival}</li>
-                      ))}
-                    </ul>
-                  </div>
-                )}
-              </div>
-            ))}
-          </div>
+          <TempleTable
+            temples={temples}
+            title={`Temples and Sacred Sites in ${displayCityName}`}
+            showStateCity={false}
+          />
         ) : templesStatus === 'ready' ? (
           <p style={{ color: '#999' }}>No temples data available for {displayCityName} yet.</p>
         ) : null}

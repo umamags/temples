@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# -*- coding: utf-8 -*-
 """
 Fetch temple details from OpenAI for Indian cities.
 Stores results in data/temples/<state>.json
@@ -32,7 +33,7 @@ logging.basicConfig(
     format='%(asctime)s - %(levelname)s - %(message)s',
     handlers=[
         logging.StreamHandler(),
-        logging.FileHandler('temples_fetch.log')
+        logging.FileHandler('temples_fetch.log', encoding='utf-8')
     ]
 )
 logger = logging.getLogger(__name__)
@@ -139,6 +140,7 @@ Important:
             )
 
             response_text = response.choices[0].message.content.strip()
+            logger.debug(f"Raw response length: {len(response_text)}")
 
             # Remove markdown code fences if present
             if response_text.startswith('```'):
@@ -148,8 +150,8 @@ Important:
                     response_text = response_text[4:]  # Remove 'json' prefix
                 response_text = response_text.strip()
 
-            # Try to parse JSON
-            temples_data = json.loads(response_text)
+            # Try to parse JSON - ensure proper encoding
+            temples_data = json.loads(response_text, strict=False)
             logger.info(f"✓ Successfully fetched {len(temples_data.get('temples', []))} temples for {city}, {state}")
 
             return temples_data
@@ -158,7 +160,8 @@ Important:
             logger.error(f"Failed to parse JSON response for {city}, {state}: {e}")
             logger.debug(f"Response was: {response_text[:200]}")
         except Exception as e:
-            logger.error(f"API error for {city}, {state}: {e}")
+            error_msg = str(e).encode('utf-8', errors='replace').decode('utf-8')
+            logger.error(f"API error for {city}, {state}: {error_msg}")
 
         if attempt < max_retries:
             logger.info(f"Retrying in {RETRY_DELAY} seconds...")
@@ -205,7 +208,7 @@ def process_state(state: str, cities: List[str], skip_existing: bool = True, pil
     Args:
         state: State name
         cities: List of city names
-        skip_existing: Skip if data already exists
+        skip_existing: Skip cities with existing data
         pilot_mode: Only process first city
 
     Returns:
@@ -214,10 +217,6 @@ def process_state(state: str, cities: List[str], skip_existing: bool = True, pil
     logger.info(f"\n{'='*60}")
     logger.info(f"Processing state: {state}")
     logger.info(f"{'='*60}")
-
-    if skip_existing and temples_file_exists(state):
-        logger.info(f"⊘ Temples data already exists for {state}, skipping...")
-        return True
 
     # Load existing data if available
     state_data = load_existing_temples(state)
@@ -228,7 +227,20 @@ def process_state(state: str, cities: List[str], skip_existing: bool = True, pil
     state_data["last_updated"] = datetime.now().isoformat()
 
     # Determine cities to process
-    cities_to_process = [cities[0]] if pilot_mode else cities
+    all_cities_to_process = [cities[0]] if pilot_mode else cities
+
+    # Filter out cities with existing data if skip_existing is True
+    if skip_existing:
+        cities_to_process = [city for city in all_cities_to_process if city not in state_data["cities"]]
+        skipped = len(all_cities_to_process) - len(cities_to_process)
+        if skipped > 0:
+            logger.info(f"Skipping {skipped} city(cities) with existing data")
+    else:
+        cities_to_process = all_cities_to_process
+
+    if not cities_to_process:
+        logger.info(f"⊘ All cities in {state} already have temple data")
+        return True
 
     logger.info(f"Processing {len(cities_to_process)} city(cities)")
 
@@ -318,6 +330,12 @@ def run_full(states: Dict[str, str], cities: Dict[str, List[str]], target_state:
 
 
 def main():
+    # Ensure UTF-8 encoding for stdout
+    import sys
+    if sys.stdout.encoding != 'utf-8':
+        import io
+        sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
+
     parser = argparse.ArgumentParser(description="Fetch temple details from OpenAI for Indian cities")
     parser.add_argument('--pilot', action='store_true', help='Run pilot mode (first city of 5 states)')
     parser.add_argument('--state', type=str, help='Run for specific state only')

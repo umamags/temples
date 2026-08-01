@@ -1,50 +1,34 @@
 import { useMemo } from 'react'
 import { geoMercator, geoPath } from 'd3-geo'
 import { useIndiaAtlas } from '../data/useIndiaAtlas'
-import { statesAndCities } from '../data/statesData'
+import { citiesWithTempleData } from '../data/citiesWithTempleData'
 
 const WIDTH = 600
 const PADDING = 16
-const PIN_PADDING = 40
 
-export default function IndiaMap({ onCityClick, height = 400 }) {
-  const { status, featureCollection, colorByName, statesWithTemples } = useIndiaAtlas()
+export default function IndiaMap({ onCityClick, onStateClick, height = 400 }) {
+  const { status, featureCollection, colorByName } = useIndiaAtlas()
 
-  const { path, projection, citiesWithTemples } = useMemo(() => {
-    if (!featureCollection) return { path: null, projection: null, citiesWithTemples: [] }
+  const { path, projection } = useMemo(() => {
+    if (!featureCollection) return { path: null, projection: null }
 
-    // Create pins collection only from cities that have temple data
-    const pins = []
-    const cities = []
-
-    statesAndCities.forEach((state) => {
-      // Only include cities from states that have temple data
-      if (statesWithTemples.has(state.state)) {
-        state.cities.forEach((city) => {
-          pins.push({ type: 'Feature', geometry: { type: 'Point', coordinates: [city.lon, city.lat] } })
-          cities.push({
-            ...city,
-            state: state.state,
-          })
-        })
-      }
-    })
-
-    const pinCollection = {
-      type: 'FeatureCollection',
-      features: pins,
-    }
-
+    // Fit projection to all states (full India map)
     const projection = geoMercator().fitExtent(
       [
-        [PIN_PADDING, PIN_PADDING],
-        [WIDTH - PIN_PADDING, height - PIN_PADDING],
+        [PADDING, PADDING],
+        [WIDTH - PADDING, height - PADDING],
       ],
-      pinCollection
+      featureCollection
     )
 
-    return { path: geoPath(projection), projection, citiesWithTemples: cities }
-  }, [featureCollection, height, statesWithTemples])
+    return { path: geoPath(projection), projection }
+  }, [featureCollection, height])
+
+  const handleStateClick = (stateName) => {
+    if (onStateClick) {
+      onStateClick(stateName)
+    }
+  }
 
   if (status === 'loading') return <p className="map-status">Loading map…</p>
   if (status === 'error') return <p className="map-status">Map not available.</p>
@@ -59,42 +43,50 @@ export default function IndiaMap({ onCityClick, height = 400 }) {
     >
       <defs>
         <style>{`
-          .state-path { stroke: #333; stroke-width: 0.8; cursor: default; }
+          .state-path { stroke: #333; stroke-width: 0.8; cursor: pointer; transition: opacity 0.2s ease; }
+          .state-path:hover { opacity: 0.9 !important; }
           .city-dot { cursor: pointer; transition: r 0.2s ease, fill 0.2s ease; }
           .city-dot:hover { r: 4; filter: drop-shadow(0 0 3px rgba(0,0,0,0.3)); }
         `}</style>
       </defs>
 
-      {/* Render colored states */}
+      {/* Render all states (colored if they have temple data, light gray otherwise) */}
       {featureCollection.features.map((feature) => {
         const stateName = feature.properties?.name
-        const color = colorByName?.get(stateName) || '#e8f4f8'
+        const hasTempleData = colorByName?.has(stateName)
+        const color = hasTempleData ? colorByName.get(stateName) : '#e8e8e8'
+        const opacity = hasTempleData ? 0.85 : 0.6
+
         return (
-          <path
+          <g
             key={stateName}
-            d={path(feature)}
-            className="state-path"
-            fill={color}
-            stroke="#333"
-            strokeWidth="0.8"
-            opacity="0.85"
+            onClick={() => handleStateClick(stateName)}
+            style={{ cursor: 'pointer' }}
           >
+            <path
+              d={path(feature)}
+              className="state-path"
+              fill={color}
+              stroke="#999"
+              strokeWidth="0.5"
+              opacity={opacity}
+            />
             <title>{stateName}</title>
-          </path>
+          </g>
         )
       })}
 
       {/* Render city points as small dots with tooltips (only cities with temple data) */}
       {projection &&
-        citiesWithTemples.map((city) => {
+        citiesWithTempleData.map((city) => {
           const [x, y] = projection([city.lon, city.lat])
           return (
             <g
-              key={`${city.state}-${city.name}`}
-              onClick={() => onCityClick && onCityClick(city.state, city.name)}
+              key={`${city.state}-${city.city}`}
+              onClick={() => onCityClick && onCityClick(city.state, city.city)}
             >
               <circle cx={x} cy={y} r={2.5} fill="#1a1a1a" className="city-dot" />
-              <title>{city.name}</title>
+              <title>{city.city}</title>
             </g>
           )
         })}

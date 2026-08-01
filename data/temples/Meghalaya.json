@@ -1,0 +1,350 @@
+{
+  "cities": {
+    "Shillong": [
+      {
+        "name": "Nartiang Durga Temple",
+        "main_deity": "Goddess Durga",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Nartiang_Durga_Temple.jpg",
+        "website": null,
+        "year_constructed": 1450,
+        "festivals_and_events": [
+          "Durga Puja"
+        ]
+      },
+      {
+        "name": "Shillong Kali Mandir",
+        "main_deity": "Goddess Kali",
+        "image_url": "https://example.com/shillong_kali_mandir.jpg",
+        "website": null,
+        "year_constructed": 1979,
+        "festivals_and_events": [
+          "Kali Puja"
+        ]
+      },
+      {
+        "name": "Shiva Mandir Shillong",
+        "main_deity": "Lord Shiva",
+        "image_url": "https://example.com/shiva_mandir_shillong.jpg",
+        "website": null,
+        "year_constructed": 1980,
+        "festivals_and_events": [
+          "Maha Shivaratri"
+        ]
+      },
+      {
+        "name": "Ram Krishna Mission Ashrama",
+        "main_deity": "Ramakrishna",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Ramakrishna_Mission_Shillong.jpg",
+        "website": "http://www.rkmissionashramsillong.org/",
+        "year_constructed": 1924,
+        "festivals_and_events": [
+          "Ramakrishna Jayanti",
+          "Durga Puja"
+        ]
+      },
+      {
+        "name": "Hanuman Temple, Shillong",
+        "main_deity": "Lord Hanuman",
+        "image_url": "https://example.com/hanuman_temple_shillong.jpg",
+        "website": null,
+        "year_constructed": 1995,
+        "festivals_and_events": [
+          "Hanuman Jayanti"
+        ]
+      }
+    ],
+    "Tura": [
+      {
+        "name": "Nageshwar Temple",
+        "main_deity": "Shiva",
+        "image_url": "https://example.com/nageshwar.jpg",
+        "website": null,
+        "year_constructed": 1905,
+        "festivals_and_events": [
+          "Maha Shivaratri"
+        ]
+      },
+      {
+        "name": "Bhairabi Temple",
+        "main_deity": "Durga",
+        "image_url": "https://example.com/bhairabi.jpg",
+        "website": null,
+        "year_constructed": 1890,
+        "festivals_and_events": [
+          "Durga Puja",
+          "Navratri"
+        ]
+      },
+      {
+        "name": "Ganesh Mandir",
+        "main_deity": "Ganesha",
+        "image_url": "https://example.com/ganesh.jpg",
+        "website": null,
+        "year_constructed": 1920,
+        "festivals_and_events": [
+          "Ganesh Chaturthi"
+        ]
+      },
+      {
+        "name": "Kali Temple",
+        "main_deity": "Kali",
+        "image_url": "https://example.com/kali.jpg",
+        "website": null,
+        "year_constructed": 1935,
+        "festivals_and_events": [
+          "Kali Puja",
+          "Diwali"
+        ]
+      },
+      {
+        "name": "Hanuman Temple",
+        "main_deity": "Hanuman",
+        "image_url": "https://example.com/hanuman.jpg",
+        "website": null,
+        "year_constructed": 1950,
+        "festivals_and_events": [
+          "Hanuman Jayanti"
+        ]
+      }
+    ],
+    "Jowai": [
+      {
+        "name": "Nartiang Durga Temple",
+        "main_deity": "Goddess Durga",
+        "image_url": "https://example.com/nartiang_durga_temple.jpg",
+        "website": null,
+        "year_constructed": 1450,
+        "festivals_and_events": [
+          "Durga Puja",
+          "Navaratri"
+        ]
+      },
+      {
+        "name": "Shiva Temple Nartiang",
+        "main_deity": "Lord Shiva",
+        "image_url": "https://example.com/shiva_temple_nartiang.jpg",
+        "website": null,
+        "year_constructed": 1440,
+        "festivals_and_events": [
+          "Maha Shivaratri"
+        ]
+      }
+    ],
+    "Nongstoin": [
+      {
+        "name": "Nongkhlaw Presbyterian Church",
+        "main_deity": "Christian",
+        "image_url": "https://example.com/nongkhlaw_presbyterian_church.jpg",
+        "website": null,
+        "year_constructed": 1876,
+        "festivals_and_events": [
+          "Christmas",
+          "Easter"
+        ]
+      },
+      {
+        "name": "Nongstoin Catholic Church",
+        "main_deity": "Christian",
+        "image_url": "https://example.com/nongstoin_catholic_church.jpg",
+        "website": null,
+        "year_constructed": 1963,
+        "festivals_and_events": [
+          "Christmas",
+          "Good Friday"
+        ]
+      },
+      {
+        "name": "Langja Presbyterian Church",
+        "main_deity": "Christian",
+        "image_url": "https://example.com/langja_presbyterian_church.jpg",
+        "website": null,
+        "year_constructed": 1902,
+        "festivals_and_events": [
+          "Christmas",
+          "Easter"
+        ]
+      },
+      {
+        "name": "St. Peter's Catholic Church",
+        "main_deity": "Christian",
+        "image_url": "https://example.com/st_peters_catholic_church.jpg",
+        "website": null,
+        "year_constructed": 1985,
+        "festivals_and_events": [
+          "Christmas",
+          "Good Friday"
+        ]
+      },
+      {
+        "name": "Nongpyndeng Presbyterian Church",
+        "main_deity": "Christian",
+        "image_url": "https://example.com/nongpyndeng_presbyterian_church.jpg",
+        "website": null,
+        "year_constructed": 1930,
+        "festivals_and_events": [
+          "Christmas",
+          "Easter"
+        ]
+      }
+    ],
+    "Baghmara": [
+      {
+        "name": "Siju Temple",
+        "main_deity": "Shiva",
+        "image_url": "https://example.com/siju_temple.jpg",
+        "website": null,
+        "year_constructed": 1850,
+        "festivals_and_events": [
+          "Maha Shivaratri"
+        ]
+      },
+      {
+        "name": "Nengkong Temple",
+        "main_deity": "Durga",
+        "image_url": "https://example.com/nengkong_temple.jpg",
+        "website": null,
+        "year_constructed": 1900,
+        "festivals_and_events": [
+          "Durga Puja"
+        ]
+      },
+      {
+        "name": "Chitmang Valley Temple",
+        "main_deity": "Vishnu",
+        "image_url": "https://example.com/chitmang_valley_temple.jpg",
+        "website": null,
+        "year_constructed": 1920,
+        "festivals_and_events": [
+          "Janmashtami"
+        ]
+      },
+      {
+        "name": "Dombe Temple",
+        "main_deity": "Kali",
+        "image_url": "https://example.com/dombe_temple.jpg",
+        "website": null,
+        "year_constructed": 1950,
+        "festivals_and_events": [
+          "Kali Puja"
+        ]
+      },
+      {
+        "name": "Baghmara Shiva Temple",
+        "main_deity": "Shiva",
+        "image_url": "https://example.com/baghmara_shiva_temple.jpg",
+        "website": null,
+        "year_constructed": 1800,
+        "festivals_and_events": [
+          "Maha Shivaratri",
+          "Nag Panchami"
+        ]
+      }
+    ],
+    "Williamnagar": [
+      {
+        "name": "Nokrek National Park Temple",
+        "main_deity": "Nature Worship",
+        "image_url": "https://example.com/nokrek_temple.jpg",
+        "website": null,
+        "year_constructed": 1996,
+        "festivals_and_events": [
+          "Annual Nokrek Festival"
+        ]
+      },
+      {
+        "name": "Williamnagar Shiva Temple",
+        "main_deity": "Lord Shiva",
+        "image_url": "https://example.com/shiva_temple.jpg",
+        "website": null,
+        "year_constructed": 2005,
+        "festivals_and_events": [
+          "Maha Shivaratri"
+        ]
+      },
+      {
+        "name": "Durga Mandir",
+        "main_deity": "Goddess Durga",
+        "image_url": "https://example.com/durga_mandir.jpg",
+        "website": null,
+        "year_constructed": 2010,
+        "festivals_and_events": [
+          "Durga Puja"
+        ]
+      },
+      {
+        "name": "Ganesha Temple",
+        "main_deity": "Ganesha",
+        "image_url": "https://example.com/ganesha_temple.jpg",
+        "website": null,
+        "year_constructed": 2008,
+        "festivals_and_events": [
+          "Ganesh Chaturthi"
+        ]
+      },
+      {
+        "name": "Kali Mandir",
+        "main_deity": "Goddess Kali",
+        "image_url": "https://example.com/kali_mandir.jpg",
+        "website": null,
+        "year_constructed": 2000,
+        "festivals_and_events": [
+          "Kali Puja"
+        ]
+      }
+    ],
+    "Mairang": [
+      {
+        "name": "Nartiang Durga Temple",
+        "main_deity": "Goddess Durga",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Nartiang_Durga_Temple.jpg",
+        "website": null,
+        "year_constructed": 1350,
+        "festivals_and_events": [
+          "Durga Puja"
+        ]
+      },
+      {
+        "name": "Nongkrem Dance Festival Temple",
+        "main_deity": "U Blei Nongkrem",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Nongkrem_Dance_Festival.jpg",
+        "website": null,
+        "year_constructed": 1500,
+        "festivals_and_events": [
+          "Nongkrem Dance Festival"
+        ]
+      },
+      {
+        "name": "Lum Sohpetbneng",
+        "main_deity": "Sohpetbneng",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Sohpetbneng_Hill.jpg",
+        "website": null,
+        "year_constructed": 1600,
+        "festivals_and_events": [
+          "Sohpetbneng Festival"
+        ]
+      },
+      {
+        "name": "Mahadev Khola Dham",
+        "main_deity": "Lord Shiva",
+        "image_url": "https://example.com/mahadev_khola_dham.jpg",
+        "website": null,
+        "year_constructed": 1700,
+        "festivals_and_events": [
+          "Maha Shivaratri"
+        ]
+      },
+      {
+        "name": "Shri Govindajee Temple",
+        "main_deity": "Lord Krishna",
+        "image_url": "https://example.com/shri_govindajee_temple.jpg",
+        "website": null,
+        "year_constructed": 1800,
+        "festivals_and_events": [
+          "Krishna Janmashtami"
+        ]
+      }
+    ]
+  },
+  "state": "Meghalaya",
+  "last_updated": "2026-08-01T13:42:45.438864"
+}

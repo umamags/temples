@@ -1,0 +1,343 @@
+{
+  "cities": {
+    "Gangtok": [
+      {
+        "name": "Enchey Monastery",
+        "main_deity": "Guru Padmasambhava",
+        "image_url": "https://example.com/enchey_monastery.jpg",
+        "website": null,
+        "year_constructed": 1909,
+        "festivals_and_events": [
+          "Chaam Dance Festival",
+          "Losar"
+        ]
+      },
+      {
+        "name": "Ganesh Tok",
+        "main_deity": "Lord Ganesha",
+        "image_url": "https://example.com/ganesh_tok.jpg",
+        "website": null,
+        "year_constructed": 1952,
+        "festivals_and_events": [
+          "Ganesh Chaturthi"
+        ]
+      },
+      {
+        "name": "Hanuman Tok",
+        "main_deity": "Lord Hanuman",
+        "image_url": "https://example.com/hanuman_tok.jpg",
+        "website": null,
+        "year_constructed": 1952,
+        "festivals_and_events": [
+          "Hanuman Jayanti"
+        ]
+      },
+      {
+        "name": "Ranka Monastery",
+        "main_deity": "Buddha",
+        "image_url": "https://example.com/ranka_monastery.jpg",
+        "website": null,
+        "year_constructed": 1998,
+        "festivals_and_events": [
+          "Buddha Purnima",
+          "Losar"
+        ]
+      },
+      {
+        "name": "Do Drul Chorten",
+        "main_deity": "Buddha",
+        "image_url": "https://example.com/do_drul_chorten.jpg",
+        "website": null,
+        "year_constructed": 1945,
+        "festivals_and_events": [
+          "Saga Dawa",
+          "Lhabab Duchen"
+        ]
+      }
+    ],
+    "Namchi": [
+      {
+        "name": "Namchi Char Dham",
+        "main_deity": "Lord Shiva",
+        "image_url": "https://example.com/namchi_char_dham.jpg",
+        "website": "http://sikkimstdc.com/CharDham.aspx",
+        "year_constructed": 2011,
+        "festivals_and_events": [
+          "Maha Shivaratri",
+          "Teej"
+        ]
+      },
+      {
+        "name": "Sai Mandir",
+        "main_deity": "Sai Baba",
+        "image_url": "https://example.com/sai_mandir.jpg",
+        "website": null,
+        "year_constructed": 2010,
+        "festivals_and_events": [
+          "Sai Baba Punyatithi",
+          "Rama Navami"
+        ]
+      },
+      {
+        "name": "Ralang Monastery",
+        "main_deity": "Buddha",
+        "image_url": "https://example.com/ralang_monastery.jpg",
+        "website": null,
+        "year_constructed": 1995,
+        "festivals_and_events": [
+          "Pang Lhabsol",
+          "Losoong"
+        ]
+      },
+      {
+        "name": "Samdruptse Monastery",
+        "main_deity": "Guru Padmasambhava",
+        "image_url": "https://example.com/samdruptse_monastery.jpg",
+        "website": null,
+        "year_constructed": 2003,
+        "festivals_and_events": [
+          "Guru Rinpoche's Birthday",
+          "Losar"
+        ]
+      },
+      {
+        "name": "Shirdi Sai Baba Mandir",
+        "main_deity": "Sai Baba",
+        "image_url": "https://example.com/shirdi_sai_baba_mandir.jpg",
+        "website": null,
+        "year_constructed": 2010,
+        "festivals_and_events": [
+          "Guru Purnima",
+          "Diwali"
+        ]
+      }
+    ],
+    "Geyzing": [
+      {
+        "name": "Pemayangtse Monastery",
+        "main_deity": "Padmasambhava",
+        "image_url": "https://example.com/pemayangtse.jpg",
+        "website": null,
+        "year_constructed": 1705,
+        "festivals_and_events": [
+          "Losar",
+          "Saga Dawa"
+        ]
+      },
+      {
+        "name": "Sanga Choeling Monastery",
+        "main_deity": "Padmasambhava",
+        "image_url": "https://example.com/sangachoeling.jpg",
+        "website": null,
+        "year_constructed": 1697,
+        "festivals_and_events": [
+          "Lhabab Duchen",
+          "Buddha Purnima"
+        ]
+      },
+      {
+        "name": "Dubdi Monastery",
+        "main_deity": "Guru Rinpoche",
+        "image_url": "https://example.com/dubdi.jpg",
+        "website": null,
+        "year_constructed": 1701,
+        "festivals_and_events": [
+          "Bumchu",
+          "Losoong"
+        ]
+      },
+      {
+        "name": "Tashiding Monastery",
+        "main_deity": "Avalokiteshvara",
+        "image_url": "https://example.com/tashiding.jpg",
+        "website": null,
+        "year_constructed": 1717,
+        "festivals_and_events": [
+          "Bumchu",
+          "Saga Dawa"
+        ]
+      },
+      {
+        "name": "Rabdengtse Ruins",
+        "main_deity": "Buddhist Historical Site",
+        "image_url": "https://example.com/rabdengtse.jpg",
+        "website": null,
+        "year_constructed": 1670,
+        "festivals_and_events": [
+          "Historical Tours"
+        ]
+      }
+    ],
+    "Mangan": [
+      {
+        "name": "Labrang Monastery",
+        "main_deity": "Buddha",
+        "image_url": "https://example.com/labrang-monastery.jpg",
+        "website": null,
+        "year_constructed": 1843,
+        "festivals_and_events": [
+          "Losar",
+          "Lhabab Düchen"
+        ]
+      },
+      {
+        "name": "Phodong Monastery",
+        "main_deity": "Buddha",
+        "image_url": "https://example.com/phodong-monastery.jpg",
+        "website": null,
+        "year_constructed": 1740,
+        "festivals_and_events": [
+          "Chaam Dance Festival"
+        ]
+      },
+      {
+        "name": "Ralang Monastery",
+        "main_deity": "Buddha",
+        "image_url": "https://example.com/ralang-monastery.jpg",
+        "website": null,
+        "year_constructed": 1730,
+        "festivals_and_events": [
+          "Pang Lhabsol",
+          "Kagyed Dance"
+        ]
+      },
+      {
+        "name": "Tashiding Monastery",
+        "main_deity": "Buddha",
+        "image_url": "https://example.com/tashiding-monastery.jpg",
+        "website": null,
+        "year_constructed": 1717,
+        "festivals_and_events": [
+          "Bumchu Festival"
+        ]
+      },
+      {
+        "name": "Enchey Monastery",
+        "main_deity": "Buddha",
+        "image_url": "https://example.com/enchey-monastery.jpg",
+        "website": null,
+        "year_constructed": 1909,
+        "festivals_and_events": [
+          "Chaam Dance",
+          "Detor Cham"
+        ]
+      }
+    ],
+    "Soreng": [
+      {
+        "name": "Kirateshwar Mahadev Temple",
+        "main_deity": "Lord Shiva",
+        "image_url": "https://example.com/kirateshwar.jpg",
+        "website": null,
+        "year_constructed": 1800,
+        "festivals_and_events": [
+          "Mahashivaratri",
+          "Teej"
+        ]
+      },
+      {
+        "name": "Siddheshwar Dham",
+        "main_deity": "Lord Shiva",
+        "image_url": "https://example.com/siddheshwar.jpg",
+        "website": null,
+        "year_constructed": 2011,
+        "festivals_and_events": [
+          "Mahashivaratri",
+          "Ganga Dussehra"
+        ]
+      },
+      {
+        "name": "Sai Mandir",
+        "main_deity": "Sai Baba",
+        "image_url": "https://example.com/saimandir.jpg",
+        "website": null,
+        "year_constructed": 2000,
+        "festivals_and_events": [
+          "Guru Purnima",
+          "Sai Baba Punyatithi"
+        ]
+      },
+      {
+        "name": "Ravangla Buddha Park",
+        "main_deity": "Gautama Buddha",
+        "image_url": "https://example.com/ravangla.jpg",
+        "website": null,
+        "year_constructed": 2013,
+        "festivals_and_events": [
+          "Buddha Purnima",
+          "Losar"
+        ]
+      },
+      {
+        "name": "Ganesh Tok",
+        "main_deity": "Lord Ganesha",
+        "image_url": "https://example.com/ganeshtok.jpg",
+        "website": null,
+        "year_constructed": 1952,
+        "festivals_and_events": [
+          "Ganesh Chaturthi",
+          "Sankashti Chaturthi"
+        ]
+      }
+    ],
+    "Tadong": [
+      {
+        "name": "Shirdi Sai Temple",
+        "main_deity": "Sai Baba",
+        "image_url": "https://example.com/shirdi_sai_temple.jpg",
+        "website": null,
+        "year_constructed": 1993,
+        "festivals_and_events": [
+          "Guru Purnima",
+          "Shirdi Sai Baba Jayanti"
+        ]
+      },
+      {
+        "name": "Hanuman Temple",
+        "main_deity": "Hanuman",
+        "image_url": "https://example.com/hanuman_temple.jpg",
+        "website": null,
+        "year_constructed": 2008,
+        "festivals_and_events": [
+          "Hanuman Jayanti",
+          "Rama Navami"
+        ]
+      },
+      {
+        "name": "Ganesh Tok",
+        "main_deity": "Ganesha",
+        "image_url": "https://example.com/ganesh_tok.jpg",
+        "website": null,
+        "year_constructed": 1972,
+        "festivals_and_events": [
+          "Ganesh Chaturthi",
+          "Sankashti Chaturthi"
+        ]
+      },
+      {
+        "name": "Kirateshwar Mahadev Temple",
+        "main_deity": "Shiva",
+        "image_url": "https://example.com/kirateshwar_mahadev_temple.jpg",
+        "website": null,
+        "year_constructed": 1800,
+        "festivals_and_events": [
+          "Mahashivaratri",
+          "Teej"
+        ]
+      },
+      {
+        "name": "Thakurbari Temple",
+        "main_deity": "Multiple Deities",
+        "image_url": "https://example.com/thakurbari_temple.jpg",
+        "website": null,
+        "year_constructed": 1935,
+        "festivals_and_events": [
+          "Durga Puja",
+          "Janmashtami"
+        ]
+      }
+    ]
+  },
+  "state": "Sikkim",
+  "last_updated": "2026-08-01T13:45:53.657463"
+}

@@ -1,6 +1,7 @@
 import { BrowserRouter, Route, Routes } from 'react-router-dom'
 import Layout from './components/Layout'
 import HomePage from './pages/HomePage'
+import StateDetailPage from './pages/StateDetailPage'
 import StateCityDetailPage from './pages/StateCityDetailPage'
 import './App.css'
 
@@ -10,6 +11,7 @@ export default function App() {
       <Routes>
         <Route path="/" element={<Layout />}>
           <Route index element={<HomePage />} />
+          <Route path="state/:stateName" element={<StateDetailPage />} />
           <Route path="state/:stateName/city/:cityName" element={<StateCityDetailPage />} />
         </Route>
       </Routes>

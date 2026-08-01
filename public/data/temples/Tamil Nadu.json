@@ -1,0 +1,576 @@
+{
+  "cities": {
+    "Chennai": [
+      {
+        "name": "Kapaleeshwarar Temple",
+        "main_deity": "Shiva",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Kapaleeswarar_temple%2C_Chennai%2C_South_India.jpg",
+        "website": "http://kapaleeswarartemple.com/",
+        "year_constructed": 700,
+        "festivals_and_events": [
+          "Panguni Peruvizha",
+          "Arubathimoovar Festival"
+        ]
+      },
+      {
+        "name": "Parthasarathy Temple",
+        "main_deity": "Krishna",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Parthasarathy_temple.jpg",
+        "website": "http://parthasarathytemple.tnhrce.in/",
+        "year_constructed": 800,
+        "festivals_and_events": [
+          "Vaikunta Ekadasi",
+          "Brahmotsavam"
+        ]
+      },
+      {
+        "name": "Vadapalani Murugan Temple",
+        "main_deity": "Murugan",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Vadapalani_Murugan_Temple.jpg",
+        "website": null,
+        "year_constructed": 1890,
+        "festivals_and_events": [
+          "Thai Poosam",
+          "Panguni Uthiram"
+        ]
+      },
+      {
+        "name": "Marundeeswarar Temple",
+        "main_deity": "Shiva",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Marundeeswarar_Temple.jpg",
+        "website": "http://marundeeswarartemple.tnhrce.in/",
+        "year_constructed": 1150,
+        "festivals_and_events": [
+          "Shiva Rathri",
+          "Thiruvathirai"
+        ]
+      },
+      {
+        "name": "Ashtalakshmi Temple",
+        "main_deity": "Lakshmi",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Ashtalakshmi_temple.jpg",
+        "website": "http://ashtalakshmitemple.tnhrce.in/",
+        "year_constructed": 1976,
+        "festivals_and_events": [
+          "Navaratri",
+          "Deepavali"
+        ]
+      }
+    ],
+    "Coimbatore": [
+      {
+        "name": "Marudamalai Temple",
+        "main_deity": "Lord Murugan",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Marudhamalai_Temple.jpg",
+        "website": "http://marudhamalaimurugantemple.tnhrce.in/",
+        "year_constructed": 1200,
+        "festivals_and_events": [
+          "Thaipusam",
+          "Panguni Uthiram"
+        ]
+      },
+      {
+        "name": "Eachanari Vinayagar Temple",
+        "main_deity": "Lord Ganesha",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Eachanari_Vinayagar_Temple.jpg",
+        "website": "http://eachanarivinayagar.tnhrce.in/",
+        "year_constructed": 1500,
+        "festivals_and_events": [
+          "Vinayaka Chaturthi",
+          "Karthikai Deepam"
+        ]
+      },
+      {
+        "name": "Perur Pateeswarar Temple",
+        "main_deity": "Lord Shiva",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Perur_Pateeswarar_Temple.jpg",
+        "website": "http://perurpatteeswarartemple.tnhrce.in/",
+        "year_constructed": 600,
+        "festivals_and_events": [
+          "Aadi Perukku",
+          "Shivaratri"
+        ]
+      },
+      {
+        "name": "Dhyanalinga",
+        "main_deity": "No specific deity",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Dhyanalinga.jpg",
+        "website": "https://isha.sadhguru.org/dhyanalinga/",
+        "year_constructed": 1999,
+        "festivals_and_events": [
+          "Maha Shivaratri",
+          "Guru Purnima"
+        ]
+      },
+      {
+        "name": "Arulmigu Koniamman Temple",
+        "main_deity": "Goddess Koniamman",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Koniamman_Temple.jpg",
+        "website": null,
+        "year_constructed": 1200,
+        "festivals_and_events": [
+          "Pongal",
+          "Aadi Perukku"
+        ]
+      }
+    ],
+    "Madurai": [
+      {
+        "name": "Meenakshi Amman Temple",
+        "main_deity": "Meenakshi (a form of Parvati) and Sundareshwarar (a form of Shiva)",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Meenakshi_Amman_temple_panorama.jpg",
+        "website": "http://www.maduraimeenakshi.org",
+        "year_constructed": 1623,
+        "festivals_and_events": [
+          "Meenakshi Thirukalyanam",
+          "Chithirai Festival"
+        ]
+      },
+      {
+        "name": "Koodal Azhagar Temple",
+        "main_deity": "Vishnu (as Koodal Azhagar)",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Koodal_Azhagar_Temple_Tower.jpg",
+        "website": null,
+        "year_constructed": 1310,
+        "festivals_and_events": [
+          "Vaikunta Ekadasi",
+          "Brahmotsavam"
+        ]
+      },
+      {
+        "name": "Thirupparamkunram Murugan Temple",
+        "main_deity": "Murugan",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Thirupparamkunram_Murugan_Temple.jpg",
+        "website": null,
+        "year_constructed": 6,
+        "festivals_and_events": [
+          "Skanda Sashti",
+          "Panguni Uthiram"
+        ]
+      },
+      {
+        "name": "Alagar Koyil",
+        "main_deity": "Vishnu (as Sundararaja Perumal)",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Alagar_Koyil.jpg",
+        "website": null,
+        "year_constructed": 7,
+        "festivals_and_events": [
+          "Chithirai Festival",
+          "Brahmotsavam"
+        ]
+      },
+      {
+        "name": "Pazhamudircholai Murugan Temple",
+        "main_deity": "Murugan",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Pazhamudircholai_Murugan_Temple.jpg",
+        "website": null,
+        "year_constructed": 8,
+        "festivals_and_events": [
+          "Kanda Sashti",
+          "Aadi Krithigai"
+        ]
+      }
+    ],
+    "Salem": [
+      {
+        "name": "Kottai Mariamman Temple",
+        "main_deity": "Mariamman",
+        "image_url": "https://example.com/kottai_mariamman.jpg",
+        "website": null,
+        "year_constructed": 1689,
+        "festivals_and_events": [
+          "Aadi Festival",
+          "Navaratri"
+        ]
+      },
+      {
+        "name": "Sugavaneswarar Temple",
+        "main_deity": "Lord Shiva",
+        "image_url": "https://example.com/sugavaneswarar.jpg",
+        "website": null,
+        "year_constructed": 1300,
+        "festivals_and_events": [
+          "Maha Shivaratri",
+          "Thirukarthigai"
+        ]
+      },
+      {
+        "name": "Arulmigu Alagirinathar Temple",
+        "main_deity": "Lord Vishnu",
+        "image_url": "https://example.com/alagirinathar.jpg",
+        "website": null,
+        "year_constructed": 1000,
+        "festivals_and_events": [
+          "Vaikunta Ekadasi",
+          "Panguni Uthiram"
+        ]
+      },
+      {
+        "name": "Jama Masjid",
+        "main_deity": "Allah",
+        "image_url": "https://example.com/jama_masjid.jpg",
+        "website": null,
+        "year_constructed": 1862,
+        "festivals_and_events": [
+          "Eid al-Fitr",
+          "Eid al-Adha"
+        ]
+      },
+      {
+        "name": "Arulmigu Muthu Mariamman Temple",
+        "main_deity": "Mariamman",
+        "image_url": "https://example.com/muthu_mariamman.jpg",
+        "website": null,
+        "year_constructed": 1500,
+        "festivals_and_events": [
+          "Aadi Festival",
+          "Panguni Uthiram"
+        ]
+      }
+    ],
+    "Tiruchirappalli": [
+      {
+        "name": "Sri Ranganathaswamy Temple",
+        "main_deity": "Ranganatha",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Sri_Ranganathaswamy_Temple%2C_Srirangam.jpg",
+        "website": "https://srirangam.org/",
+        "year_constructed": 984,
+        "festivals_and_events": [
+          "Vaikunta Ekadasi",
+          "Chithirai Ther"
+        ]
+      },
+      {
+        "name": "Jambukeswarar Temple",
+        "main_deity": "Shiva",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Thiruvanaikovil.JPG",
+        "website": null,
+        "year_constructed": 1800,
+        "festivals_and_events": [
+          "Aadi Perukku",
+          "Navaratri"
+        ]
+      },
+      {
+        "name": "Ucchi Pillayar Temple",
+        "main_deity": "Ganesha",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Rockfort_Malai_Kovil.jpg",
+        "website": null,
+        "year_constructed": 580,
+        "festivals_and_events": [
+          "Vinayaka Chaturthi",
+          "Karthigai Deepam"
+        ]
+      },
+      {
+        "name": "Vayalur Murugan Temple",
+        "main_deity": "Murugan",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Vayalur_murugan_temple.jpg",
+        "website": null,
+        "year_constructed": 1200,
+        "festivals_and_events": [
+          "Thaipusam",
+          "Panguni Uthiram"
+        ]
+      },
+      {
+        "name": "Samayapuram Mariamman Temple",
+        "main_deity": "Mariamman",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Samayapuram_Mariamman_Temple.jpg",
+        "website": null,
+        "year_constructed": 1700,
+        "festivals_and_events": [
+          "Poochoriyal",
+          "Panguni Peruvizha"
+        ]
+      }
+    ],
+    "Tiruppur": [
+      {
+        "name": "Sri Tirumuruganathaswamy Temple",
+        "main_deity": "Murugan",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Tirumuruganathaswamy_Temple.jpg",
+        "website": null,
+        "year_constructed": 1300,
+        "festivals_and_events": [
+          "Thaipusam",
+          "Panguni Uthiram"
+        ]
+      },
+      {
+        "name": "Avinashiappar Temple",
+        "main_deity": "Shiva",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Avinashiappar_temple.jpg",
+        "website": "http://avinashiappar.tnhrce.in",
+        "year_constructed": 1100,
+        "festivals_and_events": [
+          "Brahmotsavam",
+          "Shivaratri"
+        ]
+      },
+      {
+        "name": "Kadu Anumantharaya Swamy Temple",
+        "main_deity": "Hanuman",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Kadu_Anumantharaya_Swamy_Temple.jpg",
+        "website": null,
+        "year_constructed": 1900,
+        "festivals_and_events": [
+          "Hanuman Jayanti",
+          "Rama Navami"
+        ]
+      },
+      {
+        "name": "Sri Sukreeswarar Temple",
+        "main_deity": "Shiva",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Sri_Sukreeswarar_Temple.jpg",
+        "website": null,
+        "year_constructed": 1400,
+        "festivals_and_events": [
+          "Maha Shivaratri",
+          "Karthigai Deepam"
+        ]
+      },
+      {
+        "name": "Sri Venkatesa Perumal Temple",
+        "main_deity": "Venkateswara",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Sri_Venkatesa_Perumal_Temple.jpg",
+        "website": null,
+        "year_constructed": 1500,
+        "festivals_and_events": [
+          "Vaikunta Ekadasi",
+          "Brahmotsavam"
+        ]
+      }
+    ],
+    "Tirunelveli": [
+      {
+        "name": "Nellaiappar Temple",
+        "main_deity": "Shiva",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Nellaiappar_Temple.jpg",
+        "website": null,
+        "year_constructed": 700,
+        "festivals_and_events": [
+          "Aani Uthiram",
+          "Navratri",
+          "Tirukkalyanam"
+        ]
+      },
+      {
+        "name": "Krishnapuram Venkatachalapathy Temple",
+        "main_deity": "Venkatachalapathy (Vishnu)",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Krishnapuram_Venkatachalapathy_Temple.jpg",
+        "website": null,
+        "year_constructed": 1500,
+        "festivals_and_events": [
+          "Vaikunta Ekadasi",
+          "Panguni Uthiram"
+        ]
+      },
+      {
+        "name": "Arulmigu Sankaranayinarkoil",
+        "main_deity": "Shiva",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Sankaranarayan_Koil.jpg",
+        "website": null,
+        "year_constructed": 900,
+        "festivals_and_events": [
+          "Chithirai Thiruvizha",
+          "Navratri"
+        ]
+      },
+      {
+        "name": "Thirupudaimaruthur Temple",
+        "main_deity": "Shiva",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Thirupudaimaruthur_Temple.jpg",
+        "website": null,
+        "year_constructed": 1200,
+        "festivals_and_events": [
+          "Maha Shivaratri",
+          "Margazhi Thiruvathirai"
+        ]
+      },
+      {
+        "name": "Kutrallam Kurumpalaveesar Temple",
+        "main_deity": "Shiva",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Kutrallam_Kurumpalaveesar_Temple.jpg",
+        "website": null,
+        "year_constructed": 1300,
+        "festivals_and_events": [
+          "Adi Thapasu",
+          "Chithirai Thiruvizha"
+        ]
+      }
+    ],
+    "Erode": [
+      {
+        "name": "Thindal Murugan Temple",
+        "main_deity": "Lord Murugan",
+        "image_url": "https://example.com/thindal_murugan.jpg",
+        "website": null,
+        "year_constructed": 1972,
+        "festivals_and_events": [
+          "Thai Poosam",
+          "Panguni Uthiram"
+        ]
+      },
+      {
+        "name": "Periya Mariamman Temple",
+        "main_deity": "Goddess Mariamman",
+        "image_url": "https://example.com/periya_mariamman.jpg",
+        "website": null,
+        "year_constructed": 1871,
+        "festivals_and_events": [
+          "Mariamman Festival",
+          "Pooja Tiruvizha"
+        ]
+      },
+      {
+        "name": "Arudra Kabaliswarar Temple",
+        "main_deity": "Lord Shiva",
+        "image_url": "https://example.com/arudra_kabaliswarar.jpg",
+        "website": null,
+        "year_constructed": 1500,
+        "festivals_and_events": [
+          "Maha Shivaratri",
+          "Navratri"
+        ]
+      },
+      {
+        "name": "Chennimalai Murugan Temple",
+        "main_deity": "Lord Murugan",
+        "image_url": "https://example.com/chennimalai_murugan.jpg",
+        "website": null,
+        "year_constructed": 1840,
+        "festivals_and_events": [
+          "Thai Poosam",
+          "Kanda Sashti"
+        ]
+      },
+      {
+        "name": "Sangameswarar Temple",
+        "main_deity": "Lord Shiva",
+        "image_url": "https://example.com/sangameswarar.jpg",
+        "website": null,
+        "year_constructed": 1000,
+        "festivals_and_events": [
+          "Maha Shivaratri",
+          "Aadi Perukku"
+        ]
+      }
+    ],
+    "Vellore": [
+      {
+        "name": "Sripuram Golden Temple",
+        "main_deity": "Sri Lakshmi Narayani",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Sripuram_Golden_Temple.jpg",
+        "website": "https://www.sripuram.org/",
+        "year_constructed": 2007,
+        "festivals_and_events": [
+          "Navratri",
+          "Diwali"
+        ]
+      },
+      {
+        "name": "Jalakandeswarar Temple",
+        "main_deity": "Lord Shiva",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Jalakandeswarar_temple_vellore.jpg",
+        "website": null,
+        "year_constructed": 1550,
+        "festivals_and_events": [
+          "Mahashivaratri",
+          "Brahmotsavam"
+        ]
+      },
+      {
+        "name": "Ratnagiri Murugan Temple",
+        "main_deity": "Lord Murugan",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Ratnagiri_Murugan_Temple.jpg",
+        "website": "https://www.ratnagirimurugantemple.org/",
+        "year_constructed": 14,
+        "festivals_and_events": [
+          "Thaipusam",
+          "Panguni Uthiram"
+        ]
+      },
+      {
+        "name": "Virinjipuram Temple",
+        "main_deity": "Lord Shiva",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Virinjipuram_temple.jpg",
+        "website": null,
+        "year_constructed": 900,
+        "festivals_and_events": [
+          "Mahashivaratri",
+          "Vaikasi Visakam"
+        ]
+      },
+      {
+        "name": "Arulmigu Balamurugan Temple",
+        "main_deity": "Lord Murugan",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Balamurugan_Temple.jpg",
+        "website": "http://www.balamurugan.org/",
+        "year_constructed": 1968,
+        "festivals_and_events": [
+          "Karthigai Deepam",
+          "Thai Poosam"
+        ]
+      }
+    ],
+    "Kancheepuram": [
+      {
+        "name": "Ekambareswarar Temple",
+        "main_deity": "Lord Shiva",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Ekambareswarar_temple_tower.jpg",
+        "website": null,
+        "year_constructed": 600,
+        "festivals_and_events": [
+          "Panguni Uthiram",
+          "Adi Krittikai"
+        ]
+      },
+      {
+        "name": "Kailasanathar Temple",
+        "main_deity": "Lord Shiva",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Kailasanathar_temple_Kanchipuram.jpg",
+        "website": null,
+        "year_constructed": 705,
+        "festivals_and_events": [
+          "Maha Shivaratri"
+        ]
+      },
+      {
+        "name": "Kamakshi Amman Temple",
+        "main_deity": "Kamakshi Amman",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Kamakshi_Amman_Temple.jpg",
+        "website": null,
+        "year_constructed": 640,
+        "festivals_and_events": [
+          "Navaratri",
+          "Aadi Pooram"
+        ]
+      },
+      {
+        "name": "Varadaraja Perumal Temple",
+        "main_deity": "Lord Vishnu",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Varadaraja_Perumal_temple_Kanchipuram.jpg",
+        "website": null,
+        "year_constructed": 1053,
+        "festivals_and_events": [
+          "Vaikunta Ekadashi",
+          "Brahmotsavam"
+        ]
+      },
+      {
+        "name": "Ulagalantha Perumal Temple",
+        "main_deity": "Lord Vishnu",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Ulagalantha_Perumal_Temple.jpg",
+        "website": null,
+        "year_constructed": 750,
+        "festivals_and_events": [
+          "Panguni Brahmotsavam",
+          "Vaikunta Ekadashi"
+        ]
+      }
+    ]
+  },
+  "state": "Tamil Nadu",
+  "last_updated": "2026-08-01T13:29:09.693188"
+}

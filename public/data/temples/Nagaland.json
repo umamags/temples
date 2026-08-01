@@ -1,0 +1,238 @@
+{
+  "cities": {
+    "Kohima": [
+      {
+        "name": "Kohima Sree Ayyappa Temple",
+        "main_deity": "Lord Ayyappa",
+        "image_url": "https://example.com/kohima_ayyappa.jpg",
+        "website": null,
+        "year_constructed": 1999,
+        "festivals_and_events": [
+          "Makaravilakku",
+          "Vishu"
+        ]
+      },
+      {
+        "name": "Nagaland Shree Shirdi Sai Baba Mandir",
+        "main_deity": "Sai Baba",
+        "image_url": "https://example.com/shirdi_sai_baba.jpg",
+        "website": null,
+        "year_constructed": 2004,
+        "festivals_and_events": [
+          "Guru Purnima",
+          "Ram Navami"
+        ]
+      },
+      {
+        "name": "ISKCON Temple Kohima",
+        "main_deity": "Lord Krishna",
+        "image_url": "https://example.com/iskcon_kohima.jpg",
+        "website": "https://www.iskconkohima.org",
+        "year_constructed": 2007,
+        "festivals_and_events": [
+          "Janmashtami",
+          "Ratha Yatra"
+        ]
+      },
+      {
+        "name": "Shree Govindajee Temple",
+        "main_deity": "Radha Krishna",
+        "image_url": "https://example.com/govindajee.jpg",
+        "website": null,
+        "year_constructed": 1985,
+        "festivals_and_events": [
+          "Krishna Janmashtami",
+          "Holi"
+        ]
+      },
+      {
+        "name": "Hanuman Mandir Kohima",
+        "main_deity": "Lord Hanuman",
+        "image_url": "https://example.com/hanuman_mandir.jpg",
+        "website": null,
+        "year_constructed": 1995,
+        "festivals_and_events": [
+          "Hanuman Jayanti",
+          "Diwali"
+        ]
+      }
+    ],
+    "Dimapur": [
+      {
+        "name": "Kalibari Temple",
+        "main_deity": "Goddess Kali",
+        "image_url": "https://example.com/kalibari.jpg",
+        "website": null,
+        "year_constructed": 1956,
+        "festivals_and_events": [
+          "Durga Puja",
+          "Kali Puja"
+        ]
+      },
+      {
+        "name": "Shiva Temple",
+        "main_deity": "Lord Shiva",
+        "image_url": "https://example.com/shiva.jpg",
+        "website": null,
+        "year_constructed": 1978,
+        "festivals_and_events": [
+          "Mahashivaratri",
+          "Shravan Mondays"
+        ]
+      },
+      {
+        "name": "ISKCON Dimapur",
+        "main_deity": "Lord Krishna",
+        "image_url": "https://example.com/iskcon.jpg",
+        "website": "https://www.iskcondimapur.com",
+        "year_constructed": 2002,
+        "festivals_and_events": [
+          "Janmashtami",
+          "Rath Yatra"
+        ]
+      },
+      {
+        "name": "Durga Mandir",
+        "main_deity": "Goddess Durga",
+        "image_url": "https://example.com/durga.jpg",
+        "website": null,
+        "year_constructed": 1985,
+        "festivals_and_events": [
+          "Navratri",
+          "Durga Puja"
+        ]
+      },
+      {
+        "name": "Ganesh Mandir",
+        "main_deity": "Lord Ganesha",
+        "image_url": "https://example.com/ganesh.jpg",
+        "website": null,
+        "year_constructed": 1995,
+        "festivals_and_events": [
+          "Ganesh Chaturthi",
+          "Sankashti Chaturthi"
+        ]
+      }
+    ],
+    "Mokokchung": [
+      {
+        "name": "Mokokchung Shiva Temple",
+        "main_deity": "Lord Shiva",
+        "image_url": "https://example.com/mokokchung_shiva_temple.jpg",
+        "website": null,
+        "year_constructed": 1965,
+        "festivals_and_events": [
+          "Maha Shivaratri",
+          "Shravan Maas"
+        ]
+      },
+      {
+        "name": "Mokokchung Hanuman Temple",
+        "main_deity": "Lord Hanuman",
+        "image_url": "https://example.com/mokokchung_hanuman_temple.jpg",
+        "website": null,
+        "year_constructed": 1972,
+        "festivals_and_events": [
+          "Hanuman Jayanti",
+          "Rama Navami"
+        ]
+      },
+      {
+        "name": "Mokokchung Kali Mandir",
+        "main_deity": "Goddess Kali",
+        "image_url": "https://example.com/mokokchung_kali_mandir.jpg",
+        "website": null,
+        "year_constructed": 1980,
+        "festivals_and_events": [
+          "Kali Puja",
+          "Navratri"
+        ]
+      },
+      {
+        "name": "Mokokchung Ganesh Temple",
+        "main_deity": "Lord Ganesha",
+        "image_url": "https://example.com/mokokchung_ganesh_temple.jpg",
+        "website": null,
+        "year_constructed": 1975,
+        "festivals_and_events": [
+          "Ganesh Chaturthi",
+          "Sankashti Chaturthi"
+        ]
+      },
+      {
+        "name": "Mokokchung Vishnu Temple",
+        "main_deity": "Lord Vishnu",
+        "image_url": "https://example.com/mokokchung_vishnu_temple.jpg",
+        "website": null,
+        "year_constructed": 1985,
+        "festivals_and_events": [
+          "Vaikuntha Ekadashi",
+          "Janmashtami"
+        ]
+      }
+    ],
+    "Zunheboto": [
+      {
+        "name": "Sumi Baptist Church Zunheboto",
+        "main_deity": "Jesus Christ",
+        "image_url": "https://example.com/sumi_baptist_church.jpg",
+        "website": null,
+        "year_constructed": 1942,
+        "festivals_and_events": [
+          "Christmas",
+          "Easter"
+        ]
+      },
+      {
+        "name": "Zunheboto Ao Baptist Church",
+        "main_deity": "Jesus Christ",
+        "image_url": "https://example.com/ao_baptist_church.jpg",
+        "website": null,
+        "year_constructed": 1935,
+        "festivals_and_events": [
+          "Christmas",
+          "Good Friday"
+        ]
+      },
+      {
+        "name": "Nagaland Christian Revival Church",
+        "main_deity": "Jesus Christ",
+        "image_url": "https://example.com/christian_revival_church.jpg",
+        "website": null,
+        "year_constructed": 1980,
+        "festivals_and_events": [
+          "Christmas",
+          "New Year Services"
+        ]
+      },
+      {
+        "name": "Zunheboto Town Sumi Baptist Church",
+        "main_deity": "Jesus Christ",
+        "image_url": "https://example.com/town_sumi_baptist_church.jpg",
+        "website": null,
+        "year_constructed": 1960,
+        "festivals_and_events": [
+          "Christmas",
+          "Thanksgiving"
+        ]
+      },
+      {
+        "name": "Nagaland Baptist Church Council",
+        "main_deity": "Jesus Christ",
+        "image_url": "https://example.com/baptist_church_council.jpg",
+        "website": null,
+        "year_constructed": 1953,
+        "festivals_and_events": [
+          "Christmas",
+          "Youth Conference"
+        ]
+      }
+    ],
+    "Wokha": [],
+    "Tuensang": [],
+    "Phek": [],
+    "Kiphire": []
+  },
+  "state": "Nagaland",
+  "last_updated": "2026-08-01T13:43:33.671869"
+}

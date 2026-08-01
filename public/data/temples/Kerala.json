@@ -1,0 +1,516 @@
+{
+  "cities": {
+    "Thiruvananthapuram": [
+      {
+        "name": "Sree Padmanabhaswamy Temple",
+        "main_deity": "Lord Vishnu",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Thiruvananthapuram_Sree_Padmanabhaswamy_temple.jpg",
+        "website": "http://spst.in/",
+        "year_constructed": 1550,
+        "festivals_and_events": [
+          "Alpasi Utsavam",
+          "Painkuni Utsavam"
+        ]
+      },
+      {
+        "name": "Attukal Bhagavathy Temple",
+        "main_deity": "Goddess Bhagavathy",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Attukal_Bhagavathy_Temple_Thiruvananthapuram.jpg",
+        "website": "http://www.attukal.org/",
+        "year_constructed": 1300,
+        "festivals_and_events": [
+          "Attukal Pongala"
+        ]
+      },
+      {
+        "name": "Pazhavangadi Ganapathy Temple",
+        "main_deity": "Lord Ganesha",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Pazhavangadi_Temple.jpg",
+        "website": null,
+        "year_constructed": 1795,
+        "festivals_and_events": [
+          "Vinayaka Chaturthi"
+        ]
+      },
+      {
+        "name": "Karikkakom Sree Chamundi Devi Temple",
+        "main_deity": "Goddess Chamundi",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Karikkakom_Temple.JPG",
+        "website": "http://www.karikkakomtemple.org/",
+        "year_constructed": 1800,
+        "festivals_and_events": [
+          "Pongala",
+          "Thookam"
+        ]
+      },
+      {
+        "name": "Aazhimala Siva Temple",
+        "main_deity": "Lord Shiva",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Aazhimala_Temple.jpg",
+        "website": null,
+        "year_constructed": 1900,
+        "festivals_and_events": [
+          "Maha Shivaratri"
+        ]
+      }
+    ],
+    "Kochi": [
+      {
+        "name": "Ernakulathappan Temple",
+        "main_deity": "Lord Shiva",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Ernakulam_temple.jpg",
+        "website": "http://ernakulathappan.com/",
+        "year_constructed": 1846,
+        "festivals_and_events": [
+          "Maha Shivaratri",
+          "Vrischikolsavam"
+        ]
+      },
+      {
+        "name": "Chottanikkara Temple",
+        "main_deity": "Bhagawati (Goddess Rajarajeswari)",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Chottanikkara_temple.jpg",
+        "website": "http://chottanikkaratemple.com/",
+        "year_constructed": 1600,
+        "festivals_and_events": [
+          "Makom Thozhal",
+          "Navaratri"
+        ]
+      },
+      {
+        "name": "Sree Poornathrayeesa Temple",
+        "main_deity": "Lord Vishnu",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Poornathrayeesa_Temple.jpg",
+        "website": "http://poornathrayeesa.in/",
+        "year_constructed": 960,
+        "festivals_and_events": [
+          "Vrishchikoltsawam",
+          "Laksha Deepam"
+        ]
+      },
+      {
+        "name": "Thrikkakara Temple",
+        "main_deity": "Vamana (an incarnation of Lord Vishnu)",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Thrikkakara_temple.jpg",
+        "website": "http://thrikkakaratemple.org/",
+        "year_constructed": 800,
+        "festivals_and_events": [
+          "Onam",
+          "Thrikkakara Vamana Jayanti"
+        ]
+      },
+      {
+        "name": "Kaduthuruthy Mahadeva Temple",
+        "main_deity": "Lord Shiva",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Kaduthuruthy_Mahadeva_Temple.jpg",
+        "website": null,
+        "year_constructed": 1000,
+        "festivals_and_events": [
+          "Maha Shivaratri",
+          "Thiruvathira"
+        ]
+      }
+    ],
+    "Kozhikode": [
+      {
+        "name": "Tali Mahakshetram",
+        "main_deity": "Lord Shiva",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Tali_Temple%2C_Kozhikode%2C_Kerala.jpg",
+        "website": null,
+        "year_constructed": 1300,
+        "festivals_and_events": [
+          "Revathi Pattathanam",
+          "Shivarathri"
+        ]
+      },
+      {
+        "name": "Varakkal Devi Temple",
+        "main_deity": "Goddess Durga",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Varakkal_Devi_Temple.jpg",
+        "website": null,
+        "year_constructed": 1350,
+        "festivals_and_events": [
+          "Navaratri",
+          "Vavu Bali"
+        ]
+      },
+      {
+        "name": "Sree Valayanadu Devi Temple",
+        "main_deity": "Bhagavathy",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Valayanadu_Devi_Temple.jpg",
+        "website": null,
+        "year_constructed": 14,
+        "festivals_and_events": [
+          "Pongala",
+          "Vela Festival"
+        ]
+      },
+      {
+        "name": "Mishkal Mosque",
+        "main_deity": "Allah",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Mishkal_Mosque.jpg",
+        "website": null,
+        "year_constructed": 1300,
+        "festivals_and_events": [
+          "Eid al-Fitr",
+          "Eid al-Adha"
+        ]
+      },
+      {
+        "name": "Thali Maha Temple",
+        "main_deity": "Lord Shiva",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Thali_Maha_Temple.jpg",
+        "website": null,
+        "year_constructed": 14,
+        "festivals_and_events": [
+          "Revathi Pattathanam",
+          "Thiruvathira"
+        ]
+      }
+    ],
+    "Thrissur": [
+      {
+        "name": "Vadakkunnathan Temple",
+        "main_deity": "Lord Shiva",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Vadakkunnathan_Temple_Entrance.jpg",
+        "website": "http://vadakkunnathantemple.org",
+        "year_constructed": 1000,
+        "festivals_and_events": [
+          "Thrissur Pooram",
+          "Maha Shivaratri"
+        ]
+      },
+      {
+        "name": "Guruvayur Temple",
+        "main_deity": "Lord Krishna",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Guruvayur_Temple.jpg",
+        "website": "https://guruvayurdevaswom.nic.in",
+        "year_constructed": 1638,
+        "festivals_and_events": [
+          "Guruvayur Ekadasi",
+          "Janmashtami",
+          "Vishu"
+        ]
+      },
+      {
+        "name": "Paramekkavu Bhagavathi Temple",
+        "main_deity": "Goddess Bhagavathi",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Paramekkavu_Bhagavathi_Temple.jpg",
+        "website": null,
+        "year_constructed": 1784,
+        "festivals_and_events": [
+          "Thrissur Pooram",
+          "Navaratri"
+        ]
+      },
+      {
+        "name": "Thiruvambady Temple",
+        "main_deity": "Lord Krishna",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Thiruvambady_Temple.jpg",
+        "website": "http://thiruvambadytemple.com",
+        "year_constructed": 1505,
+        "festivals_and_events": [
+          "Thrissur Pooram",
+          "Krishna Janmashtami"
+        ]
+      },
+      {
+        "name": "Koodalmanikyam Temple",
+        "main_deity": "Lord Bharata",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Koodalmanikyam_Temple.jpg",
+        "website": "http://koodalmanikyam.com",
+        "year_constructed": 854,
+        "festivals_and_events": [
+          "Koodalmanikyam Utsavam"
+        ]
+      }
+    ],
+    "Alappuzha": [
+      {
+        "name": "Mullakkal Rajeshwari Temple",
+        "main_deity": "Goddess Rajeshwari",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Mullakkal_Rajeshwari_Temple.jpg",
+        "website": null,
+        "year_constructed": 1500,
+        "festivals_and_events": [
+          "Navaratri",
+          "Thaipooyakavadi"
+        ]
+      },
+      {
+        "name": "Mannarasala Sree Nagaraja Temple",
+        "main_deity": "Nagaraja",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Mannarasala_Temple.jpg",
+        "website": null,
+        "year_constructed": 1400,
+        "festivals_and_events": [
+          "Ayilyam Mahotsavam",
+          "Maha Shivaratri"
+        ]
+      },
+      {
+        "name": "Ambalappuzha Sri Krishna Temple",
+        "main_deity": "Lord Krishna",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Ambalappuzha_Sri_Krishna_Temple.jpg",
+        "website": "http://www.ambalapuzhakrishnaswamytemple.in",
+        "year_constructed": 790,
+        "festivals_and_events": [
+          "Ambalappuzha Arattu",
+          "Pallipana"
+        ]
+      },
+      {
+        "name": "Chettikulangara Devi Temple",
+        "main_deity": "Bhagavathy",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Chettikulangara_Devi_Temple.jpg",
+        "website": "http://www.chettikulangara.org",
+        "year_constructed": 1200,
+        "festivals_and_events": [
+          "Kumbha Bharani",
+          "Ethirelpu Ulsavam"
+        ]
+      },
+      {
+        "name": "Chakkulathukavu Temple",
+        "main_deity": "Goddess Bhagavathy",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Chakkulathukavu_Temple.jpg",
+        "website": "http://www.chakkulathukavutemple.org",
+        "year_constructed": 1000,
+        "festivals_and_events": [
+          "Pongala",
+          "Naree Pooja"
+        ]
+      }
+    ],
+    "Kottayam": [
+      {
+        "name": "Ettumanoor Mahadeva Temple",
+        "main_deity": "Lord Shiva",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Ettumanoor_Mahadevar_temple.jpg",
+        "website": null,
+        "year_constructed": 1542,
+        "festivals_and_events": [
+          "Ezhara Ponnana",
+          "Maha Shivaratri"
+        ]
+      },
+      {
+        "name": "Thirunakkara Mahadeva Temple",
+        "main_deity": "Lord Shiva",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Thirunakkara_Mahadevar_Temple.jpg",
+        "website": null,
+        "year_constructed": 1540,
+        "festivals_and_events": [
+          "Aarattu",
+          "Maha Shivaratri"
+        ]
+      },
+      {
+        "name": "Vaikom Mahadeva Temple",
+        "main_deity": "Lord Shiva",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Vaikom_Temple.jpg",
+        "website": "http://vaikomtemple.org/",
+        "year_constructed": 1594,
+        "festivals_and_events": [
+          "Vaikathashtami",
+          "Maha Shivaratri"
+        ]
+      },
+      {
+        "name": "Kumaranalloor Devi Temple",
+        "main_deity": "Goddess Durga",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Kumaranalloor_Devi_Temple.jpg",
+        "website": "http://kumaranalloordevi.org/",
+        "year_constructed": 1045,
+        "festivals_and_events": [
+          "Thiruvutsavam",
+          "Navaratri"
+        ]
+      },
+      {
+        "name": "Pallipurathukavu Devi Temple",
+        "main_deity": "Goddess Bhadrakali",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Pallipurathukavu_Devi_Temple.jpg",
+        "website": null,
+        "year_constructed": 1555,
+        "festivals_and_events": [
+          "Meena Bharani",
+          "Navaratri"
+        ]
+      }
+    ],
+    "Malappuram": [
+      {
+        "name": "Thirunavaya Navamukunda Temple",
+        "main_deity": "Lord Vishnu",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Thirunavaya_Navamukunda_Temple.jpg",
+        "website": null,
+        "year_constructed": 800,
+        "festivals_and_events": [
+          "Navaratri",
+          "Vishu"
+        ]
+      },
+      {
+        "name": "Triprangode Siva Temple",
+        "main_deity": "Lord Shiva",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Triprangode_Siva_Temple.jpg",
+        "website": null,
+        "year_constructed": 1300,
+        "festivals_and_events": [
+          "Maha Shivaratri",
+          "Thiruvathira"
+        ]
+      },
+      {
+        "name": "Alathiyoor Hanuman Temple",
+        "main_deity": "Lord Hanuman",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Alathiyoor_Hanuman_Temple.jpg",
+        "website": null,
+        "year_constructed": 1400,
+        "festivals_and_events": [
+          "Hanuman Jayanti",
+          "Ram Navami"
+        ]
+      },
+      {
+        "name": "Kodikuthimala Thirumandhamkunnu Temple",
+        "main_deity": "Goddess Durga",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Thirumandhamkunnu_Temple.jpg",
+        "website": null,
+        "year_constructed": 1000,
+        "festivals_and_events": [
+          "Pooram",
+          "Navaratri"
+        ]
+      },
+      {
+        "name": "Kadampuzha Devi Temple",
+        "main_deity": "Goddess Parvati",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Kadampuzha_Devi_Temple.jpg",
+        "website": null,
+        "year_constructed": 1200,
+        "festivals_and_events": [
+          "Pooja Vaypu",
+          "Karthika Vilakku"
+        ]
+      }
+    ],
+    "Kannur": [
+      {
+        "name": "Parassinikkadavu Muthappan Temple",
+        "main_deity": "Sree Muthappan",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Muthappan_temple.jpg",
+        "website": null,
+        "year_constructed": 1900,
+        "festivals_and_events": [
+          "Muthappan Theyyam",
+          "Puthari Thiruvappana"
+        ]
+      },
+      {
+        "name": "Kalarivathukkal Bhagavathy Temple",
+        "main_deity": "Bhagavathy",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Kalarivathukkal_Temple.jpg",
+        "website": null,
+        "year_constructed": 1560,
+        "festivals_and_events": [
+          "Kalarivathukkal Pooram",
+          "Theyyam Performances"
+        ]
+      },
+      {
+        "name": "Sundareswara Temple",
+        "main_deity": "Lord Shiva",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Sundareswara_Temple.jpg",
+        "website": "http://sundareswaratemple.com",
+        "year_constructed": 1916,
+        "festivals_and_events": [
+          "Maha Shivaratri",
+          "Navaratri"
+        ]
+      },
+      {
+        "name": "Trichambaram Sree Krishna Temple",
+        "main_deity": "Lord Krishna",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Trichambaram_Temple.jpg",
+        "website": null,
+        "year_constructed": 1300,
+        "festivals_and_events": [
+          "Trichambaram Utsavam",
+          "Krishna Janmashtami"
+        ]
+      },
+      {
+        "name": "Rajarajeshwara Temple",
+        "main_deity": "Lord Shiva",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Rajarajeswara_Temple.jpg",
+        "website": null,
+        "year_constructed": 1000,
+        "festivals_and_events": [
+          "Shivarathri",
+          "Kumbha Bharani"
+        ]
+      }
+    ],
+    "Kasaragod": [
+      {
+        "name": "Ananthapura Lake Temple",
+        "main_deity": "Lord Vishnu",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Ananthapura_Lake_Temple.jpg",
+        "website": null,
+        "year_constructed": 9,
+        "festivals_and_events": [
+          "Annual Festival",
+          "Utsavam"
+        ]
+      },
+      {
+        "name": "Madhur Temple",
+        "main_deity": "Lord Shiva",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Madhur_temple.jpg",
+        "website": null,
+        "year_constructed": 10,
+        "festivals_and_events": [
+          "Mahashivaratri",
+          "Ganesh Chaturthi"
+        ]
+      },
+      {
+        "name": "Mallikarjuna Temple",
+        "main_deity": "Lord Shiva",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Mallikarjuna_Temple_Kasaragod.jpg",
+        "website": null,
+        "year_constructed": 10,
+        "festivals_and_events": [
+          "Mahashivaratri",
+          "Annual Ratholsavam"
+        ]
+      },
+      {
+        "name": "Trikkannad Tryambakeshwara Temple",
+        "main_deity": "Lord Shiva",
+        "image_url": "https://templesinindiainfo.com/wp-content/uploads/2018/06/Thrikkannad-Tryambakeshwara-Temple.jpg",
+        "website": null,
+        "year_constructed": 13,
+        "festivals_and_events": [
+          "Mahashivaratri",
+          "Utsavam"
+        ]
+      },
+      {
+        "name": "Kanhangad Hosdurg Sri Subrahmanya Temple",
+        "main_deity": "Lord Subrahmanya",
+        "image_url": "https://www.keralatourism.org/images/enchanting_kerala/large/subramanya_temple_kanhangad20131224075111_60_1.jpg",
+        "website": null,
+        "year_constructed": 16,
+        "festivals_and_events": [
+          "Thaipooyam",
+          "Annual Festival"
+        ]
+      }
+    ]
+  },
+  "state": "Kerala",
+  "last_updated": "2026-08-01T13:31:48.663945"
+}

@@ -280,6 +280,260 @@ h3 {
   color: #0052a3;
 }
 
+.temple-table-container {
+  margin: 1.5rem 0;
+}
+
+.search-input {
+  width: 100%;
+  padding: 0.75rem;
+  font-size: 1rem;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  font-family: inherit;
+}
+
+.search-input:focus {
+  outline: none;
+  border-color: #0066cc;
+  box-shadow: 0 0 0 2px rgba(0, 102, 204, 0.1);
+}
+
+.city-search-wrapper {
+  position: relative;
+  margin-bottom: 1.5rem;
+}
+
+.city-suggestions {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  right: 0;
+  background: white;
+  border: 1px solid #ccc;
+  border-top: none;
+  border-radius: 0 0 4px 4px;
+  max-height: 300px;
+  overflow-y: auto;
+  z-index: 10;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.city-suggestions.empty {
+  padding: 1rem;
+  text-align: center;
+  color: #666;
+}
+
+.city-suggestions.empty p {
+  margin: 0.5rem 0;
+  font-size: 0.95rem;
+}
+
+.city-suggestions.empty .hint {
+  font-size: 0.85rem;
+  color: #999;
+  margin-top: 1rem;
+}
+
+.city-suggestion-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  padding: 0.75rem 1rem;
+  background: white;
+  border: none;
+  border-bottom: 1px solid #eee;
+  cursor: pointer;
+  text-align: left;
+  font-family: inherit;
+  transition: background-color 0.2s ease;
+}
+
+.city-suggestion-item:last-child {
+  border-bottom: none;
+}
+
+.city-suggestion-item:hover {
+  background-color: #f9f9f9;
+}
+
+.city-suggestion-item strong {
+  color: #333;
+  font-weight: 600;
+}
+
+.city-suggestion-item span {
+  color: #999;
+  font-size: 0.85rem;
+}
+
+.selected-city-info {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 1.5rem 0;
+  padding: 1rem;
+  background-color: #f0f7ff;
+  border-left: 4px solid #0066cc;
+  border-radius: 4px;
+}
+
+.selected-city-info h3 {
+  margin: 0;
+  color: #0066cc;
+}
+
+.clear-selection-btn {
+  padding: 0.5rem 1rem;
+  background-color: #fff;
+  border: 1px solid #0066cc;
+  border-radius: 4px;
+  color: #0066cc;
+  cursor: pointer;
+  font-size: 0.9rem;
+  transition: all 0.2s ease;
+}
+
+.clear-selection-btn:hover {
+  background-color: #f0f7ff;
+  border-color: #0052a3;
+  color: #0052a3;
+}
+
+.table-wrapper {
+  overflow-x: auto;
+  margin: 1.5rem 0;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.temple-data-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.95rem;
+}
+
+.temple-data-table thead {
+  background-color: #f5f5f5;
+  border-bottom: 2px solid #ddd;
+}
+
+.temple-data-table th {
+  padding: 0.75rem;
+  text-align: left;
+  font-weight: 600;
+  color: #333;
+  white-space: nowrap;
+}
+
+.temple-data-table td {
+  padding: 0.75rem;
+  border-bottom: 1px solid #eee;
+  color: #666;
+}
+
+.temple-data-table tbody tr:hover {
+  background-color: #f9f9f9;
+}
+
+.temple-data-table a {
+  color: #0066cc;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.temple-data-table a:hover {
+  text-decoration: underline;
+  color: #0052a3;
+}
+
+.pagination {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1rem;
+  margin-top: 1.5rem;
+  padding-top: 1rem;
+  border-top: 1px solid #ddd;
+}
+
+.pagination button {
+  padding: 0.5rem 1rem;
+  background-color: #fff;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 0.95rem;
+  transition: all 0.2s ease;
+}
+
+.pagination button:hover:not(:disabled) {
+  background-color: #f0f0f0;
+  border-color: #0066cc;
+  color: #0066cc;
+}
+
+.pagination button:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+
+.footer {
+  background-color: #f5f5f5;
+  border-top: 1px solid #ddd;
+  padding: 2rem 1rem;
+  margin-top: 3rem;
+}
+
+.footer-content {
+  max-width: 1200px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1.5rem;
+  text-align: center;
+}
+
+.footer-content p {
+  margin: 0;
+  color: #666;
+  font-size: 0.95rem;
+}
+
+.footer-links {
+  display: flex;
+  gap: 1.5rem;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.footer-links a {
+  color: #0066cc;
+  text-decoration: none;
+  font-size: 0.95rem;
+  transition: color 0.2s ease;
+}
+
+.footer-links a:hover {
+  color: #0052a3;
+  text-decoration: underline;
+}
+
+@media (max-width: 768px) {
+  .footer-content {
+    gap: 1rem;
+  }
+
+  .footer-links {
+    gap: 1rem;
+    font-size: 0.85rem;
+  }
+}
+
 @media (max-width: 768px) {
   main {
     padding: 1rem;
@@ -301,5 +555,26 @@ h3 {
 
   .temples-grid {
     grid-template-columns: 1fr;
+  }
+
+  .temple-data-table {
+    font-size: 0.85rem;
+  }
+
+  .temple-data-table th,
+  .temple-data-table td {
+    padding: 0.5rem;
+  }
+
+  .pagination {
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  .pagination span {
+    order: 3;
+    width: 100%;
+    text-align: center;
   }
 }

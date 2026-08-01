@@ -1,0 +1,566 @@
+{
+  "cities": {
+    "Jaipur": [
+      {
+        "name": "Govind Dev Ji Temple",
+        "main_deity": "Lord Krishna",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Govind_Devji_Mandir_Jaipur.jpg",
+        "website": "http://govinddevji.net/",
+        "year_constructed": 1735,
+        "festivals_and_events": [
+          "Janmashtami",
+          "Holi",
+          "Radha Ashtami"
+        ]
+      },
+      {
+        "name": "Birla Mandir",
+        "main_deity": "Lord Vishnu and Goddess Lakshmi",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Birla_Mandir_Jaipur.jpg",
+        "website": "http://birlatemplejaipur.com/",
+        "year_constructed": 1988,
+        "festivals_and_events": [
+          "Diwali",
+          "Janmashtami"
+        ]
+      },
+      {
+        "name": "Moti Dungri Ganesh Temple",
+        "main_deity": "Lord Ganesha",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/34/MotiDungri_Temple_Jaipur.jpg",
+        "website": null,
+        "year_constructed": 1761,
+        "festivals_and_events": [
+          "Ganesh Chaturthi"
+        ]
+      },
+      {
+        "name": "Kalki Temple",
+        "main_deity": "Lord Kalki",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Kalki_Temple_Jaipur.jpg",
+        "website": null,
+        "year_constructed": 1739,
+        "festivals_and_events": [
+          "Kalki Jayanti"
+        ]
+      },
+      {
+        "name": "Akshardham Temple",
+        "main_deity": "Lord Narayan",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Akshardham_Temple_Jaipur.jpg",
+        "website": "http://akshardham.com/",
+        "year_constructed": 1998,
+        "festivals_and_events": [
+          "Diwali",
+          "Janmashtami"
+        ]
+      }
+    ],
+    "Jodhpur": [
+      {
+        "name": "Chamunda Mataji Temple",
+        "main_deity": "Chamunda Devi",
+        "image_url": "https://example.com/chamunda_mataji.jpg",
+        "website": null,
+        "year_constructed": 1460,
+        "festivals_and_events": [
+          "Navratri",
+          "Dussehra"
+        ]
+      },
+      {
+        "name": "Rasik Bihari Temple",
+        "main_deity": "Lord Krishna",
+        "image_url": "https://example.com/rasik_bihari.jpg",
+        "website": null,
+        "year_constructed": 1847,
+        "festivals_and_events": [
+          "Krishna Janmashtami",
+          "Holi"
+        ]
+      },
+      {
+        "name": "Siddhanath Shiv Temple",
+        "main_deity": "Lord Shiva",
+        "image_url": "https://example.com/siddhanath_shiv.jpg",
+        "website": null,
+        "year_constructed": 1519,
+        "festivals_and_events": [
+          "Maha Shivaratri"
+        ]
+      },
+      {
+        "name": "Ganesh Temple Ratanada",
+        "main_deity": "Lord Ganesha",
+        "image_url": "https://example.com/ganesh_ratanada.jpg",
+        "website": null,
+        "year_constructed": 1665,
+        "festivals_and_events": [
+          "Ganesh Chaturthi"
+        ]
+      },
+      {
+        "name": "Achal Nath Shivalaya",
+        "main_deity": "Lord Shiva",
+        "image_url": "https://example.com/achal_nath.jpg",
+        "website": null,
+        "year_constructed": 1531,
+        "festivals_and_events": [
+          "Maha Shivaratri"
+        ]
+      }
+    ],
+    "Udaipur": [
+      {
+        "name": "Jagdish Temple",
+        "main_deity": "Lord Vishnu",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Jagdish_Temple_Udaipur.jpg",
+        "website": null,
+        "year_constructed": 1651,
+        "festivals_and_events": [
+          "Diwali",
+          "Janmashtami"
+        ]
+      },
+      {
+        "name": "Eklingji Temple",
+        "main_deity": "Lord Shiva",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Eklingji_Temple_Udaipur.jpg",
+        "website": null,
+        "year_constructed": 734,
+        "festivals_and_events": [
+          "Maha Shivaratri"
+        ]
+      },
+      {
+        "name": "Neemach Mata Temple",
+        "main_deity": "Neemach Mata",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Neemach_Mata_Temple.jpg",
+        "website": null,
+        "year_constructed": 1965,
+        "festivals_and_events": [
+          "Navratri"
+        ]
+      },
+      {
+        "name": "Karni Mata Temple",
+        "main_deity": "Karni Mata",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Karni_Mata_Temple_Udaipur.jpg",
+        "website": null,
+        "year_constructed": 1620,
+        "festivals_and_events": [
+          "Navratri"
+        ]
+      },
+      {
+        "name": "Mahakaleshwar Temple",
+        "main_deity": "Lord Shiva",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Mahakaleshwar_Temple_Udaipur.jpg",
+        "website": null,
+        "year_constructed": 900,
+        "festivals_and_events": [
+          "Maha Shivaratri",
+          "Shravan Month"
+        ]
+      }
+    ],
+    "Bikaner": [
+      {
+        "name": "Karni Mata Temple",
+        "main_deity": "Mata Karni",
+        "image_url": "https://example.com/karni-mata-temple.jpg",
+        "website": null,
+        "year_constructed": 1472,
+        "festivals_and_events": [
+          "Karni Mata Fair",
+          "Navratri"
+        ]
+      },
+      {
+        "name": "Bhandasar Jain Temple",
+        "main_deity": "Sumatinath",
+        "image_url": "https://example.com/bhandasar-jain-temple.jpg",
+        "website": null,
+        "year_constructed": 1468,
+        "festivals_and_events": [
+          "Mahavir Jayanti",
+          "Paryushan"
+        ]
+      },
+      {
+        "name": "Shiv Bari Temple",
+        "main_deity": "Lord Shiva",
+        "image_url": "https://example.com/shiv-bari-temple.jpg",
+        "website": null,
+        "year_constructed": 1687,
+        "festivals_and_events": [
+          "Mahashivratri",
+          "Shravan Mondays"
+        ]
+      },
+      {
+        "name": "Kodamdesar Bhairav Temple",
+        "main_deity": "Bhairav",
+        "image_url": "https://example.com/kodamdesar-bhairav-temple.jpg",
+        "website": null,
+        "year_constructed": 1457,
+        "festivals_and_events": [
+          "Kodamdesar Fair",
+          "Bhairav Ashtami"
+        ]
+      },
+      {
+        "name": "Deshnoke Temple",
+        "main_deity": "Karni Mata",
+        "image_url": "https://example.com/deshnoke-temple.jpg",
+        "website": null,
+        "year_constructed": 1472,
+        "festivals_and_events": [
+          "Deshnoke Fair",
+          "Navratri"
+        ]
+      }
+    ],
+    "Kota": [
+      {
+        "name": "Khade Ganesh Ji Temple",
+        "main_deity": "Lord Ganesha",
+        "image_url": "https://example.com/khade_ganesh_ji.jpg",
+        "website": null,
+        "year_constructed": 1800,
+        "festivals_and_events": [
+          "Ganesh Chaturthi"
+        ]
+      },
+      {
+        "name": "Godavari Dham Temple",
+        "main_deity": "Lord Hanuman",
+        "image_url": "https://example.com/godavari_dham.jpg",
+        "website": null,
+        "year_constructed": 1970,
+        "festivals_and_events": [
+          "Hanuman Jayanti",
+          "Rama Navami"
+        ]
+      },
+      {
+        "name": "Karneshwar Mahadev Temple",
+        "main_deity": "Lord Shiva",
+        "image_url": "https://example.com/karneshwar_mahadev.jpg",
+        "website": null,
+        "year_constructed": 1800,
+        "festivals_and_events": [
+          "Maha Shivaratri",
+          "Shravan Somvar"
+        ]
+      },
+      {
+        "name": "Radhakrishna Temple",
+        "main_deity": "Lord Krishna",
+        "image_url": "https://example.com/radhakrishna_temple.jpg",
+        "website": null,
+        "year_constructed": 1900,
+        "festivals_and_events": [
+          "Janmashtami",
+          "Radhashtami"
+        ]
+      },
+      {
+        "name": "Chandreshwar Mahadev Temple",
+        "main_deity": "Lord Shiva",
+        "image_url": "https://example.com/chandreshwar_mahadev.jpg",
+        "website": null,
+        "year_constructed": 1850,
+        "festivals_and_events": [
+          "Maha Shivaratri"
+        ]
+      }
+    ],
+    "Ajmer": [
+      {
+        "name": "Ajmer Sharif Dargah",
+        "main_deity": "Khwaja Moinuddin Chishti",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Ajmer_Sharif_Dargah.jpg",
+        "website": "https://ajmersharifdargha.org/",
+        "year_constructed": 1236,
+        "festivals_and_events": [
+          "Urs Festival",
+          "Eid"
+        ]
+      },
+      {
+        "name": "Brahma Temple",
+        "main_deity": "Lord Brahma",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Brahma_Temple_Pushkar.jpg",
+        "website": null,
+        "year_constructed": 1300,
+        "festivals_and_events": [
+          "Pushkar Fair",
+          "Kartik Purnima"
+        ]
+      },
+      {
+        "name": "Nareli Jain Temple",
+        "main_deity": "Lord Mahavira",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Nareli_Jain_Temple.jpg",
+        "website": null,
+        "year_constructed": 1994,
+        "festivals_and_events": [
+          "Mahavir Jayanti",
+          "Paryushan"
+        ]
+      },
+      {
+        "name": "Rangji Temple",
+        "main_deity": "Lord Rangji (Vishnu)",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Rangji_Temple_Pushkar.jpg",
+        "website": null,
+        "year_constructed": 1823,
+        "festivals_and_events": [
+          "Rath Yatra",
+          "Janmashtami"
+        ]
+      },
+      {
+        "name": "Savitri Temple",
+        "main_deity": "Goddess Savitri",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Savitri_Temple_Pushkar.jpg",
+        "website": null,
+        "year_constructed": 1687,
+        "festivals_and_events": [
+          "Navratri",
+          "Kartik Purnima"
+        ]
+      }
+    ],
+    "Pali": [
+      {
+        "name": "Ranakpur Jain Temple",
+        "main_deity": "Adinath",
+        "image_url": "https://example.com/ranakpur.jpg",
+        "website": null,
+        "year_constructed": 1437,
+        "festivals_and_events": [
+          "Mahavir Jayanti",
+          "Paryushana"
+        ]
+      },
+      {
+        "name": "Somnath Temple",
+        "main_deity": "Shiva",
+        "image_url": "https://example.com/somnath.jpg",
+        "website": null,
+        "year_constructed": 1200,
+        "festivals_and_events": [
+          "Maha Shivaratri",
+          "Diwali"
+        ]
+      },
+      {
+        "name": "Parshuram Mahadev Temple",
+        "main_deity": "Shiva",
+        "image_url": "https://example.com/parshuram.jpg",
+        "website": null,
+        "year_constructed": 1000,
+        "festivals_and_events": [
+          "Maha Shivaratri",
+          "Navratri"
+        ]
+      },
+      {
+        "name": "Naulakha Jain Temple",
+        "main_deity": "Shantinath",
+        "image_url": "https://example.com/naulakha.jpg",
+        "website": null,
+        "year_constructed": 1459,
+        "festivals_and_events": [
+          "Mahavir Jayanti",
+          "Paryushana"
+        ]
+      },
+      {
+        "name": "Hatundi Rata Mahabir Temple",
+        "main_deity": "Mahavira",
+        "image_url": "https://example.com/hatundi.jpg",
+        "website": null,
+        "year_constructed": 1129,
+        "festivals_and_events": [
+          "Mahavir Jayanti",
+          "Diwali"
+        ]
+      }
+    ],
+    "Barmer": [
+      {
+        "name": "Kiradu Temples",
+        "main_deity": "Shiva",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Kiradu_temple.jpg",
+        "website": null,
+        "year_constructed": 1161,
+        "festivals_and_events": [
+          "Maha Shivaratri"
+        ]
+      },
+      {
+        "name": "Rani Bhatiani Temple",
+        "main_deity": "Bhatiani Mata",
+        "image_url": "https://www.tourmyindia.com/states/rajasthan/images/rani-bhatiani-temple.jpg",
+        "website": null,
+        "year_constructed": 1470,
+        "festivals_and_events": [
+          "Navratri",
+          "Ashwin Shukla Saptami"
+        ]
+      },
+      {
+        "name": "Jain Temple, Nakoda",
+        "main_deity": "Parshvanatha",
+        "image_url": "https://www.tourmyindia.com/states/rajasthan/images/nakoda-jain-temple.jpg",
+        "website": null,
+        "year_constructed": 1224,
+        "festivals_and_events": [
+          "Mahavir Jayanti",
+          "Parshvanatha Jayanti"
+        ]
+      },
+      {
+        "name": "Devka-Sun Temple",
+        "main_deity": "Sun God",
+        "image_url": "https://www.nativeplanet.com/img/2019/01/devka-1548854051.jpg",
+        "website": null,
+        "year_constructed": 12,
+        "festivals_and_events": [
+          "Makar Sankranti",
+          "Chhath Puja"
+        ]
+      },
+      {
+        "name": "Chintamani Parshvanath Jain Temple",
+        "main_deity": "Parshvanatha",
+        "image_url": "https://www.tourmyindia.com/states/rajasthan/images/chintamani-jain-temple.jpg",
+        "website": null,
+        "year_constructed": 1111,
+        "festivals_and_events": [
+          "Parshvanatha Jayanti",
+          "Mahavir Jayanti"
+        ]
+      }
+    ],
+    "Nagaur": [
+      {
+        "name": "Jain Glass Temple",
+        "main_deity": "Lord Mahavira",
+        "image_url": "https://example.com/jain_glass_temple.jpg",
+        "website": null,
+        "year_constructed": 1949,
+        "festivals_and_events": [
+          "Mahavir Jayanti",
+          "Paryushan"
+        ]
+      },
+      {
+        "name": "Meera Bai Temple",
+        "main_deity": "Lord Krishna",
+        "image_url": "https://example.com/meera_bai_temple.jpg",
+        "website": null,
+        "year_constructed": 1730,
+        "festivals_and_events": [
+          "Janmashtami",
+          "Holi"
+        ]
+      },
+      {
+        "name": "Mundiyar Jain Temple",
+        "main_deity": "Lord Parshvanatha",
+        "image_url": "https://example.com/mundiyar_jain_temple.jpg",
+        "website": null,
+        "year_constructed": 1879,
+        "festivals_and_events": [
+          "Mahavir Jayanti",
+          "Paryushan"
+        ]
+      },
+      {
+        "name": "Shri Jasnath Asan",
+        "main_deity": "Lord Shiva",
+        "image_url": "https://example.com/shri_jasnath_asan.jpg",
+        "website": null,
+        "year_constructed": 1529,
+        "festivals_and_events": [
+          "Maha Shivaratri",
+          "Navratri"
+        ]
+      },
+      {
+        "name": "Khinvsar Fort Temple",
+        "main_deity": "Lord Ganesha",
+        "image_url": "https://example.com/khinvsar_fort_temple.jpg",
+        "website": null,
+        "year_constructed": 1523,
+        "festivals_and_events": [
+          "Ganesh Chaturthi",
+          "Diwali"
+        ]
+      }
+    ],
+    "Tonk": [
+      {
+        "name": "Bisaldev Temple",
+        "main_deity": "Lord Shiva",
+        "image_url": "https://example.com/bisaldev_temple.jpg",
+        "website": null,
+        "year_constructed": 1154,
+        "festivals_and_events": [
+          "Mahashivaratri",
+          "Shravan Somvar"
+        ]
+      },
+      {
+        "name": "Jain Glass Temple",
+        "main_deity": "Lord Mahavira",
+        "image_url": "https://example.com/jain_glass_temple.jpg",
+        "website": null,
+        "year_constructed": 1864,
+        "festivals_and_events": [
+          "Mahavir Jayanti",
+          "Paryushan"
+        ]
+      },
+      {
+        "name": "Kakor Fort and Temple",
+        "main_deity": "Kalka Devi",
+        "image_url": "https://example.com/kakor_temple.jpg",
+        "website": null,
+        "year_constructed": 1713,
+        "festivals_and_events": [
+          "Navratri",
+          "Diwali"
+        ]
+      },
+      {
+        "name": "Rasiya Ki Tekri",
+        "main_deity": "Lord Krishna",
+        "image_url": "https://example.com/rasiya_ki_tekri.jpg",
+        "website": null,
+        "year_constructed": 1500,
+        "festivals_and_events": [
+          "Janmashtami",
+          "Holi"
+        ]
+      },
+      {
+        "name": "Sunhari Kothi",
+        "main_deity": "Various (Palace Temple)",
+        "image_url": "https://example.com/sunhari_kothi.jpg",
+        "website": null,
+        "year_constructed": 1780,
+        "festivals_and_events": [
+          "Diwali",
+          "Holi"
+        ]
+      }
+    ]
+  },
+  "state": "Rajasthan",
+  "last_updated": "2026-08-01T13:45:09.803617"
+}

@@ -1,0 +1,519 @@
+{
+  "cities": {
+    "Ranchi": [
+      {
+        "name": "Jagannath Temple",
+        "main_deity": "Lord Jagannath",
+        "image_url": "https://example.com/jagannath.jpg",
+        "website": null,
+        "year_constructed": 1691,
+        "festivals_and_events": [
+          "Rath Yatra",
+          "Snana Yatra"
+        ]
+      },
+      {
+        "name": "Pahari Mandir",
+        "main_deity": "Lord Shiva",
+        "image_url": "https://example.com/pahari_mandir.jpg",
+        "website": null,
+        "year_constructed": 1820,
+        "festivals_and_events": [
+          "Maha Shivaratri",
+          "Shravan Mela"
+        ]
+      },
+      {
+        "name": "Sun Temple",
+        "main_deity": "Sun God",
+        "image_url": "https://example.com/sun_temple.jpg",
+        "website": null,
+        "year_constructed": 1991,
+        "festivals_and_events": [
+          "Chhath Puja",
+          "Makar Sankranti"
+        ]
+      },
+      {
+        "name": "Deori Mandir",
+        "main_deity": "Goddess Durga",
+        "image_url": "https://example.com/deori_mandir.jpg",
+        "website": null,
+        "year_constructed": 1300,
+        "festivals_and_events": [
+          "Navratri",
+          "Durga Puja"
+        ]
+      },
+      {
+        "name": "Durga Badi",
+        "main_deity": "Goddess Durga",
+        "image_url": "https://example.com/durga_badi.jpg",
+        "website": null,
+        "year_constructed": 1962,
+        "festivals_and_events": [
+          "Durga Puja",
+          "Vijayadashami"
+        ]
+      }
+    ],
+    "Jamshedpur": [
+      {
+        "name": "Bhuvaneshwari Temple",
+        "main_deity": "Goddess Bhuvaneshwari",
+        "image_url": "https://example.com/bhuvaneshwari_temple.jpg",
+        "website": null,
+        "year_constructed": 1978,
+        "festivals_and_events": [
+          "Navaratri",
+          "Durga Puja"
+        ]
+      },
+      {
+        "name": "Rankini Mandir",
+        "main_deity": "Goddess Rankini",
+        "image_url": "https://example.com/rankini_mandir.jpg",
+        "website": null,
+        "year_constructed": 1970,
+        "festivals_and_events": [
+          "Makar Sankranti",
+          "Chaitra Navratri"
+        ]
+      },
+      {
+        "name": "Sakchi Gurudwara",
+        "main_deity": "Guru Granth Sahib",
+        "image_url": "https://example.com/sakchi_gurudwara.jpg",
+        "website": null,
+        "year_constructed": 1950,
+        "festivals_and_events": [
+          "Guru Nanak Jayanti",
+          "Vaisakhi"
+        ]
+      },
+      {
+        "name": "Sri Ram Temple",
+        "main_deity": "Lord Rama",
+        "image_url": "https://example.com/sri_ram_temple.jpg",
+        "website": null,
+        "year_constructed": 1985,
+        "festivals_and_events": [
+          "Ram Navami",
+          "Diwali"
+        ]
+      },
+      {
+        "name": "Jubilee Park Shiva Temple",
+        "main_deity": "Lord Shiva",
+        "image_url": "https://example.com/jubilee_park_shiva_temple.jpg",
+        "website": null,
+        "year_constructed": 1975,
+        "festivals_and_events": [
+          "Maha Shivaratri",
+          "Shravan Maas"
+        ]
+      }
+    ],
+    "Dhanbad": [
+      {
+        "name": "Shakti Mandir",
+        "main_deity": "Goddess Durga",
+        "image_url": "https://example.com/shakti_mandir.jpg",
+        "website": null,
+        "year_constructed": 1970,
+        "festivals_and_events": [
+          "Navratri",
+          "Durga Puja"
+        ]
+      },
+      {
+        "name": "Jagannath Temple",
+        "main_deity": "Lord Jagannath",
+        "image_url": "https://example.com/jagannath_temple.jpg",
+        "website": null,
+        "year_constructed": 1990,
+        "festivals_and_events": [
+          "Rath Yatra",
+          "Jagannath Puja"
+        ]
+      },
+      {
+        "name": "Panchmukhi Hanuman Mandir",
+        "main_deity": "Lord Hanuman",
+        "image_url": "https://example.com/panchmukhi_hanuman.jpg",
+        "website": null,
+        "year_constructed": 1985,
+        "festivals_and_events": [
+          "Hanuman Jayanti",
+          "Ram Navami"
+        ]
+      },
+      {
+        "name": "Kali Mandir",
+        "main_deity": "Goddess Kali",
+        "image_url": "https://example.com/kali_mandir.jpg",
+        "website": null,
+        "year_constructed": 1965,
+        "festivals_and_events": [
+          "Kali Puja",
+          "Diwali"
+        ]
+      },
+      {
+        "name": "Baidyanath Temple",
+        "main_deity": "Lord Shiva",
+        "image_url": "https://example.com/baidyanath_temple.jpg",
+        "website": null,
+        "year_constructed": 1975,
+        "festivals_and_events": [
+          "Mahashivratri",
+          "Shravan Mela"
+        ]
+      }
+    ],
+    "Giridih": [
+      {
+        "name": "Parasnath Temple",
+        "main_deity": "Lord Parshvanatha",
+        "image_url": "https://example.com/parasnath.jpg",
+        "website": null,
+        "year_constructed": 1765,
+        "festivals_and_events": [
+          "Mahavir Jayanti",
+          "Parshvanatha Nirvana Day"
+        ]
+      },
+      {
+        "name": "Khandoli Temple",
+        "main_deity": "Lord Shiva",
+        "image_url": "https://example.com/khandoli.jpg",
+        "website": null,
+        "year_constructed": 1850,
+        "festivals_and_events": [
+          "Maha Shivaratri",
+          "Shravan Mela"
+        ]
+      },
+      {
+        "name": "Usri Falls Temple",
+        "main_deity": "Multiple Deities",
+        "image_url": "https://example.com/usri_falls.jpg",
+        "website": null,
+        "year_constructed": 1900,
+        "festivals_and_events": [
+          "Chhath Puja",
+          "Makar Sankranti"
+        ]
+      },
+      {
+        "name": "Harihar Dham",
+        "main_deity": "Lord Shiva",
+        "image_url": "https://example.com/harihar_dham.jpg",
+        "website": null,
+        "year_constructed": 1990,
+        "festivals_and_events": [
+          "Maha Shivaratri",
+          "Shravan Mela"
+        ]
+      },
+      {
+        "name": "Shikharji Temple",
+        "main_deity": "24 Tirthankaras",
+        "image_url": "https://example.com/shikharji.jpg",
+        "website": null,
+        "year_constructed": 1765,
+        "festivals_and_events": [
+          "Paryushana",
+          "Mahavir Jayanti"
+        ]
+      }
+    ],
+    "Bokaro": [
+      {
+        "name": "Jagannath Temple",
+        "main_deity": "Lord Jagannath",
+        "image_url": "https://example.com/jagannath_temple.jpg",
+        "website": null,
+        "year_constructed": 2000,
+        "festivals_and_events": [
+          "Rath Yatra",
+          "Snana Yatra"
+        ]
+      },
+      {
+        "name": "Gayatri Mandir",
+        "main_deity": "Goddess Gayatri",
+        "image_url": "https://example.com/gayatri_mandir.jpg",
+        "website": null,
+        "year_constructed": 1999,
+        "festivals_and_events": [
+          "Gayatri Jayanti",
+          "Navratri"
+        ]
+      },
+      {
+        "name": "Ayyappa Temple",
+        "main_deity": "Lord Ayyappa",
+        "image_url": "https://example.com/ayyappa_temple.jpg",
+        "website": null,
+        "year_constructed": 1995,
+        "festivals_and_events": [
+          "Makaravilakku",
+          "Mandala Pooja"
+        ]
+      },
+      {
+        "name": "Sri Sri Kalika Maharani Temple",
+        "main_deity": "Goddess Kali",
+        "image_url": "https://example.com/kalika_maharani_temple.jpg",
+        "website": null,
+        "year_constructed": 1978,
+        "festivals_and_events": [
+          "Kali Puja",
+          "Diwali"
+        ]
+      },
+      {
+        "name": "Hanuman Mandir",
+        "main_deity": "Lord Hanuman",
+        "image_url": "https://example.com/hanuman_mandir.jpg",
+        "website": null,
+        "year_constructed": 1985,
+        "festivals_and_events": [
+          "Hanuman Jayanti",
+          "Rama Navami"
+        ]
+      }
+    ],
+    "Hazaribag": [
+      {
+        "name": "Rajrappa Temple",
+        "main_deity": "Goddess Chinnamasta",
+        "image_url": "https://example.com/rajrappa.jpg",
+        "website": null,
+        "year_constructed": 1850,
+        "festivals_and_events": [
+          "Chhath Puja",
+          "Navratri"
+        ]
+      },
+      {
+        "name": "Budhwa Mahadev Mandir",
+        "main_deity": "Lord Shiva",
+        "image_url": "https://example.com/budhwa_mahadev.jpg",
+        "website": null,
+        "year_constructed": 1750,
+        "festivals_and_events": [
+          "Maha Shivratri",
+          "Shravan Mela"
+        ]
+      },
+      {
+        "name": "Kali Mandir",
+        "main_deity": "Goddess Kali",
+        "image_url": "https://example.com/kali_mandir.jpg",
+        "website": null,
+        "year_constructed": 1900,
+        "festivals_and_events": [
+          "Diwali",
+          "Kali Puja"
+        ]
+      },
+      {
+        "name": "Suryakund Temple",
+        "main_deity": "Lord Surya",
+        "image_url": "https://example.com/suryakund.jpg",
+        "website": null,
+        "year_constructed": 1800,
+        "festivals_and_events": [
+          "Makar Sankranti",
+          "Chhath Puja"
+        ]
+      },
+      {
+        "name": "Narsingh Sthan Temple",
+        "main_deity": "Lord Narsingh",
+        "image_url": "https://example.com/narsingh.jpg",
+        "website": null,
+        "year_constructed": 1600,
+        "festivals_and_events": [
+          "Narasimha Jayanti",
+          "Holi"
+        ]
+      }
+    ],
+    "Deoghar": [
+      {
+        "name": "Baidyanath Temple",
+        "main_deity": "Lord Shiva",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Baba_Baidyanath_Dham.jpg",
+        "website": "https://babadham.org",
+        "year_constructed": 1596,
+        "festivals_and_events": [
+          "Shraavana Mela",
+          "Maha Shivaratri"
+        ]
+      },
+      {
+        "name": "Basukinath Temple",
+        "main_deity": "Lord Shiva",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Basukinath_Mandir.jpg",
+        "website": null,
+        "year_constructed": 1782,
+        "festivals_and_events": [
+          "Shraavana Mela",
+          "Maha Shivaratri"
+        ]
+      },
+      {
+        "name": "Nandan Pahar",
+        "main_deity": "Lord Shiva",
+        "image_url": "https://www.nativeplanet.com/img/2015/02/cover-1424418185.jpg",
+        "website": null,
+        "year_constructed": 1890,
+        "festivals_and_events": [
+          "Shraavana Mela",
+          "Maha Shivaratri"
+        ]
+      },
+      {
+        "name": "Trikuta Parvata Temple",
+        "main_deity": "Trikuta Devi",
+        "image_url": "https://www.trawell.in/admin/images/upload/160630390TrikutaTrek_Main.jpg",
+        "website": null,
+        "year_constructed": 1850,
+        "festivals_and_events": [
+          "Navaratri",
+          "Durga Puja"
+        ]
+      },
+      {
+        "name": "Naulakha Mandir",
+        "main_deity": "Radha-Krishna",
+        "image_url": "https://www.tourmyindia.com/blog//wp-content/uploads/2015/11/Naulakha-Temple-Deoghar.jpg",
+        "website": null,
+        "year_constructed": 1940,
+        "festivals_and_events": [
+          "Janmashtami",
+          "Radhashtami"
+        ]
+      }
+    ],
+    "Lohardaga": [
+      {
+        "name": "Mahamaya Temple",
+        "main_deity": "Goddess Mahamaya",
+        "image_url": "https://example.com/mahamaya_temple.jpg",
+        "website": null,
+        "year_constructed": 1857,
+        "festivals_and_events": [
+          "Navratri",
+          "Durga Puja"
+        ]
+      },
+      {
+        "name": "Sati Temple",
+        "main_deity": "Goddess Sati",
+        "image_url": "https://example.com/sati_temple.jpg",
+        "website": null,
+        "year_constructed": 1901,
+        "festivals_and_events": [
+          "Makar Sankranti",
+          "Maha Shivaratri"
+        ]
+      },
+      {
+        "name": "Hanuman Temple",
+        "main_deity": "Lord Hanuman",
+        "image_url": "https://example.com/hanuman_temple.jpg",
+        "website": null,
+        "year_constructed": 1920,
+        "festivals_and_events": [
+          "Hanuman Jayanti",
+          "Diwali"
+        ]
+      },
+      {
+        "name": "Shiv Mandir",
+        "main_deity": "Lord Shiva",
+        "image_url": "https://example.com/shiv_mandir.jpg",
+        "website": null,
+        "year_constructed": 1885,
+        "festivals_and_events": [
+          "Maha Shivaratri",
+          "Shravan Month Celebrations"
+        ]
+      },
+      {
+        "name": "Radha Krishna Mandir",
+        "main_deity": "Radha Krishna",
+        "image_url": "https://example.com/radha_krishna_mandir.jpg",
+        "website": null,
+        "year_constructed": 1935,
+        "festivals_and_events": [
+          "Janmashtami",
+          "Radha Ashtami"
+        ]
+      }
+    ],
+    "Koderma": [
+      {
+        "name": "Shakti Mandir",
+        "main_deity": "Goddess Durga",
+        "image_url": "https://example.com/shakti_mandir.jpg",
+        "website": null,
+        "year_constructed": 1975,
+        "festivals_and_events": [
+          "Durga Puja",
+          "Navratri"
+        ]
+      },
+      {
+        "name": "Kailashpuri Temple",
+        "main_deity": "Lord Shiva",
+        "image_url": "https://example.com/kailashpuri_temple.jpg",
+        "website": null,
+        "year_constructed": 1980,
+        "festivals_and_events": [
+          "Mahashivratri",
+          "Shravan Month"
+        ]
+      },
+      {
+        "name": "Hanuman Mandir",
+        "main_deity": "Lord Hanuman",
+        "image_url": "https://example.com/hanuman_mandir.jpg",
+        "website": null,
+        "year_constructed": 1965,
+        "festivals_and_events": [
+          "Hanuman Jayanti",
+          "Ram Navami"
+        ]
+      },
+      {
+        "name": "Radha Krishna Mandir",
+        "main_deity": "Radha Krishna",
+        "image_url": "https://example.com/radha_krishna_mandir.jpg",
+        "website": null,
+        "year_constructed": 1972,
+        "festivals_and_events": [
+          "Janmashtami",
+          "Radhashtami"
+        ]
+      },
+      {
+        "name": "Bajrang Bali Temple",
+        "main_deity": "Lord Hanuman",
+        "image_url": "https://example.com/bajrang_bali_temple.jpg",
+        "website": null,
+        "year_constructed": 1990,
+        "festivals_and_events": [
+          "Hanuman Jayanti",
+          "Diwali"
+        ]
+      }
+    ]
+  },
+  "state": "Jharkhand",
+  "last_updated": "2026-08-01T13:39:06.301825"
+}

@@ -1,0 +1,515 @@
+{
+  "cities": {
+    "Hyderabad": [
+      {
+        "name": "Birla Mandir",
+        "main_deity": "Venkateswara",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Birla_Mandir_Hyderabad%2C_India.jpg",
+        "website": null,
+        "year_constructed": 1976,
+        "festivals_and_events": [
+          "Vaikunta Ekadashi",
+          "Brahmotsavam"
+        ]
+      },
+      {
+        "name": "Chilkur Balaji Temple",
+        "main_deity": "Venkateswara",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Chilkur_Balaji_Temple.jpg",
+        "website": "http://www.chilkurbalaji.com/",
+        "year_constructed": 1150,
+        "festivals_and_events": [
+          "Brahmotsavam",
+          "Anivara Asthanam"
+        ]
+      },
+      {
+        "name": "Jagannath Temple",
+        "main_deity": "Jagannath",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Jagannath_Temple%2C_Banjara_Hills%2C_Hyderabad.jpg",
+        "website": "http://www.jagannathtemplehyderabad.com/",
+        "year_constructed": 2009,
+        "festivals_and_events": [
+          "Rath Yatra",
+          "Bahuda Yatra"
+        ]
+      },
+      {
+        "name": "Peddamma Temple",
+        "main_deity": "Peddamma",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Peddamma_temple.jpg",
+        "website": null,
+        "year_constructed": 1500,
+        "festivals_and_events": [
+          "Bonaalu",
+          "Mahotsavam"
+        ]
+      },
+      {
+        "name": "Keesaragutta Temple",
+        "main_deity": "Shiva",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Keesaragutta_Temple.jpg",
+        "website": null,
+        "year_constructed": 4,
+        "festivals_and_events": [
+          "Shivaratri",
+          "Karthika Masam"
+        ]
+      }
+    ],
+    "Secunderabad": [
+      {
+        "name": "Ujjaini Mahakali Temple",
+        "main_deity": "Goddess Mahakali",
+        "image_url": "https://example.com/ujjaini_mahakali.jpg",
+        "website": null,
+        "year_constructed": 1815,
+        "festivals_and_events": [
+          "Bonalu",
+          "Durga Ashtami"
+        ]
+      },
+      {
+        "name": "Sri Subrahmanyaswamy Temple",
+        "main_deity": "Lord Subrahmanya",
+        "image_url": "https://example.com/subrahmanyaswamy_temple.jpg",
+        "website": null,
+        "year_constructed": 1973,
+        "festivals_and_events": [
+          "Skanda Sashti",
+          "Thaipusam"
+        ]
+      },
+      {
+        "name": "Peddamma Temple",
+        "main_deity": "Goddess Peddamma",
+        "image_url": "https://example.com/peddamma_temple.jpg",
+        "website": null,
+        "year_constructed": 1993,
+        "festivals_and_events": [
+          "Bonalu",
+          "Ugadi"
+        ]
+      },
+      {
+        "name": "Sri Venkateshwara Swamy Temple",
+        "main_deity": "Lord Venkateshwara",
+        "image_url": "https://example.com/venkateshwara_temple.jpg",
+        "website": null,
+        "year_constructed": 1976,
+        "festivals_and_events": [
+          "Brahmotsavam",
+          "Vaikunta Ekadasi"
+        ]
+      },
+      {
+        "name": "Sri Ganesh Temple",
+        "main_deity": "Lord Ganesh",
+        "image_url": "https://example.com/ganesh_temple.jpg",
+        "website": null,
+        "year_constructed": 1965,
+        "festivals_and_events": [
+          "Ganesh Chaturthi",
+          "Sankashti Chaturthi"
+        ]
+      }
+    ],
+    "Warangal": [
+      {
+        "name": "Thousand Pillar Temple",
+        "main_deity": "Lord Shiva",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Thousand_Pillar_Temple_Warangal.jpg",
+        "website": null,
+        "year_constructed": 1163,
+        "festivals_and_events": [
+          "Maha Shivaratri",
+          "Karthika Masam"
+        ]
+      },
+      {
+        "name": "Bhadrakali Temple",
+        "main_deity": "Goddess Bhadrakali",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Bhadrakali_Temple_Warangal.jpg",
+        "website": null,
+        "year_constructed": 625,
+        "festivals_and_events": [
+          "Vasantha Navaratri",
+          "Ashada Jathara"
+        ]
+      },
+      {
+        "name": "Ramappa Temple",
+        "main_deity": "Lord Shiva",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Ramappa_Temple.jpg",
+        "website": null,
+        "year_constructed": 1213,
+        "festivals_and_events": [
+          "Maha Shivaratri"
+        ]
+      },
+      {
+        "name": "Padmakshi Temple",
+        "main_deity": "Goddess Padmakshi",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Padmakshi_Gutta_Temple.jpg",
+        "website": null,
+        "year_constructed": 12,
+        "festivals_and_events": [
+          "Bathukamma Festival"
+        ]
+      },
+      {
+        "name": "Siddheshwara Temple",
+        "main_deity": "Lord Shiva",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Siddheshwara_Temple_Warangal.jpg",
+        "website": null,
+        "year_constructed": 12,
+        "festivals_and_events": [
+          "Maha Shivaratri"
+        ]
+      }
+    ],
+    "Nizamabad": [
+      {
+        "name": "Dichpally Ramalayam",
+        "main_deity": "Lord Rama",
+        "image_url": "https://example.com/dichpally_ramalayam.jpg",
+        "website": null,
+        "year_constructed": 1325,
+        "festivals_and_events": [
+          "Rama Navami",
+          "Diwali"
+        ]
+      },
+      {
+        "name": "Neela Kanteshwara Temple",
+        "main_deity": "Lord Shiva",
+        "image_url": "https://example.com/neela_kanteshwara.jpg",
+        "website": null,
+        "year_constructed": 1300,
+        "festivals_and_events": [
+          "Maha Shivaratri",
+          "Karthika Masam"
+        ]
+      },
+      {
+        "name": "Sri Lakshmi Narasimha Swamy Temple",
+        "main_deity": "Lord Narasimha",
+        "image_url": "https://example.com/lakshmi_narasimha_swamy.jpg",
+        "website": null,
+        "year_constructed": 900,
+        "festivals_and_events": [
+          "Narasimha Jayanti",
+          "Vaikunta Ekadasi"
+        ]
+      },
+      {
+        "name": "Kanteshwar Temple",
+        "main_deity": "Lord Shiva",
+        "image_url": "https://example.com/kanteshwar_temple.jpg",
+        "website": null,
+        "year_constructed": 12,
+        "festivals_and_events": [
+          "Maha Shivaratri",
+          "Karthika Masam"
+        ]
+      },
+      {
+        "name": "Sri Rama Temple",
+        "main_deity": "Lord Rama",
+        "image_url": "https://example.com/sri_rama_temple.jpg",
+        "website": null,
+        "year_constructed": 14,
+        "festivals_and_events": [
+          "Rama Navami",
+          "Diwali"
+        ]
+      }
+    ],
+    "Karimnagar": [
+      {
+        "name": "Sri Raja Rajeshwara Swamy Temple",
+        "main_deity": "Lord Shiva",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Rajanna_Temple_Vemulawada.jpg",
+        "website": "http://www.vemulawadatemple.org/",
+        "year_constructed": 750,
+        "festivals_and_events": [
+          "Maha Shivaratri",
+          "Kalyanotsavam"
+        ]
+      },
+      {
+        "name": "Kondagattu Anjaneya Swamy Temple",
+        "main_deity": "Lord Hanuman",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Kondagattu_Anjaneya_Temple.jpg",
+        "website": null,
+        "year_constructed": 1700,
+        "festivals_and_events": [
+          "Hanuman Jayanti",
+          "Rathotsavam"
+        ]
+      },
+      {
+        "name": "Mukteshwara Swamy Temple",
+        "main_deity": "Lord Shiva",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Mukteshwara_Swamy_Temple.jpg",
+        "website": null,
+        "year_constructed": 1100,
+        "festivals_and_events": [
+          "Maha Shivaratri",
+          "Kartika Masam"
+        ]
+      },
+      {
+        "name": "Nagunur Fort and Temples",
+        "main_deity": "Lord Shiva",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Nagunur_Temples.jpg",
+        "website": null,
+        "year_constructed": 1200,
+        "festivals_and_events": [
+          "Maha Shivaratri"
+        ]
+      },
+      {
+        "name": "Dharmapuri Sri Lakshmi Narasimha Swamy Temple",
+        "main_deity": "Lord Narasimha",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Dharmapuri_Temple.jpg",
+        "website": null,
+        "year_constructed": 850,
+        "festivals_and_events": [
+          "Narasimha Jayanti",
+          "Brahmotsavam"
+        ]
+      }
+    ],
+    "Ramagundam": [
+      {
+        "name": "Ramagundam Sri Venkateswara Swamy Temple",
+        "main_deity": "Venkateswara",
+        "image_url": "https://example.com/ramagundam_venkateswara.jpg",
+        "website": null,
+        "year_constructed": 1970,
+        "festivals_and_events": [
+          "Brahmotsavam",
+          "Vaikunta Ekadashi"
+        ]
+      },
+      {
+        "name": "Ramagundam Sri Rama Temple",
+        "main_deity": "Rama",
+        "image_url": "https://example.com/ramagundam_rama.jpg",
+        "website": null,
+        "year_constructed": 1965,
+        "festivals_and_events": [
+          "Rama Navami",
+          "Diwali"
+        ]
+      },
+      {
+        "name": "Sri Kanaka Durga Temple",
+        "main_deity": "Kanaka Durga",
+        "image_url": "https://example.com/ramagundam_kanaka_durga.jpg",
+        "website": null,
+        "year_constructed": 1980,
+        "festivals_and_events": [
+          "Navaratri",
+          "Durga Ashtami"
+        ]
+      },
+      {
+        "name": "Ramagundam Sai Baba Temple",
+        "main_deity": "Sai Baba",
+        "image_url": "https://example.com/ramagundam_sai_baba.jpg",
+        "website": null,
+        "year_constructed": 1990,
+        "festivals_and_events": [
+          "Guru Purnima",
+          "Sai Baba Jayanti"
+        ]
+      },
+      {
+        "name": "Sri Hanuman Temple",
+        "main_deity": "Hanuman",
+        "image_url": "https://example.com/ramagundam_hanuman.jpg",
+        "website": null,
+        "year_constructed": 1950,
+        "festivals_and_events": [
+          "Hanuman Jayanti",
+          "Rama Navami"
+        ]
+      }
+    ],
+    "Khammam": [
+      {
+        "name": "Sri Venkateswara Swamy Temple",
+        "main_deity": "Lord Venkateswara",
+        "image_url": "https://example.com/sri_venkateswara.jpg",
+        "website": null,
+        "year_constructed": 1600,
+        "festivals_and_events": [
+          "Brahmotsavam",
+          "Vaikunta Ekadasi"
+        ]
+      },
+      {
+        "name": "Sri Seetha Ramachandra Swamy Temple",
+        "main_deity": "Lord Rama",
+        "image_url": "https://example.com/sri_seetha_ramachandra.jpg",
+        "website": null,
+        "year_constructed": 1800,
+        "festivals_and_events": [
+          "Rama Navami",
+          "Hanuman Jayanti"
+        ]
+      },
+      {
+        "name": "Sri Lakshmi Narasimha Swamy Temple",
+        "main_deity": "Lord Narasimha",
+        "image_url": "https://example.com/sri_lakshmi_narasimha.jpg",
+        "website": null,
+        "year_constructed": 1400,
+        "festivals_and_events": [
+          "Narasimha Jayanti",
+          "Brahmotsavam"
+        ]
+      },
+      {
+        "name": "Sri Hanuman Temple",
+        "main_deity": "Lord Hanuman",
+        "image_url": "https://example.com/sri_hanuman.jpg",
+        "website": null,
+        "year_constructed": 1700,
+        "festivals_and_events": [
+          "Hanuman Jayanti",
+          "Ugadi"
+        ]
+      },
+      {
+        "name": "Sri Kasi Visweswara Swamy Temple",
+        "main_deity": "Lord Shiva",
+        "image_url": "https://example.com/sri_kasi_visweswara.jpg",
+        "website": null,
+        "year_constructed": 1500,
+        "festivals_and_events": [
+          "Maha Shivaratri",
+          "Karthika Deepam"
+        ]
+      }
+    ],
+    "Mahbubnagar": [
+      {
+        "name": "Jogulamba Temple",
+        "main_deity": "Goddess Jogulamba",
+        "image_url": "https://example.com/jogulamba.jpg",
+        "website": null,
+        "year_constructed": 1400,
+        "festivals_and_events": [
+          "Maha Shivaratri",
+          "Navaratri"
+        ]
+      },
+      {
+        "name": "Alampur Navabrahma Temples",
+        "main_deity": "Lord Shiva",
+        "image_url": "https://example.com/navabrahma.jpg",
+        "website": null,
+        "year_constructed": 745,
+        "festivals_and_events": [
+          "Maha Shivaratri",
+          "Karthika Masam"
+        ]
+      },
+      {
+        "name": "Sri Ranganayaka Swamy Temple",
+        "main_deity": "Lord Ranganayaka",
+        "image_url": "https://example.com/ranganayaka.jpg",
+        "website": null,
+        "year_constructed": 1500,
+        "festivals_and_events": [
+          "Brahmotsavam",
+          "Vaikunta Ekadashi"
+        ]
+      },
+      {
+        "name": "Umamaheshwaram Temple",
+        "main_deity": "Lord Shiva",
+        "image_url": "https://example.com/umamaheshwaram.jpg",
+        "website": null,
+        "year_constructed": 1200,
+        "festivals_and_events": [
+          "Maha Shivaratri",
+          "Karthika Deepam"
+        ]
+      },
+      {
+        "name": "Ranganayaka Swamy Temple, Srirangapur",
+        "main_deity": "Lord Ranganayaka",
+        "image_url": "https://example.com/ranganayaka_srirangapur.jpg",
+        "website": null,
+        "year_constructed": 1600,
+        "festivals_and_events": [
+          "Brahmotsavam",
+          "Vaikunta Ekadashi"
+        ]
+      }
+    ],
+    "Sangareddy": [
+      {
+        "name": "Iskcon Temple",
+        "main_deity": "Lord Krishna",
+        "image_url": "https://example.com/iskcon_sangareddy.jpg",
+        "website": null,
+        "year_constructed": 1990,
+        "festivals_and_events": [
+          "Janmashtami",
+          "Radhashtami"
+        ]
+      },
+      {
+        "name": "Sri Venkateshwara Swamy Temple",
+        "main_deity": "Lord Venkateshwara",
+        "image_url": "https://example.com/venkateshwara_sangareddy.jpg",
+        "website": null,
+        "year_constructed": 1985,
+        "festivals_and_events": [
+          "Brahmotsavam",
+          "Vaikunta Ekadashi"
+        ]
+      },
+      {
+        "name": "Shivalayam Temple",
+        "main_deity": "Lord Shiva",
+        "image_url": "https://example.com/shivalayam_sangareddy.jpg",
+        "website": null,
+        "year_constructed": 1970,
+        "festivals_and_events": [
+          "Maha Shivaratri",
+          "Karthika Deepam"
+        ]
+      },
+      {
+        "name": "Hanuman Temple",
+        "main_deity": "Lord Hanuman",
+        "image_url": "https://example.com/hanuman_sangareddy.jpg",
+        "website": null,
+        "year_constructed": 1980,
+        "festivals_and_events": [
+          "Hanuman Jayanti",
+          "Rama Navami"
+        ]
+      },
+      {
+        "name": "Sri Rama Temple",
+        "main_deity": "Lord Rama",
+        "image_url": "https://example.com/rama_sangareddy.jpg",
+        "website": null,
+        "year_constructed": 1965,
+        "festivals_and_events": [
+          "Rama Navami",
+          "Diwali"
+        ]
+      }
+    ]
+  },
+  "state": "Telangana",
+  "last_updated": "2026-08-01T13:46:19.333039"
+}

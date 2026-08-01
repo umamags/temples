@@ -1,0 +1,403 @@
+{
+  "cities": {
+    "Agartala": [
+      {
+        "name": "Tripura Sundari Temple",
+        "main_deity": "Goddess Tripura Sundari",
+        "image_url": "https://example.com/tripura_sundari.jpg",
+        "website": null,
+        "year_constructed": 1501,
+        "festivals_and_events": [
+          "Diwali",
+          "Durga Puja"
+        ]
+      },
+      {
+        "name": "Jagannath Temple",
+        "main_deity": "Lord Jagannath",
+        "image_url": "https://example.com/jagannath_temple.jpg",
+        "website": null,
+        "year_constructed": 1860,
+        "festivals_and_events": [
+          "Rath Yatra",
+          "Janmashtami"
+        ]
+      },
+      {
+        "name": "Benuban Vihar",
+        "main_deity": "Lord Buddha",
+        "image_url": "https://example.com/benuban_vihar.jpg",
+        "website": null,
+        "year_constructed": 1946,
+        "festivals_and_events": [
+          "Buddha Purnima",
+          "Kathina Ceremony"
+        ]
+      },
+      {
+        "name": "Lakshmi Narayan Bari Temple",
+        "main_deity": "Lord Krishna",
+        "image_url": "https://example.com/lakshmi_narayan_bari.jpg",
+        "website": null,
+        "year_constructed": 1909,
+        "festivals_and_events": [
+          "Janmashtami",
+          "Ratha Yatra"
+        ]
+      },
+      {
+        "name": "Uma Maheshwari Temple",
+        "main_deity": "Goddess Uma Maheshwari",
+        "image_url": "https://example.com/uma_maheshwari.jpg",
+        "website": null,
+        "year_constructed": 1978,
+        "festivals_and_events": [
+          "Navratri",
+          "Maha Shivaratri"
+        ]
+      }
+    ],
+    "Udaipur": [
+      {
+        "name": "Tripura Sundari Temple",
+        "main_deity": "Goddess Tripura Sundari",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Tripura_Sundari_Temple.jpg",
+        "website": null,
+        "year_constructed": 1501,
+        "festivals_and_events": [
+          "Diwali",
+          "Durgashtami",
+          "Kartik Purnima"
+        ]
+      },
+      {
+        "name": "Bhuvaneswari Temple",
+        "main_deity": "Goddess Bhuvaneswari",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Bhuvaneswari_Temple_Udaipur.jpg",
+        "website": null,
+        "year_constructed": 1660,
+        "festivals_and_events": [
+          "Durga Puja",
+          "Navaratri"
+        ]
+      },
+      {
+        "name": "Gunabati Group of Temples",
+        "main_deity": "Lord Vishnu",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Gunabati_Group_of_Temples.jpg",
+        "website": null,
+        "year_constructed": 1668,
+        "festivals_and_events": [
+          "Janmashtami",
+          "Rath Yatra"
+        ]
+      },
+      {
+        "name": "Jagannath Temple",
+        "main_deity": "Lord Jagannath",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Jagannath_Temple_Udaipur.jpg",
+        "website": null,
+        "year_constructed": 1673,
+        "festivals_and_events": [
+          "Rath Yatra",
+          "Snana Yatra"
+        ]
+      },
+      {
+        "name": "Mahadev Temple",
+        "main_deity": "Lord Shiva",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Mahadev_Temple_Udaipur.jpg",
+        "website": null,
+        "year_constructed": 1650,
+        "festivals_and_events": [
+          "Maha Shivaratri",
+          "Shivaratri"
+        ]
+      }
+    ],
+    "Dharmanagar": [
+      {
+        "name": "Kali Mandir",
+        "main_deity": "Goddess Kali",
+        "image_url": "https://example.com/kali_mandir.jpg",
+        "website": null,
+        "year_constructed": 1965,
+        "festivals_and_events": [
+          "Kali Puja",
+          "Navaratri"
+        ]
+      },
+      {
+        "name": "Jagannath Bari",
+        "main_deity": "Lord Jagannath",
+        "image_url": "https://example.com/jagannath_bari.jpg",
+        "website": null,
+        "year_constructed": 1952,
+        "festivals_and_events": [
+          "Rath Yatra",
+          "Snana Yatra"
+        ]
+      },
+      {
+        "name": "Durga Bari",
+        "main_deity": "Goddess Durga",
+        "image_url": "https://example.com/durga_bari.jpg",
+        "website": null,
+        "year_constructed": 1978,
+        "festivals_and_events": [
+          "Durga Puja",
+          "Vijayadashami"
+        ]
+      },
+      {
+        "name": "Shiva Mandir",
+        "main_deity": "Lord Shiva",
+        "image_url": "https://example.com/shiva_mandir.jpg",
+        "website": null,
+        "year_constructed": 1980,
+        "festivals_and_events": [
+          "Maha Shivaratri",
+          "Shravan Maas"
+        ]
+      },
+      {
+        "name": "Ram Thakur Mandir",
+        "main_deity": "Ram Thakur",
+        "image_url": "https://example.com/ram_thakur_mandir.jpg",
+        "website": null,
+        "year_constructed": 1949,
+        "festivals_and_events": [
+          "Ram Navami",
+          "Janmashtami"
+        ]
+      }
+    ],
+    "Kailashahar": [
+      {
+        "name": "Lakshmi Narayan Bari Temple",
+        "main_deity": "Lakshmi Narayan",
+        "image_url": "https://example.com/lakshmi_narayan_bari.jpg",
+        "website": null,
+        "year_constructed": 1660,
+        "festivals_and_events": [
+          "Janmashtami",
+          "Diwali"
+        ]
+      },
+      {
+        "name": "Chouddo Devotar Mandir",
+        "main_deity": "Fourteen Gods",
+        "image_url": "https://example.com/chouddo_devotar_mandir.jpg",
+        "website": null,
+        "year_constructed": 1761,
+        "festivals_and_events": [
+          "Kharchi Puja"
+        ]
+      },
+      {
+        "name": "Unakoti",
+        "main_deity": "Shiva",
+        "image_url": "https://example.com/unakoti.jpg",
+        "website": null,
+        "year_constructed": 700,
+        "festivals_and_events": [
+          "Ashokastami Mela"
+        ]
+      },
+      {
+        "name": "Kali Temple",
+        "main_deity": "Kali",
+        "image_url": "https://example.com/kali_temple.jpg",
+        "website": null,
+        "year_constructed": 1800,
+        "festivals_and_events": [
+          "Kali Puja",
+          "Durga Puja"
+        ]
+      },
+      {
+        "name": "Kamala Sagar Temple",
+        "main_deity": "Kali",
+        "image_url": "https://example.com/kamala_sagar_temple.jpg",
+        "website": null,
+        "year_constructed": 1671,
+        "festivals_and_events": [
+          "Diwali",
+          "Kali Puja"
+        ]
+      }
+    ],
+    "Ambassa": [
+      {
+        "name": "Chabimura Temple",
+        "main_deity": "Goddess Durga",
+        "image_url": "https://example.com/chabimura.jpg",
+        "website": null,
+        "year_constructed": 1500,
+        "festivals_and_events": [
+          "Durga Puja",
+          "Navratri"
+        ]
+      },
+      {
+        "name": "Tripura Sundari Temple",
+        "main_deity": "Goddess Tripura Sundari",
+        "image_url": "https://example.com/tripurasundari.jpg",
+        "website": null,
+        "year_constructed": 1501,
+        "festivals_and_events": [
+          "Diwali",
+          "Makar Sankranti"
+        ]
+      },
+      {
+        "name": "Unakoti Temple",
+        "main_deity": "Lord Shiva",
+        "image_url": "https://example.com/unakoti.jpg",
+        "website": null,
+        "year_constructed": 600,
+        "festivals_and_events": [
+          "Shivratri",
+          "Makar Sankranti"
+        ]
+      },
+      {
+        "name": "Ujjayanta Palace",
+        "main_deity": "Various Hindu Gods",
+        "image_url": "https://example.com/ujjayantapalace.jpg",
+        "website": null,
+        "year_constructed": 1901,
+        "festivals_and_events": [
+          "Durga Puja",
+          "Holika Dahan"
+        ]
+      },
+      {
+        "name": "Jagannath Bari",
+        "main_deity": "Lord Jagannath",
+        "image_url": "https://example.com/jagannathbari.jpg",
+        "website": null,
+        "year_constructed": 1860,
+        "festivals_and_events": [
+          "Rath Yatra",
+          "Janmashtami"
+        ]
+      }
+    ],
+    "Kumarghat": [
+      {
+        "name": "Durgabari Temple",
+        "main_deity": "Goddess Durga",
+        "image_url": "https://example.com/durgabari.jpg",
+        "website": null,
+        "year_constructed": 1975,
+        "festivals_and_events": [
+          "Durga Puja",
+          "Navratri"
+        ]
+      },
+      {
+        "name": "Kali Mandir",
+        "main_deity": "Goddess Kali",
+        "image_url": "https://example.com/kalimandir.jpg",
+        "website": null,
+        "year_constructed": 1960,
+        "festivals_and_events": [
+          "Kali Puja",
+          "Diwali"
+        ]
+      },
+      {
+        "name": "Jagannath Temple",
+        "main_deity": "Lord Jagannath",
+        "image_url": "https://example.com/jagannath.jpg",
+        "website": null,
+        "year_constructed": 1982,
+        "festivals_and_events": [
+          "Rath Yatra",
+          "Snana Yatra"
+        ]
+      },
+      {
+        "name": "Shiva Temple",
+        "main_deity": "Lord Shiva",
+        "image_url": "https://example.com/shiva.jpg",
+        "website": null,
+        "year_constructed": 1950,
+        "festivals_and_events": [
+          "Maha Shivaratri",
+          "Shravan Maas"
+        ]
+      },
+      {
+        "name": "Lakshmi Narayan Temple",
+        "main_deity": "Lord Vishnu and Goddess Lakshmi",
+        "image_url": "https://example.com/lakshminarayan.jpg",
+        "website": null,
+        "year_constructed": 1990,
+        "festivals_and_events": [
+          "Lakshmi Puja",
+          "Janmashtami"
+        ]
+      }
+    ],
+    "Sabroom": [
+      {
+        "name": "Maa Bhabatarini Temple",
+        "main_deity": "Maa Bhabatarini",
+        "image_url": "https://example.com/maa_bhabatarini.jpg",
+        "website": null,
+        "year_constructed": 1975,
+        "festivals_and_events": [
+          "Durga Puja",
+          "Navaratri"
+        ]
+      },
+      {
+        "name": "Chaturdasha Devata Temple",
+        "main_deity": "Fourteen Gods",
+        "image_url": "https://example.com/chaturdasha_devata.jpg",
+        "website": null,
+        "year_constructed": 1940,
+        "festivals_and_events": [
+          "Kharchi Puja"
+        ]
+      },
+      {
+        "name": "Tripura Sundari Temple",
+        "main_deity": "Maa Tripura Sundari",
+        "image_url": "https://example.com/tripura_sundari.jpg",
+        "website": null,
+        "year_constructed": 1501,
+        "festivals_and_events": [
+          "Diwali",
+          "Durga Puja"
+        ]
+      },
+      {
+        "name": "Jagannath Bari",
+        "main_deity": "Lord Jagannath",
+        "image_url": "https://example.com/jagannath_bari.jpg",
+        "website": null,
+        "year_constructed": 1838,
+        "festivals_and_events": [
+          "Rath Yatra",
+          "Snana Yatra"
+        ]
+      },
+      {
+        "name": "Vishnu Temple",
+        "main_deity": "Lord Vishnu",
+        "image_url": "https://example.com/vishnu_temple.jpg",
+        "website": null,
+        "year_constructed": 1895,
+        "festivals_and_events": [
+          "Janmashtami",
+          "Vaikuntha Ekadashi"
+        ]
+      }
+    ]
+  },
+  "state": "Tripura",
+  "last_updated": "2026-08-01T13:47:09.533972"
+}

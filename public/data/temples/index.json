@@ -1,41 +1,202 @@
 {
   "description": "Temple data for Indian states",
-  "last_synced": "2026-08-01T11:07:50.874983",
+  "last_synced": "2026-08-01T13:52:54.733596",
   "states": [
     {
       "name": "Andhra Pradesh",
       "file": "Andhra Pradesh.json",
-      "cities": 1,
-      "total_temples": 5,
-      "last_updated": "2026-08-01T11:07:01.816046"
+      "cities": 9,
+      "total_temples": 45,
+      "last_updated": "2026-08-01T13:33:20.329555"
     },
     {
       "name": "Arunachal Pradesh",
       "file": "Arunachal Pradesh.json",
-      "cities": 1,
-      "total_temples": 5,
-      "last_updated": "2026-08-01T11:07:08.270560"
+      "cities": 7,
+      "total_temples": 33,
+      "last_updated": "2026-08-01T13:34:14.120202"
     },
     {
       "name": "Assam",
       "file": "Assam.json",
-      "cities": 1,
-      "total_temples": 5,
-      "last_updated": "2026-08-01T11:07:13.482415"
+      "cities": 9,
+      "total_temples": 45,
+      "last_updated": "2026-08-01T13:34:39.241313"
     },
     {
       "name": "Bihar",
       "file": "Bihar.json",
-      "cities": 1,
-      "total_temples": 5,
-      "last_updated": "2026-08-01T11:07:20.655315"
+      "cities": 10,
+      "total_temples": 50,
+      "last_updated": "2026-08-01T13:35:13.859910"
     },
     {
       "name": "Chhattisgarh",
       "file": "Chhattisgarh.json",
-      "cities": 1,
-      "total_temples": 5,
-      "last_updated": "2026-08-01T11:07:27.107169"
+      "cities": 9,
+      "total_temples": 45,
+      "last_updated": "2026-08-01T13:35:55.323081"
+    },
+    {
+      "name": "Goa",
+      "file": "Goa.json",
+      "cities": 8,
+      "total_temples": 40,
+      "last_updated": "2026-08-01T13:36:29.729296"
+    },
+    {
+      "name": "Gujarat",
+      "file": "Gujarat.json",
+      "cities": 10,
+      "total_temples": 50,
+      "last_updated": "2026-08-01T13:37:07.556382"
+    },
+    {
+      "name": "Haryana",
+      "file": "Haryana.json",
+      "cities": 9,
+      "total_temples": 45,
+      "last_updated": "2026-08-01T13:37:52.534323"
+    },
+    {
+      "name": "Himachal Pradesh",
+      "file": "Himachal Pradesh.json",
+      "cities": 9,
+      "total_temples": 45,
+      "last_updated": "2026-08-01T13:38:30.033461"
+    },
+    {
+      "name": "Jharkhand",
+      "file": "Jharkhand.json",
+      "cities": 9,
+      "total_temples": 45,
+      "last_updated": "2026-08-01T13:39:06.301825"
+    },
+    {
+      "name": "Karnataka",
+      "file": "Karnataka.json",
+      "cities": 10,
+      "total_temples": 50,
+      "last_updated": "2026-08-01T13:39:41.734060"
+    },
+    {
+      "name": "Kerala",
+      "file": "Kerala.json",
+      "cities": 9,
+      "total_temples": 45,
+      "last_updated": "2026-08-01T13:31:48.663945"
+    },
+    {
+      "name": "Madhya Pradesh",
+      "file": "Madhya Pradesh.json",
+      "cities": 10,
+      "total_temples": 50,
+      "last_updated": "2026-08-01T13:40:28.715422"
+    },
+    {
+      "name": "Maharashtra",
+      "file": "Maharashtra.json",
+      "cities": 10,
+      "total_temples": 50,
+      "last_updated": "2026-08-01T13:41:11.947550"
+    },
+    {
+      "name": "Manipur",
+      "file": "Manipur.json",
+      "cities": 8,
+      "total_temples": 35,
+      "last_updated": "2026-08-01T13:42:16.871782"
+    },
+    {
+      "name": "Meghalaya",
+      "file": "Meghalaya.json",
+      "cities": 7,
+      "total_temples": 32,
+      "last_updated": "2026-08-01T13:42:45.438864"
+    },
+    {
+      "name": "Mizoram",
+      "file": "Mizoram.json",
+      "cities": 7,
+      "total_temples": 30,
+      "last_updated": "2026-08-01T13:43:08.891771"
+    },
+    {
+      "name": "Nagaland",
+      "file": "Nagaland.json",
+      "cities": 8,
+      "total_temples": 20,
+      "last_updated": "2026-08-01T13:43:33.671869"
+    },
+    {
+      "name": "Odisha",
+      "file": "Odisha.json",
+      "cities": 9,
+      "total_temples": 45,
+      "last_updated": "2026-08-01T13:43:54.559244"
+    },
+    {
+      "name": "Punjab",
+      "file": "Punjab.json",
+      "cities": 9,
+      "total_temples": 45,
+      "last_updated": "2026-08-01T13:44:32.532573"
+    },
+    {
+      "name": "Rajasthan",
+      "file": "Rajasthan.json",
+      "cities": 10,
+      "total_temples": 50,
+      "last_updated": "2026-08-01T13:45:09.803617"
+    },
+    {
+      "name": "Sikkim",
+      "file": "Sikkim.json",
+      "cities": 6,
+      "total_temples": 30,
+      "last_updated": "2026-08-01T13:45:53.657463"
+    },
+    {
+      "name": "Tamil Nadu",
+      "file": "Tamil Nadu.json",
+      "cities": 10,
+      "total_temples": 50,
+      "last_updated": "2026-08-01T13:29:09.693188"
+    },
+    {
+      "name": "Telangana",
+      "file": "Telangana.json",
+      "cities": 9,
+      "total_temples": 45,
+      "last_updated": "2026-08-01T13:46:19.333039"
+    },
+    {
+      "name": "Tripura",
+      "file": "Tripura.json",
+      "cities": 7,
+      "total_temples": 35,
+      "last_updated": "2026-08-01T13:47:09.533972"
+    },
+    {
+      "name": "Uttar Pradesh",
+      "file": "Uttar Pradesh.json",
+      "cities": 10,
+      "total_temples": 50,
+      "last_updated": "2026-08-01T13:47:40.894949"
+    },
+    {
+      "name": "Uttarakhand",
+      "file": "Uttarakhand.json",
+      "cities": 8,
+      "total_temples": 40,
+      "last_updated": "2026-08-01T13:48:32.058649"
+    },
+    {
+      "name": "West Bengal",
+      "file": "West Bengal.json",
+      "cities": 10,
+      "total_temples": 50,
+      "last_updated": "2026-08-01T13:49:03.509129"
     }
   ]
 }

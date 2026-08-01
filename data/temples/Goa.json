@@ -1,0 +1,462 @@
+{
+  "cities": {
+    "Panaji": [
+      {
+        "name": "Shree Mahalaxmi Temple",
+        "main_deity": "Goddess Mahalaxmi",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Mahalaxmi_Temple%2C_Panaji%2C_Goa.jpg",
+        "website": null,
+        "year_constructed": 1818,
+        "festivals_and_events": [
+          "Navaratri",
+          "Chaitra Purnima"
+        ]
+      },
+      {
+        "name": "Shree Shantadurga Temple",
+        "main_deity": "Goddess Shantadurga",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Shantadurga_Goa.jpg",
+        "website": null,
+        "year_constructed": 1738,
+        "festivals_and_events": [
+          "Shantadurga Pratishta",
+          "Navaratri"
+        ]
+      },
+      {
+        "name": "Shree Mangeshi Temple",
+        "main_deity": "Lord Mangesh",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Mangueshi_Temple.jpg",
+        "website": "http://www.mangueshitemple.com",
+        "year_constructed": 1560,
+        "festivals_and_events": [
+          "Rath Yatra",
+          "Maha Shivaratri"
+        ]
+      },
+      {
+        "name": "Shree Saptakoteshwar Temple",
+        "main_deity": "Lord Shiva",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Saptakoteshwar_Temple_Goa.jpg",
+        "website": null,
+        "year_constructed": 1668,
+        "festivals_and_events": [
+          "Gokulashtami",
+          "Shivaratri"
+        ]
+      },
+      {
+        "name": "Shree Ramnath Temple",
+        "main_deity": "Lord Ramnath",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Ramnathi_Temple_Goa.jpg",
+        "website": null,
+        "year_constructed": 1566,
+        "festivals_and_events": [
+          "Rath Saptami",
+          "Mahashivaratri"
+        ]
+      }
+    ],
+    "Vasco da Gama": [
+      {
+        "name": "Sancoale Church Ruins",
+        "main_deity": "St. Joseph Vaz",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Sancoale_Church_Ruins.jpg",
+        "website": null,
+        "year_constructed": 1606,
+        "festivals_and_events": [
+          "Feast of St. Joseph Vaz"
+        ]
+      },
+      {
+        "name": "Shree Shantadurga Temple",
+        "main_deity": "Shantadurga",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Shantadurga_Temple%2C_Calapur.jpg",
+        "website": null,
+        "year_constructed": 1738,
+        "festivals_and_events": [
+          "Navaratri",
+          "Shantadurga Jatra"
+        ]
+      },
+      {
+        "name": "Shree Damodar Temple",
+        "main_deity": "Lord Damodar",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Shree_Damodar_Temple.jpg",
+        "website": null,
+        "year_constructed": 1565,
+        "festivals_and_events": [
+          "Shigmo",
+          "Ram Navami"
+        ]
+      },
+      {
+        "name": "Shree Mahalaxmi Temple",
+        "main_deity": "Mahalaxmi",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Mahalakshmi_Temple_Ponda.jpg",
+        "website": null,
+        "year_constructed": 1413,
+        "festivals_and_events": [
+          "Navaratri",
+          "Mahashivratri"
+        ]
+      },
+      {
+        "name": "Shree Lakshmi Narasimha Temple",
+        "main_deity": "Lakshmi Narasimha",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Lakshmi_Narasimha_Temple.jpg",
+        "website": null,
+        "year_constructed": 1560,
+        "festivals_and_events": [
+          "Narasimha Jayanti",
+          "Diwali"
+        ]
+      }
+    ],
+    "Margao": [
+      {
+        "name": "Damodar Temple",
+        "main_deity": "Lord Shiva",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Damodar_temple_in_Zambaulim.jpg",
+        "website": null,
+        "year_constructed": 1565,
+        "festivals_and_events": [
+          "Shigmo Festival",
+          "Mahashivaratri"
+        ]
+      },
+      {
+        "name": "Shri Chandreshwar Temple",
+        "main_deity": "Lord Shiva",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Chandreshwar_Bhootnath_Temple.jpg",
+        "website": null,
+        "year_constructed": 3000,
+        "festivals_and_events": [
+          "Chaitra Purnima",
+          "Mahashivaratri"
+        ]
+      },
+      {
+        "name": "Shree Shantadurga Fatarpekarin Temple",
+        "main_deity": "Goddess Shantadurga",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Shantadurga_Temple.jpg",
+        "website": null,
+        "year_constructed": 1700,
+        "festivals_and_events": [
+          "Navaratri",
+          "Zatra"
+        ]
+      },
+      {
+        "name": "Shri Damodar Temple",
+        "main_deity": "Lord Damodar",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Shri_Damodar_Temple_%28Zambaulim%29.jpg",
+        "website": null,
+        "year_constructed": 1550,
+        "festivals_and_events": [
+          "Shigmo",
+          "Kartik Poornima"
+        ]
+      },
+      {
+        "name": "Shri Mahalakshmi Temple",
+        "main_deity": "Goddess Mahalakshmi",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Mahalakshmi_temple_in_Ponda.jpg",
+        "website": null,
+        "year_constructed": 1413,
+        "festivals_and_events": [
+          "Navaratri",
+          "Rath Yatra"
+        ]
+      }
+    ],
+    "Mapusa": [
+      {
+        "name": "Shree Dev Bodgeshwar Temple",
+        "main_deity": "Bodgeshwar",
+        "image_url": "https://example.com/bodgeshwar.jpg",
+        "website": null,
+        "year_constructed": 1969,
+        "festivals_and_events": [
+          "Zatra of Bodgeshwar",
+          "Annual Fair"
+        ]
+      },
+      {
+        "name": "Shree Dev Bodgeshwar Temple",
+        "main_deity": "Bodgeshwar",
+        "image_url": "https://example.com/bodgeshwar.jpg",
+        "website": null,
+        "year_constructed": 1969,
+        "festivals_and_events": [
+          "Zatra of Bodgeshwar",
+          "Annual Fair"
+        ]
+      },
+      {
+        "name": "Hanuman Temple",
+        "main_deity": "Hanuman",
+        "image_url": "https://example.com/hanuman.jpg",
+        "website": null,
+        "year_constructed": 1975,
+        "festivals_and_events": [
+          "Hanuman Jayanti",
+          "Rama Navami"
+        ]
+      },
+      {
+        "name": "Maruti Temple",
+        "main_deity": "Lord Hanuman",
+        "image_url": "https://example.com/maruti.jpg",
+        "website": null,
+        "year_constructed": 1970,
+        "festivals_and_events": [
+          "Hanuman Jayanti",
+          "Diwali"
+        ]
+      },
+      {
+        "name": "Shree Ganesh Mandir",
+        "main_deity": "Ganesh",
+        "image_url": "https://example.com/ganesh.jpg",
+        "website": null,
+        "year_constructed": 1965,
+        "festivals_and_events": [
+          "Ganesh Chaturthi",
+          "Sankashti Chaturthi"
+        ]
+      }
+    ],
+    "Ponda": [
+      {
+        "name": "Shri Shantadurga Temple",
+        "main_deity": "Shantadurga",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Shri_Shantadurga_Temple%2C_Goa.jpg",
+        "website": "https://shreeshantadurga.com",
+        "year_constructed": 1738,
+        "festivals_and_events": [
+          "Navaratri",
+          "Shantadurga Jatra"
+        ]
+      },
+      {
+        "name": "Shri Mahalasa Narayani Temple",
+        "main_deity": "Mahalasa Narayani",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Shri_Mahalasa_Temple_Ponda.jpg",
+        "website": "https://mahalasa.org",
+        "year_constructed": 1565,
+        "festivals_and_events": [
+          "Navaratri",
+          "Mahalasa Jatra"
+        ]
+      },
+      {
+        "name": "Shri Mangueshi Temple",
+        "main_deity": "Manguesh",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Shri_Mangueshi_Temple%2C_Goa.jpg",
+        "website": "https://shrimangesh.org",
+        "year_constructed": 1560,
+        "festivals_and_events": [
+          "Rathotsava",
+          "Ramnavami"
+        ]
+      },
+      {
+        "name": "Shri Nagesh Temple",
+        "main_deity": "Nagesh",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Shri_Nagesh_Temple%2C_Goa.jpg",
+        "website": null,
+        "year_constructed": 1780,
+        "festivals_and_events": [
+          "Rath Saptami",
+          "Mahashivaratri"
+        ]
+      },
+      {
+        "name": "Shri Ramnath Temple",
+        "main_deity": "Ramnath",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Shri_Ramnath_Temple%2C_Goa.jpg",
+        "website": null,
+        "year_constructed": 1566,
+        "festivals_and_events": [
+          "Shivratri",
+          "Chaitra Purnima"
+        ]
+      }
+    ],
+    "Sanguem": [
+      {
+        "name": "Shree Damodar Temple",
+        "main_deity": "Lord Shiva",
+        "image_url": "https://example.com/damodar_temple.jpg",
+        "website": null,
+        "year_constructed": 1565,
+        "festivals_and_events": [
+          "Shigmo",
+          "Mahashivratri"
+        ]
+      },
+      {
+        "name": "Bhagwati Temple",
+        "main_deity": "Goddess Bhagwati",
+        "image_url": "https://example.com/bhagwati_temple.jpg",
+        "website": null,
+        "year_constructed": 1725,
+        "festivals_and_events": [
+          "Navratri",
+          "Diwali"
+        ]
+      },
+      {
+        "name": "Shree Mahadev Temple",
+        "main_deity": "Lord Shiva",
+        "image_url": "https://example.com/mahadev_temple.jpg",
+        "website": null,
+        "year_constructed": 1780,
+        "festivals_and_events": [
+          "Mahashivratri",
+          "Kartika Poornima"
+        ]
+      },
+      {
+        "name": "Shree Sapta Koteshwar Temple",
+        "main_deity": "Lord Shiva",
+        "image_url": "https://example.com/sapta_koteshwar_temple.jpg",
+        "website": null,
+        "year_constructed": 1668,
+        "festivals_and_events": [
+          "Gokulashtami",
+          "Ganesh Chaturthi"
+        ]
+      },
+      {
+        "name": "Shree Chandreshwar Bhutnath Temple",
+        "main_deity": "Lord Shiva",
+        "image_url": "https://example.com/chandreshwar_bhutnath_temple.jpg",
+        "website": null,
+        "year_constructed": 1500,
+        "festivals_and_events": [
+          "Mahashivratri",
+          "Chaitra Poornima"
+        ]
+      }
+    ],
+    "Quepem": [
+      {
+        "name": "Shree Damodar Temple",
+        "main_deity": "Lord Damodar (Shiva)",
+        "image_url": "https://example.com/shree-damodar-temple.jpg",
+        "website": null,
+        "year_constructed": 1565,
+        "festivals_and_events": [
+          "Shigmo",
+          "Diwali",
+          "Navratri"
+        ]
+      },
+      {
+        "name": "Shree Chandreshwar Bhutnath Temple",
+        "main_deity": "Lord Shiva",
+        "image_url": "https://example.com/shree-chandreshwar-bhutnath-temple.jpg",
+        "website": null,
+        "year_constructed": 3000,
+        "festivals_and_events": [
+          "Mahashivratri",
+          "Chaitra Purnima"
+        ]
+      },
+      {
+        "name": "Shree Mallikarjun Temple",
+        "main_deity": "Lord Mallikarjun (Shiva)",
+        "image_url": "https://example.com/shree-mallikarjun-temple.jpg",
+        "website": null,
+        "year_constructed": 16,
+        "festivals_and_events": [
+          "Jatra",
+          "Mahashivratri"
+        ]
+      },
+      {
+        "name": "Shree Laxmi Narayan Temple",
+        "main_deity": "Lord Vishnu and Goddess Laxmi",
+        "image_url": "https://example.com/shree-laxmi-narayan-temple.jpg",
+        "website": null,
+        "year_constructed": 1770,
+        "festivals_and_events": [
+          "Diwali",
+          "Navratri"
+        ]
+      },
+      {
+        "name": "Shree Santeri Temple",
+        "main_deity": "Goddess Santeri",
+        "image_url": "https://example.com/shree-santeri-temple.jpg",
+        "website": null,
+        "year_constructed": 1500,
+        "festivals_and_events": [
+          "Zatra",
+          "Ganesh Chaturthi"
+        ]
+      }
+    ],
+    "Pernem": [
+      {
+        "name": "Shri Bhagavati Temple",
+        "main_deity": "Goddess Bhagavati",
+        "image_url": "https://example.com/shri-bhagavati.jpg",
+        "website": null,
+        "year_constructed": 1783,
+        "festivals_and_events": [
+          "Navaratri",
+          "Dussehra"
+        ]
+      },
+      {
+        "name": "Shri Sapteshwar Bhagavati Temple",
+        "main_deity": "Sapteshwar Bhagavati",
+        "image_url": "https://example.com/shri-sapteshwar.jpg",
+        "website": null,
+        "year_constructed": 1714,
+        "festivals_and_events": [
+          "Mahashivaratri",
+          "Chaitra Purnima"
+        ]
+      },
+      {
+        "name": "Shri Dev Ravalnath Temple",
+        "main_deity": "Lord Ravalnath",
+        "image_url": "https://example.com/shri-dev-ravalnath.jpg",
+        "website": null,
+        "year_constructed": 1623,
+        "festivals_and_events": [
+          "Ravalnath Zatra",
+          "Diwali"
+        ]
+      },
+      {
+        "name": "Shri Sateri Temple",
+        "main_deity": "Goddess Sateri",
+        "image_url": "https://example.com/shri-sateri.jpg",
+        "website": null,
+        "year_constructed": 1850,
+        "festivals_and_events": [
+          "Sateri Zatra",
+          "Ganesh Chaturthi"
+        ]
+      },
+      {
+        "name": "Shri Vetaleshwar Temple",
+        "main_deity": "Lord Vetaleshwar",
+        "image_url": "https://example.com/shri-vetaleshwar.jpg",
+        "website": null,
+        "year_constructed": 1600,
+        "festivals_and_events": [
+          "Vetaleshwar Zatra",
+          "Shivaratri"
+        ]
+      }
+    ]
+  },
+  "state": "Goa",
+  "last_updated": "2026-08-01T13:36:29.729296"
+}

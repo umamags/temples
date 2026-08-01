@@ -25,22 +25,16 @@ export function useIndiaAtlas() {
         // Extract admin1 (states/provinces) from the topology
         const states = feature(topology, topology.objects.admin1_10m)
 
-        // Filter to get only India states that have temple data
+        // Filter to get only India states
         const indiaStates = states.features.filter((f) => f.properties?.admin === 'India')
 
         if (indiaStates.length === 0) {
           throw new Error('India states not found in map data')
         }
 
-        // Only keep states that have colors configured (have temple data)
-        const filteredStates = indiaStates.filter((state) => {
-          const stateName = state.properties?.name
-          return stateColorsMap.has(stateName)
-        })
-
-        // Create color map from config
+        // Create color map from config (only for states with temple data)
         const colorByNameMap = new Map()
-        filteredStates.forEach((state) => {
+        indiaStates.forEach((state) => {
           const stateName = state.properties?.name
           if (stateName && stateColorsMap.has(stateName)) {
             colorByNameMap.set(stateName, stateColorsMap.get(stateName))
@@ -51,7 +45,8 @@ export function useIndiaAtlas() {
         setStatesWithTemples(new Set(stateColorsMap.keys()))
 
         if (isMounted) {
-          setFeatureCollection({ type: 'FeatureCollection', features: filteredStates })
+          // Show ALL India states, but only some will be colored
+          setFeatureCollection({ type: 'FeatureCollection', features: indiaStates })
           setColorByName(colorByNameMap)
           setStatus('ready')
         }

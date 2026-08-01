@@ -1,0 +1,402 @@
+{
+  "cities": {
+    "Imphal": [
+      {
+        "name": "Shree Govindajee Temple",
+        "main_deity": "Lord Krishna",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Govindajee_Temple.jpg",
+        "website": null,
+        "year_constructed": 1846,
+        "festivals_and_events": [
+          "Janmashtami",
+          "Rath Yatra"
+        ]
+      },
+      {
+        "name": "ISKCON Temple Imphal",
+        "main_deity": "Lord Krishna",
+        "image_url": "https://iskconcenters.com/wp-content/uploads/2020/06/iskcon-imphal.jpg",
+        "website": "https://iskconcenters.com/imphal/",
+        "year_constructed": 1996,
+        "festivals_and_events": [
+          "Janmashtami",
+          "Gaura Purnima"
+        ]
+      },
+      {
+        "name": "Sanamahi Temple",
+        "main_deity": "Lainingthou Sanamahi",
+        "image_url": "https://imphalwalks.com/wp-content/uploads/2018/04/Sanamahi-Temple.jpg",
+        "website": null,
+        "year_constructed": 1891,
+        "festivals_and_events": [
+          "Sajibu Cheiraoba",
+          "Lai Haraoba"
+        ]
+      },
+      {
+        "name": "Hiyangthang Lairembi Temple",
+        "main_deity": "Goddess Hiyangthang Lairembi",
+        "image_url": "https://imphalwalks.com/wp-content/uploads/2018/04/Hiyangthang-Lairembi-Temple.jpg",
+        "website": null,
+        "year_constructed": 1972,
+        "festivals_and_events": [
+          "Durga Puja",
+          "Lai Haraoba"
+        ]
+      },
+      {
+        "name": "Mata Maheshwari Temple",
+        "main_deity": "Mata Maheshwari",
+        "image_url": "https://imphalwalks.com/wp-content/uploads/2018/04/Mata-Maheshwari-Temple.jpg",
+        "website": null,
+        "year_constructed": 1965,
+        "festivals_and_events": [
+          "Navratri",
+          "Diwali"
+        ]
+      }
+    ],
+    "Bishnupur": [
+      {
+        "name": "Vishnu Temple",
+        "main_deity": "Lord Vishnu",
+        "image_url": "https://example.com/vishnu_temple.jpg",
+        "website": null,
+        "year_constructed": 1467,
+        "festivals_and_events": [
+          "Rath Yatra",
+          "Janmashtami"
+        ]
+      },
+      {
+        "name": "Pancha Ratna Temple",
+        "main_deity": "Lord Krishna",
+        "image_url": "https://example.com/pancha_ratna_temple.jpg",
+        "website": null,
+        "year_constructed": 1643,
+        "festivals_and_events": [
+          "Rath Yatra",
+          "Holi"
+        ]
+      },
+      {
+        "name": "Radha Shyam Temple",
+        "main_deity": "Radha Krishna",
+        "image_url": "https://example.com/radha_shyam_temple.jpg",
+        "website": null,
+        "year_constructed": 1758,
+        "festivals_and_events": [
+          "Janmashtami",
+          "Rath Yatra"
+        ]
+      },
+      {
+        "name": "Kalibari Temple",
+        "main_deity": "Goddess Kali",
+        "image_url": "https://example.com/kalibari_temple.jpg",
+        "website": null,
+        "year_constructed": 1781,
+        "festivals_and_events": [
+          "Durga Puja",
+          "Kali Puja"
+        ]
+      },
+      {
+        "name": "Shyamrai Temple",
+        "main_deity": "Lord Krishna",
+        "image_url": "https://example.com/shyamrai_temple.jpg",
+        "website": null,
+        "year_constructed": 1645,
+        "festivals_and_events": [
+          "Rath Yatra",
+          "Janmashtami"
+        ]
+      }
+    ],
+    "Thoubal": [
+      {
+        "name": "Thoubal Wangmataba Temple",
+        "main_deity": "Lord Shiva",
+        "image_url": "https://example.com/thoubal_wangmataba.jpg",
+        "website": null,
+        "year_constructed": 1850,
+        "festivals_and_events": [
+          "Maha Shivaratri",
+          "Nag Panchami"
+        ]
+      },
+      {
+        "name": "Khurai Ahongpung Temple",
+        "main_deity": "Umang Lai",
+        "image_url": "https://example.com/khurai_ahongpung.jpg",
+        "website": null,
+        "year_constructed": 1900,
+        "festivals_and_events": [
+          "Lai Haraoba",
+          "Yaoshang"
+        ]
+      },
+      {
+        "name": "Nongpok Ningthou Temple",
+        "main_deity": "Nongpok Ningthou",
+        "image_url": "https://example.com/nongpok_ningthou.jpg",
+        "website": null,
+        "year_constructed": 1750,
+        "festivals_and_events": [
+          "Ningol Chakouba",
+          "Panthoibi Iratpa"
+        ]
+      },
+      {
+        "name": "Ebudhou Thangjing Temple",
+        "main_deity": "Ebudhou Thangjing",
+        "image_url": "https://example.com/ebudhou_thangjing.jpg",
+        "website": null,
+        "year_constructed": 1800,
+        "festivals_and_events": [
+          "Thangjing Haraoba",
+          "Durga Puja"
+        ]
+      },
+      {
+        "name": "Laikhurembi Temple",
+        "main_deity": "Goddess Laikhurembi",
+        "image_url": "https://example.com/laikhurembi.jpg",
+        "website": null,
+        "year_constructed": 1855,
+        "festivals_and_events": [
+          "Laikhurembi Haraoba",
+          "Cheiraoba"
+        ]
+      }
+    ],
+    "Ukhrul": [],
+    "Chandel": [
+      {
+        "name": "Shree Govindajee Temple",
+        "main_deity": "Lord Krishna",
+        "image_url": "https://example.com/govindajee.jpg",
+        "website": null,
+        "year_constructed": 1846,
+        "festivals_and_events": [
+          "Janmashtami",
+          "Rath Yatra"
+        ]
+      },
+      {
+        "name": "Shri Hanuman Thakur Temple",
+        "main_deity": "Lord Hanuman",
+        "image_url": "https://example.com/hanuman.jpg",
+        "website": null,
+        "year_constructed": 1725,
+        "festivals_and_events": [
+          "Hanuman Jayanti",
+          "Diwali"
+        ]
+      },
+      {
+        "name": "Sanamahi Temple",
+        "main_deity": "Lainingthou Sanamahi",
+        "image_url": "https://example.com/sanamahi.jpg",
+        "website": null,
+        "year_constructed": 1891,
+        "festivals_and_events": [
+          "Cheiraoba",
+          "Lai Haraoba"
+        ]
+      },
+      {
+        "name": "Thangal General Temple",
+        "main_deity": "Thangal General",
+        "image_url": "https://example.com/thangal.jpg",
+        "website": null,
+        "year_constructed": 1945,
+        "festivals_and_events": [
+          "Thangal Day",
+          "Independence Day"
+        ]
+      },
+      {
+        "name": "Kaina Temple",
+        "main_deity": "Lord Krishna",
+        "image_url": "https://example.com/kaina.jpg",
+        "website": null,
+        "year_constructed": 1891,
+        "festivals_and_events": [
+          "Janmashtami",
+          "Lai Haraoba"
+        ]
+      }
+    ],
+    "Tamenglong": [
+      {
+        "name": "Gopinath Mandir",
+        "main_deity": "Lord Krishna",
+        "image_url": "https://example.com/gopinath_mandir.jpg",
+        "website": null,
+        "year_constructed": 1985,
+        "festivals_and_events": [
+          "Janmashtami",
+          "Holi"
+        ]
+      },
+      {
+        "name": "Naga Temple",
+        "main_deity": "Naga Deity",
+        "image_url": "https://example.com/naga_temple.jpg",
+        "website": null,
+        "year_constructed": 1990,
+        "festivals_and_events": [
+          "Naga Festival"
+        ]
+      },
+      {
+        "name": "Durga Mandir",
+        "main_deity": "Goddess Durga",
+        "image_url": "https://example.com/durga_mandir.jpg",
+        "website": null,
+        "year_constructed": 2000,
+        "festivals_and_events": [
+          "Durga Puja",
+          "Navratri"
+        ]
+      },
+      {
+        "name": "Shiva Temple",
+        "main_deity": "Lord Shiva",
+        "image_url": "https://example.com/shiva_temple.jpg",
+        "website": null,
+        "year_constructed": 1975,
+        "festivals_and_events": [
+          "Maha Shivaratri"
+        ]
+      },
+      {
+        "name": "Hanuman Mandir",
+        "main_deity": "Lord Hanuman",
+        "image_url": "https://example.com/hanuman_mandir.jpg",
+        "website": null,
+        "year_constructed": 1980,
+        "festivals_and_events": [
+          "Hanuman Jayanti"
+        ]
+      }
+    ],
+    "Senapati": [
+      {
+        "name": "Mao Maram Baptist Church",
+        "main_deity": "Jesus Christ",
+        "image_url": "https://example.com/mao_maram_baptist_church.jpg",
+        "website": null,
+        "year_constructed": 1950,
+        "festivals_and_events": [
+          "Christmas",
+          "Easter"
+        ]
+      },
+      {
+        "name": "Makhel Monoliths",
+        "main_deity": "Ancestral Spirits",
+        "image_url": "https://example.com/makhel_monoliths.jpg",
+        "website": null,
+        "year_constructed": 1300,
+        "festivals_and_events": [
+          "New Year Celebrations"
+        ]
+      },
+      {
+        "name": "Yangkhullen Village Church",
+        "main_deity": "Jesus Christ",
+        "image_url": "https://example.com/yangkhullen_village_church.jpg",
+        "website": null,
+        "year_constructed": 1965,
+        "festivals_and_events": [
+          "Christmas",
+          "Good Friday"
+        ]
+      },
+      {
+        "name": "Koubru Laikha",
+        "main_deity": "Koubru",
+        "image_url": "https://example.com/koubru_laikha.jpg",
+        "website": null,
+        "year_constructed": 1000,
+        "festivals_and_events": [
+          "Koubru Festival",
+          "Harvest Festival"
+        ]
+      },
+      {
+        "name": "Catholic Church Senapati",
+        "main_deity": "Jesus Christ",
+        "image_url": "https://example.com/catholic_church_senapati.jpg",
+        "website": null,
+        "year_constructed": 1980,
+        "festivals_and_events": [
+          "Christmas",
+          "Easter"
+        ]
+      }
+    ],
+    "Churachandpur": [
+      {
+        "name": "Khuga Dam Shiva Temple",
+        "main_deity": "Lord Shiva",
+        "image_url": "https://example.com/khuga_dam_shiva_temple.jpg",
+        "website": null,
+        "year_constructed": 1999,
+        "festivals_and_events": [
+          "Maha Shivaratri",
+          "Shravan Somvar"
+        ]
+      },
+      {
+        "name": "Sai Baba Temple",
+        "main_deity": "Sai Baba",
+        "image_url": "https://example.com/sai_baba_temple.jpg",
+        "website": null,
+        "year_constructed": 2005,
+        "festivals_and_events": [
+          "Guru Purnima",
+          "Ram Navami"
+        ]
+      },
+      {
+        "name": "ISCKON Temple",
+        "main_deity": "Lord Krishna",
+        "image_url": "https://example.com/isckon_temple.jpg",
+        "website": null,
+        "year_constructed": 2010,
+        "festivals_and_events": [
+          "Janmashtami",
+          "Rath Yatra"
+        ]
+      },
+      {
+        "name": "Durga Temple",
+        "main_deity": "Goddess Durga",
+        "image_url": "https://example.com/durga_temple.jpg",
+        "website": null,
+        "year_constructed": 1985,
+        "festivals_and_events": [
+          "Durga Puja",
+          "Navratri"
+        ]
+      },
+      {
+        "name": "Hanuman Temple",
+        "main_deity": "Lord Hanuman",
+        "image_url": "https://example.com/hanuman_temple.jpg",
+        "website": null,
+        "year_constructed": 1990,
+        "festivals_and_events": [
+          "Hanuman Jayanti",
+          "Diwali"
+        ]
+      }
+    ]
+  },
+  "state": "Manipur",
+  "last_updated": "2026-08-01T13:42:16.871782"
+}

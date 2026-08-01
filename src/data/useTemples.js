@@ -11,9 +11,9 @@ export function useTemples(state, city) {
     async function loadTemples() {
       try {
         setStatus('loading')
-        // Replace spaces with underscores for file path
-        const statePath = state.replace(/ /g, '_')
-        const response = await fetch(`/data/temples/${statePath}.json`)
+        // Properly encode state name for file path
+        const stateFilename = `${state}.json`
+        const response = await fetch(`${import.meta.env.BASE_URL}data/temples/${encodeURIComponent(stateFilename)}`)
 
         if (!response.ok) {
           throw new Error(`Failed to load temples for ${state}`)

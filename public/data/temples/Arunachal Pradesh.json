@@ -4,17 +4,17 @@
       {
         "name": "Ganga Lake Temple",
         "main_deity": "Lord Shiva",
-        "image_url": "https://example.com/gangalake_temple.jpg",
+        "image_url": "https://example.com/ganga_lake_temple.jpg",
         "website": null,
-        "year_constructed": 1986,
+        "year_constructed": 1990,
         "festivals_and_events": [
-          "Maha Shivaratri",
+          "Maha Shivratri",
           "Navratri"
         ]
       },
       {
         "name": "Buddha Vihar",
-        "main_deity": "Gautama Buddha",
+        "main_deity": "Buddha",
         "image_url": "https://example.com/buddha_vihar.jpg",
         "website": null,
         "year_constructed": 1996,
@@ -24,40 +24,351 @@
         ]
       },
       {
-        "name": "Itanagar Buddhist Temple",
-        "main_deity": "Gautama Buddha",
-        "image_url": "https://example.com/itanagar_buddhist_temple.jpg",
+        "name": "Gompa Buddhist Temple",
+        "main_deity": "Buddha",
+        "image_url": "https://example.com/gompa_buddhist_temple.jpg",
         "website": null,
-        "year_constructed": 1988,
+        "year_constructed": 1984,
         "festivals_and_events": [
           "Buddha Purnima",
-          "Kathina"
+          "Monlam Prayer Festival"
         ]
       },
       {
-        "name": "Theravada Buddhist Temple",
-        "main_deity": "Gautama Buddha",
-        "image_url": "https://example.com/theravada_buddhist_temple.jpg",
+        "name": "Ramakrishna Mission Temple",
+        "main_deity": "Ramakrishna Paramahamsa",
+        "image_url": "https://example.com/ramakrishna_mission_temple.jpg",
         "website": null,
-        "year_constructed": 2005,
+        "year_constructed": 1979,
         "festivals_and_events": [
-          "Magha Puja",
-          "Vesak"
+          "Ramakrishna Jayanti",
+          "Durga Puja"
         ]
       },
       {
-        "name": "Hanuman Temple",
+        "name": "Indira Gandhi Park Temple",
+        "main_deity": "Multiple Deities",
+        "image_url": "https://example.com/indira_gandhi_park_temple.jpg",
+        "website": null,
+        "year_constructed": 1985,
+        "festivals_and_events": [
+          "Diwali",
+          "Holi"
+        ]
+      }
+    ],
+    "Naharlagun": [
+      {
+        "name": "Ganga Mata Mandir",
+        "main_deity": "Ganga Mata",
+        "image_url": "https://example.com/ganga_mata_mandir.jpg",
+        "website": null,
+        "year_constructed": 1985,
+        "festivals_and_events": [
+          "Ganga Dussehra",
+          "Diwali"
+        ]
+      },
+      {
+        "name": "Shiv Mandir",
+        "main_deity": "Lord Shiva",
+        "image_url": "https://example.com/shiv_mandir.jpg",
+        "website": null,
+        "year_constructed": 1990,
+        "festivals_and_events": [
+          "Maha Shivaratri",
+          "Nag Panchami"
+        ]
+      },
+      {
+        "name": "Hanuman Mandir",
         "main_deity": "Lord Hanuman",
-        "image_url": "https://example.com/hanuman_temple.jpg",
+        "image_url": "https://example.com/hanuman_mandir.jpg",
         "website": null,
         "year_constructed": 1995,
         "festivals_and_events": [
           "Hanuman Jayanti",
+          "Rama Navami"
+        ]
+      },
+      {
+        "name": "Durga Mandir",
+        "main_deity": "Goddess Durga",
+        "image_url": "https://example.com/durga_mandir.jpg",
+        "website": null,
+        "year_constructed": 2000,
+        "festivals_and_events": [
+          "Durga Puja",
+          "Navratri"
+        ]
+      },
+      {
+        "name": "Kali Mandir",
+        "main_deity": "Goddess Kali",
+        "image_url": "https://example.com/kali_mandir.jpg",
+        "website": null,
+        "year_constructed": 2005,
+        "festivals_and_events": [
+          "Kali Puja",
           "Diwali"
+        ]
+      }
+    ],
+    "Pasighat": [
+      {
+        "name": "Sri Krishna Mandir",
+        "main_deity": "Lord Krishna",
+        "image_url": "https://example.com/sri_krishna_mandir.jpg",
+        "website": null,
+        "year_constructed": 1985,
+        "festivals_and_events": [
+          "Janmashtami",
+          "Holi"
+        ]
+      },
+      {
+        "name": "Donyi Polo Mandir",
+        "main_deity": "Donyi Polo",
+        "image_url": "https://example.com/donyi_polo_mandir.jpg",
+        "website": null,
+        "year_constructed": 1990,
+        "festivals_and_events": [
+          "Solung",
+          "Mopin"
+        ]
+      },
+      {
+        "name": "Ganga Mandir",
+        "main_deity": "Goddess Ganga",
+        "image_url": "https://example.com/ganga_mandir.jpg",
+        "website": null,
+        "year_constructed": 1970,
+        "festivals_and_events": [
+          "Ganga Dussehra",
+          "Makar Sankranti"
+        ]
+      },
+      {
+        "name": "Shiva Mandir",
+        "main_deity": "Lord Shiva",
+        "image_url": "https://example.com/shiva_mandir.jpg",
+        "website": null,
+        "year_constructed": 1965,
+        "festivals_and_events": [
+          "Maha Shivaratri",
+          "Shravan Month"
+        ]
+      },
+      {
+        "name": "Radha Krishna Mandir",
+        "main_deity": "Radha Krishna",
+        "image_url": "https://example.com/radha_krishna_mandir.jpg",
+        "website": null,
+        "year_constructed": 2000,
+        "festivals_and_events": [
+          "Radhashtami",
+          "Janmashtami"
+        ]
+      }
+    ],
+    "Tezu": [
+      {
+        "name": "Golden Pagoda",
+        "main_deity": "Buddha",
+        "image_url": "https://example.com/golden_pagoda.jpg",
+        "website": null,
+        "year_constructed": 2010,
+        "festivals_and_events": [
+          "Buddha Purnima",
+          "Kathina Civara Dana"
+        ]
+      },
+      {
+        "name": "Parasuram Kund",
+        "main_deity": "Lord Parashurama",
+        "image_url": "https://example.com/parasuram_kund.jpg",
+        "website": null,
+        "year_constructed": 1965,
+        "festivals_and_events": [
+          "Makar Sankranti"
+        ]
+      },
+      {
+        "name": "Mali Duniya Temple",
+        "main_deity": "Local Deities",
+        "image_url": "https://example.com/mali_duniya_temple.jpg",
+        "website": null,
+        "year_constructed": 1980,
+        "festivals_and_events": [
+          "Local Tribal Festivals"
+        ]
+      },
+      {
+        "name": "Tamla-Du Buddhist Temple",
+        "main_deity": "Buddha",
+        "image_url": "https://example.com/tamla_du_temple.jpg",
+        "website": null,
+        "year_constructed": 1995,
+        "festivals_and_events": [
+          "Tamla-Du Festival"
+        ]
+      },
+      {
+        "name": "Chongkham Buddhist Temple",
+        "main_deity": "Buddha",
+        "image_url": "https://example.com/chongkham_temple.jpg",
+        "website": null,
+        "year_constructed": 2005,
+        "festivals_and_events": [
+          "Buddhist Festivals"
+        ]
+      }
+    ],
+    "Bomdila": [
+      {
+        "name": "Bomdila Monastery",
+        "main_deity": "Buddha",
+        "image_url": "https://example.com/bomdila_monastery.jpg",
+        "website": null,
+        "year_constructed": 1965,
+        "festivals_and_events": [
+          "Losar",
+          "Buddha Jayanti"
+        ]
+      },
+      {
+        "name": "Lower Gompa",
+        "main_deity": "Buddha",
+        "image_url": "https://example.com/lower_gompa.jpg",
+        "website": null,
+        "year_constructed": 1970,
+        "festivals_and_events": [
+          "Saka Dawa",
+          "Monlam Chenmo"
+        ]
+      },
+      {
+        "name": "Upper Gompa",
+        "main_deity": "Buddha",
+        "image_url": "https://example.com/upper_gompa.jpg",
+        "website": null,
+        "year_constructed": 1960,
+        "festivals_and_events": [
+          "Dzam Ling Chi Sang",
+          "Lhabab Duchen"
+        ]
+      },
+      {
+        "name": "Middle Gompa",
+        "main_deity": "Buddha",
+        "image_url": "https://example.com/middle_gompa.jpg",
+        "website": null,
+        "year_constructed": 1975,
+        "festivals_and_events": [
+          "Ganden Ngamcho",
+          "Chotrul Duchen"
+        ]
+      },
+      {
+        "name": "Rupa Monastery",
+        "main_deity": "Buddha",
+        "image_url": "https://example.com/rupa_monastery.jpg",
+        "website": null,
+        "year_constructed": 1978,
+        "festivals_and_events": [
+          "Tibetan New Year",
+          "Kagyad Festival"
+        ]
+      }
+    ],
+    "Ziro": [
+      {
+        "name": "Shiva Linga Temple",
+        "main_deity": "Lord Shiva",
+        "image_url": "https://example.com/shiva_linga.jpg",
+        "website": null,
+        "year_constructed": 2000,
+        "festivals_and_events": [
+          "Maha Shivaratri",
+          "Shravan Month"
+        ]
+      },
+      {
+        "name": "Meghna Cave Temple",
+        "main_deity": "Lord Shiva",
+        "image_url": "https://example.com/meghna_cave.jpg",
+        "website": null,
+        "year_constructed": 1962,
+        "festivals_and_events": [
+          "Maha Shivaratri",
+          "Navratri"
+        ]
+      },
+      {
+        "name": "Siddheshwar Nath Temple",
+        "main_deity": "Lord Shiva",
+        "image_url": "https://example.com/siddheshwar_nath.jpg",
+        "website": null,
+        "year_constructed": 2004,
+        "festivals_and_events": [
+          "Maha Shivaratri",
+          "Rath Yatra"
+        ]
+      }
+    ],
+    "Roing": [
+      {
+        "name": "Bhismaknagar Fort Temple",
+        "main_deity": "Lord Vishnu",
+        "image_url": "https://example.com/bhismaknagar.jpg",
+        "website": null,
+        "year_constructed": 750,
+        "festivals_and_events": [
+          "Bhismaknagar Festival"
+        ]
+      },
+      {
+        "name": "Rukmini Nati",
+        "main_deity": "Goddess Rukmini",
+        "image_url": "https://example.com/rukmininati.jpg",
+        "website": null,
+        "year_constructed": 1000,
+        "festivals_and_events": [
+          "Rukmini Festival"
+        ]
+      },
+      {
+        "name": "Mehao Temple",
+        "main_deity": "Lord Shiva",
+        "image_url": "https://example.com/mehaotemple.jpg",
+        "website": null,
+        "year_constructed": 1200,
+        "festivals_and_events": [
+          "Shivratri"
+        ]
+      },
+      {
+        "name": "Iphipani Ghat Temple",
+        "main_deity": "Goddess Durga",
+        "image_url": "https://example.com/iphipani.jpg",
+        "website": null,
+        "year_constructed": 1400,
+        "festivals_and_events": [
+          "Durga Puja"
+        ]
+      },
+      {
+        "name": "Parashuram Kund",
+        "main_deity": "Lord Parashuram",
+        "image_url": "https://example.com/parashuramkund.jpg",
+        "website": null,
+        "year_constructed": 800,
+        "festivals_and_events": [
+          "Makar Sankranti"
         ]
       }
     ]
   },
   "state": "Arunachal Pradesh",
-  "last_updated": "2026-08-01T11:07:08.270560"
+  "last_updated": "2026-08-01T13:34:14.120202"
 }

@@ -1,0 +1,342 @@
+{
+  "cities": {
+    "Aizawl": [
+      {
+        "name": "Solomon's Temple",
+        "main_deity": "Christian God",
+        "image_url": "https://example.com/solomons_temple.jpg",
+        "website": null,
+        "year_constructed": 1996,
+        "festivals_and_events": [
+          "Christmas",
+          "Easter"
+        ]
+      },
+      {
+        "name": "Bawngkawn Presbyterian Church",
+        "main_deity": "Christian God",
+        "image_url": "https://example.com/bawngkawn_presbyterian.jpg",
+        "website": null,
+        "year_constructed": 1970,
+        "festivals_and_events": [
+          "Christmas",
+          "Easter"
+        ]
+      },
+      {
+        "name": "Zarkawt Presbyterian Church",
+        "main_deity": "Christian God",
+        "image_url": "https://example.com/zarkawt_presbyterian.jpg",
+        "website": null,
+        "year_constructed": 1950,
+        "festivals_and_events": [
+          "Christmas",
+          "Easter"
+        ]
+      },
+      {
+        "name": "Chhinga Veng Presbyterian Church",
+        "main_deity": "Christian God",
+        "image_url": "https://example.com/chhinga_veng_presbyterian.jpg",
+        "website": null,
+        "year_constructed": 1980,
+        "festivals_and_events": [
+          "Christmas",
+          "Easter"
+        ]
+      },
+      {
+        "name": "Sairang Presbyterian Church",
+        "main_deity": "Christian God",
+        "image_url": "https://example.com/sairang_presbyterian.jpg",
+        "website": null,
+        "year_constructed": 1960,
+        "festivals_and_events": [
+          "Christmas",
+          "Easter"
+        ]
+      }
+    ],
+    "Lunglei": [
+      {
+        "name": "Saikuti Hall",
+        "main_deity": "Not Applicable",
+        "image_url": "https://example.com/saikuti_hall.jpg",
+        "website": null,
+        "year_constructed": 1997,
+        "festivals_and_events": [
+          "Cultural Events",
+          "Community Gatherings"
+        ]
+      },
+      {
+        "name": "Lunglei Baptist Church",
+        "main_deity": "Not Applicable",
+        "image_url": "https://example.com/lunglei_baptist_church.jpg",
+        "website": null,
+        "year_constructed": 1907,
+        "festivals_and_events": [
+          "Christmas",
+          "Easter"
+        ]
+      },
+      {
+        "name": "Roman Catholic Church",
+        "main_deity": "Not Applicable",
+        "image_url": "https://example.com/roman_catholic_church.jpg",
+        "website": null,
+        "year_constructed": 1958,
+        "festivals_and_events": [
+          "Christmas",
+          "Easter"
+        ]
+      },
+      {
+        "name": "Presbyterian Church",
+        "main_deity": "Not Applicable",
+        "image_url": "https://example.com/presbyterian_church.jpg",
+        "website": null,
+        "year_constructed": 1894,
+        "festivals_and_events": [
+          "Christmas",
+          "Easter"
+        ]
+      },
+      {
+        "name": "Lunglei Seventh Day Adventist Church",
+        "main_deity": "Not Applicable",
+        "image_url": "https://example.com/seventh_day_adventist.jpg",
+        "website": null,
+        "year_constructed": 1975,
+        "festivals_and_events": [
+          "Sabbath",
+          "Adventist Celebrations"
+        ]
+      }
+    ],
+    "Saiha": [
+      {
+        "name": "Saiha Shiva Temple",
+        "main_deity": "Lord Shiva",
+        "image_url": "https://example.com/saiha_shiva_temple.jpg",
+        "website": null,
+        "year_constructed": 1990,
+        "festivals_and_events": [
+          "Maha Shivaratri"
+        ]
+      },
+      {
+        "name": "Saiha Kali Mandir",
+        "main_deity": "Goddess Kali",
+        "image_url": "https://example.com/saiha_kali_mandir.jpg",
+        "website": null,
+        "year_constructed": 1985,
+        "festivals_and_events": [
+          "Kali Puja",
+          "Diwali"
+        ]
+      },
+      {
+        "name": "Sri Ram Saiha Temple",
+        "main_deity": "Lord Rama",
+        "image_url": "https://example.com/sri_ram_saiha_temple.jpg",
+        "website": null,
+        "year_constructed": 2000,
+        "festivals_and_events": [
+          "Rama Navami",
+          "Diwali"
+        ]
+      },
+      {
+        "name": "Saiha Durga Temple",
+        "main_deity": "Goddess Durga",
+        "image_url": "https://example.com/saiha_durga_temple.jpg",
+        "website": null,
+        "year_constructed": 1995,
+        "festivals_and_events": [
+          "Durga Puja",
+          "Navaratri"
+        ]
+      },
+      {
+        "name": "Saiha Hanuman Mandir",
+        "main_deity": "Lord Hanuman",
+        "image_url": "https://example.com/saiha_hanuman_mandir.jpg",
+        "website": null,
+        "year_constructed": 1988,
+        "festivals_and_events": [
+          "Hanuman Jayanti"
+        ]
+      }
+    ],
+    "Champhai": [
+      {
+        "name": "Rih Dil",
+        "main_deity": "Lake Deity",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Rih_Dil.jpg",
+        "website": null,
+        "year_constructed": 1400,
+        "festivals_and_events": [
+          "Rih Festival"
+        ]
+      },
+      {
+        "name": "Khuangchera Puk",
+        "main_deity": "Local Deities",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Khuangchera_Puk.jpg",
+        "website": null,
+        "year_constructed": 1500,
+        "festivals_and_events": [
+          "Khuangchera Festival"
+        ]
+      },
+      {
+        "name": "Tomb of Vanhnuailiana",
+        "main_deity": "Vanhnuailiana",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Tomb_of_Vanhnuailiana.jpg",
+        "website": null,
+        "year_constructed": 1600,
+        "festivals_and_events": [
+          "Vanhnuailiana Remembrance Day"
+        ]
+      },
+      {
+        "name": "Lamsial Puk",
+        "main_deity": "Warrior Spirits",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Lamsial_Puk.jpg",
+        "website": null,
+        "year_constructed": 1700,
+        "festivals_and_events": [
+          "Lamsial Festival"
+        ]
+      },
+      {
+        "name": "Zokhawthar",
+        "main_deity": "Nature Spirits",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Zokhawthar.jpg",
+        "website": null,
+        "year_constructed": 1800,
+        "festivals_and_events": [
+          "Zokhawthar Festival"
+        ]
+      }
+    ],
+    "Kolasib": [
+      {
+        "name": "Kolasib Shiva Temple",
+        "main_deity": "Lord Shiva",
+        "image_url": "https://example.com/kolasib-shiva-temple.jpg",
+        "website": null,
+        "year_constructed": 1985,
+        "festivals_and_events": [
+          "Maha Shivaratri",
+          "Navratri"
+        ]
+      },
+      {
+        "name": "Kolasib Hanuman Temple",
+        "main_deity": "Lord Hanuman",
+        "image_url": "https://example.com/kolasib-hanuman-temple.jpg",
+        "website": null,
+        "year_constructed": 1992,
+        "festivals_and_events": [
+          "Hanuman Jayanti",
+          "Diwali"
+        ]
+      },
+      {
+        "name": "Kolasib Kali Mandir",
+        "main_deity": "Goddess Kali",
+        "image_url": "https://example.com/kolasib-kali-mandir.jpg",
+        "website": null,
+        "year_constructed": 2001,
+        "festivals_and_events": [
+          "Durga Puja",
+          "Kali Puja"
+        ]
+      },
+      {
+        "name": "Kolasib Ganesh Temple",
+        "main_deity": "Lord Ganesha",
+        "image_url": "https://example.com/kolasib-ganesh-temple.jpg",
+        "website": null,
+        "year_constructed": 1998,
+        "festivals_and_events": [
+          "Ganesh Chaturthi",
+          "Sankashti Chaturthi"
+        ]
+      },
+      {
+        "name": "Kolasib Vishnu Temple",
+        "main_deity": "Lord Vishnu",
+        "image_url": "https://example.com/kolasib-vishnu-temple.jpg",
+        "website": null,
+        "year_constructed": 2005,
+        "festivals_and_events": [
+          "Vaikuntha Ekadashi",
+          "Janmashtami"
+        ]
+      }
+    ],
+    "Serchhip": [],
+    "Lawngtlai": [
+      {
+        "name": "Saiha Baptist Church",
+        "main_deity": "Jesus Christ",
+        "image_url": "https://example.com/saiha_baptist_church.jpg",
+        "website": null,
+        "year_constructed": 1978,
+        "festivals_and_events": [
+          "Christmas",
+          "Easter"
+        ]
+      },
+      {
+        "name": "Presbyterian Church, Lawngtlai",
+        "main_deity": "Jesus Christ",
+        "image_url": "https://example.com/presbyterian_church_lawngtlai.jpg",
+        "website": null,
+        "year_constructed": 1982,
+        "festivals_and_events": [
+          "Christmas",
+          "Good Friday"
+        ]
+      },
+      {
+        "name": "Zotlang Baptist Church",
+        "main_deity": "Jesus Christ",
+        "image_url": "https://example.com/zotlang_baptist_church.jpg",
+        "website": null,
+        "year_constructed": 1995,
+        "festivals_and_events": [
+          "Christmas",
+          "Easter"
+        ]
+      },
+      {
+        "name": "Mizo Synod Church",
+        "main_deity": "Jesus Christ",
+        "image_url": "https://example.com/mizo_synod_church.jpg",
+        "website": null,
+        "year_constructed": 1965,
+        "festivals_and_events": [
+          "Christmas",
+          "New Year"
+        ]
+      },
+      {
+        "name": "Chawngte Baptist Church",
+        "main_deity": "Jesus Christ",
+        "image_url": "https://example.com/chawngte_baptist_church.jpg",
+        "website": null,
+        "year_constructed": 1988,
+        "festivals_and_events": [
+          "Christmas",
+          "Easter"
+        ]
+      }
+    ]
+  },
+  "state": "Mizoram",
+  "last_updated": "2026-08-01T13:43:08.891771"
+}
