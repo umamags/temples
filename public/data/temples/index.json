@@ -1,0 +1,41 @@
+{
+  "description": "Temple data for Indian states",
+  "last_synced": "2026-08-01T11:07:50.874983",
+  "states": [
+    {
+      "name": "Andhra Pradesh",
+      "file": "Andhra Pradesh.json",
+      "cities": 1,
+      "total_temples": 5,
+      "last_updated": "2026-08-01T11:07:01.816046"
+    },
+    {
+      "name": "Arunachal Pradesh",
+      "file": "Arunachal Pradesh.json",
+      "cities": 1,
+      "total_temples": 5,
+      "last_updated": "2026-08-01T11:07:08.270560"
+    },
+    {
+      "name": "Assam",
+      "file": "Assam.json",
+      "cities": 1,
+      "total_temples": 5,
+      "last_updated": "2026-08-01T11:07:13.482415"
+    },
+    {
+      "name": "Bihar",
+      "file": "Bihar.json",
+      "cities": 1,
+      "total_temples": 5,
+      "last_updated": "2026-08-01T11:07:20.655315"
+    },
+    {
+      "name": "Chhattisgarh",
+      "file": "Chhattisgarh.json",
+      "cities": 1,
+      "total_temples": 5,
+      "last_updated": "2026-08-01T11:07:27.107169"
+    }
+  ]
+}

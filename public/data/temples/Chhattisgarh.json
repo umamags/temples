@@ -1,0 +1,62 @@
+{
+  "cities": {
+    "Raipur": [
+      {
+        "name": "Mahant Ghasidas Memorial Museum",
+        "main_deity": "Various Artifacts and Deities",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Mahant_Ghasidas_Museum_Raipur.jpg",
+        "website": null,
+        "year_constructed": 1875,
+        "festivals_and_events": [
+          "Local Cultural Events"
+        ]
+      },
+      {
+        "name": "Dudhadhari Math",
+        "main_deity": "Lord Rama",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Dudhadhari_Math.jpg",
+        "website": null,
+        "year_constructed": 1600,
+        "festivals_and_events": [
+          "Ram Navami",
+          "Diwali"
+        ]
+      },
+      {
+        "name": "Hatkeshwar Mahadev Temple",
+        "main_deity": "Lord Shiva",
+        "image_url": "https://www.example.com/hatkeshwar_mahadev.jpg",
+        "website": null,
+        "year_constructed": 1400,
+        "festivals_and_events": [
+          "Mahashivratri",
+          "Shravan Maas"
+        ]
+      },
+      {
+        "name": "Banjari Mata Mandir",
+        "main_deity": "Banjari Mata",
+        "image_url": "https://www.example.com/banjari_mata.jpg",
+        "website": null,
+        "year_constructed": 1600,
+        "festivals_and_events": [
+          "Navratri",
+          "Durgashtami"
+        ]
+      },
+      {
+        "name": "Jatmai Temple",
+        "main_deity": "Goddess Jatmai",
+        "image_url": "https://www.example.com/jatmai_temple.jpg",
+        "website": null,
+        "year_constructed": 1900,
+        "festivals_and_events": [
+          "Navratri",
+          "Diwali"
+        ]
+      }
+    ]
+  },
+  "state": "Chhattisgarh",
+  "last_updated": "2026-08-01T11:07:27.107169"
+}

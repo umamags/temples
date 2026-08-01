@@ -1,0 +1,60 @@
+{
+  "cities": {
+    "Amaravati": [
+      {
+        "name": "Amaravati Mahachaitya",
+        "main_deity": "Buddha",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Amaravati_Stupa.jpg",
+        "website": null,
+        "year_constructed": 200,
+        "festivals_and_events": [
+          "Buddha Purnima"
+        ]
+      },
+      {
+        "name": "Amareswara Temple",
+        "main_deity": "Shiva",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Amareswara_Temple.jpg",
+        "website": null,
+        "year_constructed": 1234,
+        "festivals_and_events": [
+          "Maha Shivaratri",
+          "Karthika Deepam"
+        ]
+      },
+      {
+        "name": "Dhyana Buddha Statue",
+        "main_deity": "Buddha",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Dhyana_Buddha.jpg",
+        "website": null,
+        "year_constructed": 2015,
+        "festivals_and_events": [
+          "Buddha Purnima"
+        ]
+      },
+      {
+        "name": "Sri Vasavi Kanyaka Parameswari Temple",
+        "main_deity": "Vasavi Kanyaka Parameswari",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Vasavi_Kanyaka_Parameshwari_Temple.jpg",
+        "website": null,
+        "year_constructed": 1900,
+        "festivals_and_events": [
+          "Vasavi Jayanthi"
+        ]
+      },
+      {
+        "name": "Sri Venkateswara Swamy Temple",
+        "main_deity": "Venkateswara",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Venkateswara_Swamy_Temple.jpg",
+        "website": null,
+        "year_constructed": 1800,
+        "festivals_and_events": [
+          "Brahmotsavam",
+          "Vaikunta Ekadasi"
+        ]
+      }
+    ]
+  },
+  "state": "Andhra Pradesh",
+  "last_updated": "2026-08-01T11:07:01.816046"
+}

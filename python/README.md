@@ -1,0 +1,233 @@
+# Temples of India - Python Scripts
+
+This directory contains Python scripts for fetching and syncing temple data.
+
+## Setup
+
+### 1. Install Dependencies
+```bash
+pip install -r requirements.txt
+```
+
+### 2. Set Environment Variable
+```bash
+export OPENAI_API_KEY="your-openai-api-key-here"
+```
+
+Or create a `.env` file in the project root:
+```
+OPENAI_API_KEY=your-openai-api-key-here
+```
+
+## Scripts
+
+### `getTemples.py` - Fetch Temple Data
+
+Fetches temple details from OpenAI for Indian cities and stores them as JSON.
+
+**Output Structure:**
+```
+data/temples/
+├── Andhra_Pradesh.json
+├── Arunachal_Pradesh.json
+└── ...
+```
+
+Each file contains:
+```json
+{
+  "state": "Andhra Pradesh",
+  "last_updated": "2024-01-01T10:30:00",
+  "cities": {
+    "Visakhapatnam": [
+      {
+        "name": "Kali Temple",
+        "main_deity": "Goddess Kali",
+        "image_url": "https://...",
+        "website": "https://... or null",
+        "year_constructed": 1234,
+        "festivals_and_events": ["Diwali", "Navratri"]
+      }
+    ]
+  }
+}
+```
+
+#### Usage
+
+**Pilot Mode (Recommended First):**
+Run for first city of 5 states (5 API calls):
+```bash
+python getTemples.py --pilot
+```
+
+**Specific State:**
+Run for a specific state only:
+```bash
+python getTemples.py --state "Andhra Pradesh"
+```
+
+**Full Mode:**
+Run for all states (uses caching, skips existing data):
+```bash
+python getTemples.py
+```
+
+**Force Re-fetch:**
+Force re-fetch even if data exists:
+```bash
+python getTemples.py --force
+```
+
+#### Features
+- **Caching**: Skips states if data already exists (use `--force` to override)
+- **Retry Logic**: 2 retries with delays for failed API calls
+- **Logging**: Logs to both console and `temples_fetch.log`
+- **Rate Limiting**: Includes delays between requests to respect API limits
+- **Model**: Uses `gpt-4o` (fast and cost-effective)
+
+#### Cost Estimate (Pilot)
+- Pilot mode: ~5 API calls × ~2000 tokens ≈ $0.10-0.20
+
+#### Cost Estimate (Full)
+- Full mode: ~100 cities × ~2000 tokens ≈ $2-4
+
+### `syncTemples.py` - Sync to React App
+
+Copies temple data from `data/temples/` to `public/data/temples/` so the React app can access it as static files.
+
+**Output:**
+```
+public/data/temples/
+├── Andhra_Pradesh.json
+├── index.json
+└── ...
+```
+
+#### Usage
+```bash
+python syncTemples.py
+```
+
+This creates:
+- Individual state JSON files in `public/data/temples/`
+- An `index.json` with summary data for all states
+
+## Workflow
+
+### Step 1: Fetch Data (Pilot)
+```bash
+python getTemples.py --pilot
+```
+Check `temples_fetch.log` for results. Cost: ~$0.20
+
+### Step 2: Sync to React App
+```bash
+python syncTemples.py
+```
+
+### Step 3: Verify in React App
+- Navigate to `http://localhost:5173/state/andhra-pradesh/city/visakhapatnam`
+- Check browser console for any errors
+- Temples data should load from `public/data/temples/Andhra_Pradesh.json`
+
+### Step 4: Full Fetch (When Ready)
+Once pilot looks good:
+```bash
+python getTemples.py
+python syncTemples.py
+```
+
+## Integration with React App
+
+The React app can access temple data via:
+
+### Option 1: Direct File Loading
+```javascript
+const templesData = await fetch('/data/temples/Andhra_Pradesh.json').then(r => r.json());
+```
+
+### Option 2: Index File
+```javascript
+const index = await fetch('/data/temples/index.json').then(r => r.json());
+// index.states contains summary info for all states
+```
+
+### Option 3: Hook in React
+Create a `useTemples.js` hook:
+```javascript
+export function useTemples(state, city) {
+  const [temples, setTemples] = useState(null);
+  
+  useEffect(() => {
+    fetch(`/data/temples/${state.replace(/ /g, '_')}.json`)
+      .then(r => r.json())
+      .then(data => setTemples(data.cities[city] || []))
+      .catch(e => console.error(e));
+  }, [state, city]);
+  
+  return temples;
+}
+```
+
+## Logging
+
+### getTemples.py Log File
+- Location: `temples_fetch.log`
+- Contains: Fetch attempts, API responses, errors, retry info
+
+### syncTemples.py Log File
+- Location: `temples_sync.log`
+- Contains: File copies, index creation, sync status
+
+## Troubleshooting
+
+### "OPENAI_API_KEY not set"
+- Make sure you've set the environment variable
+- Verify with: `echo $OPENAI_API_KEY`
+
+### "Failed to parse JSON response"
+- OpenAI sometimes returns malformed JSON
+- Check `temples_fetch.log` for the full response
+- The script will retry up to 2 times
+- Consider using a more specific prompt if issues persist
+
+### "No cities found for state X"
+- Verify the state name matches `data/states.json`
+- Check if cities are defined in `data/cities.json`
+
+### Sync Not Finding Files
+- Run `python getTemples.py --pilot` first to generate data
+- Verify files exist: `ls data/temples/`
+
+## File Structure
+
+```
+temples/
+├── data/
+│   ├── states.json          # State list (created earlier)
+│   ├── cities.json          # Cities by state (created earlier)
+│   └── temples/             # Generated by getTemples.py
+│       ├── Andhra_Pradesh.json
+│       └── ...
+├── public/
+│   └── data/
+│       └── temples/         # Synced by syncTemples.py
+│           ├── Andhra_Pradesh.json
+│           ├── index.json
+│           └── ...
+└── python/
+    ├── getTemples.py        # Main fetch script
+    ├── syncTemples.py       # Sync script
+    ├── requirements.txt     # Dependencies
+    └── README.md           # This file
+```
+
+## Next Steps
+
+1. Install dependencies: `pip install -r requirements.txt`
+2. Set `OPENAI_API_KEY` environment variable
+3. Run pilot: `python getTemples.py --pilot`
+4. Check logs: `tail -f temples_fetch.log`
+5. Sync data: `python syncTemples.py`
+6. Update React app to display temples (see Integration section)

@@ -1,0 +1,63 @@
+{
+  "cities": {
+    "Patna": [
+      {
+        "name": "Mahavir Mandir",
+        "main_deity": "Lord Hanuman",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Mahavir_Mandir%2C_Patna.jpg",
+        "website": "http://www.mahavirmandirpatna.org/",
+        "year_constructed": 1947,
+        "festivals_and_events": [
+          "Ram Navami",
+          "Hanuman Jayanti"
+        ]
+      },
+      {
+        "name": "Takht Sri Patna Sahib",
+        "main_deity": "Guru Gobind Singh",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Takht_Sri_Patna_Sahib.jpg",
+        "website": "http://www.patnasahib.in/",
+        "year_constructed": 1666,
+        "festivals_and_events": [
+          "Guru Gobind Singh Jayanti",
+          "Baisakhi"
+        ]
+      },
+      {
+        "name": "Patan Devi Temple",
+        "main_deity": "Goddess Durga",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Patan_Devi_Temple.jpg",
+        "website": null,
+        "year_constructed": 1800,
+        "festivals_and_events": [
+          "Navaratri",
+          "Durga Puja"
+        ]
+      },
+      {
+        "name": "ISKCON Temple Patna",
+        "main_deity": "Lord Krishna",
+        "image_url": "https://iskconpatna.com/images/iskcon_temple.jpg",
+        "website": "https://iskconpatna.com/",
+        "year_constructed": 2010,
+        "festivals_and_events": [
+          "Janmashtami",
+          "Radha Ashtami"
+        ]
+      },
+      {
+        "name": "Badi Patan Devi Temple",
+        "main_deity": "Goddess Kali",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Badi_Patan_Devi_Temple.jpg",
+        "website": null,
+        "year_constructed": 1750,
+        "festivals_and_events": [
+          "Diwali",
+          "Kali Puja"
+        ]
+      }
+    ]
+  },
+  "state": "Bihar",
+  "last_updated": "2026-08-01T11:07:20.655315"
+}

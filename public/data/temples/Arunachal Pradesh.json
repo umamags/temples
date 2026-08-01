@@ -1,0 +1,63 @@
+{
+  "cities": {
+    "Itanagar": [
+      {
+        "name": "Ganga Lake Temple",
+        "main_deity": "Lord Shiva",
+        "image_url": "https://example.com/gangalake_temple.jpg",
+        "website": null,
+        "year_constructed": 1986,
+        "festivals_and_events": [
+          "Maha Shivaratri",
+          "Navratri"
+        ]
+      },
+      {
+        "name": "Buddha Vihar",
+        "main_deity": "Gautama Buddha",
+        "image_url": "https://example.com/buddha_vihar.jpg",
+        "website": null,
+        "year_constructed": 1996,
+        "festivals_and_events": [
+          "Buddha Purnima",
+          "Losar"
+        ]
+      },
+      {
+        "name": "Itanagar Buddhist Temple",
+        "main_deity": "Gautama Buddha",
+        "image_url": "https://example.com/itanagar_buddhist_temple.jpg",
+        "website": null,
+        "year_constructed": 1988,
+        "festivals_and_events": [
+          "Buddha Purnima",
+          "Kathina"
+        ]
+      },
+      {
+        "name": "Theravada Buddhist Temple",
+        "main_deity": "Gautama Buddha",
+        "image_url": "https://example.com/theravada_buddhist_temple.jpg",
+        "website": null,
+        "year_constructed": 2005,
+        "festivals_and_events": [
+          "Magha Puja",
+          "Vesak"
+        ]
+      },
+      {
+        "name": "Hanuman Temple",
+        "main_deity": "Lord Hanuman",
+        "image_url": "https://example.com/hanuman_temple.jpg",
+        "website": null,
+        "year_constructed": 1995,
+        "festivals_and_events": [
+          "Hanuman Jayanti",
+          "Diwali"
+        ]
+      }
+    ]
+  },
+  "state": "Arunachal Pradesh",
+  "last_updated": "2026-08-01T11:07:08.270560"
+}

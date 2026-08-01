@@ -1,0 +1,144 @@
+{
+  "states": [
+    {
+      "id": 1,
+      "name": "Andhra Pradesh",
+      "capital": "Amaravati"
+    },
+    {
+      "id": 2,
+      "name": "Arunachal Pradesh",
+      "capital": "Itanagar"
+    },
+    {
+      "id": 3,
+      "name": "Assam",
+      "capital": "Dispur"
+    },
+    {
+      "id": 4,
+      "name": "Bihar",
+      "capital": "Patna"
+    },
+    {
+      "id": 5,
+      "name": "Chhattisgarh",
+      "capital": "Raipur"
+    },
+    {
+      "id": 6,
+      "name": "Goa",
+      "capital": "Panaji"
+    },
+    {
+      "id": 7,
+      "name": "Gujarat",
+      "capital": "Gandhinagar"
+    },
+    {
+      "id": 8,
+      "name": "Haryana",
+      "capital": "Chandigarh"
+    },
+    {
+      "id": 9,
+      "name": "Himachal Pradesh",
+      "capital": "Shimla"
+    },
+    {
+      "id": 10,
+      "name": "Jharkhand",
+      "capital": "Ranchi"
+    },
+    {
+      "id": 11,
+      "name": "Karnataka",
+      "capital": "Bengaluru"
+    },
+    {
+      "id": 12,
+      "name": "Kerala",
+      "capital": "Thiruvananthapuram"
+    },
+    {
+      "id": 13,
+      "name": "Madhya Pradesh",
+      "capital": "Bhopal"
+    },
+    {
+      "id": 14,
+      "name": "Maharashtra",
+      "capital": "Mumbai"
+    },
+    {
+      "id": 15,
+      "name": "Manipur",
+      "capital": "Imphal"
+    },
+    {
+      "id": 16,
+      "name": "Meghalaya",
+      "capital": "Shillong"
+    },
+    {
+      "id": 17,
+      "name": "Mizoram",
+      "capital": "Aizawl"
+    },
+    {
+      "id": 18,
+      "name": "Nagaland",
+      "capital": "Kohima"
+    },
+    {
+      "id": 19,
+      "name": "Odisha",
+      "capital": "Bhubaneswar"
+    },
+    {
+      "id": 20,
+      "name": "Punjab",
+      "capital": "Chandigarh"
+    },
+    {
+      "id": 21,
+      "name": "Rajasthan",
+      "capital": "Jaipur"
+    },
+    {
+      "id": 22,
+      "name": "Sikkim",
+      "capital": "Gangtok"
+    },
+    {
+      "id": 23,
+      "name": "Tamil Nadu",
+      "capital": "Chennai"
+    },
+    {
+      "id": 24,
+      "name": "Telangana",
+      "capital": "Hyderabad"
+    },
+    {
+      "id": 25,
+      "name": "Tripura",
+      "capital": "Agartala"
+    },
+    {
+      "id": 26,
+      "name": "Uttar Pradesh",
+      "capital": "Lucknow"
+    },
+    {
+      "id": 27,
+      "name": "Uttarakhand",
+      "capital": "Dehradun"
+    },
+    {
+      "id": 28,
+      "name": "West Bengal",
+      "capital": "Kolkata"
+    }
+  ]
+}

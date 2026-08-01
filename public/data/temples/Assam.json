@@ -1,0 +1,64 @@
+{
+  "cities": {
+    "Guwahati": [
+      {
+        "name": "Kamakhya Temple",
+        "main_deity": "Goddess Kamakhya",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Kamakhya_Temple%2C_Guwahati.jpg",
+        "website": "https://kamakhyatemple.co.in/",
+        "year_constructed": 1565,
+        "festivals_and_events": [
+          "Ambubachi Mela",
+          "Manasha Puja",
+          "Durga Puja"
+        ]
+      },
+      {
+        "name": "Umananda Temple",
+        "main_deity": "Lord Shiva",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Umananda_Temple.jpg",
+        "website": null,
+        "year_constructed": 1694,
+        "festivals_and_events": [
+          "Maha Shivaratri",
+          "Sawan Festival"
+        ]
+      },
+      {
+        "name": "Navagraha Temple",
+        "main_deity": "Navagraha (Nine Planets)",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Navagraha_temple.JPG",
+        "website": null,
+        "year_constructed": 1752,
+        "festivals_and_events": [
+          "Navratri",
+          "Makar Sankranti"
+        ]
+      },
+      {
+        "name": "Basistha Temple",
+        "main_deity": "Lord Shiva",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Basistha_Ashram.jpg",
+        "website": null,
+        "year_constructed": 1764,
+        "festivals_and_events": [
+          "Maha Shivaratri",
+          "Durga Puja"
+        ]
+      },
+      {
+        "name": "Doul Govinda Temple",
+        "main_deity": "Lord Krishna",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Doul_Govinda_Temple.JPG",
+        "website": null,
+        "year_constructed": 1820,
+        "festivals_and_events": [
+          "Janmashtami",
+          "Holi"
+        ]
+      }
+    ]
+  },
+  "state": "Assam",
+  "last_updated": "2026-08-01T11:07:13.482415"
+}
