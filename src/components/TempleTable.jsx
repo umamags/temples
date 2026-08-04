@@ -1,6 +1,8 @@
 import { useMemo, useState } from 'react'
+import { useNavigate } from 'react-router-dom'
 
 export default function TempleTable({ temples, title = 'Temples', showStateCity = true }) {
+  const navigate = useNavigate()
   const [searchTerm, setSearchTerm] = useState('')
   const [currentPage, setCurrentPage] = useState(1)
   const ROWS_PER_PAGE = 20
@@ -29,6 +31,22 @@ export default function TempleTable({ temples, title = 'Temples', showStateCity 
   const handleSearch = (e) => {
     setSearchTerm(e.target.value)
     setCurrentPage(1)
+  }
+
+  const handleTempleClick = (temple) => {
+    const stateSlug = slugifyName(temple.state)
+    const citySlug = slugifyName(temple.city)
+    const templeSlug = slugifyName(temple.name)
+    navigate(`/temple/${stateSlug}/${citySlug}/${templeSlug}`)
+  }
+
+  const slugifyName = (text) => {
+    if (!text) return ''
+    return text
+      .toLowerCase()
+      .replace(/[^\w\s-]/g, '')
+      .replace(/[-\s]+/g, '-')
+      .trim('-')
   }
 
   return (
@@ -73,19 +91,25 @@ export default function TempleTable({ temples, title = 'Temples', showStateCity 
                 </tr>
               </thead>
               <tbody>
-                {paginatedTemples.map((temple, idx) => {
-                  const linkUrl = (temple.website || temple.image_url)
-                  const isValidLink = linkUrl && !linkUrl.includes('example.com')
-                  return (
+                {paginatedTemples.map((temple, idx) => (
                   <tr key={`${temple.state}-${temple.city}-${idx}`}>
-                    <td>
-                      {isValidLink ? (
-                        <a href={linkUrl} target="_blank" rel="noopener noreferrer" className="temple-website">
-                          {temple.name}
-                        </a>
-                      ) : (
-                        temple.name
-                      )}
+                    <td style={{ textAlign: 'left' }}>
+                      <button
+                        type="button"
+                        onClick={() => handleTempleClick(temple)}
+                        style={{
+                          background: 'none',
+                          border: 'none',
+                          color: '#0066cc',
+                          cursor: 'pointer',
+                          textDecoration: 'underline',
+                          padding: 0,
+                          fontSize: 'inherit',
+                          textAlign: 'left',
+                        }}
+                      >
+                        {temple.name}
+                      </button>
                     </td>
                     <td>{temple.main_deity}</td>
                     {showStateCity && <td>{temple.state}</td>}
@@ -106,8 +130,7 @@ export default function TempleTable({ temples, title = 'Temples', showStateCity 
                       )}
                     </td>
                   </tr>
-                  )
-                })}
+                ))}
               </tbody>
             </table>
           </div>
