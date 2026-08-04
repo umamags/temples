@@ -3,7 +3,6 @@ import { statesAndCities } from './statesData'
 
 export function useTempleDetail(stateName, cityName, templeName) {
   const [temple, setTemple] = useState(null)
-  const [googleResults, setGoogleResults] = useState([])
   const [status, setStatus] = useState('loading')
   const [error, setError] = useState(null)
 
@@ -48,29 +47,12 @@ export function useTempleDetail(stateName, cityName, templeName) {
           throw new Error('Temple not found')
         }
 
-        // Load Google results
-        const googleResultsPath = `${import.meta.env.BASE_URL}data/google-results/${slugifyName(
-          stateName
-        )}/${slugifyName(cityName)}/${templeName}.json`
-
-        let googleData = []
-        try {
-          const googleResponse = await fetch(googleResultsPath)
-          if (googleResponse.ok) {
-            const googleContent = await googleResponse.json()
-            googleData = googleContent.results || []
-          }
-        } catch (err) {
-          console.warn('Could not load Google results:', err)
-        }
-
         if (isMounted) {
           setTemple({
             ...templeData,
             state: actualStateName,
             city: actualCityName,
           })
-          setGoogleResults(googleData)
           setStatus('ready')
         }
       } catch (err) {
@@ -90,7 +72,7 @@ export function useTempleDetail(stateName, cityName, templeName) {
     }
   }, [stateName, cityName, templeName])
 
-  return { temple, googleResults, status, error }
+  return { temple, status, error }
 }
 
 function slugifyName(text) {

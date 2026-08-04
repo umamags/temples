@@ -429,64 +429,6 @@ export default function TempleDetailPage() {
           </form>
         </div>
 
-        {/* Google Search Results */}
-        {googleResults.length > 0 && (
-          <div>
-            <h2 style={{ fontSize: '1.5rem', marginBottom: '1rem' }}>
-              Related Search Results {<span style={{ fontSize: '0.8rem', color: '#999' }}>[PLACEHOLDER]</span>}
-            </h2>
-            <div style={{ display: 'flex', flexDirection: 'column', gap: '1.5rem' }}>
-              {googleResults.map((result, idx) => (
-                <div
-                  key={idx}
-                  style={{
-                    padding: '1rem',
-                    backgroundColor: '#f9f9f9',
-                    border: '1px solid #e0e0e0',
-                    borderRadius: '4px',
-                    transition: 'background-color 0.2s',
-                  }}
-                  onMouseEnter={(e) => (e.currentTarget.style.backgroundColor = '#f0f0f0')}
-                  onMouseLeave={(e) => (e.currentTarget.style.backgroundColor = '#f9f9f9')}
-                >
-                  <a
-                    href={result.url}
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    style={{
-                      display: 'block',
-                      color: '#0066cc',
-                      fontSize: '0.85rem',
-                      textDecoration: 'none',
-                      marginBottom: '0.5rem',
-                      wordBreak: 'break-word',
-                    }}
-                  >
-                    {result.url}
-                  </a>
-                  <h3 style={{ margin: '0.5rem 0', fontSize: '1.1rem', color: '#1a1a1a' }}>
-                    <a
-                      href={result.url}
-                      target="_blank"
-                      rel="noopener noreferrer"
-                      style={{
-                        color: '#1a1a1a',
-                        textDecoration: 'none',
-                      }}
-                      onMouseEnter={(e) => (e.currentTarget.style.textDecoration = 'underline')}
-                      onMouseLeave={(e) => (e.currentTarget.style.textDecoration = 'none')}
-                    >
-                      {result.title}
-                    </a>
-                  </h3>
-                  <p style={{ margin: '0.5rem 0', color: '#555', fontSize: '0.95rem', lineHeight: '1.5' }}>
-                    {result.description}
-                  </p>
-                </div>
-              ))}
-            </div>
-          </div>
-        )}
       </div>
     </div>
   )
