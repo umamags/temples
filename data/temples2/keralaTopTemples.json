@@ -1,0 +1,164 @@
+[
+  {
+    "state": "Kerala",
+    "town": "Alappuzha",
+    "type": "city",
+    "top_temples": [
+      { "name": "Mullakkal Rajarajeswari Temple", "deity": "Rajarajeswari (Durga)", "location_note": "Center of Alappuzha town; 500+ years old" },
+      { "name": "Sree Ganesh Temple, Mullackal", "deity": "Ganesha", "location_note": "Mullackal market area" },
+      { "name": "Chettikulangara Bhagavathy Temple", "deity": "Bhagavathy (Devi)", "location_note": "Near Mavelikkara, Alappuzha district; 1,200+ years old" },
+      { "name": "Mannarasala Sree Nagaraja Temple", "deity": "Nagaraja (serpent deity)", "location_note": "Haripad, Alappuzha district; largest Naga temple in Kerala" },
+      { "name": "Karthyayani Devi Temple", "deity": "Karthyayani (Durga)", "location_note": "Cherthala, Alappuzha district" }
+    ]
+  },
+  {
+    "state": "Kerala",
+    "town": "Kannur",
+    "type": "city",
+    "top_temples": [
+      { "name": "Parassinikadavu Muthappan Temple", "deity": "Muthappan (folk deity)", "location_note": "Parassinikadavu, on the Valapattanam river" },
+      { "name": "Rajarajeshwara Temple", "deity": "Shiva", "location_note": "Taliparamba; tallest Shikhara among South Indian Shiva temples" },
+      { "name": "Taliparamba Shakti Peetha", "deity": "Sati/Shakti", "location_note": "Taliparamba; regarded as one of the oldest Shakti Peethas" },
+      { "name": "Mridanga Saileswari Temple", "deity": "Durga", "location_note": "Muzhakunnu; one of 108 ancient Durga temples of Kerala" },
+      { "name": "Trichambaram Temple", "deity": "Krishna", "location_note": "One of Kannur's oldest temples" }
+    ]
+  },
+  {
+    "state": "Kerala",
+    "town": "Kasaragod",
+    "type": "city",
+    "top_temples": [
+      { "name": "Ananthapura Lake Temple", "deity": "Ananta Padmanabha (Vishnu)", "location_note": "Kerala's only lake temple; believed original abode of Thiruvananthapuram's Padmanabhaswamy deity" },
+      { "name": "Mallikarjuna Temple", "deity": "Shiva (as Mallikarjuna)", "location_note": "One of the oldest, most important temples in the district" },
+      { "name": "Madhur Sri Madanantheshwara Vinayaka Temple", "deity": "Ganesha", "location_note": "Madhur" },
+      { "name": "Palakkunnu Sri Bhagavathy Temple", "deity": "Bhagavathy (Durga)", "location_note": "Kasaragod-Kanhangad road" },
+      { "name": "Sri Gopalakrishna Temple", "deity": "Krishna (as Santhanagopalakrishna)", "location_note": "Kumbla, ~12 km north of Kasaragod; ~400 years old" }
+    ]
+  },
+  {
+    "state": "Kerala",
+    "town": "Kochi",
+    "type": "city",
+    "top_temples": [
+      { "name": "Ernakulam Shiva Temple", "deity": "Shiva", "location_note": "City center; rare Shiva shrine facing the Arabian Sea" },
+      { "name": "Sri Poornathrayeesa Temple", "deity": "Vishnu (as Poornathrayeesa)", "location_note": "Tripunithura" },
+      { "name": "Thrikkakara Temple", "deity": "Shiva and Vamana (Vishnu)", "location_note": "Thrikkakara, ~10 km from Kochi; twin-shrine complex" },
+      { "name": "Dharmanath Jain Temple (Gujarati Mandir)", "deity": "Jain Tirthankara Dharmanatha", "location_note": "Mattancherry" },
+      { "name": "Kaloor Pavakulam Sree Mahadeva Kshetram", "deity": "Shiva", "location_note": "Kaloor" }
+    ]
+  },
+  {
+    "state": "Kerala",
+    "town": "Kottayam",
+    "type": "city",
+    "top_temples": [
+      { "name": "Thirunakkara Mahadeva Temple", "deity": "Shiva", "location_note": "Heart of Kottayam town; built 16th century by the Thekkumkur Raja" },
+      { "name": "Kumaranalloor Devi Temple", "deity": "Devi (Durga)", "location_note": "Banks of the Meenachil River; one of 108 Durgalayas of Kerala" },
+      { "name": "Thiruvarppu Sri Krishna Temple", "deity": "Krishna", "location_note": "Thiruvarppu, near Kottayam" },
+      { "name": "Thaliyil (Talikotta) Mahadeva Temple", "deity": "Shiva", "location_note": "Banks of the Meenachil River, Kottayam-Kumarakom road" },
+      { "name": "Pallippurathukavu Bhagavathi Temple", "deity": "Bhagavathi (Devi)", "location_note": "Kottayam town" }
+    ]
+  },
+  {
+    "state": "Kerala",
+    "town": "Kozhikode",
+    "type": "city",
+    "top_temples": [
+      { "name": "Tali Maha Shiva Kshetram", "deity": "Shiva", "location_note": "Heart of Kozhikode city; among the oldest temples in the city" },
+      { "name": "Azhakodi Devi Temple", "deity": "Kali", "location_note": "Kozhikode" },
+      { "name": "Lokanarkavu Temple", "deity": "Durga", "location_note": "Vadakara area, Kozhikode district" },
+      { "name": "Mel Pazhani Murugan Temple", "deity": "Murugan", "location_note": "Atop Mayiladumkunnu Hill; 500+ years old" },
+      { "name": "Varakkal Devi Temple", "deity": "Devi", "location_note": "Near Kozhikode" }
+    ]
+  },
+  {
+    "state": "Kerala",
+    "town": "Malappuram",
+    "type": "city",
+    "top_temples": [
+      { "name": "Keraladeshpuram Temple", "deity": "Vishnu", "location_note": "Near Tanur; among the oldest Hindu temples in Kerala" },
+      { "name": "Kadampuzha Bhagavathy Temple", "deity": "Bhagavathy (idol-less shrine)", "location_note": "Founded per tradition by Adi Shankaracharya" },
+      { "name": "Thirumandhamkunnu Bhagavathy Temple", "deity": "Bhagavathy (Devi)", "location_note": "Angadipuram; known for its annual Pooram festival" },
+      { "name": "Thirunavaya Lava Mukunda Temple", "deity": "Vishnu (as Narayana)", "location_note": "Thirunavaya, on the Bharathapuzha river" },
+      { "name": "Vellamassery Garudan Kavu Temple", "deity": "Garuda", "location_note": "Near Tirur; 1,800+ years old, en route to Sabarimala" }
+    ]
+  },
+  {
+    "state": "Kerala",
+    "town": "Thiruvananthapuram",
+    "type": "city",
+    "top_temples": [
+      { "name": "Sree Padmanabhaswamy Temple", "deity": "Vishnu (as Padmanabha)", "location_note": "City center; one of the 108 Divya Desams, historically linked to the Travancore royal family" },
+      { "name": "Attukal Bhagavathy Temple", "deity": "Bhagavathy (Devi)", "location_note": "Known as the 'Sabarimala of Women' for its Pongala festival" },
+      { "name": "Azhimala Shiva Temple", "deity": "Shiva", "location_note": "Hilltop overlooking the Arabian Sea" },
+      { "name": "Pazhavangadi Ganapathy Temple", "deity": "Ganesha", "location_note": "City center" },
+      { "name": "Sreekanteswaram Temple", "deity": "Shiva", "location_note": "Believed founded by Sage Parasurama" }
+    ]
+  },
+  {
+    "state": "Kerala",
+    "town": "Thrissur",
+    "type": "city",
+    "top_temples": [
+      { "name": "Vadakkunnathan Temple", "deity": "Shiva", "location_note": "Hilltop in the city center; venue of the Thrissur Pooram festival" },
+      { "name": "Thiruvambadi Sri Krishna Temple", "deity": "Krishna (as Unnikrishna)", "location_note": "~1 km from Vadakkunnathan Temple" },
+      { "name": "Paramekkavu Bhagavathy Temple", "deity": "Bhagavathy (Devi)", "location_note": "Thrissur city; ~1,000 years old" },
+      { "name": "Peruvanam Mahadeva Temple", "deity": "Shiva", "location_note": "Near Cherpu, Thrissur" },
+      { "name": "Arattupuzha Temple", "deity": "Ayyappa (Sastha)", "location_note": "Known for the Arattupuzha Pooram festival" }
+    ]
+  },
+  {
+    "state": "Kerala",
+    "town": "Ambalapuzha",
+    "type": "temple town",
+    "top_temples": [
+      { "name": "Ambalapuzha Sri Krishna Temple", "deity": "Krishna (as Parthasarathy)", "location_note": "Known as the 'Dwaraka of the South'; famous for its Palpayasam offering" },
+      { "name": "Sastha (Ayyappa) shrine, Ambalapuzha temple complex", "deity": "Sastha/Ayyappa", "location_note": "Subsidiary shrine within the Sri Krishna Temple complex" }
+    ]
+  },
+  {
+    "state": "Kerala",
+    "town": "Chottanikkara",
+    "type": "temple town",
+    "top_temples": [
+      { "name": "Chottanikkara Bhagavathy Temple", "deity": "Bhagavathy — worshipped as Saraswathi, Lakshmi, and Durga through the day", "location_note": "Known for spiritual-healing pilgrimage" },
+      { "name": "Kizhukkavu Bhagavathy Temple", "deity": "Durga (evening form)", "location_note": "Secondary shrine on the eastern side of the main temple complex" }
+    ]
+  },
+  {
+    "state": "Kerala",
+    "town": "Ettumanoor",
+    "type": "temple town",
+    "top_temples": [
+      { "name": "Ettumanoor Mahadeva Temple", "deity": "Shiva", "location_note": "Dates to 1542 CE; famed for its mural paintings and Ezharaponnana procession" },
+      { "name": "Krishna shrine, Ettumanoor temple complex", "deity": "Krishna", "location_note": "Subsidiary shrine within the Mahadeva Temple complex" }
+    ]
+  },
+  {
+    "state": "Kerala",
+    "town": "Guruvayur",
+    "type": "temple town",
+    "top_temples": [
+      { "name": "Guruvayur Sri Krishna Temple", "deity": "Krishna", "location_note": "Iconic pilgrimage site, called the 'Dwarka of the South'" },
+      { "name": "Mammiyoor Mahadeva Temple", "deity": "Shiva", "location_note": "~1 km from the Krishna Temple; tradition holds devotees visit both" }
+    ]
+  },
+  {
+    "state": "Kerala",
+    "town": "Sabarimala",
+    "type": "temple town",
+    "top_temples": [
+      { "name": "Sabarimala Sree Ayyappa Temple", "deity": "Ayyappa (Dharmasastha)", "location_note": "Forest hilltop shrine; open only during pilgrimage season" },
+      { "name": "Malikappurathu Amma Temple", "deity": "Malikappurathamma (Devi)", "location_note": "~100 m from the main Ayyappa shrine" }
+    ]
+  },
+  {
+    "state": "Kerala",
+    "town": "Vaikom",
+    "type": "temple town",
+    "top_temples": [
+      { "name": "Vaikom Mahadeva Temple", "deity": "Shiva", "location_note": "One of the oldest, most revered Shiva temples in Kerala; site of the 1924-25 Vaikom Satyagraha" },
+      { "name": "Ganapathy shrine, Vaikom temple complex", "deity": "Ganesha (Maha Ganapathy)", "location_note": "Subsidiary shrine within the Mahadeva Temple complex" }
+    ]
+  }
+]

@@ -1,0 +1,221 @@
+[
+  {
+    "state": "Tamil Nadu",
+    "town": "Chennai",
+    "type": "city",
+    "top_temples": [
+      { "name": "Kapaleeswarar Temple", "deity": "Shiva (as Kapaleeswarar) / Karpagambal", "location_note": "Mylapore; 7th-century Pallava-era Dravidian temple" },
+      { "name": "Vadapalani Murugan Temple", "deity": "Murugan", "location_note": "Vadapalani" },
+      { "name": "Marundeeswarar Temple", "deity": "Shiva (as 'God of Medicines')", "location_note": "Thiruvanmiyur; Chola-era" },
+      { "name": "Parthasarathy Temple", "deity": "Vishnu (as Krishna/Parthasarathy)", "location_note": "Triplicane; one of 108 Divya Desams" },
+      { "name": "Ashtalakshmi Temple", "deity": "Ashta Lakshmi (eight forms of Lakshmi)", "location_note": "Besant Nagar, on Elliot's Beach" }
+    ]
+  },
+  {
+    "state": "Tamil Nadu",
+    "town": "Coimbatore",
+    "type": "city",
+    "top_temples": [
+      { "name": "Perur Pateeswarar Temple", "deity": "Shiva", "location_note": "Banks of the Noyyal River; Chola-era" },
+      { "name": "Marudhamalai Murugan Temple", "deity": "Murugan", "location_note": "Hilltop, ~12 km from the city" },
+      { "name": "Eachanari Vinayagar Temple", "deity": "Ganesha", "location_note": "One of South India's largest Ganesha idols" },
+      { "name": "Velliangiri Hills Temple (Adiyogi/Shiva shrine)", "deity": "Shiva", "location_note": "Known as the 'Kailash of the South'" },
+      { "name": "Ramar Temple", "deity": "Rama", "location_note": "City center" }
+    ]
+  },
+  {
+    "state": "Tamil Nadu",
+    "town": "Erode",
+    "type": "city",
+    "top_temples": [
+      { "name": "Thindal Murugan Temple", "deity": "Murugan (as Velayudhaswamy)", "location_note": "Thindal Malai hillock" },
+      { "name": "Bhavani Sangameshwarar Temple", "deity": "Shiva", "location_note": "Confluence of Kaveri and Bhavani rivers; built by Pallava king Mahendravarman" },
+      { "name": "Bannari Amman Temple", "deity": "Amman (Bannari Amman)", "location_note": "Near Sathyamangalam" },
+      { "name": "Magudeswarar Temple", "deity": "Shiva", "location_note": "Kodumudi; a Thevaram-praised shrine" },
+      { "name": "Arudra Kabaleeswarar Temple", "deity": "Shiva (in a reclining posture)", "location_note": "City center" }
+    ]
+  },
+  {
+    "state": "Tamil Nadu",
+    "town": "Kancheepuram",
+    "type": "city",
+    "top_temples": [
+      { "name": "Ekambareswarar Temple", "deity": "Shiva", "location_note": "One of the Pancha Bhoota Stalams (Earth); famed for its ancient mango tree" },
+      { "name": "Kailasanathar Temple", "deity": "Shiva", "location_note": "Earliest surviving structural temple in Kanchipuram (Pallava-era)" },
+      { "name": "Kamakshi Amman Temple", "deity": "Kamakshi (Adi Parashakti)", "location_note": "One of the Shakti Peethas" },
+      { "name": "Varadaraja Perumal Temple", "deity": "Vishnu (as Varadaraja)", "location_note": "One of the 108 Divya Desams" },
+      { "name": "Ashtabujakaram (Ulagalantha Perumal) Temple", "deity": "Vishnu", "location_note": "Pallava/Chola/Vijayanagara-era architecture" }
+    ]
+  },
+  {
+    "state": "Tamil Nadu",
+    "town": "Kumbakonam",
+    "type": "city",
+    "top_temples": [
+      { "name": "Adi Kumbeswarar Temple", "deity": "Shiva (as Kumbeswarar)", "location_note": "Main temple; 7th-century origins" },
+      { "name": "Sarangapani Temple", "deity": "Vishnu (as Sarangapani)", "location_note": "One of the 108 Divya Desams" },
+      { "name": "Kasi Viswanathar Temple", "deity": "Shiva", "location_note": "Near the Mahamaham Tank" },
+      { "name": "Nageswaran Temple", "deity": "Shiva (as Nageswarar)", "location_note": "One of the oldest temples in the town" },
+      { "name": "Airavatesvara Temple", "deity": "Shiva", "location_note": "Darasuram, near Kumbakonam; UNESCO World Heritage (Great Living Chola Temples)" }
+    ]
+  },
+  {
+    "state": "Tamil Nadu",
+    "town": "Madurai",
+    "type": "city",
+    "top_temples": [
+      { "name": "Meenakshi Amman Temple", "deity": "Meenakshi (Parvati) and Sundareswarar (Shiva)", "location_note": "City center; Madurai's defining landmark" },
+      { "name": "Koodal Azhagar Temple", "deity": "Vishnu", "location_note": "One of the 108 Divya Desams" },
+      { "name": "Thiruparankundram Murugan Temple", "deity": "Murugan", "location_note": "One of the six Arupadai Veedu (abodes of Murugan)" },
+      { "name": "Alagar Kovil (Kallalagar Temple)", "deity": "Vishnu (as Kallalagar)", "location_note": "Outskirts of Madurai" },
+      { "name": "Vandiyur Mariamman Teppakulam", "deity": "Mariamman", "location_note": "Temple tank built by King Thirumalai Nayak" }
+    ]
+  },
+  {
+    "state": "Tamil Nadu",
+    "town": "Salem",
+    "type": "city",
+    "top_temples": [
+      { "name": "Kottai Mariamman Temple", "deity": "Mariamman", "location_note": "Banks of the Tirumanimutthar river; one of the city's oldest shrines" },
+      { "name": "Sugavaneshwarar Temple", "deity": "Shiva", "location_note": "Central Salem" },
+      { "name": "Kottai Alagirinathar Temple (Kottai Perumal Koil)", "deity": "Vishnu (as Alagirinathar)", "location_note": "Salem town" },
+      { "name": "Sundhara Kandhaswamy Temple", "deity": "Murugan", "location_note": "~22 km from Salem, en route to Tiruchengode; one of the district's wealthiest temples" },
+      { "name": "Sahasra Lingeswarar Temple (1008 Lingam Temple)", "deity": "Shiva", "location_note": "Ariyanoor" }
+    ]
+  },
+  {
+    "state": "Tamil Nadu",
+    "town": "Srirangam",
+    "type": "city",
+    "top_temples": [
+      { "name": "Ranganathaswamy Temple", "deity": "Vishnu (as Ranganatha)", "location_note": "Largest functioning Hindu temple complex in the world" },
+      { "name": "Jambukeswarar Temple", "deity": "Shiva", "location_note": "Thiruvanaikaval; ~1,800 years old" },
+      { "name": "Uraiyur Vekkali Amman Temple", "deity": "Vekkali Amman (Durga)", "location_note": "Uraiyur locality" },
+      { "name": "Samayapuram Mariamman Temple", "deity": "Mariamman", "location_note": "Reputedly the second-wealthiest temple in Tamil Nadu" },
+      { "name": "Sri Vadivazhagiya Nambi Perumal Temple", "deity": "Vishnu (as Appala Ranganathar)", "location_note": "Also known as Kattu Azhagiya Singar Temple" }
+    ]
+  },
+  {
+    "state": "Tamil Nadu",
+    "town": "Thanjavur",
+    "type": "city",
+    "top_temples": [
+      { "name": "Brihadeeswarar Temple", "deity": "Shiva", "location_note": "UNESCO World Heritage Site; built by Rajaraja Chola I (c. 1010 CE)" },
+      { "name": "Kamakshi Amman Temple", "deity": "Kamakshi", "location_note": "Mettu Theru, Thanjavur town" },
+      { "name": "Aiyarappar (Panchanadeeswarar) Temple", "deity": "Shiva", "location_note": "Thiruvaiyaru, near Thanjavur; associated with saint-composer Tyagaraja" },
+      { "name": "Gangaikonda Cholapuram Temple", "deity": "Shiva", "location_note": "Built by Rajendra Chola I; UNESCO Great Living Chola Temples group" },
+      { "name": "Airavatesvara Temple", "deity": "Shiva", "location_note": "Darasuram; UNESCO Great Living Chola Temples group" }
+    ]
+  },
+  {
+    "state": "Tamil Nadu",
+    "town": "Tiruchirappalli",
+    "type": "city",
+    "top_temples": [
+      { "name": "Ranganathaswamy Temple", "deity": "Vishnu (as Ranganatha)", "location_note": "Srirangam, within the Tiruchirappalli urban agglomeration" },
+      { "name": "Ucchi Pillayar Rockfort Temple", "deity": "Ganesha", "location_note": "Atop a rock outcrop overlooking the city and Kaveri River" },
+      { "name": "Jambukeswarar Temple", "deity": "Shiva", "location_note": "Thiruvanaikaval" },
+      { "name": "Samayapuram Mariamman Temple", "deity": "Mariamman", "location_note": "Samayapuram" },
+      { "name": "Vayalur Murugan Temple", "deity": "Murugan", "location_note": "Vayalur, near Trichy" }
+    ]
+  },
+  {
+    "state": "Tamil Nadu",
+    "town": "Tirunelveli",
+    "type": "city",
+    "top_temples": [
+      { "name": "Nellaiappar-Kanthimathi Temple", "deity": "Shiva (Nellaiappar) and Parvati (Kanthimathi Amman)", "location_note": "Twin temple; ~2,500 years old, spans 14 acres" },
+      { "name": "Krishnapuram Vishnu Temple", "deity": "Vishnu", "location_note": "~15 km from Tirunelveli" },
+      { "name": "Uchishta Ganapathy Temple", "deity": "Ganesha", "location_note": "Banks of the Thamirabarani river; largest Ganesha temple in Asia" },
+      { "name": "Varadharaja Perumal Temple", "deity": "Vishnu (as Varadaraja)", "location_note": "Tirunelveli town" },
+      { "name": "Vishwamitra Temple", "deity": "Sage Vishwamitra", "location_note": "Tirunelveli region" }
+    ]
+  },
+  {
+    "state": "Tamil Nadu",
+    "town": "Tiruppur",
+    "type": "city",
+    "top_temples": [
+      { "name": "Sri Sukreeswarar Temple", "deity": "Shiva", "location_note": "9th-century ASI-protected monument" },
+      { "name": "Avinashi Lingeswarar Temple", "deity": "Shiva", "location_note": "Avinashi town, Tiruppur district" },
+      { "name": "Konganagiri Murugan Temple", "deity": "Murugan", "location_note": "~1,200-year-old temple in Tiruppur" },
+      { "name": "Uthukuli Murugan Temple", "deity": "Murugan", "location_note": "Uthukuli" },
+      { "name": "Sivanmalai Subramanyaswamy Temple", "deity": "Murugan", "location_note": "Hilltop shrine at Sivanmalai" }
+    ]
+  },
+  {
+    "state": "Tamil Nadu",
+    "town": "Vellore",
+    "type": "city",
+    "top_temples": [
+      { "name": "Sripuram Golden Temple", "deity": "Lakshmi", "location_note": "Tirumalaikodi; temple structure covered in gold foil" },
+      { "name": "Jalakandeswarar Temple", "deity": "Shiva", "location_note": "Inside Vellore Fort; built c. 1540-1572 under Vijayanagara rule" },
+      { "name": "Ratnagiri Murugan Temple", "deity": "Murugan", "location_note": "Rathinagiri hillock, ~13 km from Vellore" },
+      { "name": "Sri Margabandeeswarar Temple", "deity": "Shiva", "location_note": "Virinjipuram, ~14 km from Vellore" },
+      { "name": "Kottai Mariamman Temple", "deity": "Mariamman", "location_note": "Vellore town" }
+    ]
+  },
+  {
+    "state": "Tamil Nadu",
+    "town": "Chidambaram",
+    "type": "temple town",
+    "top_temples": [
+      { "name": "Thillai Nataraja Temple", "deity": "Shiva (as Nataraja)", "location_note": "One of the Pancha Bhoota Stalams (Akasha/ether); Chidambaram's defining shrine" },
+      { "name": "Thillai Kali Amman Temple", "deity": "Kali", "location_note": "North of the Nataraja Temple; built by Chola king Kopperunjingan" }
+    ]
+  },
+  {
+    "state": "Tamil Nadu",
+    "town": "Mayiladuthurai",
+    "type": "temple town",
+    "top_temples": [
+      { "name": "Mayuranathaswami Temple", "deity": "Shiva (as Mayuranathaswami)", "location_note": "One of the Saptha Vidanga Sthalams; 165-ft, nine-tiered Rajagopuram" },
+      { "name": "Parimala Ranganathaswami Temple", "deity": "Vishnu (as Ranganatha)", "location_note": "Banks of the Kaveri; one of the 108 Divya Desams" }
+    ]
+  },
+  {
+    "state": "Tamil Nadu",
+    "town": "Palani",
+    "type": "temple town",
+    "top_temples": [
+      { "name": "Arulmigu Dhandayuthapani Swamy Temple", "deity": "Murugan (as Dhandayuthapani)", "location_note": "Hilltop shrine; one of the six Arupadai Veedu" },
+      { "name": "Thiruavinankudi Murugan Temple", "deity": "Murugan", "location_note": "Foot of Palani hill; regarded as the original Padai Veedu site" }
+    ]
+  },
+  {
+    "state": "Tamil Nadu",
+    "town": "Rameswaram",
+    "type": "temple town",
+    "top_temples": [
+      { "name": "Ramanathaswamy Temple", "deity": "Shiva (as Ramanatha)", "location_note": "Char Dham site and one of the 12 Jyotirlingas" },
+      { "name": "Panchmukhi Hanuman Temple", "deity": "Hanuman (five-faced form)", "location_note": "~2 km from Ramanathaswamy Temple; known for its floating stones" }
+    ]
+  },
+  {
+    "state": "Tamil Nadu",
+    "town": "Thiruvannamalai",
+    "type": "temple town",
+    "top_temples": [
+      { "name": "Arunachaleswarar Temple", "deity": "Shiva", "location_note": "Pancha Bhoota Stalam (fire/Agni); one of India's largest temple complexes" },
+      { "name": "Kailasanathar Temple", "deity": "Shiva", "location_note": "Thiruvannamalai town" }
+    ]
+  },
+  {
+    "state": "Tamil Nadu",
+    "town": "Tiruchendur",
+    "type": "temple town",
+    "top_temples": [
+      { "name": "Tiruchendur Murugan Temple (Senthil Andavar Temple)", "deity": "Murugan", "location_note": "One of the six Arupadai Veedu; coastal shrine on the Bay of Bengal" },
+      { "name": "Sankaranainar Kovil", "deity": "Shiva and Parvati", "location_note": "Tiruchendur" }
+    ]
+  },
+  {
+    "state": "Tamil Nadu",
+    "town": "Tiruvarur",
+    "type": "temple town",
+    "top_temples": [
+      { "name": "Thyagaraja Temple", "deity": "Shiva (as Thyagaraja) with Uma and Skanda", "location_note": "One of the largest temple complexes in India (~30 acres); birthplace of saint-composer Tyagaraja" },
+      { "name": "Thoovanayanar (Thoovainathar) Temple", "deity": "Shiva (as Thoovainathar)", "location_note": "Tiruvarur East Street" }
+    ]
+  }
+]
