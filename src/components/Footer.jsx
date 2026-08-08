@@ -4,16 +4,16 @@ export default function Footer() {
       <div className="footer-content">
         <p>&copy; {new Date().getFullYear()} Mahesh Natarajan</p>
         <nav className="footer-links">
-          <a href="https://umamags.github.io/quiz-app/" target="_blank" rel="noopener noreferrer">
+          <a href="/quiz-app">
             Quiz App
           </a>
-          <a href="https://umamags.github.io/trains/" target="_blank" rel="noopener noreferrer">
+          <a href="/trains">
             Trains
           </a>
-          <a href="https://umamags.github.io/countries/" target="_blank" rel="noopener noreferrer">
+          <a href="/countries">
             Countries
           </a>
-          <a href="https://umamags.github.io/temples/" target="_blank" rel="noopener noreferrer">
+          <a href="/temples">
             Temples
           </a>
         </nav>
