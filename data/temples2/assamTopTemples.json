@@ -1,0 +1,131 @@
+[
+  {
+    "state": "Assam",
+    "town": "Barpeta",
+    "type": "town",
+    "top_temples": [
+      { "name": "Barpeta Satra (Kirtan Ghar)", "deity": "Vaishnavite worship (Ekasarana Dharma)", "location_note": "Central Barpeta town; founded 1583 AD by Madhavdeva, houses the largest Kirtan Ghar (prayer hall) in Assam, a major Neo-Vaishnavite pilgrimage center." },
+      { "name": "Sundaridiya Satra", "deity": "Vaishnavite worship (Ekasarana Dharma)", "location_note": "Near Barpeta town; established by Madhavdeva after leaving Ganakkuchi Satra, a distinct historic satra from the main Kirtan Ghar." }
+    ]
+  },
+  {
+    "state": "Assam",
+    "town": "Dibrugarh",
+    "type": "city",
+    "top_temples": [
+      { "name": "Raidongia Dol (Shiva Dol)", "deity": "Shiva", "location_note": "Near Dihingia Barbarua road, Dibrugarh; a 45-ft tall temple with multiple Shiva lingas." },
+      { "name": "Sri Jagannath Temple (Shrikshetra Dhaam)", "deity": "Jagannath", "location_note": "Dibrugarh; built in 2014 as a replica of the Jagannath Temple in Puri, Odisha." },
+      { "name": "Radha Krishna Mandir (Jalan Mandir)", "deity": "Radha and Krishna", "location_note": "Dibrugarh town; one of the well-known Krishna temples of Upper Assam." },
+      { "name": "Durga Temple, Dibrugarh", "deity": "Durga", "location_note": "Dibrugarh; especially lively during Durga Puja celebrations." },
+      { "name": "Dehing Satra", "deity": "Vaishnavite worship (Ekasarana Dharma)", "location_note": "Near Dibrugarh; a 17th-century Vaishnavite satra with traditional Assamese architecture." }
+    ]
+  },
+  {
+    "state": "Assam",
+    "town": "Dispur",
+    "type": "city",
+    "top_temples": [
+      { "name": "Kamakhya Temple", "deity": "Kamakhya (Shakti form)", "location_note": "Nilachal Hill, part of the greater Guwahati/Dispur metro area; one of the four major Shakti Peethas in India." },
+      { "name": "Umananda Temple", "deity": "Shiva", "location_note": "Peacock Island on the Brahmaputra, within the Guwahati/Dispur metro area; built by Ahom King Gadadhar Singha (1681-1696), on the world's smallest inhabited river island." },
+      { "name": "Ugratara Temple", "deity": "Ugratara (Shakti form)", "location_note": "Uzan Bazaar, eastern Guwahati/Dispur area; built by Ahom king Shiv Singh in 1725, an important Shakti shrine distinct from Kamakhya." },
+      { "name": "ISKCON Temple, Guwahati", "deity": "Krishna and Rukmini", "location_note": "Ulubari Chariali, near Dispur; white marble-floored temple on a hillock." },
+      { "name": "Doul Govinda Temple", "deity": "Krishna", "location_note": "North Guwahati, at the foothills of Chandrabharati Hill; over 150 years old, renowned for its five-day Holi celebrations." }
+    ]
+  },
+  {
+    "state": "Assam",
+    "town": "Guwahati",
+    "type": "city",
+    "top_temples": [
+      { "name": "Kamakhya Temple", "deity": "Kamakhya (Shakti form)", "location_note": "Nilachal Hill, Guwahati; one of the four major Shakti Peethas in India, Guwahati's defining shrine." },
+      { "name": "Umananda Temple", "deity": "Shiva", "location_note": "Peacock Island on the Brahmaputra, Guwahati; built by Ahom King Gadadhar Singha (1681-1696), on the world's smallest inhabited river island." },
+      { "name": "Navagraha Temple", "deity": "Nine celestial bodies (Navagraha)", "location_note": "Chitrachal Hill, Guwahati; an important astrological and astronomical site historically." },
+      { "name": "Sukreswar Temple", "deity": "Shiva", "location_note": "Sukreswar Hill on the Brahmaputra bank, Guwahati; dates to the era of Ahom king Prithu Singha, a major Shaivite site." },
+      { "name": "Basistha Temple (Vashistha Ashram)", "deity": "Shiva, associated with sage Vashistha's ashram", "location_note": "At the confluence of the Sandhya, Kanta, and Lalita rivulets, Guwahati; a scenic hillside shrine distinct from the Kamakhya/Umananda temples." }
+    ]
+  },
+  {
+    "state": "Assam",
+    "town": "Hajo",
+    "type": "temple town",
+    "top_temples": [
+      { "name": "Hayagriva Madhava Temple", "deity": "Vishnu (as Hayagriva Madhava)", "location_note": "Manikuta Hill, Hajo; one of Assam's most important Vaishnava tirthas, held sacred by both Hindus and Buddhists, dating from the 6th century." },
+      { "name": "Kedareswar Temple (Kedar Temple)", "deity": "Shiva", "location_note": "Atop Kedar Hill in Hajo, a stone-built shrine distinct from Hayagriva Madhava, reached via a hilly footpath." }
+    ]
+  },
+  {
+    "state": "Assam",
+    "town": "Jorhat",
+    "type": "city",
+    "top_temples": [
+      { "name": "Dhekiakhowa Bornamghar", "deity": "Vaishnavite worship (Ekasarana Dharma)", "location_note": "Jorhat district; established by saint Madhavdeva, notable for a continuously burning lamp for roughly 500 years, recorded in the India Book of Records." },
+      { "name": "Burigosain Devalay (Buri Gossain Temple)", "deity": "Burigosain (Devi)", "location_note": "Heart of Jorhat city; built in the 18th century by Ahom King Rajeshwar Singha." },
+      { "name": "Bilvesvar Shiva Temple", "deity": "Shiva", "location_note": "About 35 km from Jorhat town on NH 37; features a holy tank built by Ruchinath Buragohain." },
+      { "name": "Hatibaruah Namghar", "deity": "Vaishnavite worship (Ekasarana Dharma)", "location_note": "Jorhat district; a traditional Assamese prayer hall." },
+      { "name": "Auniati Satra", "deity": "Vaishnavite worship (Ekasarana Dharma)", "location_note": "Majuli, near Jorhat; founded by Niranjan Pathakdeva, renowned for its Paalnaam ritual and Apsara dance tradition." }
+    ]
+  },
+  {
+    "state": "Assam",
+    "town": "Madan Kamdev",
+    "type": "town",
+    "top_temples": [
+      { "name": "Madan Kamdev Temple (Kameswar Shiva Shrine)", "deity": "Shiva, linked to the Kamadeva revival legend", "location_note": "Baihata Chariali, about 40 km from Guwahati; the principal reconstructed shrine among 10th-12th century Pala-era ruins, nicknamed the 'Khajuraho of Assam'." },
+      { "name": "Devi Shrine, Madan Kamdev Ruins", "deity": "Devi (Shakti form, linked to the Kamakhya legend tied to the site's name)", "location_note": "A subsidiary shrine among the excavated ruins of more than 20 temples at the same Madan Kamdev archaeological complex." }
+    ]
+  },
+  {
+    "state": "Assam",
+    "town": "Nagaon",
+    "type": "city",
+    "top_temples": [
+      { "name": "Maha Mrityunjay Temple", "deity": "Shiva", "location_note": "Nagaon; houses what is claimed to be the world's largest Shivalinga." },
+      { "name": "Gatanga Temple", "deity": "Vaishnavite/Shakta worship", "location_note": "Nagaon district; known for its week-long Naam Kirtan Festival held each March." },
+      { "name": "Nag Shankar Temple", "deity": "Shiva", "location_note": "Nagaon; believed to be one of the oldest temples in the state." },
+      { "name": "Silghat Trishuldhari Temple", "deity": "Shiva", "location_note": "Silghat, Nagaon district, on the Brahmaputra." },
+      { "name": "Hatimura Temple", "deity": "Durga (as Mahisamardini)", "location_note": "Silghat, Nagaon district; a Shakti temple with the goddess depicted slaying the buffalo demon." }
+    ]
+  },
+  {
+    "state": "Assam",
+    "town": "Silchar",
+    "type": "city",
+    "top_temples": [
+      { "name": "Bhuban Mahadev Temple", "deity": "Shiva", "location_note": "Atop Bhuban Hill, about 50 km from Silchar in Cachar district; South Assam's most famous Shiva shrine, major hub during Maha Shivaratri and the annual Bhuvan Mela." },
+      { "name": "Kanch Kanti Kali Mandir", "deity": "Kanch Kanti (combined Kali-Durga form)", "location_note": "About 14 km from Silchar city centre; established by the Kachari dynasty, one of the most revered temples in South Assam, dating to the 19th century." },
+      { "name": "ISKCON Temple, Silchar", "deity": "Krishna", "location_note": "Ambikapatty area, Silchar; built and maintained by the International Society for Krishna Consciousness." },
+      { "name": "Salganga Vishnu Temple", "deity": "Vishnu", "location_note": "Salganga village, about 22 km from Silchar on the way to Kumbhirgram airport." },
+      { "name": "Ramakrishna Mission Sevashrama (Universal Temple of Sri Ramakrishna)", "deity": "Ramakrishna worship", "location_note": "Silchar; the mission was founded in 1924, and its newly built temple was consecrated in March 2025 for its centenary." }
+    ]
+  },
+  {
+    "state": "Assam",
+    "town": "Sivasagar",
+    "type": "temple town",
+    "top_temples": [
+      { "name": "Shiva Dol (Sivadol)", "deity": "Shiva", "location_note": "On the banks of the Sivasagar (Borpukhuri) tank; built in 1734 by Bar Raja Ambika, queen of Ahom king Swargadeo Siva Singha, at 104 ft the tallest Shiva temple in Northeast India." },
+      { "name": "Vishnu Dol", "deity": "Vishnu", "location_note": "Part of the same Sivasagar tank temple complex as Shiva Dol, built in the same era (1734), a distinct smaller shrine alongside Devi Dol." }
+    ]
+  },
+  {
+    "state": "Assam",
+    "town": "Sonitpur",
+    "type": "town",
+    "top_temples": [
+      { "name": "Mahabhairab Temple", "deity": "Shiva", "location_note": "North of Tezpur town, Sonitpur district; believed established by King Bana, houses one of the world's largest Shiva lingams." },
+      { "name": "Bamuni Hills Ruins", "deity": "Vishnu and Shiva (ancient temple ruins)", "location_note": "Tezpur, Sonitpur district; 9th-10th century ASI-protected ruins believed to have had a central Vishnu shrine with four Shiva shrines at the corners." }
+    ]
+  },
+  {
+    "state": "Assam",
+    "town": "Tinsukia",
+    "type": "city",
+    "top_temples": [
+      { "name": "Tilinga Mandir (Bell Temple)", "deity": "Shiva", "location_note": "Bordubi, about 7 km from Tinsukia; holds the Limca Book of Records title for the largest collection of bells, offered by devotees." },
+      { "name": "Shiv Dham", "deity": "Shiva", "location_note": "AT Road, Tinsukia town centre; unique for its Shiva statue seated at the centre of a water kund." },
+      { "name": "Nepali Mandir (Nepali Durga Mandir)", "deity": "Durga", "location_note": "Sripuria Pathar, Tinsukia; centre of the town's Nepali community Durga Puja celebrations." },
+      { "name": "Panchmukhi Hanuman Mandir", "deity": "Hanuman (five-faced form)", "location_note": "Ambika Rai Choudhary Path, Hijuguri, Tinsukia." },
+      { "name": "Radha Krishna Mandir", "deity": "Radha and Krishna", "location_note": "AT Road, Tinsukia town." }
+    ]
+  }
+]

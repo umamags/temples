@@ -1,0 +1,155 @@
+[
+  {
+    "state": "West Bengal",
+    "town": "Asansol",
+    "type": "city",
+    "top_temples": [
+      { "name": "Kalyaneshwari Temple, Asansol", "deity": "Kali", "location_note": "Asansol's most famous temple; original structure built in the 3rd century AD by Harigupta." },
+      { "name": "Ghaghar Buri Temple", "deity": "Kali", "location_note": "Asansol; the city's oldest temple." },
+      { "name": "Maa Muktai Chandi Temple", "deity": "Chandi (Devi)", "location_note": "Asansol city." },
+      { "name": "Agni Mandir, Asansol", "deity": "Agni (Fire god)", "location_note": "Asansol; a rare temple dedicated to the god of fire, reflecting the city's industrial character." },
+      { "name": "Durga Mandir, Asansol", "deity": "Durga", "location_note": "Asansol city; prominent during Durga Puja." }
+    ]
+  },
+  {
+    "state": "West Bengal",
+    "town": "Bakreshwar",
+    "type": "temple town",
+    "top_temples": [
+      { "name": "Bakreshwar Temple (Vakranath Shiva Temple)", "deity": "Shiva", "location_note": "On the banks of the Paaphra river, Birbhum district; one of the 51 Shakti Peethas, built in Oriya-style architecture, famous for eight natural hot springs in the temple courtyard." },
+      { "name": "Mahishmardini Temple, Bakreshwar", "deity": "Durga (Mahishmardini)", "location_note": "A distinct shrine within the same Bakreshwar temple complex, housing ancient ASI-preserved paintings of the goddess." }
+    ]
+  },
+  {
+    "state": "West Bengal",
+    "town": "Darjeeling",
+    "type": "city",
+    "top_temples": [
+      { "name": "Mahakal Temple", "deity": "Shiva", "location_note": "Darjeeling; blends Hindu and Buddhist worship traditions, one of the town's most visited religious sites." },
+      { "name": "Dhirdham Temple", "deity": "Shiva", "location_note": "Darjeeling; built 1939 by Rai Saheb Purna Bahadur Pradhan, modeled on the Pashupatinath Temple in Kathmandu." },
+      { "name": "Ghoom Monastery", "deity": "Maitreya Buddha", "location_note": "Near Darjeeling; belongs to the Gelukpa (Yellow Hat) sect, features a 15-ft Maitreya Buddha statue." },
+      { "name": "Darjeeling Peace Pagoda", "deity": "Buddhist stupa", "location_note": "Darjeeling; one of the Japanese-built Peace Pagodas promoting interfaith unity." },
+      { "name": "Dali Monastery (Druk Thupten Sangag Choeling)", "deity": "Buddhist monastery", "location_note": "A few kilometers from Darjeeling town; a newer monastery than Ghoom." }
+    ]
+  },
+  {
+    "state": "West Bengal",
+    "town": "Birbhum",
+    "type": "town",
+    "top_temples": [
+      { "name": "Kaleshwar Shiva Temple", "deity": "Shiva", "location_note": "A remote village in Birbhum district; the tallest Shiva temple in West Bengal, about 500 years old, distinct from the district's Shakti Peetha temples." },
+      { "name": "Lord Krishna Temple, Ekachakra", "deity": "Krishna", "location_note": "Ekachakra village, about 20 km from Rampurhat in Birbhum district; a historic temple in a scenic setting." }
+    ]
+  },
+  {
+    "state": "West Bengal",
+    "town": "Dakshineswar",
+    "type": "temple town",
+    "top_temples": [
+      { "name": "Dakshineswar Kali Temple", "deity": "Kali (as Bhavatarini)", "location_note": "On the banks of the Hooghly River; built 1855 by Rani Rashmoni, closely associated with the saint Ramakrishna Paramahamsa." },
+      { "name": "Dwadash Shiva Mandir (Twelve Shiva Temples)", "deity": "Shiva (twelve identical shrines)", "location_note": "Within the same Dakshineswar temple complex, facing the Ganges opposite the Kuthi Bari." }
+    ]
+  },
+  {
+    "state": "West Bengal",
+    "town": "Durgapur",
+    "type": "city",
+    "top_temples": [
+      { "name": "Shiv Shakti Dham (Gopalmath Shiv Mandir)", "deity": "Shiva and Shakti", "location_note": "Gopalmath neighborhood, Durgapur; the largest temple in the city." },
+      { "name": "Bidhan Nagar Ram Mandir", "deity": "Rama", "location_note": "Bidhan Nagar area, Durgapur; set within a large garden." },
+      { "name": "Rahreswar Shiv Temple (Arrah Shiv Mandir)", "deity": "Shiva", "location_note": "Durgapur; over 800 years old, constructed in 1200 by Maharaja Ballal Sen of the Rarh dynasty, one of the city's oldest landmarks." },
+      { "name": "Durgapur ISKCON Temple", "deity": "Radha and Krishna", "location_note": "29 Netaji Subhash Road A-Zone, Durgapur." },
+      { "name": "Shri Shri Jagannath Temple, Durgapur", "deity": "Jagannath", "location_note": "One of Durgapur's oldest temples." }
+    ]
+  },
+  {
+    "state": "West Bengal",
+    "town": "Howrah",
+    "type": "city",
+    "top_temples": [
+      { "name": "Belur Math", "deity": "Ramakrishna and syncretic worship", "location_note": "On the banks of the Hooghly in Howrah; headquarters of the Ramakrishna Math and Mission, founded by Swami Vivekananda, blends Hindu, Christian, and Islamic architectural elements." },
+      { "name": "Shree Shyam Mandir, Ghusuri", "deity": "Khatu Shyam (Krishna form)", "location_note": "Ghusuridham, Howrah." },
+      { "name": "Ramrajatala Ram Temple", "deity": "Rama", "location_note": "Ramrajatala, Howrah." },
+      { "name": "Baba Kalyaneshwar Temple", "deity": "Shiva", "location_note": "Bally, Howrah district, beside the Grand Trunk Road near the Hooghly river." },
+      { "name": "Shri Shri Hajar Haath Kali Mata Temple", "deity": "Kali", "location_note": "Howrah district." }
+    ]
+  },
+  {
+    "state": "West Bengal",
+    "town": "Jalpaiguri",
+    "type": "city",
+    "top_temples": [
+      { "name": "Jalpesh Mandir", "deity": "Shiva", "location_note": "Near Maynaguri, Jalpaiguri district; one of the most visited temples in North Bengal." },
+      { "name": "Yogamaya Kali Temple", "deity": "Kali", "location_note": "Jalpaiguri district." },
+      { "name": "Rajbari Shib Mandir", "deity": "Shiva", "location_note": "Jalpaiguri town; formerly owned by the Jalpaiguri Royal family, beside the Rajbari Dighi lake." },
+      { "name": "Radha Madhab Temple, Jalpaiguri", "deity": "Radha and Krishna", "location_note": "Jalpaiguri town; also functions as an ashram." },
+      { "name": "Maa Jogomaya and Baba Lokenath Temple", "deity": "Jogomaya (Devi) and Lokenath (saint)", "location_note": "Jalpaiguri district, within a busy marketplace." }
+    ]
+  },
+  {
+    "state": "West Bengal",
+    "town": "Kankalitala",
+    "type": "temple town",
+    "top_temples": [
+      { "name": "Kankalitala Temple", "deity": "Sati (as Devgarbha)", "location_note": "On the banks of the Kopai river near Bolpur/Shantiniketan, Birbhum district; one of the 51 Shakti Peethas, marks where Sati's waist is believed to have fallen." },
+      { "name": "Ruru Bhairav Shrine", "deity": "Shiva (as Ruru Bhairav / Shambhu Baba)", "location_note": "A Shiva lingam shrine near the entrance of the Kankalitala temple complex; the Bhairava associated with this Shakti Peetha." }
+    ]
+  },
+  {
+    "state": "West Bengal",
+    "town": "Kolkata",
+    "type": "city",
+    "top_temples": [
+      { "name": "Kalighat Kali Temple", "deity": "Kali", "location_note": "Kolkata; one of the 51 Shakti Peethas, present structure dates to the 19th century, one of the city's most sacred sites." },
+      { "name": "Birla Mandir, Kolkata", "deity": "Krishna and Radha", "location_note": "Kolkata; built by the Birla family over 26 years, opened to the public in 1996." },
+      { "name": "Parshwanath Jain Temple", "deity": "Parshvanath (Jain tirthankara)", "location_note": "Kolkata; established 1867 by Rai Badridas Bahadur Mookim, comprises four distinct structures." },
+      { "name": "Thanthania Kalibari Temple", "deity": "Siddheshwari Kali", "location_note": "Kolkata; built 1803, especially crowded on Tuesdays and Saturdays." },
+      { "name": "Lake Kalibari", "deity": "Kali (as Karunamoyee)", "location_note": "Kolkata; established 1949 by Haripada Chakraborty, distinct from Dakshineswar and Belur Math, both of which have their own separate dataset entries." }
+    ]
+  },
+  {
+    "state": "West Bengal",
+    "town": "Malda",
+    "type": "city",
+    "top_temples": [
+      { "name": "Manaskamana Kali Temple", "deity": "Kali", "location_note": "English Bazar town, Malda; an ancient and privileged temple in Malda." },
+      { "name": "Maa Jahura Temple (Jauhra Kali)", "deity": "Adishakti (Kali form)", "location_note": "On the outskirts of Malda town; a historic temple dating to around 1200 AD." },
+      { "name": "ISKCON Malda", "deity": "Krishna and Radha", "location_note": "Mothabari, Malda." },
+      { "name": "Madan Mohan Temple, Ramkeli", "deity": "Krishna (as Madan Mohan)", "location_note": "Ramkeli, Malda district." },
+      { "name": "Ramakrishna Math and Mission Ashrama, Malda", "deity": "Ramakrishna worship", "location_note": "Malda town." }
+    ]
+  },
+  {
+    "state": "West Bengal",
+    "town": "Purulia",
+    "type": "city",
+    "top_temples": [
+      { "name": "Ramakrishna Temple, Purulia", "deity": "Ramakrishna worship", "location_note": "Vivekanand Nagar area, Purulia; a meditation and spiritual center." },
+      { "name": "Deulghata Temples", "deity": "Shiva and other deities", "location_note": "Purulia district; centuries-old terracotta temple complex." },
+      { "name": "Surya Temple, Purulia", "deity": "Surya (Sun god)", "location_note": "On the bank of Saheb Bandh, Purulia; one of the oldest temples in the city." },
+      { "name": "Chowk Bazar Soloana Temple", "deity": "Durga, Kali, and Ganesha", "location_note": "Purulia town." },
+      { "name": "Pakbirra Jain Temple", "deity": "Jain tirthankaras", "location_note": "Purulia district; part of the region's ancient Jain heritage." }
+    ]
+  },
+  {
+    "state": "West Bengal",
+    "town": "Siliguri",
+    "type": "city",
+    "top_temples": [
+      { "name": "ISKCON Temple, Siliguri", "deity": "Krishna and Radha", "location_note": "Khalpara, Siliguri; one of the largest religious sites in the city." },
+      { "name": "Sevokeshwari Kali Mandir", "deity": "Kali", "location_note": "Burdwan Road, Siliguri; open 24 hours." },
+      { "name": "Lokenath Mandir, Dagapur", "deity": "Lokenath (saint)", "location_note": "Dagapur, about 5 km from Siliguri; a white-marble shrine popular with devotees from Bangladesh and Bengal." },
+      { "name": "Shree Shyam Mandir, Siliguri", "deity": "Khatu Shyam (Krishna form)", "location_note": "Siliguri city." },
+      { "name": "Balaji Temple (Hanuman Temple), Khalpara", "deity": "Hanuman (as Balaji)", "location_note": "Khalpara neighborhood, Siliguri; one of the city's oldest temples." }
+    ]
+  },
+  {
+    "state": "West Bengal",
+    "town": "Tarapith",
+    "type": "temple town",
+    "top_temples": [
+      { "name": "Maa Tara Temple", "deity": "Tara (Mahavidya/Kali form)", "location_note": "Tarapith's central shrine, Birbhum district; a Mahapeeth where Sati's eyeball is believed to have fallen, famed for tantric worship." },
+      { "name": "Bamakhepa Ashram/Samadhi", "deity": "Shrine of the saint Bamakhepa", "location_note": "Adjacent to the main Tarapith temple, on the bank of the Dwaraka river; the samadhi and ashram of the revered 'mad saint' who worshipped Tara here." }
+    ]
+  }
+]

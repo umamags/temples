@@ -1,0 +1,96 @@
+[
+  {
+    "state": "Goa",
+    "town": "Panaji",
+    "type": "city",
+    "top_temples": [
+      { "name": "Mahalaxmi Temple", "deity": "Mahalaxmi", "location_note": "Dr. Dada Vaidya Road, Panjim; built 1818" },
+      { "name": "Maruti Temple", "deity": "Hanuman (Maruti)", "location_note": "Altinho Hill, overlooking Fontainhas" },
+      { "name": "Sri Apteshwar Ganapati Temple", "deity": "Ganesha", "location_note": "St. Inez, Panjim" },
+      { "name": "Sri Sati Temple", "deity": "Sati/Devi", "location_note": "Bhatlem, Panjim" },
+      { "name": "Sai Baba Temple", "deity": "Sai Baba", "location_note": "Near Boca da Vaca spring, Panjim" }
+    ]
+  },
+  {
+    "state": "Goa",
+    "town": "Vasco da Gama",
+    "type": "city",
+    "top_temples": [
+      { "name": "Shri Ramnath Temple (Ramnathi)", "deity": "Ramnath (Shiva) with Lakshmi Narayan, Ganesh, Kamakshi, Kalbhairav", "location_note": "New Vaddem, Vasco; ~450 years old, relocated here in the 16th century" },
+      { "name": "Shri Durgamata Shiv Mandin", "deity": "Durga / Shiva", "location_note": "Vasco da Gama town" },
+      { "name": "Damodar Temple (Vasco branch)", "deity": "Damodar (Shiva)", "location_note": "One of three linked Damodar temples in Goa (Vasco, Zambaulim, Margao)" }
+    ]
+  },
+  {
+    "state": "Goa",
+    "town": "Kavlem",
+    "type": "town",
+    "top_temples": [
+      { "name": "Shri Shantadurga Temple", "deity": "Shantadurga (Durga)", "location_note": "Kavlem, Ponda taluka; Indo-Portuguese architectural style, one of Goa's largest temple complexes" },
+      { "name": "Kalbhairav shrine, Shantadurga temple complex", "deity": "Kalbhairav", "location_note": "Subsidiary shrine within the Shantadurga temple complex" }
+    ]
+  },
+  {
+    "state": "Goa",
+    "town": "Mangeshi (Priol)",
+    "type": "town",
+    "top_temples": [
+      { "name": "Shri Mangeshi Temple", "deity": "Mangesh (Shiva)", "location_note": "Priol, Ponda taluka; built 1560, one of Goa's largest and wealthiest temples" },
+      { "name": "Parvati shrine, Mangeshi temple complex", "deity": "Parvati", "location_note": "Subsidiary shrine within the Mangeshi temple complex" }
+    ]
+  },
+  {
+    "state": "Goa",
+    "town": "Mapusa",
+    "type": "town",
+    "top_temples": [
+      { "name": "Shree Dev Bodgeshwar Temple", "deity": "Bodgeshwar", "location_note": "Mapusa; annual Jatra festival draws large crowds" },
+      { "name": "Maruti Temple", "deity": "Hanuman (Maruti)", "location_note": "Mapusa" }
+    ]
+  },
+  {
+    "state": "Goa",
+    "town": "Margao",
+    "type": "town",
+    "top_temples": [
+      { "name": "Damodar Temple (Saal)", "deity": "Damodar (Shiva)", "location_note": "Saal, Margao; one of three linked Damodar temples in Goa" },
+      { "name": "Shri 1008 Adinath Digambar Jain Mandir", "deity": "Jain Tirthankara Adinath", "location_note": "Near Margao railway station" }
+    ]
+  },
+  {
+    "state": "Goa",
+    "town": "Pernem",
+    "type": "town",
+    "top_temples": [
+      { "name": "Shri Bhagavati Temple", "deity": "Bhagavati (Parvati)", "location_note": "Pernem; complex of five linked shrines, known for its Dussehra celebration" },
+      { "name": "Shri Morjai Temple", "deity": "Morjai (Devi)", "location_note": "Morjim, Pernem taluka" }
+    ]
+  },
+  {
+    "state": "Goa",
+    "town": "Ponda",
+    "type": "town",
+    "top_temples": [
+      { "name": "Nagesh (Naguesh) Temple", "deity": "Shiva (as Naguesh)", "location_note": "One of the oldest temples in Goa; never rebuilt, only renovated" },
+      { "name": "Shri Mahalaxmi Temple", "deity": "Mahalaxmi", "location_note": "Bandora/Bandoda, Ponda taluka" }
+    ]
+  },
+  {
+    "state": "Goa",
+    "town": "Quepem",
+    "type": "town",
+    "top_temples": [
+      { "name": "Shri Damodar Temple", "deity": "Damodar (Shiva)", "location_note": "Zambaulim, Quepem taluka; banks of the Kushavati river" },
+      { "name": "Shantadurga Temple (Fatorpa)", "deity": "Shantadurga (Durga)", "location_note": "Fatorpa village, Quepem taluka" }
+    ]
+  },
+  {
+    "state": "Goa",
+    "town": "Sanguem",
+    "type": "town",
+    "top_temples": [
+      { "name": "Tambdi Surla Temple (Shri Mahadeva Temple)", "deity": "Shiva (Mahadeva)", "location_note": "12th-century Kadamba-era temple, oldest surviving temple in Goa" },
+      { "name": "Mahamaya Devi Temple", "deity": "Mahamaya Devi (Durga)", "location_note": "Jaquem, Sanguem taluka" }
+    ]
+  }
+]

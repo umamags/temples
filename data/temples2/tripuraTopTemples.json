@@ -1,0 +1,77 @@
+[
+  {
+    "state": "Tripura",
+    "town": "Agartala",
+    "type": "city",
+    "top_temples": [
+      { "name": "Laxminarayan Temple", "deity": "Vishnu (as Lakshmi Narayan)", "location_note": "At the main entrance of Ujjayanta Palace, Agartala; built during the rule of Maharaja Birendra Kishore Manikya with royal financial contributions." },
+      { "name": "Jagannath Temple, Agartala", "deity": "Jagannath", "location_note": "On the shore of Jagannath Dighi lake, Agartala; known for its intricate craftsmanship and vibrant festivals." },
+      { "name": "Umamaheshwar Temple", "deity": "Shiva and Parvati (Uma-Maheshwar)", "location_note": "Opposite the Jagannath Temple, within the Ujjayanta Palace compound, Agartala." },
+      { "name": "Chaturdasha Devata Temple (Fourteen Gods Temple)", "deity": "Fourteen deities including Shiva, Durga, Vishnu, and Lakshmi", "location_note": "Old Agartala, about 8 km from the city centre; built by the Manikya royal family (attributed variously to Govinda Manikya in the 1660s-70s and Krishna Manikya in 1761), most vibrant during the week-long Kharchi Puja festival." },
+      { "name": "Maa Bhabatarini Temple, Agartala", "deity": "Bhabatarini (Kali form)", "location_note": "Agartala; a serene temple within the city." }
+    ]
+  },
+  {
+    "state": "Tripura",
+    "town": "Ambassa",
+    "type": "town",
+    "top_temples": [
+      { "name": "Longtharai Mandir", "deity": "Shiva", "location_note": "About 30 km from Ambassa in the Longtharai valley, Dhalai district; a hillside temple serving as Ambassa's nearest major shrine." },
+      { "name": "Kamaleswari Mandir", "deity": "Kali", "location_note": "About 35 km from Ambassa in the sub-divisional town of Kamalpur, Dhalai district; no closer well-documented temple was found within Ambassa town itself." }
+    ]
+  },
+  {
+    "state": "Tripura",
+    "town": "Dharmanagar",
+    "type": "town",
+    "top_temples": [
+      { "name": "Kalibari Temple, Dharmanagar", "deity": "Kali", "location_note": "On the banks of the Dighi (local pond) in Dharmanagar; the town's most prominent temple, especially active during Kali Puja." },
+      { "name": "Hari Mandir, Dharmanagar", "deity": "Vishnu (Hari)", "location_note": "Also on the banks of the Dighi in Dharmanagar, alongside the Kalibari Temple; one of the town's two most significant shrines." }
+    ]
+  },
+  {
+    "state": "Tripura",
+    "town": "Kailashahar",
+    "type": "town",
+    "top_temples": [
+      { "name": "Lakhi Narayan Bari (Laxmi Narayan Temple)", "deity": "Vishnu (as Lakshmi Narayan)", "location_note": "Kailashahar; one of the oldest temples in Tripura, with a mix of Hindu and Islamic architectural styles." },
+      { "name": "Nutan Kalibari, Kailashahar", "deity": "Kali", "location_note": "Kailashahar; known for its architecture and intricate carvings." }
+    ]
+  },
+  {
+    "state": "Tripura",
+    "town": "Kumarghat",
+    "type": "town",
+    "top_temples": [
+      { "name": "Bhabatarini Mandir, Kumarghat", "deity": "Bhabatarini (Kali form)", "location_note": "Kumarghat; founded 1981 on Shivachaturdashi, the town's main temple, busiest during Shiva Chaturdashi and Kali Puja." },
+      { "name": "Shiva Temple, Bhabatarini Complex", "deity": "Shiva", "location_note": "Within the same Bhabatarini Mandir complex in Kumarghat, alongside an Eco-Kid park and a Buddha idol." }
+    ]
+  },
+  {
+    "state": "Tripura",
+    "town": "Sabroom",
+    "type": "town",
+    "top_temples": [
+      { "name": "Mahamuni Temple, Sabroom", "deity": "Buddha", "location_note": "Sabroom town; a Buddhist pagoda attracting pilgrims from India and abroad." },
+      { "name": "Baishnab Pur Buddha Temple (Manubankul)", "deity": "Buddha", "location_note": "Manubankul village, northeastern part of Sabroom subdivision; built under the leadership of Mathu Mog, hosts a week-long fair in March-April with Mahamuni and Owha festivals." }
+    ]
+  },
+  {
+    "state": "Tripura",
+    "town": "Udaipur",
+    "type": "temple town",
+    "top_temples": [
+      { "name": "Tripura Sundari Temple (Matabari)", "deity": "Tripura Sundari (Shakti form)", "location_note": "Udaipur's central shrine; one of the 51 Shakti Peethas, gives the town its religious identity." },
+      { "name": "Bhubaneshwari Temple, Udaipur", "deity": "Bhubaneshwari (Devi)", "location_note": "On the eastern fringe of Udaipur town by the Gomati river; built by Maharaja Govinda Manikya (1660-1676), immortalized in Rabindranath Tagore's plays Rajarshi and Bisarjan." }
+    ]
+  },
+  {
+    "state": "Tripura",
+    "town": "Unakoti",
+    "type": "temple town",
+    "top_temples": [
+      { "name": "Unakotiswara Kal Bhairava", "deity": "Shiva (as Kal Bhairava)", "location_note": "Unakoti's central and largest rock-cut carving, about 8 km from Kailashahar; a colossal 7th-9th century Shaiva relief giving the site its name and identity." },
+      { "name": "Ganesha-Durga-Nandi Rock Carvings, Unakoti", "deity": "Ganesha, Durga, and Nandi", "location_note": "Within the same Unakoti rock-cut complex, distinct from the central Shiva carving; includes a trio of Ganesha figures beside a waterfall, full-sized Durga reliefs, and giant Nandi bull images." }
+    ]
+  }
+]

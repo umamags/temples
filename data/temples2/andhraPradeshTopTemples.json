@@ -1,0 +1,170 @@
+[
+  {
+    "state": "Andhra Pradesh",
+    "town": "Ahobilam",
+    "type": "town",
+    "top_temples": [
+      { "name": "Ahobila Narasimha Swamy Temple (Upper Ahobilam)", "deity": "Narasimha (Vishnu avatar)", "location_note": "The principal shrine of the Nava Narasimha (nine-temple) Ahobilam complex, on a hill in Kurnool district; site where Narasimha is believed to have slain Hiranyakashipu." },
+      { "name": "Prahalada Varada / Bhargava Narasimha Temple (Lower Ahobilam)", "deity": "Narasimha (Vishnu avatar)", "location_note": "Situated below the hill, about 8 km from Upper Ahobilam; one of the other Nava Narasimha shrines, more accessible for daily worship." }
+    ]
+  },
+  {
+    "state": "Andhra Pradesh",
+    "town": "Amaravati",
+    "type": "temple town",
+    "top_temples": [
+      { "name": "Amaralingeswara Temple (Amareswara Temple)", "deity": "Shiva", "location_note": "On the banks of the Krishna River; one of the five Pancharama Kshetras of Shiva, houses a 15-ft marble Shiva linga with consort Goddess Bala Chamundika." },
+      { "name": "Mahishasura Mardini and Veerabhadraswamy Shrine Circle", "deity": "Durga (Mahishasura Mardini) and Veerabhadra", "location_note": "Subsidiary shrine circle within the same Amareswara temple complex, alongside Omkareswara Swamy and Guru Dattatreya shrines; noted here as the complex's second most distinct devotional focus." }
+    ]
+  },
+  {
+    "state": "Andhra Pradesh",
+    "town": "Anantapur",
+    "type": "city",
+    "top_temples": [
+      { "name": "Sri Anantheswara Temple", "deity": "Shiva", "location_note": "On the banks of the Penna River in Anantapur city; one of the two most important temples in the city, gave the city part of its name." },
+      { "name": "Sri Anjaneya Swamy Temple", "deity": "Hanuman", "location_note": "Also on the banks of the Penna River in Anantapur city, alongside Anantheswara Temple." },
+      { "name": "Veerabhadra Temple, Lepakshi", "deity": "Shiva (Veerabhadra)", "location_note": "Lepakshi, Anantapur district; renowned Vijayanagara-era temple famed for its hanging pillar and giant monolithic Nandi." },
+      { "name": "Sri Ranganatha Swamy Temple, Penukonda", "deity": "Vishnu (Ranganatha)", "location_note": "Penukonda, Anantapur district; noted for its architectural grandeur." },
+      { "name": "Hemavati Shiva Temple", "deity": "Shiva", "location_note": "Hemavati, Anantapur district; built by the Nolamba dynasty between the 8th-11th centuries." }
+    ]
+  },
+  {
+    "state": "Andhra Pradesh",
+    "town": "Annavaram",
+    "type": "temple town",
+    "top_temples": [
+      { "name": "Sri Veera Venkata Satyanarayana Swamy Temple", "deity": "Satyanarayana (Vishnu form)", "location_note": "On Ratnagiri Hill; regarded as the second most prominent pilgrimage temple in Andhra Pradesh after Tirumala, rebuilt in 1933-34." },
+      { "name": "Vana Durga and Kanaka Durga Temples", "deity": "Durga", "location_note": "Local protective Devi shrines situated on the same Ratnagiri hill range as the main Satyanarayana temple." }
+    ]
+  },
+  {
+    "state": "Andhra Pradesh",
+    "town": "Draksharamam",
+    "type": "temple town",
+    "top_temples": [
+      { "name": "Sri Bhimeswara Swamy Temple", "deity": "Shiva, with consort Manikyamba", "location_note": "One of the five Pancharama Kshetras of Shiva in Andhra Pradesh; 9th-century temple with a 9-floor, 120-ft gopuram in East Godavari district." },
+      { "name": "Kashi Vishweshwara Swamy Shrine", "deity": "Shiva", "location_note": "Subsidiary shrine within the Bhimeswara temple premises, facing south, alongside other sub-shrines to Ganapathi and Annapurna." }
+    ]
+  },
+  {
+    "state": "Andhra Pradesh",
+    "town": "Guntur",
+    "type": "city",
+    "top_temples": [
+      { "name": "Kotappakonda Trikoteswara Swamy Temple", "deity": "Shiva (Trikoteswara)", "location_note": "On a hill about 13 km southwest of Narasaraopet, Guntur district; named for three hills representing Brahma, Vishnu, and Maheshwara." },
+      { "name": "Ankamma Thalli Temple", "deity": "Ankamma (village goddess)", "location_note": "Within Guntur city; a prominent local Devi shrine of deep cultural significance to residents." },
+      { "name": "Sri Anjaneya Swamy Temple, Ponnur", "deity": "Hanuman", "location_note": "Ponnur, Guntur district; built in 1969, known for a 24-ft granite Hanuman statue and a 30-ft Garuda shrine." },
+      { "name": "Bhavanarayana Swamy Temple, Bapatla", "deity": "Vishnu (Bhavanarayana)", "location_note": "Bapatla, Guntur district; one of five Bhavanarayana temples in Andhra Pradesh." },
+      { "name": "Chaturmukha Brahma and Nageswara Swamy Temple, Chebrole", "deity": "Brahma and Shiva (Nageswara)", "location_note": "Chebrole village, about 10 miles south of Guntur city; notable for its rare four-faced Brahma idol." }
+    ]
+  },
+  {
+    "state": "Andhra Pradesh",
+    "town": "Kurnool",
+    "type": "city",
+    "top_temples": [
+      { "name": "Sri Raghavendra Swamy Brindavanam, Mantralayam", "deity": "Guru shrine (Sri Raghavendra Swamy)", "location_note": "On the Tungabhadra river in Kurnool district; site where the saint entered Jeeva Samadhi in 1671, a major pilgrimage centre." },
+      { "name": "Yaganti Uma Maheswara Temple", "deity": "Shiva-Parvati (Ardhanareeswara)", "location_note": "Yaganti, Kurnool district; 5th-6th century temple with a single-stone Ardhanareeswara idol and a slowly-growing Nandi statue." },
+      { "name": "Shirdi Sai Baba Temple", "deity": "Sai Baba", "location_note": "Star-shaped temple on the Tungabhadra river banks, Kurnool; known as 'South Shirdi', considered the oldest Sai Baba temple." },
+      { "name": "Jagannatha Gattu Temple", "deity": "Jagannatha (Vishnu form)", "location_note": "Kurnool district; ancient temple noted for stone carvings and an undeciphered script on its walls." },
+      { "name": "Saraswati Temple", "deity": "Saraswati", "location_note": "Kurnool district; a rare temple dedicated to the goddess of learning, depicted with four arms in Padmasana." }
+    ]
+  },
+  {
+    "state": "Andhra Pradesh",
+    "town": "Mangalagiri",
+    "type": "town",
+    "top_temples": [
+      { "name": "Sri Panakala Lakshmi Narasimha Swamy Temple", "deity": "Narasimha (Vishnu avatar)", "location_note": "Atop the hill in Mangalagiri; one of the 8 Mahakshetrams of Vishnu, famous for the self-manifested deity accepting Panakam (jaggery water) offerings." },
+      { "name": "Sri Lakshmi Narasimha Swamy Temple (foot of the hill)", "deity": "Narasimha and Lakshmi", "location_note": "At the base of the same hill in Mangalagiri; believed installed by Yudhisthira, has one of South India's tallest gopurams." }
+    ]
+  },
+  {
+    "state": "Andhra Pradesh",
+    "town": "Nellore",
+    "type": "city",
+    "top_temples": [
+      { "name": "Sri Ranganathaswamy Temple (Talpagiri)", "deity": "Vishnu (Ranganatha)", "location_note": "On the banks of the Pennar river in Nellore city; over 600 years old, marked by a 29-metre Galigopuram with seven gold kalasams." },
+      { "name": "Sri Narasimhaswamy Temple", "deity": "Narasimha (Vishnu avatar)", "location_note": "About 13 km from Nellore city centre; dedicated to Vishnu's fourth incarnation." },
+      { "name": "Sri Mallikarjuna Swamy Kamakshi Temple, Jonnawada", "deity": "Shiva (Mallikarjuna) and Kamakshi", "location_note": "Jonnawada, about 12 km from Nellore, on the bank of the Pennar river." },
+      { "name": "Sri Shiva Temple", "deity": "Shiva", "location_note": "Listed among Nellore's well-known city temples." },
+      { "name": "Sri Rajarajeshwari Temple", "deity": "Rajarajeshwari (Devi)", "location_note": "A notable Devi temple within Nellore city." }
+    ]
+  },
+  {
+    "state": "Andhra Pradesh",
+    "town": "Rajahmundry",
+    "type": "city",
+    "top_temples": [
+      { "name": "Markandeya Temple", "deity": "Shiva", "location_note": "On the banks of the Godavari river in Rajahmundry; considered the city's oldest temple, popular during Mahashivratri." },
+      { "name": "Mahakaleshwar Temple", "deity": "Shiva", "location_note": "Rajahmundry; known locally for its Bhasma Aarti ritual." },
+      { "name": "Kotilingeswara Temple", "deity": "Shiva", "location_note": "Rajahmundry; houses numerous Shiva lingas placed by generations of devotees around a large central linga." },
+      { "name": "ISKCON Temple (Sri Sri Radha Gopinath Dasavatara Temple)", "deity": "Krishna and Radha", "location_note": "On the banks of the Godavari in Rajahmundry; a major modern spiritual and cultural landmark." },
+      { "name": "Venu Gopala Swamy Temple", "deity": "Krishna (Venu Gopala)", "location_note": "Rajahmundry city; known for its grand annual celebrations." }
+    ]
+  },
+  {
+    "state": "Andhra Pradesh",
+    "town": "Simhachalam",
+    "type": "temple town",
+    "top_temples": [
+      { "name": "Sri Varaha Lakshmi Narasimha Swamy Temple", "deity": "Narasimha (Vishnu avatar, as Varaha Narasimha)", "location_note": "On Simhachalam Hill within Visakhapatnam GVMC; the second-largest temple in Andhra Pradesh after Tirumala, with inscriptions dating to the 11th century." },
+      { "name": "Kasi Vishweswara Sub-shrine, Simhachalam Temple Complex", "deity": "Shiva", "location_note": "A subsidiary shrine within the same Varaha Narasimha temple complex, alongside sub-shrines to Rama, Anjaneya, and Andal; noted here since no separate major standalone temple exists distinct to Simhachalam itself." }
+    ]
+  },
+  {
+    "state": "Andhra Pradesh",
+    "town": "Srikalahasti",
+    "type": "temple town",
+    "top_temples": [
+      { "name": "Sri Kalahasteeswara Swamy Temple", "deity": "Shiva (as Vayu Lingam)", "location_note": "One of the Pancha Bhoota Sthalas representing air (Vayu); associated with the legend of the devotee Kannappa." },
+      { "name": "Sri Subrahmanya Swamy Temple", "deity": "Subrahmanya (Murugan/Kartikeya)", "location_note": "At the centre of Srikalahasti town, reached via about 150 steps; a distinct major shrine from the main Kalahasteeswara temple." }
+    ]
+  },
+  {
+    "state": "Andhra Pradesh",
+    "town": "Srisailam",
+    "type": "temple town",
+    "top_temples": [
+      { "name": "Sri Bhramaramba Mallikarjuna Swamy Temple", "deity": "Shiva (Mallikarjuna) and Bhramaramba Devi", "location_note": "On the banks of the Krishna River in the Nallamala Hills; one of the twelve Jyotirlingas and one of the eighteen Shakti Peethas, a rare dual-status shrine." },
+      { "name": "Sikhareswara Temple", "deity": "Shiva", "location_note": "At the highest point of the Srisailam hilly region; a distinct hilltop Shiva shrine separate from the main Mallikarjuna temple." }
+    ]
+  },
+  {
+    "state": "Andhra Pradesh",
+    "town": "Tirupati",
+    "type": "city",
+    "top_temples": [
+      { "name": "Sri Venkateswara Temple, Tirumala", "deity": "Vishnu (Venkateswara)", "location_note": "Atop the Tirumala hills; one of the world's most-visited pilgrimage sites and richest temples, the city's defining shrine." },
+      { "name": "Sri Padmavathi Ammavari Temple, Tiruchanur", "deity": "Padmavathi (Vishnu's consort)", "location_note": "About 5 km from Tirupati town centre; pilgrims traditionally visit here before ascending Tirumala." },
+      { "name": "Sri Govindaraja Swami Temple", "deity": "Vishnu (Govindaraja)", "location_note": "In Tirupati town itself; features a seven-storied entrance tower with Vaishnava iconography." },
+      { "name": "Sri Kapileswara Swamy Temple", "deity": "Shiva", "location_note": "About 3 km north of Tirupati at the foot of the Tirumala hills; the only major Shiva temple in Tirupati." },
+      { "name": "Kapila Theertham", "deity": "Shiva (Kapileswara)", "location_note": "Adjacent to Kapileswara Swamy Temple in Tirupati; a Saivite temple and sacred waterfall theertham." }
+    ]
+  },
+  {
+    "state": "Andhra Pradesh",
+    "town": "Vijayawada",
+    "type": "city",
+    "top_temples": [
+      { "name": "Sri Kanaka Durga Temple", "deity": "Durga (Kanaka Durga)", "location_note": "Atop Indrakeeladri Hill in Vijayawada; one of India's Shaktipeethas, depicts the goddess in her Mahishasurmardini form." },
+      { "name": "Sri Subramanya Swamy Temple", "deity": "Subrahmanya (Kartikeya)", "location_note": "At the foot of Indrakeeladri Hill; one of Vijayawada's oldest temples, built in the 17th century by King Madhava Varma." },
+      { "name": "Sri Venkateshwara Swamy Temple", "deity": "Vishnu (Venkateswara)", "location_note": "One of the most-visited temples within Vijayawada city." },
+      { "name": "Sri Vyagra Lakshmi Narasimha Swamy Temple, Agiripalli", "deity": "Narasimha and Lakshmi", "location_note": "Agiripalli, about 25 km from Vijayawada; tradition holds it to be roughly 4,000 years old per the Puranas." },
+      { "name": "ISKCON Temple", "deity": "Krishna and Radha", "location_note": "On the banks of the Krishna River in Vijayawada; a three-storied modern temple with marble idols." }
+    ]
+  },
+  {
+    "state": "Andhra Pradesh",
+    "town": "Visakhapatnam",
+    "type": "city",
+    "top_temples": [
+      { "name": "Sri Kanaka Maha Lakshmi Temple", "deity": "Lakshmi", "location_note": "Considered the presiding deity temple of Visakhapatnam city; current structure built in the early 20th century." },
+      { "name": "Sri Venkateswara Swamy Temple, Rushikonda", "deity": "Vishnu (Venkateswara)", "location_note": "Atop Rushikonda Hill in Visakhapatnam; a modern 10-acre temple built by the Tirumala Tirupati Devasthanams." },
+      { "name": "Sri Shirdi Sai Mandir", "deity": "Sai Baba", "location_note": "Chinna Waltair, Visakhapatnam; houses multiple deities including Ganapati, Shiva, and Dattatreya alongside Sai Baba." },
+      { "name": "ISKCON Temple, Visakhapatnam", "deity": "Krishna, Balaram, and Subhadra", "location_note": "One of the city's largest religious compounds; established 2005 with marble idols." },
+      { "name": "Sri Visweswara Swamy Temple", "deity": "Shiva (Visweswara)", "location_note": "A well-known city temple in Visakhapatnam distinct from the hilltop Simhachalam shrine." }
+    ]
+  }
+]

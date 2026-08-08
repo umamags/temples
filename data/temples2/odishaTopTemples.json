@@ -1,0 +1,134 @@
+[
+  {
+    "state": "Odisha",
+    "town": "Balasore",
+    "type": "city",
+    "top_temples": [
+      { "name": "Chandaneswar Temple", "deity": "Shiva", "location_note": "Near the Odisha-West Bengal border, Balasore district; major pilgrimage site during the Chaitra Mela festival." },
+      { "name": "Panchalingeswar Temple", "deity": "Shiva (five lingams)", "location_note": "In the Nilagiri Hills, Balasore district; distinctive for five naturally occurring Shiva lingams under a perpetual stream." },
+      { "name": "Khirachora Gopinath Temple", "deity": "Krishna (Gopinath)", "location_note": "Balasore district; a centuries-old Vaishnavite shrine associated with visits from Chaitanya Mahaprabhu." },
+      { "name": "Nilagiri Jagannath Temple", "deity": "Jagannath", "location_note": "At the foothills of Swarnachuda Hill in Nilagiri, about 17 km from Balasore town; the district's second most prominent Jagannath shrine." },
+      { "name": "Bhudhara Chandi Temple", "deity": "Chandi (Devi)", "location_note": "Balasore; built by King Basanta Bhujanga Mandhata of the Ganga dynasty." }
+    ]
+  },
+  {
+    "state": "Odisha",
+    "town": "Bargarh",
+    "type": "town",
+    "top_temples": [
+      { "name": "Nrusinghanath Temple", "deity": "Vishnu (Narasimha avatar)", "location_note": "At the foothills of Gandhamardhan Hill near Paikmal, Bargarh district; dates to 1413 AD, Kalinga-style architecture." },
+      { "name": "Budharaja Temple", "deity": "Shiva", "location_note": "At the foot of Papanga Hill in Bargarh, alongside a forest garden and a Ram temple." }
+    ]
+  },
+  {
+    "state": "Odisha",
+    "town": "Berhampur",
+    "type": "city",
+    "top_temples": [
+      { "name": "Tara Tarini Temple", "deity": "Tara and Tarini (Shakti twin goddesses)", "location_note": "About 35 km from Berhampur atop a hill reached via 999 steps; a major Shakti Peetha of Odisha." },
+      { "name": "Sri Sri Sidhi Binayak Pitha", "deity": "Ganesha", "location_note": "Giri Road, Berhampur; among the largest Ganesha temples in Odisha, gold-toned exterior." },
+      { "name": "Maa Budi Thakurani Temple", "deity": "Budi Thakurani (Devi)", "location_note": "Old town Big Bazaar, Berhampur; regarded as the city's Ista Devi (presiding deity)." },
+      { "name": "Mahuri Kalua Temple", "deity": "Mahuri Kalua (Devi)", "location_note": "On the highway connecting Berhampur to Western Odisha, in the Kerandi hills forest range." },
+      { "name": "Narayani Devi Temple", "deity": "Narayani (Shakti form)", "location_note": "Along the Eastern Ghats mountain ranges near Berhampur." }
+    ]
+  },
+  {
+    "state": "Odisha",
+    "town": "Bhubaneswar",
+    "type": "city",
+    "top_temples": [
+      { "name": "Lingaraj Temple", "deity": "Shiva (Lingaraj)", "location_note": "Bhubaneswar's largest and most famous temple; 64 subsidiary shrines and a 180-m spire, the city's defining shrine as the 'Temple City of India'." },
+      { "name": "Parashurameshvara Temple", "deity": "Shiva", "location_note": "Bhubaneswar; the oldest surviving temple in the city, dated to the 7th-8th century CE." },
+      { "name": "Mukteshvara Temple", "deity": "Shiva (Mukteshwara)", "location_note": "Bhubaneswar; 10th-century, called the 'Gem of Odishan Architecture' for its Kalinga-style carvings." },
+      { "name": "Rajarani Temple", "deity": "Shiva (no presiding idol; devoted to worship)", "location_note": "Bhubaneswar; built 11th-12th century, famed for sandstone architecture and sculptural work." },
+      { "name": "Brahma Temple (Vaital Deul complex area)", "deity": "Brahma", "location_note": "Bhubaneswar; foundation laid by 15th-century Gajapati rulers, iconic Kalinga architectural style." }
+    ]
+  },
+  {
+    "state": "Odisha",
+    "town": "Cuttack",
+    "type": "city",
+    "top_temples": [
+      { "name": "Cuttack Chandi Temple", "deity": "Chandi (Devi)", "location_note": "Near the Mahanadi river in Cuttack; presiding deity of the city, major Durga Puja celebrations." },
+      { "name": "Bhattarika Temple", "deity": "Bhattarika (Shakti form)", "location_note": "Atop a small hill amid the Mahanadi river near Cuttack; associated with the legend of Parashurama." },
+      { "name": "Charchika Temple", "deity": "Chamunda (as Charchika Devi)", "location_note": "One of Cuttack's oldest temples, dedicated to an eight-armed form of the goddess." },
+      { "name": "Dhabaleswar Temple", "deity": "Shiva", "location_note": "On an island in the Mahanadi River near Cuttack, reached by boat or hanging bridge." },
+      { "name": "Singhanatha Temple", "deity": "Shiva (Singhanatha)", "location_note": "One of the earliest temples in Odisha, near Cuttack, noted for rare artwork." }
+    ]
+  },
+  {
+    "state": "Odisha",
+    "town": "Jajpur",
+    "type": "temple town",
+    "top_temples": [
+      { "name": "Maa Biraja Temple", "deity": "Durga (as Biraja/Girija), with Shiva as Jagannath", "location_note": "Jajpur's central shrine, about 125 km north of Bhubaneswar; one of the major Maha Shakti Peethas of India." },
+      { "name": "Siddheshwar Temple", "deity": "Shiva", "location_note": "Jajpur district; one of the oldest Shiva temples in the area, near a notable Ganesh shrine." }
+    ]
+  },
+  {
+    "state": "Odisha",
+    "town": "Jharsuguda",
+    "type": "city",
+    "top_temples": [
+      { "name": "Ramchandi Temple", "deity": "Ramchandi (Shakti form)", "location_note": "In a cave about 10 km from Jharsuguda town; a recognized Shakti Peetha of Odisha." },
+      { "name": "Jhadeswar Temple", "deity": "Shiva", "location_note": "Jharsuguda; a well-known local Shiva shrine." },
+      { "name": "Pahadi Mandir (Pahadeswar Temple)", "deity": "Shiva", "location_note": "Atop a small hill about 2 km from Jharsuguda bus stand; major Mahashivratri celebrations." },
+      { "name": "Maheswari Temple", "deity": "Maheswari (Devi)", "location_note": "Jharsuguda district." },
+      { "name": "Kanak Durga Mandir", "deity": "Durga", "location_note": "Jharsuguda district; a well-known local Devi shrine." }
+    ]
+  },
+  {
+    "state": "Odisha",
+    "town": "Konark",
+    "type": "temple town",
+    "top_temples": [
+      { "name": "Konark Sun Temple", "deity": "Surya (Sun god)", "location_note": "Odisha's only UNESCO World Heritage Site; built mid-13th century by Narasingha Deva I, designed as a monumental chariot of the sun god." },
+      { "name": "Ramchandi Temple, Konark", "deity": "Ramchandi (Shakti form)", "location_note": "About 10 km from Konark town on Ramchandi Beach, at the mouth of the Kushabhadra River; a distinct shrine from Konark's main Sun Temple." }
+    ]
+  },
+  {
+    "state": "Odisha",
+    "town": "Nayagarh",
+    "type": "town",
+    "top_temples": [
+      { "name": "Nilamadhaba Temple, Kantilo", "deity": "Vishnu (Nilamadhaba)", "location_note": "Kantilo, about 34 km from Nayagarh town; legend holds this as where Lord Jagannath was first worshipped by tribal chief Biswabasu." },
+      { "name": "Ladukeswar Temple (Ladubaba)", "deity": "Shiva", "location_note": "Nayagarh town; draws large crowds during Shivratri, one of the district's most popular shrines." }
+    ]
+  },
+  {
+    "state": "Odisha",
+    "town": "Puri",
+    "type": "city",
+    "top_temples": [
+      { "name": "Jagannath Temple", "deity": "Jagannath (Vishnu form), with Balabhadra and Subhadra", "location_note": "Puri's defining shrine, one of the Char Dham pilgrimage sites; famous for the annual Rath Yatra." },
+      { "name": "Vimala Temple", "deity": "Vimala (Shakti form)", "location_note": "Within the Jagannath Temple complex in Puri; a Shakti Peetha, traditionally visited before offerings at the main shrine." },
+      { "name": "Lokanath Temple", "deity": "Shiva (Lokanath)", "location_note": "Puri; legend attributes its establishment to Lord Rama, one of the five major Shiva temples in the city." },
+      { "name": "Markandeshwar Temple", "deity": "Shiva", "location_note": "Puri; dates to the 13th century, one of the 52 sacred Shiva worship sites in the region." },
+      { "name": "Varahi Temple", "deity": "Varahi (Devi)", "location_note": "Puri; a distinctive Shakti shrine depicting the goddess Varahi." }
+    ]
+  },
+  {
+    "state": "Odisha",
+    "town": "Rourkela",
+    "type": "city",
+    "top_temples": [
+      { "name": "Vedvyas Temple", "deity": "Sage Veda Vyasa (shrine)", "location_note": "Rourkela; one of the city's most significant religious sites, dedicated to the compiler of the Vedas and the Mahabharata." },
+      { "name": "Hanuman Vatika", "deity": "Hanuman", "location_note": "Rourkela; features a 75-ft Hanuman statue, one of Asia's tallest, inaugurated 1994." },
+      { "name": "Laxmi Narayan Temple", "deity": "Vishnu (Narayan) and Lakshmi", "location_note": "Rourkela city." },
+      { "name": "Maa Tarini Temple", "deity": "Tarini (Devi)", "location_note": "About 9 km from downtown Rourkela; established 1969, presiding deity for local devotees." },
+      { "name": "Santoshi Maa Temple", "deity": "Santoshi Maa", "location_note": "Rourkela; known for its distinctive pink-hued architecture." }
+    ]
+  },
+  {
+    "state": "Odisha",
+    "town": "Sambalpur",
+    "type": "city",
+    "top_temples": [
+      { "name": "Maa Samaleswari Temple", "deity": "Samaleswari (Devi)", "location_note": "On the bank of the Mahanadi, about 3 km from Sambalpur town; presiding deity of the city, gives Sambalpur its name and identity." },
+      { "name": "Budharaja Temple, Sambalpur", "deity": "Shiva", "location_note": "Atop Budharaja hill in Sambalpur; a well-known city landmark." },
+      { "name": "Leaning Temple of Huma (Bimaleswar Temple)", "deity": "Shiva (Bimaleswar)", "location_note": "Huma village, about 23 km south of Sambalpur on the Mahanadi; a rare 17th-century temple that leans at 13.8 degrees, one of only two leaning temples in the world." },
+      { "name": "Anokha Shree Shyam Bihari Mandir", "deity": "Krishna (Shyam Baba)", "location_note": "A large temple within Sambalpur city." },
+      { "name": "Shirdi Sai Temple, Sambalpur", "deity": "Sai Baba", "location_note": "Sambalpur city; a popular meditation and worship spot." }
+    ]
+  }
+]

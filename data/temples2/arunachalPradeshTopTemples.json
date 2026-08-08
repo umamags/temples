@@ -1,0 +1,94 @@
+[
+  {
+    "state": "Arunachal Pradesh",
+    "town": "Itanagar",
+    "type": "city",
+    "top_temples": [
+      { "name": "Buddha Temple (Gompa Buddhist Temple)", "deity": "Buddha", "location_note": "Atop a hill in Itanagar; a Tibetan-influenced temple with a stupa in front, offering panoramic views of the city." },
+      { "name": "Ganga Jamuna Mandir", "deity": "Ganga and Jamuna (river goddesses)", "location_note": "Itanagar; a Hindu temple dedicated to the sacred rivers." },
+      { "name": "Karuwabasti Bodo Bathou Mandir", "deity": "Bathou (Bodo indigenous worship)", "location_note": "Itanagar; established by the Bodo community, dedicated to Bathouism." },
+      { "name": "Sri Sri Radha Krishna Mandir, Itanagar", "deity": "Radha and Krishna", "location_note": "Itanagar; a Vaishnavite temple offering a space for prayer and community gathering." },
+      { "name": "Shiv Mandir, Itanagar", "deity": "Shiva", "location_note": "Itanagar." }
+    ]
+  },
+  {
+    "state": "Arunachal Pradesh",
+    "town": "Bomdila",
+    "type": "town",
+    "top_temples": [
+      { "name": "Bomdila Monastery (Gontse Gaden Rabgyel Ling / GRL, Upper Gompa)", "deity": "Buddha (Mahayana Buddhist worship)", "location_note": "Bomdila, West Kameng district; built 1965-66 inspired by South Tibet's Tsona Gontse Monastery, sanctified by the 14th Dalai Lama in 1997." },
+      { "name": "Lower Gompa, Bomdila", "deity": "Buddha (Mahayana Buddhist worship)", "location_note": "At the edge of Bomdila's main market area, one of the monastery's three divisions along with the Middle and Upper Gompa, known for its Tibetan architecture and prayer hall." }
+    ]
+  },
+  {
+    "state": "Arunachal Pradesh",
+    "town": "Malinithan",
+    "type": "town",
+    "top_temples": [
+      { "name": "Malinithan Temple Ruins", "deity": "Krishna, Rukmini, Shiva, and Parvati (per associated legend)", "location_note": "On a hill at the base of the Siang mountains, Likabali, Lower Siang district; early medieval Hindu temple ruins dated to the 13th-15th centuries, built in classical Odisha style, with a new replica temple and excavation display gallery." },
+      { "name": "Akashiganga Temple", "deity": "Shakti (Sati, as the site of her head)", "location_note": "About 12 km from Malinithan towards Along, West Siang district; a revered Shakti pilgrimage site with a sacred kund 100 metres from the temple." }
+    ]
+  },
+  {
+    "state": "Arunachal Pradesh",
+    "town": "Naharlagun",
+    "type": "town",
+    "top_temples": [
+      { "name": "Naharlagun Buddhist Temple (Thupsung Dhargye Ling)", "deity": "Buddha (Tibetan Buddhist worship)", "location_note": "Naharlagun, Papum Pare district; built in Tibetan architectural style." },
+      { "name": "Digambar Jain Temple (Bh. Parshwanath)", "deity": "Parshwanath (Jain tirthankara)", "location_note": "Naharlagun; built by the local Jain community, with a finely carved inner sanctum and religious library." }
+    ]
+  },
+  {
+    "state": "Arunachal Pradesh",
+    "town": "Parasuram Kund",
+    "type": "temple town",
+    "top_temples": [
+      { "name": "Parshuram Kund", "deity": "Parashurama (Vishnu avatar)", "location_note": "On the Lohit River in Lohit district, about 21 km north of Tezu; Parasuram Kund's central and defining shrine, site of the annual Makar Sankranti Parashuram Mela drawing over 70,000 pilgrims." },
+      { "name": "Devi Renuka Shrine", "deity": "Renuka (Parashurama's mother)", "location_note": "Within the same Parasuram Kund temple complex as the main Parshuram shrine, alongside a Dashavatar temple to Vishnu's ten incarnations." }
+    ]
+  },
+  {
+    "state": "Arunachal Pradesh",
+    "town": "Pasighat",
+    "type": "town",
+    "top_temples": [
+      { "name": "Bongkud Monying", "deity": "Local Hindu/tribal devotional worship", "location_note": "A hillock shrine overlooking Pasighat town and the Siang river valley; devotees trek up to perform puja." },
+      { "name": "Dangaria Baba Temple", "deity": "Dangaria Baba (local saint)", "location_note": "Near Pasighat town; established per local folklore dating to 1962." }
+    ]
+  },
+  {
+    "state": "Arunachal Pradesh",
+    "town": "Roing",
+    "type": "town",
+    "top_temples": [
+      { "name": "Kupunli Cave Temple", "deity": "Local cave shrine worship", "location_note": "Near Hunli, about a 2-hour trek from Hunli town in the Roing area, Lower Dibang Valley district." },
+      { "name": "Bhismaknagar Temple Complex", "deity": "Associated with the Rukmini/Bhismak legend from the Mahabharata", "location_note": "About 30 km from Roing, Lower Dibang Valley district; 8th-century archaeological ruins of fort walls and temple structures." }
+    ]
+  },
+  {
+    "state": "Arunachal Pradesh",
+    "town": "Tawang",
+    "type": "temple town",
+    "top_temples": [
+      { "name": "Tawang Monastery", "deity": "Buddha (Gelug/Tibetan Buddhist worship)", "location_note": "Tawang town; the largest Buddhist monastery in India, founded in 1680-81 by Merak Lama Lodre Gyatso, giving the town its defining religious identity." },
+      { "name": "Tawang Taktshang Monastery", "deity": "Buddha, associated with Guru Padmasambhava", "location_note": "About 45 km from Tawang township, within the same Tawang district; a three-tiered site believed consecrated by Guru Padmasambhava in the 8th century." }
+    ]
+  },
+  {
+    "state": "Arunachal Pradesh",
+    "town": "Tezu",
+    "type": "town",
+    "top_temples": [
+      { "name": "Temple (Tezu Temple-Monastery-Gurudwara Compound)", "deity": "Hindu worship (specific deity/name not independently documented)", "location_note": "Tezu, Lohit district headquarters; a Hindu temple standing alongside a Buddhist monastery and a Sikh gurudwara in the same shared compound, reflecting the town's multi-faith character. No second distinct temple could be verified for Tezu despite repeated searches; this entry lists only one temple." }
+    ]
+  },
+  {
+    "state": "Arunachal Pradesh",
+    "town": "Ziro",
+    "type": "town",
+    "top_temples": [
+      { "name": "Shree Siddheshwar Nath Temple", "deity": "Shiva", "location_note": "Kardo Forest, Ziro town, Lower Subansiri district, at 5,754 ft; houses the world's largest naturally formed Shiva Linga (about 25 ft above ground), discovered by a woodcutter in July 2004." },
+      { "name": "Meghna Cave Temple", "deity": "Lakulisha (28th form of Shiva)", "location_note": "A few kilometers from Ziro town, reached via a forested trek to about 300 ft altitude; an ancient cave shrine dated to roughly 5,000 years, discovered in 1962." }
+    ]
+  }
+]

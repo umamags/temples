@@ -1,0 +1,202 @@
+[
+  {
+    "state": "Rajasthan",
+    "town": "Ajmer",
+    "type": "city",
+    "top_temples": [
+      { "name": "Ajmer Jain Temple (Soniji Ki Nasiyan)", "deity": "Rishabhanatha (Adinath, Jain Tirthankara)", "location_note": "Ajmer city; a golden temple known for its gilded wooden interior depicting Jain cosmology." },
+      { "name": "Nareli Jain Temple", "deity": "Jain Tirthankaras", "location_note": "About 7 km from central Ajmer; the newest and most popular Jain temple complex in Rajasthan." },
+      { "name": "Shri Rangnath Swami Temple", "deity": "Vishnu (as Rangnath)", "location_note": "Ajmer city; South Indian-style architecture." },
+      { "name": "Savitri Temple, Ajmer", "deity": "Savitri (consort of Brahma)", "location_note": "On a hilltop in Ajmer; best visited at sunrise for views over the city's lakes." },
+      { "name": "Gayatri Shaktipeeth (Chamunda Mata Temple)", "deity": "Chamunda Devi / Gayatri", "location_note": "Ajmer; built in the 19th century, its main chamber known as 'Swarna Nagari' for its gold detailing." }
+    ]
+  },
+  {
+    "state": "Rajasthan",
+    "town": "Barmer",
+    "type": "city",
+    "top_temples": [
+      { "name": "Kiradu Temples", "deity": "Shiva (Someshvara Temple, principal shrine)", "location_note": "Kiradu, Barmer district; a complex of five 11th-century temples known for intricately carved stone sculptures." },
+      { "name": "Nakoda Jain Temple (Parshwanath Temple)", "deity": "Parshvanath (Jain Tirthankara)", "location_note": "Barmer district; a major Jain pilgrimage site." },
+      { "name": "Jagdambe Temple, Barmer", "deity": "Jagdambe (Devi)", "location_note": "Barmer city; draws devotees from across the country." },
+      { "name": "Vishnu Temple, Khed", "deity": "Vishnu", "location_note": "Khed, Barmer district; a partially ruined but architecturally significant ancient temple." },
+      { "name": "Devka Sun Temple", "deity": "Surya (Sun god)", "location_note": "Devka village, about 62 km from Barmer on the Barmer-Jaisalmer road; built in the 12th-13th century." }
+    ]
+  },
+  {
+    "state": "Rajasthan",
+    "town": "Bikaner",
+    "type": "city",
+    "top_temples": [
+      { "name": "Bhandasar Jain Temple", "deity": "Sumatinath (5th Jain Tirthankara)", "location_note": "Bikaner city; a three-storied 15th-16th century shrine noted for gold-leaf walls and mirror work." },
+      { "name": "Shri Laxminath Temple", "deity": "Vishnu and Lakshmi", "location_note": "Bikaner; especially crowded during Janmashtami." },
+      { "name": "Kodamdesar Temple", "deity": "Bhairu Ji (Bhainru Ji)", "location_note": "About 24 km from Bikaner; installed by Rao Bikaji, originally considered as the founding site of Bikaner before the city was relocated." },
+      { "name": "Shiv Bari Temple (Laleshwar Mahadev Mandir)", "deity": "Shiva", "location_note": "About 6 km from Bikaner; built by Maharaja Doongar Singh in the 19th century, known for a four-faced black marble Shiva statue." },
+      { "name": "Ratan Bihari Temple", "deity": "Krishna (as Ratan Bihari)", "location_note": "Bikaner city." }
+    ]
+  },
+  {
+    "state": "Rajasthan",
+    "town": "Jaipur",
+    "type": "city",
+    "top_temples": [
+      { "name": "Birla Mandir (Lakshmi Narayan Temple)", "deity": "Lakshmi and Narayan (Vishnu)", "location_note": "Tilak Nagar, near Moti Dungari Hill, Jaipur; built entirely of white marble." },
+      { "name": "Govind Dev Ji Temple", "deity": "Radha and Govind (Krishna)", "location_note": "Within the City Palace complex, Jaipur; one of the city's most revered Krishna shrines." },
+      { "name": "Garh Ganesh Temple", "deity": "Ganesha (child form, without a trunk)", "location_note": "Atop the Aravalli Hills near Nahargarh and Jaigarh Forts, Jaipur; dates to the 18th century." },
+      { "name": "Moti Dungri Ganesh Mandir", "deity": "Ganesha", "location_note": "Next to Birla Mandir, Jaipur; the idol is believed to be over 500 years old." },
+      { "name": "Tarkeshwar Nath Temple", "deity": "Shiva", "location_note": "Choura Rasta area, Jaipur; on a green hill within the city." }
+    ]
+  },
+  {
+    "state": "Rajasthan",
+    "town": "Jodhpur",
+    "type": "city",
+    "top_temples": [
+      { "name": "Chamunda Mata Temple", "deity": "Chamunda Devi", "location_note": "Southern end of Mehrangarh Fort, Jodhpur; the favoured deity of Rao Jodha, idol brought from Mandore in 1460." },
+      { "name": "Maha Mandir", "deity": "Shiva", "location_note": "About 2 km from central Jodhpur on Mandore Road; 84 pillars carved with yoga postures and floral motifs." },
+      { "name": "Raj Ranchhodji Temple", "deity": "Krishna (as Ranchhodji)", "location_note": "Jodhpur; built in 1905 by Maharani Jadechi Rajkanwar." },
+      { "name": "Ganesh Temple, Ratnada Hill", "deity": "Ganesha", "location_note": "Ratnada Hill, Jodhpur; one of the city's oldest temples." },
+      { "name": "Rasik Bihari Temple", "deity": "Krishna (as Rasik Bihari)", "location_note": "Off Udai Mandir Street, Jodhpur; features a Sabha Mandap with red sandstone columns." }
+    ]
+  },
+  {
+    "state": "Rajasthan",
+    "town": "Kota",
+    "type": "city",
+    "top_temples": [
+      { "name": "Khade Ganesh Ji Temple", "deity": "Ganesha (standing form)", "location_note": "Kota city; especially crowded during Ganesh Chaturthi." },
+      { "name": "Mathuradheesh Temple", "deity": "Krishna (Vallabh/Pushtimarg sect)", "location_note": "Kota city." },
+      { "name": "Kansua Temple", "deity": "Shiva (four-faced lingam)", "location_note": "Kota; ancient shrine believed built by the Pandavas." },
+      { "name": "Garadia Mahadev Temple", "deity": "Shiva", "location_note": "Hilltop above the Chambal River, Kota." },
+      { "name": "Shivpuri Dham, Kota", "deity": "Multiple deities", "location_note": "Kota; a modern temple complex." }
+    ]
+  },
+  {
+    "state": "Rajasthan",
+    "town": "Nagaur",
+    "type": "city",
+    "top_temples": [
+      { "name": "Jain Glass Temple, Nagaur", "deity": "Jain Tirthankaras", "location_note": "Nagaur; noted for intricate glasswork and colourful interiors." },
+      { "name": "Nagnechi Ji Temple", "deity": "Nagnechi Mata (Devi)", "location_note": "Nagaur." },
+      { "name": "Kaler Mata Temple", "deity": "Kaler Mata (Devi)", "location_note": "Nagaur." },
+      { "name": "Bansiwala Temple", "deity": "Krishna", "location_note": "Kathariyon ka Chowk, central Nagaur." },
+      { "name": "Dadhimati Mata Temple", "deity": "Dadhimati (Devi)", "location_note": "Nagaur district; one of the oldest surviving temples in northern India, built in the 4th century." }
+    ]
+  },
+  {
+    "state": "Rajasthan",
+    "town": "Pali",
+    "type": "city",
+    "top_temples": [
+      { "name": "Parshuram Mahadev Temple", "deity": "Shiva", "location_note": "Over 3,990 ft, Pali district; a cave shrine said to have been carved by Parashurama, distinct from the separate Ranakpur temple town entry." },
+      { "name": "Nimbo Ka Nath Mahadev Temple", "deity": "Shiva", "location_note": "On the Falna-Sanderav route, Pali district; associated with Kunti's worship during the Pandavas' exile." },
+      { "name": "Somnath Temple, Pali", "deity": "Shiva", "location_note": "Central Pali city; built by King Kumarpal Solanki in Vikram Samvat 1209." },
+      { "name": "Adishwar Temple, Pali", "deity": "Rishabhanatha (Adinath, Jain Tirthankara)", "location_note": "Pali city." },
+      { "name": "Surya Narayan Temple, Pali", "deity": "Surya (Sun god)", "location_note": "Pali city." }
+    ]
+  },
+  {
+    "state": "Rajasthan",
+    "town": "Tonk",
+    "type": "city",
+    "top_temples": [
+      { "name": "Bisaldeo Temple", "deity": "Shiva (as Gokarneshvara)", "location_note": "Beside the Bisalpur Dam on the Banas River, Tonk district; the district's best-documented ancient temple." },
+      { "name": "Kalyanji Temple, Tonk", "deity": "Krishna (as Kalyanji)", "location_note": "Main city of Tonk." },
+      { "name": "Govinddeoji Temple, Bavadi", "deity": "Govind Dev (Krishna)", "location_note": "Bavadi village, near Toda Rai Singh town, Tonk district." },
+      { "name": "Jaldevi Mandir", "deity": "Jaldevi (Devi)", "location_note": "Bhagat Singh Colony, Newai town, Tonk district." },
+      { "name": "Mahadevali Shiv Mandir", "deity": "Shiva", "location_note": "Tonk city." }
+    ]
+  },
+  {
+    "state": "Rajasthan",
+    "town": "Udaipur",
+    "type": "city",
+    "top_temples": [
+      { "name": "Jagdish Temple", "deity": "Vishnu (as Jagannath)", "location_note": "Within the City Palace complex, Udaipur; the city's largest and most famous temple, built in Indo-Aryan style." },
+      { "name": "Neemach Mata Temple", "deity": "Nimcha Mata (clan deity of the Maharanas)", "location_note": "Atop Devlali Hill overlooking Fateh Sagar Lake, Udaipur." },
+      { "name": "Mahakaleshwar Temple, Udaipur", "deity": "Shiva", "location_note": "Near Fateh Sagar Lake, opposite Panna Vilas, Udaipur; believed over 900 years old." },
+      { "name": "Karni Mata Temple, Udaipur", "deity": "Karni Mata (Devi)", "location_note": "Machla Magra Hills, Udaipur; a distinct shrine from the more famous Karni Mata 'rat temple' at Deshnoke." },
+      { "name": "Bohra Ganesh Temple", "deity": "Ganesha", "location_note": "Udaipur city." }
+    ]
+  },
+  {
+    "state": "Rajasthan",
+    "town": "Deshnoke (Karni Mata)",
+    "type": "temple town",
+    "top_temples": [
+      { "name": "Karni Mata Temple", "deity": "Karni Mata (Devi, Durga incarnation)", "location_note": "Deshnoke, about 30 km from Bikaner; the famous 'Rat Temple' housing thousands of revered rats believed to be reincarnated devotees. No second distinct temple could be verified within Deshnoke itself despite repeated searches (the historic first Karni Mata shrine is in the separate village of Mathania); this entry lists only one temple." }
+    ]
+  },
+  {
+    "state": "Rajasthan",
+    "town": "Eklingji",
+    "type": "temple town",
+    "top_temples": [
+      { "name": "Eklingji Temple", "deity": "Shiva (as Eklingji)", "location_note": "Eklingji's central shrine, about 22 km from Udaipur; dates to the 8th century, the guardian deity and family temple of the Mewar royal dynasty, surrounded by a complex of 108 smaller temples." },
+      { "name": "Ambika Mata Temple, Eklingji", "deity": "Ambika (Devi)", "location_note": "Within the same Eklingji temple complex, alongside other subsidiary shrines to Ganesha and Kartikeya." }
+    ]
+  },
+  {
+    "state": "Rajasthan",
+    "town": "Galtaji (Jaipur)",
+    "type": "temple town",
+    "top_temples": [
+      { "name": "Galtaji Temple Complex", "deity": "Vishnu and various deities", "location_note": "About 10 km east of Jaipur in the Aravalli Hills; a series of temples built into a hill crevice around seven sacred water tanks, a retreat since the 15th century for ascetics of the Ramananda Sampradaya, also known as the Monkey Temple." },
+      { "name": "Surya Mandir, Galtaji", "deity": "Surya (Sun god)", "location_note": "Atop the hill within the same Galtaji complex; a pink sandstone, conical-roofed temple offering panoramic views of Jaipur." }
+    ]
+  },
+  {
+    "state": "Rajasthan",
+    "town": "Khatu Shyamji",
+    "type": "temple town",
+    "top_temples": [
+      { "name": "Khatu Shyam Temple", "deity": "Khatu Shyam (Barbarik, grandson of Bhima)", "location_note": "Khatu Shyamji's central and defining shrine, Sikar district; one of the most heavily visited pilgrimage sites in Rajasthan." },
+      { "name": "Gaurishankar Temple, Khatu", "deity": "Shiva and Parvati (Gaurishankar)", "location_note": "In close proximity to the main Khatu Shyam Temple within the same temple town." }
+    ]
+  },
+  {
+    "state": "Rajasthan",
+    "town": "Mount Abu (Dilwara)",
+    "type": "temple town",
+    "top_temples": [
+      { "name": "Dilwara Jain Temples", "deity": "Jain Tirthankaras (Rishabh, Neminath, Parshvanath, and others)", "location_note": "Mount Abu; a complex of five white-marble Jain temples built between the 11th and 13th centuries, among India's finest examples of Jain temple architecture." },
+      { "name": "Adhar Devi Mandir (Arbuda Mata Mandir)", "deity": "Durga (as Arbuda Mata)", "location_note": "In a cave on a hillside in Mount Abu, distinct from the Dilwara complex; representing the town's Hindu pilgrimage tradition alongside its famous Jain temples." }
+    ]
+  },
+  {
+    "state": "Rajasthan",
+    "town": "Nathdwara",
+    "type": "temple town",
+    "top_temples": [
+      { "name": "Shrinathji Temple", "deity": "Krishna (as Shrinathji, child form)", "location_note": "Nathdwara's central and defining shrine; one of the most important Vaishnava pilgrimage sites in India, of the Pushtimarg (Vallabh) sect." },
+      { "name": "Madan Mohanji and Navneet Priyaji Temples", "deity": "Krishna (as Madan Mohan and Navneet Priya)", "location_note": "Subsidiary temples within the same Shrinathji Temple complex in Nathdwara." }
+    ]
+  },
+  {
+    "state": "Rajasthan",
+    "town": "Pushkar",
+    "type": "temple town",
+    "top_temples": [
+      { "name": "Brahma Temple, Pushkar", "deity": "Brahma", "location_note": "Pushkar's defining shrine; one of the very few temples in the world dedicated to Brahma, also known for the associated Pushkar Camel Fair." },
+      { "name": "Rangji Temple, Pushkar", "deity": "Vishnu (as Rangji)", "location_note": "About 500 m from the Pushkar bus stand, near Pushkar Lake; built in South Indian Dravidian style, distinct from the Brahma Temple." }
+    ]
+  },
+  {
+    "state": "Rajasthan",
+    "town": "Ranakpur",
+    "type": "temple town",
+    "top_temples": [
+      { "name": "Ranakpur Jain Temple (Chaumukha / Adinatha Temple)", "deity": "Rishabhanatha (Adinath, Jain Tirthankara)", "location_note": "Ranakpur's central shrine; a 15th-century white marble temple with over 1,444 uniquely carved pillars, among India's most important Jain pilgrimage sites." },
+      { "name": "Neminath Temple, Ranakpur", "deity": "Neminath (22nd Jain Tirthankara)", "location_note": "A short distance from the main temple within the same Ranakpur complex; smaller and simpler, built in Nagara style." }
+    ]
+  },
+  {
+    "state": "Rajasthan",
+    "town": "Salasar",
+    "type": "temple town",
+    "top_temples": [
+      { "name": "Salasar Balaji Temple", "deity": "Hanuman (as Balaji, with beard and moustache)", "location_note": "Salasar's central and defining shrine, Churu district; one of India's most visited Hanuman temples." },
+      { "name": "Shri Ram Darbar, Salasar", "deity": "Rama, Sita, Lakshmana, and Hanuman", "location_note": "In the upper part of the same Salasar Balaji Temple structure, above the main Hanuman shrine in the lower part." }
+    ]
+  }
+]

@@ -1,0 +1,164 @@
+[
+  {
+    "state": "Bihar",
+    "town": "Arrah",
+    "type": "city",
+    "top_temples": [
+      { "name": "Aranya Devi Temple", "deity": "Aranya Devi (Shakti form)", "location_note": "Arrah; a Siddhapeetha and the temple after which the city (Ara) is named, includes a subsidiary shrine to Rama, Sita, Lakshman, and Hanuman." },
+      { "name": "Mahamaya Temple, Arrah", "deity": "Mahamaya (Durga form)", "location_note": "Arrah; draws visitors from across India." },
+      { "name": "Hanuman Mandir, Arrah", "deity": "Hanuman", "location_note": "Arrah city; houses a black-stone Hanuman statue." },
+      { "name": "Shiv Temple, Ramna Maidan", "deity": "Shiva", "location_note": "Within Ramna Maidan (Babu Veer Kunwar Singh Ramna Maidan), one of Arrah's largest urban parks." },
+      { "name": "Gayatri Mandir, Arrah", "deity": "Gayatri Devi", "location_note": "On the main Ara-Bihiya road, near Ara collectorate." }
+    ]
+  },
+  {
+    "state": "Bihar",
+    "town": "Bhagalpur",
+    "type": "city",
+    "top_temples": [
+      { "name": "Ajgaivinath Temple", "deity": "Shiva", "location_note": "Sultanganj, Bhagalpur; a 2nd-century AD temple, the most famous and ancient temple in Bhagalpur." },
+      { "name": "Champapur Digambar Jain Mandir", "deity": "Jain tirthankaras", "location_note": "Bhagalpur; one of five supreme Jain pilgrimage sites, dating back over 2,500 years." },
+      { "name": "Budhanath Temple", "deity": "Shiva", "location_note": "On the banks of the Ganges in Bhagalpur; known for its large Shiva linga." },
+      { "name": "Colganj Rock Cut Temple", "deity": "Hindu, Jain, and Buddhist deities", "location_note": "Colganj, Bhagalpur; ancient rock-cut carvings flourished under the Gupta Empire." },
+      { "name": "Shiv Shakti Mandir, Bhagalpur", "deity": "Shiva and Shakti", "location_note": "Bhagalpur city." }
+    ]
+  },
+  {
+    "state": "Bihar",
+    "town": "Darbhanga",
+    "type": "city",
+    "top_temples": [
+      { "name": "Shyama Kali Temple (Shyama Mai / Rameshwari Kali Temple)", "deity": "Kali", "location_note": "Built 1929 CE on the pyre of Maharaja Rameshwar Singh in Darbhanga; the city's most famous temple, lively during Navratri and the December Shyama Mai festival." },
+      { "name": "Kankali Temple, Darbhanga", "deity": "Durga (Kankali Maa)", "location_note": "Darbhanga; a centuries-old temple regarded as a major tantric site in North Bihar." },
+      { "name": "Ahilya Asthan Temple", "deity": "Ahilya (mythological figure)", "location_note": "Darbhanga; associated with the Ramayana legend of Ahilya's liberation by Rama." },
+      { "name": "Manokamna Temple, Darbhanga", "deity": "Wish-fulfilling deity", "location_note": "Darbhanga city." },
+      { "name": "ISKCON Temple, Darbhanga", "deity": "Krishna and Radha", "location_note": "Darbhanga city." }
+    ]
+  },
+  {
+    "state": "Bihar",
+    "town": "Deo",
+    "type": "temple town",
+    "top_temples": [
+      { "name": "Deo Sun Temple (Deo Surya Mandir)", "deity": "Surya (Sun god)", "location_note": "Deo, about 10 km southeast of Aurangabad; a 15th-century, 100-ft temple uniquely facing west toward the setting sun, major Chhath Puja site." },
+      { "name": "Umga Sun Temple", "deity": "Surya (Sun god)", "location_note": "Umga village, near Deo; regarded as the second most important Chhath Puja temple in the region after Deo." }
+    ]
+  },
+  {
+    "state": "Bihar",
+    "town": "Gaya",
+    "type": "city",
+    "top_temples": [
+      { "name": "Vishnupad Temple", "deity": "Vishnu", "location_note": "Gaya's central Hindu shrine; a 100-ft granite temple housing the footprint (Dharmasila) of Vishnu." },
+      { "name": "Mahabodhi Temple", "deity": "Buddha (enlightenment site)", "location_note": "Bodh Gaya; UNESCO World Heritage Site marking where the Buddha attained enlightenment." },
+      { "name": "Mangla Gauri Temple", "deity": "Mangla Gauri (Shakti form)", "location_note": "On Mangla Gauri Hill, Gaya; one of the 18 Shakti Peethas." },
+      { "name": "Dungeshwari Cave Temples", "deity": "Buddha and associated deities", "location_note": "Near Bodh Gaya; cave shrines associated with the Buddha's pre-enlightenment austerities." },
+      { "name": "Brahmayoni Hill Temple", "deity": "Brahma-associated shrine", "location_note": "Brahmayoni Hill, Gaya; a hilltop pilgrimage site." }
+    ]
+  },
+  {
+    "state": "Bihar",
+    "town": "Madhubani",
+    "type": "town",
+    "top_temples": [
+      { "name": "Kapileshwar Temple (Kapileswarsthan)", "deity": "Shiva", "location_note": "Madhubani district; the Shiva linga here is said to have been installed by sage Kapila." },
+      { "name": "Somnath Mahadev Temple, Saurath", "deity": "Shiva", "location_note": "Saurath village, Madhubani; local tradition holds this Shiva linga to be the same as the one from Gujarat's Somnath Temple, associated with Sita's legendary Swayamvar site." }
+    ]
+  },
+  {
+    "state": "Bihar",
+    "town": "Motihari",
+    "type": "city",
+    "top_temples": [
+      { "name": "Sita Kund", "deity": "Sita (Ramayana legend site)", "location_note": "Vedivan/Madhuban Panchayat, outskirts of Motihari; a sacred pond where Rama's wedding procession is believed to have rested." },
+      { "name": "Someshwar Nath Mahadev Temple, Areraj", "deity": "Shiva", "location_note": "Areraj, about 30-40 km from Motihari; an ancient Shiva shrine known for its deep-set linga, major Shravani Mela pilgrimage." },
+      { "name": "Modern Shiva Temple, Areraj", "deity": "Shiva, Parvati, and Ganesh", "location_note": "Areraj, near Motihari; established 2002, local tradition holds the idols emerged naturally from the earth here." },
+      { "name": "Kesaria Rama Temple", "deity": "Rama", "location_note": "Kesaria, about 50 km from Motihari; a large Ramayana-themed temple project begun in 2018." },
+      { "name": "Motihari Station Mandir", "deity": "Local deity", "location_note": "At the Motihari railway station in the city itself." }
+    ]
+  },
+  {
+    "state": "Bihar",
+    "town": "Mundeshwari",
+    "type": "temple town",
+    "top_temples": [
+      { "name": "Mundeshwari Devi Temple", "deity": "Shiva and Shakti (as Mundeshwari/Varahi)", "location_note": "Mundeshwari Hills, Kaimur district; ASI-dated to 108 AD, regarded as one of the oldest functioning Hindu temples in the world, Nagara-style architecture." },
+      { "name": "Panchmukhi Shivalinga Shrine, Mundeshwari Complex", "deity": "Shiva (five-faced linga)", "location_note": "A subsidiary shrine within the central part of the same Mundeshwari temple, alongside idols of Vishnu, Surya, and Ganesha; used here as the second entry since Mundeshwari's identity centers on this single temple." }
+    ]
+  },
+  {
+    "state": "Bihar",
+    "town": "Muzaffarpur",
+    "type": "city",
+    "top_temples": [
+      { "name": "Garib Nath Mandir", "deity": "Shiva", "location_note": "Muzaffarpur's oldest temple, called the 'Deoghar of Bihar'; especially busy during Shravan." },
+      { "name": "Chhinmastika Mandir, Muzaffarpur", "deity": "Chhinnamasta (Shakti form)", "location_note": "Muzaffarpur city." },
+      { "name": "Shri Rani Sati Mandir, Muzaffarpur", "deity": "Rani Sati (Narayani Devi)", "location_note": "A well-regarded temple within Muzaffarpur city." },
+      { "name": "Maa Vaishno Devi Mandir, Muzaffarpur", "deity": "Vaishno Devi", "location_note": "Muzaffarpur city." },
+      { "name": "Devi Mandir, Muzaffarpur", "deity": "Durga", "location_note": "Muzaffarpur; regarded as one of the 51 Shakti Peethas." }
+    ]
+  },
+  {
+    "state": "Bihar",
+    "town": "Nalanda",
+    "type": "temple town",
+    "top_temples": [
+      { "name": "Surya Mandir, Surajpur Baragaon", "deity": "Surya (Sun god)", "location_note": "Surajpur Baragaon, about 1 km from the Nalanda University ruins; one of the 12 Suryadhams in India, alongside a notable 5-ft Parvati idol." },
+      { "name": "Shiva Temple, Ramchandrapur", "deity": "Shiva", "location_note": "Ramchandrapur, near the Nalanda ruins; legend associates the site with a visit by Krishna and Balarama." }
+    ]
+  },
+  {
+    "state": "Bihar",
+    "town": "Patna",
+    "type": "city",
+    "top_temples": [
+      { "name": "Mahavir Mandir", "deity": "Hanuman", "location_note": "Heart of Patna; the second-largest religious shrine in North India, one of Bihar's most visited temples." },
+      { "name": "Patan Devi Temple", "deity": "Patneshwari (Shakti form)", "location_note": "Patna's oldest temple; one of the 51 Siddha Shakti Peethas." },
+      { "name": "ISKCON Temple, Patna", "deity": "Radha and Krishna", "location_note": "Patna; 84 pillars spread over 2 acres, one of the largest Radha-Krishna temples in Bihar and Jharkhand." },
+      { "name": "Gayatri Mandir, Patna", "deity": "Gayatri Devi", "location_note": "Patna city." },
+      { "name": "Takht Sri Patna Sahib", "deity": "Sikh Gurdwara (Guru Gobind Singh's birthplace)", "location_note": "Patna; one of the holiest Sikh shrines, marking the birthplace of Guru Gobind Singh." }
+    ]
+  },
+  {
+    "state": "Bihar",
+    "town": "Purnia",
+    "type": "city",
+    "top_temples": [
+      { "name": "Puran Devi Mandir", "deity": "Durga", "location_note": "About 5 km from Purnia city; the district's oldest temple, major Navratri celebrations." },
+      { "name": "Kali Mandir, Purnia", "deity": "Kali", "location_note": "Purnia city; a significant local pilgrimage site." },
+      { "name": "Kamakshi Sthan Temple", "deity": "Kamakshi (Devi)", "location_note": "Purnia city." },
+      { "name": "Markandey Mahadev Temple", "deity": "Shiva", "location_note": "Purnia district." },
+      { "name": "Panchmukhi Hanuman Mandir, Purnia", "deity": "Hanuman (five-faced form)", "location_note": "Purnia city." }
+    ]
+  },
+  {
+    "state": "Bihar",
+    "town": "Rajgir",
+    "type": "temple town",
+    "top_temples": [
+      { "name": "Lakshmi Narayan Temple, Rajgir", "deity": "Vishnu and Lakshmi", "location_note": "Rajgir, beside the seven hot springs of Saptadhara." },
+      { "name": "Nandyavarta Jain Temple", "deity": "Mahavira (Jain tirthankara)", "location_note": "Rajgir; marks the traditional birth location of Mahavira, houses a 4.5-ft idol in Padmasana posture." }
+    ]
+  },
+  {
+    "state": "Bihar",
+    "town": "Siwan",
+    "type": "city",
+    "top_temples": [
+      { "name": "Mahendra Nath Temple, Mehdar", "deity": "Shiva", "location_note": "Mehdar village, Siwan district; believed built by King Mahendra, major Mahashivratri pilgrimage." },
+      { "name": "Panchmukhi Shivalinga Temple, Siwan", "deity": "Shiva (five-faced linga)", "location_note": "Siwan; the linga displays faces of Brahma, Vishnu, and Mahesh, major Shivaratri celebrations." },
+      { "name": "Burhiya Mai Temple", "deity": "Burhiya Mai (Devi)", "location_note": "Gandhi Maidan, Siwan; especially busy on Saturdays." },
+      { "name": "Anand Bagh Math and Sunder Bagh Math", "deity": "Samadhi shrines of Swami Jaggannath Das ji and his guru", "location_note": "Bakhri village, Siswan block, Siwan district." },
+      { "name": "Baba Baijnath Dham, Siwan", "deity": "Shiva", "location_note": "Siwan district; major Sawan month pilgrimage." }
+    ]
+  },
+  {
+    "state": "Bihar",
+    "town": "Vaishali",
+    "type": "temple town",
+    "top_temples": [
+      { "name": "Bawan Pokhar Temple", "deity": "Hindu deities (Gupta and Pala-era images)", "location_note": "On the northern bank of the Bawan Pokhar tank in Vaishali; built during the Pala period, houses black basalt images including a four-headed Shivling." },
+      { "name": "Shri Digambar Jain Mandir, Vaishali", "deity": "Mahavira (Jain tirthankara)", "location_note": "Behind the Bawan Pokhar Temple in Vaishali; an ancient Jain shrine distinct from the nearby Buddhist stupa." }
+    ]
+  }
+]

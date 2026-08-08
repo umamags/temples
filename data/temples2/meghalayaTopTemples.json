@@ -1,0 +1,32 @@
+[
+  {
+    "state": "Meghalaya",
+    "town": "Shillong",
+    "type": "city",
+    "top_temples": [
+      { "name": "Mahadev Khola Dham", "deity": "Shiva", "location_note": "Shillong; a roughly 150-year-old shrine discovered by a Subedar Major of the 8th Gurkha Rifles after a divine dream, major Maha Shivratri mela over three days." },
+      { "name": "Matri Mandir (Ramna Kalibari)", "deity": "Kali", "location_note": "Shillong; one of the city's oldest and most architecturally distinctive temples, with nightly puja to Goddess Kali." },
+      { "name": "Shankari Devi Temple", "deity": "Shankari Devi (local protector goddess)", "location_note": "Shillong; dedicated to a local deity believed to protect the city, especially attended during Durga Puja." },
+      { "name": "Shree Shree Hanuman Mandir, Shillong", "deity": "Hanuman", "location_note": "Shillong; a hilltop temple offering views over the city." },
+      { "name": "Gorkha Durga Temple, Shillong", "deity": "Durga", "location_note": "Shillong; a cultural and religious hub for the city's Gorkha community." }
+    ]
+  },
+  {
+    "state": "Meghalaya",
+    "town": "Jowai",
+    "type": "town",
+    "top_temples": [
+      { "name": "Nartiang Durga Temple (Shri Maa Jayanti Temple)", "deity": "Durga (as Jayanteswari, Shakti form)", "location_note": "Nartiang village, about 60 km from Shillong in the Jaintia Hills near Jowai; one of the 51 Shakti Peethas, over 500 years old, built by Jaintia King Dham Manik, marks where Sati's left thigh is believed to have fallen." },
+      { "name": "Shiv Temple, Nartiang", "deity": "Shiva", "location_note": "Within the same Nartiang temple precinct near Jowai as the Durga Temple; a distinct shrine sharing the same historic site." }
+    ]
+  },
+  {
+    "state": "Meghalaya",
+    "town": "Tura",
+    "type": "town",
+    "top_temples": [
+      { "name": "Tura Thakurbari Temple", "deity": "General Vaishnavite/Hindu worship", "location_note": "Lower Hawakhana, Tura; described as the spiritual heart of the West Garo Hills' Hindu community." },
+      { "name": "Charantala Kali Temple", "deity": "Kali", "location_note": "Charantala, near Tura in the Garo Hills; believed by locals to protect the area, centre of the large annual Charantala Mela." }
+    ]
+  }
+]

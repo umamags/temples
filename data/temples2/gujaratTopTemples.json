@@ -1,0 +1,194 @@
+[
+  {
+    "state": "Gujarat",
+    "town": "Ahmedabad",
+    "type": "city",
+    "top_temples": [
+      { "name": "Bhadrakali Temple", "deity": "Kali (as Bhadrakali)", "location_note": "Within Bhadra Fort (built 1411), Ahmedabad; the oldest temple in the city, dating to when Ahmedabad was known as Karnavati, considered one of the Shakti Peethas." },
+      { "name": "Hutheesing Jain Temple", "deity": "Dharmanath (15th Jain Tirthankara)", "location_note": "Ahmedabad; built 1850 AD by Seth Hutheesing, a double-storied white marble monument." },
+      { "name": "Shri Hanuman Ji Temple", "deity": "Hanuman", "location_note": "Cantonment area, Ahmedabad; believed constructed about a century ago by Pandit Gajanan Prasad." },
+      { "name": "Jagannath Temple, Jamalpur", "deity": "Jagannath", "location_note": "Jamalpur, Ahmedabad, on the eastern bank of the Sabarmati river; built over 460 years ago, centre of Ahmedabad's annual Rath Yatra." },
+      { "name": "Vaishno Devi Temple, Ahmedabad", "deity": "Vaishno Devi (Shakti form)", "location_note": "On the Ahmedabad-Gandhinagar road; a replica of the Himalayan Vaishno Devi shrine in Jammu and Kashmir." }
+    ]
+  },
+  {
+    "state": "Gujarat",
+    "town": "Anand",
+    "type": "city",
+    "top_temples": [
+      { "name": "Swaminarayan Temple, Anand", "deity": "Swaminarayan", "location_note": "Heart of Anand city; a six-storied temple known for its architecture." },
+      { "name": "Jalaram Temple, Anand", "deity": "Jalaram Bapa (saint)", "location_note": "Anand city." },
+      { "name": "BAPS Shri Swaminarayan Mandir, Anand", "deity": "Swaminarayan", "location_note": "Anand; built by the BAPS Swaminarayan Sanstha in traditional Indian architectural style, distinct from the older Swaminarayan Temple in the city." },
+      { "name": "Lambhvel Hanumanji Temple", "deity": "Hanuman", "location_note": "Near Anand; a peaceful shrine surrounded by nature." },
+      { "name": "Manilakshmi Jain Tirtha", "deity": "Munisuvrata Swami (Jain Tirthankara)", "location_note": "Manej village near Anand; a major Jain pilgrimage site." }
+    ]
+  },
+  {
+    "state": "Gujarat",
+    "town": "Bhavnagar",
+    "type": "city",
+    "top_temples": [
+      { "name": "Nishkalank Mahadev Temple", "deity": "Shiva", "location_note": "Koliyak Beach, Bhavnagar; a rare sea temple submerged at high tide and revealed at low tide." },
+      { "name": "Shree Takhteshwar Temple", "deity": "Shiva", "location_note": "On a small hill in the middle of Bhavnagar city; built in 1893, named for Maharaja Takhtsinhji." },
+      { "name": "Shree Khodiyar Mata Mandir, Bhavnagar", "deity": "Khodiyar Mata (Devi)", "location_note": "Bhavnagar; constructed in 1911 by the then Maharaja of Bhavnagar." },
+      { "name": "Aksharwadi Swaminarayan Temple (BAPS)", "deity": "Swaminarayan", "location_note": "Bhavnagar; a centre for worship and learning." },
+      { "name": "Shri Adishwar Temple, Bhavnagar", "deity": "Rishabhanatha (Adinath, Jain Tirthankara)", "location_note": "Bhavnagar city; a notable Jain shrine." }
+    ]
+  },
+  {
+    "state": "Gujarat",
+    "town": "Gandhinagar",
+    "type": "city",
+    "top_temples": [
+      { "name": "BAPS Akshardham Temple, Gandhinagar", "deity": "Swaminarayan", "location_note": "Sector 20, Gandhinagar; built in 1992 by BAPS, a modern architectural masterpiece with the Yagnapurush Kund and light-and-sound shows. (Note: sometimes loosely described as an 'Ahmedabad' attraction due to the cities' proximity, but it is located in Gandhinagar.)" },
+      { "name": "Shree Dholeshwar Mahadev Temple", "deity": "Shiva", "location_note": "Gandhinagar; an ancient temple believed to predate the Mahabharata era." },
+      { "name": "Mahudi Mandir", "deity": "Ghantakarna Mahavir (Jain guardian deity)", "location_note": "Mahudi town, Gandhinagar district; a highly revered Jain pilgrimage site established by a Jain monk in 1917." },
+      { "name": "Omkareshwar Mahadev Temple, Gandhinagar", "deity": "Shiva", "location_note": "Gandhinagar." },
+      { "name": "Shree Hanuman Temple, Gandhinagar", "deity": "Hanuman", "location_note": "Gandhinagar." }
+    ]
+  },
+  {
+    "state": "Gujarat",
+    "town": "Godhra",
+    "type": "city",
+    "top_temples": [
+      { "name": "Zand Hanuman Temple", "deity": "Hanuman", "location_note": "Godhra, Panchmahal district." },
+      { "name": "Trimurti Temple, Bhamaiya", "deity": "Brahma, Vishnu, and Shiva (Trimurti)", "location_note": "Bhamaiya area, Ahmedabad Road, Godhra; a large Panchmahal-district landmark." },
+      { "name": "Shri Vasupujya Swami Jain Derasar", "deity": "Vasupujya (Jain Tirthankara)", "location_note": "Bamroli Road area, Godhra; a Shwetamber Jain temple." },
+      { "name": "Ramji Mandir, Godhra", "deity": "Rama", "location_note": "Godhra city." },
+      { "name": "Godhra Trimandir", "deity": "Jain, Shaivite, and Vaishnavite deities together", "location_note": "Near Bhamaiya village, 4.5 km from Godhra on NH 59; a non-sectarian temple housing deities from multiple traditions." }
+    ]
+  },
+  {
+    "state": "Gujarat",
+    "town": "Jamnagar",
+    "type": "city",
+    "top_temples": [
+      { "name": "Bala Hanuman Temple", "deity": "Hanuman", "location_note": "South-eastern side of Ranmal Lake, Jamnagar; holds a Guinness World Record for continuous chanting of the Ram-dhun since August 1964." },
+      { "name": "Khijada Temple", "deity": "Radha and Krishna", "location_note": "Jamnagar; established in 1630 by Nijand Acharya Shri Devchandrajia, the most-visited temple in the city." },
+      { "name": "Dwarkadhish Temple, Jamnagar", "deity": "Krishna (as Dwarkadhish)", "location_note": "Jamnagar; a locally built temple believed founded by Vajranabh, Krishna's great-grandson, distinct from the larger Dwarkadhish Temple in Dwarka town itself." },
+      { "name": "Jain Temple Triad, Jamnagar", "deity": "Shantinath (Jain Tirthankara)", "location_note": "Jamnagar; built between 1574 and 1622." },
+      { "name": "Bhidbhanjan Temple, Jamnagar", "deity": "Shiva", "location_note": "Jamnagar; built in the 17th century, a lesser-known but historic shrine." }
+    ]
+  },
+  {
+    "state": "Gujarat",
+    "town": "Junagadh",
+    "type": "city",
+    "top_temples": [
+      { "name": "Shri Swaminarayan Mandir (Radha Ramana Temple)", "deity": "Swaminarayan and Radha-Raman", "location_note": "Jawahar Road, Junagadh town; ordered built by Swaminarayan himself." },
+      { "name": "Shri Radha Damodarji Temple (Damodar Kund)", "deity": "Radha and Damodar (Krishna)", "location_note": "On the road to Girnar within Junagadh town; adjacent to the sacred Damodar Kund, closely tied to the 15th-century poet-saint Narsinh Mehta." },
+      { "name": "Bhavnath Mahadev Temple", "deity": "Shiva", "location_note": "Bhavnath Taleti, at the foot of Girnar within Junagadh town limits; site of the major annual Bhavnath Mela during Shivratri, distinct from the temples higher up on Girnar hill itself." },
+      { "name": "ISKCON Junagadh", "deity": "Krishna and Radha", "location_note": "Junagadh town." },
+      { "name": "Jhulelal Mandir, Junagadh", "deity": "Jhulelal (Sindhi community deity)", "location_note": "Junagadh town." }
+    ]
+  },
+  {
+    "state": "Gujarat",
+    "town": "Rajkot",
+    "type": "city",
+    "top_temples": [
+      { "name": "BAPS Shri Swaminarayan Mandir, Rajkot", "deity": "Swaminarayan", "location_note": "Kalawad Road, Rajkot; built in 1998 by the BAPS Swaminarayan Sanstha." },
+      { "name": "Shree Panchnath Mahadev Mandir", "deity": "Shiva", "location_note": "Panchnath main road, centre of Rajkot city." },
+      { "name": "ISKCON Temple (Sri Radha Neelmadhav Dham)", "deity": "Radha and Krishna", "location_note": "Kalwad Main Road, Rajkot." },
+      { "name": "Shree Balaji Hanumanji Mandir", "deity": "Hanuman", "location_note": "Near the bus stand, central Rajkot; one of the city's oldest heritage temples." },
+      { "name": "Parshuram Temple, Rajkot", "deity": "Parashurama (Vishnu avatar)", "location_note": "Rajkot city; a well-known local pilgrimage site." }
+    ]
+  },
+  {
+    "state": "Gujarat",
+    "town": "Surat",
+    "type": "city",
+    "top_temples": [
+      { "name": "Ambika Niketan Temple", "deity": "Ambika (Ashtabhuja form of Shakti)", "location_note": "On the banks of the Tapi River, Surat; built in 1969." },
+      { "name": "Shri Swaminarayan Temple, Surat", "deity": "Swaminarayan", "location_note": "Heart of Surat city; managed by the Shree Swaminarayan Mandir Vadtal Sansthan." },
+      { "name": "Sri Sri Radha Damodar Temple (ISKCON Surat)", "deity": "Radha and Krishna", "location_note": "Surat." },
+      { "name": "Kanteshwar Mahadev Temple", "deity": "Shiva", "location_note": "Surat; one of the city's oldest temples, according to local tradition established by Kunti and the Pandavas." },
+      { "name": "Bada Ganesh Temple, Surat", "deity": "Ganesha", "location_note": "Surat; known for its grand Ganesh idol." }
+    ]
+  },
+  {
+    "state": "Gujarat",
+    "town": "Vadodara",
+    "type": "city",
+    "top_temples": [
+      { "name": "EME Temple (Dakshinamurthy Temple)", "deity": "Shiva (as Dakshinamurthy)", "location_note": "Built by the Mechanical and Electrical Engineering Corps, Vadodara; architecturally represents five major world religions." },
+      { "name": "Tapovan Temple", "deity": "Hindu worship", "location_note": "About 7 km from Vadodara Railway Station, inside the Petrochemical Township; blends Gujarat Sompura and Rajasthani Khamira architectural styles across 4 acres." },
+      { "name": "Shri Surya Narayan Temple", "deity": "Surya (Sun god)", "location_note": "Atladara, about 4 km from central Vadodara; chariot-shaped architecture with seven horses symbolizing the week's days." },
+      { "name": "Kayavarohan Temple", "deity": "Shiva (Lakulish tradition)", "location_note": "Kayavarohan town, about 30 km from Vadodara within Vadodara district; one of the 68 traditional Shiva tirthas, significant to the Pashupata sect." },
+      { "name": "Kirti Mandir, Vadodara", "deity": "Family temple of the Gaekwad dynasty", "location_note": "Vadodara city; a historic temple associated with the former royal family." }
+    ]
+  },
+  {
+    "state": "Gujarat",
+    "town": "Ambaji",
+    "type": "temple town",
+    "top_temples": [
+      { "name": "Ambaji Temple (Arasuri Ambaji Mandir)", "deity": "Amba (Shakti form)", "location_note": "Ambaji town, Banaskantha district, in the Aravalli Hills; one of the 51 Shakti Peethas, unique for having no idol, only the sacred Shri Visa Yantra." },
+      { "name": "Gabbar Hill Temple", "deity": "Amba (Shakti form)", "location_note": "On Gabbar Hill near Ambaji town; considered the original abode of the goddess, distinct from the main Ambaji temple below." }
+    ]
+  },
+  {
+    "state": "Gujarat",
+    "town": "Dakor",
+    "type": "temple town",
+    "top_temples": [
+      { "name": "Ranchhodrai Temple", "deity": "Krishna (as Ranchhodrai)", "location_note": "Dakor's central shrine; a major Vaishnavite pilgrimage site, especially during Sharad Purnima." },
+      { "name": "Danknath Temple", "deity": "Shiva", "location_note": "By Gomti Lake next to the Ranchhodrai Temple in Dakor; historically the town's original pilgrimage shrine before Dakor became a Vaishnavite centre in 1772." }
+    ]
+  },
+  {
+    "state": "Gujarat",
+    "town": "Dwarka",
+    "type": "temple town",
+    "top_temples": [
+      { "name": "Dwarkadhish Temple (Jagat Mandir)", "deity": "Krishna (as Dwarkadhish)", "location_note": "Dwarka's central shrine; built over 2,200 years ago, part of the Char Dham pilgrimage circuit." },
+      { "name": "Rukmini Devi Temple", "deity": "Rukmini (Lakshmi incarnation)", "location_note": "About 2 km from the Dwarkadhish Temple in Dwarka; one of the few temples dedicated solely to Rukmini." }
+    ]
+  },
+  {
+    "state": "Gujarat",
+    "town": "Girnar (Junagadh)",
+    "type": "temple town",
+    "top_temples": [
+      { "name": "Neminath Jain Temple, Girnar", "deity": "Neminath (22nd Jain Tirthankara)", "location_note": "Girnar Hill; the largest and oldest of the Girnar Jain temples, dating to the 12th century, reflecting the hill's status as a major Jain pilgrimage site." },
+      { "name": "Amba Mata Temple, Girnar", "deity": "Amba (Shakti form)", "location_note": "Atop the first peak of Girnar Hill; visited by newly-weds seeking a happy marriage, representing the hill's Hindu pilgrimage tradition alongside its Jain temples." }
+    ]
+  },
+  {
+    "state": "Gujarat",
+    "town": "Modhera",
+    "type": "temple town",
+    "top_temples": [
+      { "name": "Modhera Sun Temple", "deity": "Surya (Sun god)", "location_note": "Modhera's defining monument; built in the 11th century by the Solanki dynasty, a masterpiece of Indian temple architecture." },
+      { "name": "Panchlinga Shiva Temple", "deity": "Shiva (five lingas)", "location_note": "Within the same Modhera Sun Temple complex, opposite the Sabha Mandapa; the only temple in the complex still actively worshipped, having survived Alauddin Khilji's destruction of the main Sun idol." }
+    ]
+  },
+  {
+    "state": "Gujarat",
+    "town": "Palitana",
+    "type": "temple town",
+    "top_temples": [
+      { "name": "Adishwar Temple (Rishabhdev Temple)", "deity": "Rishabhanatha (Adinath, first Jain Tirthankara)", "location_note": "Atop Shatrunjaya Hill, Palitana; the holiest shrine of the Svetambara Murtipujaka Jain sect, centre of the largest temple complex in the world with nearly 900 temples." },
+      { "name": "Motishah Tuk", "deity": "Adinath and other Jain Tirthankaras", "location_note": "Within the same Shatrunjaya Hill complex in Palitana; built 1829-1836 by Seth Motishah, itself a cluster of large and small temples with about 5,000 carved images." }
+    ]
+  },
+  {
+    "state": "Gujarat",
+    "town": "Pavagadh",
+    "type": "temple town",
+    "top_temples": [
+      { "name": "Kalika Mata Temple, Pavagadh", "deity": "Kalika (Shakti form)", "location_note": "At the summit of Pavagadh Hill; a 10th-11th century Shakti Peetha, part of the UNESCO Champaner-Pavagadh Archaeological Park." },
+      { "name": "Lakulisha Temple, Pavagadh", "deity": "Lakulisha (Shiva, Pashupata tradition)", "location_note": "Midway up Pavagadh Hill beside a pond, within the same archaeological park; a 10th-11th century shrine, now in ruins, dedicated to the founder of the Pashupata Shaivite sect." }
+    ]
+  },
+  {
+    "state": "Gujarat",
+    "town": "Somnath",
+    "type": "temple town",
+    "top_temples": [
+      { "name": "Somnath Jyotirlinga Temple", "deity": "Shiva", "location_note": "Somnath's central shrine on Gujarat's western coast; the first of the twelve Jyotirlingas, of Char Dham-tier significance." },
+      { "name": "Somnath Mahadev Temple (Ahilyabai Temple)", "deity": "Shiva", "location_note": "Adjacent to the main Somnath Jyotirlinga Temple; rebuilt in 1782 by Maharani Ahilyabai Holkar, a distinct historic shrine at the same site." }
+    ]
+  }
+]

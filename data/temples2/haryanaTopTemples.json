@@ -1,0 +1,131 @@
+[
+  {
+    "state": "Haryana",
+    "town": "Ambala",
+    "type": "city",
+    "top_temples": [
+      { "name": "Kali Mata Mandir", "deity": "Kali", "location_note": "One of Ambala's oldest temples, drawing large crowds during Navratri." },
+      { "name": "Bhawani Amba Temple (Sheetla Mata)", "deity": "Amba/Sheetla Devi", "location_note": "Over 200 years old, in the heart of Ambala City; the goddess after whom the city is popularly said to be named." },
+      { "name": "Tilla Mandir", "deity": "Shiva", "location_note": "Called the largest temple in Haryana, in northwest Ambala; known for its 108-foot Gorakhnath Dhwaj flag and Shivratri celebrations." },
+      { "name": "Hathikhana Kailash Temple", "deity": "Ardhanariswar", "location_note": "19th-century temple known for its large Ardhanariswar statue." },
+      { "name": "Ambika Devi Mandir", "deity": "Ambika Devi", "location_note": "Well-known local shrine dedicated to Devi Amba in Ambala." }
+    ]
+  },
+  {
+    "state": "Haryana",
+    "town": "Chandigarh",
+    "type": "city",
+    "top_temples": [
+      { "name": "Chandi Mandir (Chandi Devi Temple)", "deity": "Chandi Devi", "location_note": "On the Chandigarh-Kalka road; a multi-deity complex also honoring Radha Krishna, Shiva, Hanuman, and Ram. Chandigarh's name derives from this temple." },
+      { "name": "Mata Mansa Devi Temple", "deity": "Mansa Devi", "location_note": "A Shakti Peeth just outside Chandigarh in Panchkula, closely associated with the city's temple circuit." },
+      { "name": "Shirdi Sai Baba Temple", "deity": "Sai Baba", "location_note": "Built in 1989 in the heart of Chandigarh; draws large crowds for evening aarti." },
+      { "name": "Jayanti Devi Temple", "deity": "Jayanti Devi", "location_note": "On the outskirts of Chandigarh, also home to shrines of Ganesha, Shiva, and Lakshmi." },
+      { "name": "Sri Karthikeya Swamy Temple", "deity": "Karthikeya", "location_note": "Among the most notable temples within Chandigarh city." }
+    ]
+  },
+  {
+    "state": "Haryana",
+    "town": "Faridabad",
+    "type": "city",
+    "top_temples": [
+      { "name": "Shri Maharani Vaishno Devi Mandir", "deity": "Vaishno Devi", "location_note": "A revered pilgrimage-style temple complex in Faridabad." },
+      { "name": "Shirdi Sai Baba Temple", "deity": "Sai Baba", "location_note": "Established in 1988 on a 3-acre marble complex." },
+      { "name": "Shree Banke Bihari Mandir", "deity": "Krishna", "location_note": "Popular Krishna temple in Faridabad." },
+      { "name": "ISKCON Temple", "deity": "Krishna and Radha", "location_note": "Faridabad branch of the International Society for Krishna Consciousness." },
+      { "name": "Prachin Shri Laxmi Narayan Temple", "deity": "Vishnu and Lakshmi", "location_note": "One of Faridabad's older Vishnu-Lakshmi temples." }
+    ]
+  },
+  {
+    "state": "Haryana",
+    "town": "Gurgaon",
+    "type": "city",
+    "top_temples": [
+      { "name": "Sheetla Mata Mandir", "deity": "Sheetla Devi", "location_note": "Located at Masani Village, Sector 6; devotees believe worship here cures ailments." },
+      { "name": "ISKCON Temple (Sri Sri Radha Damodar)", "deity": "Krishna and Radha", "location_note": "Built in 1998 at Sudarshan Dham, Sector 67, Badshahpur." },
+      { "name": "Digambar Jain Temple", "deity": "Mahavira", "location_note": "One of the oldest temples in Gurgaon, dating to the 17th-century Mughal era." },
+      { "name": "Sitaram Temple, Farrukhnagar", "deity": "Ram and Sita", "location_note": "Located in Farrukhnagar, notable for its distinctive architecture." },
+      { "name": "Sai Ka Angan", "deity": "Sai Baba", "location_note": "One of the most prominent Sai Baba temples in North India." }
+    ]
+  },
+  {
+    "state": "Haryana",
+    "town": "Hisar",
+    "type": "city",
+    "top_temples": [
+      { "name": "Agroha Dham Temple", "deity": "Hanuman", "location_note": "Built in 1976; known for a 90-foot Hanuman statue and the Shakti Sarovar pond." },
+      { "name": "Devi Bhawan Mandir", "deity": "Devi", "location_note": "Prominent Devi temple in Hisar." },
+      { "name": "Maa Bhanbhori Bhramri Devi Temple", "deity": "Bhramri Devi", "location_note": "Notable pilgrimage site in Hisar." },
+      { "name": "Rani Sati Temple", "deity": "Rani Sati (Narayani Devi)", "location_note": "Well-known temple among Hisar's Marwari community." },
+      { "name": "Shri Hanuman Temple", "deity": "Hanuman", "location_note": "One of Hisar's popular Hanuman shrines." }
+    ]
+  },
+  {
+    "state": "Haryana",
+    "town": "Karnal",
+    "type": "city",
+    "top_temples": [
+      { "name": "Shri Karneshwar Mahadev Temple", "deity": "Shiva (Karneshwar)", "location_note": "Marble temple complex with an old peepal tree where devotees tie red threads to make wishes." },
+      { "name": "Shri Mata Durga Bhavani Bada Mandir", "deity": "Durga", "location_note": "Known for ornate marble work and extensive murals." },
+      { "name": "Sitamai Temple", "deity": "Sita", "location_note": "Over 500 years old; one of the few temples in India dedicated specifically to Sita." },
+      { "name": "Geeta Mandir", "deity": "Krishna", "location_note": "Temple centered on the teachings of the Bhagavad Gita." },
+      { "name": "Sri Ram Mandir", "deity": "Rama", "location_note": "One of Karnal's most visited Hindu temples." }
+    ]
+  },
+  {
+    "state": "Haryana",
+    "town": "Kurukshetra",
+    "type": "city",
+    "top_temples": [
+      { "name": "Sthaneshwar Mahadev Temple", "deity": "Shiva", "location_note": "One of the oldest temples in Haryana; tradition holds the Pandavas sought Shiva's blessings here before the Mahabharata war." },
+      { "name": "Bhadrakali Shaktipeeth Temple", "deity": "Bhadrakali", "location_note": "One of the 51 Shakti Peethas of India, believed to mark where Sati's ankle fell." },
+      { "name": "Birla Mandir (Geeta Mandir)", "deity": "Krishna/Vishnu", "location_note": "Prominent temple on the grounds associated with Kurukshetra's Gita heritage." },
+      { "name": "Kamal Nabhi Temple (Nabhi Kamal)", "deity": "Brahma/Vishnu legend site", "location_note": "Ancient shrine among Kurukshetra's 48-kos pilgrimage circuit." },
+      { "name": "Jyotisar Krishna Temple", "deity": "Krishna", "location_note": "Marks the site traditionally believed to be where Krishna recited the Bhagavad Gita to Arjuna." }
+    ]
+  },
+  {
+    "state": "Haryana",
+    "town": "Panipat",
+    "type": "city",
+    "top_temples": [
+      { "name": "Shri Devi Mandir", "deity": "Durga", "location_note": "Built in the 18th century; over 250 years old, very crowded on festival days." },
+      { "name": "Jagannath Mandir", "deity": "Jagannath (Krishna)", "location_note": "Notable Jagannath temple in Panipat." },
+      { "name": "Shree Geeta Mandir", "deity": "Krishna", "location_note": "Temple devoted to Bhagavad Gita teachings." },
+      { "name": "Radha Krishna Mandir", "deity": "Radha and Krishna", "location_note": "Popular Krishna-Radha temple in Panipat." },
+      { "name": "Shree Ram Mandir", "deity": "Rama", "location_note": "Well-known Ram temple in the city." }
+    ]
+  },
+  {
+    "state": "Haryana",
+    "town": "Pehowa",
+    "type": "temple town",
+    "top_temples": [
+      { "name": "Prithudak (Pirthudakeshwar) Temple", "deity": "Shiva, associated with Saraswati Pitru Tirtha", "location_note": "Built by the Marathas on the banks of the dried-up Saraswati river; the central shrine of Pehowa's identity as Pitrudhak Teerth, an ancient site for ancestral rites (pinda daan) said to predate Gaya and Prayag in sanctity." },
+      { "name": "Kartikeya Temple, Pehowa", "deity": "Kartikeya", "location_note": "Ancient, historically documented temple distinct from the main Pitru tirtha shrine, within the same pilgrimage town." }
+    ]
+  },
+  {
+    "state": "Haryana",
+    "town": "Rohtak",
+    "type": "city",
+    "top_temples": [
+      { "name": "Durga Bhawan Mandir", "deity": "Durga", "location_note": "Located in Model Town, Rohtak; known for vibrant Navratri celebrations." },
+      { "name": "Baba Mast Nath Math", "deity": "Nath sect deity/samadhi", "location_note": "One of Rohtak's most important sites tied to the Nath tradition of Hinduism." },
+      { "name": "Sheetla Mata Temple", "deity": "Sheetla Devi", "location_note": "Particularly popular during Navratri." },
+      { "name": "Shri Digambar Jain Mandir", "deity": "Mahavira", "location_note": "Main Digambar Jain temple complex in Rohtak, with nine platforms for various deities." },
+      { "name": "Shiv Temple", "deity": "Shiva", "location_note": "Located in the middle of town; busiest during Shivratri." }
+    ]
+  },
+  {
+    "state": "Haryana",
+    "town": "Yamunanagar",
+    "type": "city",
+    "top_temples": [
+      { "name": "Panchmukhi Hanuman Mandir", "deity": "Hanuman (five-faced form)", "location_note": "Named for its Panchmukhi (five-faced) Hanuman idol." },
+      { "name": "Shri Radha Kunj Bihari Temple", "deity": "Radha and Krishna", "location_note": "ISKCON temple on Hare Krishna Marg in Yamunanagar." },
+      { "name": "Shiva Temple", "deity": "Shiva", "location_note": "One of Yamunanagar's oldest sites of Shiva worship." },
+      { "name": "Chilta Temple", "deity": "Associated with Mahant Ganga Nand Giri", "location_note": "About 60 years old, tied to a local Nath-tradition sadhu's prayer ground." },
+      { "name": "Shani Mandir", "deity": "Shani", "location_note": "Popular Shani Bhagwan temple in Yamunanagar." }
+    ]
+  }
+]

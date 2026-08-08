@@ -1,0 +1,221 @@
+[
+  {
+    "state": "Maharashtra",
+    "town": "Alandi",
+    "type": "temple town",
+    "top_temples": [
+      { "name": "Sant Dnyaneshwar Maharaj Samadhi Mandir", "deity": "Samadhi shrine of Sant Dnyaneshwar, under a Siddheshwar (Shiva) shrine", "location_note": "Built 1570; Dnyaneshwar, 13th-century Marathi saint-poet, took sanjeevan samadhi here. Major Varkari pilgrimage centre on the Indrayani river." },
+      { "name": "Vitthal-Rukmini Temple", "deity": "Vitthal (Vishnu) and Rukmini", "location_note": "Located within Alandi town near the Dnyaneshwar Samadhi Mandir; a distinct shrine central to the town's Varkari worship tradition." }
+    ]
+  },
+  {
+    "state": "Maharashtra",
+    "town": "Aundha Nagnath",
+    "type": "temple town",
+    "top_temples": [
+      { "name": "Nagnath (Nageshwar) Jyotirlinga Temple", "deity": "Shiva (Nageshwar)", "location_note": "In Hingoli district; one of the twelve Jyotirlingas of Shiva, a major pan-India pilgrimage site." },
+      { "name": "Subsidiary Jyotirlinga Shrines, Nagnath Temple Complex", "deity": "Shiva (represented as the other eleven Jyotirlingas)", "location_note": "The complex houses 12 mini shrines replicating the other Jyotirlingas plus 108 smaller temples; used here as the town's second entry since it is defined by this single major shrine complex." }
+    ]
+  },
+  {
+    "state": "Maharashtra",
+    "town": "Aurangabad",
+    "type": "city",
+    "top_temples": [
+      { "name": "Grishneshwar Jyotirlinga Temple", "deity": "Shiva", "location_note": "Verul village, about 29 km from Aurangabad, near Ellora Caves; the twelfth and final Jyotirlinga, 13th-century, UNESCO-listed." },
+      { "name": "Kailasa (Kailashanatha) Temple, Ellora", "deity": "Shiva", "location_note": "Cave 16 of the Ellora Caves near Aurangabad; the world's largest monolithic rock-cut temple structure." },
+      { "name": "Khandoba Temple", "deity": "Khandoba (Shiva form)", "location_note": "Aurangabad; originally built in the 16th century by the Peshwas in Hemadpanthi style, later restored by the Holkars." },
+      { "name": "Bhadra Maruti Temple", "deity": "Hanuman", "location_note": "About 4 km from Ellora Caves, Aurangabad district; notable for its reclining Hanuman idol." },
+      { "name": "Omkareshwar Mahadev Mandir", "deity": "Shiva", "location_note": "Aurangabad; a cluster-temple campus centred on the main Omkareshwar shrine." }
+    ]
+  },
+  {
+    "state": "Maharashtra",
+    "town": "Bhimashankar",
+    "type": "temple town",
+    "top_temples": [
+      { "name": "Bhimashankar Jyotirlinga Temple", "deity": "Shiva", "location_note": "In the Sahyadri hills near Pune; one of the twelve Jyotirlingas, also the source region of the Bhima river." },
+      { "name": "Gupt Bhimashankar", "deity": "Shiva (associated site)", "location_note": "A separate, older sacred site near the main Bhimashankar temple, associated with the origin legend of the Bhima river." }
+    ]
+  },
+  {
+    "state": "Maharashtra",
+    "town": "Dehu",
+    "type": "temple town",
+    "top_temples": [
+      { "name": "Sant Tukaram Maharaj Janm Sthan / Sansthan Mandir", "deity": "Samadhi/memorial shrine of Sant Tukaram", "location_note": "Dehu village, Pune district; built 1723 CE on the site associated with the saint-poet Tukaram's life, a major Varkari pilgrimage site." },
+      { "name": "Sant Tukaram Maharaj Gatha Mandir", "deity": "Memorial shrine to Sant Tukaram's teachings", "location_note": "Adjacent to the main Dehu shrine on the Indrayani river; walls inscribed with over 4,000 of Tukaram's devotional abhangs." }
+    ]
+  },
+  {
+    "state": "Maharashtra",
+    "town": "Ganpatipule",
+    "type": "temple town",
+    "top_temples": [
+      { "name": "Shree Ganpatipule Mandir (Swayambhu Ganapati Temple)", "deity": "Ganesha", "location_note": "Coastal Ratnagiri district; a roughly 400-year-old self-manifested (swayambhu) Ganesh idol facing the Arabian Sea, a major Konkan pilgrimage site." },
+      { "name": "Ganeshgule (Agargule) Temple", "deity": "Ganesha", "location_note": "About 4 km away on the Pavas-Poorngad road; local legend holds the deity transferred itself from here to Ganpatipule, making it a closely linked second shrine." }
+    ]
+  },
+  {
+    "state": "Maharashtra",
+    "town": "Jalgaon",
+    "type": "city",
+    "top_temples": [
+      { "name": "Omkareshwar Temple", "deity": "Shiva", "location_note": "On Jai Nagar Road in the heart of Jalgaon city; a well-known local Shiva shrine." },
+      { "name": "Iccha Devi Mandir", "deity": "Ichchha Devi (Devi form)", "location_note": "Jalgaon city; several hundred years old." },
+      { "name": "Shree Ram Mandir", "deity": "Rama", "location_note": "Jalgaon city; one of the more prominent Rama temples in the area." },
+      { "name": "Shree Kshetra Padmalaya", "deity": "Ganesha", "location_note": "About 30 km from Jalgaon; one of India's 'two and a half' Ganpati peeths (ardha peeth)." },
+      { "name": "Patnadevi (Chandikadevi) Temple", "deity": "Chandika Devi", "location_note": "Jalgaon district; set amid scenic hill landscapes." }
+    ]
+  },
+  {
+    "state": "Maharashtra",
+    "town": "Kolhapur",
+    "type": "city",
+    "top_temples": [
+      { "name": "Mahalaxmi Temple (Ambabai Temple)", "deity": "Mahalakshmi (Ambabai)", "location_note": "On the Panchganga river in Kolhapur; a Shakti Peetha, built in the 7th century during the Chalukya period, the city's defining shrine." },
+      { "name": "Jyotiba Temple", "deity": "Jyotiba (Shiva form)", "location_note": "About 3,200 feet altitude near Kolhapur; founded around 1600s by Ranoji Shinde." },
+      { "name": "Temblai Mandir", "deity": "Temblai Devi (Renuka Devi form)", "location_note": "Hilltop in eastern Kolhapur; a form of Renuka Devi/Durga." },
+      { "name": "Uttareshwar Mahadev Temple", "deity": "Shiva", "location_note": "On the banks of the Rankala River in Kolhapur." },
+      { "name": "Bhavani Mandap", "deity": "Bhavani (Devi)", "location_note": "Close to the Mahalaxmi Temple in central Kolhapur." }
+    ]
+  },
+  {
+    "state": "Maharashtra",
+    "town": "Latur",
+    "type": "city",
+    "top_temples": [
+      { "name": "Siddheshwar Ratneshwar Mandir", "deity": "Siddharameshwar (Shiva form)", "location_note": "12th-century temple built by King Tamradwaj in Latur; draws a large fair during Mahashivratri." },
+      { "name": "Shri Ashtavinayak Mandir", "deity": "Shiva and Ganesha (eight forms)", "location_note": "Latur city; South Indian-style temple with a 9-ft Shiva statue and eight Ganesha idols in landscaped grounds." },
+      { "name": "Shri Virat Hanuman Mandir", "deity": "Hanuman", "location_note": "Latur city; known for a 25-ft Hanuman statue and a water-curtain feature at the shrine." },
+      { "name": "Jagdamba Mata Temple, Ganj Golai", "deity": "Jagdamba (Devi)", "location_note": "In Latur's Ganj Golai area, built in the Rashtrakuta era; a local Devi shrine tied to the regional Tulja Bhavani devotional tradition, distinct from the Tuljapur temple itself." },
+      { "name": "Ganpati Mandir, Latur", "deity": "Ganesha", "location_note": "A locally prominent Ganesh shrine within Latur city." }
+    ]
+  },
+  {
+    "state": "Maharashtra",
+    "town": "Mumbai",
+    "type": "city",
+    "top_temples": [
+      { "name": "Siddhivinayak Temple", "deity": "Ganesha", "location_note": "Prabhadevi, Mumbai; founded 1801, among the most-visited and wealthiest temples in India." },
+      { "name": "Mahalakshmi Temple", "deity": "Lakshmi, Durga, and Saraswati", "location_note": "Built 1831 by a Hindu merchant; sea-facing temple, a key Mumbai landmark." },
+      { "name": "Babulnath Temple", "deity": "Shiva", "location_note": "Malabar region of Mumbai, near Marine Lines; architecture evokes Kailash Parbat." },
+      { "name": "Walkeshwar Temple", "deity": "Shiva (Walkeshwar linga)", "location_note": "Malabar Hill, Mumbai; built by the Silhara dynasty over a thousand years ago, tied to a Ramayana legend." },
+      { "name": "Swaminarayan Temple", "deity": "Krishna (Swaminarayan tradition)", "location_note": "Mumbai; over 100 years old, known for its carved pillars and three spires." }
+    ]
+  },
+  {
+    "state": "Maharashtra",
+    "town": "Nagpur",
+    "type": "city",
+    "top_temples": [
+      { "name": "Shri Ganesh Tekdi Mandir (Tekdicha Ganpati)", "deity": "Ganesha", "location_note": "Near Nagpur railway station; a centuries-old hilltop Ganesh shrine, one of the city's oldest temples." },
+      { "name": "BAPS Shri Swaminarayan Mandir", "deity": "Swaminarayan and associated deities", "location_note": "Nagpur; the largest Swaminarayan temple among over 1,000 built by the Swaminarayan Sanstha worldwide." },
+      { "name": "Shri Balaji Shri Karthikeya Temple", "deity": "Venkateswara (Balaji) and Karthikeya", "location_note": "Seminary Hills along Telankhedi Lake, Nagpur; modeled on the Tirupati Balaji temple." },
+      { "name": "Sai Baba Temple", "deity": "Sai Baba", "location_note": "Goswami Tulsidas Road, Nagpur." },
+      { "name": "Koradi Temple", "deity": "Mahalakshmi/Adi Shakti", "location_note": "About 15 km from Nagpur in Koradi; one of the 51 Shakti Peethas, idol believed self-manifested (swayambhu)." }
+    ]
+  },
+  {
+    "state": "Maharashtra",
+    "town": "Nashik",
+    "type": "city",
+    "top_temples": [
+      { "name": "Kalaram Temple", "deity": "Rama", "location_note": "Panchavati area of Nashik; built 1794 by Sardar Rangarao Odhekar, one of Maharashtra's most revered Rama temples." },
+      { "name": "Saptashrungi Devi Mandir", "deity": "Saptashrungi Devi", "location_note": "Atop a 1,230-m cliff near Nanduri village, Nashik district; one of the 'three-and-a-half' Shakti Peethas of Maharashtra." },
+      { "name": "Someshwar Temple", "deity": "Shiva", "location_note": "On the banks of the Godavari river in Nashik city; regarded as one of the holiest Shiva shrines in the city, distinct from Trimbakeshwar." },
+      { "name": "Sita Gufaa (Sita Cave) Temple", "deity": "Sita, Rama, Lakshmana", "location_note": "Panchavati, near Kalaram Temple, Nashik." },
+      { "name": "Kapaleshwar Temple", "deity": "Shiva", "location_note": "One of Nashik's oldest and most important temples, on the Godavari riverbank." }
+    ]
+  },
+  {
+    "state": "Maharashtra",
+    "town": "Pandharpur",
+    "type": "temple town",
+    "top_temples": [
+      { "name": "Shri Vitthal Rukmini Temple", "deity": "Vitthal (Vishnu) and Rukmini", "location_note": "Pandharpur's central shrine, called the 'Southern Kashi'; site of the massive annual Ashadi Ekadashi Wari pilgrimage." },
+      { "name": "Pundalik Temple", "deity": "Pundalik (devotee shrine)", "location_note": "About 1 km from the main Vitthal temple in Pandharpur; dedicated to the legendary devotee credited with bringing Vitthal to the town." }
+    ]
+  },
+  {
+    "state": "Maharashtra",
+    "town": "Parli Vaijnath",
+    "type": "temple town",
+    "top_temples": [
+      { "name": "Shri Vaijnath (Vaidyanath) Jyotirlinga Temple", "deity": "Shiva", "location_note": "Beed district; one of the twelve Jyotirlingas, built during the Yadava dynasty (12th-13th century), renovated by Ahilyabai Holkar in the 18th century." },
+      { "name": "Parvati and Ganesha Sub-shrines, Vaijnath Temple Complex", "deity": "Parvati and Ganesha", "location_note": "Subsidiary shrines within the same Vaijnath temple complex; used here as the town's second entry since no separate standalone major temple exists distinct to Parli itself." }
+    ]
+  },
+  {
+    "state": "Maharashtra",
+    "town": "Pune",
+    "type": "city",
+    "top_temples": [
+      { "name": "Dagdusheth Halwai Ganpati Temple", "deity": "Ganesha", "location_note": "Built 1893 in Pune; one of the most famous Ganpati temples in India, visited by over a hundred thousand pilgrims annually." },
+      { "name": "Omkareshwar Temple", "deity": "Shiva", "location_note": "On the banks of the Mutha river, Pune; built during the Peshwa regime." },
+      { "name": "Shri Chatushrungi Devi Temple", "deity": "Chatushringi Devi", "location_note": "Pune; built during Shivaji Maharaj's reign, a 90-ft temple reached via 100 steps." },
+      { "name": "Sarasbaug Ganpati Temple", "deity": "Ganesha", "location_note": "Pune; dates to the Peshwa era." },
+      { "name": "Laxmi Narasimha Temple", "deity": "Narasimha (Vishnu avatar)", "location_note": "Pune; known for its black-stone architecture." }
+    ]
+  },
+  {
+    "state": "Maharashtra",
+    "town": "Sangli",
+    "type": "city",
+    "top_temples": [
+      { "name": "Ganapati Temple (Bagetala Ganpati)", "deity": "Ganesha", "location_note": "Built 1843 by Thorle Chintamanrao Patwardhan in Sangli; guardian deity of the city, known for its black stone architecture." },
+      { "name": "Sangameshwar Temple", "deity": "Shiva", "location_note": "At the confluence of the Krishna and Warna rivers near Sangli; Chalukya-era temple." },
+      { "name": "Bahubali Hill Temple", "deity": "Bahubali (Jain tirthankara devotee)", "location_note": "A prominent Jain hill shrine near Sangli." },
+      { "name": "Jwala Narsimh Temple", "deity": "Narasimha (Vishnu avatar)", "location_note": "Sangli; named for an eternal flame believed to burn naturally in the sanctum." },
+      { "name": "Mahalaxmi Temple", "deity": "Mahalakshmi", "location_note": "One of Sangli's most popular Devi temples." }
+    ]
+  },
+  {
+    "state": "Maharashtra",
+    "town": "Shani Shingnapur",
+    "type": "temple town",
+    "top_temples": [
+      { "name": "Shani Shingnapur Temple", "deity": "Shani (Saturn deity)", "location_note": "Shingnapur village, Ahmednagar district; open-air shrine with a self-manifested black stone idol, famous for the village's tradition of doorless houses." },
+      { "name": "Dattatray Shrine, Shani Shingnapur Complex", "deity": "Dattatreya", "location_note": "A subsidiary shrine within the same temple precinct, alongside the tomb of Saint Udasi Baba; used here as the town's second entry since Shingnapur's identity centers on the single Shani shrine." }
+    ]
+  },
+  {
+    "state": "Maharashtra",
+    "town": "Shirdi",
+    "type": "temple town",
+    "top_temples": [
+      { "name": "Shri Sai Baba Samadhi Mandir", "deity": "Sai Baba", "location_note": "Shirdi's central shrine, established 1922; one of India's most-visited pilgrimage sites, complex includes Dwarkamai and Chavadi." },
+      { "name": "Khandoba Temple", "deity": "Khandoba (Shiva form)", "location_note": "In Shirdi town; the shrine where, per tradition, the teenage Sai Baba was first welcomed to Shirdi." }
+    ]
+  },
+  {
+    "state": "Maharashtra",
+    "town": "Solapur",
+    "type": "city",
+    "top_temples": [
+      { "name": "Siddheshwar Temple", "deity": "Shiva", "location_note": "Heart of Solapur city; Siddheshwar is the Gramdaivat (guardian deity) of Solapur, Hemadpanthi-style, believed built during the Yadava dynasty." },
+      { "name": "Rukmini Temple", "deity": "Rukmini", "location_note": "One of the oldest and most revered temples in Solapur, dedicated to Krishna's consort." },
+      { "name": "Shri Venkateshwara Devasthanam", "deity": "Vishnu (Venkateswara)", "location_note": "A well-known Vishnu temple within Solapur city." },
+      { "name": "Sri Markandeya Mandir", "deity": "Markandeya (sage, Shiva devotee)", "location_note": "A notable temple within Solapur city." },
+      { "name": "Swami Samarth Temple, Akkalkot", "deity": "Swami Samarth (Dattatreya incarnation)", "location_note": "Akkalkot, about 38 km from Solapur city within Solapur district; built around an ancient banyan tree." }
+    ]
+  },
+  {
+    "state": "Maharashtra",
+    "town": "Trimbak",
+    "type": "temple town",
+    "top_temples": [
+      { "name": "Trimbakeshwar Shiva Temple", "deity": "Shiva (three-faced Jyotirlinga)", "location_note": "Trimbak town, Nashik district; one of the twelve Jyotirlingas, unique for its three-faced lingam, built mid-18th century by Peshwa Nana Saheb, and the source of the Godavari river." },
+      { "name": "Sant Nivruttinath Maharaj Samadhi Mandir", "deity": "Samadhi shrine of Sant Nivruttinath", "location_note": "Within Trimbak town; samadhi (1219 CE) of Nivruttinath, elder brother and guru of Sant Dnyaneshwar, a major Varkari pilgrimage stop." }
+    ]
+  },
+  {
+    "state": "Maharashtra",
+    "town": "Tuljapur",
+    "type": "temple town",
+    "top_temples": [
+      { "name": "Tulja Bhavani Temple", "deity": "Bhavani (Durga/Parvati form)", "location_note": "Tuljapur, Dharashiv district; one of the 51 Shakti Peethas, built by the Kadamb dynasty around the 12th century, revered by the Maratha royal family." },
+      { "name": "Ghatshila Temple", "deity": "Rama and Lakshmana", "location_note": "In Tuljapur town; associated with the legend of Rama and Lakshmana's search for Sita, and Goddess Bhavani showing them the way." }
+    ]
+  }
+]

@@ -1,0 +1,143 @@
+[
+  {
+    "state": "Chhattisgarh",
+    "town": "Bhilai",
+    "type": "city",
+    "top_temples": [
+      { "name": "Jagannath Temple, Bhilai", "deity": "Jagannath", "location_note": "Bhilai; major Rath Yatra celebrations draw thousands of devotees annually." },
+      { "name": "Shree Shirdi Saibaba Mandir", "deity": "Sai Baba", "location_note": "Sector 6, Bhilai; popular for its evening aarti gatherings." },
+      { "name": "Maa Jagdamba Mandir", "deity": "Jagdamba (Devi)", "location_note": "Bhilai; heavily visited during Navratri." },
+      { "name": "Shiva Mandir, Bhilai", "deity": "Shiva", "location_note": "A roughly 400-year-old temple in Bhilai, one of the city's oldest." },
+      { "name": "Ganga Maiya Temple, Bhilai", "deity": "Ganga (river goddess)", "location_note": "Built in the 10th century by Chhattisgarh kings; blends Hindu and Buddhist architectural styles with a pyramid-like structure." }
+    ]
+  },
+  {
+    "state": "Chhattisgarh",
+    "town": "Bilaspur",
+    "type": "city",
+    "top_temples": [
+      { "name": "Pataleshwar Cave Temple, Malhar", "deity": "Shiva", "location_note": "Malhar village, Bilaspur district; 8th-century cave shrine carved from a single basalt rock during the Rashtrakuta dynasty." },
+      { "name": "Devrani Jethani Temple Complex, Tala", "deity": "Shiva", "location_note": "Tala village, Bilaspur district, on the Maniyari river; 5th-century twin temples built by the Sharabhapuriya dynasty, ASI-protected." },
+      { "name": "Kali Mandir, Bilaspur", "deity": "Kali, with halls for Vishnu, Shiva, Rama-Sita, Hanuman, and Krishna", "location_note": "Bilaspur city; a multi-deity temple complex." },
+      { "name": "Deur Temple, Malhar", "deity": "Vishnu/Shiva (ancient ruins)", "location_note": "Malhar archaeological site, Bilaspur district; known for artistic idols." },
+      { "name": "Dindeshwari Temple", "deity": "Devi (Dindeshwari)", "location_note": "Bilaspur district; dates to the 10th-11th century." }
+    ]
+  },
+  {
+    "state": "Chhattisgarh",
+    "town": "Dantewada",
+    "type": "temple town",
+    "top_temples": [
+      { "name": "Danteshwari Temple", "deity": "Danteshwari (Shakti form)", "location_note": "At the confluence of the Shankini and Dhankini rivers in Dantewada; a 14th-century Shakti Peetha built by Kakatiya rulers, gives the town its name, month-long Dussehra festival." },
+      { "name": "Bhairav Baba Temple", "deity": "Bhairav (Shiva form)", "location_note": "About 2 km from the main Danteshwari Temple in Dantewada; a distinct shrine with ancient idols and statues dated to the 14th century and later." }
+    ]
+  },
+  {
+    "state": "Chhattisgarh",
+    "town": "Dhamtari",
+    "type": "town",
+    "top_temples": [
+      { "name": "Bilai Mata Mandir", "deity": "Durga (Bilai Mata/Badi Mata)", "location_note": "Hilltop near Madamsilli Dam, Dhamtari district; major Navratri fair." },
+      { "name": "Rudreshwar Mahadev Temple, Rudri", "deity": "Shiva", "location_note": "Rudri, near Dhamtari; a well-known local Shiva shrine in traditional Hindu architectural style." }
+    ]
+  },
+  {
+    "state": "Chhattisgarh",
+    "town": "Durg",
+    "type": "city",
+    "top_temples": [
+      { "name": "Maitri Bagh Shiv Mandir", "deity": "Shiva", "location_note": "Durg city; known for detailed architectural carvings." },
+      { "name": "Hanuman Temple, Durg", "deity": "Hanuman", "location_note": "In the heart of Durg city." },
+      { "name": "Balaji Dham", "deity": "Venkateswara (Balaji)", "location_note": "On the outskirts of Durg city." },
+      { "name": "Deorbijia Temple", "deity": "Shiva", "location_note": "Deorbijia village near Durg; especially visited during Shivratri." },
+      { "name": "Ganga Maiya Temple, Jhalmala", "deity": "Ganga (river goddess)", "location_note": "Jhalmala, near Durg; heavily visited during festivals." }
+    ]
+  },
+  {
+    "state": "Chhattisgarh",
+    "town": "Jagdalpur",
+    "type": "city",
+    "top_temples": [
+      { "name": "Narayanpal Temple", "deity": "Vishnu", "location_note": "On the banks of the Indravati River near Jagdalpur; built in the 11th century, known for intricate carvings." },
+      { "name": "Jagannath Temple, Jagdalpur", "deity": "Jagannath, Balabhadra, and Subhadra", "location_note": "Jagdalpur city, near Mawli Mata Temple; noted for its distinctive entrance." },
+      { "name": "Mawli Mata Temple", "deity": "Mawli Mata (Devi)", "location_note": "A revered cave temple amid forests near Jagdalpur, closely tied to the city's Dussehra festival." },
+      { "name": "Ganesha Temple, Barsur", "deity": "Ganesha", "location_note": "Barsur, about 75 km from Jagdalpur on the Indravati river; part of an ancient complex of 147 temples, features an 8-ft-high, 17-ft-wide Ganesha idol." },
+      { "name": "32-Pillar Shiva Temple, Barsur", "deity": "Shiva", "location_note": "Barsur, within the same temple complex as the Ganesha temple, distinct structure with a black Nandi statue." }
+    ]
+  },
+  {
+    "state": "Chhattisgarh",
+    "town": "Korba",
+    "type": "city",
+    "top_temples": [
+      { "name": "Sarvamangala Temple", "deity": "Sarvamangala (Durga form)", "location_note": "On the banks of the Hasdeo River, Korba; surrounded by Trilokinath Mandir, Kali Mandir, and Jyoti Kalash Bhavan." },
+      { "name": "Dakshin Mukhi Hanuman Mandir", "deity": "Hanuman (south-facing idol)", "location_note": "Korba town; a prominent religious landmark." },
+      { "name": "Mandwarani Temple", "deity": "Mandwarani (Devi)", "location_note": "Atop a hill at about 3,060 ft near Korba, offering panoramic views." },
+      { "name": "Chakreshwar Mahadev Temple, Kanki", "deity": "Shiva", "location_note": "Kanki, about 20 km from Korba; a highly sanctified shrine." },
+      { "name": "Sitamani Temples and Caves", "deity": "Rama, Sita, and Lakshmana", "location_note": "Near Korba; three rock-cut caves housing ancient idols." }
+    ]
+  },
+  {
+    "state": "Chhattisgarh",
+    "town": "Raigarh",
+    "type": "city",
+    "top_temples": [
+      { "name": "Pahadi Mandir, Raigarh", "deity": "Shiva", "location_note": "Hilltop temple in Raigarh, reached via a long stairway trek." },
+      { "name": "Balaji Temple, Raigarh", "deity": "Venkateswara (Balaji)", "location_note": "Raigarh district; built in 1610 by Shri Balbhadra Dasji and Shri Bhosleji." },
+      { "name": "Barfani Dham, Raigarh", "deity": "Shiva", "location_note": "Raigarh; noted for an ice-formed Shiva linga resilient to summer heat." },
+      { "name": "Mankeshwari Mandir", "deity": "Mankeshwari (Devi)", "location_note": "Raigarh district." },
+      { "name": "Sarangarh Mahamaya Temple", "deity": "Mahamaya (Devi)", "location_note": "Sarangarh, Raigarh district; a locally notable Devi shrine." }
+    ]
+  },
+  {
+    "state": "Chhattisgarh",
+    "town": "Raipur",
+    "type": "city",
+    "top_temples": [
+      { "name": "Maa Mahamaya Devi Temple, Raipur", "deity": "Mahamaya (Devi)", "location_note": "Raipur's oldest temple; major Navratri and Durga Puja destination, distinct from the Ratanpur/Bilaspur Mahamaya shrine." },
+      { "name": "Sri Jagannath Mandir, Raipur", "deity": "Jagannath", "location_note": "One of Raipur's most visited temples, known for its Mahaprasad." },
+      { "name": "Shri Ram Mandir, Raipur", "deity": "Rama", "location_note": "Raipur city; blends modern and traditional architectural design." },
+      { "name": "Banjari Mata Mandir", "deity": "Banjari Mata (Devi)", "location_note": "One of Raipur's oldest Devi shrines." },
+      { "name": "Shree Khatu Shyam Mandir, Raipur", "deity": "Khatu Shyam (Krishna form)", "location_note": "A well-known temple within Raipur city." }
+    ]
+  },
+  {
+    "state": "Chhattisgarh",
+    "town": "Rajim",
+    "type": "temple town",
+    "top_temples": [
+      { "name": "Rajiv Lochan Temple", "deity": "Vishnu (Rajiv Lochan)", "location_note": "Rajim's central shrine, dated to the 8th century CE, at the confluence of the Mahanadi, Pairi, and Sondur rivers, giving Rajim its name 'Prayag of Chhattisgarh'." },
+      { "name": "Kuleshwar Mahadev Temple", "deity": "Shiva", "location_note": "In Rajim, close to the Rajiv Lochan Temple, on the riverbank." }
+    ]
+  },
+  {
+    "state": "Chhattisgarh",
+    "town": "Rajnandgaon",
+    "type": "city",
+    "top_temples": [
+      { "name": "Maa Bamleshwari Temple, Dongargarh", "deity": "Bamleshwari (Devi)", "location_note": "Dongargarh, Rajnandgaon district; hilltop temple reached via 1,000 steps, one of Chhattisgarh's most visited shrines." },
+      { "name": "Paatal Bhairavi Temple", "deity": "Bhairavi (Devi), Navadurga, and Shiva", "location_note": "Rajnandgaon; a three-tiered temple with Bhairavi below, Navadurga in the middle, and a large Shiva statue above." },
+      { "name": "Barfani Dham, Rajnandgaon", "deity": "Shiva", "location_note": "Rajnandgaon district; features large statues of Shiva and Nandi." },
+      { "name": "Mata Sheetala Devi Shakti Peetha", "deity": "Sheetala Devi", "location_note": "Dongargarh, Rajnandgaon district; a notable Shakti shrine distinct from the Bamleshwari temple." },
+      { "name": "Chandrahasini Devi Temple, Chandkhuri", "deity": "Chandrahasini (Devi)", "location_note": "Chandkhuri village, Rajnandgaon district; a well-known regional Devi shrine." }
+    ]
+  },
+  {
+    "state": "Chhattisgarh",
+    "town": "Ratanpur",
+    "type": "temple town",
+    "top_temples": [
+      { "name": "Mahamaya Devi Temple (Kosaleswari Devi Mandir)", "deity": "Lakshmi and Saraswati (as Mahamaya)", "location_note": "Ratanpur's central shrine, built by King Ratna Dev of the Kalachuri dynasty; one of the 52 Shakti Peethas, historic Kalachuri capital." },
+      { "name": "Ram Tekri Mandir", "deity": "Rama, Sita, and Hanuman", "location_note": "Atop the Ram Tekri hill in Ratanpur; built by Maratha king Shivaji Rao Bhonsle, features granite statues." }
+    ]
+  },
+  {
+    "state": "Chhattisgarh",
+    "town": "Sirpur",
+    "type": "temple town",
+    "top_temples": [
+      { "name": "Lakshman Temple", "deity": "Vishnu (as Lakshmana)", "location_note": "Sirpur's central shrine; one of India's earliest surviving brick temples, dated to the 6th-7th century CE, commissioned by Vasata, mother of ruler Mahashivagupta Balarjuna." },
+      { "name": "Gandheshwar Temple", "deity": "Shiva (Gandheshwar Mahadev)", "location_note": "Overlooking the Mahanadi river in Sirpur; built atop ancient temple and vihara ruins, the only Shiva linga among Sirpur's many still actively worshipped, said to emit a natural fragrance each morning." }
+    ]
+  }
+]

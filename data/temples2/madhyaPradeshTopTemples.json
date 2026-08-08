@@ -1,0 +1,185 @@
+[
+  {
+    "state": "Madhya Pradesh",
+    "town": "Amarkantak",
+    "type": "temple town",
+    "top_temples": [
+      { "name": "Narmada Udgam Temple (Narmadakund)", "deity": "Narmada (river goddess)", "location_note": "Marks the source of the Narmada river; the central shrine of Amarkantak, surrounded by a cluster of smaller temples including Shiva, Karthikeya, and Annapurna shrines." },
+      { "name": "Kapil Dhara Temple", "deity": "Shiva, associated with sage Kapil Muni", "location_note": "Near the Kapildhara waterfall on the Narmada, a short distance from the main Narmadakund complex in Amarkantak." }
+    ]
+  },
+  {
+    "state": "Madhya Pradesh",
+    "town": "Bhopal",
+    "type": "city",
+    "top_temples": [
+      { "name": "Birla Mandir (Lakshmi Narayan Temple)", "deity": "Vishnu and Lakshmi", "location_note": "Atop Shyamla Hills, Bhopal; overlooks the Upper Lake, a major city landmark." },
+      { "name": "Bhojeshwar Temple (Bhojpur Temple)", "deity": "Shiva", "location_note": "About 32 km from Bhopal on Hoshangabad Road; an unfinished 11th-century temple housing one of the world's largest monolithic Shivalingas." },
+      { "name": "Gufa Mandir (Cave Temple)", "deity": "Shiva", "location_note": "Bhopal; a Shiva shrine established within a rock cave." },
+      { "name": "Manuabhan Tekri Jain Temple", "deity": "Jain tirthankara", "location_note": "Atop Manuabhan hill in Bhopal; a small but notable Jain shrine." },
+      { "name": "Sri Radha Krishna Mandir", "deity": "Krishna and Radha", "location_note": "Bhopal; open to devotees throughout the day." }
+    ]
+  },
+  {
+    "state": "Madhya Pradesh",
+    "town": "Chitrakoot",
+    "type": "temple town",
+    "top_temples": [
+      { "name": "Kamadgiri Temple", "deity": "Rama (as Kamadnathji)", "location_note": "Considered the heart of Chitrakoot, on a forested hill straddling the Madhya Pradesh-Uttar Pradesh border; the town's defining pilgrimage site." },
+      { "name": "Bharat Milap Temple", "deity": "Rama, Lakshmana, and Bharata", "location_note": "Along the Kamadgiri Parikrama path in Chitrakoot; marks the spot where Bharata is believed to have met Rama during his exile." }
+    ]
+  },
+  {
+    "state": "Madhya Pradesh",
+    "town": "Dewas",
+    "type": "city",
+    "top_temples": [
+      { "name": "Maa Chamunda Devi Temple", "deity": "Chamunda (Durga form)", "location_note": "Atop the Chamunda hill (Devi Tekri) in Dewas city; one of the two defining hilltop Devi shrines of Dewas." },
+      { "name": "Jay Maa Tulja Bhavani (Badi Mata) Mandir", "deity": "Tulja Bhavani (Devi)", "location_note": "On the adjacent Devi Tekri hill in Dewas, alongside the Chamunda shrine; a major Shakti temple of the Malwa region." },
+      { "name": "Kaila Devi Mandir", "deity": "Kaila Devi", "location_note": "In the heart of Dewas city; one of its oldest temples." },
+      { "name": "Mata Tekri Shankh Duvar", "deity": "Devi", "location_note": "A notable Devi shrine near Dewas." },
+      { "name": "Dasha Mata Mandir", "deity": "Dasha Mata (Devi)", "location_note": "A local Devi shrine within Dewas city." }
+    ]
+  },
+  {
+    "state": "Madhya Pradesh",
+    "town": "Gwalior",
+    "type": "city",
+    "top_temples": [
+      { "name": "Sahastrabahu Temple (Saas-Bahu Ka Mandir)", "deity": "Vishnu and Shiva", "location_note": "11th-century twin sandstone temple within Gwalior Fort, renowned for its architecture." },
+      { "name": "Sun Temple (Surya Mandir)", "deity": "Surya", "location_note": "Gwalior; noted for its sculptural depiction of the sun god." },
+      { "name": "Teli Ka Mandir", "deity": "Vishnu", "location_note": "Within Gwalior Fort; built around the 9th century, the tallest structure in the fort, blending Dravidian and North Indian styles." },
+      { "name": "Shri Koteshwar Mahadev Temple", "deity": "Shiva", "location_note": "Gwalior; walls and ceilings depict scenes from Shiva mythology." },
+      { "name": "Chaturbhuj Temple", "deity": "Vishnu", "location_note": "Near Man Mandir Palace within Gwalior Fort complex." }
+    ]
+  },
+  {
+    "state": "Madhya Pradesh",
+    "town": "Indore",
+    "type": "city",
+    "top_temples": [
+      { "name": "Khajrana Ganesh Temple", "deity": "Ganesha", "location_note": "Built by Rani Ahilyabai Holkar in Indore; one of the city's most visited shrines, known for its mythological engravings." },
+      { "name": "Bijasan Mata Temple", "deity": "Durga (Bijasan Mata)", "location_note": "Indore; heavily visited during Navaratri." },
+      { "name": "Annapurna Temple", "deity": "Annapurna (Devi)", "location_note": "Among Indore's most prominent temples." },
+      { "name": "Ranjeet Hanuman Temple", "deity": "Hanuman", "location_note": "Also known as Pritra Parvat; a well-known Hanuman shrine in Indore." },
+      { "name": "Kanch Mandir", "deity": "Jain tirthankara", "location_note": "Bijasan Mata Road, Indore; a Jain temple built around 1903 with an interior crafted entirely from glass and mirrors." }
+    ]
+  },
+  {
+    "state": "Madhya Pradesh",
+    "town": "Jabalpur",
+    "type": "city",
+    "top_temples": [
+      { "name": "Chausath Yogini Temple", "deity": "64 Yoginis (Devi forms)", "location_note": "Built in the 10th century by the Kalachuri dynasty in Jabalpur; features 64 carved Yogini statues in a style resembling Khajuraho." },
+      { "name": "Tripur Sundari Mandir", "deity": "Tripur Sundari (Devi)", "location_note": "Tewar village, about 12 km from Jabalpur on the Bhedaghat road; a place of worship since the 11th century Kalachuri era." },
+      { "name": "Sri Gupteshwar Mahadev Mandir", "deity": "Shiva", "location_note": "Jabalpur; a swayambhu (self-manifested) Siddha Peetha." },
+      { "name": "Pisanhari Ki Madiya", "deity": "Jain tirthankara", "location_note": "A roughly 500-year-old Digambar Jain hilltop temple complex in Jabalpur." },
+      { "name": "Paat Baba Mandir", "deity": "Hanuman", "location_note": "Jabalpur; founded in 1903 by a British officer near the Gun Carriage Factory." }
+    ]
+  },
+  {
+    "state": "Madhya Pradesh",
+    "town": "Khajuraho",
+    "type": "temple town",
+    "top_temples": [
+      { "name": "Kandariya Mahadev Temple", "deity": "Shiva", "location_note": "The largest of the Western Group of Temples in Khajuraho; over 31 m tall with more than 870 sculptures, UNESCO World Heritage Site." },
+      { "name": "Chausath Yogini Temple, Khajuraho", "deity": "64 Yoginis (Devi forms)", "location_note": "Western Group, Khajuraho; the only granite-built temple in the complex, dating to the 9th century, considered the oldest surviving structure there." }
+    ]
+  },
+  {
+    "state": "Madhya Pradesh",
+    "town": "Maihar",
+    "type": "temple town",
+    "top_temples": [
+      { "name": "Maa Sharda Devi Temple", "deity": "Sharda Devi (Saraswati/Shakti form)", "location_note": "Atop Trikoota Hill in Maihar, reached via 1,063 steps; one of the 51 Shakti Peethas, dated to around 502 AD." },
+      { "name": "Chaturbhuj Temple, Maihar Fort", "deity": "Vishnu", "location_note": "Within the Maihar Fort complex, alongside subsidiary shrines to Bala Ganapathi, Muruga, and Adi Shankara; a distinct shrine from the main Sharda Devi temple." }
+    ]
+  },
+  {
+    "state": "Madhya Pradesh",
+    "town": "Omkareshwar",
+    "type": "temple town",
+    "top_temples": [
+      { "name": "Shri Omkareshwar Jyotirlinga Temple", "deity": "Shiva", "location_note": "On an island (Mandhata) in the Narmada river; one of the twelve Jyotirlingas, a five-storied temple with different deities on each floor." },
+      { "name": "Mamleshwar (Amareshwar) Temple", "deity": "Shiva", "location_note": "On the southern bank of the Narmada, opposite Omkareshwar; a separate ancient temple with inscriptions dating to 1063 AD, visited alongside Omkareshwar." }
+    ]
+  },
+  {
+    "state": "Madhya Pradesh",
+    "town": "Orchha",
+    "type": "temple town",
+    "top_temples": [
+      { "name": "Ram Raja Temple", "deity": "Rama (worshipped as reigning king)", "location_note": "Built in the 16th century by Queen Ganesh Kunwari; the only temple where Rama is worshipped as a ruling king, complete with a ceremonial guard salute." },
+      { "name": "Chaturbhuj Temple", "deity": "Vishnu", "location_note": "Orchha; 16th-century Bundela-built temple originally intended to house the Ram Raja idol before it stayed at its present site." }
+    ]
+  },
+  {
+    "state": "Madhya Pradesh",
+    "town": "Pachmarhi",
+    "type": "town",
+    "top_temples": [
+      { "name": "Jata Shankar Cave Temple", "deity": "Shiva", "location_note": "A limestone cave shrine about 1.5 km from Pachmarhi bus station; stalagmite formations are revered as 108 natural lingams." },
+      { "name": "Chauragarh Temple (Chhota Mahadeo)", "deity": "Shiva", "location_note": "Atop Chauragarh Hill (1,330 m), Pachmarhi's third-highest peak; built during the 14th-century Gond dynasty, known for thousands of trishuls left by devotees." }
+    ]
+  },
+  {
+    "state": "Madhya Pradesh",
+    "town": "Ratlam",
+    "type": "city",
+    "top_temples": [
+      { "name": "Kalika Mata Mandir", "deity": "Kalika (Durga form)", "location_note": "Hilltop temple overlooking Ratlam city; believed over 300 years old, the city's most prominent temple, major Navratri fair." },
+      { "name": "Mahalakshmi Temple", "deity": "Lakshmi", "location_note": "Central Ratlam; especially visited during Diwali." },
+      { "name": "Kedareshwar Temple", "deity": "Shiva", "location_note": "Heart of Ratlam city; known for ancient architecture and carvings." },
+      { "name": "Bilpakeshwara Temple", "deity": "Shiva", "location_note": "On the Mhow-Neemuch Highway in Ratlam city." },
+      { "name": "Sagod Jain Temple", "deity": "Jain tirthankara", "location_note": "On the national highway in Ratlam city." }
+    ]
+  },
+  {
+    "state": "Madhya Pradesh",
+    "town": "Sagar",
+    "type": "city",
+    "top_temples": [
+      { "name": "Shiv Temple (Baina Ganga / 12 Jyotirlinga Shrine)", "deity": "Shiva", "location_note": "Sagar; a large Shiva temple where representations of all 12 Jyotirlingas can be viewed, major Mahashivratri celebration." },
+      { "name": "Shri Dev Ram Bagh Mandir", "deity": "Rama, Shiva, and Krishna", "location_note": "On Sarafa Bazar's main street in Sagar; one of the city's oldest temples." },
+      { "name": "Moraji Digambar Jain Temple", "deity": "Jain tirthankara", "location_note": "Sagar city; also runs an associated Sanskrit school." },
+      { "name": "Gopal Ji Temple", "deity": "Krishna (Gopal)", "location_note": "A notable temple within Sagar city." },
+      { "name": "Jwala Mata Mandir", "deity": "Jwala Devi", "location_note": "A local Devi shrine in Sagar." }
+    ]
+  },
+  {
+    "state": "Madhya Pradesh",
+    "town": "Satna",
+    "type": "city",
+    "top_temples": [
+      { "name": "Venkatesh Temple", "deity": "Venkateswara (Vishnu)", "location_note": "Mukhtyarganj, Satna; built in 1876 of red stone beside a reflecting pond." },
+      { "name": "Pashupati Nath Temple", "deity": "Shiva (Pashupatinath)", "location_note": "Satna city; a well-known Shiva shrine." },
+      { "name": "Vaishno Devi Temple", "deity": "Vaishno Devi", "location_note": "Satna city; a local Devi pilgrimage shrine." },
+      { "name": "Belatgiri Temple", "deity": "Local deity", "location_note": "On a rocky hill in Satna district." },
+      { "name": "Golamath Temple", "deity": "Shiva", "location_note": "Satna; built during the Kalachuri period (10th-11th century AD), believed to fulfill devotees' prayers." }
+    ]
+  },
+  {
+    "state": "Madhya Pradesh",
+    "town": "Seoni",
+    "type": "city",
+    "top_temples": [
+      { "name": "Mahakaleshwar Temple, Seoni", "deity": "Shiva", "location_note": "Seoni; a locally prominent Shiva shrine popular with tourists and devotees, distinct from the Ujjain Mahakaleshwar Jyotirlinga." },
+      { "name": "Chhindimatta Temple", "deity": "Durga (Chhindimatta)", "location_note": "Hilltop shrine near Seoni with panoramic views." },
+      { "name": "Dighori Temple (Adi Shankaracharya Temple)", "deity": "Shiva", "location_note": "Dighori village, Seoni district; believed built by the philosopher Adi Shankaracharya." },
+      { "name": "Matradham Mandir", "deity": "Devi (Mother goddess)", "location_note": "A popular pilgrimage location in Seoni." },
+      { "name": "Jagdish Mandir", "deity": "Jagannatha (Vishnu form)", "location_note": "One of Seoni's well-known city temples." }
+    ]
+  },
+  {
+    "state": "Madhya Pradesh",
+    "town": "Ujjain",
+    "type": "city",
+    "top_temples": [
+      { "name": "Mahakaleshwar Jyotirlinga Temple", "deity": "Shiva", "location_note": "Ujjain's defining shrine; one of the twelve Jyotirlingas, site of the daily Bhasma Aarti." },
+      { "name": "Kal Bhairav Temple", "deity": "Kal Bhairav (Shiva form)", "location_note": "Ujjain; the most important of the eight Bhairava shrines, known for its unique liquor offering tradition." },
+      { "name": "Mangalnath Temple", "deity": "Mangal (Mars, as Shiva devotee)", "location_note": "Ujjain; the only temple in India dedicated to the planet Mars, believed to be its birthplace in Hindu astrology." },
+      { "name": "Navagraha Temple", "deity": "The nine planetary deities", "location_note": "On Triveni Ghat, banks of the Shipra river, Ujjain; said to be India's first Navagraha temple, over 2,000 years old." },
+      { "name": "Gadkalika Temple", "deity": "Kali (Gadkalika)", "location_note": "Ujjain; associated with the poet Kalidasa, who is said to have worshipped here and gained his poetic gifts." }
+    ]
+  }
+]

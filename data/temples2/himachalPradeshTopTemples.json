@@ -1,0 +1,149 @@
+[
+  {
+    "state": "Himachal Pradesh",
+    "town": "Baijnath",
+    "type": "temple town",
+    "top_temples": [
+      { "name": "Baijnath Vaidyanath Temple", "deity": "Shiva (Vaidyanath, the healing form)", "location_note": "13th-century (1204 AD) Nagara-style temple established by merchant brothers Ahuka and Manyuka; the town's namesake shrine." },
+      { "name": "Krishna-Radha Shrine", "deity": "Krishna and Radha", "location_note": "Subsidiary shrine standing diagonally in front of the main Vaidyanath sanctum, within the same Baijnath Temple Complex rather than a separate standalone temple." }
+    ]
+  },
+  {
+    "state": "Himachal Pradesh",
+    "town": "Bilaspur",
+    "type": "town",
+    "top_temples": [
+      { "name": "Markandeya Ji Temple", "deity": "Rishi Markandeya", "location_note": "About 20 km from Bilaspur town; popular with childless couples, with a holy spring and a major Baisakhi fair." },
+      { "name": "Vyas Gufa (Vyas Cave)", "deity": "Sage Vyas (associated site)", "location_note": "Ancient cave on the Sutlej river in Bilaspur where sage Vyas is said to have meditated while composing the Mahabharata." }
+    ]
+  },
+  {
+    "state": "Himachal Pradesh",
+    "town": "Chintpurni",
+    "type": "temple town",
+    "top_temples": [
+      { "name": "Chintpurni Devi Temple (Chhinnamastika Shakti Peeth)", "deity": "Chhinnamastika Devi", "location_note": "One of the 51 Shakti Peethas; the town's defining pilgrimage site." },
+      { "name": "Jakhni Mata Mandir", "deity": "Jakhni Mata", "location_note": "Hilltop temple a short mountain drive from Chintpurni, with panoramic valley views." }
+    ]
+  },
+  {
+    "state": "Himachal Pradesh",
+    "town": "Dharamshala",
+    "type": "town",
+    "top_temples": [
+      { "name": "Tsuglagkhang Complex (Namgyal Monastery)", "deity": "Buddhist – residence temple of the Dalai Lama", "location_note": "Largest Tibetan Buddhist temple outside Tibet, in McLeod Ganj; re-established by the Dalai Lama in 1960 after fleeing Tibet in 1959, reflecting Dharamshala's role as seat of the Tibetan government-in-exile." },
+      { "name": "Bhagsunath Temple", "deity": "Shiva (as Bhagsunag, with the serpent deity Bhagsunag)", "location_note": "Ancient Hindu shrine near McLeod Ganj, rebuilt in the early 19th century by the 1st Gurkha Rifles; features a sacred spring-fed kund." }
+    ]
+  },
+  {
+    "state": "Himachal Pradesh",
+    "town": "Hatkoti",
+    "type": "temple town",
+    "top_temples": [
+      { "name": "Hateshwari Mata Temple", "deity": "Hateshwari Devi (Shakti of Shiva)", "location_note": "Ancient temple complex in Rohru district dated to the 6th-9th centuries, linked to the Adi Shankaracharya-era revival of Hinduism." },
+      { "name": "Shiv Mandir, Hatkoti", "deity": "Shiva", "location_note": "Distinct stone shrine within the same Hatkoti temple complex, housing a large Shiva lingam." }
+    ]
+  },
+  {
+    "state": "Himachal Pradesh",
+    "town": "Jwalamukhi",
+    "type": "temple town",
+    "top_temples": [
+      { "name": "Jwala Ji Temple", "deity": "Jwala Devi (the flame manifestation of Shakti)", "location_note": "One of the 51 Shakti Peethas, famous for its naturally burning flames rather than a carved idol." },
+      { "name": "Baglamukhi Temple", "deity": "Baglamukhi (one of the ten Mahavidyas)", "location_note": "A Siddha Peeth close to Jwala Ji, part of the same regional pilgrimage circuit." }
+    ]
+  },
+  {
+    "state": "Himachal Pradesh",
+    "town": "Kangra",
+    "type": "temple town",
+    "top_temples": [
+      { "name": "Brajeshwari Devi Temple (Bajreshwari Mata Temple)", "deity": "Durga (Brajeshwari/Vajreshwari)", "location_note": "A Shakti Peeth and the most famous temple of the Kangra Valley, often called its gateway shrine." },
+      { "name": "Ambika Devi Temple, Kangra Fort", "deity": "Ambika Devi", "location_note": "Located within Kangra Fort; considered the oldest Ambika Devi temple in India." }
+    ]
+  },
+  {
+    "state": "Himachal Pradesh",
+    "town": "Kullu",
+    "type": "town",
+    "top_temples": [
+      { "name": "Raghunath Temple", "deity": "Rama (Raghunath)", "location_note": "Installed by Raja Jagat Singh in the 17th century; presiding deity of the Kullu valley and centerpiece of the Kullu Dussehra festival." },
+      { "name": "Bijli Mahadev Temple", "deity": "Shiva", "location_note": "Hilltop temple overlooking the Kullu and Parvati valleys, known for the legend of its lingam being repeatedly struck by lightning and ritually repaired." }
+    ]
+  },
+  {
+    "state": "Himachal Pradesh",
+    "town": "Mandi",
+    "type": "temple town",
+    "top_temples": [
+      { "name": "Bhootnath Temple", "deity": "Shiva", "location_note": "Built in 1527 AD by Raja Ajbar Sen; sits at the center of Mandi town, nicknamed 'Chhoti Kashi' for its roughly 80 temples." },
+      { "name": "Panchvaktra Temple", "deity": "Shiva (five-faced form)", "location_note": "At the confluence of the Beas and Suketi rivers in Mandi town; one of the most architecturally significant Shiva shrines in Himachal Pradesh." }
+    ]
+  },
+  {
+    "state": "Himachal Pradesh",
+    "town": "Manikaran",
+    "type": "temple town",
+    "top_temples": [
+      { "name": "Raghunath (Rama) Temple, Manikaran", "deity": "Rama", "location_note": "Built in the 17th century by Raja Jagat Singh; the principal Hindu shrine in Manikaran's hot-springs pilgrimage complex." },
+      { "name": "Gurdwara Sri Manikaran Sahib", "deity": "Sikh Gurdwara", "location_note": "Marks Guru Nanak Dev Ji's visit in 1594; devotees take a holy dip in the adjoining sulfur hot springs, sacred to both Hindus and Sikhs." }
+    ]
+  },
+  {
+    "state": "Himachal Pradesh",
+    "town": "Naina Devi",
+    "type": "temple town",
+    "top_temples": [
+      { "name": "Naina Devi Temple", "deity": "Naina Devi (with Kali as presiding deity, plus Saraswati)", "location_note": "One of the 51 Shakti Peethas, built by Raja Bir Chand in the 8th century atop Naina Dhar Hill; huge crowds during Navratri." },
+      { "name": "Shiva Shrine, Naina Devi Temple complex", "deity": "Shiva", "location_note": "Subsidiary shrine within the same Naina Devi temple complex, alongside shrines to Ganesha and Hanuman." }
+    ]
+  },
+  {
+    "state": "Himachal Pradesh",
+    "town": "Palampur",
+    "type": "town",
+    "top_temples": [
+      { "name": "Chamunda Devi Temple", "deity": "Chamunda Devi", "location_note": "Hilltop Shakti Peeth about 10 km west of Palampur on the banks of the Baner river; major Navratri destination." },
+      { "name": "Bundlamata Temple", "deity": "Goddess Bundla", "location_note": "One of the oldest temples in Palampur, roughly 500 years old." }
+    ]
+  },
+  {
+    "state": "Himachal Pradesh",
+    "town": "Rampur",
+    "type": "town",
+    "top_temples": [
+      { "name": "Raghunath Temple, Rampur Bushahr", "deity": "Rama", "location_note": "Old religious shrine in Rampur town, historic capital of the former princely state of Bushahr." },
+      { "name": "Chandika Temple, Rampur", "deity": "Chandika Devi", "location_note": "Notable temple within Rampur Bushahr town." }
+    ]
+  },
+  {
+    "state": "Himachal Pradesh",
+    "town": "Sarahan (Bhimakali)",
+    "type": "temple town",
+    "top_temples": [
+      { "name": "Bhimakali Temple", "deity": "Bhimakali (a form of Shakti)", "location_note": "A Shakti Peeth and former royal deity temple of the Bushahr rulers, known for its fusion of Hindu and Himalayan pagoda-style architecture." },
+      { "name": "Narsingh Shrine, Bhimakali Temple complex", "deity": "Narsingh (Vishnu's Narasimha form)", "location_note": "Subsidiary shrine within the same Bhimakali temple complex, alongside shrines to Raghunath and Patal Bhairava." }
+    ]
+  },
+  {
+    "state": "Himachal Pradesh",
+    "town": "Shimla",
+    "type": "city",
+    "top_temples": [
+      { "name": "Jakhoo Temple", "deity": "Hanuman", "location_note": "At Shimla's highest point, with a 108-foot Hanuman statue; legend ties it to Hanuman's journey for the Sanjeevni herb." },
+      { "name": "Tara Devi Temple", "deity": "Tara Devi", "location_note": "Hilltop temple in the forested outskirts of Shimla." },
+      { "name": "Kali Bari Temple", "deity": "Kali", "location_note": "Built in 1845 by Bengali devotees near Mall Road." },
+      { "name": "Sankat Mochan Temple", "deity": "Hanuman", "location_note": "Founded in 1950 by Baba Neeb Karori Ji Maharaj." },
+      { "name": "Narvadeshwar Temple", "deity": "Shiva", "location_note": "Over 200 years old, built by Maharani Prasanna Devi; walls painted with scenes from the Ramayana and Mahabharata." }
+    ]
+  },
+  {
+    "state": "Himachal Pradesh",
+    "town": "Solan",
+    "type": "town",
+    "top_temples": [
+      { "name": "Shoolini Mata Temple", "deity": "Shoolini Devi (a Durga incarnation)", "location_note": "Believed roughly 2,000 years old; Solan town is said to be named after this goddess. Hosts the major Shoolini Fair." },
+      { "name": "Jatoli Shiv Temple", "deity": "Shiva", "location_note": "Described as the tallest Shiva temple in Asia, near Solan." }
+    ]
+  }
+]

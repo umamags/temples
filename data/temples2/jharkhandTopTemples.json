@@ -1,0 +1,131 @@
+[
+  {
+    "state": "Jharkhand",
+    "town": "Basukinath",
+    "type": "temple town",
+    "top_temples": [
+      { "name": "Basukinath Temple (Baba Basukinath Dham)", "deity": "Shiva", "location_note": "Basukinath's central shrine in Dumka district; the most famous Shiva temple in Bihar and Jharkhand, twin pilgrimage circuit with Deoghar." },
+      { "name": "Parvati Temple, Basukinath", "deity": "Parvati", "location_note": "Directly facing the main Shiva shrine within the Basukinath temple complex; tradition holds that Shiva and Parvati meet each evening when both temple gates open." }
+    ]
+  },
+  {
+    "state": "Jharkhand",
+    "town": "Bokaro",
+    "type": "city",
+    "top_temples": [
+      { "name": "Jagannath Temple, Bokaro", "deity": "Jagannath", "location_note": "Near Jawaharlal Nehru Biological Park, Bokaro Steel City; a marble-built replica of the Puri Jagannath Temple." },
+      { "name": "Sri Sri Kalika Maharani Temple", "deity": "Kali", "location_note": "Bokaro Steel City; features a 10-ft black stone statue of Kali." },
+      { "name": "Ayyappa Temple, Bokaro", "deity": "Ayyappa, with Shiva, Vishnu, Kartikeya, and Ganesha", "location_note": "Bokaro; founded 1983, built in Bengali architectural style." },
+      { "name": "Ram Mandir, Bokaro", "deity": "Rama", "location_note": "In the heart of Bokaro city, one of its oldest temples, surrounded by a market and smaller shrines." },
+      { "name": "Surya Mandir, Bokaro", "deity": "Surya (Sun god)", "location_note": "Bokaro Steel City." }
+    ]
+  },
+  {
+    "state": "Jharkhand",
+    "town": "Deoghar",
+    "type": "city",
+    "top_temples": [
+      { "name": "Baidyanath Dham (Baba Baidyanath Temple)", "deity": "Shiva", "location_note": "Deoghar's defining shrine; one of the twelve Jyotirlingas and also a Shakti Peetha, among Jharkhand's most significant pilgrimage sites." },
+      { "name": "Naulakha Mandir", "deity": "Radha and Krishna", "location_note": "About 1.5 km from the Baidyanath Temple in Deoghar; 146 ft tall, its construction reportedly cost nine lakh rupees, architecture resembling Belur Math." },
+      { "name": "Taponath Mahadeva Temple, Tapovan", "deity": "Shiva", "location_note": "Tapovan Caves, about 10 km from Deoghar; associated with the legend of sage Valmiki's penance." },
+      { "name": "Nandi Temple, Nandan Pahar", "deity": "Nandi (Shiva's bull)", "location_note": "On a small hill at the edge of Deoghar." },
+      { "name": "Kundeshwari Temple", "deity": "Kundeshwari (Devi)", "location_note": "About 20 km from Deoghar; known for its peaceful surroundings." }
+    ]
+  },
+  {
+    "state": "Jharkhand",
+    "town": "Dhanbad",
+    "type": "city",
+    "top_temples": [
+      { "name": "Shakti Mandir, Dhanbad", "deity": "Durga", "location_note": "Heart of Dhanbad city; houses an akhand jyoti brought from the Jwalaji Temple in Himachal Pradesh." },
+      { "name": "Kalyaneshwari Temple", "deity": "Kalyaneshwari (Kali form)", "location_note": "Adjacent to the Maithon Dam in Dhanbad district; established in the 19th century, over 500 years of devotional history, known as the 'Lady of Fulfilment'." },
+      { "name": "Jagannath Temple, Dhanbad", "deity": "Jagannath", "location_note": "A prominent temple within Dhanbad city." },
+      { "name": "Hari Mandir, Dhanbad", "deity": "Vishnu (Hari)", "location_note": "Dhanbad city; a place of worship and meditation." },
+      { "name": "ISKCON Dhanbad", "deity": "Krishna and Radha", "location_note": "Dhanbad city." }
+    ]
+  },
+  {
+    "state": "Jharkhand",
+    "town": "Giridih",
+    "type": "city",
+    "top_temples": [
+      { "name": "Harihar Dham, Bagodar", "deity": "Shiva", "location_note": "Giridih district; home to one of the tallest Shiva lingas in the world at 65 ft, spread over 25 acres, major Shravan Poornima festival." },
+      { "name": "Jharkhandi Dham", "deity": "Shiva", "location_note": "Near Dhanwar, Giridih district; unusual for its roofless temple structures." },
+      { "name": "Samosharan Temple, Madhuban", "deity": "Jain tirthankaras", "location_note": "Madhuban village, Giridih district; a Jain temple over 2,000 years old, part of the base complex for Parasnath pilgrims." },
+      { "name": "Bhomiyaji Sthan, Madhuban", "deity": "Jain tirthankaras", "location_note": "Madhuban, Giridih district; a well-known Jain shrine distinct from Samosharan Temple." },
+      { "name": "Khandoli Shiv Mandir", "deity": "Shiva", "location_note": "Near Khandoli Dam in Giridih district; a locally popular shrine." }
+    ]
+  },
+  {
+    "state": "Jharkhand",
+    "town": "Hazaribag",
+    "type": "city",
+    "top_temples": [
+      { "name": "Vishnupuri Temple", "deity": "Vishnu", "location_note": "Hazaribag city; one of its prominent temples." },
+      { "name": "Narsinghsthan Temple", "deity": "Narasimha (Vishnu avatar)", "location_note": "Narsinghsthan village, Hazaribag district; noted for architectural beauty." },
+      { "name": "Budhwa Mahadev Mandir, Hazaribag", "deity": "Shiva", "location_note": "In the heart of Hazaribag city; believed to be over 100 years old." },
+      { "name": "Panchmukhi Hanuman Mandir", "deity": "Hanuman (five-faced form)", "location_note": "Hazaribag city." },
+      { "name": "Panch Mandir, Surajkund", "deity": "Multiple deities", "location_note": "Surajkund, Hazaribag district; a well-known temple cluster distinct from the Harihar Dham shrine that lies in neighboring Giridih district." }
+    ]
+  },
+  {
+    "state": "Jharkhand",
+    "town": "Jamshedpur",
+    "type": "city",
+    "top_temples": [
+      { "name": "Bhuvaneshwari Temple", "deity": "Bhuvaneshwari (Devi)", "location_note": "Atop Bhuvaneshwari Hill (about 500 ft), Jamshedpur." },
+      { "name": "Rankini Temple", "deity": "Rankini (local Devi)", "location_note": "Jamshedpur; one of the city's well-known Devi shrines." },
+      { "name": "Surya Mandir, Jamshedpur", "deity": "Surya (Sun god)", "location_note": "Jamshedpur city." },
+      { "name": "Tinplate Kali Mandir", "deity": "Kali", "location_note": "Tinplate area, Jamshedpur; known for its peaceful atmosphere." },
+      { "name": "Golpahari Mandir (Gol Pahari Mandir)", "deity": "Local deity", "location_note": "On a hilltop outside the main city of Jamshedpur, also called Pahari Mandir." }
+    ]
+  },
+  {
+    "state": "Jharkhand",
+    "town": "Koderma",
+    "type": "town",
+    "top_temples": [
+      { "name": "Maa Chanchala Devi Temple (Shaktipeeth)", "deity": "Durga (Chanchala Devi)", "location_note": "Atop Chanchal Hill in Markacho, Koderma district; a major Navratri pilgrimage site." },
+      { "name": "Bhadrakali Temple, Koderma", "deity": "Bhadrakali (Devi)", "location_note": "About 5 km from Koderma Junction; one of the district's most important religious sites." }
+    ]
+  },
+  {
+    "state": "Jharkhand",
+    "town": "Lohardaga",
+    "type": "town",
+    "top_temples": [
+      { "name": "Prachin Shiv Mandir, Khakparta", "deity": "Shiva", "location_note": "On a hill in Khakparta village, about 12 km from Lohardaga; an ASI-protected ancient shrine." },
+      { "name": "Budhwa Mahadev Temple, Lohardaga", "deity": "Shiva", "location_note": "Lohardaga district; believed to be over 500 years old, known for intricate carvings." }
+    ]
+  },
+  {
+    "state": "Jharkhand",
+    "town": "Parasnath",
+    "type": "temple town",
+    "top_temples": [
+      { "name": "Shikharji Temple (Teerthraj Shikharji)", "deity": "Jain tirthankaras (20 of the 24)", "location_note": "Atop Parasnath Hill, Giridih district; the holiest Jain pilgrimage site in the world, built in the 18th century, highest peak in Jharkhand." },
+      { "name": "Bhomiyaji Temple (Taleti)", "deity": "Jain guardian deity (Bhomiyaji)", "location_note": "At the base of Parasnath Hill, marking the start of the pilgrimage ascent to Shikharji." }
+    ]
+  },
+  {
+    "state": "Jharkhand",
+    "town": "Rajrappa",
+    "type": "temple town",
+    "top_temples": [
+      { "name": "Chhinnamasta Temple (Chinnamastika Mandir)", "deity": "Chhinnamasta (Shakti form)", "location_note": "At the confluence of the Bhairavi and Damodar rivers, Rajrappa; one of the most revered Shakti Peethas in eastern India." },
+      { "name": "Kaleshwar Mahadev Temple, Rajrappa", "deity": "Shiva", "location_note": "On the same temple campus as Chhinnamasta Temple in Rajrappa, to its east; one of four Mahadev shrines surrounding the main complex." }
+    ]
+  },
+  {
+    "state": "Jharkhand",
+    "town": "Ranchi",
+    "type": "city",
+    "top_temples": [
+      { "name": "Jagannath Temple, Ranchi", "deity": "Jagannath", "location_note": "Atop a hill about 10 km from Ranchi; built in 1691 by Barkagarh king Thakur Aninath Shahdeo, famous for its Rath Yatra." },
+      { "name": "Pahari Mandir, Ranchi", "deity": "Shiva", "location_note": "On a 2,140-ft hill in Ranchi; major Maha Shivaratri celebrations." },
+      { "name": "Shree Maa Kali Mandir, Ranchi", "deity": "Kali", "location_note": "One of Ranchi's oldest and most famous temples." },
+      { "name": "Sun Temple, Ranchi", "deity": "Surya (Sun god)", "location_note": "About 40 km from Ranchi; a modern temple shaped like a chariot with 18 wheels and seven horses." },
+      { "name": "Shree Shyam Mandir, Ranchi", "deity": "Khatu Shyam (Krishna form)", "location_note": "A well-known temple within Ranchi city." }
+    ]
+  }
+]

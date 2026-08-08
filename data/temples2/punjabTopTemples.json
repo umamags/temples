@@ -1,0 +1,119 @@
+[
+  {
+    "state": "Punjab",
+    "town": "Amritsar",
+    "type": "city",
+    "top_temples": [
+      { "name": "Golden Temple (Sri Harmandir Sahib)", "deity": "Sikh Gurdwara – seat of Sri Guru Granth Sahib", "location_note": "The holiest Sikh shrine in the world, founded in 1574 by Guru Ram Das; upper floor covered in gold, serves a free langar to over 100,000 people daily." },
+      { "name": "Durgiana Temple", "deity": "Durga, Lakshmi, and Vishnu", "location_note": "Hindu temple rebuilt in 1921 with architecture deliberately echoing the Golden Temple; especially vibrant during Navratri and Diwali." },
+      { "name": "Ram Tirath Temple", "deity": "Sage Valmiki (Ramayana-era shrine)", "location_note": "Traditionally the site of Valmiki's ashram, where Sita is said to have taken shelter and given birth to Luv and Kush; hosts a major annual fair." },
+      { "name": "Mata Lal Devi Temple", "deity": "Mata Lal Devi (20th-century saint)", "location_note": "Modeled on the Vaishno Devi shrine, with a mirrored Sheesh Mahal sanctum and a man-made cave passage to the main shrine." },
+      { "name": "ISKCON Temple, Amritsar", "deity": "Krishna and Radha", "location_note": "Amritsar branch of the International Society for Krishna Consciousness." }
+    ]
+  },
+  {
+    "state": "Punjab",
+    "town": "Barnala",
+    "type": "city",
+    "top_temples": [
+      { "name": "Gurdwara Singhwala Sahib", "deity": "Sikh Gurdwara", "location_note": "One of the most visited historic shrines just outside Barnala town." },
+      { "name": "Nanaksar Bahadur Gurudwara", "deity": "Sikh Gurdwara", "location_note": "Large 11-acre complex in Barnala Tehsil, about 25 km from the main city." },
+      { "name": "Gurudwara Sahib Arrisar Patshahi Nouvin", "deity": "Sikh Gurdwara (9th Guru)", "location_note": "Located in Handiaya village, 11 km from Barnala on the Mansa-Barnala Road." },
+      { "name": "Geeta Bhawan", "deity": "Radha and Krishna", "location_note": "Temple in the heart of Barnala city, managed by the Om Sat Sanatan Geeta Bhawan Trust." },
+      { "name": "Kali Mata Mandir", "deity": "Kali", "location_note": "Prominent Devi temple in Barnala." }
+    ]
+  },
+  {
+    "state": "Punjab",
+    "town": "Bathinda",
+    "type": "city",
+    "top_temples": [
+      { "name": "Takht Sri Damdama Sahib", "deity": "Sikh Takht", "location_note": "One of the five Takhts (seats of Sikh temporal authority), in Talwandi Sabo about 28 km from Bathinda; where Guru Gobind Singh prepared the final Sri Guru Granth Sahib in 1705." },
+      { "name": "Gurdwara Haji Rattan Sahib", "deity": "Sikh Gurdwara", "location_note": "Located in the middle of Bathinda city, sharing a complex with the Sufi Mazaar of Peer Haji Rattan, reflecting interfaith harmony." },
+      { "name": "Prachin Durga Mata Mandir", "deity": "Durga", "location_note": "One of the oldest temples in Bathinda city, known for its Shiv Parivar shrine and Shivling." },
+      { "name": "Shri Panchmukhi Balaji Dham", "deity": "Hanuman (Panchmukhi/five-faced form)", "location_note": "Popular Hanuman temple within Bathinda city." },
+      { "name": "Chamunda Devi Ji Temple", "deity": "Chamunda Devi", "location_note": "Well-known Devi temple in Bathinda." }
+    ]
+  },
+  {
+    "state": "Punjab",
+    "town": "Chandigarh",
+    "type": "city",
+    "top_temples": [
+      { "name": "Gurudwara Nada Sahib", "deity": "Sikh Gurdwara", "location_note": "On the banks of the Ghaggar river in Panchkula, about 15 km from Chandigarh; one of the tricity's most important Sikh shrines." },
+      { "name": "Sri Karthikeya Swamy Temple", "deity": "Karthikeya", "location_note": "One of Chandigarh's most notable Hindu temples." },
+      { "name": "Gurdwara Sri Amb Sahib (Patshahi Satvi)", "deity": "Sikh Gurdwara", "location_note": "Built around the mango tree where a devotee blessed by Guru Har Rai meditated." },
+      { "name": "Chandi Mandir", "deity": "Chandi Devi", "location_note": "On the Chandigarh-Kalka road; the temple after which Chandigarh is popularly said to be named." },
+      { "name": "Gurdwara Singh Sabha", "deity": "Sikh Gurdwara", "location_note": "Known for its golden-and-white exterior, illuminated at night." }
+    ]
+  },
+  {
+    "state": "Punjab",
+    "town": "Hoshiarpur",
+    "type": "city",
+    "top_temples": [
+      { "name": "Gurudwara Harisar Sahib", "deity": "Sikh Gurdwara", "location_note": "Seven-story structure in Kot Fatuhi village, described as the tallest gurdwara in India." },
+      { "name": "Gurudwara Harian Vellan Patshahi VII", "deity": "Sikh Gurdwara (7th Guru, Har Rai)", "location_note": "Located in Bajrour village near Hoshiarpur." },
+      { "name": "Gurudwara Garna Sahib", "deity": "Sikh Gurdwara (7th Guru, Har Rai)", "location_note": "In Garhdiwala village, with a large prayer hall and sarovar." },
+      { "name": "Kamahi Devi Temple", "deity": "Kamakshi Devi", "location_note": "In Beh Nangal, believed to have been built by the Pandavas; one of Hoshiarpur's most famous temples." },
+      { "name": "Gagan Ji Ka Tilla", "deity": "Shiva", "location_note": "Ancient hilltop Shiv Mandir near Dasuya, reached via roughly 750 stairs." }
+    ]
+  },
+  {
+    "state": "Punjab",
+    "town": "Jalandhar",
+    "type": "city",
+    "top_temples": [
+      { "name": "Devi Talab Mandir", "deity": "Durga", "location_note": "Nearly 200 years old, in the heart of Jalandhar; one of the 51 Shakti Peethas, with the shrine sited in the middle of a sacred pond." },
+      { "name": "Sodal Mandir", "deity": "Baba Sodal (local child deity)", "location_note": "Located on Sodal Road near Devi Talab Mandir." },
+      { "name": "Tulsi Mandir", "deity": "Vishnu/Tulsi devotion", "location_note": "One of Jalandhar's well-known Hindu temples." },
+      { "name": "Gurudwara Talhan Sahib Ji", "deity": "Sikh Gurdwara", "location_note": "Major Sikh shrine in Talhan village near Jalandhar." },
+      { "name": "Gurdwara Chhevin Padshahi", "deity": "Sikh Gurdwara (6th Guru)", "location_note": "In Basti Sheikh, marking a historic meeting between the Guru and a Muslim saint." }
+    ]
+  },
+  {
+    "state": "Punjab",
+    "town": "Ludhiana",
+    "type": "city",
+    "top_temples": [
+      { "name": "Gurudwara Dukh Niwaran Sahib", "deity": "Sikh Gurdwara", "location_note": "In the Field Ganj area; associated with a legend of Guru Nanak Dev curing a leper king." },
+      { "name": "Gurdwara Sri Manji Sahib (Alamgir Sahib)", "deity": "Sikh Gurdwara", "location_note": "In Alamgir village, where Guru Gobind Singh is said to have created a spring (Tirsar) with an arrow." },
+      { "name": "Gurudwara Nanaksar Sahib", "deity": "Sikh Gurdwara", "location_note": "On the Ludhiana-Malerkotla Road, dedicated to Guru Nanak Dev." },
+      { "name": "Sheeshe Wala Gurudwara", "deity": "Sikh Gurdwara", "location_note": "Notable for its architecture built entirely of glass." },
+      { "name": "Shri Krishna Mandir", "deity": "Krishna", "location_note": "One of Ludhiana's prominent Hindu temples." }
+    ]
+  },
+  {
+    "state": "Punjab",
+    "town": "Moga",
+    "type": "city",
+    "top_temples": [
+      { "name": "Gurudwara Nanaksar Sahib, Takhtupura", "deity": "Sikh Gurdwara", "location_note": "Sanctified by visits from Guru Nanak Dev, Guru Hargobind Singh, and Guru Gobind Singh." },
+      { "name": "Gurudwara Sahib Patsahi Pehli", "deity": "Sikh Gurdwara (1st Guru, Nanak)", "location_note": "Six-story building with a large marble-floored hall, commemorating Guru Nanak Dev's visit." },
+      { "name": "Gurudwara Bhatta Sahib", "deity": "Sikh Gurdwara", "location_note": "Significant Sikh shrine in Moga drawing devotees region-wide." },
+      { "name": "Shri Sanatam Dharam Hari Mandir", "deity": "Vishnu (Hari)", "location_note": "Historic pilgrimage temple in Moga, especially busy on Tuesdays." },
+      { "name": "Geeta Bhawan", "deity": "Krishna/Gita teachings", "location_note": "Temple located south of Moga city." }
+    ]
+  },
+  {
+    "state": "Punjab",
+    "town": "Patiala",
+    "type": "city",
+    "top_temples": [
+      { "name": "Gurudwara Dukhnivaran Sahib", "deity": "Sikh Gurdwara", "location_note": "Spread across seven acres; devotees visit believing it alleviates grief." },
+      { "name": "Kali Devi Temple", "deity": "Kali/Durga", "location_note": "Built by the royal family of Patiala as a dedicated Hindu place of worship." },
+      { "name": "Gurudwara Shri Khichri Sahib", "deity": "Sikh Gurdwara (6th Guru, Hargobind)", "location_note": "Located in Balbera village near Patiala." },
+      { "name": "Gurudwara at Karhali", "deity": "Sikh Gurdwara (6th Guru, Hargobind)", "location_note": "In Karhali village, associated with Guru Hargobind Singh Ji." },
+      { "name": "Gurudwara at Chitanwala", "deity": "Sikh Gurdwara (1st Guru, Nanak)", "location_note": "In Nabha tehsil, marking Guru Nanak Dev's visit to Bhai Chanan Mal Ji." }
+    ]
+  },
+  {
+    "state": "Punjab",
+    "town": "Anandpur Sahib",
+    "type": "temple town",
+    "top_temples": [
+      { "name": "Takht Sri Kesgarh Sahib", "deity": "Sikh Takht – birthplace of the Khalsa", "location_note": "One of the five Takhts of Sikhism; founded 1689, site where Guru Gobind Singh created the Khalsa Panth on Baisakhi 1699. Houses relics including a sword of Guru Gobind Singh." },
+      { "name": "Gurdwara Qila Anandgarh Sahib", "deity": "Sikh Gurdwara/fort", "location_note": "One of the historic forts built by Guru Gobind Singh within Anandpur Sahib, distinct from Takht Sri Kesgarh Sahib." }
+    ]
+  }
+]

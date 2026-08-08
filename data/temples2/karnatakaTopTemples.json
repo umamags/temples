@@ -1,0 +1,215 @@
+[
+  {
+    "state": "Karnataka",
+    "town": "Belgaum",
+    "type": "city",
+    "top_temples": [
+      { "name": "Kapileshwar Temple", "deity": "Shiva", "location_note": "Ancient Shiva shrine in Belgaum, known as 'Kashi of the South'; inscriptions near Kamal Basti date it to around 1000 AD." },
+      { "name": "Military Mahadev Temple", "deity": "Shiva", "location_note": "On Camp Road, Belgaum; built and maintained by the Indian Army, one of the city's oldest temples." },
+      { "name": "Kalameshwar Temple", "deity": "Shiva", "location_note": "Located in Old Belgaum, draws devotees despite being outside the main city area." },
+      { "name": "Hooli Panchalingeshwara Temple", "deity": "Shiva (five lingas)", "location_note": "In Belgaum district; Chalukya-era temple protected by the Archaeological Survey of India." },
+      { "name": "Saundatti Yellamma Temple", "deity": "Yellamma (Renuka)", "location_note": "In Saundatti, about 78 km from Belgaum city; one of Karnataka's most visited Devi shrines." }
+    ]
+  },
+  {
+    "state": "Karnataka",
+    "town": "Bengaluru",
+    "type": "city",
+    "top_temples": [
+      { "name": "ISKCON Bangalore (Sri Radha Krishna Chandra Temple)", "deity": "Krishna and Radha", "location_note": "Rajajinagar, North Bengaluru; considered the largest ISKCON temple in Karnataka." },
+      { "name": "Dodda Basavana Gudi (Bull Temple)", "deity": "Nandi (Shiva's bull)", "location_note": "South Bengaluru; built 1537 by Kempe Gowda, houses one of the largest Nandi monoliths in the world." },
+      { "name": "Gavi Gangadhareshwara Temple", "deity": "Shiva", "location_note": "Built into a natural cave by Kempe Gowda I in the 16th century, in Gavipuram." },
+      { "name": "Chokkanathaswamy Temple", "deity": "Vishnu", "location_note": "Domlur, near the airport; 10th-century Chola-era structure, one of the city's oldest temples." },
+      { "name": "Sri Someshwara Temple", "deity": "Shiva", "location_note": "Ulsoor; originally Chola-built, later renovated by the Vijayanagara Empire." }
+    ]
+  },
+  {
+    "state": "Karnataka",
+    "town": "Chitradurga",
+    "type": "city",
+    "top_temples": [
+      { "name": "Adumalleshwara Temple", "deity": "Shiva", "location_note": "About 5 km from Chitradurga; cave temple in a natural rocky cavern with the Nandi Teertha spring." },
+      { "name": "Hidimbeshwara Temple", "deity": "Shiva", "location_note": "On hilltops above Chitradurga town; Chalukya-era construction with Hoysala-style carvings." },
+      { "name": "Nayakanahatti Thipperudraswamy Temple", "deity": "Thipperudraswamy (Shiva form)", "location_note": "About 35 km from Chitradurga; honors sage Thipperudraswamy, major annual Phalguna festival." },
+      { "name": "Holalkere Ganesha Temple", "deity": "Ganesha", "location_note": "In Holalkere taluk of Chitradurga district; established in 1475 CE by a local Palegar chieftain." },
+      { "name": "Halu Rameshwara Temple", "deity": "Shiva", "location_note": "In Hosadurga taluk of Chitradurga district; associated with Lord Rama's worship of Shiva." }
+    ]
+  },
+  {
+    "state": "Karnataka",
+    "town": "Davangere",
+    "type": "city",
+    "top_temples": [
+      { "name": "Sri Anjaneya Swamy Temple", "deity": "Hanuman", "location_note": "Shamanur village, Davangere district; ancient temple believed to be about 800 years old." },
+      { "name": "Bagali Kalleshwara Temple", "deity": "Shiva", "location_note": "Near Harpanahalli, Davangere district; 9th-century Chalukyan temple with a carved Ugra Narasimha statue." },
+      { "name": "Shri Durgambika Temple", "deity": "Durga", "location_note": "Davangere city; current structure built in 1932, idol brought from Dugatti village." },
+      { "name": "Eshwara Temple", "deity": "Shiva", "location_note": "Davangere district; noted for Hoysala-style architecture and Gajalakshmi carvings." },
+      { "name": "Harihareshwara Temple", "deity": "Shiva-Vishnu combined form", "location_note": "In nearby Harihar town on the Tungabhadra river, part of Davangere district." }
+    ]
+  },
+  {
+    "state": "Karnataka",
+    "town": "Dharmasthala",
+    "type": "temple town",
+    "top_temples": [
+      { "name": "Sri Manjunatha Swamy Temple", "deity": "Shiva (Manjunatha)", "location_note": "The town's central shrine; a major multi-faith pilgrimage site administered under a unique Jain-Hindu tradition." },
+      { "name": "Bahubali (Gommateshwara) Statue Shrine", "deity": "Bahubali (Jain tirthankara devotee)", "location_note": "39-ft monolithic statue erected in 1980 on a hill within the Dharmasthala temple complex, reflecting its Jain heritage; treated here as a subsidiary shrine of the same complex rather than a fully separate temple." }
+    ]
+  },
+  {
+    "state": "Karnataka",
+    "town": "Gokarna",
+    "type": "temple town",
+    "top_temples": [
+      { "name": "Mahabaleshwar Temple", "deity": "Shiva (Atmalinga)", "location_note": "Founded by Kadamba king Mayurasharma in the 4th century; often called 'Dakshina Kashi', second in sanctity only to Varanasi's Kashi Vishwanath." },
+      { "name": "Maha Ganapati Temple", "deity": "Ganesha", "location_note": "Located near the Mahabaleshwar Temple; tradition holds devotees should seek Ganesha's blessing before visiting Mahabaleshwar." }
+    ]
+  },
+  {
+    "state": "Karnataka",
+    "town": "Halebidu",
+    "type": "temple town",
+    "top_temples": [
+      { "name": "Hoysaleswara Temple", "deity": "Shiva", "location_note": "12th-century Hoysala masterpiece with twin shrines and about a thousand carved wall figures; UNESCO World Heritage Site." },
+      { "name": "Kedareshwara Temple", "deity": "Shiva", "location_note": "Trikutachala-style temple built in 1219 by Hoysala king Ballala II and queen Abhinava Ketala Devi, near Hoysaleswara." }
+    ]
+  },
+  {
+    "state": "Karnataka",
+    "town": "Hampi",
+    "type": "temple town",
+    "top_temples": [
+      { "name": "Virupaksha Temple", "deity": "Shiva (Virupaksha)", "location_note": "Dates to the 7th century; one of the oldest continuously functioning temples in India, UNESCO World Heritage Site." },
+      { "name": "Vittala Temple", "deity": "Vishnu (Vittala)", "location_note": "Famed for its stone chariot and musical pillars; a centerpiece of the Hampi UNESCO complex." }
+    ]
+  },
+  {
+    "state": "Karnataka",
+    "town": "Hubli",
+    "type": "city",
+    "top_temples": [
+      { "name": "Chandramouleshwara Temple", "deity": "Shiva", "location_note": "About 700 years old, in the Hubli-Dharwad twin city, noted for its hybrid architectural style." },
+      { "name": "Siddharoodha Math", "deity": "Guru shrine (Sri Siddharoodha Swamiji)", "location_note": "Hubli; samadhi shrine of the revered saint Siddharoodha Swamiji, an active pilgrimage math." },
+      { "name": "Nuggikeri Hanumantha Temple", "deity": "Hanuman", "location_note": "One of the region's most popular shrines, drawing large crowds on Saturdays and Hanuman Jayanti." },
+      { "name": "Trinetra Shri Lakshmi Narasimha Temple", "deity": "Narasimha and Lakshmi", "location_note": "Gokul Road area of Hubli; a relatively modern temple." },
+      { "name": "ISKCON Sri Krishna Balarama Temple", "deity": "Krishna and Balarama", "location_note": "Hubli; known for its serene grounds and Vaishnava teaching activities." }
+    ]
+  },
+  {
+    "state": "Karnataka",
+    "town": "Kolar",
+    "type": "city",
+    "top_temples": [
+      { "name": "Kotilingeshwara Temple", "deity": "Shiva", "location_note": "Kammasandra village, Kolar district; houses a 108-foot monolithic granite Shiva linga, among the tallest in Asia, established 1980." },
+      { "name": "Kolaramma Temple", "deity": "Durga (as Kolaramma)", "location_note": "Kolar town; built by the Gangas and renovated by the Cholas, classic Dravidian style." },
+      { "name": "Someshwara Temple", "deity": "Shiva", "location_note": "About 60 km from Kolar; 14th-century temple recognized as a protected national monument." },
+      { "name": "Sri Kashi Vishweshwara Temple (Antaragange)", "deity": "Shiva", "location_note": "At the base of Antaragange hill near Kolar; features a natural spring flowing from a stone Nandi's mouth." },
+      { "name": "Venkataramana Temple", "deity": "Venkateswara (Vishnu)", "location_note": "Guttahalli village, about 29 km from Kolar; modeled on the Tirupati Venkateswara temple." }
+    ]
+  },
+  {
+    "state": "Karnataka",
+    "town": "Kollur",
+    "type": "temple town",
+    "top_temples": [
+      { "name": "Sri Mookambika Temple", "deity": "Devi (Mookambika, form of Durga/Parvati)", "location_note": "In the Western Ghat foothills; one of the seven Mukti Kshetras, associated with Adi Shankaracharya who is said to have consecrated the idol." },
+      { "name": "Ganapathi Sub-shrine, Mookambika Temple Complex", "deity": "Ganesha", "location_note": "A subsidiary shrine within the Mookambika temple complex (alongside other sub-shrines to Shiva, Vishnu, Subrahmanya and Naga deities); noted here as no separate standalone major temple exists in Kollur town besides Mookambika itself." }
+    ]
+  },
+  {
+    "state": "Karnataka",
+    "town": "Kukke Subramanya",
+    "type": "temple town",
+    "top_temples": [
+      { "name": "Kukke Sri Subrahmanya Temple", "deity": "Subrahmanya (Kartikeya, as serpent deity)", "location_note": "On the banks of the Kumaradhara river; one of Karnataka's most visited pilgrimage temples, famed for Naga Pratishtha and Sarpa Samskara rituals." },
+      { "name": "Adi Subrahmanya Temple", "deity": "Subrahmanya (in serpent form, Vasuki and Adishesha)", "location_note": "Located immediately next to the main Kukke Subrahmanya Temple; site of two sacred anthills." }
+    ]
+  },
+  {
+    "state": "Karnataka",
+    "town": "Mangalore",
+    "type": "city",
+    "top_temples": [
+      { "name": "Kadri Manjunatheshwara Temple", "deity": "Shiva (Manjunatha)", "location_note": "Among the oldest temples in South India, dating to the 10th-11th century; houses a bronze Lokeshwara idol." },
+      { "name": "Kudroli Gokarnanatheshwara Temple", "deity": "Shiva", "location_note": "Founded 1912, remodeled in 1991 in Chola gopuram style; one of Mangalore's most-visited temples." },
+      { "name": "Mangaladevi Temple", "deity": "Mangaladevi (Durga form)", "location_note": "Bolara, about 3 km southwest of city centre; the temple after which Mangalore is named." },
+      { "name": "Sharavu Mahaganapathi Temple", "deity": "Ganesha", "location_note": "Central Mangalore; one of the city's most well-known pilgrimage stops." },
+      { "name": "Kateel Durga Parameshwari Temple", "deity": "Durga", "location_note": "On an islet in the Nandini river near Mangalore; noted for its riverine setting." }
+    ]
+  },
+  {
+    "state": "Karnataka",
+    "town": "Melkote",
+    "type": "temple town",
+    "top_temples": [
+      { "name": "Cheluvanarayana Swamy Temple", "deity": "Vishnu (Cheluvanarayana)", "location_note": "Melkote's principal shrine; closely associated with the Vaishnava saint Ramanujacharya, a major pilgrimage centre in Mandya district." },
+      { "name": "Yoganarasimha Swamy Temple", "deity": "Narasimha (Vishnu avatar)", "location_note": "Atop Yoga Narasimha hill in Melkote; 12th-century Hoysala-period temple with intricate carvings." }
+    ]
+  },
+  {
+    "state": "Karnataka",
+    "town": "Murudeshwar",
+    "type": "temple town",
+    "top_temples": [
+      { "name": "Murudeshwara Temple", "deity": "Shiva", "location_note": "On Kanduka Giri hill overlooking the Arabian Sea; features one of the world's tallest Shiva statues (123 ft) and a tall gopura." },
+      { "name": "Ganapathi and Subramaniyar Sub-shrines, Murudeshwara Temple Complex", "deity": "Ganesha and Subrahmanya", "location_note": "Subsidiary shrines within the same Murudeshwara temple complex; used here as the town's second temple entry since no separate major standalone temple exists within Murudeshwar itself." }
+    ]
+  },
+  {
+    "state": "Karnataka",
+    "town": "Mysore",
+    "type": "city",
+    "top_temples": [
+      { "name": "Chamundeshwari Temple", "deity": "Chamundeshwari (Durga form)", "location_note": "Atop Chamundi Hill, Mysore; one of the 18 Mahashakti Peethas, reached via a 1,000-step climb." },
+      { "name": "Chennakesava Temple, Somanathapura", "deity": "Vishnu (Chennakesava)", "location_note": "On the Kaveri river near Mysore; celebrated Hoysala-era temple with detailed narrative carvings." },
+      { "name": "Someswara Temple", "deity": "Shiva, Somasundari, Narayana", "location_note": "Just north of Mysore Palace; built by the Wodeyars in the 13th century, has three shrines." },
+      { "name": "Sri Bhuvaneshwari Temple", "deity": "Bhuvaneshwari (Devi)", "location_note": "Within the Mysore Palace complex; dedicated to the goddess as creator of the universe." },
+      { "name": "Mallikarjuna Temple", "deity": "Shiva (Mallikarjuna) and Brahmarambigai", "location_note": "Mysore; ancient temple known for its architecture and historical significance." }
+    ]
+  },
+  {
+    "state": "Karnataka",
+    "town": "Shimoga",
+    "type": "city",
+    "top_temples": [
+      { "name": "Kedareshvara Temple, Balligavi", "deity": "Shiva", "location_note": "Near Shikaripura, about an hour from Shimoga; 11th-century Chalukya temple with 12th-century Hoysala additions." },
+      { "name": "Aghoreshvara Temple, Ikkeri", "deity": "Shiva", "location_note": "About 30 minutes from Shimoga; 16th-century temple, a major Keladi Nayaka-era monument." },
+      { "name": "Rameshwara Temple, Keladi", "deity": "Shiva (Rama's Ishwara)", "location_note": "Near Ikkeri, about 30 minutes from Shimoga; 16th-century temple tied to the historic Keladi kingdom." },
+      { "name": "Shiva Temple, Shimoga", "deity": "Shiva", "location_note": "Within Shimoga city; known for its architecture and quiet setting." },
+      { "name": "Sigandur Chowdeshwari Temple", "deity": "Chowdeshwari (Devi)", "location_note": "On the banks of the Sharavathi backwaters, Shimoga district; draws large daily crowds of pilgrims." }
+    ]
+  },
+  {
+    "state": "Karnataka",
+    "town": "Sringeri",
+    "type": "temple town",
+    "top_temples": [
+      { "name": "Sringeri Sharada Peetham (Sharadamba Temple)", "deity": "Sharada (Saraswati)", "location_note": "Seat established by Adi Shankaracharya; one of the four cardinal mathas of Advaita Vedanta, on the Tunga river." },
+      { "name": "Vidyashankara Temple", "deity": "Shiva (as Vidyashankara)", "location_note": "14th-century temple in Sringeri known for its Vijayanagara-style architecture and 12 zodiac pillars." }
+    ]
+  },
+  {
+    "state": "Karnataka",
+    "town": "Tumkur",
+    "type": "city",
+    "top_temples": [
+      { "name": "Goravanahalli Mahalakshmi Temple", "deity": "Mahalakshmi", "location_note": "Koratagere taluk, about 30 km from Tumkur; idol regarded as self-manifested (swayambhu), draws large crowds statewide." },
+      { "name": "Kalleshwara Temple", "deity": "Shiva", "location_note": "Built in the 9th century by the Nolamba Dynasty, Tumkur district." },
+      { "name": "Siddhalingeshwara Temple, Yediyur", "deity": "Shiva", "location_note": "Yediyur, Tumkur district; well-known pilgrim site with an associated natural spring, Siddhaganga." },
+      { "name": "Chennakeshava Temple, Kaidala", "deity": "Vishnu (Chennakeshava)", "location_note": "Kaidala, Tumkur district; blends Vijayanagara and Hoysala architectural styles." },
+      { "name": "Sri Lakshmi Narasimha Temple", "deity": "Narasimha (Vishnu avatar)", "location_note": "Tumkur; built by Kanthirava Narasaraja I, later renovated by Mysore king Krishnaraja Wodeyar III in 1858." }
+    ]
+  },
+  {
+    "state": "Karnataka",
+    "town": "Udupi",
+    "type": "city",
+    "top_temples": [
+      { "name": "Sri Krishna Matha", "deity": "Krishna", "location_note": "Udupi's defining shrine, founded by the philosopher-saint Madhvacharya; famous for its Kanakana Kindi window ritual." },
+      { "name": "Anantheshwara Temple", "deity": "Shiva", "location_note": "Adjacent to Sri Krishna Matha; over 1,000 years old, Chalukyan-style architecture, linked to the Alupa dynasty." },
+      { "name": "Chandramouleshwara Temple", "deity": "Shiva", "location_note": "Near Anantheshwara Temple in Udupi; legend ties it to the Moon God's worship of Shiva here." },
+      { "name": "Anegudde Vinayaka Temple", "deity": "Ganesha", "location_note": "Kumbhashi, about 25 km from Udupi; popular Ganesha shrine on the route between Udupi and Murudeshwar." },
+      { "name": "Shri Vishweshwara Temple, Yellur", "deity": "Shiva", "location_note": "Yellur village, Udupi district; over 1,000 years old, mentioned in historical rock inscriptions." }
+    ]
+  }
+]

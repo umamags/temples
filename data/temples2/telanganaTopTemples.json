@@ -1,0 +1,143 @@
+[
+  {
+    "state": "Telangana",
+    "town": "Basara",
+    "type": "temple town",
+    "top_temples": [
+      { "name": "Sri Gnana Saraswathi Temple", "deity": "Saraswati", "location_note": "On the banks of the Godavari river in Basara; one of only two major Saraswati temples in India, renowned for the Aksharabhyasa (initiation into learning) ritual." },
+      { "name": "Pathaleshwara Temple", "deity": "Shiva", "location_note": "Near the Saraswati temple in Basara; contains a notable 1147 CE inscription recording the installation of a deity by Nagaladevi." }
+    ]
+  },
+  {
+    "state": "Telangana",
+    "town": "Bhadrachalam",
+    "type": "temple town",
+    "top_temples": [
+      { "name": "Sri Sita Ramachandra Swamy Temple", "deity": "Rama, Sita, and Lakshmana", "location_note": "Bhadrachalam's central shrine, on the banks of the Godavari; built in the 17th century by devotee Kancherla Gopanna (Bhakta Ramadasu), called the 'Ayodhya of the South'." },
+      { "name": "Subramanya Swamy Temple", "deity": "Subrahmanya (Kartikeya)", "location_note": "In the heart of Bhadrachalam town, also on the banks of the Godavari, distinct from the main Rama temple." }
+    ]
+  },
+  {
+    "state": "Telangana",
+    "town": "Hyderabad",
+    "type": "city",
+    "top_temples": [
+      { "name": "Birla Mandir", "deity": "Venkateswara (Vishnu)", "location_note": "Atop Naubath Pahad, a 280-ft hill in Hyderabad; built in 1976, one of the city's most iconic landmarks." },
+      { "name": "Chilkur Balaji Temple", "deity": "Venkateswara (Balaji)", "location_note": "Hyderabad; known as 'Visa Balaji' since devotees pray here for visa approvals." },
+      { "name": "Karmanghat Hanuman Temple", "deity": "Hanuman", "location_note": "Hyderabad; built in the 12th century by Kakatiya King Prataparudra, regarded as a 'Sankat Mochana' shrine." },
+      { "name": "Peddamma Temple", "deity": "Peddamma (Devi)", "location_note": "Hyderabad; a popular Devi shrine blending traditional and modern architecture." },
+      { "name": "Jagannath Temple, Banjara Hills", "deity": "Jagannath", "location_note": "Banjara Hills, Hyderabad; built by the Odiya community." }
+    ]
+  },
+  {
+    "state": "Telangana",
+    "town": "Karimnagar",
+    "type": "city",
+    "top_temples": [
+      { "name": "Kondagattu Anjaneya Swamy Temple", "deity": "Hanuman", "location_note": "Kondagattu village, Karimnagar district; hillock shrine believed to have healing powers." },
+      { "name": "Kaleshwaram Mukteswara Swamy Temple", "deity": "Shiva (two lingas on a single pedestal)", "location_note": "Kaleshwaram, near the Godavari-Pranahita confluence in the wider Karimnagar region; unique for its dual Shiva lingas." },
+      { "name": "Sri Lakshmi Narasimha Swamy Temple", "deity": "Narasimha (Vishnu avatar)", "location_note": "Karimnagar district; features two primary idols known as Kottha Narasimha Swamy and Pata Narasimha Swamy." },
+      { "name": "Bhimeswara Temple", "deity": "Shiva (Bhimeswara)", "location_note": "Karimnagar district; 9th-century temple built under Shaiva influence." },
+      { "name": "Veera Hanuman Temple", "deity": "Hanuman", "location_note": "Karimnagar district; a locally prominent Hanuman shrine." }
+    ]
+  },
+  {
+    "state": "Telangana",
+    "town": "Khammam",
+    "type": "city",
+    "top_temples": [
+      { "name": "Sri Venkateswara Swamy Temple, Jamalapuram", "deity": "Venkateswara (Vishnu)", "location_note": "About 80 km from Khammam town; known as 'Chinna Tirupati', major Brahmotsavam festival." },
+      { "name": "Sri Bhadrakali Sametha Veerabhadra Swamy Temple, Kallur", "deity": "Bhadrakali and Veerabhadra", "location_note": "About 25 km from Khammam town; one of the oldest temples in the district." },
+      { "name": "Sri Lakshmi Narasimha Swamy Temple, Khammam Fort", "deity": "Narasimha (Vishnu avatar)", "location_note": "Within the historic Khammam Fort in Khammam city." },
+      { "name": "Sri Ganapeshwaralayam, Kusumanchi", "deity": "Shiva", "location_note": "Kusumanchi, Khammam district; built by Kakatiya rulers in the 12th-13th centuries, houses one of the largest Shivalingas in the state." },
+      { "name": "Lord Venu Gopala Swami Temple, Kallur", "deity": "Krishna (Venu Gopala)", "location_note": "Kallur, Khammam district; built about 400 years ago by Rani Rudramma Devi, a rare Telangana temple depicting Krishna as a cowherd." }
+    ]
+  },
+  {
+    "state": "Telangana",
+    "town": "Mahbubnagar",
+    "type": "city",
+    "top_temples": [
+      { "name": "Jogulamba Temple, Alampur", "deity": "Jogulamba (Shakti form)", "location_note": "Alampur, Mahbubnagar district, on the banks of the Tungabhadra; one of the 18 Shakti Peethas, part of the 7th-century Navabrahma temple complex." },
+      { "name": "Sri Ranganayaka Swamy Temple, Srirangapur", "deity": "Vishnu (Ranganayaka)", "location_note": "Srirangapur, Mahbubnagar district; built by Krishnadevaraya, inspired by the Srirangam Ranganatha temple." },
+      { "name": "Madana Gopala Swamy Temple, Jatprole", "deity": "Krishna (Madana Gopala)", "location_note": "Jatprole, Mahbubnagar district; historically known as Jatayuvu Kshetra." },
+      { "name": "Beechupalli Anjaneya Swamy Temple", "deity": "Hanuman", "location_note": "Alampur Mandal, Mahbubnagar district, near the Krishna-Tungabhadra confluence; 16th-century idol." },
+      { "name": "Umamaheshwaram Temple", "deity": "Shiva and Uma", "location_note": "Deep within the Nallamalai forests, Mahbubnagar district; a popular medieval-era shrine." }
+    ]
+  },
+  {
+    "state": "Telangana",
+    "town": "Nizamabad",
+    "type": "city",
+    "top_temples": [
+      { "name": "Sarangapoor Hanuman Temple", "deity": "Hanuman", "location_note": "Nizamabad; one of the town's oldest and most famous shrines." },
+      { "name": "Kanteshwar Temple", "deity": "Neelakanteshwar (Shiva)", "location_note": "Nizamabad town; noted for its architecture and serene setting." },
+      { "name": "Uttara Tirupati Kshetram", "deity": "Venkateswara (Vishnu)", "location_note": "Nizamabad; one of the oldest and most popular temples in the twin-city locality." },
+      { "name": "Sri Lakshmi Narasimha Swamy Temple, Jankampet", "deity": "Narasimha (Vishnu avatar)", "location_note": "Jankampet, Nizamabad district." },
+      { "name": "Dichpally Ramalayam", "deity": "Rama", "location_note": "About 20 km from Nizamabad; 14th-century temple built by the Kakatiya kings, notable architecture." }
+    ]
+  },
+  {
+    "state": "Telangana",
+    "town": "Ramagundam",
+    "type": "city",
+    "top_temples": [
+      { "name": "Kaleshwara Mukteswara Swamy Temple", "deity": "Shiva", "location_note": "At the confluence of the Godavari and Pranahita rivers, near Ramagundam; a well-known regional shrine reachable from Ramagundam Railway Station." },
+      { "name": "Gudem Gutta Sri Lakshmi Narasimha Swamy Temple", "deity": "Narasimha (Vishnu avatar)", "location_note": "Near Ramagundam; a locally popular pilgrimage stop." },
+      { "name": "Manthani Gauthameswara Temple", "deity": "Shiva (Gauthameswara)", "location_note": "Manthani, about 40 km from Ramagundam; an ancient centre of Vedic learning." },
+      { "name": "Ramagundam Ganesh Temple", "deity": "Ganesha", "location_note": "TTS Township, Ramagundam." },
+      { "name": "Jagannath Temple, NTPC Township", "deity": "Jagannath", "location_note": "NTPC Township, Ramagundam." }
+    ]
+  },
+  {
+    "state": "Telangana",
+    "town": "Sangareddy",
+    "type": "town",
+    "top_temples": [
+      { "name": "Sri Ketaki Sangameshwara Swamy Temple, Jharasangam", "deity": "Shiva", "location_note": "Jharasangam, about 16 km from Zaheerabad in Sangareddy district; known as 'Dakshina Kashi'." },
+      { "name": "Sri Ramalingeswara Swamy Temple, Nandikandi", "deity": "Shiva", "location_note": "Nandikandi, near Sangareddy; built about 1,000 years ago by the Chalukyas, a protected monument." }
+    ]
+  },
+  {
+    "state": "Telangana",
+    "town": "Secunderabad",
+    "type": "city",
+    "top_temples": [
+      { "name": "Sri Ujjaini Mahakali Temple", "deity": "Mahakali", "location_note": "Secunderabad, near the railway station; about 190 years old, one of the city's most visited Devi shrines." },
+      { "name": "Sri Ganesh Temple", "deity": "Ganesha", "location_note": "Secunderabad; established about 200 years ago after soldiers of the Madras Regiment discovered a Ganesha idol while digging a well." },
+      { "name": "Peddamma Temple, Secunderabad", "deity": "Peddamma (Lakshmi form)", "location_note": "One of Secunderabad's oldest temples, over 150 years old." },
+      { "name": "Nagamma Temple", "deity": "Nagamma (snake deity)", "location_note": "Secunderabad; one of its oldest and most revered shrines." },
+      { "name": "Sri Subrahmanya Swamy Temple, Skandagiri", "deity": "Subrahmanya (Kartikeya)", "location_note": "Padmarao Nagar, Secunderabad; run by the Kanchi Kamakoti Peetam." }
+    ]
+  },
+  {
+    "state": "Telangana",
+    "town": "Vemulawada",
+    "type": "temple town",
+    "top_temples": [
+      { "name": "Sri Raja Rajeshwara Swamy Temple", "deity": "Shiva (Rajarajeshwara)", "location_note": "Vemulawada's central shrine; built by a Kalyani Chalukya governor between the 11th-12th centuries." },
+      { "name": "Sri Baddi Pochamma Temple", "deity": "Pochamma (Devi)", "location_note": "About 1.5 km from Vemulawada bus stand, close to the main Rajarajeshwara temple; built by Rashtrakuta king Baddiga Bhupathi." }
+    ]
+  },
+  {
+    "state": "Telangana",
+    "town": "Warangal",
+    "type": "city",
+    "top_temples": [
+      { "name": "Thousand Pillar Temple", "deity": "Shiva, Vishnu, and Surya", "location_note": "Hanamkonda, Warangal; Kakatiya-era architectural marvel with intricate stone carvings." },
+      { "name": "Sri Bhadrakali Temple", "deity": "Bhadrakali (Devi)", "location_note": "Within Warangal Fort; a fierce Devi shrine with panoramic views." },
+      { "name": "Kakatiya Rudreshwara (Ramappa) Temple", "deity": "Shiva", "location_note": "Palampet, near Warangal; UNESCO World Heritage Site, the only Indian temple named after its sculptor, Ramappa." },
+      { "name": "Padmakshi Temple (Padmakshi Gutta)", "deity": "Padmavati (Jain goddess)", "location_note": "Hilltop in Hanamkonda, Warangal; originally built during the Kakatiya period." },
+      { "name": "Narasimha Swamy Temple, Warangal", "deity": "Narasimha (Vishnu avatar)", "location_note": "A popular and historic temple within Warangal city." }
+    ]
+  },
+  {
+    "state": "Telangana",
+    "town": "Yadagirigutta",
+    "type": "temple town",
+    "top_temples": [
+      { "name": "Sri Lakshmi Narasimha Swamy Temple (Yadadri)", "deity": "Narasimha (Vishnu avatar, five forms)", "location_note": "On a hillock in Yadadri Bhuvanagiri district; also called Pancha Narasimha Kshetram, the town's defining shrine." },
+      { "name": "Hanuman Temple, Yadagirigutta", "deity": "Hanuman", "location_note": "Positioned just beside the main entrance of the Yadadri temple complex in Yadagirigutta." }
+    ]
+  }
+]

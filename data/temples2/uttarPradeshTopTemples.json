@@ -1,0 +1,167 @@
+[
+  {
+    "state": "Uttar Pradesh",
+    "town": "Agra",
+    "type": "city",
+    "top_temples": [
+      { "name": "Mankameshwar Temple, Agra", "deity": "Shiva", "location_note": "Old part of Agra city; believed over 5,000 years old and associated with the Pandavas, the oldest Shiva temple in Agra." },
+      { "name": "Balkeshwar Mahadev Temple", "deity": "Shiva", "location_note": "On the banks of the Yamuna in Agra; a roughly 700-year-old riverside shrine, especially popular during Sawan." },
+      { "name": "Shri Khatu Shyam Ji Temple, Agra", "deity": "Khatu Shyam (Krishna form)", "location_note": "Opened 2023; the largest Khatu Shyam Ji temple in Uttar Pradesh." },
+      { "name": "Dayalbagh Temple", "deity": "Radha Soami faith worship", "location_note": "Agra; one of the largest Radha Soami temples, known for its architecture." },
+      { "name": "Kailash Temple, Agra", "deity": "Shiva", "location_note": "Agra; roughly 5,000-year-old temple noted for its Shivlings said to originate from Mount Kailash." }
+    ]
+  },
+  {
+    "state": "Uttar Pradesh",
+    "town": "Allahabad",
+    "type": "city",
+    "top_temples": [
+      { "name": "Bade Hanuman Ji Mandir (Lete Hanuman Mandir)", "deity": "Hanuman (reclining form)", "location_note": "Prayagraj (Allahabad); features a rare 20-ft reclining Hanuman idol below ground level, the city's most famous temple." },
+      { "name": "Alopi Devi Mandir", "deity": "Alopi Devi (Shakti form)", "location_note": "Prayagraj; a Shakti Peetha with no idol, worship centers on a wooden doli on a marble platform." },
+      { "name": "Patalpuri Temple", "deity": "Various deities, with the sacred Akshayavat tree", "location_note": "Within Allahabad Fort; an underground temple housing the immortal Akshayavat banyan tree." },
+      { "name": "Nagvasuki Mandir", "deity": "Vasuki (Naga/serpent deity)", "location_note": "On the banks of the Ganges in Prayagraj; a prominent temple to the serpent god." },
+      { "name": "Mankameshwar Mandir, Allahabad", "deity": "Shiva", "location_note": "On the banks of the Yamuna near Saraswati Ghat, Prayagraj." }
+    ]
+  },
+  {
+    "state": "Uttar Pradesh",
+    "town": "Ayodhya",
+    "type": "temple town",
+    "top_temples": [
+      { "name": "Ram Janmabhoomi Temple", "deity": "Rama", "location_note": "Ayodhya's central and most significant shrine, believed to be Rama's birthplace; a three-story temple with five mandaps." },
+      { "name": "Hanuman Garhi", "deity": "Hanuman", "location_note": "A fort-like hilltop shrine in Ayodhya reached via 76 steps, traditionally regarded as the protector of the city." }
+    ]
+  },
+  {
+    "state": "Uttar Pradesh",
+    "town": "Bareilly",
+    "type": "city",
+    "top_temples": [
+      { "name": "Shree Baba Alakhnath Ji Temple", "deity": "Shiva (Alakhnath)", "location_note": "One of four Shiva temples marking the corners of Bareilly city." },
+      { "name": "Shri Baba Dhopeshwar Nath Ji Temple", "deity": "Shiva (Dhopeshwarnath)", "location_note": "Cantonment area of Bareilly; a distinctive water temple." },
+      { "name": "Shri Trivati Nath Temple", "deity": "Shiva (Trivatinath)", "location_note": "Bareilly; originally constructed around 1474, another of the city's four corner Shiva temples." },
+      { "name": "Bada Bagh Hanuman Temple", "deity": "Hanuman", "location_note": "Bareilly; one of the city's most prominent Hanuman shrines." },
+      { "name": "Shri Baba Pashupati Nath Temple", "deity": "Shiva (Pashupatinath)", "location_note": "Bareilly; a revered ancient temple." }
+    ]
+  },
+  {
+    "state": "Uttar Pradesh",
+    "town": "Chitrakoot",
+    "type": "temple town",
+    "top_temples": [
+      { "name": "Kamadgiri Temple", "deity": "Rama (as Kamtanath)", "location_note": "Chitrakoot's central shrine, on the Kamadgiri hill; pilgrims perform a circumambulation (parikrama) of the hill, principal deity of Chitrakoot Dham." },
+      { "name": "Hanuman Dhara Temple", "deity": "Hanuman", "location_note": "Near Kamadgiri hill in Chitrakoot; a natural spring shrine associated with Hanuman, distinct from the Bharat Milap temple used for the MP-side Chitrakoot entry." }
+    ]
+  },
+  {
+    "state": "Uttar Pradesh",
+    "town": "Ghaziabad",
+    "type": "city",
+    "top_temples": [
+      { "name": "Dudheshwar Nath Mandir", "deity": "Shiva", "location_note": "Ghaziabad; said to be thousands of years old, one of the city's oldest temples." },
+      { "name": "ISKCON Temple, Raj Nagar", "deity": "Krishna and Radha", "location_note": "Raj Nagar, Ghaziabad; a major spiritual and cultural center, especially busy during Janmashtami." },
+      { "name": "Chopla Hanuman Mandir", "deity": "Hanuman", "location_note": "Ghaziabad; one of the city's older Hanuman temples." },
+      { "name": "Durga Temple, Ghaziabad", "deity": "Durga, with Shiv Parivar, Ganesh, and Shani", "location_note": "Ghaziabad city." },
+      { "name": "Manan Dham", "deity": "Shiva", "location_note": "On the main Meerut highway in Ghaziabad; a well-crafted Shiva shrine." }
+    ]
+  },
+  {
+    "state": "Uttar Pradesh",
+    "town": "Kanpur",
+    "type": "city",
+    "top_temples": [
+      { "name": "J.K. Temple (Radhakrishna Temple)", "deity": "Radha and Krishna", "location_note": "Sarvodaya Nagar, Kanpur; built in white marble, one of Kanpur's most visited temples." },
+      { "name": "Anandeshwar Temple", "deity": "Shiva", "location_note": "Kanpur; built in the 18th century." },
+      { "name": "Bhitargaon Temple", "deity": "Vishnu (ancient Gupta-era structure)", "location_note": "Bhitargaon, about 35 km from Kanpur; the largest surviving brick temple from the Gupta Empire, late 5th century." },
+      { "name": "Jain Glass Temple, Kanpur", "deity": "Mahavira and the 23 Jain Tirthankaras", "location_note": "Kanpur; known for hand-crafted glass murals and statues." },
+      { "name": "Panki Panchmukhi Hanuman Mandir", "deity": "Hanuman (five-faced form)", "location_note": "On the outskirts of Kanpur, near Panki Railway Station." }
+    ]
+  },
+  {
+    "state": "Uttar Pradesh",
+    "town": "Lucknow",
+    "type": "city",
+    "top_temples": [
+      { "name": "Kashi Vishwanath Temple, Lucknow", "deity": "Shiva", "location_note": "Lucknow; a marble replica of the Varanasi Kashi Vishwanath Temple." },
+      { "name": "Hanuman Setu Mandir", "deity": "Hanuman", "location_note": "Lucknow; a major pilgrimage site especially on Tuesdays and Saturdays, features a large black-stone Hanuman sculpture." },
+      { "name": "Mankameshwar Temple, Lucknow", "deity": "Shiva", "location_note": "Heart of Lucknow city; believed to be among its oldest temples." },
+      { "name": "Chandrika Devi Temple", "deity": "Chandrika Devi (Durga form)", "location_note": "Bakshi Ka Talab area, Lucknow; established roughly 300 years ago." },
+      { "name": "Rangaji Temple", "deity": "Ranganatha (Vishnu form)", "location_note": "Lucknow; built 1851, blends Italian colonnade, Rajput-style gate, and South Indian gopuram architecture." }
+    ]
+  },
+  {
+    "state": "Uttar Pradesh",
+    "town": "Mathura",
+    "type": "city",
+    "top_temples": [
+      { "name": "Krishna Janmabhoomi Temple", "deity": "Krishna", "location_note": "Mathura's most significant shrine, marking Krishna's traditional birthplace." },
+      { "name": "Dwarkadhish Temple", "deity": "Krishna (adult, majestic form)", "location_note": "Mathura; dating to 1814, features a black marble idol." },
+      { "name": "Gita Mandir (Birla Mandir), Mathura", "deity": "Lakshmi Narayan (Vishnu and Lakshmi)", "location_note": "About 6.5 km from Mathura Junction; walls inscribed with all 700 verses of the Bhagavad Gita." },
+      { "name": "Kesava Deo Temple", "deity": "Krishna (as Keshava)", "location_note": "Near the main Krishna Janmabhoomi complex in Mathura." },
+      { "name": "Bhuteshwar Mahadev Temple", "deity": "Shiva", "location_note": "About 500 m from Krishna Janmabhoomi in Mathura; one of the 108 significant Shiva temples in India." }
+    ]
+  },
+  {
+    "state": "Uttar Pradesh",
+    "town": "Meerut",
+    "type": "city",
+    "top_temples": [
+      { "name": "Augharnath Temple (Kali Paltan Mandir)", "deity": "Shiva", "location_note": "Meerut's oldest and most frequented Shiva temple; the Shiva linga is believed to be swayambhu (self-manifested)." },
+      { "name": "Digambar Jain Temple, Meerut", "deity": "Jain tirthankaras", "location_note": "One of Meerut's oldest temples, featuring seven ornate altar spires." },
+      { "name": "Mansa Devi Temple, Meerut", "deity": "Mansa Devi", "location_note": "Meerut; played a role in the 1857 freedom struggle, hosts a major annual fair." },
+      { "name": "Surajkund Temple (Baba Manohar Lal Mahadev Mandir)", "deity": "Shiva", "location_note": "One of Meerut's oldest temples, located alongside the Shahpir Mausoleum." },
+      { "name": "Lakshmi Narayan Mandir, Modi Nagar", "deity": "Lakshmi Narayan (Vishnu and Lakshmi)", "location_note": "Modi Nagar area of Meerut; spread over more than 15 acres." }
+    ]
+  },
+  {
+    "state": "Uttar Pradesh",
+    "town": "Naimisharanya",
+    "type": "temple town",
+    "top_temples": [
+      { "name": "Lalita Devi Temple", "deity": "Lalita Devi (Shakti form)", "location_note": "Naimisharanya's central shrine; a Shakti Peetha where the heart of Sati is believed to have fallen." },
+      { "name": "Chakratirtha", "deity": "Sacred tirtha associated with Brahma and Vishnu", "location_note": "A short walk from Lalita Devi Temple in Naimisharanya; the mythological site where Brahma's discus (chakra) formed a holy water body." }
+    ]
+  },
+  {
+    "state": "Uttar Pradesh",
+    "town": "Noida",
+    "type": "city",
+    "top_temples": [
+      { "name": "ISKCON Temple, Sector 33", "deity": "Radha and Krishna", "location_note": "Sector 33, Noida; a seven-storied temple with gold murals, especially busy on Janmashtami." },
+      { "name": "Shree Jagannath Temple, Sector 34", "deity": "Jagannath", "location_note": "Sector 34, Noida; opened 2006, hosts an annual Rath Yatra." },
+      { "name": "Ayyappa Temple, Sector 62", "deity": "Ayyappa (Sastha)", "location_note": "Sector 62, Noida; popular among South Indian residents, regarded as a protector of the city." },
+      { "name": "Noida Kalibari Temple, Sector 26", "deity": "Kali", "location_note": "Sector 26, Noida; established 1984, an important center for the Bengali community." },
+      { "name": "Sai Mandir, Noida", "deity": "Sai Baba", "location_note": "Noida; built in white marble, maintained by Shri Sai Samiti." }
+    ]
+  },
+  {
+    "state": "Uttar Pradesh",
+    "town": "Varanasi",
+    "type": "city",
+    "top_temples": [
+      { "name": "Kashi Vishwanath Temple", "deity": "Shiva", "location_note": "Varanasi's defining shrine; one of the twelve Jyotirlingas, known as the 'Golden Temple' for its gold-plated dome." },
+      { "name": "Sankat Mochan Hanuman Temple", "deity": "Hanuman", "location_note": "Varanasi; established by the poet-saint Tulsidas." },
+      { "name": "Durga Temple (Monkey Temple)", "deity": "Durga", "location_note": "Varanasi; noted for its red-stone architecture." },
+      { "name": "Tulsi Manas Temple", "deity": "Rama", "location_note": "Varanasi; built 1964, named for saint-poet Tulsidas, walls inscribed with verses from the Ramcharitmanas." },
+      { "name": "Annapurna Devi Temple", "deity": "Annapurna (Devi)", "location_note": "Varanasi, near Kashi Vishwanath; associated with food and nourishment, known for community food offerings." }
+    ]
+  },
+  {
+    "state": "Uttar Pradesh",
+    "town": "Vindhyachal",
+    "type": "temple town",
+    "top_temples": [
+      { "name": "Maa Vindhyavasini Devi Temple", "deity": "Durga (Vindhyavasini)", "location_note": "On a hilltop overlooking the Ganga in Vindhyachal; one of the 51 Shakti Peethas, the town's central shrine." },
+      { "name": "Ashtabhuja Devi Temple", "deity": "Maha Saraswati (eight-armed form)", "location_note": "On a hillock about 8 km from Vindhyavasini Temple in Vindhyachal; part of the Trikon Parikrama circuit with the main temple." }
+    ]
+  },
+  {
+    "state": "Uttar Pradesh",
+    "town": "Vrindavan",
+    "type": "temple town",
+    "top_temples": [
+      { "name": "Banke Bihari Temple", "deity": "Krishna (as Banke Bihari)", "location_note": "Vrindavan's most famous shrine; built in 1864, one of the holiest Krishna temples in India." },
+      { "name": "Radha Raman Temple", "deity": "Krishna (as Radha Raman)", "location_note": "One of the oldest and most sacred temples in Vrindavan, distinct from Banke Bihari." }
+    ]
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "state": "Manipur",
+    "town": "Imphal",
+    "type": "city",
+    "top_temples": [
+      { "name": "Shri Govindajee Temple", "deity": "Krishna (as Govindajee)", "location_note": "Imphal; the largest Vaishnava temple in Manipur, originally built in 1846 under Maharaja Nara Singh and rebuilt in 1876 by Maharaja Chandrakriti, visible from a distance for its golden domes." },
+      { "name": "Shree Shree Bijoy Govindajee Temple", "deity": "Krishna (as Bijoy Govinda)", "location_note": "Sagolband, Imphal West; considered by many to be the oldest temple in Manipur." },
+      { "name": "Hanuman Thakur Temple", "deity": "Hanuman", "location_note": "Imphal; known for its vibrant festivals and religious ceremonies." },
+      { "name": "ISKCON Temple, Imphal", "deity": "Radha and Krishna", "location_note": "Imphal; visited by pilgrims from across the world." },
+      { "name": "Pakhangba Temple, Kangla", "deity": "Ibudhou Pakhangba (primordial Meitei deity)", "location_note": "Within Kangla Fort in the heart of Imphal; a key symbol of Manipur's Meitei cultural and religious heritage." }
+    ]
+  },
+  {
+    "state": "Manipur",
+    "town": "Bishnupur",
+    "type": "temple town",
+    "top_temples": [
+      { "name": "Bishnupur Vishnu Temple", "deity": "Vishnu", "location_note": "Bishnupur town; a 15th-century brick temple built by King Kyamba, now an ASI-protected monument that gives Bishnupur its name. (Note: this entry merges the dataset's duplicate 'Bishnupur' and 'Bishnupur (Vishnu Temple)' listings per the data-quality flag.)" },
+      { "name": "Konung Lairembi Temple", "deity": "Konung Lairembi (Meitei goddess)", "location_note": "Bishnupur; a distinct local shrine from the main Vishnu Temple." }
+    ]
+  },
+  {
+    "state": "Manipur",
+    "town": "Churachandpur",
+    "type": "town",
+    "top_temples": [
+      { "name": "Jagannath Prabhu Temple, Churachandpur", "deity": "Jagannath", "location_note": "Churachandpur town; a historic Meitei Hindu temple documented as having stood for almost a century." },
+      { "name": "Radha-Krishna Temple, Churachandpur", "deity": "Radha and Krishna", "location_note": "Churachandpur town; a historic Vaishnavite temple serving the local Meitei Hindu community." }
+    ]
+  },
+  {
+    "state": "Manipur",
+    "town": "Senapati",
+    "type": "town",
+    "top_temples": [
+      { "name": "Koubru Laikha Temple", "deity": "Shiva", "location_note": "Listed as a place of interest by the Senapati district government; associated with Mount Koubru, whose deity Lainingthou Koubru is significant in Manipuri mythology, though the built shrine's exact location is given by some sources as neighbouring Imphal West district. No second distinct temple could be verified for Senapati despite repeated searches; this entry lists only one temple." }
+    ]
+  },
+  {
+    "state": "Manipur",
+    "town": "Tamenglong",
+    "type": "town",
+    "top_temples": [
+      { "name": "Kali Mata Temple, Tamenglong", "deity": "Kali", "location_note": "Tamenglong town, a predominantly Zeliangrong Naga and Christian district; serves the local Hindu community and is cited as a symbol of the town's inter-faith harmony. No second distinct temple could be verified for Tamenglong despite repeated searches; this entry lists only one temple." }
+    ]
+  },
+  {
+    "state": "Manipur",
+    "town": "Thoubal",
+    "type": "town",
+    "top_temples": [
+      { "name": "Shyam Rai Temple, Thoubal", "deity": "Krishna (as Shyam Rai)", "location_note": "Thoubal town; known for its masterful stone engravings." },
+      { "name": "Pakhangba Temple, Thoubal", "deity": "Ibudhou Pakhangba (primordial Meitei deity)", "location_note": "Thoubal district; a sacred shrine distinct from the Pakhangba Temple within Kangla Fort in Imphal." }
+    ]
+  }
+]
