@@ -28,7 +28,7 @@ export default function StateDetailPage() {
   const handlePinClick = (town) => {
     const stateSlug = slugify(displayStateName)
     const townSlug = slugify(town.town)
-    window.location.href = `/temples/state/${stateSlug}/town/${townSlug}`
+    window.location.href = `/temples/state/${stateSlug}/${townSlug}`
   }
 
   const uniqueTowns = stateTemples.reduce((acc, temple) => {

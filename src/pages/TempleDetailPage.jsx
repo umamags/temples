@@ -25,14 +25,14 @@ export default function TempleDetailPage() {
         <nav style={{ marginBottom: '1.5rem', fontSize: '0.9rem' }}>
           <Link to="/">Home</Link> /
           <Link to={`/state/${stateName}`}> {displayStateName}</Link> /
-          <Link to={`/state/${stateName}/town/${cityName}`}> {displayTownName}</Link> /
+          <Link to={`/state/${stateName}/${cityName}`}> {displayTownName}</Link> /
           <span> Temple</span>
         </nav>
         <h1>Temple Not Found</h1>
         <p style={{ color: '#d32f2f', marginTop: '1rem' }}>
           {error || 'Could not load temple details.'}
         </p>
-        <Link to={`/state/${stateName}/town/${cityName}`} style={{ display: 'inline-block', marginTop: '1rem', color: '#0066cc', textDecoration: 'underline' }}>
+        <Link to={`/state/${stateName}/${cityName}`} style={{ display: 'inline-block', marginTop: '1rem', color: '#0066cc', textDecoration: 'underline' }}>
           ← Back to {displayTownName}
         </Link>
       </div>
@@ -57,7 +57,7 @@ export default function TempleDetailPage() {
           {displayStateName}
         </Link>
         <span> / </span>
-        <Link to={`/state/${stateName}/town/${cityName}`} style={{ color: '#0066cc', textDecoration: 'none' }}>
+        <Link to={`/state/${stateName}/${cityName}`} style={{ color: '#0066cc', textDecoration: 'none' }}>
           {displayTownName}
         </Link>
         <span> / {displayTempleName}</span>
@@ -168,7 +168,7 @@ export default function TempleDetailPage() {
         {/* Back Button */}
         <div style={{ marginTop: '2rem', paddingTop: '2rem' }}>
           <Link
-            to={`/state/${stateName}/town/${cityName}`}
+            to={`/state/${stateName}/${cityName}`}
             style={{
               display: 'inline-block',
               padding: '0.75rem 1.5rem',
