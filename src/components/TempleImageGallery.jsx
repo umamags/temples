@@ -143,15 +143,37 @@ export default function TempleImageGallery({ stateName, townName, templeName }) 
           <h2 style={{ fontSize: '1.5rem', marginBottom: '1.5rem' }}>Gallery</h2>
 
           {images.map((image, idx) => (
-            <div
-              key={idx}
-              style={{
-                display: 'flex',
-                gap: '2rem',
-                marginBottom: '2rem',
-                alignItems: 'flex-start',
-              }}
-            >
+            <div key={idx} style={{ marginBottom: '1.5rem', paddingBottom: '1.5rem', borderBottom: '1px solid #f0f0f0' }}>
+              {/* Image URL Debug Info */}
+              <div
+                style={{
+                  padding: '0.75rem',
+                  backgroundColor: '#f9f9f9',
+                  fontSize: '0.75rem',
+                  fontFamily: 'monospace',
+                  marginBottom: '1rem',
+                  borderRadius: '4px',
+                  border: '1px solid #e0e0e0',
+                  wordBreak: 'break-all',
+                }}
+              >
+                <div style={{ marginBottom: '0.25rem' }}>
+                  <strong>Image URL:</strong> {image.fullUrl}
+                </div>
+                {image.descriptionFilePath && (
+                  <div>
+                    <strong>Description File:</strong> {image.descriptionFilePath}
+                  </div>
+                )}
+              </div>
+              <div
+                style={{
+                  display: 'flex',
+                  gap: '2rem',
+                  marginBottom: '2rem',
+                  alignItems: 'flex-start',
+                }}
+              >
               {/* Image */}
               <div style={{ flex: '0 0 300px' }}>
                 <img
@@ -194,6 +216,7 @@ export default function TempleImageGallery({ stateName, townName, templeName }) 
                   </div>
                 </div>
               )}
+            </div>
             </div>
           ))}
         </div>

@@ -39,8 +39,15 @@ export function getFileListUrl(folderPath) {
 // Construct the full image URL
 export function getImageUrl(folderPath, imagePath) {
   const baseUrl = getApiBaseUrl()
-  const uploadPath = getUploadPath()
-  return `${baseUrl}${uploadPath}/${folderPath}${imagePath}`
+  const hostname = window.location.hostname
+
+  // For localhost, images are at /upload/
+  if (hostname === 'localhost' || hostname === '127.0.0.1') {
+    return `${baseUrl}/upload/${folderPath}${imagePath}`
+  }
+
+  // For production, images are at /data/
+  return `${baseUrl}/data/${folderPath}${imagePath}`
 }
 
 // Construct the upload endpoint URL

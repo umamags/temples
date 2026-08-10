@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react'
 import { slugify } from '../utils/slug'
-import { getFileListUrl, getImageUrl } from '../config/apiConfig'
+import { getFileListUrl, getImageUrl, getApiBaseUrl } from '../config/apiConfig'
 
 export function useTempleImages(stateName, townName, templeName) {
   const [images, setImages] = useState([])
@@ -80,8 +80,10 @@ export function useTempleImages(stateName, townName, templeName) {
           imageFiles.map(async (imageFile) => {
             const imageName = imageFile.name.slice(0, imageFile.name.lastIndexOf('.'))
 
-            // Look for image-specific description
+            // Look for image-specific description file
             let description = null
+            let descFile = null
+
             const specificDescFile = descriptionFiles.find(
               (f) =>
                 f.name.toLowerCase() ===
@@ -90,6 +92,7 @@ export function useTempleImages(stateName, townName, templeName) {
             )
 
             if (specificDescFile) {
+              descFile = specificDescFile
               description = await fetchFileContent(
                 folderPath,
                 specificDescFile.path
@@ -102,6 +105,7 @@ export function useTempleImages(stateName, townName, templeName) {
                   f.name.toLowerCase() === 'description.txt'
               )
               if (generalDesc) {
+                descFile = generalDesc
                 description = await fetchFileContent(folderPath, generalDesc.path)
               }
             }
@@ -110,6 +114,8 @@ export function useTempleImages(stateName, townName, templeName) {
               name: imageFile.name,
               path: imageFile.path,
               fullUrl: getImageUrl(folderPath, imageFile.path),
+              descriptionFile: descFile ? descFile.name : null,
+              descriptionFilePath: descFile ? getImageUrl(folderPath, descFile.path) : null,
               description,
               size: imageFile.size,
               modified: imageFile.modified,
