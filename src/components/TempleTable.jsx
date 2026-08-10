@@ -1,7 +1,7 @@
 import { useMemo, useState } from 'react'
 import { useNavigate } from 'react-router-dom'
 
-export default function TempleTable({ temples, title = 'Temples', showStateCity = true }) {
+export default function TempleTable({ temples, title = 'Temples', showStateCity = true, format = 'old' }) {
   const navigate = useNavigate()
   const [searchTerm, setSearchTerm] = useState('')
   const [currentPage, setCurrentPage] = useState(1)
@@ -13,14 +13,17 @@ export default function TempleTable({ temples, title = 'Temples', showStateCity 
 
     const term = searchTerm.toLowerCase()
     return temples.filter((temple) => {
+      const name = format === 'temples2' ? temple.name : temple.name
+      const deity = format === 'temples2' ? temple.deity : temple.main_deity
       return (
-        (temple.name && temple.name.toLowerCase().includes(term)) ||
-        (temple.main_deity && temple.main_deity.toLowerCase().includes(term)) ||
+        (name && name.toLowerCase().includes(term)) ||
+        (deity && deity.toLowerCase().includes(term)) ||
         (showStateCity && temple.state && temple.state.toLowerCase().includes(term)) ||
+        (showStateCity && temple.town && temple.town.toLowerCase().includes(term)) ||
         (showStateCity && temple.city && temple.city.toLowerCase().includes(term))
       )
     })
-  }, [temples, searchTerm, showStateCity])
+  }, [temples, searchTerm, showStateCity, format])
 
   // Paginate
   const totalPages = Math.ceil(filteredTemples.length / ROWS_PER_PAGE)
@@ -35,7 +38,8 @@ export default function TempleTable({ temples, title = 'Temples', showStateCity 
 
   const handleTempleClick = (temple) => {
     const stateSlug = slugifyName(temple.state)
-    const citySlug = slugifyName(temple.city)
+    const cityOrTown = format === 'temples2' ? temple.town : temple.city
+    const citySlug = slugifyName(cityOrTown)
     const templeSlug = slugifyName(temple.name)
     navigate(`/temple/${stateSlug}/${citySlug}/${templeSlug}`)
   }
@@ -47,6 +51,14 @@ export default function TempleTable({ temples, title = 'Temples', showStateCity 
       .replace(/[^\w\s-]/g, '')
       .replace(/[-\s]+/g, '-')
       .trim('-')
+  }
+
+  const getDeity = (temple) => {
+    return format === 'temples2' ? temple.deity : temple.main_deity
+  }
+
+  const getCityOrTown = (temple) => {
+    return format === 'temples2' ? temple.town : temple.city
   }
 
   return (
@@ -82,55 +94,75 @@ export default function TempleTable({ temples, title = 'Temples', showStateCity 
               <thead>
                 <tr>
                   <th>Temple Name</th>
-                  <th>Main Deity</th>
+                  {format === 'temples2' ? <th>Deity</th> : <th>Main Deity</th>}
                   {showStateCity && <th>State</th>}
-                  {showStateCity && <th>City</th>}
+                  {showStateCity &&
+                    (format === 'temples2' ? <th>Town</th> : <th>City</th>)}
+                  {format === 'temples2' && <th>Location Note</th>}
                   <th>Year Constructed</th>
                   <th>Festivals</th>
-                  <th>Wiki URL</th>
+                  {format !== 'temples2' && <th>Wiki URL</th>}
                 </tr>
               </thead>
               <tbody>
-                {paginatedTemples.map((temple, idx) => (
-                  <tr key={`${temple.state}-${temple.city}-${idx}`}>
-                    <td style={{ textAlign: 'left' }}>
-                      <button
-                        type="button"
-                        onClick={() => handleTempleClick(temple)}
-                        style={{
-                          background: 'none',
-                          border: 'none',
-                          color: '#0066cc',
-                          cursor: 'pointer',
-                          textDecoration: 'underline',
-                          padding: 0,
-                          fontSize: 'inherit',
-                          textAlign: 'left',
-                        }}
-                      >
-                        {temple.name}
-                      </button>
-                    </td>
-                    <td>{temple.main_deity}</td>
-                    {showStateCity && <td>{temple.state}</td>}
-                    {showStateCity && <td>{temple.city}</td>}
-                    <td>{temple.year_constructed || '—'}</td>
-                    <td>
-                      {temple.festivals_and_events && temple.festivals_and_events.length > 0
-                        ? temple.festivals_and_events.join(', ')
-                        : '—'}
-                    </td>
-                    <td>
-                      {temple.wiki_url ? (
-                        <a href={temple.wiki_url} target="_blank" rel="noopener noreferrer">
-                          Link
-                        </a>
-                      ) : (
-                        '—'
+                {paginatedTemples.map((temple, idx) => {
+                  const key = format === 'temples2'
+                    ? `${temple.state}-${temple.town}-${idx}`
+                    : `${temple.state}-${temple.city}-${idx}`
+
+                  return (
+                    <tr key={key}>
+                      <td style={{ textAlign: 'left' }}>
+                        <button
+                          type="button"
+                          onClick={() => handleTempleClick(temple)}
+                          style={{
+                            background: 'none',
+                            border: 'none',
+                            color: '#0066cc',
+                            cursor: 'pointer',
+                            textDecoration: 'underline',
+                            padding: 0,
+                            fontSize: 'inherit',
+                            textAlign: 'left',
+                          }}
+                        >
+                          {temple.name}
+                        </button>
+                      </td>
+                      <td>{getDeity(temple)}</td>
+                      {showStateCity && <td>{temple.state}</td>}
+                      {showStateCity && <td>{getCityOrTown(temple)}</td>}
+                      {format === 'temples2' && (
+                        <td style={{ fontSize: '0.9rem', color: '#555' }}>
+                          {temple.location_note}
+                        </td>
                       )}
-                    </td>
-                  </tr>
-                ))}
+                      <td>{temple.year_constructed || '—'}</td>
+                      <td>
+                        {temple.festivals_and_events &&
+                        temple.festivals_and_events.length > 0
+                          ? temple.festivals_and_events.join(', ')
+                          : '—'}
+                      </td>
+                      {format !== 'temples2' && (
+                        <td>
+                          {temple.wiki_url ? (
+                            <a
+                              href={temple.wiki_url}
+                              target="_blank"
+                              rel="noopener noreferrer"
+                            >
+                              Link
+                            </a>
+                          ) : (
+                            '—'
+                          )}
+                        </td>
+                      )}
+                    </tr>
+                  )
+                })}
               </tbody>
             </table>
           </div>

@@ -3,6 +3,7 @@ import Layout from './components/Layout'
 import HomePage from './pages/HomePage'
 import StateDetailPage from './pages/StateDetailPage'
 import StateCityDetailPage from './pages/StateCityDetailPage'
+import StateTownDetailPage from './pages/StateTownDetailPage'
 import TempleDetailPage from './pages/TempleDetailPage'
 import './App.css'
 
@@ -14,6 +15,7 @@ export default function App() {
           <Route index element={<HomePage />} />
           <Route path="state/:stateName" element={<StateDetailPage />} />
           <Route path="state/:stateName/city/:cityName" element={<StateCityDetailPage />} />
+          <Route path="state/:stateName/town/:townName" element={<StateTownDetailPage />} />
           <Route path="temple/:stateName/:cityName/:templeName" element={<TempleDetailPage />} />
         </Route>
       </Routes>

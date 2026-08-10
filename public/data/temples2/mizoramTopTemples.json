@@ -1,0 +1,113 @@
+[
+  {
+    "state": "Mizoram",
+    "town": "Aizawl",
+    "type": "city",
+    "top_temples": [
+      {
+        "name": "Shakti Mandir",
+        "deity": "Shakti (Devi)",
+        "location_note": "Upper Bazar / Zarkawt area of Aizawl; one of the city's better-known Hindu shrines."
+      },
+      {
+        "name": "Shiv Mandir",
+        "deity": "Shiva",
+        "location_note": "Armed Veng Rd, Aizawl; neighborhood temple in a residential part of the city."
+      },
+      {
+        "name": "OM Mandir",
+        "deity": "Om (general/meditation-focused)",
+        "location_note": "Aizawl 796017; known locally as a quiet spot for prayer and meditation."
+      },
+      {
+        "name": "Assam Rifles Mandir (Hari Mandir)",
+        "deity": "Shiva (Mahadev)",
+        "location_note": "Khatla/Canteen Square, Aizawl; maintained by Assam Rifles for over 70 years, serving Gorkha Hindu and Bru Reang communities; was in the news in 2024-25 over a planned relocation."
+      },
+      {
+        "name": "Shri Radha Krishna Temple",
+        "deity": "Radha Krishna",
+        "location_note": "Tuivamit, near Solomon's Temple Rd, Aizawl."
+      }
+    ],
+    "lat": 23.7271,
+    "lon": 92.7176
+  },
+  {
+    "state": "Mizoram",
+    "town": "Champhai",
+    "type": "town",
+    "top_temples": [],
+    "lat": 23.4667,
+    "lon": 93.3167
+  },
+  {
+    "state": "Mizoram",
+    "town": "Kolasib",
+    "type": "town",
+    "top_temples": [],
+    "lat": 24.2333,
+    "lon": 92.6833
+  },
+  {
+    "state": "Mizoram",
+    "town": "Lawngtlai",
+    "type": "town",
+    "top_temples": [
+      {
+        "name": "Vishwakarma Mandir",
+        "deity": "Vishwakarma",
+        "location_note": "Lawngtlai town; a small, single-storey shrine serving the local craftsmen/artisan community."
+      }
+    ],
+    "lat": 22.5333,
+    "lon": 92.7667
+  },
+  {
+    "state": "Mizoram",
+    "town": "Lunglei",
+    "type": "town",
+    "top_temples": [
+      {
+        "name": "Rama Mandir",
+        "deity": "Rama",
+        "location_note": "On a hill overlooking Lunglei town; simple white structure with a sloping roof in the local Mizo style, reached via a steep climb."
+      }
+    ],
+    "lat": 22.8842,
+    "lon": 92.7644
+  },
+  {
+    "state": "Mizoram",
+    "town": "Saiha",
+    "type": "town",
+    "top_temples": [
+      {
+        "name": "Sarvajanin Temple",
+        "deity": "Community/general worship (Sarvajanin = \"for all\")",
+        "location_note": "Assam Rifles Complex, Saihatlangkawn Road, Saiha."
+      },
+      {
+        "name": "Kali Mandir",
+        "deity": "Kali",
+        "location_note": "Saiha town; concrete construction with an orange facade, associated with the local Bengali and Marwari Hindu community, said to date to the colonial era."
+      }
+    ],
+    "lat": 22.4833,
+    "lon": 92.9667
+  },
+  {
+    "state": "Mizoram",
+    "town": "Serchhip",
+    "type": "town",
+    "top_temples": [
+      {
+        "name": "Durga Mandir",
+        "deity": "Durga",
+        "location_note": "Serchhip town; built by the local Hindu community, serves as the hub for Navratri/Durga Puja celebrations."
+      }
+    ],
+    "lat": 23.3,
+    "lon": 92.85
+  }
+]

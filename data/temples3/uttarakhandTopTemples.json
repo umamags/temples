@@ -1,0 +1,354 @@
+[
+  {
+    "state": "Uttarakhand",
+    "town": "Dehradun",
+    "type": "city",
+    "top_temples": [
+      {
+        "name": "Tapkeshwar Mahadev Temple",
+        "deity": "Shiva",
+        "location_note": "Cave temple on a seasonal rivulet; name derives from water dripping ('tapak') onto the natural Shivlingam.",
+        "website": "https://en.wikipedia.org/wiki/Tapkeshwar_Temple"
+      },
+      {
+        "name": "Laxman Siddh Temple",
+        "deity": "Lakshmana",
+        "location_note": "Popular pilgrimage site in Dehradun dedicated to Rama's brother Lakshmana.",
+        "website": null
+      },
+      {
+        "name": "Prakasheshwar Temple (Shiv Mandir)",
+        "deity": "Shiva",
+        "location_note": "One of the most visited Shiva shrines in Dehradun city.",
+        "website": null
+      },
+      {
+        "name": "Santala Devi Temple",
+        "deity": "Santala Devi (Devi)",
+        "location_note": "Set in forested land on the edge of Dehradun, known for tranquil surroundings.",
+        "website": "https://en.wikipedia.org/wiki/Santala_devi_temple"
+      },
+      {
+        "name": "Durga Mandir, Rajpur Road",
+        "deity": "Durga",
+        "location_note": "On Rajpur Road, one of Dehradun's main arterial roads.",
+        "website": null
+      }
+    ]
+  },
+  {
+    "state": "Uttarakhand",
+    "town": "Haridwar",
+    "type": "city",
+    "top_temples": [
+      {
+        "name": "Mansa Devi Temple",
+        "deity": "Mansa Devi",
+        "location_note": "Atop Bilwa Parvat; a Siddhpeeth, one of the oldest temples in Haridwar (19th century).",
+        "website": "https://en.wikipedia.org/wiki/Mansa_Devi_Temple,_Haridwar"
+      },
+      {
+        "name": "Chandi Devi Temple",
+        "deity": "Chandi Devi (Durga)",
+        "location_note": "On Neel Parvat in the Shivalik range; one of Haridwar's most visited shrines.",
+        "website": "https://en.wikipedia.org/wiki/Chandi_Devi_Temple,_Haridwar"
+      },
+      {
+        "name": "Maya Devi Temple",
+        "deity": "Maya Devi (Shakti)",
+        "location_note": "11th-century temple, one of Haridwar's three ancient surviving temples and a Siddhpeeth/Shaktipeeth; regarded as the presiding deity of Haridwar.",
+        "website": "https://en.wikipedia.org/wiki/Maya_Devi_Temple,_Haridwar"
+      },
+      {
+        "name": "Daksha Mahadev Temple",
+        "deity": "Shiva",
+        "location_note": "Kankhal, about 4 km from central Haridwar; site of Daksha Prajapati's yagna in Hindu mythology; current structure built 1810, rebuilt 1962.",
+        "website": "https://en.wikipedia.org/wiki/Daksheswar_Mahadev_Temple"
+      },
+      {
+        "name": "Bharat Mata Mandir",
+        "deity": "Bharat Mata (personification of India)",
+        "location_note": "A distinctive multi-storey temple in Haridwar featuring a relief map of India rather than a conventional deity idol.",
+        "website": "https://en.wikipedia.org/wiki/Bharat_Mata_Mandir"
+      }
+    ]
+  },
+  {
+    "state": "Uttarakhand",
+    "town": "Rishikesh",
+    "type": "city",
+    "top_temples": [
+      {
+        "name": "Neelkanth Mahadev Temple",
+        "deity": "Shiva",
+        "location_note": "In the hills above Rishikesh; marks the spot where Shiva is said to have swallowed the poison from the Samudra Manthan, turning his throat blue.",
+        "website": "https://en.wikipedia.org/wiki/Neelkanth_Mahadev_Temple_(Rishikesh)"
+      },
+      {
+        "name": "Trayambakeshwar Temple (Tera Manzil)",
+        "deity": "Shiva",
+        "location_note": "A 13-storey temple visible from Lakshman Jhula, known for its striking architecture and views.",
+        "website": null
+      },
+      {
+        "name": "Bharat Mandir",
+        "deity": "Vishnu",
+        "location_note": "Rishikesh's oldest temple, traditionally founded by Adi Shankaracharya; houses a Vishnu idol carved from a single Saligram stone.",
+        "website": null
+      },
+      {
+        "name": "Hanuman Mandir",
+        "deity": "Hanuman",
+        "location_note": "One of Rishikesh's most-visited temples, especially busy on Tuesdays, with evening Ganga aarti.",
+        "website": null
+      },
+      {
+        "name": "Kunjapuri Devi Temple",
+        "deity": "Parvati (as a Shaktipeeth)",
+        "location_note": "On Kunjapuri Hill above Rishikesh; one of the 51 Shaktipeeths.",
+        "website": null
+      }
+    ]
+  },
+  {
+    "state": "Uttarakhand",
+    "town": "Almora",
+    "type": "town",
+    "top_temples": [
+      {
+        "name": "Chitai Golu Devta Temple",
+        "deity": "Golu Devta (regional form of Shiva/Gaur Bhairav)",
+        "location_note": "About 8 km from Almora; famous for devotees hanging bells and written wishes on the temple grounds.",
+        "website": null
+      },
+      {
+        "name": "Kasar Devi Temple",
+        "deity": "Kasar Devi (Devi)",
+        "location_note": "Ancient hilltop shrine at about 2,116 m near Almora; noted as a site where Swami Vivekananda once meditated.",
+        "website": "https://en.wikipedia.org/wiki/Kasar_Devi"
+      }
+    ]
+  },
+  {
+    "state": "Uttarakhand",
+    "town": "Badrinath",
+    "type": "temple town",
+    "top_temples": [
+      {
+        "name": "Badrinath Temple",
+        "deity": "Vishnu (as Badrinarayan)",
+        "location_note": "One of the four Char Dham and one of the 108 Divya Desams; the town's namesake and central shrine.",
+        "website": "https://en.wikipedia.org/wiki/Badrinath_Temple"
+      },
+      {
+        "name": "Mata Murti Temple",
+        "deity": "Mata Murti (mother of Nar-Narayan/Vishnu)",
+        "location_note": "About 3 km from the main Badrinath temple, on the bank of the Alaknanda; a distinct, separately located shrine.",
+        "website": null
+      }
+    ]
+  },
+  {
+    "state": "Uttarakhand",
+    "town": "Bageshwar",
+    "type": "town",
+    "top_temples": [
+      {
+        "name": "Bagnath Temple",
+        "deity": "Shiva",
+        "location_note": "At the confluence of the Sarayu and Gomati rivers; roots to the 7th century, current structure built 1450 by King Lakshmi Chand; the town is named after this temple.",
+        "website": "https://en.wikipedia.org/wiki/Bagnath_Temple"
+      },
+      {
+        "name": "Chandika Temple",
+        "deity": "Chandika (Durga)",
+        "location_note": "On a hill about 2 km outside Bageshwar town.",
+        "website": null
+      }
+    ]
+  },
+  {
+    "state": "Uttarakhand",
+    "town": "Devprayag",
+    "type": "temple town",
+    "top_temples": [
+      {
+        "name": "Raghunathji Temple",
+        "deity": "Vishnu (as Rama, with consort Sita)",
+        "location_note": "Above the Alaknanda-Bhagirathi confluence; one of the 108 Divya Desams, traditionally linked to Adi Shankara.",
+        "website": "https://en.wikipedia.org/wiki/Raghunathji_Temple,_Devprayag"
+      },
+      {
+        "name": "Someshwar Temple",
+        "deity": "Shiva",
+        "location_note": "An ancient temple just below the Raghunathji Temple, mentioned in the Kedar Khand text; a distinct shrine from the main temple.",
+        "website": null
+      }
+    ]
+  },
+  {
+    "state": "Uttarakhand",
+    "town": "Gangotri",
+    "type": "temple town",
+    "top_temples": [
+      {
+        "name": "Gangotri Temple",
+        "deity": "Ganga (Devi)",
+        "location_note": "On the bank of the Bhagirathi River; built in the 18th century by Gorkha general Amar Singh Thapa; one of the four Char Dham.",
+        "website": null
+      },
+      {
+        "name": "Bhairon Nath Temple, Bhaironghati",
+        "deity": "Bhairav (form of Shiva)",
+        "location_note": "About 9-10 km from Gangotri at Bhaironghati; Bhairav is considered the guardian deity of the Gangotri region, and pilgrims traditionally visit after Gangotri.",
+        "website": null
+      }
+    ]
+  },
+  {
+    "state": "Uttarakhand",
+    "town": "Hemkund Sahib",
+    "type": "temple town",
+    "top_temples": [
+      {
+        "name": "Lakshman Temple",
+        "deity": "Lakshmana",
+        "location_note": "On the shore of Hemkund Lake, about 100 m from Gurdwara Hemkund Sahib; unusual in that Lakshmana is worshipped alone, without Rama and Sita. This is the only genuine Hindu temple at the site -- the site's other major structure is a Sikh Gurdwara, not a Hindu temple, so only one entry is listed here rather than padding to the usual quota of two.",
+        "website": null
+      }
+    ]
+  },
+  {
+    "state": "Uttarakhand",
+    "town": "Joshimath",
+    "type": "temple town",
+    "top_temples": [
+      {
+        "name": "Narsingh Temple",
+        "deity": "Vishnu (as Narasimha)",
+        "location_note": "Founded by Adi Shankaracharya; part of the Sapt Badri group and one of the 108 Divya Desams; winter seat of the Badrinath deity.",
+        "website": null
+      },
+      {
+        "name": "Vasudev Temple",
+        "deity": "Vishnu (as Vasudev)",
+        "location_note": "An ancient, distinct temple in Joshimath separate from the Narsingh Temple.",
+        "website": null
+      }
+    ]
+  },
+  {
+    "state": "Uttarakhand",
+    "town": "Kedarnath",
+    "type": "temple town",
+    "top_temples": [
+      {
+        "name": "Kedarnath Temple",
+        "deity": "Shiva",
+        "location_note": "One of the twelve Jyotirlingas and one of the four Char Dham; the town's central and namesake shrine.",
+        "website": "https://en.wikipedia.org/wiki/Kedarnath_Temple"
+      },
+      {
+        "name": "Bhairavnath Temple",
+        "deity": "Bhairav (form of Shiva)",
+        "location_note": "About 1.5 km from the main Kedarnath temple; considered the Kshetrapal (guardian) of Kedarnath, said to protect the valley when the main temple closes for winter. A subsidiary shrine within the Kedarnath pilgrimage circuit, listed as the second entry since it is the only other well-documented shrine distinct from the main temple.",
+        "website": null
+      }
+    ]
+  },
+  {
+    "state": "Uttarakhand",
+    "town": "Nainital",
+    "type": "town",
+    "top_temples": [
+      {
+        "name": "Naina Devi Temple",
+        "deity": "Naina Devi (Devi)",
+        "location_note": "On the edge of Naini Lake; one of the 51 Shaktipeeths, current structure rebuilt in 1883 after an 1880 landslide.",
+        "website": null
+      },
+      {
+        "name": "Hanuman Garhi",
+        "deity": "Hanuman",
+        "location_note": "Hilltop temple in Nainital, popular for sunset views over the town.",
+        "website": "https://en.wikipedia.org/wiki/Hanumangarhi,_Nainital"
+      }
+    ]
+  },
+  {
+    "state": "Uttarakhand",
+    "town": "Pithoragarh",
+    "type": "town",
+    "top_temples": [
+      {
+        "name": "Dhwaj Temple",
+        "deity": "Shiva and Jayanti Devi",
+        "location_note": "Atop Dhwaj hill, about 10 km from Pithoragarh town.",
+        "website": null
+      },
+      {
+        "name": "Mostamanu Temple",
+        "deity": "Mostamanu (regional deity)",
+        "location_note": "About 6 km from Pithoragarh town.",
+        "website": null
+      }
+    ]
+  },
+  {
+    "state": "Uttarakhand",
+    "town": "Rudraprayag",
+    "type": "temple town",
+    "top_temples": [
+      {
+        "name": "Chamunda Devi Temple",
+        "deity": "Chamunda Devi (Durga)",
+        "location_note": "At the confluence of the Alaknanda and Mandakini rivers in Rudraprayag.",
+        "website": null
+      },
+      {
+        "name": "Koteshwar Mahadev Temple",
+        "deity": "Shiva",
+        "location_note": "About 3 km from Rudraprayag, built inside a natural cave; local legend holds Shiva meditated here en route to Kedarnath.",
+        "website": null
+      }
+    ]
+  },
+  {
+    "state": "Uttarakhand",
+    "town": "Udham Singh Nagar",
+    "type": "town",
+    "top_temples": [
+      {
+        "name": "Atariya Devi Temple",
+        "deity": "Atariya Devi (Devi)",
+        "location_note": "About 2 km from Rudrapur (the district HQ) on the Rudrapur-Haldwani route; a large Navratri fair is held here.",
+        "website": null
+      },
+      {
+        "name": "Chaiti Devi Temple (Moteshwar Mahadev)",
+        "deity": "Shiva (as Bhimshankar), with Parvati, Ganesh, Bhairav, Kali and Hanuman shrines",
+        "location_note": "About 3 km from Kashipur, within Udham Singh Nagar district though not in Rudrapur town itself; included as the district's second well-documented temple. Also known as Bal Sundari Devi Mandir, one of the 51 Shaktipeeths.",
+        "website": "https://en.wikipedia.org/wiki/Maa_Balsundari"
+      }
+    ]
+  },
+  {
+    "state": "Uttarakhand",
+    "town": "Yamunotri",
+    "type": "temple town",
+    "top_temples": [
+      {
+        "name": "Yamunotri Temple",
+        "deity": "Yamuna (Devi)",
+        "location_note": "One of the four Char Dham; originally built 1839, rebuilt in the 19th century; source of the Yamuna river.",
+        "website": "https://en.wikipedia.org/wiki/Yamunotri_Temple"
+      },
+      {
+        "name": "Divya Shila",
+        "deity": "Sacred rock/pillar shrine, worshipped as part of the Yamunotri rites",
+        "location_note": "A revered stone slab embedded at the temple wall that pilgrims worship before entering the main shrine; a subsidiary shrine within the Yamunotri complex rather than an independent temple, listed since Yamunotri is a single-shrine town.",
+        "website": null
+      }
+    ]
+  }
+]

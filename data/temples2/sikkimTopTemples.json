@@ -1,0 +1,169 @@
+[
+  {
+    "state": "Sikkim",
+    "town": "Gangtok",
+    "type": "city",
+    "top_temples": [
+      {
+        "name": "Thakurbari Temple",
+        "deity": "Multiple major Hindu deities",
+        "location_note": "Gangtok Bazaar; built in 1935 on land donated by the Chogyal (Namgyal dynasty ruler); one of the oldest Hindu temples in Sikkim, confirmed on the official state list of Hindu mandirs."
+      },
+      {
+        "name": "Ganesh Tok",
+        "deity": "Ganesha",
+        "location_note": "Hilltop shrine at about 6,500 ft on the Gangtok ridge, known for panoramic views."
+      },
+      {
+        "name": "Hanuman Tok",
+        "deity": "Hanuman (with a Durga shrine on the premises)",
+        "location_note": "About 5 km from White Hall on the Gangtok-Nathula highway, at roughly 7,200 ft; built with Indian Army involvement."
+      },
+      {
+        "name": "Durga Mandir, Gangtok",
+        "deity": "Durga",
+        "location_note": "Established in 1986; active mainly around festival days per local reporting."
+      },
+      {
+        "name": "Shri Siddheshwar Shiv Mandir (Pani House)",
+        "deity": "Shiva",
+        "location_note": "Pani House area of Gangtok; centered on a natural stone Shivlingam said to have been worshipped there for a long time. Corresponds to the 'Pani House Nag Devi Mandir, Gangtok' entry on the official state list of Hindu mandirs."
+      }
+    ],
+    "lat": 27.533,
+    "lon": 88.6114
+  },
+  {
+    "state": "Sikkim",
+    "town": "Geyzing",
+    "type": "town",
+    "top_temples": [
+      {
+        "name": "Kirateshwar Mahadev Temple",
+        "deity": "Shiva",
+        "location_note": "At Legshep near Geyzing/Gyalshing, on the banks of the River Rangeet; one of Sikkim's oldest temples, tied to a Mahabharata-era legend of Shiva appearing as a hunter (Kirat). Listed officially as 'Legshep Kirateswar Maha Dev Mandir' under Gyalshing sub-division."
+      },
+      {
+        "name": "Gyalshing Singha Devi Mandir",
+        "deity": "Singha Devi (Durga)",
+        "location_note": "Located in Gyalshing (Geyzing) town itself, per the official state list of Hindu mandirs."
+      }
+    ],
+    "lat": 27.2833,
+    "lon": 88.2333
+  },
+  {
+    "state": "Sikkim",
+    "town": "Mangan",
+    "type": "town",
+    "top_temples": [
+      {
+        "name": "Mangan Pashupatinath Mandir",
+        "deity": "Shiva (as Pashupatinath)",
+        "location_note": "Mangan Bazaar; confirmed on the official state list of Hindu mandirs for the Mangan sub-division."
+      },
+      {
+        "name": "Shiv Mandir, B-II",
+        "deity": "Shiva",
+        "location_note": "B-II locality, Mangan sub-division; confirmed on the official state list of Hindu mandirs."
+      }
+    ],
+    "lat": 27.5167,
+    "lon": 88.5333
+  },
+  {
+    "state": "Sikkim",
+    "town": "Namchi",
+    "type": "town",
+    "top_temples": [
+      {
+        "name": "Siddhesvara Dham (Char Dham Temple)",
+        "deity": "Shiva, with a full Char Dham replica complex (Badrinath, Dwarka, Puri, Rameswaram) and a Sai Baba mandir",
+        "location_note": "On Solophok Hill, about 5 km from Namchi; inaugurated 2011; features a 108 ft Shiva statue with the 12 jyotirlingas. Officially listed as 'Siddhesvara Char Dhaam, Solophok, Namchi.'"
+      },
+      {
+        "name": "Namchi Pashupatinath Mandir",
+        "deity": "Shiva (as Pashupatinath)",
+        "location_note": "Namchi town itself, per the official state list of Hindu mandirs."
+      }
+    ],
+    "lat": 27.1667,
+    "lon": 88.3667
+  },
+  {
+    "state": "Sikkim",
+    "town": "Pemayangtse",
+    "type": "temple town",
+    "top_temples": [
+      {
+        "name": "Pemayangtse Monastery",
+        "deity": "Nyingma order of Tibetan Buddhism (Guru Rinpoche lineage)",
+        "location_note": "Founded 1647 by Lama Lhatsun Chempo near Pelling; one of Sikkim's oldest and most important monasteries, historically head of the Nyingma order's monasteries in Sikkim."
+      },
+      {
+        "name": "Sangachoeling Monastery",
+        "deity": "Nyingma order of Tibetan Buddhism",
+        "location_note": "On a ridge above Pelling, close to Pemayangtse; regarded as the second-oldest monastery in Sikkim."
+      }
+    ],
+    "lat": 27.3,
+    "lon": 88.25
+  },
+  {
+    "state": "Sikkim",
+    "town": "Rumtek",
+    "type": "temple town",
+    "top_temples": [
+      {
+        "name": "Rumtek Monastery (Dharma Chakra Centre)",
+        "deity": "Karma Kagyu order of Tibetan Buddhism",
+        "location_note": "Originally founded 1734 by the 9th Karmapa; rebuilt 1966 by the 16th Karmapa as the Dharma Chakra Centre; the seat-in-exile of the Karmapa and the largest monastery in Sikkim."
+      },
+      {
+        "name": "Old Rumtek Monastery",
+        "deity": "Karma Kagyu order of Tibetan Buddhism",
+        "location_note": "The original, smaller 18th-century structure near the present-day Rumtek Monastery, predating the 1960s rebuild."
+      }
+    ],
+    "lat": 27.2833,
+    "lon": 88.5667
+  },
+  {
+    "state": "Sikkim",
+    "town": "Soreng",
+    "type": "town",
+    "top_temples": [
+      {
+        "name": "Soreng Thakurbari",
+        "deity": "Multiple major Hindu deities",
+        "location_note": "Located in Soreng town itself, per the official state list of Hindu mandirs."
+      },
+      {
+        "name": "Narsing Kali Devi Mandir",
+        "deity": "Kali",
+        "location_note": "Located in Soreng town itself, per the official state list of Hindu mandirs."
+      }
+    ],
+    "lat": 27.2167,
+    "lon": 88.2
+  },
+  {
+    "state": "Sikkim",
+    "town": "Tadong",
+    "type": "town",
+    "top_temples": [
+      {
+        "name": "Tadong Durga Mandir",
+        "deity": "Durga",
+        "location_note": "Tadong, Gangtok; confirmed on the official state list of Hindu mandirs."
+      },
+      {
+        "name": "Tadong Jaganath Mandir",
+        "deity": "Jagannath (Krishna)",
+        "location_note": "Tadong, Gangtok; confirmed on the official state list of Hindu mandirs."
+      }
+    ],
+    "lat": 27.3167,
+    "lon": 88.6
+  }
+]

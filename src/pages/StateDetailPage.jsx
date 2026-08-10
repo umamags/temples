@@ -1,102 +1,80 @@
 import { Link, useParams } from 'react-router-dom'
 import { statesAndCities } from '../data/statesData'
-import { citiesWithTempleData } from '../data/citiesWithTempleData'
 import { deslugify, slugify } from '../utils/slug'
-import { useAllTemples } from '../data/useAllTemples'
+import { useStateTemples2 } from '../data/useStateTemples2'
 import TempleTable from '../components/TempleTable'
-import IndiaMap from '../components/IndiaMap'
+import StatePinMap from '../components/StatePinMap'
 
 export default function StateDetailPage() {
   const { stateName } = useParams()
-  const displayStateName = deslugify(stateName)
-  const { allTemples } = useAllTemples()
 
+  if (!stateName) {
+    return <div className="page"><p>No state name provided</p></div>
+  }
+
+  const displayStateName = deslugify(stateName)
+  const { temples: stateTemples, status } = useStateTemples2(displayStateName)
   const stateData = statesAndCities.find((s) => s.state === displayStateName)
-  const stateCitiesWithTemples = citiesWithTempleData.filter((c) => c.state === displayStateName)
-  const stateTemples = allTemples.filter((t) => t.state === displayStateName)
 
   if (!stateData) {
     return (
       <div className="page">
-        <p className="status status-error">State not found.</p>
-        <Link to="/">← Back to Home</Link>
+        <p className="status status-error">State not found</p>
+        <Link to="/">Back to Home</Link>
       </div>
     )
   }
 
-  const handleCityClick = (state, city) => {
-    const stateSlug = slugify(state)
-    const citySlug = slugify(city)
-    window.location.href = `/temples/state/${stateSlug}/city/${citySlug}`
+  const handlePinClick = (town) => {
+    const stateSlug = slugify(displayStateName)
+    const townSlug = slugify(town.town)
+    window.location.href = `/temples/state/${stateSlug}/town/${townSlug}`
   }
+
+  const uniqueTowns = stateTemples.reduce((acc, temple) => {
+    const exists = acc.find((t) => t.town === temple.town && t.type === temple.type)
+    if (!exists) {
+      acc.push({
+        town: temple.town,
+        type: temple.type,
+        lat: temple.lat,
+        lon: temple.lon,
+      })
+    }
+    return acc
+  }, [])
 
   return (
     <div className="page">
-      <div style={{ marginBottom: '1.5rem' }}>
-        <Link to="/">← Back to Home</Link>
-      </div>
+      <nav style={{ marginBottom: '1.5rem', fontSize: '0.9rem', color: '#666' }}>
+        <Link to="/" style={{ color: '#0066cc', textDecoration: 'none' }}>Home</Link>
+        <span> / {displayStateName}</span>
+      </nav>
 
-      <div className="detail-title-row">
-        <div>
-          <h1>{displayStateName}</h1>
-          <p style={{ fontSize: '1.1rem', color: '#666', marginTop: '0.5rem' }}>
-            <strong>Capital:</strong> {stateData.capital}
-          </p>
-        </div>
-      </div>
+      <h1>{displayStateName}</h1>
+      <p>Capital: {stateData.capital}</p>
 
       <div className="map-container">
-        <IndiaMap onCityClick={handleCityClick} height={400} />
+        {status === 'loading' && <p>Loading temples...</p>}
+        {status === 'error' && <p>Error loading temples</p>}
+        {status === 'ready' && <p>Found {stateTemples.length} temples in {uniqueTowns.length} towns</p>}
+        {status === 'ready' && uniqueTowns.length > 0 && (
+          <StatePinMap
+            stateName={displayStateName}
+            towns={uniqueTowns}
+            onPinClick={handlePinClick}
+            height={400}
+          />
+        )}
       </div>
-
-      <section className="detail-section">
-        <h2>About {displayStateName}</h2>
-        <dl className="facts">
-          <div className="fact">
-            <dt>State</dt>
-            <dd>{displayStateName}</dd>
-          </div>
-          <div className="fact">
-            <dt>Capital</dt>
-            <dd>{stateData.capital}</dd>
-          </div>
-          <div className="fact">
-            <dt>Coordinates</dt>
-            <dd>
-              {stateData.lat.toFixed(4)}°N, {stateData.lon.toFixed(4)}°E
-            </dd>
-          </div>
-        </dl>
-      </section>
-
-      {stateCitiesWithTemples.length > 0 && (
-        <section className="detail-section">
-          <h2>Cities with Temple Data</h2>
-          <ul className="named-list">
-            {stateCitiesWithTemples.map((city) => (
-              <li key={city.city}>
-                <Link
-                  to={`/state/${slugify(city.state)}/city/${slugify(city.city)}`}
-                  style={{
-                    color: '#0066cc',
-                    textDecoration: 'underline',
-                  }}
-                  className="named-list-name"
-                >
-                  {city.city}
-                </Link>
-              </li>
-            ))}
-          </ul>
-        </section>
-      )}
 
       {stateTemples.length > 0 && (
         <section className="detail-section">
           <TempleTable
             temples={stateTemples}
             title={`All Temples in ${displayStateName}`}
-            showStateCity={false}
+            showStateCity={true}
+            format="temples2"
           />
         </section>
       )}

@@ -13,7 +13,7 @@ export default function HomePage() {
   const handleCityClick = (state, city) => {
     const stateSlug = slugify(state)
     const citySlug = slugify(city)
-    navigate(`/state/${stateSlug}/city/${citySlug}`)
+    navigate(`/state/${stateSlug}/town/${citySlug}`)
   }
 
   const handleStateClick = (state) => {

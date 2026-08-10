@@ -1,0 +1,135 @@
+[
+  {
+    "state": "Nagaland",
+    "town": "Dimapur",
+    "type": "city",
+    "top_temples": [
+      {
+        "name": "Dimapur Kalibari",
+        "deity": "Kali",
+        "location_note": "Built in 1956; one of Dimapur's oldest and best-known Hindu temples, active site for Durga Puja and other major festivals."
+      },
+      {
+        "name": "Dimapur Jain Temple",
+        "deity": "Mahavira",
+        "location_note": "Built in 1947 by Jain families who relocated from Kohima; known for its architecture and stained-glass work."
+      },
+      {
+        "name": "Lakshmi Narayan Temple",
+        "deity": "Vishnu and Lakshmi",
+        "location_note": "A central Hindu worship site in Dimapur, known for its annual Rath Yatra celebration."
+      },
+      {
+        "name": "ISKCON Temple, Dimapur",
+        "deity": "Krishna",
+        "location_note": "Local branch of the ISKCON movement, offers deity worship and spiritual programs."
+      },
+      {
+        "name": "Hanuman Temple, Dimapur",
+        "deity": "Hanuman",
+        "location_note": "Community-oriented neighborhood temple in Dimapur."
+      }
+    ],
+    "lat": 25.9064,
+    "lon": 93.7289
+  },
+  {
+    "state": "Nagaland",
+    "town": "Kiphire",
+    "type": "town",
+    "top_temples": [
+      {
+        "name": "Mandir, 41 Assam Rifles, Kiphire",
+        "deity": "General/garrison worship (no single primary deity documented)",
+        "location_note": "Small temple within the 41 Assam Rifles camp at Kiphire, serving the paramilitary garrison and local Hindu community; confirmed via a 2025 Nagaland government (DIPR) incident report."
+      }
+    ],
+    "lat": 25.8333,
+    "lon": 94.7833
+  },
+  {
+    "state": "Nagaland",
+    "town": "Kohima",
+    "type": "city",
+    "top_temples": [
+      {
+        "name": "Durga Bari Mandir",
+        "deity": "Durga (with subsidiary Kali and Shiva shrines)",
+        "location_note": "PWD Colony, Kohima; a focal point for the local Hindu community, blends traditional Hindu design with local architectural influences."
+      },
+      {
+        "name": "Jain Temple, Kohima",
+        "deity": "Mahavira",
+        "location_note": "Built in 1920 by eight Sethi families; the oldest Jain temple in Nagaland, Digambar sect, has its own Wikipedia entry."
+      },
+      {
+        "name": "Nepali Mandir",
+        "deity": "General Hindu worship (Nepali community)",
+        "location_note": "Gathering place for Kohima's Nepali/Gorkha community for worship and cultural festivals."
+      },
+      {
+        "name": "Gorkha Singhadevi Mandir",
+        "deity": "Durga (as Singha Vahini Bhawani)",
+        "location_note": "Chandmari, Kohima; dates to the 1880s, one of the oldest Hindu temples in the city, tied to early Gorkha settlement history."
+      },
+      {
+        "name": "Radha Krishna Temple, Kohima",
+        "deity": "Radha and Krishna",
+        "location_note": "Tekhuba, Phesama area of Kohima; serves the local Hindu community."
+      }
+    ],
+    "lat": 25.6816,
+    "lon": 94.1085
+  },
+  {
+    "state": "Nagaland",
+    "town": "Mokokchung",
+    "type": "town",
+    "top_temples": [],
+    "lat": 26.32,
+    "lon": 94.5217
+  },
+  {
+    "state": "Nagaland",
+    "town": "Phek",
+    "type": "town",
+    "top_temples": [],
+    "lat": 25.6667,
+    "lon": 94.4667
+  },
+  {
+    "state": "Nagaland",
+    "town": "Tuensang",
+    "type": "town",
+    "top_temples": [],
+    "lat": 26.2667,
+    "lon": 94.8333
+  },
+  {
+    "state": "Nagaland",
+    "town": "Wokha",
+    "type": "town",
+    "top_temples": [
+      {
+        "name": "Wokha Shiv Mandir",
+        "deity": "Shiva",
+        "location_note": "On DC Hill, Kohima-Mokokchung Road, Wokha; built 1975, though locals trace worship at the site back to a 1942 account of a Shivlingam found in the ground. Popular during Mahashivratri."
+      },
+      {
+        "name": "Kali Mandir, Wokha",
+        "deity": "Kali",
+        "location_note": "Wokha town; second major Hindu shrine in the town, active during Kali Puja."
+      }
+    ],
+    "lat": 26.1,
+    "lon": 94.2667
+  },
+  {
+    "state": "Nagaland",
+    "town": "Zunheboto",
+    "type": "town",
+    "top_temples": [],
+    "lat": 26,
+    "lon": 94.5167
+  }
+]
