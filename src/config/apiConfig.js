@@ -18,14 +18,7 @@ export function getApiBaseUrl() {
 
 // Get the upload path based on the current environment
 export function getUploadPath() {
-  const hostname = window.location.hostname
-
-  // For localhost, the path is /upload/
-  if (hostname === 'localhost' || hostname === '127.0.0.1') {
-    return '/upload'
-  }
-
-  // For production, the path is /php_app/upload/
+  // For both localhost and production, the path is /php_app/upload/
   return '/php_app/upload'
 }
 

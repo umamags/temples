@@ -1,6 +1,7 @@
 import { useState } from 'react'
 import { useTempleImages } from '../data/useTempleImages'
 import { getUploadUrl } from '../config/apiConfig'
+import { slugify } from '../utils/slug'
 
 export default function TempleImageGallery({ stateName, townName, templeName }) {
   const { images, status, error, debugInfo } = useTempleImages(stateName, townName, templeName)
@@ -26,21 +27,6 @@ export default function TempleImageGallery({ stateName, townName, templeName }) 
     }
   }
 
-  const formatTempleNameForAPI = (name) => {
-    return name
-      .split(' ')
-      .map((word) => word.charAt(0).toUpperCase() + word.slice(1).toLowerCase())
-      .join('_')
-  }
-
-  const formatStateForAPI = (state) => {
-    return state.toLowerCase().replace(/\s+/g, '_')
-  }
-
-  const formatTownForAPI = (town) => {
-    return town.toLowerCase().replace(/\s+/g, '_')
-  }
-
   const handleUpload = async (e) => {
     e.preventDefault()
     if (!imageFile) {
@@ -55,10 +41,9 @@ export default function TempleImageGallery({ stateName, townName, templeName }) 
     try {
       const formData = new FormData()
       formData.append('photo', imageFile)
-      formData.append('dataFolder', '../data')
-      formData.append('state', formatStateForAPI(stateName))
-      formData.append('city', formatTownForAPI(townName))
-      formData.append('temple', formatTempleNameForAPI(templeName))
+      formData.append('state', slugify(stateName))
+      formData.append('city', slugify(townName))
+      formData.append('temple', slugify(templeName))
       if (description.trim()) {
         formData.append('description', description)
       }
