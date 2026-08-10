@@ -1,6 +1,7 @@
 import { useParams, Link } from 'react-router-dom'
 import { deslugify, slugify } from '../utils/slug'
 import { useTempleDetail2 } from '../data/useTempleDetail2'
+import TempleImageGallery from '../components/TempleImageGallery'
 
 export default function TempleDetailPage() {
   const { stateName, cityName, templeName } = useParams()
@@ -136,7 +137,7 @@ export default function TempleDetailPage() {
 
         {/* Festivals */}
         {temple.festivals_and_events && temple.festivals_and_events.length > 0 && (
-          <div style={{ marginBottom: '2rem' }}>
+          <div style={{ marginBottom: '2rem', paddingBottom: '2rem', borderBottom: '2px solid #e0e0e0' }}>
             <h2 style={{ fontSize: '1.5rem', marginBottom: '1rem' }}>Festivals & Events</h2>
             <div style={{ display: 'flex', flexWrap: 'wrap', gap: '0.75rem' }}>
               {temple.festivals_and_events.map((festival) => (
@@ -157,8 +158,15 @@ export default function TempleDetailPage() {
           </div>
         )}
 
+        {/* Image Gallery and Upload */}
+        <TempleImageGallery
+          stateName={displayStateName}
+          townName={displayTownName}
+          templeName={temple.name}
+        />
+
         {/* Back Button */}
-        <div style={{ marginTop: '2rem', paddingTop: '2rem', borderTop: '2px solid #e0e0e0' }}>
+        <div style={{ marginTop: '2rem', paddingTop: '2rem' }}>
           <Link
             to={`/state/${stateName}/town/${cityName}`}
             style={{
