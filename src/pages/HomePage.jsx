@@ -36,7 +36,7 @@ export default function HomePage() {
 
       {templesStatus === 'ready' && allTemples.length > 0 && (
         <section className="detail-section">
-          <TempleTable temples={allTemples} title="All Temples Across India" />
+          <TempleTable temples={allTemples} title="All Temples Across India" showStateCity={true} format="temples2" />
         </section>
       )}
 

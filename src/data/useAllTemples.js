@@ -1,5 +1,6 @@
 import { useState, useEffect } from 'react'
-import { citiesWithTempleData } from './citiesWithTempleData'
+import { statesAndCities } from './statesData'
+import { getTemples2FileName } from '../utils/stateFileMapping'
 
 export function useAllTemples() {
   const [allTemples, setAllTemples] = useState([])
@@ -12,24 +13,33 @@ export function useAllTemples() {
       try {
         const temples = []
 
-        for (const cityData of citiesWithTempleData) {
-          // State filename: spaces are preserved, not converted to underscores
-          const stateFilename = `${cityData.state}.json`
-          const response = await fetch(`${import.meta.env.BASE_URL}data/temples/${encodeURIComponent(stateFilename)}`)
+        for (const stateData of statesAndCities) {
+          const fileName = getTemples2FileName(stateData.state)
+          if (!fileName) continue
+
+          const response = await fetch(
+            `${import.meta.env.BASE_URL}data/temples2/${encodeURIComponent(fileName)}.json`
+          )
 
           if (!response.ok) continue
 
           const data = await response.json()
 
-          // Extract temples for this specific city
-          const cityTemples = data.cities?.[cityData.city] || []
-          if (Array.isArray(cityTemples)) {
-            cityTemples.forEach((temple) => {
-              temples.push({
-                ...temple,
-                state: cityData.state,
-                city: cityData.city,
-              })
+          // data is an array of towns with top_temples
+          if (Array.isArray(data)) {
+            data.forEach((townData) => {
+              if (Array.isArray(townData.top_temples)) {
+                townData.top_temples.forEach((temple) => {
+                  temples.push({
+                    ...temple,
+                    state: stateData.state,
+                    town: townData.town,
+                    type: townData.type,
+                    lat: townData.lat,
+                    lon: townData.lon,
+                  })
+                })
+              }
             })
           }
         }

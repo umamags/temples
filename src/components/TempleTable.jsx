@@ -44,6 +44,17 @@ export default function TempleTable({ temples, title = 'Temples', showStateCity 
     navigate(`/temple/${stateSlug}/${citySlug}/${templeSlug}`)
   }
 
+  const handleStateClick = (stateName) => {
+    const stateSlug = slugifyName(stateName)
+    navigate(`/state/${stateSlug}`)
+  }
+
+  const handleCityTownClick = (stateName, cityOrTown) => {
+    const stateSlug = slugifyName(stateName)
+    const citySlug = slugifyName(cityOrTown)
+    navigate(`/state/${stateSlug}/${citySlug}`)
+  }
+
   const slugifyName = (text) => {
     if (!text) return ''
     return text
@@ -51,6 +62,17 @@ export default function TempleTable({ temples, title = 'Temples', showStateCity 
       .replace(/[^\w\s-]/g, '')
       .replace(/[-\s]+/g, '-')
       .trim('-')
+  }
+
+  const linkButtonStyle = {
+    background: 'none',
+    border: 'none',
+    color: '#0066cc',
+    cursor: 'pointer',
+    textDecoration: 'underline',
+    padding: 0,
+    fontSize: 'inherit',
+    textAlign: 'left',
   }
 
   const getDeity = (temple) => {
@@ -116,23 +138,34 @@ export default function TempleTable({ temples, title = 'Temples', showStateCity 
                         <button
                           type="button"
                           onClick={() => handleTempleClick(temple)}
-                          style={{
-                            background: 'none',
-                            border: 'none',
-                            color: '#0066cc',
-                            cursor: 'pointer',
-                            textDecoration: 'underline',
-                            padding: 0,
-                            fontSize: 'inherit',
-                            textAlign: 'left',
-                          }}
+                          style={linkButtonStyle}
                         >
                           {temple.name}
                         </button>
                       </td>
                       <td>{getDeity(temple)}</td>
-                      {showStateCity && <td>{temple.state}</td>}
-                      {showStateCity && <td>{getCityOrTown(temple)}</td>}
+                      {showStateCity && (
+                        <td>
+                          <button
+                            type="button"
+                            onClick={() => handleStateClick(temple.state)}
+                            style={linkButtonStyle}
+                          >
+                            {temple.state}
+                          </button>
+                        </td>
+                      )}
+                      {showStateCity && (
+                        <td>
+                          <button
+                            type="button"
+                            onClick={() => handleCityTownClick(temple.state, getCityOrTown(temple))}
+                            style={linkButtonStyle}
+                          >
+                            {getCityOrTown(temple)}
+                          </button>
+                        </td>
+                      )}
                       {format === 'temples2' && (
                         <td style={{ fontSize: '0.9rem', color: '#555' }}>
                           {temple.location_note}
