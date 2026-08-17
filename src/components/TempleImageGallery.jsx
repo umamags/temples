@@ -82,34 +82,8 @@ export default function TempleImageGallery({ stateName, townName, templeName }) 
 
   return (
     <div>
-      {/* Debug Info */}
-      {debugInfo && (
-        <div
-          style={{
-            padding: '1rem',
-            backgroundColor: '#f5f5f5',
-            color: '#333',
-            borderRadius: '4px',
-            marginBottom: '2rem',
-            fontSize: '0.85rem',
-            fontFamily: 'monospace',
-            border: '1px solid #ddd',
-            overflowX: 'auto',
-          }}
-        >
-          <div style={{ marginBottom: '0.5rem', fontWeight: 'bold' }}>Debug Info:</div>
-          <div>State: {debugInfo.stateName}</div>
-          <div>Town: {debugInfo.townName}</div>
-          <div>Temple: {debugInfo.templeName}</div>
-          <div style={{ marginTop: '0.5rem' }}>Folder Path: {debugInfo.folderPath}</div>
-          <div style={{ marginTop: '0.5rem', wordBreak: 'break-all' }}>
-            API URL: {debugInfo.fileListUrl}
-          </div>
-        </div>
-      )}
-
       {/* Images Gallery */}
-      {error && (
+      {error && status === 'error' && (
         <div
           style={{
             padding: '1rem',
@@ -129,28 +103,6 @@ export default function TempleImageGallery({ stateName, townName, templeName }) 
 
           {images.map((image, idx) => (
             <div key={idx} style={{ marginBottom: '1.5rem', paddingBottom: '1.5rem', borderBottom: '1px solid #f0f0f0' }}>
-              {/* Image URL Debug Info */}
-              <div
-                style={{
-                  padding: '0.75rem',
-                  backgroundColor: '#f9f9f9',
-                  fontSize: '0.75rem',
-                  fontFamily: 'monospace',
-                  marginBottom: '1rem',
-                  borderRadius: '4px',
-                  border: '1px solid #e0e0e0',
-                  wordBreak: 'break-all',
-                }}
-              >
-                <div style={{ marginBottom: '0.25rem' }}>
-                  <strong>Image URL:</strong> {image.fullUrl}
-                </div>
-                {image.descriptionFilePath && (
-                  <div>
-                    <strong>Description File:</strong> {image.descriptionFilePath}
-                  </div>
-                )}
-              </div>
               <div
                 style={{
                   display: 'flex',
