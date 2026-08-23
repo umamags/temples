@@ -1,21 +1,20 @@
 import { useState, useEffect } from 'react'
 
-const STORAGE_KEY = 'visitedTemples'
+const STORAGE_KEY = 'temples:visited'
 
 export function useVisitedTemples() {
-  const [visitedTemples, setVisitedTemples] = useState(new Set())
-
-  // Load from localStorage on mount
-  useEffect(() => {
+  const [visitedTemples, setVisitedTemples] = useState(() => {
     const stored = localStorage.getItem(STORAGE_KEY)
     if (stored) {
       try {
-        setVisitedTemples(new Set(JSON.parse(stored)))
+        return new Set(JSON.parse(stored))
       } catch (e) {
         console.error('Error parsing visited temples:', e)
+        return new Set()
       }
     }
-  }, [])
+    return new Set()
+  })
 
   // Sync to localStorage whenever visitedTemples changes
   useEffect(() => {
