@@ -2,12 +2,14 @@ import { useMemo } from 'react'
 import { geoMercator, geoPath } from 'd3-geo'
 import { useIndiaAtlas } from '../data/useIndiaAtlas'
 import { citiesWithTempleData } from '../data/citiesWithTempleData'
+import { useVisitedTemples } from '../hooks/useVisitedTemples'
 
 const WIDTH = 600
 const PADDING = 16
 
 export default function IndiaMap({ onCityClick, onStateClick, height = 400 }) {
   const { status, featureCollection, colorByName } = useIndiaAtlas()
+  const { visitedTemples } = useVisitedTemples()
 
   const { path, projection } = useMemo(() => {
     if (!featureCollection) return { path: null, projection: null }
@@ -28,6 +30,15 @@ export default function IndiaMap({ onCityClick, onStateClick, height = 400 }) {
     if (onStateClick) {
       onStateClick(stateName)
     }
+  }
+
+  const isVisitedCity = (city) => {
+    return Array.from(visitedTemples).some((key) => {
+      const parts = key.split('-')
+      if (parts.length < 2) return false
+      const cityName = parts.slice(1).join('-')
+      return cityName === city.city || cityName.includes(city.city)
+    })
   }
 
   if (status === 'loading') return <p className="map-status">Loading map…</p>
@@ -80,12 +91,13 @@ export default function IndiaMap({ onCityClick, onStateClick, height = 400 }) {
       {projection &&
         citiesWithTempleData.map((city) => {
           const [x, y] = projection([city.lon, city.lat])
+          const dotColor = isVisitedCity(city) ? '#ff0000' : '#1a1a1a'
           return (
             <g
               key={`${city.state}-${city.city}`}
               onClick={() => onCityClick && onCityClick(city.state, city.city)}
             >
-              <circle cx={x} cy={y} r={2.5} fill="#1a1a1a" className="city-dot" />
+              <circle cx={x} cy={y} r={2.5} fill={dotColor} className="city-dot" />
               <title>{city.city}</title>
             </g>
           )

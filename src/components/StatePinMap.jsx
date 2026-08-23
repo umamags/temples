@@ -1,6 +1,7 @@
 import { useMemo, useState } from 'react'
 import { geoMercator, geoPath } from 'd3-geo'
 import { useIndiaAtlas } from '../data/useIndiaAtlas'
+import { useVisitedTemples } from '../hooks/useVisitedTemples'
 
 const WIDTH = 600
 const PADDING = 16
@@ -12,6 +13,7 @@ export default function StatePinMap({
   height = 400,
 }) {
   const { status, featureCollection } = useIndiaAtlas()
+  const { visitedTemples } = useVisitedTemples()
   const [hoveredTown, setHoveredTown] = useState(null)
 
   const stateFeature = useMemo(() => {
@@ -48,7 +50,19 @@ export default function StatePinMap({
     return Array.from(townMap.values())
   }, [towns])
 
-  const getColorForType = (type) => {
+  const isVisitedTown = (townName) => {
+    return Array.from(visitedTemples).some((key) => {
+      const parts = key.split('-')
+      if (parts.length < 2) return false
+      const cityName = parts.slice(1).join('-')
+      return cityName === townName || cityName.includes(townName)
+    })
+  }
+
+  const getColorForType = (type, townName) => {
+    if (isVisitedTown(townName)) {
+      return '#ff0000'
+    }
     switch (type) {
       case 'city':
         return '#000000'
@@ -107,7 +121,7 @@ export default function StatePinMap({
       {projection &&
         uniqueTowns.map((town) => {
           const [x, y] = projection([town.lon, town.lat])
-          const color = getColorForType(town.type)
+          const color = getColorForType(town.type, town.town)
           const isHovered = hoveredTown === `${town.town}-${town.type}`
 
           return (
