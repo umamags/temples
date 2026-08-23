@@ -1,5 +1,6 @@
 import { Outlet, Link } from 'react-router-dom'
 import Footer from './Footer'
+import GlobalSearch from './GlobalSearch'
 import { useUsername } from '../hooks/useUsername'
 
 export default function Layout() {
@@ -7,11 +8,12 @@ export default function Layout() {
 
   return (
     <div className="app">
-      <header style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
+      <header style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', gap: '1rem', flexWrap: 'wrap', paddingRight: '1.5rem' }}>
         <Link to="/" style={{ textDecoration: 'none', color: 'inherit' }}>
           <h1>🏛️ Temples of India</h1>
         </Link>
-        <div style={{ display: 'flex', alignItems: 'center', gap: '0.5rem', marginRight: '1.5rem' }}>
+        <GlobalSearch />
+        <div style={{ display: 'flex', alignItems: 'center', gap: '0.5rem' }}>
           <label htmlFor="header-username" style={{ fontSize: '1rem', fontWeight: '500' }}>
             Welcome
           </label>

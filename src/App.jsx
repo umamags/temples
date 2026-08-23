@@ -5,6 +5,7 @@ import StateDetailPage from './pages/StateDetailPage'
 import StateTownDetailPage from './pages/StateTownDetailPage'
 import TempleListPage from './pages/TempleListPage'
 import TempleDetailPage from './pages/TempleDetailPage'
+import SearchResultsPage from './pages/SearchResultsPage'
 import './App.css'
 
 export default function App() {
@@ -17,6 +18,7 @@ export default function App() {
           <Route path="state/:stateName/:townName" element={<StateTownDetailPage />} />
           <Route path="temple/:stateName" element={<TempleListPage />} />
           <Route path="temple/:stateName/:cityName/:templeName" element={<TempleDetailPage />} />
+          <Route path="search" element={<SearchResultsPage />} />
         </Route>
       </Routes>
     </BrowserRouter>
