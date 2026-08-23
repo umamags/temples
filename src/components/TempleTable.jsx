@@ -1,29 +1,42 @@
 import { useMemo, useState } from 'react'
 import { useNavigate } from 'react-router-dom'
+import { useVisitedTemples } from '../hooks/useVisitedTemples'
 
 export default function TempleTable({ temples, title = 'Temples', showStateCity = true, format = 'old' }) {
   const navigate = useNavigate()
   const [searchTerm, setSearchTerm] = useState('')
   const [currentPage, setCurrentPage] = useState(1)
+  const [showVisitedOnly, setShowVisitedOnly] = useState(false)
+  const { isVisited, toggleVisited, clearAllVisited, visitCount } = useVisitedTemples()
   const ROWS_PER_PAGE = 20
 
-  // Filter temples based on search term
+  // Filter temples based on search term and visited status
   const filteredTemples = useMemo(() => {
-    if (!searchTerm.trim()) return temples
+    let result = temples
 
-    const term = searchTerm.toLowerCase()
-    return temples.filter((temple) => {
-      const name = format === 'temples2' ? temple.name : temple.name
-      const deity = format === 'temples2' ? temple.deity : temple.main_deity
-      return (
-        (name && name.toLowerCase().includes(term)) ||
-        (deity && deity.toLowerCase().includes(term)) ||
-        (showStateCity && temple.state && temple.state.toLowerCase().includes(term)) ||
-        (showStateCity && temple.town && temple.town.toLowerCase().includes(term)) ||
-        (showStateCity && temple.city && temple.city.toLowerCase().includes(term))
-      )
-    })
-  }, [temples, searchTerm, showStateCity, format])
+    // Filter by visited status if toggled
+    if (showVisitedOnly) {
+      result = result.filter((temple) => isVisited(temple, format))
+    }
+
+    // Filter by search term
+    if (searchTerm.trim()) {
+      const term = searchTerm.toLowerCase()
+      result = result.filter((temple) => {
+        const name = format === 'temples2' ? temple.name : temple.name
+        const deity = format === 'temples2' ? temple.deity : temple.main_deity
+        return (
+          (name && name.toLowerCase().includes(term)) ||
+          (deity && deity.toLowerCase().includes(term)) ||
+          (showStateCity && temple.state && temple.state.toLowerCase().includes(term)) ||
+          (showStateCity && temple.town && temple.town.toLowerCase().includes(term)) ||
+          (showStateCity && temple.city && temple.city.toLowerCase().includes(term))
+        )
+      })
+    }
+
+    return result
+  }, [temples, searchTerm, showStateCity, format, showVisitedOnly, isVisited])
 
   // Paginate
   const totalPages = Math.ceil(filteredTemples.length / ROWS_PER_PAGE)
@@ -87,6 +100,40 @@ export default function TempleTable({ temples, title = 'Temples', showStateCity 
     <div className="temple-table-container">
       <h2>{title}</h2>
 
+      <div style={{ marginBottom: '1rem', display: 'flex', gap: '1rem', alignItems: 'center', flexWrap: 'wrap' }}>
+        <button
+          onClick={() => setShowVisitedOnly(!showVisitedOnly)}
+          style={{
+            padding: '0.5rem 1rem',
+            backgroundColor: showVisitedOnly ? '#0066cc' : '#f0f0f0',
+            color: showVisitedOnly ? 'white' : '#333',
+            border: '1px solid #ccc',
+            borderRadius: '4px',
+            cursor: 'pointer',
+            fontWeight: showVisitedOnly ? 'bold' : 'normal',
+          }}
+        >
+          {showVisitedOnly ? '← View All Temples' : `View Visited Temples (${visitCount})`}
+        </button>
+
+        {visitCount > 0 && (
+          <button
+            onClick={clearAllVisited}
+            style={{
+              padding: '0.5rem 1rem',
+              backgroundColor: '#f0f0f0',
+              color: '#d9534f',
+              border: '1px solid #ccc',
+              borderRadius: '4px',
+              cursor: 'pointer',
+              fontSize: '0.9rem',
+            }}
+          >
+            Clear All Visited
+          </button>
+        )}
+      </div>
+
       <div className="search-container" style={{ marginBottom: '1.5rem' }}>
         <input
           type="text"
@@ -115,6 +162,7 @@ export default function TempleTable({ temples, title = 'Temples', showStateCity 
             <table className="temple-data-table">
               <thead>
                 <tr>
+                  <th style={{ width: '60px', textAlign: 'center' }}>Visited</th>
                   <th>Temple Name</th>
                   {format === 'temples2' ? <th>Deity</th> : <th>Main Deity</th>}
                   {showStateCity && <th>State</th>}
@@ -131,10 +179,23 @@ export default function TempleTable({ temples, title = 'Temples', showStateCity 
                   const key = format === 'temples2'
                     ? `${temple.state}-${temple.town}-${idx}`
                     : `${temple.state}-${temple.city}-${idx}`
+                  const visited = isVisited(temple, format)
 
                   return (
-                    <tr key={key}>
+                    <tr key={key} style={{ backgroundColor: visited ? '#f0f9ff' : 'transparent' }}>
+                      <td style={{ textAlign: 'center', padding: '0.5rem' }}>
+                        <input
+                          type="checkbox"
+                          checked={visited}
+                          onChange={() => toggleVisited(temple, format)}
+                          style={{ cursor: 'pointer', width: '18px', height: '18px' }}
+                          aria-label={`Mark ${temple.name} as visited`}
+                        />
+                      </td>
                       <td style={{ textAlign: 'left' }}>
+                        <span style={{ marginRight: '0.5rem' }}>
+                          {visited && <span style={{ color: '#28a745', fontWeight: 'bold' }}>✓</span>}
+                        </span>
                         <button
                           type="button"
                           onClick={() => handleTempleClick(temple)}

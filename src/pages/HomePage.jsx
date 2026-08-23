@@ -5,10 +5,12 @@ import CitySearch from '../components/CitySearch'
 import { statesAndCities } from '../data/statesData'
 import { useAllTemples } from '../data/useAllTemples'
 import { slugify } from '../utils/slug'
+import { useVisitedTemples } from '../hooks/useVisitedTemples'
 
 export default function HomePage() {
   const navigate = useNavigate()
   const { allTemples, status: templesStatus } = useAllTemples()
+  const { visitCount } = useVisitedTemples()
 
   const handleCityClick = (state, city) => {
     const stateSlug = slugify(state)
@@ -24,6 +26,18 @@ export default function HomePage() {
   return (
     <div className="page">
       <h1>Explore Temples Across India</h1>
+      {visitCount > 0 && (
+        <div style={{
+          padding: '0.75rem 1rem',
+          backgroundColor: '#e7f3ff',
+          border: '1px solid #b3d9ff',
+          borderRadius: '4px',
+          marginBottom: '1.5rem',
+          color: '#004085',
+        }}>
+          <strong>✓ You have visited {visitCount} {visitCount === 1 ? 'temple' : 'temples'}</strong>
+        </div>
+      )}
       <p style={{ fontSize: '1.1rem', color: '#666', marginBottom: '1.5rem' }}>
         Click on any state to see all temples, or click on a city dot to explore temples in that city.
       </p>
