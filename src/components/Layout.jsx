@@ -1,5 +1,6 @@
 import { Outlet, Link } from 'react-router-dom'
 import Footer from './Footer'
+import Header from './Header'
 
 export default function Layout() {
   return (
@@ -9,6 +10,7 @@ export default function Layout() {
           <h1>🏛️ Temples of India</h1>
         </Link>
       </header>
+      <Header />
       <main>
         <Outlet />
       </main>
