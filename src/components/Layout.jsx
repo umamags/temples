@@ -1,6 +1,5 @@
 import { Outlet, Link } from 'react-router-dom'
 import Footer from './Footer'
-import Header from './Header'
 import { useUsername } from '../hooks/useUsername'
 
 export default function Layout() {
@@ -32,7 +31,6 @@ export default function Layout() {
           />
         </div>
       </header>
-      <Header />
       <main>
         <Outlet />
       </main>
