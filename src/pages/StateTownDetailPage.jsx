@@ -3,6 +3,7 @@ import { statesAndCities } from '../data/statesData'
 import { deslugify, slugify } from '../utils/slug'
 import { useStateTemples2 } from '../data/useStateTemples2'
 import TempleTable from '../components/TempleTable'
+import GoogleMapEmbed from '../components/GoogleMapEmbed'
 
 export default function StateTownDetailPage() {
   const { stateName, townName } = useParams()
@@ -78,6 +79,10 @@ export default function StateTownDetailPage() {
             </dd>
           </div>
         </dl>
+      </section>
+
+      <section className="detail-section">
+        <GoogleMapEmbed lat={townData.lat} lng={townData.lon} title={`${displayTownName} Location`} />
       </section>
 
       {status === 'loading' && <p>Loading temples...</p>}
