@@ -1,8 +1,8 @@
 import { useParams, Link } from 'react-router-dom'
-import { deslugify, slugify } from '../utils/slug'
+import { deslugify } from '../utils/slug'
 import { useTempleDetail2 } from '../data/useTempleDetail2'
 import TempleImageGallery from '../components/TempleImageGallery'
-import GoogleMapEmbed from '../components/GoogleMapEmbed'
+import LeafletMap from '../components/LeafletMap'
 
 export default function TempleDetailPage() {
   const { stateName, cityName, templeName } = useParams()
@@ -138,7 +138,7 @@ export default function TempleDetailPage() {
 
         {/* Map */}
         {temple.lat && temple.lon && (
-          <GoogleMapEmbed lat={temple.lat} lng={temple.lon} title="Temple Location" />
+          <LeafletMap lat={temple.lat} lng={temple.lon} title="Temple Location" />
         )}
 
         {/* Festivals */}
