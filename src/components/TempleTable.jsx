@@ -50,31 +50,19 @@ export default function TempleTable({ temples, title = 'Temples', showStateCity 
   }
 
   const handleTempleClick = (temple) => {
-    const stateSlug = slugifyName(temple.state)
-    const cityOrTown = format === 'temples2' ? temple.town : temple.city
-    const citySlug = slugifyName(cityOrTown)
-    const templeSlug = slugifyName(temple.name)
-    navigate(`/temple/${stateSlug}/${citySlug}/${templeSlug}`)
+    navigate(`/temple/${temple.id}`)
   }
 
-  const handleStateClick = (stateName) => {
-    const stateSlug = slugifyName(stateName)
-    navigate(`/state/${stateSlug}`)
+  const handleStateClick = (stateId) => {
+    if (stateId) {
+      navigate(`/state/${stateId}`)
+    }
   }
 
-  const handleCityTownClick = (stateName, cityOrTown) => {
-    const stateSlug = slugifyName(stateName)
-    const citySlug = slugifyName(cityOrTown)
-    navigate(`/state/${stateSlug}/${citySlug}`)
-  }
-
-  const slugifyName = (text) => {
-    if (!text) return ''
-    return text
-      .toLowerCase()
-      .replace(/[^\w\s-]/g, '')
-      .replace(/[-\s]+/g, '-')
-      .trim('-')
+  const handleCityTownClick = (locationId) => {
+    if (locationId) {
+      navigate(`/city/${locationId}`)
+    }
   }
 
   const linkButtonStyle = {
@@ -209,7 +197,7 @@ export default function TempleTable({ temples, title = 'Temples', showStateCity 
                         <td>
                           <button
                             type="button"
-                            onClick={() => handleStateClick(temple.state)}
+                            onClick={() => handleStateClick(temple.state_id)}
                             style={linkButtonStyle}
                           >
                             {temple.state}
@@ -220,7 +208,7 @@ export default function TempleTable({ temples, title = 'Temples', showStateCity 
                         <td>
                           <button
                             type="button"
-                            onClick={() => handleCityTownClick(temple.state, getCityOrTown(temple))}
+                            onClick={() => handleCityTownClick(temple.location_id)}
                             style={linkButtonStyle}
                           >
                             {getCityOrTown(temple)}

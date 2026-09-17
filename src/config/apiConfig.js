@@ -18,8 +18,20 @@ export function getApiBaseUrl() {
 
 // Get the upload path based on the current environment
 export function getUploadPath() {
-  // For both localhost and production, the path is /php_app/upload/
-  return '/php_app/upload'
+  const hostname = window.location.hostname
+
+  // For localhost, return /backend/upload
+  if (hostname === 'localhost' || hostname === '127.0.0.1') {
+    return '/backend/upload'
+  }
+
+  // For production (ai-lab.in), return /temples/backend/upload
+  if (hostname.includes('ai-lab.in')) {
+    return '/temples/backend/upload'
+  }
+
+  // Default to /temples/backend/upload for any other domain
+  return '/temples/backend/upload'
 }
 
 // Construct the full API URL for file listing

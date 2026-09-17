@@ -1,108 +1,87 @@
-import { Link, useParams } from 'react-router-dom'
-import { statesAndCities } from '../data/statesData'
-import { deslugify } from '../utils/slug'
-import { useStateTemples2 } from '../data/useStateTemples2'
+import { Link, useParams, useNavigate } from 'react-router-dom'
+import { useTemples } from '../data/useTemples'
 import TempleTable from '../components/TempleTable'
 import LeafletMap from '../components/LeafletMap'
 
 export default function StateTownDetailPage() {
-  const { stateName, townName } = useParams()
-  const displayStateName = deslugify(stateName)
-  const displayTownName = deslugify(townName)
+  const { cityId } = useParams()
+  const navigate = useNavigate()
 
-  const { temples: allStateTemples, status } = useStateTemples2(displayStateName)
-  const stateData = statesAndCities.find((s) => s.state === displayStateName)
-
-  // Filter temples for this specific town
-  const townTemples = allStateTemples.filter((t) => t.town === displayTownName)
-
-  // Get town type and coordinates
-  const townData = allStateTemples.find((t) => t.town === displayTownName)
-
-  if (!stateData) {
+  if (!cityId) {
     return (
       <div className="page">
-        <p className="status status-error">State not found</p>
+        <p className="status status-error">No city ID provided</p>
         <Link to="/">← Back to Home</Link>
       </div>
     )
   }
 
-  if (!townData) {
+  const { temples: townTemples, status, error, city } = useTemples(parseInt(cityId))
+
+  if (status === 'error') {
     return (
       <div className="page">
-        <p className="status status-error">Town not found</p>
-        <Link to={`/state/${stateName}`}>← Back to {displayStateName}</Link>
+        <p className="status status-error">{error || 'Failed to load city'}</p>
+        <Link to="/">← Back to Home</Link>
       </div>
     )
   }
+
+  const cityName = city?.name || 'Loading...'
+  const stateName = city?.state || 'Loading...'
+  const stateId = city?.state_id
 
   return (
     <div className="page">
       <nav style={{ marginBottom: '1.5rem', fontSize: '0.9rem', color: '#666' }}>
         <Link to="/" style={{ color: '#0066cc', textDecoration: 'none' }}>Home</Link>
         <span> / </span>
-        <Link to={`/state/${stateName}`} style={{ color: '#0066cc', textDecoration: 'none' }}>
-          {displayStateName}
-        </Link>
-        <span> / {displayTownName}</span>
+        {stateId && (
+          <>
+            <Link to={`/state/${stateId}`} style={{ color: '#0066cc', textDecoration: 'none' }}>
+              {stateName}
+            </Link>
+            <span> / </span>
+          </>
+        )}
+        <span>{cityName}</span>
       </nav>
 
-      <div className="detail-title-row">
-        <div>
-          <h1>{displayTownName}</h1>
-          <p style={{ fontSize: '1.1rem', color: '#666', marginTop: '0.5rem' }}>
-            <strong>State:</strong> {displayStateName} | <strong>Type:</strong> {townData.type}
-          </p>
-        </div>
+      <div style={{ marginBottom: '2rem' }}>
+        <h1>{cityName}</h1>
+        {stateName && <p style={{ fontSize: '1.1rem', color: '#666' }}>{stateName}</p>}
       </div>
 
-      <section className="detail-section">
-        <h2>About {displayTownName}</h2>
-        <dl className="facts">
-          <div className="fact">
-            <dt>Town</dt>
-            <dd>{displayTownName}</dd>
-          </div>
-          <div className="fact">
-            <dt>State</dt>
-            <dd>{displayStateName}</dd>
-          </div>
-          <div className="fact">
-            <dt>Type</dt>
-            <dd>{townData.type}</dd>
-          </div>
-          <div className="fact">
-            <dt>Coordinates</dt>
-            <dd>
-              {townData.lat.toFixed(4)}°N, {townData.lon.toFixed(4)}°E
-            </dd>
-          </div>
-        </dl>
-      </section>
-
-      <section className="detail-section">
-        <LeafletMap lat={townData.lat} lng={townData.lon} title={`${displayTownName} Location`} />
-      </section>
-
       {status === 'loading' && <p>Loading temples...</p>}
-      {status === 'error' && <p>Error loading temples</p>}
 
-      {townTemples.length > 0 && (
-        <section className="detail-section">
-          <TempleTable
-            temples={townTemples}
-            title={`Temples in ${displayTownName}`}
-            showStateCity={false}
-            format="temples2"
-          />
-        </section>
+      {status === 'ready' && townTemples.length > 0 && (
+        <>
+          <div style={{ marginBottom: '2rem' }}>
+            <h2>Location Map</h2>
+            {city?.lat && city?.lon && (
+              <div style={{ height: '400px', borderRadius: '8px', overflow: 'hidden' }}>
+                <LeafletMap
+                  locations={townTemples}
+                  center={[city.lat, city.lon]}
+                  zoom={12}
+                />
+              </div>
+            )}
+          </div>
+
+          <section className="detail-section">
+            <TempleTable
+              temples={townTemples}
+              title={`All Temples in ${cityName}`}
+              showStateCity={true}
+              format="temples2"
+            />
+          </section>
+        </>
       )}
 
       {status === 'ready' && townTemples.length === 0 && (
-        <section className="detail-section">
-          <p>No temples found for {displayTownName}</p>
-        </section>
+        <p style={{ color: '#666' }}>No temples found in {cityName}</p>
       )}
     </div>
   )

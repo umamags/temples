@@ -1,9 +1,11 @@
 import { useState, useEffect } from 'react'
+import { getApiBaseUrl } from '../config/apiConfig'
 
-export function useTemples(state, city) {
+export function useTemples(cityId) {
   const [temples, setTemples] = useState([])
   const [status, setStatus] = useState('loading')
   const [error, setError] = useState(null)
+  const [city, setCity] = useState(null)
 
   useEffect(() => {
     let isMounted = true
@@ -11,19 +13,32 @@ export function useTemples(state, city) {
     async function loadTemples() {
       try {
         setStatus('loading')
-        // Properly encode state name for file path
-        const stateFilename = `${state}.json`
-        const response = await fetch(`${import.meta.env.BASE_URL}data/temples/${encodeURIComponent(stateFilename)}`)
+        const baseUrl = getApiBaseUrl()
+        const response = await fetch(
+          `${baseUrl}/backend/query/getCityTemples.php?city_id=${cityId}`
+        )
 
         if (!response.ok) {
-          throw new Error(`Failed to load temples for ${state}`)
+          throw new Error(`Failed to load temples for city ${cityId}`)
         }
 
-        const data = await response.json()
-        const cityTemples = data.cities[city] || []
+        const result = await response.json()
+
+        if (!result.success) {
+          throw new Error(result.error || 'Failed to load temples')
+        }
 
         if (isMounted) {
-          setTemples(cityTemples)
+          setTemples(result.data || [])
+          // Store city info from first temple if available
+          if (result.data && result.data.length > 0) {
+            setCity({
+              id: cityId,
+              name: result.data[0].city,
+              state: result.data[0].state,
+              state_id: result.data[0].state_id
+            })
+          }
           setStatus('ready')
           setError(null)
         }
@@ -36,14 +51,14 @@ export function useTemples(state, city) {
       }
     }
 
-    if (state && city) {
+    if (cityId) {
       loadTemples()
     }
 
     return () => {
       isMounted = false
     }
-  }, [state, city])
+  }, [cityId])
 
-  return { temples, status, error }
+  return { temples, status, error, city }
 }

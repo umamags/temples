@@ -1,6 +1,5 @@
 import { useState, useEffect } from 'react'
-import { statesAndCities } from './statesData'
-import { getTemples2FileName } from '../utils/stateFileMapping'
+import { getApiBaseUrl } from '../config/apiConfig'
 
 export function useAllTemples() {
   const [allTemples, setAllTemples] = useState([])
@@ -11,41 +10,21 @@ export function useAllTemples() {
 
     async function loadAllTemples() {
       try {
-        const temples = []
+        const baseUrl = getApiBaseUrl()
+        const response = await fetch(`${baseUrl}/backend/query/getAllTemples.php`)
 
-        for (const stateData of statesAndCities) {
-          const fileName = getTemples2FileName(stateData.state)
-          if (!fileName) continue
+        if (!response.ok) {
+          throw new Error(`HTTP ${response.status}`)
+        }
 
-          const response = await fetch(
-            `${import.meta.env.BASE_URL}data/temples2/${encodeURIComponent(fileName)}.json`
-          )
+        const result = await response.json()
 
-          if (!response.ok) continue
-
-          const data = await response.json()
-
-          // data is an array of towns with top_temples
-          if (Array.isArray(data)) {
-            data.forEach((townData) => {
-              if (Array.isArray(townData.top_temples)) {
-                townData.top_temples.forEach((temple) => {
-                  temples.push({
-                    ...temple,
-                    state: stateData.state,
-                    town: townData.town,
-                    type: townData.type,
-                    lat: townData.lat,
-                    lon: townData.lon,
-                  })
-                })
-              }
-            })
-          }
+        if (!result.success) {
+          throw new Error(result.error || 'Failed to load temples')
         }
 
         if (isMounted) {
-          setAllTemples(temples)
+          setAllTemples(result.data || [])
           setStatus('ready')
         }
       } catch (err) {

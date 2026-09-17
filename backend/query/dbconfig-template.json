@@ -1,0 +1,14 @@
+{
+  "local": {
+    "host": "localhost",
+    "database": "YOUR_LOCAL_DB_NAME",
+    "user": "YOUR_LOCAL_DB_USER",
+    "password": "YOUR_LOCAL_DB_PASSWORD"
+  },
+  "prod": {
+    "host": "YOUR_PROD_HOST",
+    "database": "YOUR_PROD_DB_NAME",
+    "user": "YOUR_PROD_DB_USER",
+    "password": "YOUR_PROD_DB_PASSWORD"
+  }
+}

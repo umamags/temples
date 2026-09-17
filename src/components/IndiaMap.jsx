@@ -1,15 +1,31 @@
 import { useMemo } from 'react'
 import { geoMercator, geoPath } from 'd3-geo'
 import { useIndiaAtlas } from '../data/useIndiaAtlas'
-import { citiesWithTempleData } from '../data/citiesWithTempleData'
 import { useVisitedTemples } from '../hooks/useVisitedTemples'
 
 const WIDTH = 600
 const PADDING = 16
 
-export default function IndiaMap({ onCityClick, onStateClick, height = 400 }) {
+export default function IndiaMap({ locations = [], states = [], onCityClick, onStateClick, height = 400 }) {
   const { status, featureCollection, colorByName } = useIndiaAtlas()
   const { visitedTemples } = useVisitedTemples()
+
+  // Create maps for faster lookup
+  const locationMap = useMemo(() => {
+    const map = new Map()
+    locations.forEach(loc => {
+      map.set(loc.name, loc)
+    })
+    return map
+  }, [locations])
+
+  const stateMap = useMemo(() => {
+    const map = new Map()
+    states.forEach(state => {
+      map.set(state.name, state)
+    })
+    return map
+  }, [states])
 
   const { path, projection } = useMemo(() => {
     if (!featureCollection) return { path: null, projection: null }
@@ -28,16 +44,28 @@ export default function IndiaMap({ onCityClick, onStateClick, height = 400 }) {
 
   const handleStateClick = (stateName) => {
     if (onStateClick) {
-      onStateClick(stateName)
+      const state = stateMap.get(stateName)
+      if (state) {
+        onStateClick(state.id)
+      }
     }
   }
 
-  const isVisitedCity = (city) => {
+  const handleCityClick = (cityName, stateName) => {
+    if (onCityClick) {
+      const location = locationMap.get(cityName)
+      if (location) {
+        onCityClick(location.id)
+      }
+    }
+  }
+
+  const isVisitedLocation = (location) => {
     return Array.from(visitedTemples).some((key) => {
       const parts = key.split('-')
       if (parts.length < 2) return false
       const cityName = parts.slice(1).join('-')
-      return cityName === city.city || cityName.includes(city.city)
+      return cityName === location.name || cityName.includes(location.name)
     })
   }
 
@@ -89,16 +117,19 @@ export default function IndiaMap({ onCityClick, onStateClick, height = 400 }) {
 
       {/* Render city points as small dots with tooltips (only cities with temple data) */}
       {projection &&
-        citiesWithTempleData.map((city) => {
-          const [x, y] = projection([city.lon, city.lat])
-          const dotColor = isVisitedCity(city) ? '#ff0000' : '#1a1a1a'
+        locations.map((location) => {
+          if (!location.lat || !location.lon) return null
+
+          const [x, y] = projection([location.lon, location.lat])
+          const dotColor = isVisitedLocation(location) ? '#ff0000' : '#1a1a1a'
+
           return (
             <g
-              key={`${city.state}-${city.city}`}
-              onClick={() => onCityClick && onCityClick(city.state, city.city)}
+              key={`${location.state}-${location.id}`}
+              onClick={() => handleCityClick(location.name, location.state)}
             >
               <circle cx={x} cy={y} r={2.5} fill={dotColor} className="city-dot" />
-              <title>{city.city}</title>
+              <title>{location.name}, {location.state}</title>
             </g>
           )
         })}

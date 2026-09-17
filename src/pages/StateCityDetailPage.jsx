@@ -1,55 +1,45 @@
 import { Link, useParams, useNavigate } from 'react-router-dom'
-import { statesAndCities } from '../data/statesData'
-import { citiesWithTempleData } from '../data/citiesWithTempleData'
-import { deslugify, slugify } from '../utils/slug'
 import { useTemples } from '../data/useTemples'
 import TempleTable from '../components/TempleTable'
 import IndiaMap from '../components/IndiaMap'
 
 export default function StateCityDetailPage() {
-  const { stateName, cityName } = useParams()
+  const { cityId } = useParams()
   const navigate = useNavigate()
 
-  const displayStateName = deslugify(stateName)
-  const displayCityName = deslugify(cityName)
-
-  // Find state from statesData
-  const stateData = statesAndCities.find((s) => s.state === displayStateName)
-
-  // Find city from citiesWithTempleData (the source of truth)
-  const cityWithTempleData = citiesWithTempleData.find(
-    (c) => c.state === displayStateName && c.city === displayCityName
-  )
-
-  // Also check if city is in stateData for backward compatibility
-  const cityInState = stateData?.cities.find((c) => c.name === displayCityName)
-
-  const { temples, status: templesStatus } = useTemples(displayStateName, displayCityName)
-
-  if (!stateData || (!cityWithTempleData && !cityInState)) {
+  if (!cityId) {
     return (
       <div className="page">
-        <p className="status status-error">State or city not found.</p>
+        <p className="status status-error">No city ID provided</p>
         <Link to="/">← Back to Home</Link>
       </div>
     )
   }
 
-  // Use city data from whichever source has it
-  const city = cityWithTempleData || cityInState
+  const { temples, status: templesStatus, error, city } = useTemples(parseInt(cityId))
 
-  const handleCityClick = (state, clickedCity) => {
-    if (state === displayStateName && clickedCity === displayCityName) {
-      return // Already on this page
-    }
-    navigate(`/state/${slugify(state)}/city/${slugify(clickedCity)}`)
+  if (templesStatus === 'error') {
+    return (
+      <div className="page">
+        <p className="status status-error">{error || 'Failed to load city details'}</p>
+        <Link to="/">← Back to Home</Link>
+      </div>
+    )
   }
 
-  const handleStateClick = (state) => {
-    if (state === displayStateName) {
-      return // Already on this state's page
+  const cityName = city?.name || 'Loading...'
+  const stateName = city?.state || 'Loading...'
+  const stateId = city?.state_id
+
+  const handleStateClick = (clickedStateId) => {
+    navigate(`/state/${clickedStateId}`)
+  }
+
+  const handleCityClick = (clickedCityId) => {
+    if (clickedCityId === cityId) {
+      return // Already on this page
     }
-    navigate(`/state/${slugify(state)}`)
+    navigate(`/city/${clickedCityId}`)
   }
 
   return (
@@ -60,86 +50,65 @@ export default function StateCityDetailPage() {
 
       <div className="detail-title-row">
         <div>
-          <h1>{displayCityName}</h1>
+          <h1>{cityName}</h1>
           <p style={{ fontSize: '1.1rem', color: '#666', marginTop: '0.5rem' }}>
-            <strong>{displayStateName}</strong>
+            <strong>{stateName}</strong>
           </p>
         </div>
       </div>
 
       <div className="map-container">
-        <IndiaMap onCityClick={handleCityClick} onStateClick={handleStateClick} height={400} />
+        <IndiaMap
+          onCityClick={handleCityClick}
+          onStateClick={handleStateClick}
+          height={400}
+        />
       </div>
 
       <section className="detail-section">
-        <h2>About {displayCityName}</h2>
+        <h2>About {cityName}</h2>
         <dl className="facts">
           <div className="fact">
             <dt>City</dt>
-            <dd>{displayCityName}</dd>
+            <dd>{cityName}</dd>
           </div>
           <div className="fact">
             <dt>State</dt>
-            <dd>{displayStateName}</dd>
+            <dd>{stateName}</dd>
           </div>
-          <div className="fact">
-            <dt>State Capital</dt>
-            <dd>{stateData.capital}</dd>
-          </div>
-          <div className="fact">
-            <dt>Coordinates</dt>
-            <dd>
-              {city.lat.toFixed(4)}°N, {city.lon.toFixed(4)}°E
-            </dd>
-          </div>
+          {city?.lat && city?.lon && (
+            <div className="fact">
+              <dt>Coordinates</dt>
+              <dd>
+                {city.lat.toFixed(4)}°N, {city.lon.toFixed(4)}°E
+              </dd>
+            </div>
+          )}
         </dl>
       </section>
 
-      <section className="detail-section">
-        <h2>Nearby Cities in {displayStateName}</h2>
-        <ul className="named-list">
-          {stateData.cities.map((c) => (
-            <li key={c.name}>
-              {c.name === displayCityName ? (
-                <span className="named-list-name" style={{ color: '#0066cc', fontWeight: 'bold' }}>
-                  {c.name} (Current)
-                </span>
-              ) : (
-                <button
-                  type="button"
-                  onClick={() => handleCityClick(displayStateName, c.name)}
-                  style={{
-                    background: 'none',
-                    border: 'none',
-                    color: '#0066cc',
-                    cursor: 'pointer',
-                    textDecoration: 'underline',
-                    padding: 0,
-                    fontSize: 'inherit',
-                  }}
-                  className="named-list-name"
-                >
-                  {c.name}
-                </button>
-              )}
-            </li>
-          ))}
-        </ul>
-      </section>
+      {templesStatus === 'loading' && (
+        <section className="detail-section">
+          <p>Loading temples...</p>
+        </section>
+      )}
 
-      <section className="detail-section">
-        {templesStatus === 'loading' && <p style={{ color: '#666' }}>Loading temples...</p>}
-        {templesStatus === 'error' && <p style={{ color: '#e74c3c' }}>Unable to load temples data</p>}
-        {templesStatus === 'ready' && temples.length > 0 ? (
+      {temples.length > 0 && (
+        <section className="detail-section">
           <TempleTable
             temples={temples}
-            title={`Temples and Sacred Sites in ${displayCityName}`}
+            title={`Temples in ${cityName}`}
             showStateCity={false}
+            format="temples2"
           />
-        ) : templesStatus === 'ready' ? (
-          <p style={{ color: '#999' }}>No temples data available for {displayCityName} yet.</p>
-        ) : null}
-      </section>
+        </section>
+      )}
+
+      {templesStatus === 'ready' && temples.length === 0 && (
+        <section className="detail-section">
+          <p>No temples found in {cityName}</p>
+        </section>
+      )}
     </div>
   )
 }

@@ -1,41 +1,39 @@
-import { Link, useParams } from 'react-router-dom'
-import { statesAndCities } from '../data/statesData'
-import { deslugify, slugify } from '../utils/slug'
+import { Link, useParams, useNavigate } from 'react-router-dom'
 import { useStateTemples2 } from '../data/useStateTemples2'
 import TempleTable from '../components/TempleTable'
 import StatePinMap from '../components/StatePinMap'
 
 export default function StateDetailPage() {
-  const { stateName } = useParams()
+  const { stateId } = useParams()
+  const navigate = useNavigate()
 
-  if (!stateName) {
-    return <div className="page"><p>No state name provided</p></div>
+  if (!stateId) {
+    return <div className="page"><p>No state ID provided</p></div>
   }
 
-  const displayStateName = deslugify(stateName)
-  const { temples: stateTemples, status } = useStateTemples2(displayStateName)
-  const stateData = statesAndCities.find((s) => s.state === displayStateName)
+  const { temples: stateTemples, status, state } = useStateTemples2(parseInt(stateId))
 
-  if (!stateData) {
+  if (status === 'error') {
     return (
       <div className="page">
-        <p className="status status-error">State not found</p>
+        <p className="status status-error">Failed to load state</p>
         <Link to="/">Back to Home</Link>
       </div>
     )
   }
 
+  const stateName = state?.name || 'Loading...'
+
   const handlePinClick = (town) => {
-    const stateSlug = slugify(displayStateName)
-    const townSlug = slugify(town.town)
-    window.location.href = `/temples/state/${stateSlug}/${townSlug}`
+    navigate(`/city/${town.location_id}`)
   }
 
   const uniqueTowns = stateTemples.reduce((acc, temple) => {
-    const exists = acc.find((t) => t.town === temple.town && t.type === temple.type)
+    const exists = acc.find((t) => t.location_id === temple.location_id)
     if (!exists) {
       acc.push({
         town: temple.town,
+        location_id: temple.location_id,
         type: temple.type,
         lat: temple.lat,
         lon: temple.lon,
@@ -48,19 +46,18 @@ export default function StateDetailPage() {
     <div className="page">
       <nav style={{ marginBottom: '1.5rem', fontSize: '0.9rem', color: '#666' }}>
         <Link to="/" style={{ color: '#0066cc', textDecoration: 'none' }}>Home</Link>
-        <span> / {displayStateName}</span>
+        <span> / {stateName}</span>
       </nav>
 
-      <h1>{displayStateName}</h1>
-      <p>Capital: {stateData.capital}</p>
+      <h1>{stateName}</h1>
 
       <div className="map-container">
         {status === 'loading' && <p>Loading temples...</p>}
         {status === 'error' && <p>Error loading temples</p>}
-        {status === 'ready' && <p>Found {stateTemples.length} temples in {uniqueTowns.length} towns</p>}
+        {status === 'ready' && <p>Found {stateTemples.length} temples in {uniqueTowns.length} locations</p>}
         {status === 'ready' && uniqueTowns.length > 0 && (
           <StatePinMap
-            stateName={displayStateName}
+            stateName={stateName}
             towns={uniqueTowns}
             onPinClick={handlePinClick}
             height={400}
@@ -72,7 +69,7 @@ export default function StateDetailPage() {
         <section className="detail-section">
           <TempleTable
             temples={stateTemples}
-            title={`All Temples in ${displayStateName}`}
+            title={`All Temples in ${stateName}`}
             showStateCity={true}
             format="temples2"
           />

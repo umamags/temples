@@ -1,102 +1,46 @@
 import { useState, useEffect } from 'react'
-import { findBestMatch } from '../utils/stringMatch'
-import { getTemples2FileName } from '../utils/stateFileMapping'
+import { getApiBaseUrl } from '../config/apiConfig'
 
-export function useStateTemples2(stateName) {
+export function useStateTemples2(stateId) {
   const [temples, setTemples] = useState([])
   const [status, setStatus] = useState('loading')
+  const [state, setState] = useState(null)
 
   useEffect(() => {
     let isMounted = true
 
     async function loadStateTemples() {
       try {
-        if (!stateName) {
+        if (!stateId) {
           setTemples([])
           setStatus('ready')
           return
         }
 
-        // Get the correct file name for temples2
-        const fileName = getTemples2FileName(stateName)
-        if (!fileName) {
-          console.error(`No file mapping found for state: ${stateName}`)
-          if (isMounted) {
-            setStatus('error')
-          }
-          return
-        }
-
-        // Load new temples2 data
-        const temples2Response = await fetch(
-          `${import.meta.env.BASE_URL}data/temples2/${encodeURIComponent(
-            fileName
-          )}.json`
+        const baseUrl = getApiBaseUrl()
+        const response = await fetch(
+          `${baseUrl}/backend/query/getStateTemples.php?state_id=${stateId}`
         )
 
-        if (!temples2Response.ok) {
-          console.error(`Failed to load temples2 for ${stateName}`)
-          if (isMounted) {
-            setStatus('error')
-          }
-          return
+        if (!response.ok) {
+          throw new Error(`HTTP ${response.status}`)
         }
 
-        const temples2Data = await temples2Response.json()
+        const result = await response.json()
 
-        // Load old data for merging year_constructed and festivals
-        const oldResponse = await fetch(
-          `${import.meta.env.BASE_URL}data/temples/${encodeURIComponent(
-            stateName
-          )}.json`
-        )
-
-        let oldTemplesByCity = {}
-        if (oldResponse.ok) {
-          const oldData = await oldResponse.json()
-          oldTemplesByCity = oldData.cities || {}
+        if (!result.success) {
+          throw new Error(result.error || 'Failed to load temples')
         }
-
-        // Merge data
-        const mergedTemples = []
-
-        temples2Data.forEach((townData) => {
-          const oldCityTemples = oldTemplesByCity[townData.town] || []
-          const oldTempleNames = oldCityTemples.map((t) => t.name)
-
-          townData.top_temples.forEach((temple) => {
-            // Try to find matching temple in old data
-            let matchedOldTemple = null
-
-            if (oldTempleNames.length > 0) {
-              const bestMatch = findBestMatch(temple.name, oldTempleNames)
-              if (bestMatch) {
-                matchedOldTemple = oldCityTemples.find(
-                  (t) => t.name === bestMatch
-                )
-              }
-            }
-
-            mergedTemples.push({
-              // New data
-              name: temple.name,
-              deity: temple.deity,
-              location_note: temple.location_note,
-              state: townData.state,
-              town: townData.town,
-              type: townData.type,
-              lat: townData.lat,
-              lon: townData.lon,
-              // Old data (if matched)
-              year_constructed: matchedOldTemple?.year_constructed || null,
-              festivals_and_events:
-                matchedOldTemple?.festivals_and_events || [],
-            })
-          })
-        })
 
         if (isMounted) {
-          setTemples(mergedTemples)
+          setTemples(result.data || [])
+          // Store state info from first temple if available
+          if (result.data && result.data.length > 0) {
+            setState({
+              id: stateId,
+              name: result.data[0].state
+            })
+          }
           setStatus('ready')
         }
       } catch (err) {
@@ -112,7 +56,7 @@ export function useStateTemples2(stateName) {
     return () => {
       isMounted = false
     }
-  }, [stateName])
+  }, [stateId])
 
-  return { temples, status }
+  return { temples, status, state }
 }

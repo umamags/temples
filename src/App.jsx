@@ -14,10 +14,9 @@ export default function App() {
       <Routes>
         <Route path="/" element={<Layout />}>
           <Route index element={<HomePage />} />
-          <Route path="state/:stateName" element={<StateDetailPage />} />
-          <Route path="state/:stateName/:townName" element={<StateTownDetailPage />} />
-          <Route path="temple/:stateName" element={<TempleListPage />} />
-          <Route path="temple/:stateName/:cityName/:templeName" element={<TempleDetailPage />} />
+          <Route path="state/:stateId" element={<StateDetailPage />} />
+          <Route path="city/:cityId" element={<StateTownDetailPage />} />
+          <Route path="temple/:templeId" element={<TempleDetailPage />} />
           <Route path="search" element={<SearchResultsPage />} />
         </Route>
       </Routes>
