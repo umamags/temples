@@ -7,13 +7,13 @@ export function getApiBaseUrl() {
     return 'http://localhost:8000'
   }
 
-  // For production, use ai-lab.in
+  // For production, use ai-lab.in/temples
   if (hostname.includes('ai-lab.in')) {
-    return 'https://ai-lab.in'
+    return 'https://ai-lab.in/temples'
   }
 
-  // Default to ai-lab.in
-  return 'https://ai-lab.in'
+  // Default to ai-lab.in/temples
+  return 'https://ai-lab.in/temples'
 }
 
 // Get the upload path based on the current environment
