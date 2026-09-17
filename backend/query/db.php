@@ -34,12 +34,21 @@ class Database {
     }
 
     private function loadConfig() {
-        $configFile = __DIR__ . '/dbconfig.json';
+        $environment = $this->detectEnvironment();
+
+        // Determine config file path based on environment
+        if ($environment === 'prod') {
+            // Production: load from protected folder outside web root
+            $configFile = __DIR__ . '/../../../protected/dbconfig.json';
+        } else {
+            // Local: load from same folder
+            $configFile = __DIR__ . '/dbconfig.json';
+        }
 
         if (!file_exists($configFile)) {
             throw new Exception(
                 "Configuration file not found: $configFile\n" .
-                "Please copy dbconfig-template.json to dbconfig.json and update with your values"
+                "Please ensure dbconfig.json exists at the correct location for your environment"
             );
         }
 
