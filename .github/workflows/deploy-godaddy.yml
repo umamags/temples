@@ -68,8 +68,9 @@ jobs:
           ssh -p ${{ secrets.SSH_PORT }} ${{ secrets.SSH_USER }}@${{ secrets.SSH_HOST }} \
             "rm -rf /home/fbmerf3ynq50/public_html/temples/* && mkdir -p /home/fbmerf3ynq50/public_html/temples"
 
-          # Copy React app files using SCP
+          # Copy React app files using SCP (including hidden files)
           scp -r -P ${{ secrets.SSH_PORT }} ./dist/* ${{ secrets.SSH_USER }}@${{ secrets.SSH_HOST }}:/home/fbmerf3ynq50/public_html/temples/
+          scp -r -P ${{ secrets.SSH_PORT }} ./dist/.htaccess ${{ secrets.SSH_USER }}@${{ secrets.SSH_HOST }}:/home/fbmerf3ynq50/public_html/temples/
 
           # Copy backend files using SCP
           scp -r -P ${{ secrets.SSH_PORT }} ./backend ${{ secrets.SSH_USER }}@${{ secrets.SSH_HOST }}:/home/fbmerf3ynq50/public_html/temples/
