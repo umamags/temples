@@ -25,16 +25,16 @@ export default function App() {
           <Route path="city/:cityId" element={<StateTownDetailPage />} />
           <Route path="temple/:templeId" element={<TempleDetailPage />} />
           <Route path="search" element={<SearchResultsPage />} />
-        </Route>
 
-        {/* Admin Routes */}
-        <Route path="admin" element={<AdminDashboard />} />
-        <Route path="admin/locations" element={<AdminLocationsPage />} />
-        <Route path="admin/locations/add" element={<AdminLocationsAddPage />} />
-        <Route path="admin/locations/:locationId/edit" element={<AdminLocationsEditPage />} />
-        <Route path="admin/temples" element={<AdminTemplesPage />} />
-        <Route path="admin/temples/add" element={<AdminTemplesAddPage />} />
-        <Route path="admin/temples/:templeId/edit" element={<AdminTemplesEditPage />} />
+          {/* Admin Routes */}
+          <Route path="admin" element={<AdminDashboard />} />
+          <Route path="admin/locations" element={<AdminLocationsPage />} />
+          <Route path="admin/locations/add" element={<AdminLocationsAddPage />} />
+          <Route path="admin/locations/:locationId/edit" element={<AdminLocationsEditPage />} />
+          <Route path="admin/temples" element={<AdminTemplesPage />} />
+          <Route path="admin/temples/add" element={<AdminTemplesAddPage />} />
+          <Route path="admin/temples/:templeId/edit" element={<AdminTemplesEditPage />} />
+        </Route>
       </Routes>
     </BrowserRouter>
   )
