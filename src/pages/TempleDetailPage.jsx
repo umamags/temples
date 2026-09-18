@@ -193,18 +193,7 @@ export default function TempleDetailPage() {
 
         {/* Map */}
         {temple.lat && temple.lon && (
-          <section style={{ marginBottom: '3rem' }}>
-            <h2 style={{ fontSize: '1.4rem', marginBottom: '1rem', color: '#1a1a1a' }}>
-              Location Map
-            </h2>
-            <div style={{ height: '400px', borderRadius: '8px', overflow: 'hidden' }}>
-              <LeafletMap
-                locations={[temple]}
-                center={[temple.lat, temple.lon]}
-                zoom={12}
-              />
-            </div>
-          </section>
+          <LeafletMap lat={temple.lat} lng={temple.lon} title={`${temple.name} Location`} />
         )}
 
         {/* Back Button */}

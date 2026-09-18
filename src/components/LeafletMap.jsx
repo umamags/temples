@@ -56,7 +56,10 @@ export default function LeafletMap({ lat, lng, title = 'Location' }) {
 
   return (
     <div style={{ marginBottom: '2rem', paddingBottom: '2rem', borderBottom: '2px solid #e0e0e0' }}>
-      <h2 style={{ fontSize: '1.5rem', marginBottom: '1rem' }}>{title}</h2>
+      <h2 style={{ fontSize: '1.5rem', marginBottom: '0.5rem' }}>{title}</h2>
+      <p style={{ fontSize: '0.95rem', color: '#666', marginBottom: '1rem' }}>
+        {lat.toFixed(4)}°N, {lng.toFixed(4)}°E
+      </p>
       <div
         ref={mapContainer}
         style={{

@@ -32,12 +32,15 @@ export function useTemples(cityId) {
           setTemples(result.data || [])
           // Store city info from first temple if available
           if (result.data && result.data.length > 0) {
-            setCity({
+            const cityData = {
               id: cityId,
               name: result.data[0].city,
               state: result.data[0].state,
-              state_id: result.data[0].state_id
-            })
+              state_id: result.data[0].state_id,
+              lat: result.data[0].lat,
+              lon: result.data[0].lon
+            }
+            setCity(cityData)
           }
           setStatus('ready')
           setError(null)

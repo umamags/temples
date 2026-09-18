@@ -2,6 +2,7 @@ import { Link, useParams, useNavigate } from 'react-router-dom'
 import { useTemples } from '../data/useTemples'
 import TempleTable from '../components/TempleTable'
 import IndiaMap from '../components/IndiaMap'
+import LeafletMap from '../components/LeafletMap'
 
 export default function StateCityDetailPage() {
   const { cityId } = useParams()
@@ -64,6 +65,10 @@ export default function StateCityDetailPage() {
           height={400}
         />
       </div>
+
+      {city?.lat && city?.lon && (
+        <LeafletMap lat={city.lat} lng={city.lon} title={`${cityName} Location`} />
+      )}
 
       <section className="detail-section">
         <h2>About {cityName}</h2>

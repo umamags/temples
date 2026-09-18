@@ -56,18 +56,9 @@ export default function StateTownDetailPage() {
 
       {status === 'ready' && townTemples.length > 0 && (
         <>
-          <div style={{ marginBottom: '2rem' }}>
-            <h2>Location Map</h2>
-            {city?.lat && city?.lon && (
-              <div style={{ height: '400px', borderRadius: '8px', overflow: 'hidden' }}>
-                <LeafletMap
-                  locations={townTemples}
-                  center={[city.lat, city.lon]}
-                  zoom={12}
-                />
-              </div>
-            )}
-          </div>
+          {city?.lat && city?.lon && (
+            <LeafletMap lat={city.lat} lng={city.lon} title={`${cityName} Location`} />
+          )}
 
           <section className="detail-section">
             <TempleTable
