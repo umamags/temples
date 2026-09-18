@@ -44,6 +44,7 @@ export default function StatePinMap({
           type: town.type,
           lat: town.lat,
           lon: town.lon,
+          location_id: town.location_id,
         })
       }
     })
