@@ -26,9 +26,6 @@ jobs:
       - name: Build application
         run: npm run build
 
-      - name: Copy .htaccess to dist
-        run: cp public/.htaccess dist/.htaccess
-
       - name: Upload dist artifact
         uses: actions/upload-artifact@v4
         with:
@@ -71,12 +68,24 @@ jobs:
           ssh -p ${{ secrets.SSH_PORT }} ${{ secrets.SSH_USER }}@${{ secrets.SSH_HOST }} \
             "rm -rf /home/fbmerf3ynq50/public_html/temples/* && mkdir -p /home/fbmerf3ynq50/public_html/temples"
 
-          # Copy React app files using SCP (including .htaccess)
+          # Copy React app files using SCP
           scp -r -P ${{ secrets.SSH_PORT }} ./dist/* ${{ secrets.SSH_USER }}@${{ secrets.SSH_HOST }}:/home/fbmerf3ynq50/public_html/temples/
-          scp -P ${{ secrets.SSH_PORT }} ./dist/.htaccess ${{ secrets.SSH_USER }}@${{ secrets.SSH_HOST }}:/home/fbmerf3ynq50/public_html/temples/
 
           # Copy backend files using SCP
           scp -r -P ${{ secrets.SSH_PORT }} ./backend ${{ secrets.SSH_USER }}@${{ secrets.SSH_HOST }}:/home/fbmerf3ynq50/public_html/temples/
+
+          # Create .htaccess file on server for SPA routing
+          ssh -p ${{ secrets.SSH_PORT }} ${{ secrets.SSH_USER }}@${{ secrets.SSH_HOST }} << 'HTACCESS'
+          cat > /home/fbmerf3ynq50/public_html/temples/.htaccess << 'EOF'
+          <IfModule mod_rewrite.c>
+            RewriteEngine On
+            RewriteBase /temples/
+            RewriteCond %{REQUEST_FILENAME} !-f
+            RewriteCond %{REQUEST_FILENAME} !-d
+            RewriteRule ^ index.html [QSA,L]
+          </IfModule>
+          EOF
+          HTACCESS
 
       - name: Verify deployment
         run: |
