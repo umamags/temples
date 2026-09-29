@@ -1,0 +1,51 @@
+{
+    "alternate_names": [
+        "Chitai Temple",
+        "Chitai Golu Devta Mandir",
+        "Chitai Gwell"
+    ],
+    "deities": [
+        "Golu Devta (Golju/Goljyu Devata) - an incarnation of Lord Shiva as Gaur Bhairav, worshipped as the God of Justice; depicted riding a horse with bow and arrows in his hands"
+    ],
+    "district": "Almora",
+    "festivals": [
+        "Dussehra (large gathering of devotees per travel reports)",
+        "Jagar folk rituals (annual invocatory ceremonies held by local communities in honour of Golu Devta)"
+    ],
+    "history": {
+        "dynasty": "Chand dynasty",
+        "period": "12th century (local tradition says a Chand commander built it; one account ties the shrine to a general of Chand king Baj Bahadur, 1638-1678 - dates conflict, verify)",
+        "summary": "CSV TOWN FLAG: the temple is at Chitai village, ~8-9 km from Almora town on the Jageshwar road (SH-37), not in Almora itself; documented with the corrected location. Chitai Golu Devta is the most famous of the many Golu Devta shrines of Kumaon, the 'temple of a million bells'. Golu Devta is venerated as an incarnation of Lord Shiva as Gaur Bhairav and as the God of Justice: devotees write their grievances on stamped paper or letters and hang them on the temple walls, and tie a brass bell when a wish is fulfilled - thousands of bells hang all over the complex. One tradition dates the shrine to the 12th century, built by a commander of the Chand dynasty that ruled Almora; folklore links Golu to the Rai dynasty of Dhumakot (c. 15th century). Another account (optimatravels) says Golu Devta was a general of Chand king Baj Bahadur (1638-1678) who died in battle and was enshrined here. The shrine sits amid dense chir-pine forest and is the most sacred temple for the people of Almora and the neighbouring villages."
+    },
+    "id": "chitai-golu-devta-almora",
+    "latitude": 29.59904,
+    "longitude": 79.66261,
+    "media": [
+        "https://www.indiaunveiled.in/sites/default/files/Golu2.jpg"
+    ],
+    "name": "Chitai Golu Devta Temple",
+    "sources": [
+        "https://www.gloriousuttarakhand.com/chitai-golu-devta-temple/",
+        "http://visitplacesindia.com/attraction/chitai-golu-devta-temple-almora/",
+        "https://www.optimatravels.com/almora-uttarakhand/chitai-golu-devta-temple-almora-uttarakhand-india.aspx",
+        "http://www.nainitalcorbetttourism.com/chitai-golu-devta-temple-almora.html"
+    ],
+    "state": "Uttarakhand",
+    "town": "Chitai (CSV town 'Almora' is imprecise - the temple is ~8-9 km from Almora town on the Almora-Jageshwar road)",
+    "town_description": "Chitai is a small village on State Highway 37 between Almora and Jageshwar in the Kumaon Himalaya, set amid dense chir-pine and mimosa forest. Its fame rests entirely on the bell temple of Golu Devta, one of the most visited religious sites around Almora.",
+    "tradition": "Hinduism (Kumaoni folk deity worship)",
+    "travel": {
+        "airport": "Pantnagar Airport (~124 km per travel guide); IGI Airport Delhi (~352 km)",
+        "railway": "Kathgodam railway station - nearest railhead, then road to Almora",
+        "road": "8-9 km from Almora on the Jageshwar road (SH-37); shared taxis and buses run through the day/evening from Almora"
+    },
+    "video": {
+        "audio": "",
+        "script": "",
+        "video_file": ""
+    },
+    "visitor_information": {
+        "best_time": "March to June and September to November for pleasant weather",
+        "opening_hours": "6:00 AM - 12:00 PM and 5:00 PM - 10:00 PM daily per one travel guide (verify locally)"
+    }
+}
