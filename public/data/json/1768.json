@@ -1,0 +1,54 @@
+{
+  "alternate_names": [
+    "Chottanikkara Devi Temple",
+    "Melekavu Bhagavathy Temple",
+    "Chottanikkara Rajarajeswari Temple"
+  ],
+  "deities": [
+    "Bhagavathy (Rajarajeswari / Adi Parashakti)",
+    "Mahavishnu (Narayana, on the same pedestal)"
+  ],
+  "district": "Ernakulam",
+  "festivals": [
+    "Makam Thozhal (Makam asterism in Kumbham, Feb-March; the most important festival)",
+    "Navarathri",
+    "Valiya Guruthi (daily evening ritual at the Kizhukkavu shrine)"
+  ],
+  "history": {
+    "dynasty": "Unknown (legend attributes the temple to Kannappan)",
+    "period": "Legend says 1500 years old (UNVERIFIED; one video source says 10th century CE; CONFLICT, verify)",
+    "summary": "HINDU Shaktism temple at Chottanikkara near Kochi, Ernakulam district, under the Cochin Devaswom Board (reportedly the most important of its 393 shrines across 3 districts). The presiding deity Rajarajeswari is worshipped in three forms across the day: Saraswati (white, morning), Lakshmi (crimson, noon) and Durga (blue, evening); an idol of Mahavishnu stands on the same pedestal, giving the names Amme Narayana / Devi Narayana. Legend says the deity was brought from Mookambika (Kollur) and that the temple was raised in a forest by Kannappan after the Goddess revealed herself through his calf. It is famed for healing mental illness and possession, and for the Guruthi ritual at the lower Kizhukkavu (Kizhakkavu) shrine. Temple architecture is noted for fine woodwork by vishwakarma sthapathis; entry through the west, with a Rakthakulam pond."
+  },
+  "id": "chottanikkara-bhagavathy-temple",
+  "latitude": 9.93313,
+  "longitude": 76.39051,
+  "media": [
+    "https://templeaddress-cloud.s3.ap-south-1.amazonaws.com/uat/media/masterdata/images/chottanikkara-bhagavathy-temple.jpg"
+  ],
+  "name": "Chottanikkara Bhagavathy Temple",
+  "sources": [
+    "https://phplexus.astroved.com/ps_blogs/chottanikkara-bhagavathy-temple/",
+    "https://www.hearitage.in/2022/01/chottanikkara-temple-temple-of-goddess.html",
+    "https://chottanikkarabhagavathy.org/bhajanam.php",
+    "https://www.findglocal.com/IN/Chottanikkara/1765825193678524/Chottanikkara-Bhagavathy-Temple",
+    "https://velpu.com/temple/BHAGAVATHY-TEMPLE/NzMz&map=yes"
+  ],
+  "state": "Kerala",
+  "town": "Chottanikkara",
+  "town_description": "Chottanikkara is a town in Ernakulam district, about 17 km south of Kochi city, on the edge of the Kochi urban sprawl. It is one of Kerala's most visited pilgrim centres, drawing devotees year-round for the Bhagavathy temple and its healing rituals. The town sits in gently hilly terrain surrounded by fields and suburban development.",
+  "tradition": "Hinduism (Shaktism)",
+  "travel": {
+    "airport": "Cochin International Airport, about 30 km by road (verify)",
+    "railway": "Ernakulam Junction/Tripunithura (verify), temple is 17 km from Ernakulam",
+    "road": "17 km south of Ernakulam/Kochi; connected by Vennikkulam Road (verify)"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October-March; Makam Thozhal in Feb-March",
+    "opening_hours": "4:00 AM-12:00 PM and 4:00-8:30 PM reported (velpu); one source lists evening close as 8:00 PM - CONFLICT (verify)"
+  }
+}

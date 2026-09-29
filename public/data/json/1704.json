@@ -1,0 +1,52 @@
+{
+  "alternate_names": [
+    "Kedareshwara Temple",
+    "Kedaresvara Temple",
+    "Dakshina Kedara"
+  ],
+  "deities": [
+    "Kedareshvara (Shiva)",
+    "Brahma (south shrine linga)",
+    "Janardhana (Vishnu, north shrine)"
+  ],
+  "district": "Shivamogga",
+  "festivals": [
+    "Maha Shivaratri (verify)"
+  ],
+  "history": {
+    "dynasty": "Western (Later) Chalukya with Hoysala additions",
+    "period": "Late 11th century (c. 1060-1070, per art historian Adam Hardy); inscriptional evidence of Hoysala additions up to 1131 CE",
+    "summary": "CSV town 'Shimoga' corrected: the temple is at Balligavi (ancient inscriptions: Belagami/Belligave/Ballagamve/Ballipura), near Shikaripura, Shivamogga district. Balligavi was an important 11th-12th century city under Western Chalukya rule, described in inscriptions as 'Anadi Rajadhani' (ancient capital) and dotted with agrahara learning centres. The Kedareshvara is a trikuta (three-shrine) temple in a transitional Western Chalukya-Hoysala style, built in soapstone: the central and south shrines hold Shivalingas (the south one identified as Brahma), and the north shrine holds an image of Janardhana (Vishnu) - symbolising the Hindu trinity. Two Hoysala emblems were added in 1060 CE. NOTE: some sources claim the western shrine dates to the 7th-8th century and others credit construction to Hoysala King Veera Ballala II - these conflict with the standard dating (CONFLICT - verify). Protected as a monument of national importance by the Archaeological Survey of India. Coordinates are geocoder-level approximations."
+  },
+  "id": "kedareshvara-temple-balligavi",
+  "latitude": 14.39403,
+  "longitude": 75.24451,
+  "media": [
+    "https://thetempleguru.com/wp-content/uploads/2023/10/Kedareshvara-Temple-Balligavi-12.jpg"
+  ],
+  "name": "Kedareshvara Temple, Balligavi",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Kedareshvara_Temple,_Balligavi",
+    "http://en.wikipedia.org/wiki/Balligavi",
+    "https://lightuptemples.com/en/balligavi-kedareshvara-temple-karnataka/",
+    "http://sahasa.in/2023/02/22/kedareshwara-temple-balligavi-shikaripura-taluka-shimoga-district-karnataka/"
+  ],
+  "state": "Karnataka",
+  "town": "Balligavi",
+  "town_description": "Balligavi (also Belagami/Belligave in medieval inscriptions) is a historic town in Shikaripura taluk of Shivamogga district, Karnataka. A major centre of religion, education and commerce under the 11th-12th century Western Chalukyas - called the 'City of Temples' and described in inscriptions as an ancient capital - it is mentioned in over 80 inscriptions. Today it is a quiet village known for its Kedareshvara and Tripurantakesvara temples and its agrahara (Brahmin learning centre) heritage.",
+  "tradition": "Hinduism (Shaivism)",
+  "travel": {
+    "airport": "Hubballi Airport (~90 km - verify) or Shivamogga Airport (~75 km - verify).",
+    "railway": "Shivamogga/Shikaripura area rail connections (~35-40 km - verify); onward by road.",
+    "road": "Near Shikaripura in Shivamogga district; reached by road from Shivamogga via Shikaripura (verify distances)."
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March for pleasant weather.",
+    "opening_hours": "UNVERIFIED - ASI-protected monument; daytime access typical (verify before visiting)."
+  }
+}

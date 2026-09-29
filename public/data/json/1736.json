@@ -1,0 +1,59 @@
+{
+  "alternate_names": [
+    "Ernakulathappan Temple",
+    "Ernakulam Mahadev Temple",
+    "Ernankulathappan Temple"
+  ],
+  "deities": [
+    "Shiva (in Gourisankara form)",
+    "Parvathi",
+    "Ganesha",
+    "Ayyappa",
+    "Nagaraja",
+    "Kirthamoorthy (Arjuna's original lingam)"
+  ],
+  "district": "Ernakulam",
+  "festivals": [
+    "Uthsavom / Utsavam (Makaram, December-January)",
+    "Pakalpooram",
+    "Arattu",
+    "Maha Shivaratri"
+  ],
+  "history": {
+    "dynasty": "Kingdom of Cochin",
+    "period": "Ancient origins; current structure built 1846 under Diwan Edakkunni Sankara Warrier of the Kochi kingdom",
+    "summary": "Ernakulam Shiva Temple (Ernakulathappan Temple), in the heart of Ernakulam city within the Durbar Hall grounds, is the city temple of Kochi, with the presiding deity regarded as the city's protector. Legend holds that Arjuna installed a Shivalingam here during his penance and received the Pashupatha arrow from Shiva; the lingam was later rediscovered by the cursed sage Devala, who was restored to human form after bathing in the nearby pond called Eere Naal Kulam - said to be the origin of the name Ernakulam. The present temple was built in 1846 under the patronage of Diwan Edakkunni Sankara Warrier, elevated to a royal temple of the Kochi kingdom (one of its 7 royal temples), founded by the Cheranalloor Kartha family of South Chittoor, and is now administered by the Cochin Devaswom Board. The main swayambhoo lingam faces west toward the Arabian Sea, a rare orientation. CSV town corrected: temple is in Ernakulam, the downtown district of Kochi."
+  },
+  "id": "ernakulam-shiva-temple",
+  "latitude": 9.96788,
+  "longitude": 76.28287,
+  "media": [
+    "https://stylesatlife.com/wp-content/uploads/2018/03/Ernakulam-Shiva-Temple.jpg"
+  ],
+  "name": "Ernakulam Shiva Temple",
+  "sources": [
+    "https://www.eranakulamsivatemple.org/",
+    "https://www.holidify.com/places/kochi/ernakulam-mahadev-temple-sightseeing-120745.html",
+    "https://www.citybit.in/india/kochi/ernakulam-shiva-temple/",
+    "https://ipfs.io/ipfs/QmXoypizjW3WknFiJnKLwHCnL72vedxjQkDDP1mXWo6uco/wiki/Ernakulam_Shiva_Temple.html",
+    "https://www.tripadvisor.co.nz/ShowUserReviews-g4053412-d10179009-r319532549-Shiva_Temple-Ernakulam_Kochi_Cochin_Ernakulam_District_Kerala.html"
+  ],
+  "state": "Kerala",
+  "town": "Ernakulam",
+  "town_description": "Ernakulam is the bustling downtown and commercial heart of the city of Kochi in Ernakulam district, Kerala. It grew around the Ernakulam Shiva Temple, which is regarded as the city's own shrine, and today hosts Marine Drive, the Durbar Hall art gallery, major railheads and the high court. It is the modern urban core of Kochi while nearby Fort Kochi and Mattancherry preserve the colonial and trading-era heritage.",
+  "tradition": "Hinduism (Shaivism)",
+  "travel": {
+    "airport": "Cochin International Airport, about 30 km away (verify)",
+    "railway": "Ernakulam Junction railway station, about 2 km; Ernakulam Town station, about 3 km",
+    "road": "In the city centre on Durbar Hall Road; well connected by city buses, autos and taxis; Marine Drive about 3 km away"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "December-January during the annual Uthsavom festival; November to February is the pleasant season",
+    "opening_hours": "CONFLICT (verify): travel directories list 3:00/3:30 AM - 8:00 PM daily, but the temple closes midday - pooja schedules show closing around 11:00 AM and reopening at 4:00 PM. Typical darshan: 3:30 AM - 11:00 AM and 4:00 PM - 8:00 PM."
+  }
+}

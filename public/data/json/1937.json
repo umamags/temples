@@ -1,0 +1,46 @@
+{
+  "alternate_names": [],
+  "deities": [
+    "Lord Shiva (Shivalinga)"
+  ],
+  "district": "Aizawl",
+  "festivals": [
+    "Maha Shivaratri",
+    "Shravan Mondays (verify)"
+  ],
+  "history": {
+    "dynasty": "Unknown",
+    "period": "Contemporary (founding date unverified)",
+    "summary": "AMBIGUOUS IDENTITY — several temples in Aizawl are listed simply as 'Shiv Mandir': Khatla (the most reviewed, ~46 reviews, plus code PPC8+CG5 per one directory), Bawngkawn, Lungmual (near Govt Complex), Armed Veng (Y-47/1) and ITI Veng. With no further identifier in the CSV, this file documents the Khatla Shiv Mandir, the most prominent listing, and flags the alternatives. It is a modest community shrine to Lord Shiva maintained by local Hindus; one directory gives hours 6:00 AM-8:00 PM daily (verify, possibly conflicting). A scholarly history notes an old Hindu mandir in Aizawl predating the first church, but that cannot be tied to any of these specific shrines. No verifiable photograph of an Aizawl Shiv Mandir was found after genuine searching (one image-search hit was a Darjeeling temple and was excluded), so media is left empty. Coordinates are for the Khatla locality and are approximate."
+  },
+  "id": "shiv-mandir",
+  "latitude": 23.7205,
+  "longitude": 92.7159,
+  "media": [],
+  "name": "Shiv Mandir",
+  "sources": [
+    "https://yappe.in/mizoram/aizawl/hindu-temple",
+    "https://evendo.com/locations/india/aizawl/attraction/shiv-mandir-khatla-aizawl",
+    "https://indiamap.com/places/aizawl/worship/shiv-mandir/",
+    "http://www.onefivenine.com/india/Listing/Town/temples/Aizawl/Tlangnuam",
+    "https://rhinoresourcecenter.com/wp-content/uploads/2018/05/1526799962.pdf"
+  ],
+  "state": "Mizoram",
+  "town": "Aizawl",
+  "town_description": "Aizawl is the capital of Mizoram, a hill city built on steep ridges at around 1,130 m elevation in the state's northern hills. Overwhelmingly Christian (Mizo) in population, it is the political, commercial and cultural centre of the state, with a small Hindu minority of Gorkha, Bihari and other non-Mizo communities who maintain the city's handful of temples. Khatla is a central Aizawl locality near the old Assam Rifles areas.",
+  "tradition": "Hinduism (Shaivism)",
+  "travel": {
+    "airport": "Lengpui Airport, ~35 km northwest of Aizawl (verify).",
+    "railway": "Nearest railhead Bairabi, ~110 km (verify).",
+    "road": "Aizawl is connected to Silchar (~180 km) and Guwahati (~450 km) by NH-6; city taxis within town (verify)."
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March (verify); Maha Shivaratri (Feb-March) is the main festival.",
+    "opening_hours": "6:00 AM - 8:00 PM daily per one directory (verify — CONFLICT possible, other small shrines open only morning/evening)."
+  }
+}

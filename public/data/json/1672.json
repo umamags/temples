@@ -1,0 +1,53 @@
+{
+  "alternate_names": [
+    "Hoysaleshwara Temple",
+    "Halebidu Temple",
+    "Hoysaleshvara Temple"
+  ],
+  "deities": [
+    "Shiva (as Hoysaleswara)",
+    "Shiva (as Shantaleswara)",
+    "Surya (smaller sanctum)"
+  ],
+  "district": "Hassan",
+  "festivals": [
+    "Maha Shivaratri",
+    "Local temple anniversaries"
+  ],
+  "history": {
+    "dynasty": "Hoysala (King Vishnuvardhana; commissioned by the officer Ketamalla)",
+    "period": "c. 1121-1160 CE",
+    "summary": "12th-century twin-shrine (dvikuta) Shaiva temple, the largest monument in Halebidu: construction began c. 1121 CE and completed c. 1160 CE under Hoysala king Vishnuvardhana. From contemporary inscriptions, art historian S. Settar records that it was initiated and financed by wealthy Shaiva citizens led by Ketamalla (and Kesarasetti) - in conscious competition with the Vaishnava Chennakeshava Temple at Belur. The two east-facing sanctums enshrine Hoysaleswara and Shantaleswara (named for the king and Queen Shantala Devi), flanked by Nandi shrines, with a smaller sanctum for Surya; carved in soapstone on a raised jagati platform, its wall friezes narrate the Ramayana, Mahabharata and Bhagavata Purana alongside Shaiva, Vaishnava, Shakta and Jain themes (a mark of Hoysala inclusiveness). The original towers are lost; Halebidu (then Dorasamudra, the Hoysala capital) and the temple were sacked and plundered by Delhi Sultanate armies in the early 14th century. Designated a UNESCO World Heritage Site in 2023 as part of the Sacred Ensembles of the Hoysalas."
+  },
+  "id": "hoysaleswara-temple",
+  "latitude": 13.21198,
+  "longitude": 75.99419,
+  "media": [
+    "https://thennagamtours.in/wp-content/uploads/2019/02/Hoysaleswara-Temple-in-Halebidu-Lighten-2.jpg"
+  ],
+  "name": "Hoysaleswara Temple",
+  "sources": [
+    "http://en.wikipedia.org/wiki/Hoysaleswara_Temple",
+    "https://gokshetra.com/hoysaleswara-temple-halebidu/",
+    "https://gokshetra.com/hoysaleswara-temple-bhadravati-darshan-guide/",
+    "https://flic.kr/photos/asienman/15349252599/"
+  ],
+  "state": "Karnataka",
+  "town": "Halebidu",
+  "town_description": "Halebidu is a historic town in Hassan district, Karnataka, once Dorasamudra (Dwarasamudra), the capital of the Hoysala Empire for nearly three centuries. Sacked by Delhi Sultanate armies in the early 14th century, it became the 'old ruined city' (Hale-bidu) whose Hoysala temples - the Hoysaleswara, Kedareshwara and Jain basadis - survive as a UNESCO World Heritage group with Belur. Today it is a quiet agricultural town built around that heritage, with the Hoysala Archaeological Museum and the Dwarasamudra lake anchoring its visitor circuit.",
+  "tradition": "Hinduism (Shaivism)",
+  "travel": {
+    "airport": "Kempegowda International Airport, Bengaluru - ~210-230 km; Mangalore ~185-190 km (verify); Mysore airport ~150 km (verify)",
+    "railway": "Hassan - ~30-32 km; on the Bengaluru/Mangalore lines",
+    "road": "~30 km from Hassan, ~16 km from Belur, ~150 km from Mysore, ~210 km from Bengaluru; regular buses from Hassan and Belur; ASI museum on site (~Rs 5, closed Fridays)"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March (cool season)",
+    "opening_hours": "Commonly cited as 6:30 AM-9:00 PM daily - confirm locally (verify); temple entry free"
+  }
+}

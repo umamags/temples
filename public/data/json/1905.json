@@ -1,0 +1,62 @@
+{
+  "alternate_names": [
+    "Shri Siddheshwar Devasthan",
+    "Siddheshwar Mandir",
+    "Shri Siddeshwar Temple"
+  ],
+  "deities": [
+    "Lord Siddheshwar (Shiva; the main Shiva Linga in the sanctum)",
+    "68 Shiva lingams installed by Shri Siddharameshwar in the main courtyard (including the Amrit/immortality Linga)",
+    "Marble samadhi of Shri Siddharameshwar at the centre of the temple (attained samadhi here in 1167 AD)",
+    "Idolic effigy of Shri Siddharameshwar within the sanctum of the main temple",
+    "Silver-plated Nandi (mythological bull) figure",
+    "Lord Ganesha (small temple in the complex)",
+    "Lord Vithoba (Vitthala) and Goddess Rukmini (small temples in the complex)"
+  ],
+  "district": "Solapur",
+  "festivals": [
+    "Makar Sankranti Yatra (mid-January, 3 days: Bhogi, Sankrant, Kinkrant) - the famous Nandi Dhwaja procession celebrating the symbolic wedding of the saint's Yoga Danda with the Kumbhar Kanya",
+    "Gadda Yatra / Gadda Jatra (15-day fair around the temple during Makar Sankranti)",
+    "Maha Shivaratri",
+    "Shravan month (July-August) special prayers"
+  ],
+  "history": {
+    "dynasty": "Yadava period (Hemadpanti architecture; Chalukya influences); administered since 1899 by the Shri Siddheshwar Devsthan Panch Committee",
+    "period": "12th century CE (Shri Siddharameshwar attained samadhi in 1167 AD)",
+    "summary": "POSSIBLE DUPLICATE of seq 614 / 'Shri Siddheshwar Temple' - this CSV row refers to the same real temple. Research for this file was drawn from the seq 614 record. The Shri Siddheshwar Temple is Solapur's gramdaivat (guardian deity) shrine, dedicated to Siddheshwar - the 12th-century Lingayat saint Shri Siddharameshwar, a yogi and devotee of Shri Mallikarjuna of Srisailam, venerated as a god in the Lingayat (Veerashaiva) faith and counted as one of its five prophets. He was part of the 12th-century Sharana movement and preached the teachings of Basavanna; tradition credits him with 68,000 vachanas in Kannada. As drought-prone Solapur needed water, he had the Siddheshwar lake dug with devotees' help, and the temple stands on an island in that lake."
+  },
+  "id": "siddheshwar-temple-solapur",
+  "latitude": 17.67029,
+  "longitude": 75.9034,
+  "media": [
+    "https://tripxl.com/blog/wp-content/uploads/2024/10/places-to-visit-in-solapur-Cover.jpg"
+  ],
+  "name": "Siddheshwar Temple",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Siddheshwar_Temple,_Solapur",
+    "https://shrisiddheshwar.org/History.php",
+    "https://blog.yatradham.org/siddheshwar-solapur-temple-timings/",
+    "https://gotirupati.com/solapur-siddheshwar-temple/",
+    "https://tripnetra.com/blog/siddheshwar-temple-solapur",
+    "https://tripxl.com/blog/siddheshwar-temple/",
+    "https://inheritage.foundation/heritage/siddheshwar-temple"
+  ],
+  "state": "Maharashtra",
+  "town": "Solapur",
+  "town_description": "Solapur is a city and municipal corporation in south-eastern Maharashtra, near the Karnataka border, and the administrative headquarters of Solapur district. It is a melting pot of Marathi, Telugu and Kannada cultures, a major railway junction on the north-south line, and a textile centre famous for Solapuri chaddars (bed-sheets). Pilgrim centres nearby include Pandharpur (Vithoba) and Akkalkot (Swami Samarth).",
+  "tradition": "Hinduism (Shaivism - Lingayat / Veerashaiva)",
+  "travel": {
+    "airport": "Solapur Airport, the nearest airport (approx. 7-18 km from the temple; verify - sources vary). Pune International Airport is approx. 235-260 km away.",
+    "railway": "Solapur Junction, the nearest railway station (approx. 2-4 km from the temple; verify), well connected to Mumbai, Pune, Hyderabad and other major cities.",
+    "road": "Solapur is a major transport hub well connected by road: Pune is approx. 235 km (about 5 hours via NH65), Mumbai approx. 467 km; regular state and private buses run to Solapur, and autos/taxis ply to the temple within the city."
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "Makar Sankranti (mid-January) for the grand Yatra and Nandi Dhwaja procession; Maha Shivaratri (February-March); October to March for pleasant weather. Early mornings or late evenings are best for peaceful darshan.",
+    "opening_hours": "Generally 5:00 AM to about 9:00 PM daily (verify - sources list 5 AM-9 PM, 5 AM-10:30 PM, and 6 AM-7 PM). Entry is free. Anna prasadam (lunch/dinner) is served to devotees."
+  }
+}

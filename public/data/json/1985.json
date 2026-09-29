@@ -1,0 +1,51 @@
+{
+  "alternate_names": [
+    "Pahadeswar Temple",
+    "Shree Pahadeswar Temple"
+  ],
+  "deities": [
+    "Shiva (as Pahadeswar)",
+    "Hanuman"
+  ],
+  "district": "Jharsuguda",
+  "festivals": [
+    "Maha Shivaratri",
+    "Shravan (Jal Dhara offerings)"
+  ],
+  "history": {
+    "dynasty": "Private endowment, British colonial era",
+    "period": "1921 CE",
+    "summary": "A hilltop Shiva temple on a small hill on the eastern side of Jharsuguda town, also called Pahadeswar Temple. The present temple was constructed in 1921 by a Gujarati contractor, Bitthal Bhai Saha; local tradition says the Mahant Nand Kishor Puri earlier placed a shivaling there and worshipped it. An adjacent Hanuman shrine and a memorial shrine to Sri Mahant Nand Kishor Puri stand on the premises. The temple is about 2000 sq ft in area and 20 ft tall, reached by a constructed road or about 66 steps, and offers a bird's-eye view of the city. It fell neglected for a period but was revived by the temple committee."
+  },
+  "id": "pahadi-mandir",
+  "latitude": 21.86655,
+  "longitude": 84.03193,
+  "media": [
+    "https://www.orissatourism.org/helpers/images/pahadi-mandir.jpg"
+  ],
+  "name": "Pahadi Mandir (Pahadeswar Temple)",
+  "sources": [
+    "https://jharsuguda.odisha.gov.in/en/tourism/tourist-places/pahadi-mandir",
+    "https://in.worldorgs.com/catalog/jharsuguda/art-gallery/pahadi-mandir",
+    "https://odishatour.in/jharsuguda/",
+    "https://orissatours.com/pahadi-temple-pahadi-park-jharsuguda-odisha/"
+  ],
+  "state": "Odisha",
+  "town": "Jharsuguda",
+  "town_description": "Jharsuguda is an industrial city in western Odisha, often called the 'Powerhouse of Odisha' for its coal, steel, and power plants. It is the district headquarters and a major rail junction on the Howrah-Mumbai route, served by its own airport (Veer Surendra Sai Airport). The town grew rapidly around mining and industry but retains several older shrines such as Jhadeswar and Pahadi Mandir on its hillocks.",
+  "tradition": "Hinduism (Shaivism)",
+  "travel": {
+    "airport": "Veer Surendra Sai Airport, Jharsuguda (~9 km, verify)",
+    "railway": "Jharsuguda Junction railway station (~3 km; district tourism site)",
+    "road": "On Kolabira Road, ~3.5 km from the Jharsuguda bus stand via local conveyance (district tourism site)"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March; Maha Shivaratri (Magha) draws the largest crowds",
+    "opening_hours": "6:00 AM - 10:00 PM daily (verify) - single listing source (meta.ai), unconfirmed by temple authorities"
+  }
+}

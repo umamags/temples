@@ -1,0 +1,41 @@
+{
+    "alternate_names": [],
+    "deities": [
+        "Goddess Durga"
+    ],
+    "district": "Paschim Bardhaman",
+    "festivals": [],
+    "history": {
+        "dynasty": "Unknown",
+        "period": "Unknown",
+        "summary": "IDENTITY UNCERTAIN: 'Durga Mandir' is a generic name and Asansol has SEVERAL temples bearing it, so the CSV row cannot be pinned to a single shrine without a locality. Candidates from place listings: (1) Durga Mandir, Mohishila Colony Road, Ushagram, Asansol (4.5 stars, 143 Justdial ratings); (2) Ismile More Durga Mandir, Bauri Rara Road, Islampur, Asansol; (3) Durga Mandir, Nakrajuria, Kalyaneshwari; (4) Nituria Maa Durga Temple, Barakar; (5) the Shri Shri Durgamata Charitable Trust Durga temple in Bastin Bazaar, Asansol, described in recent local-news-style reports (YouTube/obnews aggregator — VERIFY, appears AI-generated) as a centuries-old temple reopened in May 2026 after ~15 years of closure. RECOMMEND: Mahesh specifies a locality, or the row is merged into a chosen temple. Coordinates below are Asansol city centre as a placeholder only."
+    },
+    "id": "durga-mandir-asansol",
+    "latitude": 23.6856,
+    "longitude": 86.97926,
+    "media": [],
+    "name": "Durga Mandir, Asansol",
+    "sources": [
+        "https://www.justdial.com/Asansol/Temples/nct-10475644?stype=category_list&redirect=301",
+        "https://www.justdial.com/Asansol/Temples-in-Kalyaneshwari/nct-10475644",
+        "https://www.youtube.com/watch?v=HDYyQCnpZlU"
+    ],
+    "state": "West Bengal",
+    "town": "Asansol",
+    "town_description": "Asansol, the 'City of Brotherhood', is a major industrial and coal-mining city in Paschim Bardhaman district, West Bengal. Several temples named Durga Mandir exist across the city (Ushagram, Islampur, Kalyaneshwari, Nituria, Bastin Bazaar); the coordinates here are the city centre, used as a placeholder only.",
+    "tradition": "Hinduism (Shaktism)",
+    "travel": {
+        "airport": "Kazi Nazrul Islam Airport, Durgapur (Andal) — generic, specific temple unverified",
+        "railway": "Asansol Junction — generic, specific temple unverified",
+        "road": "Depends on which Durga Mandir the row intends (verify)"
+    },
+    "video": {
+        "audio": "",
+        "script": "",
+        "video_file": ""
+    },
+    "visitor_information": {
+        "best_time": "Unknown (verify); Durga Puja is the main season at any Durga temple",
+        "opening_hours": "Unknown (verify)"
+    }
+}

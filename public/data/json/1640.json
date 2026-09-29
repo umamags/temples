@@ -1,0 +1,49 @@
+{
+  "alternate_names": [
+    "Bhomiyaji Maharaj Mandir",
+    "Taleti Mandir"
+  ],
+  "deities": [
+    "Bhomiyaji Maharaj (Kshetrapala / Adhisthayakdev)"
+  ],
+  "district": "Giridih",
+  "festivals": [
+    "Holi (annual Bhomiyaji fair)"
+  ],
+  "history": {
+    "dynasty": "Jagat Seth family patronage (18th c.)",
+    "period": "18th century (cult of medieval/early-modern origin)",
+    "summary": "THIS IS A JAIN TEMPLE, NOT A HINDU TEMPLE — keep-or-drop decision needed. Bhomiyaji Maharaj is the Kshetrapala (guardian deity) of Sammed Shikharji; his principal shrine stands at the Taleti in Madhuban village at the foot of Parasnath Hill, where pilgrims offer prayers before ascending to the Tirthankara nirvana tonks. Bhomiyaji has no reference in early canonical Jain texts and modern scholarship places the cult in the medieval/early-modern evolution of the pilgrimage complex; the shrine took its present form during the 18th-century renovation under the Jagat Seth family (temples rebuilt 1768 CE; tonks consecrated Samvat 1825 / 1768 CE). An annual fair is held at Holi. Coordinates are approximate (geocoded to Madhuban town). CSV town 'Parasnath' corrected: the temple is at Madhuban village (Pirtand block), Parasnath is the hill/railhead nearby."
+  },
+  "id": "bhomiyaji-temple-taleti",
+  "latitude": 24.00419,
+  "longitude": 86.14618,
+  "media": [
+    "https://files.yappe.in/place/full/taleti-tirth-jain-shwetambar-mandir-9593214.webp"
+  ],
+  "name": "Bhomiyaji Temple (Taleti)",
+  "sources": [
+    "http://en.wikipedia.org/wiki/Shikharji",
+    "https://www.jainsamaj.org/content.php?url=Jharkhand_-_Sammet_Shikhar_-",
+    "https://iasbaba.com/2023/01/sammed-shikharji-jain-temple-and-shetrunjay-hill/",
+    "https://yappe.in/jharkhand/madhuban/taleti-tirth-jain-shwetambar-mandir/1449281"
+  ],
+  "state": "Jharkhand",
+  "town": "Madhuban",
+  "town_description": "Madhuban is a pilgrim village at the foot of Parasnath Hill (1,365 m), the highest peak in Jharkhand, in Pirtand block of Giridih district. It is the base town for the Sammed Shikharji Jain pilgrimage, with dharamshalas, Jain temples (including a noted mural of all the hill temples) and shops serving pilgrims. The nearest railhead is Parasnath station, from where buses and shared vehicles reach Madhuban.",
+  "tradition": "Jainism (Shvetambara/Digambara — Kshetrapala shrine of Sammed Shikharji)",
+  "travel": {
+    "airport": "Birsa Munda Airport, Ranchi, ~160 km (verify)",
+    "railway": "Parasnath station, ~20 km (verify)",
+    "road": "Road access from Dhanbad (~50 km) and Giridih (~45 km) via Madhuban (verify)"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October–March (verify); Holi for the annual fair",
+    "opening_hours": "Temple shrines typically open sunrise–sunset (verify)"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "alternate_names": [
+    "Sri Sri Radha Krishna Mandir BHEL",
+    "Sri Sri Radha Govind Dev Temple",
+    "ISKCON Temple BHEL-Bhopal"
+  ],
+  "deities": [
+    "Radha",
+    "Krishna (Radha-Govind Dev)",
+    "Chaitanya Mahaprabhu (Gauranga)",
+    "Nityananda"
+  ],
+  "district": "Bhopal",
+  "festivals": [
+    "Janmashtami",
+    "Radhastami",
+    "Gaur Purnima",
+    "Nityananda Trayodashi",
+    "Balram Jayanti",
+    "Pushpa Abhishek (Holi)"
+  ],
+  "history": {
+    "dynasty": "Modern (ISKCON)",
+    "period": "Established 2020",
+    "summary": "IDENTITY PROVISIONAL (verify): the CSV name 'Sri Radha Krishna Mandir, Bhopal' is generic — Bhopal has several temples of this name (Punjabi Bagh, Kolar Road, Old Ashoka Garden, and the main ISKCON Bhopal at Raisen Road/Patel Nagar). This file provisionally documents the centre listed as 'Sri Sri Radha Krishna Mandir BHEL' (indiainfo.net / worldorgs), i.e. ISKCON BHEL-Bhopal, officially the 'Sri Sri Radha Govind Dev Temple' at Hare Krishna Land, Sector A, Berkheda, Bhopal 462022. It is a branch of ISKCON (founded 1966 by A.C. Bhaktivedanta Swami Prabhupada), established in 2020, focused on congregation and youth preaching in Bhopal colleges, with a weekly Sunday feast, kirtan, Gita classes and prasadam distribution (2000+ people weekly, per the centre's listing). MEDIA EMPTY: no verifiable image of this specific centre found after genuine searching — do not substitute an image of another Bhopal ISKCON centre."
+  },
+  "id": "sri-radha-krishna-mandir-bhopal",
+  "latitude": 23.22792,
+  "longitude": 77.46224,
+  "media": [],
+  "name": "Sri Radha Krishna Mandir",
+  "sources": [
+    "https://closelocation.com/business/iskcon-temple-bhel-bhopal-br11202109080301jzs",
+    "https://www.indiainfo.net/place/sri-sri-radha-krishna-mandir-bhel-659767",
+    "https://www.justdial.com/Bhopal/ISKCON-Temple-BHEL-Bhopal-Hare-Krishna-Land-Sector-A-Berkheda-Bhopal-Madhya-Pradesh-462022-BHEL/0755PX755-X755-210304200055-N8Y9_BZDET",
+    "https://in.worldorgs.com/catalog/bhopal/software-company/sri-sri-radha-krishna-mandir-bhel"
+  ],
+  "state": "Madhya Pradesh",
+  "town": "Bhopal",
+  "town_description": "Bhopal, the capital of Madhya Pradesh, is known as the 'City of Lakes' for its twin Upper and Lower Lakes, the larger Upper Lake (Bhojtal) attributed to the 11th-century Paramara king Raja Bhoja. The city blends historic Islamic-era architecture — the Begums of Bhopal ruled here for over a century — with modern institutions, museums and a fast-growing new city. It is the state's administrative and cultural hub, well connected by rail, air and road, and a gateway to heritage sites like Sanchi, Bhimbetka and Bhojpur.",
+  "tradition": "Hinduism (Gaudiya Vaishnavism / ISKCON)",
+  "travel": {
+    "airport": "Raja Bhoj Airport, Bhopal — approx 10–12 km (verify)",
+    "railway": "Rani Kamlapati (Habibganj) railway station approx 6 km; Bhopal Junction approx 10 km (verify)",
+    "road": "Hare Krishna Land, Sector A, Berkheda, near BHEL Vijay Market; autos/taxis from BHEL and city"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March; Sunday evenings for the weekly feast program",
+    "opening_hours": "CONFLICT (verify) — centre listing: Mangal Aarti 5:00 AM, darshan through the day, Shayan Aarti 9:00 PM; justdial shows morning 5:00 AM–12:30 PM only; exact public darshan hours unverified"
+  }
+}

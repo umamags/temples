@@ -1,0 +1,63 @@
+{
+  "alternate_names": [
+    "Chaturdash Devta Temple",
+    "Chaturdasa Devata Temple",
+    "Fourteen Gods Temple"
+  ],
+  "deities": [
+    "Hara (Shiva)",
+    "Uma (Durga)",
+    "Hari (Vishnu)",
+    "Ma (Lakshmi)",
+    "Bani (Sarasvati)",
+    "Kumara (Kartikeya)",
+    "Ganapa (Ganesha)",
+    "Biddhu (Chandra)",
+    "Ka (Brahma)",
+    "Abdhi (Samudra)",
+    "Ganga",
+    "Sekhi (Agni)",
+    "Kama (Kamadeva)",
+    "Himadri"
+  ],
+  "district": "West Tripura",
+  "festivals": [
+    "Kharchi Puja"
+  ],
+  "history": {
+    "dynasty": "Manikya",
+    "period": "18th century (c. 1760–1770)",
+    "summary": "DUPLICATE FLAG: CSV row seq 2340 duplicates the already-researched record = seq 1052 (id chaturdasha-devata-temple-old-agartala); no separate shrine exists under this CSV name. Built by Maharaja Krishna Kishore Manikya (r. 1760–1783) at Old Agartala (Puratani Haveli/Khayerpur) after the capital was shifted from Udaipur — following conflicts with Shamsher Gazi — and the fourteen deities were moved with it; an earlier temple stood at Udaipur. The Chaturdasha Devata are the patron gods of the Tripura royal family: only their heads (busts) are enshrined, in a blend of tribal (Kokborok) and Puranic worship; only Shiva, Uma and Vishnu are worshipped daily. CSV town 'Sabroom' is WRONG — corrected to Old Agartala (Khayerpur), West Tripura. Note: sources differ on when the capital moved again to present-day Agartala (1840 vs 1870); flag."
+  },
+  "id": "chaturdasha-devata-temple-old-agartala-duplicate",
+  "latitude": 23.84156,
+  "longitude": 91.34546,
+  "media": [
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiL3FpOYR1gsPXJq-4GIm2GeCtf-CFLN0aEW8c3j2fyXbCiL4m0aetkwICMAlpoyD2K1S_GxXEv440l5sSa9231bDP5LD5OkkvMRRqSZYJ3-OX-StkLyA7a-apPhW-Esc9nBM9J0bb4vjM/w1200-h630-p-k-no-nu/2018-05-28+%25281%2529.jpg"
+  ],
+  "name": "Chaturdasha Devata Temple (Fourteen Gods Temple)",
+  "sources": [
+    "https://zogyy.com/the-history-of-tripura-from-manikya-dynasty-to-modern-cultural-hub/",
+    "https://www.latestly.com/agency-news/india-news-kharchi-puja-concludes-with-grandeur-and-devotion-in-tripura-despite-heavy-rainfall-6985084.html",
+    "https://www.inheritage.foundation/explore/hindu-temple-architecture-in-tripura",
+    "http://hindutemples-india.blogspot.com/2020/05/chaturdasha-temple-agartala-tripura.html"
+  ],
+  "state": "Tripura",
+  "town": "Old Agartala (Khayerpur)",
+  "town_description": "Old Agartala (Khayerpur/Puratani Haveli) was the former capital of Tripura under the Manikya kings, about 6–14 km from present-day Agartala. It is best known for the Chaturdasha Devata Temple and the week-long Kharchi Puja fair held there every July.",
+  "tradition": "Hindu (Tripuri tribal–Vedic syncretic)",
+  "travel": {
+    "airport": "Maharaja Bir Bikram Airport, Agartala (~20 km)",
+    "railway": "Agartala railway station (~12 km)",
+    "road": "Old Agartala/Khayerpur road; ~6–14 km from Agartala city centre"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October–March; July for the Kharchi Puja festival week",
+    "opening_hours": "Daylight hours; exact timings unpublished (verify)"
+  }
+}

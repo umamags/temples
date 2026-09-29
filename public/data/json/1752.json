@@ -1,0 +1,57 @@
+{
+  "alternate_names": [
+    "Sree Kadampuzha Bhagavathy Temple",
+    "Kadampuzha Devi Temple"
+  ],
+  "deities": [
+    "Kiratha Parvathy (Kirathamoorthy)",
+    "Lord Narasimha",
+    "Sudharsanachakra",
+    "Dharmasasta",
+    "Nagakanyaka"
+  ],
+  "district": "Malappuram",
+  "festivals": [
+    "Karthika (temple consecration day, in Vrishchikam, November-December)",
+    "Thrikkarthika",
+    "Navaratri",
+    "Thiruvonam Mahotsavam",
+    "Rigveda Laksharchana (Dhanu)",
+    "Dravya Kalasam (Thulam)"
+  ],
+  "history": {
+    "dynasty": "Consecrated by Adi Shankaracharya (tradition)",
+    "period": "8th century CE per the Shankaracharya tradition (legendary); one popular source claims 'over 1900 years' — CONFLICT (verify)",
+    "summary": "Famous pilgrim centre about 12 km from Kuttipuram, unique for having no idol: Goddess Parvati is worshipped as a presence in a sacred pit (swayambhoosthana) believed to have been made by Lord Shiva's arrow. Tradition holds that Adi Shankaracharya detected the divine aura in the forest, approached it by meditating on Lord Narasimha, and consecrated the site on Karthika day in Vrishchikam, laying down its modes of worship. The Goddess is worshipped in three manifestations through the day — Vidya Durga (morning), Vanadurga (noon), Adi Durga (evening). Principal offerings are Poomoodal (showering of thechi flowers, said to be booked out to 2050) and Muttarukkal (coconut breaking). Administered by the Kadampuzha Devaswom."
+  },
+  "id": "kadampuzha-bhagavathy-temple",
+  "latitude": 10.94351,
+  "longitude": 76.04268,
+  "media": [
+    "https://temple.yatradham.org/public/Product/temple/temple_B4TzbVPl_202604082227150.jpg"
+  ],
+  "name": "Kadampuzha Bhagavathy Temple",
+  "sources": [
+    "https://www.keralatourism.org/destination/kadampuzha-bhagavathy-temple/34/",
+    "https://tirumalaonline.in/kadampuzha-temple-darshan-2024-timings-pooja-vazhivadu-muttu-list/",
+    "https://www.tripadvisor.in/Attraction_Review-g1156216-d3309983-Reviews-Kadampuzha_Bhagavathy_Temple-Malappuram_Malappuram_District_Kerala.html"
+  ],
+  "state": "Kerala",
+  "town": "Kadampuzha",
+  "town_description": "Kadampuzha is a small pilgrim town in Malappuram district, about 12 km from Kuttipuram on the Malabar plains near NH-66. The town's life revolves around the Bhagavathy temple, which draws devotees year-round for its Poomoodal and Muttarukkal offerings. (CSV town 'Malappuram' is the district, corrected to Kadampuzha.)",
+  "tradition": "Hinduism (Shaktism)",
+  "travel": {
+    "airport": "Calicut International Airport, ~30 km (verify)",
+    "railway": "Kuttipuram Railway Station, ~12 km (verify)",
+    "road": "Via Kuttipuram/Valanchery on NH-66; buses and taxis available to Kadampuzha"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "November-December for the Karthika festival; otherwise winter months",
+    "opening_hours": "4:30 AM-12:00 PM and 3:30 PM-7:00 PM daily (keralatourism.org)"
+  }
+}

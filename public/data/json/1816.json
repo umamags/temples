@@ -1,0 +1,49 @@
+{
+  "alternate_names": [
+    "Chhota Mahadeo",
+    "Chauragarh Mahadev Temple"
+  ],
+  "deities": [
+    "Shiva (Mahadeva)"
+  ],
+  "district": "Narmadapuram",
+  "festivals": [
+    "Maha Shivaratri (Shivratri Mela on the penultimate day of Phalgun)",
+    "Nag Panchami"
+  ],
+  "history": {
+    "dynasty": "Gond (attributed to King Sangram Shah)",
+    "period": "14th century (per secondary sources; exact date unverified)",
+    "summary": "A Shiva temple atop Chauragarh Hill (about 1,330 m, the second/third highest peak of Pachmarhi), attributed by secondary sources to the reign of Gond King Sangram Shah, who also built the Chauragarh fort on the hill. Devotees reach it by climbing roughly 1,250-1,300 steps from Mahadeo cave. It is famous for the thousands of tridents (trishuls) left as thanksgiving offerings by devotees, a natural Shivling in the sanctum, and caves locally believed to have sheltered the Pandavas during exile."
+  },
+  "id": "chauragarh-temple",
+  "latitude": 22.4149,
+  "longitude": 78.44056,
+  "media": [
+    "https://www.mptourism.com/images/point-of-interest/Chauragh%20Temple.webp"
+  ],
+  "name": "Chauragarh Temple (Chhota Mahadeo)",
+  "sources": [
+    "https://lightuptemples.com/pachmarhi-chauragarh-mahadev-temple-madhya-pradesh/",
+    "https://www.trawell.in/madhya-pradesh/pachmarhi/chauragarh-temple",
+    "https://mail.jatland.com/w/index.php?title=Chauragarh_Pachmarhi&diff=cur&oldid=613354"
+  ],
+  "state": "Madhya Pradesh",
+  "town": "Pachmarhi",
+  "town_description": "Pachmarhi is a hill station in the Satpura Range of Madhya Pradesh, at about 1,067 m elevation, widely known as 'Satpura ki Rani' (Queen of Satpura). It has been a cantonment town since the British Raj and lies wholly within the Pachmarhi Biosphere Reserve and the Satpura Tiger Reserve. It is Madhya Pradesh's only hill station and the base for reaching sites like Dhupgarh, Chauragarh and the Jata Shankar caves.",
+  "tradition": "Hinduism (Shaivism)",
+  "travel": {
+    "airport": "Nearest airport is Bhopal, about 200-210 km away (verify)",
+    "railway": "Nearest railway station is Pipariya, about 53 km away (verify)",
+    "road": "About 15 km from the Pachmarhi bus station (about 9 km from Priyadarshini Point); reachable by local jeeps/taxis; day-visit permit for the area is issued at Bison Lodge Museum"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to February; Maha Shivaratri (February-March) is the peak pilgrimage season",
+    "opening_hours": "6:00 AM to 6:00 PM (verify)"
+  }
+}

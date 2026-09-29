@@ -1,0 +1,53 @@
+{
+  "alternate_names": [
+    "Maa Bhattarika Temple",
+    "Tarini Pitha"
+  ],
+  "deities": [
+    "Bhattarika (manifestation of Shakti)",
+    "Surya (worshipped in the jagamohana)"
+  ],
+  "district": "Cuttack",
+  "festivals": [
+    "Pana Sankranti (April)",
+    "Akshaya Tritiya (May)",
+    "Dussehra / Durga Puja (October)",
+    "Makar Sankranti (January)"
+  ],
+  "history": {
+    "dynasty": "Unknown (UNVERIFIED); presiding deity of the former Badamba royal family",
+    "period": "Unknown; no official construction record (one source suggests 6th-16th c — UNVERIFIED)",
+    "summary": "Shakti Peetha on the bank of the Mahanadi at Sasanga village, Baramba (Badamba) tehsil, Cuttack district, at the foot of the Ratnagiri hill. Dedicated to Maa Bhattarika, a manifestation of Shakti. Puranic legend: Parashurama, facing defeat by Sahasrarjuna, prayed to Durga, who appeared at this spot and lent him her power; another tradition says he carved the goddess's image with his arrow tip. The Oriya Ramayana says Rama, Lakshmana and Sita worshipped Bhattarika here en route to Panchavati, with their foot marks on Mankadagadia hill across the river. The temple has a pidha vimana, jagamohana and muktimandapa; stone construction, plastered and whitewashed. Eight small images of the goddess are enshrined, including Para Bhattarika with pasha, bow, arrow and ankusha. Non-Brahmin (folk) priests serve the deity; cooked fish is a customary offering, and Bhattarika is the deity of the local fisherman community. TOWN CORRECTED: CSV says 'Cuttack' — the temple is ~80 km from Cuttack city at Sasanga, Badamba."
+  },
+  "id": "bhattarika-temple",
+  "latitude": 20.36853,
+  "longitude": 85.27171,
+  "media": [
+    "https://www.realshepower.in/wp-content/uploads/2026/05/image-91-600x450.png"
+  ],
+  "name": "Bhattarika Temple",
+  "sources": [
+    "http://en.wikipedia.org/wiki/Bhattarika_Temple",
+    "https://www.trawell.in/orissa/cuttack/bhattarika-temple",
+    "https://www.odishavisit.com/odisha/temples/bhattarika-temple/",
+    "https://www.sanatanavibes.in/2025/09/maa-bhattarika-temple-odishas-sacred.html"
+  ],
+  "state": "Odisha",
+  "town": "Sasanga (Badamba)",
+  "town_description": "Badamba (Baramba) is a tehsil and former princely state in Cuttack district, Odisha, on the banks of the Mahanadi about 80 km west of Cuttack city. Its landscape of river plains and the Ratnagiri hill range hosts the Bhattarika Shakti Peetha at Sasanga village, a major rural pilgrimage site. The area retains the folk-religious character of the old Badamba royal domain.",
+  "tradition": "Hinduism (Shaktism)",
+  "travel": {
+    "airport": "Biju Patnaik International Airport, Bhubaneswar (~96 km, verify)",
+    "railway": "Cuttack Railway Station (~80 km, verify)",
+    "road": "Well connected by road via buses, taxis and private vehicles; nearest bus stop Badamba about 10 km from the temple"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "During Durga Puja, Makar Sankranti or Pana Sankranti for the main celebrations; the Mahanadi riverside setting is scenic year-round",
+    "opening_hours": "5:00 AM-1:00 PM and 3:00-7:00 PM per most sources (verify — one source gives 6:00 AM-12:00 PM and 4:00-9:00 PM)"
+  }
+}

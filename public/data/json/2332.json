@@ -1,0 +1,49 @@
+{
+  "alternate_names": [
+    "Rudreshwara Temple",
+    "Kakatiya Rudreshwara (Ramappa) Temple"
+  ],
+  "deities": [
+    "Ramalingeshwara Swamy (presiding deity - massive Shiva lingam)",
+    "The complex consists of three shrines: the main Rudreshwara (Shiva) shrine plus two subsidiary shrines"
+  ],
+  "district": "Mulugu",
+  "festivals": [
+    "Maha Shivaratri"
+  ],
+  "history": {
+    "dynasty": "Kakatiya (built under Kakatiya ruler Ganapati Deva)",
+    "period": "13th century - constructed between 1212/1213 and 1234 CE",
+    "summary": "DUPLICATE FLAG: this row is a confirmed duplicate of seq 988 (id ramappa-temple-palampet); retained as a separate record per the spec. The UNESCO World Heritage Site Kakatiya Rudreshwara (Ramappa) Temple - a 13th-century Kakatiya architectural masterpiece dedicated to Shiva as Ramalingeshwara Swamy. A temple inscription says it was constructed in 1213 CE by Recherla (Recharla) Rudra, a general and mahasamanta of the Kakatiya ruler Ganapati Deva (r. 1199-1262); the three-shrine complex near Ramappa Lake was built between 1212 and 1234 and was designed by the master sculptor/architect Ramappa - one of the rare Indian temples named after its architect rather than the deity. It stands on a 6-ft star-shaped platform; the pyramidal vimana uses lightweight 'floating bricks' (porous bricks light enough to float on water), the foundation uses seismic-absorbing sandbox technology, and walls, pillars and ceilings carry intricate basalt carvings of Hindu Puranas and Kakatiya-era dance forms (the bracket figures depict regional dance customs). Marco Polo, during his visit to the Kakatiya empire, supposedly called it 'the brightest star in the galaxy of temples'. In July 2021 at the 44th session of the World Heritage Committee it was inscribed as a UNESCO World Heritage Site (official name: Kakatiya Rudreshwara (Ramappa) Temple, Telangana; criteria (i)(iii); ref 1570) - India's 39th site and Telangana's first. CSV TOWN FLAG: the temple is NOT in Warangal town - it is at PALAMPET village, Venkatapur Mandal, Mulugu district, about 66 km from Warangal and 15 km from Mulugu, roughly 209 km from Hyderabad. Corrected to Palampet, district Mulugu."
+  },
+  "id": "ramappa-temple-palampet-duplicate",
+  "latitude": 18.25954,
+  "longitude": 79.94352,
+  "media": [
+    "https://www.tourmyindia.com/blog//wp-content/uploads/2021/07/Ramappa-Temple-UNESCO-World-Heritage-Site.jpg"
+  ],
+  "name": "Ramappa Temple (Rudreshwara)",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Ramappa_temple",
+    "https://travellerkaka.com/ramappa-temple-a-unesco-world-heritage-marvel-of-kakatiya-architecture/",
+    "https://madhyamamonline.com/india/telanganas-13th-century-ramappa-temple-gets-unesco-heritage-tag-828605"
+  ],
+  "state": "Telangana",
+  "town": "Palampet (CSV town 'Warangal' is ~66 km away - corrected)",
+  "town_description": "Palampet is a village in Venkatapur Mandal of Mulugu district, Telangana, set amid forests and the Ramappa Lake. It is about 15 km from Mulugu, 66 km from Warangal and 209 km from Hyderabad; the temple complex is ASI-managed.",
+  "tradition": "Hinduism (Shaivism)",
+  "travel": {
+    "airport": "Rajiv Gandhi International Airport, Hyderabad - about 209 km (verify).",
+    "railway": "Warangal railway station - about 66 km (verify); Mulugu is closer (~15 km).",
+    "road": "Reachable by road from Warangal (about 66 km) via Mulugu; taxi/bus from Warangal or Mulugu town."
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March; Maha Shivaratri is the grandest festival day.",
+    "opening_hours": "Typically 9:00 AM - 6:00 PM reported for the ASI-managed complex - verify before visiting. Photography of the temple exterior is common; check ASI rules for the interior."
+  }
+}
