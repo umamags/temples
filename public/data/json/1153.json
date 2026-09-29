@@ -1,0 +1,45 @@
+{
+  "alternate_names": [
+    "Baba Panchanan Mandir",
+    "Panchananda Thakur"
+  ],
+  "deities": [
+    "Baba Panchanan (five-faced form of Shiva; folk deity of Bengal)"
+  ],
+  "district": "Howrah",
+  "festivals": [],
+  "history": {
+    "dynasty": "unknown",
+    "period": "unknown (one unverified online account calls a Howrah Baba Panchanan shrine about 150 years old)",
+    "summary": "IDENTITY PROVISIONAL: several shrines named Baba Panchananda Mandir exist across Howrah district (Khurut/Andul, Dahuka-Nischindipur, Chamrail, Bira Chak, Belanagar) and the CSV gives no locality, so the intended shrine cannot be fixed. This entry documents the Khurut/Naora (Shibpur) shrine near Andul bus stand, the best-reviewed of them (local reviews call it the oldest temple of its neighbourhood). Baba Panchanan is the five-faced Shaivite folk deity widely worshipped in rural Bengal. One visitor review associates the Khurut shrine with Shani (Boro Baba/Sani Maharaj) - conflicting and unverified. No reliable published history found; coordinates are approximate (street-level geocode of the shrine's address)."
+  },
+  "id": "baba-panchananda-mandir-khurut-howrah",
+  "latitude": 22.57628,
+  "longitude": 88.32305,
+  "media": [
+    "https://lh5.googleusercontent.com/p/AF1QipOro8eyPmqsJwiaS-my0UPCmGyPYWknI6fEKqom=w1080-k-no"
+  ],
+  "name": "Baba Panchananda Mandir",
+  "sources": [
+    "https://in.worldorgs.com/catalog/howrah/golf-course/khurut-baba-panchananda-temple",
+    "https://templesofindia.org/temple-view/dahuka-shri-shri-baba-panchananda-mandir-howrah-west-bengal-317bmc"
+  ],
+  "state": "West Bengal",
+  "town": "Howrah",
+  "town_description": "Howrah is the twin city of Kolkata across the Hooghly river, a major railway and industrial hub of West Bengal. Its pilgrimage landscape includes Belur Math (the Ramakrishna Order headquarters), and a dense network of old neighbourhood Kali and Shiva shrines such as the many Baba Panchanan temples of the district.",
+  "tradition": "Shaivism (folk)",
+  "travel": {
+    "airport": "Netaji Subhas Chandra Bose International Airport, Kolkata (~35 km) (verify)",
+    "railway": "Andul station (Howrah-Kharagpur line), ~2-3 km away (verify)",
+    "road": "Near Andul bus stand, off Nimai Sadhan Bose Sarani, Naora, Shibpur; reachable by road from central Howrah"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March (winter)",
+    "opening_hours": "Local reviews report 10 AM-2 PM and 7-8:30 PM (verify)"
+  }
+}

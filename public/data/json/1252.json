@@ -1,0 +1,49 @@
+{
+  "alternate_names": [
+    "Gompa Buddhist Temple",
+    "Centre for Buddhist Culture Gompa",
+    "Itanagar Buddhist Cultural Centre",
+    "Itanagar Buddhist Temple"
+  ],
+  "deities": [
+    "Gautama Buddha"
+  ],
+  "district": "Papum Pare",
+  "festivals": [
+    "Buddha Purnima (verify)"
+  ],
+  "history": {
+    "dynasty": "Modern (Tibetan Buddhist)",
+    "period": "1983-1996",
+    "summary": "FLAG: NON-HINDU RECORD (Buddhism) - keep-or-drop decision needed. FLAG: CSV ROW DUPLICATES SEQ 48 - 'Gompa Buddhist Temple' (id gompa-buddhist-temple-itanagar) covers the same site; this file is written per-row with a unique id. The Gompa Buddhist Temple is the Centre for Buddhist Culture, a Tibetan Buddhist gompa on a hilltop above the Jawaharlal Nehru State Museum in Itanagar. Its foundation stone was laid by the 14th Dalai Lama in 1983 and he consecrated it on 15 December 1996. The complex has a canary-yellow roof visible from afar, murals of Buddhist legends, a stupa and a Buddha statue. Claims that it dates to the 14th century are not supported by evidence."
+  },
+  "id": "buddha-temple-gompa-itanagar-duplicate",
+  "latitude": 27.08714,
+  "longitude": 93.61058,
+  "media": [
+    "https://evendo-location-media.s3.amazonaws.com/LandmarkImages/df847ffd-a4ae-4d2c-b92a-655c5ecba4d9"
+  ],
+  "name": "Buddha Temple (Gompa Buddhist Temple)",
+  "sources": [
+    "https://www.thebridgechronicle.com/amp/story/lifestyle/art-culture/zen-and-art-living-35633",
+    "https://templeyatri.in/gompa-buddhist-temple-itanagar/"
+  ],
+  "state": "Arunachal Pradesh",
+  "town": "Itanagar",
+  "town_description": "Itanagar, the capital of Arunachal Pradesh in Papum Pare district, sits in the Himalayan foothills. Named after the 14th-15th century Ita Fort, it is the state's administrative and cultural centre - home to the Jawaharlal Nehru State Museum, Ganga Lake and several Buddhist gompas, with a mix of tribal (Nyishi) and migrant communities.",
+  "tradition": "Tibetan Buddhism",
+  "travel": {
+    "airport": "Donyi Polo Airport, Holongi (approx. 25 km).",
+    "railway": "Naharlagun railway station (approx. 12 km).",
+    "road": "Hilltop near the Jawaharlal Nehru State Museum, reached by a winding road; taxis and autos from Itanagar."
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to April (avoid the monsoon); Buddha Purnima is the main festival.",
+    "opening_hours": "Not published for this site (verify); gompas in the region generally open morning to evening."
+  }
+}

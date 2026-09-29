@@ -1,0 +1,56 @@
+{
+  "alternate_names": [
+    "Lakshmi Narayan Temple",
+    "Laxmi Narayan Temple",
+    "Lakshmi Narayana Temple"
+  ],
+  "deities": [
+    "Lakshmi",
+    "Vishnu (Narayana)",
+    "Shiva",
+    "Parvati"
+  ],
+  "district": "Bhopal",
+  "festivals": [
+    "Janmashtami",
+    "Diwali",
+    "Navratri"
+  ],
+  "history": {
+    "dynasty": "Modern (Birla Foundation / Hindustan Charity Trust)",
+    "period": "1960–1964",
+    "summary": "Birla Mandir, formally the Lakshmi Narayan Temple, was built by the Birla family (Hindustan Charity Trust) on the Arera Hills (Lakshminarayana Giri), the highest point overlooking Bhopal. The foundation stone was laid in 1960 by former Madhya Pradesh CM Dr. Kailashnath Katju and the temple was inaugurated in 1964 by CM Dwarka Prasad Mishra. Built in the Nagara style of sand-yellow stone with marble carvings from Hindu texts, it enshrines Lakshmi and Vishnu (Narayana), with smaller shrines to Shiva-Parvati, Ganesha and Hanuman in the complex. A museum adjoining the temple displays ancient stone idols collected from Raisen, Sehore, Mandsaur and Shahdol districts. Some travel sites give conflicting dates or claim a Mahatma Gandhi inauguration; those claims are unsupported (Gandhi died in 1948) — the 1960/1964 record is the sourced one."
+  },
+  "id": "birla-mandir-bhopal",
+  "latitude": 23.2383,
+  "longitude": 77.4086,
+  "media": [
+    "https://www.trawell.in/admin/images/upload/145239721Bhopal_Birla_Mandir_Main.jpg"
+  ],
+  "name": "Birla Mandir (Lakshmi Narayan Temple)",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Lakshmi_Narayan_Temple,_Bhopal",
+    "https://wanderlog.com/place/details/3767572",
+    "https://aroundus.com/p/7813489-lakshmi-narayan-temple",
+    "https://templeyatri.in/laxmi-narayan-temple-bhopal/",
+    "https://data.agatetravel.com/birla-mandir-bhopal-india.html"
+  ],
+  "state": "Madhya Pradesh",
+  "town": "Bhopal",
+  "town_description": "Bhopal, the capital of Madhya Pradesh, is known as the 'City of Lakes' for its twin Upper and Lower Lakes, the larger Upper Lake (Bhojtal) attributed to the 11th-century Paramara king Raja Bhoja. The city blends historic Islamic-era architecture — the Begums of Bhopal ruled here for over a century — with modern institutions, museums and a fast-growing new city. It is the state's administrative and cultural hub, well connected by rail, air and road, and a gateway to heritage sites like Sanchi, Bhimbetka and Bhojpur.",
+  "tradition": "Hinduism (Vaishnavism)",
+  "travel": {
+    "airport": "Raja Bhoj Airport, Bhopal — approx 13 km (verify)",
+    "railway": "Bhopal Junction — approx 5 km (verify)",
+    "road": "Birla Mandir Road, Arera Hills; city buses, autos and taxis reach the hilltop complex"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "September to March; early morning or late afternoon for the panoramic view",
+    "opening_hours": "CONFLICT (verify) — commonly listed 6:00 AM–12:00 PM and 4:00 PM–9:00 PM; aroundus lists 3:30 PM–8:30 PM; free entry; adjacent museum 9 AM–5 PM except Mondays"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "alternate_names": [
+    "Ajgaibinath Dham",
+    "Gaibinath Mahadeo",
+    "Ajgaivinath Dham, Sultanganj"
+  ],
+  "deities": [
+    "Lord Shiva (Swayambhu / self-manifested Shivalinga)"
+  ],
+  "district": "Bhagalpur",
+  "festivals": [
+    "Maha Shivratri",
+    "Shravani Mela (Kanwar Yatra)",
+    "Ram Navami",
+    "Ganga Dussehra",
+    "Vasant Panchami",
+    "Bhadra Purnima"
+  ],
+  "history": {
+    "dynasty": "Unknown builders; archaeological finds of Mauryan, Gupta and Pala periods; rock sculptures of the later Pala period",
+    "period": "Ancient (treta-yuga legends; present rock-carved temple pre-medieval)",
+    "summary": "TOWN CORRECTION: the temple is at Sultanganj town in Bhagalpur district, not in Bhagalpur city. Ancient rock-carved Shiva temple on a granite rock island in the Ganges. Legends: originally Jahangira (from Jahnu Muni, whose ashram swallowed and released the Ganga); Shiva laid down his bow 'Ajgav' here, giving the name Ajgaivinath; Kalapahar tried and failed to destroy it (a neighbouring Parvati temple was destroyed and its site became a mosque). It is the starting point of the Shravani Mela Kanwar Yatra, where devotees carry Ganga water ~109 km to Baidyanath Dham at Deoghar. A Hindu temple; no non-Hindu flag."
+  },
+  "id": "ajgaivinath-temple-sultanganj",
+  "latitude": 25.25459,
+  "longitude": 86.73924,
+  "media": [
+    "https://sultanganj.in/assets/img/destination/ajgaivinath.jpg"
+  ],
+  "name": "Ajgaivinath Temple",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Ajgaibinath_Dham",
+    "https://lightuptemples.com/sultanganj-ajgaivinath-temple-bihar/",
+    "https://www.apnisanskriti.com/temple/ajgaivinath-temple-sultanganj-bhagalpur-bihar-1887",
+    "https://angdesh.com/ajgaivinath-temple-sultanganj/",
+    "https://www.hindu-blog.com/2014/05/ajgaivinath-temple-at-sultanganj-in.html"
+  ],
+  "state": "Bihar",
+  "town": "Sultanganj",
+  "town_description": "Sultanganj is a historic town in Bhagalpur district, Bihar, on the southern bank of the Ganges about 28 km west of Bhagalpur city. Traditionally linked to the sage Jahnu (Jahnavi) and the ancient name Jahangira, it is the starting point of the Kanwar Yatra to Baidyanath Dham in Deoghar. It has its own railway station on the Eastern Railway loop line and is a hub for religious tourism around the Ajgaivinath temple and the nearby Sultanganj Buddhist relics.",
+  "tradition": "Shaivism (Hinduism)",
+  "travel": {
+    "airport": "Deoghar Airport (~125 km) or Jay Prakash Narayan International Airport, Patna; then road",
+    "railway": "Sultanganj station on the Eastern Railway loop line (Kolkata-Kiul)",
+    "road": "28 km west of Bhagalpur city by road; boats to the temple rock run from Murli Hills ghat"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "July-September and February-May (per local sources); Shravan (July-August) is the peak pilgrimage month",
+    "opening_hours": "Listed as 9:00 AM-6:00 PM (angdesh.com); hours conflict with typical Shiva-temple early-morning practice - verify on arrival"
+  }
+}

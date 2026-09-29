@@ -1,0 +1,52 @@
+{
+  "alternate_names": [
+    "Chaturshringi Mandir",
+    "Devi Ambareshwari Temple"
+  ],
+  "deities": [
+    "Goddess Chatushrungi (form of Durga)",
+    "Devi Ambareshwari"
+  ],
+  "district": "Pune",
+  "festivals": [
+    "Shardiya Navratri",
+    "Vat Purnima (3 days, Jyeshtha month)"
+  ],
+  "history": {
+    "dynasty": "Maratha (Peshwa period)",
+    "period": "18th century (traditional; exact date not verified)",
+    "summary": "A hilltop Shakti shrine on Senapati Bapat Road, regarded as the presiding deity of Pune city. Per tradition, Durlabhsheth Pitambardas Mahajan, a wealthy moneylender to the Peshwas and devotee of Saptashrungi of Vani, could no longer make the ~300 km pilgrimage to Vani due to old age; the goddess appeared in his dream and directed him to the northwest of Pune, where a self-manifested idol was excavated. The idol was coated with vermillion and eyes were placed on it, and the shrine was founded on that spot; it has been renovated repeatedly and is maintained by the Chattushringi Devasthan Trust. The name Chatushrungi means 'four-peaked', referring to the hill. During Shardiya Navratri lakhs of devotees visit, with a grand palkhi procession and helicopter flower shower on Dussehra in recent years."
+  },
+  "id": "shri-chatushrungi-devi-temple",
+  "latitude": 18.539026,
+  "longitude": 73.828202,
+  "media": [
+    "https://temple.yatradham.org/public/Product/temple/temple_ea52OVpI_202409021719000.webp"
+  ],
+  "name": "Shri Chatushrungi Devi Temple",
+  "sources": [
+    "https://www.bhaktibharat.com/en/mandir/chaturshringi-mandir",
+    "https://chalbanjare.com/maharashtra/tourist-attraction/shri-chatushrungi-devi-temple-pune",
+    "https://temple.yatradham.org/temple/shri-chatushrungi-devi-temple",
+    "https://www.thebridgechronicle.com/news/pune-chaturshringi-temple-navratri-festival-begins-monday-agn97",
+    "https://puneriawaz.co.in/en/uncategorized/pune-chaturshringi-temple-to-close-for-renovation-from-august-16-to-september-16-trust-seeks-public-cooperation-91454/"
+  ],
+  "state": "Maharashtra",
+  "town": "Pune",
+  "town_description": "Pune is Maharashtra's second-largest city and the former seat of the Maratha Peshwas, often called the state's cultural capital and the 'Oxford of the East' for its many universities and research institutes. It is today a major IT, automotive and manufacturing hub. Its old-city core around Shaniwar Wada, the Peshwa-era temples and the Parvati hill is dense with historic and religious landmarks.",
+  "tradition": "Hinduism (Shaktism)",
+  "travel": {
+    "airport": "Pune International Airport, ~10 km (verify)",
+    "railway": "Pune Junction railway station, ~7 km (verify)",
+    "road": "971 Senapati Bapat Road, Gokhalenagar; taxi/auto/bus to the base, then a climb of 100+ steps to the shrine (verify count)"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "Early morning for peaceful darshan; Navratri is the busiest period (temple open 24 hours then)",
+    "opening_hours": "6:00 AM-9:00 PM daily (verify); one source says the temple closes at 12:30 PM on Tuesdays and Fridays - CONFLICT (verify)"
+  }
+}

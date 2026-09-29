@@ -1,0 +1,48 @@
+{
+  "alternate_names": [
+    "Somnath Mahadev Temple",
+    "Somnath Mahadev Ji Temple"
+  ],
+  "deities": [
+    "Shiva (Shivlinga said to have been brought from Saurashtra); idols of Parvati, Ganesha and Nandi"
+  ],
+  "district": "Pali",
+  "festivals": [],
+  "history": {
+    "dynasty": "Solanki (Chaulukya; built by Kumarpal/Raj Kumar Pal Solanki of Gujarat)",
+    "period": "1209 (sources conflict: 'Vikram Samvat 1209' (~1152 CE) vs '1209 AD' - verify)",
+    "summary": "Not the Gujarat Jyotirlinga - a separate ancient Shiva temple in the main market of Pali city. Built by Solanki king Kumarpal (Raj Kumar Pal Solanki), with the Shivlinga reportedly brought from Saurashtra after Mahmud of Ghazni's attacks on the original Somnath. Known for sandstone shilp art - intricate carvings on the shikhara and pinnacle and circular patterns on the ceiling. INTACH's architectural heritage listing notes ancient statues facing erosion, lack of maintenance and encroachments. The 1209 date appears as both 'Vikram Samvat 1209' (INTACH, nativeplanet) and plain '1209 AD' (tripnight) - verify. DUPLICATE FLAG: this CSV row describes the same temple as CSV row 877; kept as a separate file per the one-file-per-row rule."
+  },
+  "id": "somnath-temple-pali-duplicate",
+  "latitude": 25.7764,
+  "longitude": 73.32623,
+  "media": [
+    "https://vardhmanvacations.com/blog/wp-content/uploads/2025/12/Somnath-Temple-Pali.jpg"
+  ],
+  "name": "Somnath Temple, Pali",
+  "sources": [
+    "http://architecturalheritage.intach.org/?p=1572",
+    "http://www.nativeplanet.com/pali/attractions/somnath-temple/",
+    "https://www.rajasthandirect.com/tourism/temples/somnath-temple-pali",
+    "https://velpu.com/temple/SOMNATH-TEMPLE/MTI5Ng==",
+    "https://myadhyatm.com/somnath-temple-nadi-mohalla-pali-rajasthan/"
+  ],
+  "state": "Rajasthan",
+  "town": "Pali",
+  "town_description": "Pali is an industrial city in western Rajasthan on the historic trade route between Jodhpur and Udaipur, and the headquarters of Pali district. Long known for textiles and dyeing, its old city holds several old temples (Somnath, Surya Narayan, Nimbo Ka Nath nearby) around the main market and Suraj Pole area.",
+  "tradition": "Hinduism",
+  "travel": {
+    "airport": "Jodhpur Airport - about 75 km.",
+    "railway": "Pali Marwar railway station - in the city; connects to Delhi, Mumbai, Jaipur, Ahmedabad.",
+    "road": "In the main market of Pali city; easily reached by bus or taxi."
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March.",
+    "opening_hours": "6:00 AM - 7:00 PM (verify - confirm locally)."
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "alternate_names": [
+    "Lokenath Padma Mandir",
+    "Lokenath Mandir, Dagapur",
+    "Baba Lokenath Dham"
+  ],
+  "deities": [
+    "Baba Lokenath",
+    "Lord Shiva",
+    "Lord Ganesha",
+    "Lakshmi-Narayan"
+  ],
+  "district": "Jalpaiguri",
+  "festivals": [
+    "Baba Lokenath Jayanti (birth anniversary)",
+    "Mahashivratri"
+  ],
+  "history": {
+    "dynasty": "Modern",
+    "period": "20th century (founding date not documented)",
+    "summary": "TOWN CORRECTION: the CSV town 'Siliguri' is the nearby city; the temple is at Dagapur, about 5 km from Siliguri, on Darjeeling Main Road near Savin Kingdom Resort. This famous white-marble complex is known for its split idol of Lord Shiva and Baba Lokenath forming two halves of one body, the white lotus Padma Mandir of Baba Lokenath, the Milan Mandir, and idols of Ganesha, Lakshmi-Narayan under Sheshnag and Maa Ganga in a pond. It is dedicated to Baba Lokenath (1730-1890), the Bengali saint said to have lived 160 years and attained enlightenment at 90; devotees visit from Bangladesh, West Bengal and across India. Note: Siliguri has several smaller Lokenath shrines; this row documents the famous Dagapur temple. OPENING-HOUR CONFLICT: 8:00 AM - 7:00 PM (Thrillophilia) vs 7:00 AM - 7:00 PM (other travel sites)."
+  },
+  "id": "lokenath-baba-mandir-dagapur-siliguri",
+  "latitude": 26.738902,
+  "longitude": 88.404803,
+  "media": [
+    "https://content.jdmagicbox.com/comp/siliguri/w5/9999px353.x353.200628013829.r6w5/catalogue/lokenath-mandir-dagapur-siliguri-temples-QXn9VeNNVd.jpg"
+  ],
+  "name": "Lokenath Baba Mandir",
+  "sources": [
+    "https://www.thrillophilia.com/attractions/lokenath-baba-mandir-siliguri",
+    "https://www.myticketstoindia.com/tourism-in-india/tourist-attractions/places-to-visit-in-siliguri/",
+    "https://edir24.com/b/v/in/siliguri/landmarks/ChIJVWGBQypB5DkRU7QUzGvpqoo",
+    "https://evendo.com/locations/india/siliguri/landmark/lokenath-mandir",
+    "https://www.tripadvisor.co.za/ShowUserReviews-g659786-d10406657-r534494091-Lokenath_Temple-Siliguri_Darjeeling_District_West_Bengal.html"
+  ],
+  "state": "West Bengal",
+  "town": "Dagapur",
+  "town_description": "Dagapur is a suburb of Siliguri on the Darjeeling Main Road, about 5 km from the city centre. It sits in the Matigara block of Jalpaiguri district and is known for the Savin Kingdom amusement park and the famous Lokenath Baba Mandir, serving as a transit point on the Siliguri-Darjeeling route.",
+  "tradition": "Hinduism (Baba Lokenath devotional tradition)",
+  "travel": {
+    "airport": "Bagdogra Airport (IXB), about 14 km away",
+    "railway": "New Jalpaiguri (NJP), about 5 km; Siliguri Junction, about 9 km",
+    "road": "Dagapur on Darjeeling Main Road, about 5 km from Siliguri; reachable by auto, taxi or local bus (PCQ3+HW7, Dagapur, 734003)"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "All year round",
+    "opening_hours": "8:00 AM - 7:00 PM (some sources say 7:00 AM - 7:00 PM)"
+  }
+}

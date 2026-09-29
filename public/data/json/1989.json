@@ -1,0 +1,48 @@
+{
+  "alternate_names": [
+    "Ramachandi Temple"
+  ],
+  "deities": [
+    "Goddess Ramachandi (Ramchandi, a form of Durga/Chandi)"
+  ],
+  "district": "Puri",
+  "festivals": [
+    "Navratri",
+    "Durga Puja (Ashwina offerings)"
+  ],
+  "history": {
+    "dynasty": "Unknown (UNVERIFIED)",
+    "period": "UNVERIFIED - claimed older than the Konark Sun Temple (13th c.) but no documented construction date",
+    "summary": "A Sakta shrine at Ramachandi village on the Puri-Konark Marine Drive, where the Kushabhadra river meets the Bay of Bengal, about 7 km from Konark (CSV town 'Konark' kept; actual site is on the marine drive). Locals regard Ramachandi as the presiding deity of Arkakshetra/Konark. CONFLICT (verify): sources disagree on identity - some call her the original presiding deity of the Sun Temple complex, others identify the shrine with Mayadevi, wife of Surya; one scholarly reference notes 'there is no historical evidence to conclude about its presiding deity.' The popular legend: the 17th-century iconoclast Kalapahad, after destroying the Sun Temple, came to destroy this one, but the goddess disguised as a maid (Maluni) slipped away into the flooded Kushabhadra; she then appeared in a priest's dream and had the temple built on the riverbank. The present temple has partly collapsed, leaving broken walls and an empty throne. Coordinates are approximate (village-level geocode)."
+  },
+  "id": "ramchandi-temple",
+  "latitude": 19.85405,
+  "longitude": 86.00845,
+  "media": [],
+  "name": "Ramchandi Temple, Konark",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Ramachandi_Temple",
+    "https://www.triphobo.com/places/konark-india/ramchandi-temple",
+    "https://www.kakatpur.com/ramachandi-temple/",
+    "https://hotelhindustanheaven.com/ramchandi-temple/",
+    "https://en.wikivoyage.org/w/index.php?title=Konark&oldid=2580590"
+  ],
+  "state": "Odisha",
+  "town": "Konark",
+  "town_description": "Konark is a coastal town in Puri district, Odisha, on the Bay of Bengal, about 35 km northeast of Puri and 65 km from Bhubaneswar. Its identity is dominated by the 13th-century Sun Temple, but it also has the Chandrabhaga beach nearby and is the venue of the annual Konark Dance Festival. It was one of the five great religious zones (kshetras) of medieval Odisha.",
+  "tradition": "Hinduism (Shaktism)",
+  "travel": {
+    "airport": "Biju Patnaik International Airport, Bhubaneswar (~70 km, verify)",
+    "railway": "Puri railway station (~25 km, verify)",
+    "road": "On the Puri-Konark Marine Drive, about 7 km from Konark (verify)"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March; also a popular picnic spot",
+    "opening_hours": "Not published (verify)"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "alternate_names": [],
+  "deities": [
+    "Shiva"
+  ],
+  "district": "Unakoti",
+  "festivals": [
+    "Maha Shivaratri",
+    "Shravan Mondays"
+  ],
+  "history": {
+    "dynasty": "Unknown (local community temple)",
+    "period": "Contemporary (date unverified)",
+    "summary": "A local Shiva shrine in Kumarghat town; no published history found. Identity is provisional: the CSV name is generic and several small Shiva shrines exist around Kumarghat (a 'Shiva Durga Temple' is also listed on Bash Bagan Road), so this file may describe any one of them. Coordinates match a 'Shiva Temple' POI in Kumarghat."
+  },
+  "id": "shiva-temple-kumarghat",
+  "latitude": 24.1611,
+  "longitude": 92.04585,
+  "media": [],
+  "name": "Shiva Temple",
+  "sources": [
+    "https://meta.ai?place_id=535877135990730",
+    "http://www.Onefivenine.com/india/Listing/Town/temples/North-Tripura/Kumarghat"
+  ],
+  "state": "Tripura",
+  "town": "Kumarghat",
+  "town_description": "Kumarghat is a town and subdivision headquarters in Unakoti district, northern Tripura, on the Lumding–Sabroom railway line and NH-8. It is the railhead for the famous Unakoti rock-cut archaeological site, about 29 km away, and a market town for the surrounding area.",
+  "tradition": "Shaivism",
+  "travel": {
+    "airport": "Maharaja Bir Bikram Airport, Agartala (~200 km by road)",
+    "railway": "Kumarghat Junction (~2 km)",
+    "road": "Town roads off NH-8 through Kumarghat"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October–March, the cooler dry season",
+    "opening_hours": "Unpublished (verify); local temples generally open dawn to dusk"
+  }
+}

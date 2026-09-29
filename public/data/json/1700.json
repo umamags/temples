@@ -1,0 +1,53 @@
+{
+  "alternate_names": [
+    "Chennakeshava Temple",
+    "Keshava Temple",
+    "Somnathpur Temple",
+    "Prasanna Chennakeshava Temple"
+  ],
+  "deities": [
+    "Keshava (Vishnu)",
+    "Janardhana (Vishnu)",
+    "Venugopala (Vishnu)"
+  ],
+  "district": "Mysuru",
+  "festivals": [
+    "No major annual festival reliably documented (ASI-protected monument; regular worship is limited - verify)"
+  ],
+  "history": {
+    "dynasty": "Hoysala Empire",
+    "period": "Consecrated 1258 CE (13th century); repairs under Vijayanagara Empire (16th century inscriptions) and the Mysore government (early 20th century)",
+    "summary": "CSV town 'Mysore' corrected: the temple is at Somanathapura village, T. Narasipura taluk, Mysuru district, on the banks of the Kaveri. NOTE ON DATE: inscriptions and scholarship support consecration in 1258 CE by Somanatha Dandanayaka, a general of Hoysala King Narasimha III; some popular sources give 1268 CE (CONFLICT - verify). The Trikuta (triple-shrine) temple on a star-shaped platform is dedicated to three forms of Vishnu: Keshava (image lost), Janardhana, and Venugopala. Outer walls carry Ramayana, Mahabharata and Bhagavata Purana friezes. Damaged in 14th-century Sultanate raids, repaired by Vijayanagara emperors and later by the Wodeyars of Mysuru. Maintained by the Archaeological Survey of India; in 2023 it was inscribed as a UNESCO World Heritage Site as part of the Sacred Ensembles of the Hoysalas."
+  },
+  "id": "chennakesava-temple",
+  "latitude": 12.2756917,
+  "longitude": 76.8816528,
+  "media": [
+    "https://www.deccan-heritage-foundation.org/wp-content/uploads/2023/10/IMG_4715-2048x1536.jpg"
+  ],
+  "name": "Chennakesava Temple, Somanathapura",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Chennakesava_Temple,_Somanathapura",
+    "https://isharethese.com/chennakesava-temple-at-somnathapura-supreme-example-of-hoysala-architecture/",
+    "https://www.mysoretourism.org.in/somnathpur-temple-chennakesava-temple-near-mysore",
+    "https://www.airial.travel/attractions/india/somanathapura/chennakesava-temple-somanathapura-DPKFOTQN"
+  ],
+  "state": "Karnataka",
+  "town": "Somanathapura",
+  "town_description": "Somanathapura (also spelled Somnathpur) is a small village in T. Narasipura taluk of Mysuru district, about 35-38 km east of Mysuru city, set on the banks of the River Kaveri. Founded in the 13th century as an agrahara settlement by Hoysala general Somanatha Dandanayaka, after whom it is named. Today it is known almost entirely for its world-famous Chennakesava temple, a UNESCO World Heritage Site drawing art and architecture visitors year-round.",
+  "tradition": "Hinduism (Vaishnavism)",
+  "travel": {
+    "airport": "Mysore Airport (~45 km, limited flights - verify); Kempegowda International Airport, Bengaluru (~175 km) is the main gateway.",
+    "railway": "Mysuru Junction (~38 km); the temple is reached by road from Mysuru.",
+    "road": "About 35-38 km east of Mysuru via the Bannur road; ~135 km from Bengaluru via the Bengaluru-Mysuru Expressway with exit near Mandya/Maddur toward Bannur. KSRTC buses (routes 328, 340 - verify) and cabs/taxis serve Somanathapura."
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March for pleasant weather.",
+    "opening_hours": "9:00 AM - 5:30 PM daily (verify - some sources give 8:30 AM - 5:30 PM; entry fee applies at this ASI monument - verify)."
+  }
+}

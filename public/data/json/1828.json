@@ -1,0 +1,47 @@
+{
+  "alternate_names": [
+    "Pashupatinath Temple"
+  ],
+  "deities": [
+    "Pashupati Nath (Lord Shiva)"
+  ],
+  "district": "Satna",
+  "festivals": [
+    "Maha Shivaratri (typical for a Shiva shrine; specific festival calendar UNVERIFIED)"
+  ],
+  "history": {
+    "dynasty": "Modern (UNVERIFIED)",
+    "period": "Recent construction (UNVERIFIED)",
+    "summary": "Pashupati Nath Temple is a recently built Shiva temple on the outskirts of Satna, listed on the official District Satna website (satna.nic.in). Descriptions of Satna note: 'A new temple named Pashupati Nath has been also built recently on the outskirts of Satna.' No founding date, builder or patron is recorded online, and two map pins exist (city listing 24.614, 80.805 and an MP SH-11 outskirts listing 24.754, 80.783) - location CONFLICT (verify). Not to be confused with the Pashupatinath temples in Nepal or Mandsaur."
+  },
+  "id": "pashupati-nath-temple-satna",
+  "latitude": 24.614395,
+  "longitude": 80.805465,
+  "media": [],
+  "name": "Pashupati Nath Temple",
+  "sources": [
+    "https://satna.nic.in/en/",
+    "https://en-academic.com/dic.nsf/enwiki/9223748https:/en-academic.com/dic.nsf/enwiki/1403529",
+    "https://www.holidaylandmark.com/india/madhyapradesh/city/satna/",
+    "http://onefivenine.com/india/Places/checkin/the-holy-pashupati-nath-temple-satna",
+    "https://meta.ai?place_id=1139829177679902"
+  ],
+  "state": "Madhya Pradesh",
+  "town": "Satna",
+  "town_description": "Satna is the headquarters of Satna district in the Baghelkhand region of Madhya Pradesh, on the NH-30 corridor. Founded in 1865 by Maharaja Raghuraj Singh of Rewa, it is a commercial and educational hub of the Vindhya region. It is the gateway to the Maihar Sharda temple, Chitrakoot and Ramvan, and takes its name from the Satna river, a tributary of the Tons.",
+  "tradition": "Hinduism (Shaivism)",
+  "travel": {
+    "airport": "No airport in Satna; nearest is Khajuraho (~120 km) (verify).",
+    "railway": "Satna Junction is the nearest major station (verify).",
+    "road": "On the outskirts of Satna city; reachable by taxi/auto-rickshaw. One listing places it on MP SH-11 (verify)."
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October-March; Maha Shivaratri (verify).",
+    "opening_hours": "6:00 AM - 9:00 PM, per the official satna.nic.in listing."
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "alternate_names": [
+    "Salganga Vishnu Temple"
+  ],
+  "deities": [
+    "Vishnu (presiding deity)",
+    "Radha Ballabh (Radha-Krishna) - at the nearby ancient ashram"
+  ],
+  "district": "Cachar",
+  "festivals": [
+    "No festival details found in available sources (verify)"
+  ],
+  "history": {
+    "dynasty": "Unknown (no builder or dynastic record found)",
+    "period": "Described as 'ancient' in travel coverage (undocumented; verify)",
+    "summary": "Salganga is a village about 20-22 km from Silchar on the road to Kumbhirgram Airport, noted in travel guides for an ancient temple dedicated to Lord Vishnu and an ancient ashram dedicated to Radha Ballabh (a Radha-Krishna manifestation). Beyond 'ancient and revered', no reliable source documents the temple's builder, date of construction, or dynastic affiliation - all of which are unverified. NOTE: geocode is of Salganga village (Udarbond area), not a verified temple POI; coordinates are approximate."
+  },
+  "id": "salganga-vishnu-temple",
+  "latitude": 24.92113,
+  "longitude": 92.95338,
+  "media": [],
+  "name": "Salganga Vishnu Temple",
+  "sources": [
+    "https://www.thrillophilia.com/destinations/silchar/places-to-visit",
+    "https://origin.veenaworld.com/india/silchar-tour-packages/ct",
+    "https://www.oyorooms.com/travel-guide/places-to-visit-in-silchar/amp/",
+    "https://www.holidify.com/places/silchar/sightseeing-and-things-to-do.html",
+    "https://www.goindigo.in/get-inspired/best-reasons-to-explore-and-visit-silchar.html",
+    "https://www.tripinvites.com/places/silchar/salganga/"
+  ],
+  "state": "Assam",
+  "town": "Salganga (village, Udarbond area; CSV town 'Silchar' corrected - ~20-22 km from Silchar city)",
+  "town_description": "Salganga is a village in Cachar district on the Silchar-Kumbhirgram airport road, known for its green surroundings. It is cited as a holy site with an ancient Vishnu temple and a Radha Ballabh ashram.",
+  "tradition": "Vaishnavism",
+  "travel": {
+    "airport": "Silchar Airport (Kumbhirgram, IXS) lies on the same road toward which the village is situated (exact distance verify).",
+    "railway": "Silchar Junction - about 20-22 km (verify).",
+    "road": "On the Silchar-Kumbhirgram airport road; reachable by taxi/bus from Silchar."
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March (standard for the region; verify).",
+    "opening_hours": "No opening hours published in available sources (verify)."
+  }
+}

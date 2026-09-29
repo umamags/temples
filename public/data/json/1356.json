@@ -1,0 +1,41 @@
+{
+  "alternate_names": [
+    "Shiv Mandir, Shivpuri Mohalla"
+  ],
+  "deities": [
+    "Shiva"
+  ],
+  "district": "Nalanda",
+  "festivals": [],
+  "history": {
+    "dynasty": "Unknown (UNVERIFIED)",
+    "period": "Modern local shrine (UNVERIFIED)",
+    "summary": "UNVERIFIED IDENTITY — no dedicated web sources exist for this temple. The CSV entry appears to refer to a neighbourhood shrine listed as 'Shiv Mandir, Shivpuri Mohalla, Ramchandrapur, Bihar Sharif' on the locality directory onefivenine.com; Ramchandrapur is a residential locality within Bihar Sharif city, so the CSV town 'Nalanda' has been corrected to 'Bihar Sharif'. No founding date, architecture, festival or hour details are verifiable. Coordinates are APPROXIMATE (generic map pin for a 'Shiv Mandir' in Bihar Sharif; geocoding unavailable). Treat this as a local mohalla shrine, not a heritage site, until verified."
+  },
+  "id": "shiva-temple-ramchandrapur",
+  "latitude": 25.19765,
+  "longitude": 85.52557,
+  "media": [],
+  "name": "Shiva Temple, Ramchandrapur",
+  "sources": [
+    "http://www.Onefivenine.com/india/villages/Nalanda/Bihar-Sharif/Ramchandrapur"
+  ],
+  "state": "Bihar",
+  "town": "Bihar Sharif",
+  "town_description": "Bihar Sharif is the headquarters of Nalanda district and one of Bihar's oldest cities, known for the ruins of the Odantapuri monastery, medieval Sufi dargahs, and its closeness to the ancient university of Nalanda. Ramchandrapur is a residential locality within the city. The area mixes older mohalla neighbourhoods with newer colonies around the Nalanda corridor.",
+  "tradition": "Hinduism (Shaivism)",
+  "travel": {
+    "airport": "Jay Prakash Narayan International Airport, Patna — approx. 70 km (verify)",
+    "railway": "Bihar Sharif railway station — approx. 2–4 km (verify)",
+    "road": "Local roads within Bihar Sharif city (verify)"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "No verified information",
+    "opening_hours": "UNVERIFIED (verify)"
+  }
+}

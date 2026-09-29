@@ -1,0 +1,50 @@
+{
+  "alternate_names": [
+    "Mukteswara Temple",
+    "Mukteswar Temple"
+  ],
+  "deities": [
+    "Mukteshvara (Shiva)"
+  ],
+  "district": "Khordha",
+  "festivals": [
+    "Maha Shivaratri",
+    "Mukteshwar Dance Festival (January, held in the temple courtyard)"
+  ],
+  "history": {
+    "dynasty": "Somavamshi",
+    "period": "950-975 CE (10th century)",
+    "summary": "The earliest work of the Somavamshi period and the \"Gem of Kalinga architecture,\" dedicated to Shiva as Mukteshvara (\"Lord of Freedom\"/liberation). Famous for its decorated torana (arched gateway) — unique among Odishan temples and showing possible Buddhist influence — diamond-shaped lattice windows, and dense, elegant carvings. It marks the culmination of early Kalinga developments and the start of an experimental phase leading to Rajarani and Lingaraj. Attribution to King Yayati I (c. 966 CE) by K.C. Panigrahi is not accepted — there is no historic evidence Yayati built it (per Wikipedia). Complex includes Marichi Kunda tank and the Siddheshwar Temple. Coordinates from Wikipedia."
+  },
+  "id": "mukteshvara-temple",
+  "latitude": 20.2427,
+  "longitude": 85.84039,
+  "media": [
+    "https://visit.bhubaneswar.me/Application/uploadDocuments/pages/images/Featured20180405_163746.jpg"
+  ],
+  "name": "Mukteshvara Temple",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Mukteshvara_Temple,_Bhubaneswar",
+    "https://www.inheritage.foundation/heritage/mukteswara-temple-bhubaneswar",
+    "https://cultureandheritage.org/2024/01/mukteshvara-temple-bhubaneswar-the-gem-of-kalinga-architecture.html",
+    "https://evendo.com/locations/india/bhubaneswar/attraction/mukteshwar-mahadev-temple-bhubaneswar"
+  ],
+  "state": "Odisha",
+  "town": "Bhubaneswar",
+  "town_description": "Bhubaneswar, the capital of Odisha, is known as the \"Temple City of India\" for its hundreds of ancient temples from the 7th to 13th centuries, the greatest concentration of Kalinga-style architecture anywhere. Once called Ekamra Kshetra (the mango-forest shrine), it sits on the coastal plain between the Mahanadi delta and the Eastern Ghats. Modern Bhubaneswar is a planned administrative and IT hub built around its ancient old town, home to Lingaraj, Puri's Jagannath pilgrims' transit stop, and Biju Patnaik International Airport.",
+  "tradition": "Hinduism (Shaivism)",
+  "travel": {
+    "airport": "Biju Patnaik International Airport ~4-5 km (verify)",
+    "railway": "Bhubaneswar Junction ~3-4 km (verify); in Old Town near Parashurameshvara Temple",
+    "road": "Old Town; well connected by road and city buses within Bhubaneswar"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March; January for the Mukteshwar Dance Festival",
+    "opening_hours": "Generally sunrise to sunset (verify)"
+  }
+}

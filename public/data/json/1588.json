@@ -1,0 +1,58 @@
+{
+  "alternate_names": [
+    "Shri Naina Devi Ji Temple",
+    "Mata Naina Devi Temple",
+    "Mahishapeeth"
+  ],
+  "deities": [
+    "Naina Devi (form of Durga/Sati)",
+    "Kali",
+    "Ganesha"
+  ],
+  "district": "Bilaspur",
+  "festivals": [
+    "Chaitra Navratri",
+    "Ashwin Navratri",
+    "Shravana Ashtami",
+    "Maha Tara Jayanti"
+  ],
+  "history": {
+    "dynasty": "Bilaspur princely state (Raja Bir Chand)",
+    "period": "8th century CE (present structure newer; earlier temple buried in 1880 landslide)",
+    "summary": "One of the 51 Shakti Peethas, where Sati's eyes (naina) are believed to have fallen. Tradition credits Raja Bir Chand of Bilaspur with founding the temple in the 8th century after a Gujjar boy named Naina saw a cow showering milk on a stone that the goddess revealed in a dream to be her pindi. The earlier temple was buried in a landslide in 1880, and the present structure is relatively new - CONFLICT (verify): one source dates the current building to the 18th century, another claims an 11th-century founding. The sanctum holds three murtis: Naina Devi (centre), Kali and Ganesha. Guru Gobind Singh is said to have visited before a military campaign. Opening hours CONFLICT across sources (verify)."
+  },
+  "id": "naina-devi-temple",
+  "latitude": 31.30635,
+  "longitude": 76.53659,
+  "media": [
+    "https://www.tourmyindia.com/images/shri-naina-devi-ji-bilaspur2.jpg"
+  ],
+  "name": "Naina Devi Temple",
+  "sources": [
+    "https://www.hindu-blog.com/2021/07/naina-devi-temple-in-himachal-pradesh.html",
+    "https://thenewshimachal.com/2013/12/mata-shaktis-naina-devi-temple-in-bilaspur/",
+    "https://www.apnisanskriti.com/temple/naina-devi-bilaspur-himachal-pradesh-3502?amp=true&amp=true",
+    "https://www.bharattemples.com/naina-devi-bilaspur-himachal-pradesh/",
+    "https://www.tirthayatra.org/naina-devi-shakti-peetha-bilaspur/",
+    "https://en.wikipedia.org/wiki/Naina_Devi",
+    "https://www.justdial.com/Bilaspur-Himachal-Pradesh/Shri-Naina-Devi-Temple-Naina-Devi/9999P1978-1978-141220153408-N3C8_BZDET"
+  ],
+  "state": "Himachal Pradesh",
+  "town": "Naina Devi",
+  "town_description": "Naina Devi is a small pilgrimage town and municipal council in Bilaspur district, set atop the Naina Dhar hill at about 1,177-1,219 m. It grew around the Shakti Peetha and overlooks the Gobind Sagar reservoir formed by the Bhakra Dam, with Anandpur Sahib visible across in Punjab. A cable car connects the hill base to the temple, and the town is ringed by the Naina Devi Wildlife Sanctuary.",
+  "tradition": "Hinduism (Shaktism)",
+  "travel": {
+    "airport": "Chandigarh International Airport, ~100 km (verify)",
+    "railway": "Anandpur Sahib Railway Station, ~30 km (verify); Nangal Dam station also nearby (verify)",
+    "road": "Connected by NH-21; road to the hill base, then concrete steps or cable car to the temple (verify)"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October-February; Navratri and Shravana Ashtami fairs draw the largest crowds",
+    "opening_hours": "CONFLICT (verify): 4:00 AM-10:00 PM daily, 2:00 AM-12:00 AM during Navratri (tirthayatra.org); 6:00 AM-10:00 PM (Justdial)"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "alternate_names": [
+    "Nepali Durga Mandir"
+  ],
+  "deities": [
+    "Goddess Durga"
+  ],
+  "district": "Tinsukia",
+  "festivals": [
+    "Durga Puja (verify)",
+    "Kali Puja (verify)"
+  ],
+  "history": {
+    "dynasty": "Not published",
+    "period": "Not published (verify)",
+    "summary": "A small Hindu temple in Tinsukia dedicated to Goddess Durga, identified by a listings source as the 'Nepali Durga Mandir' at Tinsukia (pin 786146), presumably serving the local Nepali community. No published history, founding date or builder is available online - this is a thin record based on a directory listing; verify identity and details on the ground. Do not confuse it with the generic 'Durga Mandir' at Borguri or the Babupatty Durga Mandir, which are different listings in Tinsukia. CSV town/state (Tinsukia, Assam) are correct. NO RELIABLE IMAGE FOUND after three search passes; media is intentionally empty."
+  },
+  "id": "nepali-durga-mandir-tinsukia",
+  "latitude": 27.44659,
+  "longitude": 95.35488,
+  "media": [],
+  "name": "Nepali Mandir (Nepali Durga Mandir)",
+  "sources": [
+    "https://meta.ai?place_id=1473847723302285"
+  ],
+  "state": "Assam",
+  "town": "Tinsukia",
+  "town_description": "Tinsukia is a major industrial and commercial city in Upper Assam, often called the gateway to the Dibru-Saikhowa National Park and the surrounding tea country. It grew around the oil, tea, timber and coal trades of the region and is known for several notable Hindu temples, including the bell temple Tilinga Mandir nearby.",
+  "tradition": "Shaktism",
+  "travel": {
+    "airport": "Dibrugarh Airport (Mohanbari), about 41-45 km away",
+    "railway": "Tinsukia (New Tinsukia Junction) railway station",
+    "road": "Within Tinsukia town; reachable by local road transport"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October-November (Durga Puja season); winter months generally pleasant (verify)",
+    "opening_hours": "Not published (verify)"
+  }
+}

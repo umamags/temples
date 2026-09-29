@@ -1,0 +1,52 @@
+{
+  "alternate_names": [
+    "Sigandureshwari Temple",
+    "Sigandooru Chowdeshwari Temple",
+    "Shri Sigandur Chowdeshwari Temple"
+  ],
+  "deities": [
+    "Chowdeshwari (Sigandureshwari, Durga)"
+  ],
+  "district": "Shivamogga",
+  "festivals": [
+    "Makara Sankranthi fair (14-15 January)",
+    "Ashada month special poojas (June-July)",
+    "Tuesdays and Fridays"
+  ],
+  "history": {
+    "dynasty": "",
+    "period": "~18th century (legendary)",
+    "summary": "POSSIBLE DUPLICATE of seq 469 ('Sri Sigandur Chowdeshwari Temple', id 'sigandur-chowdeshwari-temple') — the same temple appears twice in the CSV; keep-or-drop decision needed. Shakti temple at Sigandur (Sigandooru) village near Tumari, Sagara taluk, Shivamogga district (CSV town 'Shimoga' corrected). Local tradition: the idol was found ~300 years ago on the bank of the Sharavathi River; legend says a hunter named Sheshappa dreamt of the goddess and built the temple with village priest Duggajja, whose hereditary successors still manage it. The village is surrounded on three sides by the Linganamakki dam backwaters; devotees cross by government launch/barge (service till ~5:00-5:30 PM). Chowdeshwari is sought for recovery of stolen valuables and resolution of property/legal disputes; some devotees vow animal offerings (verify locally)."
+  },
+  "id": "sigandur-chowdeshwari-temple-sagara",
+  "latitude": 14.07524,
+  "longitude": 74.8733,
+  "media": [
+    "https://epuja.co.in/upload/Sigandur-Chowdeshwari-Devi-Temple21.jpg"
+  ],
+  "name": "Sigandur Chowdeshwari Temple",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Sigandur",
+    "https://www.astroved.com/astropedia/en/temples/south-india/sigandur-chowdeshwari-temple",
+    "https://mycameralog.com/2022/12/10/sigandur-chowdeshwari-temple/",
+    "https://templeorigins.com/sigandur-chowdeshwari-temple-contact-number/"
+  ],
+  "state": "Karnataka",
+  "town": "Sigandur",
+  "town_description": "Sigandur (Sigandooru) is a small village near Tumari in Sagara taluk of Shivamogga district, on the edge of the Sharavathi River backwaters. After the Linganamakki dam was built, the village became surrounded by water on three sides and was cut off from Sagara; it is now reached mainly by a government launch/barge from Holebagilu, or by road via Kollur and Nagodi. The village's entire identity revolves around the Chowdeshwari temple, which draws hundreds of pilgrims daily.",
+  "tradition": "Hinduism (Shaktism)",
+  "travel": {
+    "airport": "Shivamogga Airport, ~115 km (verify)",
+    "railway": "Sagara Jambagaru, ~40 km (verify)",
+    "road": "From Sagara (~40 km) to Holebagilu, then government launch/barge across the Sharavathi backwaters (~2 km; runs till ~5:00-5:30 PM) to Kalasavalli, 10 km from the temple; road route via Kollur/Nagodi (~45 km from Kollur)"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "January to March; Makara Sankranthi (mid-January) fair is the peak season",
+    "opening_hours": "Temple darshan hours UNVERIFIED (verify); plan around the last launch ~5:00-5:30 PM"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "alternate_names": [
+    "Mahatobhara Sri Mangaladevi Temple",
+    "Mangaladevi Mandir, Bolara"
+  ],
+  "deities": [
+    "Mangaladevi (Shakti/Parvati)",
+    "Shiva lingam (to the left of sanctum)",
+    "Naga deities",
+    "subsidiary deities"
+  ],
+  "district": "Dakshina Kannada",
+  "festivals": [
+    "Navaratri/Dasara (Rathotsava on the 10th day)",
+    "Ayudha Puja",
+    "Chandika Puja (7th day)",
+    "Maha Saraswathi Puja (8th day)",
+    "Vagdevi Puja (9th day)"
+  ],
+  "history": {
+    "dynasty": "Alupa dynasty",
+    "period": "9th century CE",
+    "summary": "Ancient Shakta temple at Bolara, dedicated to Goddess Shakti in the form of Mangaladevi, seated in the central sanctum. The city of Mangaluru derives its name from this presiding deity. Believed built in the 9th century by Kundavarman, the most noted king of the Alupa dynasty, under the patronage of the Nath saints Matsyendranath and Gorakhnath. The legend holds that the saints revealed to the king a buried shrine originally consecrated by Parashurama to Goddess Parvati; a linga and dharapatra were unearthed and enshrined as Mangaladevi. Princess Premaladevi of Malabar, a disciple of Matsyendranath who renounced royal life, is identified with the goddess, whom the city is named after. Built in the Kerala-Tulunadu architectural style with a two-storeyed gopuram and a prominent flagpole. The heads of the Kadri Yogiraj Mutt traditionally visit on the first day of their own annual festival to offer prayers and silk clothes to the goddess."
+  },
+  "id": "mangaladevi-temple",
+  "latitude": 12.8491,
+  "longitude": 74.8432,
+  "media": [
+    "https://upload.wikimedia.org/wikipedia/commons/1/1f/Mangaladevi_Temple_Mangalore_2.jpg"
+  ],
+  "name": "Mangaladevi Temple",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Mangaladevi_Temple",
+    "https://www.sanatanavibes.in/2025/09/mangaladevi-temple-mangalore-history.html",
+    "https://www.udupipages.in/temples/sri-mangaladevi-temple-bolar-mangalore/",
+    "https://www.bestbus.in/tourist-attractions/details/mangalore/mangaladevi-temple"
+  ],
+  "state": "Karnataka",
+  "town": "Mangaluru",
+  "town_description": "Mangaluru (formerly Mangalore) is a major port city on the Arabian Sea coast of Karnataka, headquarters of Dakshina Kannada district and the heart of Tulu-speaking Tulunadu. The city takes its name from Goddess Mangaladevi herself, whose 9th-century temple at Bolara, about 3 km southwest of the city centre, gave Mangaluru its name.",
+  "tradition": "Hinduism (Shaktism)",
+  "travel": {
+    "airport": "Mangalore International Airport, Bajpe (~12 km straight-line, verify)",
+    "railway": "Mangaluru Central ~3 km straight-line (verify)",
+    "road": "Mangaladevi Temple Rd, Bolar, Mangaluru 575001; city buses (18, 29) from the city bus stand; temple ~3 km SW of city centre"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October-March; Navaratri/Dasara for the Rathotsava celebrations",
+    "opening_hours": "6:00 AM-1:00 PM and 4:00-8:30 PM per Wikipedia (verify)"
+  }
+}

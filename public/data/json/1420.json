@@ -1,0 +1,49 @@
+{
+  "alternate_names": [
+    "Sheetla Mata Mandir, Rajnandgaon",
+    "Maa Sheetla Devi Temple, Rajnandgaon"
+  ],
+  "deities": [
+    "Goddess Sheetla Devi (Maa Sheetla Mata, aradhya kuldevi of Rajnandgaon)",
+    "Kali, Bholenath (Shiva), Hanuman and Sai Baba within the same complex"
+  ],
+  "district": "Rajnandgaon",
+  "festivals": [
+    "Navaratri (Jyoti Kalash)",
+    "Diwali"
+  ],
+  "history": {
+    "dynasty": "Bairagi Vaishnav rulers (per local press - period undocumented)",
+    "period": "Ancient; age undocumented",
+    "summary": "POSSIBLE DUPLICATE of seq 195 ('Maa Sheetla Devi Temple', id 'sheetla-devi-temple-rajnandgaon'): per local press (parwaztimes, March 2025), Rajnandgaon city has an ancient Sheetla Mata temple situated between the city's two major ponds, Rani Sagar and Budha Sagar, established in the time of kings and worshipped by the Bairagi Vaishnav rulers. Maa Sheetla is the aradhya kuldevi of Rajnandgaon - the first invitation to weddings, mundan and other auspicious occasions is offered to her - and the complex also houses Kali, Bholenath (Shiva), Hanuman and Sai Baba; devotees visit from far and wide, with nine days of bhajan-kirtan at Navaratri (Jyoti Kalash) and special puja on Diwali. AMBIGUITY: Justdial separately lists a 'Mata Sheetala Devi Shakti Peetha' at Basantpur, Rajnandgaon (daily 6 AM-1 PM), but its address line references the Badi/Chhotti Bambleshwari temples, which are at Dongargarh ~35 km away - this may be a different small shrine or a sloppy listing, and the two have not been reconciled; the CSV row is documented here as the better-attested ancient city temple. Coordinates are a Rajnandgaon city approximation (no POI-level geocode match). Opening hours for the city temple are not published - verify locally."
+  },
+  "id": "mata-sheetala-devi-shakti-peetha-rajnandgaon",
+  "latitude": 21.09755,
+  "longitude": 81.03435,
+  "media": [
+    "https://parwaztimes.com/uploads/news/202503/22-17.JPG"
+  ],
+  "name": "Mata Sheetala Devi Shakti Peetha",
+  "sources": [
+    "https://parwaztimes.com/news.php?id=this-temple-is-situated-between-two-major-ponds-of-rajnandgaon-do-visit-here-on-the-great-festival-of-shakti-worship-543157",
+    "https://www.justdial.com/Rajnandgaon/Mata-Sheetala-Devi-Shakti-Peetha-Near-Badi-And-Choti-Bambleshwari-Temples-Rajnandgaon-HO/9999P7744-7744-141218175021-X6U8_BZDET"
+  ],
+  "state": "Chhattisgarh",
+  "town": "Rajnandgaon",
+  "town_description": "Rajnandgaon is the headquarters of its district in western Chhattisgarh, on the Mumbai-Howrah rail route, and a commercial and cultural centre of the region. Its old city clusters around historic ponds including Rani Sagar and Budha Sagar, where this ancient Sheetla temple stands. The town is also the gateway to the famous Bambleshwari pilgrimage at Dongargarh, about 35 km away.",
+  "tradition": "Hinduism (Shaktism)",
+  "travel": {
+    "airport": "Swami Vivekananda Airport, Raipur (~75 km, verify)",
+    "railway": "Rajnandgaon Junction (on the Mumbai-Howrah line)",
+    "road": "NH-53 passes through the city; the temple sits between Rani Sagar and Budha Sagar in the old city"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March; Navaratri (Jyoti Kalash) is the peak season",
+    "opening_hours": "Not published for the city temple (verify locally); a Justdial listing under this name claims 6:00 AM - 1:00 PM daily but may describe a different shrine"
+  }
+}

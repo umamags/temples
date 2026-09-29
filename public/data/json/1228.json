@@ -1,0 +1,62 @@
+{
+  "alternate_names": [
+    "Sri Uma Kotilingeswara Swamy Sri Sitarama Swamy Temple",
+    "Kotilingeshwara Swamy Temple",
+    "Kotilingala Ghat Temple"
+  ],
+  "deities": [
+    "Lord Shiva as Sri Uma Kotilingeswara",
+    "Goddess Uma",
+    "Sri Sitarama Swamy (kshetrapalaka)",
+    "Ganesha",
+    "Kala Bhairava",
+    "Veerabhadra",
+    "Durga",
+    "Goddess Vishweshwari/Rakini (Shakti Peeth)",
+    "Dandapani/Vatsnabha Bhairava"
+  ],
+  "district": "East Godavari",
+  "festivals": [
+    "Maha Shivaratri",
+    "Karthika Masam",
+    "Godavari Pushkaram (every 12 years)"
+  ],
+  "history": {
+    "dynasty": "Unknown",
+    "period": "Disputed",
+    "summary": "Ancient Shiva temple at Kotilingala Ghat on the banks of the Godavari in Rajamahendravaram. Legend says Indra, cursed by sage Gautama, installed a Shivalinga here and anointed it with water from a crore of rivers - hence 'Kotilingeswara' (lord of a crore of lingas). One travel source dates the temple to the 10th-11th century, but this is uncorroborated; similarly named 'Kotilingam' shrines are also reported at Panchadharala (Visakhapatnam district) and KGF, so web sources may conflate identities - flagged. The Godavari-tir Shakti Peeth (Sarvashail) sits within this complex (Shakti as Vishweshwari/Rakini, Bhairava as Dandapani/Vatsnabha). Coordinates from sannidhi.net (that page labels lat/lon swapped; corrected here)."
+  },
+  "id": "kotilingeswara-temple-rajahmundry",
+  "latitude": 17.0037119,
+  "longitude": 81.7559144,
+  "media": [
+    "https://hblimg.mmtcdn.com/content/hubble/img/ttds/mmt/activities/t_trp/m_Rajahmundry_Kotilingeswara_Temple_6_l_539_900.jpg?im=Resize=(1200,570)"
+  ],
+  "name": "Kotilingeswara Temple",
+  "sources": [
+    "https://sannidhi.net/sannidhi/sri-umakotilingeswara-swamy-sri-sitarama-swamy-temple-rajamahendravaram-andhra-pradesh/",
+    "https://www.thedivineindia.com/godavari-tir-shakti-peeth/6082",
+    "https://travelsetu.com/guide/kotilingeswara-temple-tourism",
+    "http://www.99mustsee.com/India/KotiLingeswara-Temple-Rajahmundry-Andhra-Pradesh-Attractions-409",
+    "https://en.wikipedia.org/wiki/Kotilingam",
+    "https://wanderboat.ai/attractions/rF8sWBX7QIy5GcHIv3k-BA"
+  ],
+  "state": "Andhra Pradesh",
+  "town": "Rajahmundry",
+  "town_description": "Rajamahendravaram (Rajahmundry), on the east bank of the Godavari in East Godavari district, is one of the oldest cities of Andhra Pradesh. It was the 11th-century seat of Eastern Chalukya king Rajaraja Narendra and the birthplace of Telugu literature under the poet Nannaya. It is famed for its riverside ghats and Godavari Pushkarams, the Dowleswaram Barrage, paper mills and nurseries.",
+  "tradition": "Shaivism",
+  "travel": {
+    "airport": "Rajahmundry Airport - about 20 km (verify)",
+    "railway": "Rajahmundry Railway Station - about 5 km",
+    "road": "Local buses and taxis from Rajamahendravaram city"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October-March; Maha Shivaratri is the main festival",
+    "opening_hours": "6:00 AM-8:00 PM (per travelsetu - verify)"
+  }
+}

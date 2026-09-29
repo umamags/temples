@@ -1,0 +1,54 @@
+{
+  "alternate_names": [
+    "Sri Sri Rukmini Krishna Temple",
+    "ISKCON Guwahati BACE"
+  ],
+  "deities": [
+    "Lord Krishna",
+    "Goddess Rukmini"
+  ],
+  "district": "Kamrup Metropolitan",
+  "festivals": [
+    "Janmashtami",
+    "Rath Yatra",
+    "Holi",
+    "Gaura Purnima",
+    "Rukmini Ashtami"
+  ],
+  "history": {
+    "dynasty": "Modern (ISKCON, founded 1966)",
+    "period": "Late 20th century-present",
+    "summary": "ISKCON (International Society for Krishna Consciousness) temple on Sarania Hill in the Ulubari area, Guwahati, dedicated to Krishna and his consort Rukmini. A stark white, marble-floored temple belonging to the Gaudiya Vaishnava movement founded by A.C. Bhaktivedanta Swami Prabhupada. Daily programmes include aarti, kirtan, chanting and Bhagavad Gita discourses; the temple runs personality-development and stress-management classes and a religious souvenir shop. No entry fee; donations encouraged. CSV town 'Dispur' corrected to Guwahati. Coordinates from the temple's official listing (26.176755, 91.759195); the map geocoder matched an unrelated Krishna temple elsewhere in Guwahati."
+  },
+  "id": "iskcon-temple-guwahati",
+  "latitude": 26.176755,
+  "longitude": 91.759195,
+  "media": [
+    "https://demo.webxindia.com/hkmg/wp-content/uploads/2021/09/0000.jpg"
+  ],
+  "name": "ISKCON Temple, Guwahati",
+  "sources": [
+    "http://www.iskconguwahati.com/",
+    "https://www.trawell.in/assam/guwahati/iskcon-temple",
+    "https://templedarshan.live/iskcon-temple-darshan/iskcon-guwahati-sri-sri-rukmini-krishna-temple-on-rg-baruah-road/",
+    "https://expervia.in/destinations/place/iskcon"
+  ],
+  "state": "Assam",
+  "town": "Guwahati",
+  "town_description": "Guwahati is the largest city of Assam and the principal city of Northeast India, on the south bank of the Brahmaputra. Once the seat of the ancient kingdom of Pragjyotishpura/Kamarupa, it is the region's main commercial and transport hub and a centre of Shakti worship, with Kamakhya, Umananda and Ugratara shrines.",
+  "tradition": "Vaishnavism (Gaudiya Vaishnavism, ISKCON)",
+  "travel": {
+    "airport": "Lokpriya Gopinath Bordoloi International Airport, about 20 km away",
+    "railway": "Guwahati railway station, about 2-3 km away",
+    "road": "On Sarania Hill, Ulubari (near RG Baruah Road); reached by taxi, rickshaw or a flight of stairs from the entrance"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March; Janmashtami and Rath Yatra attract large crowds",
+    "opening_hours": "4:30 AM to 12:30 PM and 4:30 PM to 8:30 PM (travel sources); the temple's BACE listing shows 4:30 AM-1:00 PM and 3:30-8:30 PM - verify locally"
+  }
+}

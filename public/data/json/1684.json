@@ -1,0 +1,52 @@
+{
+  "alternate_names": [
+    "Kashi Vishweshwara Temple",
+    "Antaragange Shiva Temple",
+    "Dakshin Kashi"
+  ],
+  "deities": [
+    "Kashi Vishweshwara (Shiva)"
+  ],
+  "district": "Kolar",
+  "festivals": [
+    "Maha Shivaratri",
+    "Kartika Deepotsava (verify)"
+  ],
+  "history": {
+    "dynasty": "Unknown (one travel site dates the temple to the 17th century - UNVERIFIED)",
+    "period": "17th century per velpu.com (single weak source - verify)",
+    "summary": "CSV TOWN FLAG: the temple is NOT in Kolar town - it stands atop Antaragange hill in the Shathashrunga range, about 4 km from Kolar town. 'Antaragange' (Kannada: 'Ganges from deep') is the perennial spring whose water gushes year-round, monsoon or summer, from the mouth of a stone Basava (bull) into a square granite step pond in Dravidian style; the water's source is unknown, and devotees believe it is the Ganga falling from Shiva's head with curative powers. The rock-built hill temple enshrines Kashi Vishweshwara (Shiva) with a main lingam and smaller lingams beside the mantapa, and the site is also called Dakshin Kashi. Hindu legend links the hill to Parasurama, Jamadagni and Renuka. Caves behind the temple are a popular trekking/caving spot. The 17th-century construction date comes from a single travel site (velpu.com) and is UNVERIFIED. Coordinates are approximate (verify on ground)."
+  },
+  "id": "sri-kashi-vishweshwara-temple",
+  "latitude": 13.142,
+  "longitude": 78.101,
+  "media": [
+    "https://kannada.nativeplanet.com/img/2017/11/27-1511771345-3.jpg"
+  ],
+  "name": "Sri Kashi Vishweshwara Temple (Antaragange)",
+  "sources": [
+    "https://www.karnataka.com/kolar/antaragange-temple/",
+    "https://velpu.com/temple/ANTHARA-GANGE-KOLAR/MTcyMw==",
+    "https://www.BangaloreOrbit.com/trekking-in-karnataka/antaragange/antaragange.html",
+    "https://viharadarshani.in/2023/10/antara-gange-kolar-caves-temple-falls-trekking-timings-distance.html/",
+    "https://bhavanavadodariya.medium.com/antaragange-dakshin-kashi-e06961786e1c"
+  ],
+  "state": "Karnataka",
+  "town": "Antaragange",
+  "town_description": "Antaragange is a rocky hill in the Shathashrunga mountain range just 4 km from Kolar town, named for the perennial 'Ganges from deep' spring. It combines a hilltop Shiva temple with volcanic-rock caves popular for trekking and caving, panoramic views over the Kolar plains, and a resident monkey population - making it both a pilgrimage spot and a weekend outing from Bengaluru.",
+  "tradition": "Hinduism (Shaivism)",
+  "travel": {
+    "airport": "Kempegowda International Airport, Bengaluru - about 80 km (verify).",
+    "railway": "Kolar railway station - about 4-5 km (verify).",
+    "road": "About 4 km from Kolar town by road/auto, then a climb of roughly 350-500 steps (15-30 min); about 70 km from Bengaluru via Old Madras Road (verify)."
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "September-November; carry water and food, and guard belongings - the monkeys are aggressive.",
+    "opening_hours": "CONFLICT (verify): temple 6:00 AM-9:00 PM (velpu) vs hill/cave area 8:00 AM-5:30 PM (viharadarshani)."
+  }
+}

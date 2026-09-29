@@ -1,0 +1,50 @@
+{
+ "alternate_names": [
+  "Adhar Devi Mandir",
+  "Arbuda Mata Mandir",
+  "Arbuda Devi Temple"
+ ],
+ "deities": [
+  "Arbuda Devi (Adhar Devi)",
+  "Katyayani (incarnation of Durga - per travel sources)"
+ ],
+ "district": "Sirohi",
+ "festivals": [
+  "Navratri (grandest festival; the shrine is swarmed by devotees)"
+ ],
+ "history": {
+  "dynasty": "No documented builder; Parmar dynasty claims Arbuda Devi as its ancestral goddess (from travel sources - verify)",
+  "period": "Antiquity claims ('thousands of years old', Shakti Peetha) are unverified",
+  "summary": "DUPLICATE FLAG: this CSV row is seq 2093 'Adhar Devi Temple (Arbuda Devi)' (id adhar-devi-arbuda-devi-temple-mount-abu) - the same rock-cut cave temple 2-3 km north of Mount Abu; dedup needed. Both names in the CSV row ('Adhar Devi Mandir (Arbuda Mata Mandir)') are alternate names of that one shrine. Geocoded coordinates match seq 2093 exactly. For full detail see seq 2093. Brief facts: cave shrine of goddess Durga reached by crawling through a narrow rock opening after a steep climb of ~365-500 steps; legend says the goddess's 'Adhar' (lip/support) fell here; claimed Shakti Peetha (verify); mobiles and photography prohibited inside."
+ },
+ "id": "adhar-devi-temple-mount-abu-duplicate",
+ "latitude": 24.60456,
+ "longitude": 72.71271,
+ "media": [
+  "https://www.tourmyindia.com/images/adhar-devi-temple1.jpg"
+ ],
+ "name": "Adhar Devi Mandir (Arbuda Mata Mandir)",
+ "sources": [
+  "https://www.tourmyindia.com/states/rajasthan/adhar-devi-temple.html",
+  "https://www.holidify.com/places/mount-abu/adhar-devi-temple-sightseeing-2847.html",
+  "http://lightuptemples.com/en/mount-abu-adhar-devi-temple-rajasthan/"
+ ],
+ "state": "Rajasthan",
+ "town": "Mount Abu (CSV town 'Mount Abu (Dilwara)' normalized)",
+ "town_description": "Mount Abu is Rajasthan's only hill station, in the Aravalli range of Sirohi district at about 1,219 m, built around Nakki Lake. The Adhar/Arbuda Devi cave temple lies 2-3 km north of the town on a wooded hillside, alongside the Dilwara Jain temples and Achaleshwar Shiva temple as one of the area's major Hindu pilgrimage points.",
+ "tradition": "Shaktism",
+ "travel": {
+  "airport": "Maharana Pratap Airport, Udaipur/Dabok, about 175 km away (verify).",
+  "railway": "Abu Road station, about 28 km away; taxis and buses connect to Mount Abu.",
+  "road": "2-3 km north of Mount Abu town by local taxi; then a steep ~365-500-step climb (verify) to the cave shrine. Not recommended for the elderly."
+ },
+ "video": {
+  "audio": "",
+  "script": "",
+  "video_file": ""
+ },
+ "visitor_information": {
+  "best_time": "October to March; Navratri is the grandest and most crowded period.",
+  "opening_hours": "Listed as 5:00 AM - 12:00 PM and 4:00 PM - 8:00 PM daily (per Holidify - verify). No entry fee; allow 1-2 hours including the climb."
+ }
+}

@@ -1,0 +1,47 @@
+{
+  "alternate_names": [
+    "Gurudwara Nanaksar Thath",
+    "Gurudwara Nanaksar Sahib, Barnala",
+    "Gurudwara Shri Nansksar"
+  ],
+  "deities": [],
+  "district": "Barnala",
+  "festivals": [
+    "Prakash Divas of Guru Nanak Dev Ji (verify)",
+    "Baisakhi",
+    "Gurpurabs"
+  ],
+  "history": {
+    "dynasty": "Modern",
+    "period": "20th century (Nanaksar samparda; exact founding date UNVERIFIED)",
+    "summary": "THIS IS A SIKH GURDWARA (Nanaksar tradition), NOT A HINDU TEMPLE — keep-or-drop decision needed. The CSV name 'Nanaksar Bahadur Gurudwara' most plausibly refers to the Gurudwara Nanaksar Thath on Kachehari Road in Barnala, listed on the district tourism page; treat this identification as provisional (verify). Nanaksar Thath gurdwaras belong to the Nanaksar samparda founded by Sant Baba Nand Singh, centred on Naam Simran (meditative repetition of God's name), kirtan and langar. It venerates the Guru Granth Sahib; there are no deity idols. Full-address geocode match at Nanaksar Nagar, Barnala."
+  },
+  "id": "nanaksar-gurdwara-barnala",
+  "latitude": 30.35754,
+  "longitude": 75.53672,
+  "media": [],
+  "name": "Nanaksar Bahadur Gurudwara",
+  "sources": [
+    "https://barnala.gov.in/tourism/",
+    "https://in.locale.online/gurudwara-nanaksar-sahib-barnala-1793658873.html",
+    "https://www.instagram.com/explore/locations/297057653745186"
+  ],
+  "state": "Punjab",
+  "town": "Barnala",
+  "town_description": "Barnala is a centrally located city in the Malwa region of Punjab and the headquarters of Barnala district, formed in 2006. It has a history said to reach back before the 18th century, with older quarters like Quilla Mahal still showing traces of the past. The city and district are known for their handloom and textile industry, and for several historic gurdwaras in and around the town.",
+  "tradition": "Sikhism (Nanaksar samparda)",
+  "travel": {
+    "airport": "Nearest domestic airports at Ludhiana / Bathinda / Chandigarh (verify)",
+    "railway": "Barnala Junction — nearby (verify)",
+    "road": "Kachehari Road, Barnala town; also listed on Barnala-Bajakhana Road (verify)"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March",
+    "opening_hours": "Typical gurdwara hours, e.g. 4:00 AM to 8:00 PM (verify)"
+  }
+}

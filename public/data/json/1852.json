@@ -1,0 +1,50 @@
+{
+  "alternate_names": [
+    "Gupta Bhimashankar",
+    "Secret Bhimashankar"
+  ],
+  "deities": [
+    "Shiva (as Gupt Bhimashankar linga)"
+  ],
+  "district": "Pune",
+  "festivals": [
+    "Mahashivratri (as part of the Bhimashankar pilgrimage)",
+    "Shravan (verify)"
+  ],
+  "history": {
+    "dynasty": "None (natural/legendary shrine)",
+    "period": "Legendary",
+    "summary": "A hidden forest shrine near the Bhimashankar Jyotirlinga: a water-sculpted (natural) Shiva linga under a waterfall/stream, reached by a ~25-40 minute trek through dense jungle down the stream route left of the Ram temple. Legend holds that this is the secret spot where the sacred Jyotirlinga was originally found (hence 'Gupt'/'Gupta'), or where Shiva meditated. It is a natural, open-air site — not a constructed temple — and is best visited in the monsoon when the waterfall flows. Access and exact location details UNVERIFIED; coordinates approximate (map listings disagree: 19.0615,73.5421 vs 19.0720,73.5360). Media image is a poster frame from a YouTube video about Gupt Bhimashankar — depiction of the exact site UNVERIFIED (verify)."
+  },
+  "id": "gupt-bhimashankar",
+  "latitude": 19.0615,
+  "longitude": 73.5421,
+  "media": [
+    "https://i.ytimg.com/vi/WRueR-IaTs8/frame0.jpg"
+  ],
+  "name": "Gupt Bhimashankar",
+  "sources": [
+    "https://www.youtube.com/watch?v=4vGzd4-hxw4",
+    "https://lbb.in/pune/Monsoon-trek-to-Bhimashankar-45e173/",
+    "https://safarsahyadri.com/fat-event/bhimashankar-jyotirling-tour-with-gupt-bhimashankar/",
+    "https://www.trekhievers.com/tours/bhimashankar"
+  ],
+  "state": "Maharashtra",
+  "town": "Bhimashankar (Bhorgiri), Khed taluka",
+  "town_description": "Bhimashankar is a hill settlement in the Sahyadri range of Pune district, around 110 km from Pune, set in dense forest within the Bhimashankar Wildlife Sanctuary. It is famous as the source of the Bhima River and one of the twelve Jyotirlinga pilgrimage sites, drawing devotees, trekkers, and nature lovers. The surrounding sanctuary is known for the Indian giant squirrel and rich biodiversity of the Western Ghats.",
+  "tradition": "Hinduism (Shaivism)",
+  "travel": {
+    "airport": "Pune International Airport, ~105 km (verify)",
+    "railway": "Pune Junction, ~110 km by road (verify)",
+    "road": "Road to the main Bhimashankar temple (~110 km from Pune), then on foot only — a 25-40 min forest trek from the main temple (verify); forest entry subject to sanctuary rules and monsoon conditions"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "Monsoon (June-September) for the waterfall; avoid heavy-rain days and check forest access (verify)",
+    "opening_hours": "Daytime only — an unstaffed open-air forest site; go with a local guide (verify)"
+  }
+}

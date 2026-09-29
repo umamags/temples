@@ -1,0 +1,47 @@
+{
+  "alternate_names": [
+    "Bhismaknagar Fort",
+    "Bhashmaknagar Fort",
+    "Bhismaknagar Hill Fort"
+  ],
+  "deities": [],
+  "district": "Lower Dibang Valley",
+  "festivals": [],
+  "history": {
+    "dynasty": "Chutia",
+    "period": "Medieval (c. 12th century)",
+    "summary": "Bhismaknagar is NOT an active temple - it is a ruined brick hill fort about 29-30 km south-east of Roing at Khatan/Koronu, ascribed to the Chutia kingdom that ruled the Sadiya region from the 11th to the 16th century CE; it formed part of the historical Sadhayapura capital region, possibly the fortified city of Doi-Thang (Wikipedia). Legend identifies it as the capital of King Bhismaka of the Mahabharata (father of Rukmini). ASI excavations in 1969-73 yielded terracotta plaques, decorative tiles, pottery and terracotta figurines, pointing to a sophisticated planned settlement with burnt-brick construction. It is a holy heritage site for the Idu Mishmis. DATING CONFLICT: some travel sources say 8th century, the official district site says circa 12th century AD; the 'Temple Complex' label is a misnomer - the site is fort ruins with no documented active worship. Coordinates are locality-level (Bhismaknagar, Koronu) - approximate."
+  },
+  "id": "bhismaknagar-temple-complex-roing",
+  "latitude": 28.04736,
+  "longitude": 96.00347,
+  "media": [
+    "https://bharatkisoch.com/bks/wp-content/uploads/2026/04/Bhismaknagar-Fort-and-Remains.png"
+  ],
+  "name": "Bhismaknagar Temple Complex",
+  "sources": [
+    "http://en.wikipedia.org/wiki/Bhismaknagar",
+    "https://roing.nic.in/tourist-packages/",
+    "https://traveltriangle.com/blog/places-to-visit-in-roing/",
+    "http://www.nativeplanet.com/roing/attractions/",
+    "https://www.inheritage.foundation/explore/archaeological-site-in-arunachal-pradesh"
+  ],
+  "state": "Arunachal Pradesh",
+  "town": "Roing",
+  "town_description": "Roing is the headquarters of the Lower Dibang Valley district, set on the plains below the Dibang hills near the Dibang River. It is the base for the Roing-Mayudia-Anini tourist circuit, the Mehao Wildlife Sanctuary and Sally Lake, and the ancient Bhismaknagar fort.",
+  "tradition": "Historical/Hindu (ruins; no active worship documented)",
+  "travel": {
+    "airport": "Tezu (~65 km); Dibrugarh/Chabua (Assam, ~122 km aerial)",
+    "railway": "Tinsukia Junction (Assam), ~97 km",
+    "road": "NH-115 (Roing-Tezu road), ~29-30 km south-east of Roing"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "November to March",
+    "opening_hours": "Daytime visits; entry fee reported ~Rs 50 (verify)"
+  }
+}

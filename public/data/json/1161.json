@@ -1,0 +1,57 @@
+{
+  "alternate_names": [
+    "Ghaghar Burhi",
+    "Ghaghar Buri",
+    "Sri Sri Ghagar Buri Chandi Mata Temple",
+    "Ghagorburi Mandir",
+    "Ma Ghagarburi Mandir"
+  ],
+  "deities": [
+    "Ghaghar Buri Chandi Mata (form of Goddess Kali)",
+    "Goddess Annapurna",
+    "Panchanan Mahadev (Shiva)",
+    "Rama, Sita, Lakshmana, Hanuman (subsidiary shrine)"
+  ],
+  "district": "Paschim Bardhaman",
+  "festivals": [
+    "Annual country fair on 15 January",
+    "Durga Puja",
+    "Diwali (Kali Puja)"
+  ],
+  "history": {
+    "dynasty": "unknown",
+    "period": "1620 (single source; unverified)",
+    "summary": "The oldest temple of Asansol (per Wikipedia), a small shrine to Goddess Kali as Ghagar Buri Chandi Mata, on the banks of the Nunia river at Kalipahari, beside the National Highway (Bypass), Asansol. The goddess is worshipped in the form of three stones in a row: Ghagar Buri in the middle, Goddess Annapurna to her left and Panchanan Mahadev (Shiva) to her right; a separate shrine holds Rama, Sita, Lakshmana and Hanuman. One travel site dates the temple to 1620 (single source; unverified). Legend says a marriage procession worshipped the deity to cross the rivulet (Nunia) in spate; a dream-appearance of the goddess in a ghagra (long skirt) to Kangali Charon Chakroborty led to the temple's founding (per a blog account). Worship is held every Tuesday and Saturday, a country fair on 15 January each year, and animal sacrifice is part of worship. Hours conflict: one listing says 7:00 AM - 7:00 PM daily, another says 5:30 AM - 6:00 PM with no pujas after 6 PM (verify)."
+  },
+  "id": "ghagar-buri-chandi-temple-asansol",
+  "latitude": 23.68385,
+  "longitude": 87.0069,
+  "media": [
+    "https://d3sftlgbtusmnv.cloudfront.net/blog/wp-content/uploads/2024/11/Ghagar-Buri-Chandi-Temple.jpg"
+  ],
+  "name": "Ghagar Buri Chandi Temple",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Ghaghar_Burhi",
+    "https://yatramantra.com/tourist-place/ghagar-buri-chandi-temple/",
+    "https://www.swarnabdutta.com/ghagar-buri-chandi-temple-asansol/",
+    "https://in.worldorgs.com/catalog/asansol/amusement-center/ghagar-buri-chandi-mata-temple"
+  ],
+  "state": "West Bengal",
+  "town": "Asansol",
+  "town_description": "Asansol, in the Paschim Bardhaman district of West Bengal, is the state's second-largest city and a major coal-mining and industrial centre, often called the 'City of Brotherhood'. It lies on the Grand Trunk Road (NH-19) corridor between Kolkata and Delhi, with Asansol Junction as a major railway hub. Religious landmarks include the Ghaghar Burhi shrine (the city's oldest temple) and the Kalyaneshwari Temple; nearby excursions include Maithon Dam.",
+  "tradition": "Shaktism (Kali/Chandi worship)",
+  "travel": {
+    "airport": "Kazi Nazrul Islam Airport (Durgapur/Andal)",
+    "railway": "Asansol Junction",
+    "road": "Beside the National Highway (Bypass) at Kalipahari, Asansol; on the banks of the Nunia river"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March; annual fair on 15 January",
+    "opening_hours": "Conflicting: 7:00 AM - 7:00 PM daily (listing) vs 5:30 AM - 6:00 PM, no pujas after 6 PM (verify)"
+  }
+}
