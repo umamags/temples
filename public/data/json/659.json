@@ -1,0 +1,44 @@
+{
+  "alternate_names": [
+    "Gopinath Mandir, Tamenglong (verify - no published source confirms a shrine of this exact name in Tamenglong)"
+  ],
+  "deities": [
+    "Lord Gopinath (Krishna) (verify - presumed from the CSV name; shrine identity unverified)"
+  ],
+  "district": "Tamenglong",
+  "festivals": [
+    "None documented for a Tamenglong shrine (verify - the famous Gopinath Mandir at Ningthoukhong celebrates Holi, Diwali, Krishna Janmashtami and Durga Puja, but that is a different, well-documented temple and must not be conflated with this entry)"
+  ],
+  "history": {
+    "dynasty": "None documented (verify)",
+    "period": "Unknown (verify)",
+    "summary": "IMPORTANT IDENTITY NOTE: No published travel, tourism, temple, or map source documents a specific 'Gopinath Mandir' in Tamenglong town or district; this entry is provisional (verify). The name is generic - there are many Gopinath Mandirs across India (West Bengal, Assam, Tripura, Vrindavan and others all surfaced in searches). The best-documented Gopinath shrine in Manipur is the large Shree Gopinath Mandir at Ningthoukhong in Bishnupur district (described by tourism sources as the second-largest Hindu temple in Manipur, drawing large festival crowds) - but it is a different temple roughly 100+ km away and must NOT be treated as this row's referent without evidence. Tamenglong district is overwhelmingly Christian (Naga Baptist), and any Hindu shrine in the town would be a small community temple of the non-tribal population with no published record. Treat all details here as provisional pending local verification."
+  },
+  "id": "gopinath-mandir-tamenglong-provisional",
+  "latitude": 24.96538,
+  "longitude": 93.49509,
+  "media": [],
+  "name": "Gopinath Mandir",
+  "sources": [
+    "https://www.thisismyindia.com/manipur/manipur-temple.html",
+    "https://www.bharattemples.com/gopinath-mandir-ningthoukhong-manipur/"
+  ],
+  "state": "Manipur",
+  "town": "Tamenglong",
+  "town_description": "Tamenglong is the headquarters town of Tamenglong district in western Manipur, a Naga-majority hill town at about 1,290 m elevation in the Barak river basin. It is known for its oranges, the nearby Zeilad Lake, Tharon cave and Buning meadows. The district is overwhelmingly Christian (Baptist), so Hindu shrines here, if any, are small community temples serving the non-tribal population rather than historic pilgrimage sites.",
+  "tradition": "Vaishnavism (presumed; verify)",
+  "travel": {
+    "airport": "Bir Tikendrajit International Airport, Imphal (approx. 150 km by road via Khongsang; verify).",
+    "railway": "Jiribam railway station is the nearest broad-gauge railhead in the state (verify distance from Tamenglong).",
+    "road": "Tamenglong connects to Imphal by road (approx. 150 km; verify current route); local transport by shared taxi/bus."
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March (dry, pleasant season).",
+    "opening_hours": "Not published (verify - small local shrines typically open morning and evening; confirm locally). No entry fee expected."
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "alternate_names": [
+    "Gurdwara Sri Nanaksar Sahib, Takhtupura",
+    "Gurudwara Takhtupura Sahib"
+  ],
+  "deities": [
+    "Guru Granth Sahib (installed and recited; Sikhism - NOT a Hindu temple)"
+  ],
+  "district": "Moga",
+  "festivals": [
+    "Jor Mela (13-17 January)",
+    "Gurpurabs of Guru Nanak Dev Ji, Guru Hargobind Ji and Guru Gobind Singh Ji",
+    "Shahidi Divas of Guru Arjan Dev Ji"
+  ],
+  "history": {
+    "dynasty": "Sikh Gurus; 20th-century sant-led construction",
+    "period": "16th-17th century visits; shrines built 1921, 1962, 1975",
+    "summary": "NOT A HINDU TEMPLE — Sikh gurdwara complex, keep-or-drop decision needed. Gurudwara Sri Nanaksar Sahib is at village Takhtupura, Moga district (32 km southeast of Moga; 5 km east of Nihal Singhwala; 3 km off the Moga-Barnala road between Lohara and Bilaspur). The CSV town is 'Moga' (the district city); the actual site is village Takhtupura — town corrected. Three shrines, collectively called Nanaksar after the sacred sarovar, commemorate three Gurus: Gurdwara Patshahi Pehli on the sarovar bank (Guru Nanak Dev Ji's discourse with siddha yogis and the Raja Bharthari of Ujjain legend); Gurdwara Patshahi Chhevin (Guru Hargobind Ji, after the Battle of Mehraj 1634, stayed ~45 days; building raised 1921 by Sant Sunder Singh Bhindrawale); Gurdwara Patshahi Dasvin on the eastern bank (Guru Gobind Singh Ji, December 1705, en route Chakar to Dina, bathed in the sarovar; building by Sant Darbara Singh of Lapon, 1962; six-storey marble edifice by Sant Barbara Singh of Lopon, 1975, with lotus dome and gold-plated pinnacle). Note: CSV seq 2043 ('Gurudwara Sahib Patsahi Pehli') is one of this complex's three shrines — likely duplicate/sub-entry of this row."
+  },
+  "id": "gurudwara-nanaksar-sahib-takhtupura",
+  "latitude": 30.56123,
+  "longitude": 75.33402,
+  "media": [
+    "https://content.jdmagicbox.com/v2/comp/moga/j8/9999p1636.1636.191120193814.e6j8/catalogue/gurudwara-takhtupura-sahib-moga-gurudwaras-wfidnk30ve-250.jpg"
+  ],
+  "name": "Gurudwara Nanaksar Sahib, Takhtupura",
+  "sources": [
+    "http://www.historicalgurudwaras.com/GurudwaraDetail.aspx?gid=4074",
+    "https://www.sikhiwiki.org/index.php/Gurudwara_Nanaksar_Sahib_(Village_Takhtupura)",
+    "https://www.worldgurudwaras.com/gurudwara-sri-nanaksar-sahib-takhtupura/"
+  ],
+  "state": "Punjab",
+  "town": "Takhtupura",
+  "town_description": "Takhtupura is a village in Nihal Singhwala tehsil of Moga district, Punjab, about 32 km southeast of Moga city and 3 km off the Moga-Barnala road. It is the site of the Nanaksar Sahib gurdwara complex, which attracts large sangat especially during the January Jor Mela.",
+  "tradition": "Sikhism",
+  "travel": {
+    "airport": "Chandigarh International ~120 km; Bathinda airport ~110 km",
+    "railway": "Moga Junction ~32 km; Barnala ~30 km",
+    "road": "32 km southeast of Moga via Bagha Purana and Nihal Singhwala, or via Lohara on the Moga-Barnala road; also on Guru Gobind Singh Marg"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March; Jor Mela (13-17 January) is the biggest annual gathering",
+    "opening_hours": "Open daily from early morning (verify exact hours)"
+  }
+}

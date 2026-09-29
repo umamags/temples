@@ -1,0 +1,48 @@
+{
+  "alternate_names": [],
+  "deities": [
+    "Brahma",
+    "Bhuvaneshvari"
+  ],
+  "district": "Khurda",
+  "festivals": [
+    "Ashokashtami",
+    "Chandana Jatra",
+    "Rukuna Rath (Lingaraj's car festival)"
+  ],
+  "history": {
+    "dynasty": "Gajapati dynasty",
+    "period": "15th/16th century CE",
+    "summary": "Hindu temple dedicated to Lord Brahma on the eastern embankment of the Bindu Sagar tank, Old Town Bhubaneswar, on the road leading from Lingaraj Temple. Legend: Brahma came to Bhubaneswar for the coronation of Lingaraj Deva and was persuaded to stay; he assured he would return every Chaitra for Ashokashtami and act as charioteer (sarathi) of Lingaraj's Rukuna Rath. Late-Kalingan style, built under the Gajapati rulers; houses a four-armed black chlorite image of Brahma holding Veda and water vessel (upper hands), rosary and abhaya mudra (lower hands). A living temple served by Panda-family Brahmins, looked after by the Lingaraja Trust Board. IDENTITY CAVEAT: the small Jagati shrine standing in the middle of Bindu Sagar is also sometimes called the Brahma Temple and is associated with Lingaraj's Chandana Jatra; the CSV label 'Vaital Deul complex area' is ambiguous between the two — this entry documents the embankment temple described by Wikipedia (20.24195, 85.83510)."
+  },
+  "id": "brahma-temple-bindusagar",
+  "latitude": 20.24018,
+  "longitude": 85.83468,
+  "media": [
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjfz912beviRceoFX7tCWX9DfpIFJdnRJ7GGQoA3pDqPeif7QxeUeFbcth1rjZJoLpWq_ECQU3jt0m7rzrcMBMmXzm2vNvFNa-KPWTs3ZFxZ1Gj04aOYydfEaMNLMAEPP9Cw8PD51tDjY7IAwZTVUTBKf0u15oxikhaivSAmEnYbGHbsRGGgHS2-NOelw/s16000/Brahma%20Temple%20Near%20Lingaraj%20Temple%20in%20Bhubaneswar%20in%20Odisha.jpg"
+  ],
+  "name": "Brahma Temple (Bindusagar)",
+  "sources": [
+    "http://en.wikipedia.org/wiki/Brahma_Temple,_Bindusagar",
+    "https://hindutemples-india.blogspot.com/2020/02/brahma-temple-bindu-sagar-bhubaneswar-odisha.html",
+    "http://rangandatta.wordpress.com/2025/12/10/exploring-the-temples-east-of-bindu-sagar-bhubaneswar/"
+  ],
+  "state": "Odisha",
+  "town": "Bhubaneswar",
+  "town_description": "Bhubaneswar, the capital of Odisha, is known as the 'Temple City of India' with over 700 surviving temples spanning the 7th to 13th centuries. Its Old Town clusters around the sacred Bindu Sagar tank and the 11th-century Lingaraj Temple, the city's presiding shrine. Khurda district's administrative and cultural hub, it blends ancient Kalingan architecture with a modern planned capital.",
+  "tradition": "Hinduism (Brahma worship)",
+  "travel": {
+    "airport": "Biju Patnaik International Airport, Bhubaneswar (~3-5 km, verify)",
+    "railway": "Bhubaneswar railway station (~3 km, verify)",
+    "road": "In Bhubaneswar Old Town, on the eastern embankment of Bindu Sagar along the Talabazar road leading from Lingaraj Temple; reached by auto-rickshaw or cab from anywhere in the city"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March; mornings. Ashokashtami (Chaitra, March-April) for the Rukuna Rath connection",
+    "opening_hours": "Daily worship performed by Panda-family priests; published darshan hours not found (verify)"
+  }
+}

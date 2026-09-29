@@ -1,0 +1,47 @@
+{
+  "alternate_names": [
+    "Tamla-Du",
+    "Tamladu"
+  ],
+  "deities": [
+    "Nature and earth deities (Mishmi indigenous faith)"
+  ],
+  "district": "Lohit",
+  "festivals": [
+    "Tamla-Du (15 February)"
+  ],
+  "history": {
+    "dynasty": "Not applicable (festival site)",
+    "period": "Contemporary",
+    "summary": "NOT A BUDDHIST TEMPLE AND NOT A TEMPLE AT ALL — keep-or-drop/reclassification decision needed. Tamla-Du is the annual festival of the Mishmi (Digaru Mishmi) community, celebrated on 15 February at a festival ground in Tezu, Lohit district, where prayers are offered to the god/nature deities of earth for prosperity and protection (the 56th Central Tamla-Dü Festival was held at Tezu in February 2026). The CSV row's label 'Tamla-Du Buddhist Temple' conflates this Mishmi indigenous-faith festival with a Buddhist temple. Researched here as the Central Tamla-Du festival site; recommend relabelling the row as a festival site, in the same way as other CSV festival entries. Coordinates are approximate Tezu-town coordinates."
+  },
+  "id": "tamla-du-festival-ground-tezu",
+  "latitude": 27.92732,
+  "longitude": 96.15465,
+  "media": [
+    "https://www.indianholiday.com/wordpress/wp-content/uploads/2024/08/506_7531.jpg"
+  ],
+  "name": "Tamla-Du Festival Ground, Tezu",
+  "sources": [
+    "http://testbook.com/question-answer/tamladu-or-tamla-du-is-a-festival-celebrated-by--625fe0071dae8f9dfc565f19",
+    "https://www.youtube.com/watch?v=Umtxc7i0-HE"
+  ],
+  "state": "Arunachal Pradesh",
+  "town": "Tezu",
+  "town_description": "Tezu is the headquarters town of Lohit district in eastern Arunachal Pradesh, on the banks of the Lohit river at about 185 m elevation. It is the Mishmi community's main town and home to the Dhargyeling Tibetan settlement.",
+  "tradition": "Mishmi indigenous faith (nature worship)",
+  "travel": {
+    "airport": "Mohanbari Airport, Dibrugarh (Assam)",
+    "railway": "Tinsukia (Assam)",
+    "road": "Road via Dibrugarh/Tinsukia, Assam"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "February (Tamla-Du festival, 15 February)",
+    "opening_hours": "Open ground; active around the 15 February festival"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "alternate_names": [
+    "Shri Devi Sateri Temple"
+  ],
+  "deities": [
+    "Sateri"
+  ],
+  "district": "North Goa",
+  "festivals": [
+    "Shigmo",
+    "Navratri",
+    "Dussehra"
+  ],
+  "history": {
+    "dynasty": "",
+    "period": "Unverified; Sateri shrines in Goa are typically late-medieval (17th-18th c.) or later",
+    "summary": "Sateri is a gramadevi (village goddess) of the Shantadurga/Santeri family, one of the most widespread folk deities of Goa, worshipped as a form of Shakti. No founding date or dynastic history is documented for this specific Pernem shrine. IDENTITY NOTE: several Sateri shrines exist in Pernem taluka (including an NH-66 shrine and one near Colvale); coordinates are for a geocoded 'Sateri Temple, Pernem' POI and are approximate. Most Sateri-type temples in Goa date to the late medieval period, when many shrines were rebuilt or relocated during the Portuguese era."
+  },
+  "id": "shri-sateri-temple-pernem",
+  "latitude": 15.70761,
+  "longitude": 73.93649,
+  "media": [
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtSFxvIdZn6fx44S2tICvrqWf_mHW_RgjXktj5CnkjCY3rhkOMxvdzNW0eZgkE4vBPrP61wXSL_0WbVYzVBp9GN65mHbvsMSU3PVBOviT53to7Rg9zKQevnB7XzaDS6kAzuyI_P7v45U3l/s1600/Sateri-2+%25281%2529.JPG"
+  ],
+  "name": "Shri Sateri Temple",
+  "sources": [
+    "https://mapcarta.com/W1210118549",
+    "https://meta.ai?place_id=568269945786204",
+    "https://www.scribd.com/document/402797241/Goa-Temple-History-pdf"
+  ],
+  "state": "Goa",
+  "town": "Pernem",
+  "town_description": "Pernem is a municipal town in North Goa on NH-66 near the Maharashtra border, and the headquarters of Pernem taluka. Known as a temple town, it is the gateway to North Goa's beach belt (Arambol, Mandrem, Morjim) and sits on the Konkan Railway line.",
+  "tradition": "Shaktism — Sateri as gramadevi (village goddess)",
+  "travel": {
+    "airport": "Manohar International Airport, Mopa (nearest, ~25 km); Dabolim Airport (~60 km)",
+    "railway": "Pernem railway station on the Konkan Railway",
+    "road": "On NH-66; well connected by road to Mapusa (~20 km) and Panaji (~35 km)"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March",
+    "opening_hours": "Not documented; village temples in the region are typically open morning and evening"
+  }
+}

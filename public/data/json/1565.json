@@ -1,0 +1,44 @@
+{
+  "alternate_names": [
+    "Shiv Mandir"
+  ],
+  "deities": [
+    "Shiva"
+  ],
+  "district": "Yamunanagar",
+  "festivals": [
+    "Maha Shivaratri",
+    "Shravan month (Mondays)"
+  ],
+  "history": {
+    "dynasty": "unknown",
+    "period": "unknown",
+    "summary": "IDENTITY UNVERIFIED: the CSV label 'Shiva Temple' is generic — Yamunanagar has several Shiva shrines (NH 73 Shiv Mandir, HUDA Shiv Mandir, Shri Shiv Mandir near ITI). This file is documented against the NH 73 'Shiv Mandir Yamunanagar' listing (approx 30.12865, 77.26931), a neighbourhood temple; the intended CSV referent could not be pinned down. Coordinates are approximate. Festivals and hours below are generic Shiva-temple norms (verify)."
+  },
+  "id": "shiva-temple-yamunanagar",
+  "latitude": 30.12865,
+  "longitude": 77.26931,
+  "media": [],
+  "name": "Shiva Temple",
+  "sources": [
+    "https://www.makemytrip.com/tripideas/places/yamunanagar?pdtCtx=eyJqaWQiOiJqb3VybmV5XzE3ODUxNTM3NDYwMjhfa2Nqdms2N2NnIiwic2MiOm51bGwsInBwIjoidHRkX3NlZWFsbCJ9"
+  ],
+  "state": "Haryana",
+  "town": "Yamunanagar",
+  "town_description": "Yamunanagar is a city in Haryana's Yamunanagar district on the western bank of the Yamuna river, a twin-city with Jagadhri known for its plywood and paper industries and railway workshop. It grew around the colonial-era town of Abdullahpur and today serves as the district headquarters, with pilgrimage spots such as the Chitta Mandir and Kapal Mochan tirtha nearby.",
+  "tradition": "Hinduism (Shaivism)",
+  "travel": {
+    "airport": "Chandigarh International Airport, approx 110 km (verify)",
+    "railway": "Yamunanagar-Jagadhri railway station, approx 3-5 km (verify)",
+    "road": "NH 73 runs through Yamunanagar; the temple area is on city roads (verify)"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March (verify)",
+    "opening_hours": "4:00 AM - 10:00 PM (verify — typical Yamunanagar Shiv Mandir hours from map listings; unconfirmed for this specific shrine)"
+  }
+}

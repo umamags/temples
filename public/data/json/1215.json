@@ -1,0 +1,51 @@
+{
+  "alternate_names": [
+    "Sri Yaganti Uma Maheshwara Swamy Temple",
+    "Yaganti Temple"
+  ],
+  "deities": [
+    "Lord Uma Maheshwara (Shiva)",
+    "Goddess Parvati (Uma)"
+  ],
+  "district": "Nandyal",
+  "festivals": [
+    "Maha Shivaratri",
+    "Brahmotsavam",
+    "Kartika Masam Deepotsava"
+  ],
+  "history": {
+    "dynasty": "Vijayanagara (Sangama dynasty renovation); origins attributed to Pallava/Chola/Chalukya patronage",
+    "period": "5th-6th century (origins); 15th-century Vijayanagara renovation",
+    "summary": "Ancient Shiva-Parvati temple at Yaganti village, Banaganapalle mandal. The main deity is Sri Uma Maheshwara — Shiva with Parvati carved from a single stone in murti form (not a linga). Legend: Sage Agastya founded the shrine; Shiva self-manifested here as Ardhanareswara. The temple was renovated by Vijayanagara kings Harihara and Bukka Raya in the 15th century. Famous for the monolithic 'growing Nandi' (tradition and ASI-cited studies say it enlarges ~1 inch every 20 years), the Agastya Pushkarini fed by a hill spring, and three natural caves (Agastya, Venkateswara, Veerabrahmendra Swamy). VERIFY: one source dates the temple to the 12th-13th century Eastern Chalukyas — conflicting with the 5th-6th century origin claim. TOWN CORRECTION: CSV says Kurnool; the temple is actually at Yaganti village, ~85-90 km from Kurnool city, now in Nandyal district (carved out of Kurnool)."
+  },
+  "id": "yaganti-uma-maheswara-temple",
+  "latitude": 15.3505,
+  "longitude": 78.13967,
+  "media": [
+    "https://static.langimg.com/vk/thumb/72233508/mystery-story-behind-the-growing-basavanna-idol-of-uma-maheswara-temple-in-yaganti.jpg?imgsize=143457&width=1600&height=900&resizemode=75"
+  ],
+  "name": "Yaganti Uma Maheswara Temple",
+  "sources": [
+    "https://archive.org/details/sri-yaganti-uma-maheshwara-temple-kurnool-andhra-pradesh",
+    "https://velpu.com/temple/SRI-UMA-MAHESWARA-TEMPLE/NzYw",
+    "https://www.templedairy.in/yaganti-temple/"
+  ],
+  "state": "Andhra Pradesh",
+  "town": "Yaganti",
+  "town_description": "Yaganti is a village in Banaganapalle mandal of Nandyal district, set in the Yerramala hills amid forest and natural springs. It is known almost entirely for the Uma Maheshwara temple complex and its caves, and serves as a base for visits to nearby Belum Caves, Mahanandi and Ahobilam.",
+  "tradition": "Shaivite",
+  "travel": {
+    "airport": "Kurnool (Orvakal) Airport (~60 km); Hyderabad Airport (~290 km)",
+    "railway": "Banaganapalle (~12 km); Nandyal Junction (~48 km); Kurnool City (~85 km)",
+    "road": "Yaganti village, off the Kurnool-Nandyal road via Banaganapalle; ~85-90 km from Kurnool city"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March; Maha Shivaratri (February-March)",
+    "opening_hours": "6:00 AM - 1:00 PM and 3:00 PM - 8:00 PM (verify; some sources list 5:00 AM - 1:00 PM / 3:00 PM - 9:00 PM)"
+  }
+}

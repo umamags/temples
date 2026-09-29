@@ -1,0 +1,54 @@
+{
+  "alternate_names": [
+    "Rawali Mahadev Temple",
+    "Rawali Maharaj Mandir"
+  ],
+  "deities": [
+    "Shiva",
+    "Hanuman",
+    "Rama",
+    "Radha",
+    "Krishna",
+    "Bhairava"
+  ],
+  "district": "Agra",
+  "festivals": [
+    "Mahashivratri",
+    "Sawan (month of Shravan, especially Mondays)",
+    "Monday weekly fair"
+  ],
+  "history": {
+    "dynasty": "Kachhwaha of Amber (legendary association)",
+    "period": "Late 16th century, Mughal era (reign of Akbar) - legendary",
+    "summary": "Temple tradition says Raja Mansingh of Amber found a shivalinga on Attock hill during an Afghan campaign under Akbar, brought it to Agra and installed it here; Rawal Rajputs living around the shrine gave it the name Rawali (Rawali Mahadev). The temple stands on Mahatma Gandhi Road, Rakabgunj, Agra, and local lore says the British-era railway line had to be diverted around it rather than moved. It also houses idols of Bajrang Bali, Ram, Radha-Krishna and Bhairon Baba and follows a mahant tradition. History is temple legend reported by MyAdhyatm, not documented (verify)."
+  },
+  "id": "rawli-maharaj-temple-agra",
+  "latitude": 27.17594,
+  "longitude": 78.00646,
+  "media": [
+    "https://files.yappe.in/place/full/rawli-temple-collactrate-agra-mahant-shekhar-sharma-2017032.webp"
+  ],
+  "name": "Rawli Maharaj Temple",
+  "sources": [
+    "https://myadhyatm.com/%E0%A4%B0%E0%A4%BE%E0%A4%B5%E0%A4%B2%E0%A5%80-%E0%A4%AE%E0%A4%B9%E0%A4%BE%E0%A4%B0%E0%A4%BE%E0%A4%9C-%E0%A4%AE%E0%A4%82%E0%A4%A6%E0%A4%BF%E0%A4%B0-%E0%A4%86%E0%A4%97%E0%A4%B0%E0%A4%BE/",
+    "https://www.tripadvisor.in/Attraction_Review-g297683-d4401119-Reviews-Rawli_Maharaj_Temple-Agra_Agra_District_Uttar_Pradesh.html"
+  ],
+  "state": "Uttar Pradesh",
+  "town": "Agra",
+  "town_description": "Agra is a historic city in western Uttar Pradesh on the Yamuna, once the capital of the Mughal Empire; it is world-famous for the Taj Mahal, Agra Fort and Fatehpur Sikri, and its old city holds many older local shrines alongside the Mughal monuments.",
+  "tradition": "Shaiva (Hindu)",
+  "travel": {
+    "airport": "Nearest airport: Agra Airport (AGR), a short drive from the city centre (verify)",
+    "railway": "Nearest major station: Agra Cantt (AGC), ~3 km (verify)",
+    "road": "On Mahatma Gandhi Road, well connected by the city road network; crowds peak on Mondays, avoid for easy darshan"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March; visit on a weekday to avoid Monday crowds",
+    "opening_hours": "Morning and evening darshan (exact hours not published; verify locally)"
+  }
+}

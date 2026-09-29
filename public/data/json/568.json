@@ -1,0 +1,46 @@
+{
+  "alternate_names": [
+    "Durga Temple, Gopal Ganj",
+    "Maa Durga Mandir, Sagar"
+  ],
+  "deities": [
+    "Durga"
+  ],
+  "district": "Sagar",
+  "festivals": [
+    "Navratri"
+  ],
+  "history": {
+    "dynasty": "",
+    "period": "",
+    "summary": "IDENTITY UNCERTAIN (generic name): this file documents the 'Durga Temple' geocoded at Vaishali Nagar, Gopal Ganj, Sagar 470001, the best exact-name match in Sagar town. The most documented Durga-form shrines of the Sagar area are different temples: the Shri Maa Harsiddhi Devi Baghraj Mandir in Sagar city (a hilltop complex with Harsiddhi/Durga, Shiva, Hanuman and Kal Bhairav shrines, described by visitors as about 200-250 years old and famous in Sagar, with heavy Navratri crowds) and the Harsiddhi Devi Temple of Rangir in Sagar district listed on Wikipedia's list of Hindu temples in Madhya Pradesh. If the CSV row intends either of those, its name/town should be corrected accordingly; no builder, dynasty or antiquity date is published for the Gopal Ganj Durga Temple itself."
+  },
+  "id": "shri-durga-mandir-sagar-gopal-ganj",
+  "latitude": 23.83016,
+  "longitude": 78.76302,
+  "media": [],
+  "name": "Shri Durga Mandir",
+  "sources": [
+    "https://mapcarta.com/N11691267240",
+    "https://in.worldorgs.com/catalog/sagar/golf-course/shri-maa-harsiddhi-devi-baghraj-mandir",
+    "https://en.wikipedia.org/wiki/List_of_Hindu_temples_in_Madhya_Pradesh"
+  ],
+  "state": "Madhya Pradesh",
+  "town": "Sagar",
+  "town_description": "Sagar is a city in Madhya Pradesh on a spur of the Vindhya Range, known as the 'city of lakes' after the historic Lakha Banjara lake in its heart. It is home to Dr. Hari Singh Gour Central University and, with its temples, lakes and waterfalls, is an established stop on the Bundelkhand tourist circuit.",
+  "tradition": "Hindu",
+  "travel": {
+    "airport": "Jabalpur is the nearest major airport (about 175-180 km, per temple-directory listings)",
+    "railway": "Saugor (Sagar) railway station",
+    "road": "Sagar is connected by road via NH 26 and NH 86"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "September to February (winter); Navratri for the festival atmosphere",
+    "opening_hours": ""
+  }
+}

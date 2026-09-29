@@ -1,0 +1,46 @@
+{
+  "alternate_names": [
+    "Shani Dev Mandir",
+    "Prachin Shani Mandir"
+  ],
+  "deities": [
+    "Shani (Shani Dev)"
+  ],
+  "district": "Yamunanagar",
+  "festivals": [
+    "Saturdays",
+    "Tuesdays (evening prayers)"
+  ],
+  "history": {
+    "dynasty": "unknown",
+    "period": "unknown",
+    "summary": "IDENTITY UNVERIFIED: Yamunanagar has several Shani shrines (Ravi Nagar Road, Jagadhri, HUDA, Chitta Mandir Road). The most travel-listed one (MakeMyTrip) is the Shani Mandir dedicated to Shani Bhagawan about 2 km from the Jagadhri Workshop railway station, known for intricate architecture and heavy Tuesday/Saturday evening footfall. This file is documented against the Shani Mandir on Chitta Mandir Road (approx 30.12435, 77.30934), which adjoins the listed Prachin Shani Mandir; the intended CSV referent could not be pinned down. Coordinates approximate; founding date unknown."
+  },
+  "id": "shani-mandir-yamunanagar",
+  "latitude": 30.12435,
+  "longitude": 77.30934,
+  "media": [],
+  "name": "Shani Mandir",
+  "sources": [
+    "https://www.makemytrip.com/tripideas/attractions/shani-mandir?pdtCtx=eyJqaWQiOiJqb3VybmV5XzE3ODY4MDIzOTIxNTVfMXpub244bngzIiwic2MiOm51bGwsInBwIjoiZGVzdGluYXRpb25fY2l0eSJ9",
+    "https://www.makemytrip.com/tripideas/places/yamunanagar?pdtCtx=eyJqaWQiOiJqb3VybmV5XzE3ODUxNTM3NDYwMjhfa2Nqdms2N2NnIiwic2MiOm51bGwsInBwIjoidHRkX3NlZWFsbCJ9"
+  ],
+  "state": "Haryana",
+  "town": "Yamunanagar",
+  "town_description": "Yamunanagar is a city in Haryana's Yamunanagar district on the western bank of the Yamuna river, a twin-city with Jagadhri known for its plywood and paper industries and railway workshop. It grew around the colonial-era town of Abdullahpur and today serves as the district headquarters, with pilgrimage spots such as the Chitta Mandir and Kapal Mochan tirtha nearby.",
+  "tradition": "Hinduism",
+  "travel": {
+    "airport": "Chandigarh International Airport, approx 110 km (verify)",
+    "railway": "Jagadhri Workshop railway station, approx 2 km from the travel-listed Shani Mandir (verify)",
+    "road": "Chitta Mandir Road area, Yamunanagar; local auto/taxi (verify)"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March (verify)",
+    "opening_hours": "No reliable hours found (verify); busiest on Tuesdays and Saturdays during evening prayers per MakeMyTrip"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "alternate_names": [
+    "Sri Durga Malleswara Swamy Varla Devasthanam",
+    "Kanaka Durgamma Temple"
+  ],
+  "deities": [
+    "Goddess Kanaka Durga (Swayambhu; eight-armed Mahishasura Mardini)",
+    "Sri Malleswara Swamy (Shiva, consort shrine)",
+    "Sri Nataraja Swamy",
+    "Sri Subrahmanya Swamy with Valli and Devasena",
+    "Sri Anjaneya Swamy (Hanuman, kshetrapalaka)",
+    "Aparajitha Devi",
+    "Abhaya Anjaneya",
+    "Kamadhenu Devi"
+  ],
+  "district": "NTR",
+  "festivals": [
+    "Dasara Navaratri / Sharad Navaratri (September-October; the grandest festival, with the Goddess worshipped in nine different forms over nine days)",
+    "Dussehra",
+    "Varalakshmi Vratham (Fridays in Shravan)",
+    "Theppotsavam (float festival)",
+    "Saraswati Puja"
+  ],
+  "history": {
+    "dynasty": "Western Chalukyas and Vijayanagara Empire (development phases); later expansions",
+    "period": "Epigraphically attested 1229 CE (Chola-era inscription); legends attribute far older origin",
+    "summary": "DUPLICATE ROW — this CSV row (seq 1242, 'Sri Kanaka Durga Temple, Vijayawada') describes the same temple as seq 11 ('Kanaka Durga Temple, Vijayawada'); dedup decision needed. The temple, officially Sri Durga Malleswara Swamy Varla Devasthanam, crowns the Indrakeeladri hill on the banks of the Krishna river. The deity, a four-foot Swayambhu (self-manifested) icon of the eight-armed goddess piercing Mahishasura, is celebrated in the Kalika Purana and Durga Saptashati. Legend holds that Sage Indrakila performed penance here and asked the goddess to dwell on his head, giving the hill its name; another tradition links the hill to Arjuna's penance for the Pashupatastra, and Adi Shankaracharya is said to have installed the Sri Chakra at the goddess's feet. The earliest hard evidence is a 1229 CE Chola-era Telugu inscription recording donations to Bejawada Malleswaradeva at Indrakiladri. The temple developed under the Western Chalukyas and the Vijayanagara Empire, underwent a major reconstruction in the 1970s giving it its present Dravidian-style form, and is now managed by the state endowments Devasthanam as one of Andhra Pradesh's principal Shakti shrines."
+  },
+  "id": "sri-kanaka-durga-temple-vijayawada",
+  "latitude": 16.51371,
+  "longitude": 80.60699,
+  "media": [
+    "https://temple.yatradham.org/public/Product/temple/temple_NXJMehyl_202507011651150.jpg"
+  ],
+  "name": "Sri Kanaka Durga Temple",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Kanaka_Durga_Temple",
+    "https://kanakadurgamma.org/",
+    "https://templetimings.in/kanaka-durga-temple-vijayawada-timings-darshan-guide-2026/",
+    "https://gokshetra.com/kanaka-durga-temple-vijayawada-darshan-guide/",
+    "https://templeyatri.in/kanaka-durga-temple/",
+    "https://thetempleguru.com/listing/kanaka-durga-temple-vijayawada/",
+    "https://www.abhibus.com/blog/kanaka-durga-temple-vijayawada/",
+    "https://touradvisorhub.com/kanaka-durga-temple-vijayawada-a-complete-guide/"
+  ],
+  "state": "Andhra Pradesh",
+  "town": "Vijayawada",
+  "town_description": "Vijayawada (ancient Bezawada), the second-largest city of Andhra Pradesh, sits on the north bank of the Krishna river below the Prakasam Barrage. A major business hub and rail junction with roots in the Satavahana era, it mixes historic temples, caves and forts with a bustling modern commercial core; the Kanaka Durga Temple on Indrakeeladri hill is the city's defining landmark.",
+  "tradition": "Shaktism",
+  "travel": {
+    "airport": "Vijayawada International Airport at Gannavaram (approx. 20-22 km; taxis and app cabs available).",
+    "railway": "Vijayawada Junction (approx. 2-3 km), one of India's busiest rail junctions, well connected across the country.",
+    "road": "The hill is reached by a motorable ghat road and by stone steps from the base; APSRTC city buses, autos and taxis run from the RTC Complex and railway station to the hill entrance. Free and paid darshan tiers; online booking at kanakadurgamma.org."
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March for pleasant weather. Dasara Navaratri (September-October) is the grandest time, with the Goddess in nine different forms — expect very heavy crowds; book online in advance. Weekday mornings are best for peaceful darshan.",
+    "opening_hours": "Doors open 4:00 AM daily; morning darshan approx. 4:00 AM to 3:30 PM; afternoon ritual break (window varies by day, commonly approx. 1:00 PM to 4:00 PM or 3:30 PM to 6:00 PM); evening darshan approx. 6:00 PM to 10:00 PM (verify exact break windows on kanakadurgamma.org before travel). Dharma Darshanam is free; paid tiers: Mukhamandapa Rs. 100, Sheegra Rs. 300, Antaraalaya Rs. 500. Traditional dress encouraged; mobile phones restricted inside."
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "alternate_names": [
+    "Chilta Temple",
+    "Shri Chitta Hanuman Mandir",
+    "Chitta Mandir Hanuman Temple"
+  ],
+  "deities": [
+    "Hanuman (Bajrang Bali)"
+  ],
+  "district": "Yamunanagar",
+  "festivals": [
+    "Weekly Tuesday congregation",
+    "Hanuman Jayanti (verify)"
+  ],
+  "history": {
+    "dynasty": "unknown",
+    "period": "unknown",
+    "summary": "The CSV label 'Chilta Temple' is a misspelling of the well-documented Chitta Mandir of Yamunanagar, counted among the district's oldest Hanuman temples, on Chitta Mandir Road near Azad Nagar, not far from the Yamuna's banks. Devotees of Bajrang Bali built and frequent it, with thousands visiting every Tuesday. Founding date is not documented online (UNVERIFIED — treat 'oldest temple' claims as local tradition). The small Radha-Krishna note does not apply here; that is a separate Baijnath row."
+  },
+  "id": "chitta-mandir-yamunanagar",
+  "latitude": 30.12654,
+  "longitude": 77.30979,
+  "media": [
+    "https://www.yamunanagarhulchul.com/wp-content/uploads/2020/04/Chitta-Mandir-Oldest-Hanuman-Mandir-in-Yamunanagar-Geeta-700-Sanskrit-Shalokas-Yamunanagar-Places-in-Yamunanagar-to-Visit-Haryana-Tourisam.jpg"
+  ],
+  "name": "Chitta Mandir",
+  "sources": [
+    "https://testbook.com/question-answer/chitta-temple-located-in-yamunanagar-district-of-h--5bae355cc3eb7c5734e96cf2/amp",
+    "https://www.makemytrip.com/tripideas/attractions/hanuman-temple?pdtCtx=eyJqaWQiOiJqb3VybmV5XzE3ODA5NzY2MDM4ODdfM2JtbXdiZHN2Iiwic2MiOm51bGwsInBwIjoidHRkX3NlZWFsbCJ9",
+    "https://www.justdial.com/Yamunanagar/Chitta-Mandir-Bhatia-Nagar/9999P1732-1732-190818034154-J5R3_BZDET"
+  ],
+  "state": "Haryana",
+  "town": "Yamunanagar",
+  "town_description": "Yamunanagar is a city in Haryana's Yamunanagar district on the western bank of the Yamuna river, a twin-city with Jagadhri known for its plywood and paper industries and railway workshop. It grew around the colonial-era town of Abdullahpur and today serves as the district headquarters, with pilgrimage spots such as the Chitta Mandir and Kapal Mochan tirtha nearby.",
+  "tradition": "Hinduism (Vaishnavism)",
+  "travel": {
+    "airport": "Chandigarh International Airport, approx 110 km (verify)",
+    "railway": "Yamunanagar-Jagadhri railway station, approx 3-5 km (verify)",
+    "road": "Chitta Mandir Road near Azad Nagar, Yamunanagar; reachable by local auto/taxi (verify)"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March (verify)",
+    "opening_hours": "CONFLICT (verify): map listings give 4:00 AM - 10:00 PM (Tuesdays to ~11:55 PM); Justdial lists 4:00 AM - 8:00 PM"
+  }
+}

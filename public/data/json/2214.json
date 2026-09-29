@@ -1,0 +1,60 @@
+{
+  "alternate_names": [
+    "Arulmigu Subramaniya Swamy Temple, Marudhamalai",
+    "Arulmigu Marudhamalai Subramaniaswamy Temple",
+    "Maruthamalai Murugan Temple"
+  ],
+  "deities": [
+    "Lord Murugan (Subramaniya Swamy, main deity on the hilltop)",
+    "Lord Vinayagar as Thaan Thondri Vinayagar (foothill temple)",
+    "Pambatti Siddhar (cave shrine on the hill slope)"
+  ],
+  "district": "Coimbatore",
+  "festivals": [
+    "Thai Poosam (January-February; major Murugan festival)",
+    "Vaikasi Car Festival (May-June)",
+    "Karthigai Deepam (November-December)",
+    "Navarathri",
+    "Aadi Perukku",
+    "Tamil New Year",
+    "Margali Pooja",
+    "Aruthira Darisanam"
+  ],
+  "history": {
+    "dynasty": "Kongu Chola tradition (inscriptional evidence)",
+    "period": "12th century AD origin per inscriptions; kumbabishekam performed 1997",
+    "summary": "CSV DUPLICATE FLAG: this row ('Marudhamalai Murugan Temple', Coimbatore) is a DUPLICATE of seq 931 ('Marudamalai Temple', Marudhamalai; id 'marudhamalai-subramanya-swamy-temple') - the same Murugan hill shrine ~12-14 km from Coimbatore city. 'Marudhamalai' / 'Marudamalai' / 'Maruthamalai' are transliteration variants of one temple. Mahesh should dedupe this row. Details mirrored from 931: CSV TOWN FLAG: the temple is at Marudhamalai, ~12-14 km from Coimbatore city (reported distances vary: 9, 12, 14 and 15 km in different sources - commonly cited as ~14 km), not inside Coimbatore town. Documented with the corrected location. Marudhamalai (Hill of Marudha) is a popular Murugan hill temple at ~500 ft elevation in the Western Ghats, dedicated to Lord Murugan as Subramaniya Swamy. Inscriptions found at the Thirumuruganathaswami Temple, Thirumurganpoondi place the origin of this temple in the 12th century AD, in the Kongu Chola tradition. Legend: a saint praying under a marudha tree for relief from thirst saw water spring from beneath the tree and proclaimed Murugan the 'Lord of Marudhajalapathi', whence the name Marudamalai. Near the foothills stands the Thaan Thondri Vinayagar temple. On the hill's south-east slope is the Pambatti Siddhar Kugai (cave) - believed to be where the snake-charmer-turned-saint Pambatti Siddhar meditated on Murugan and attained salvation; a self-formed (not carved) image of a snake is visible on the rock there. Two springs, Marudha Theertham and Pambatti Sunai, are said to have medicinal properties. The Rajagopuram is a recent construction and the kumbabishekam was grandly performed in 1997. Considered second in religious importance for devotees after the Arupadai Veedu temples of Murugan (per travel sources - verify)."
+  },
+  "id": "marudhamalai-murugan-temple-duplicate",
+  "latitude": 11.046561,
+  "longitude": 76.851701,
+  "media": [
+    "https://www.chennaionline.com/wp-content/uploads/2026/03/marudhamalai-768x421.jpg"
+  ],
+  "name": "Marudhamalai Murugan Temple",
+  "sources": [
+    "https://www.triphobo.com/places/coimbatore-india/marudamalai-temple",
+    "https://marudhamalaimurugan.hrce.tn.gov.in/",
+    "http://www.coimbatore.com/temples/subramaniam.htm",
+    "https://www.maduraitourism.com/index.php/marudhamalai-temple/",
+    "https://wanderlog.com/place/details/690/marudhamalai-murugan-temple"
+  ],
+  "state": "Tamil Nadu",
+  "town": "Marudhamalai (CSV town 'Coimbatore' is APPROXIMATE - the temple is a hill shrine ~12-14 km from Coimbatore city; DUPLICATE of seq 931)",
+  "town_description": "Marudhamalai is a temple hillock at ~500 ft elevation in the Western Ghats foothills, ~12-14 km from Coimbatore city (Pin 641046), reached via Maruthamalai Main Road through Vadavalli. A motorable road climbs close to the temple with a temple bus service; devotees then ascend steps (of uneven height) lined with shops. The hill offers panoramic views of Coimbatore city. Coimbatore itself is Tamil Nadu's major textile and engineering city.",
+  "tradition": "Hinduism (Kaumaram - Murugan worship)",
+  "travel": {
+    "airport": "Coimbatore International Airport - about 22 km (verify).",
+    "railway": "Coimbatore Junction - about 14 km (verify).",
+    "road": "~12-14 km from Coimbatore city via Maruthamalai Main Road (Vadavalli); temple buses run to the hilltop area; local taxis and autos (verify)."
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March; avoid the hot months (April-May). Festivals like Thai Poosam and Karthigai Deepam are the grandest but very crowded.",
+    "opening_hours": "Reported as 6:00 AM-1:00 PM and 2:00 PM-8:30 PM (official HRCE-style listing; some sources say 5:30 AM-8:30 PM or 4:30 AM-1:00 PM / 3:00 PM-9:00 PM - timings conflict across sources, verify). Archanai tickets from INR 5; entry tickets INR 5-10 (festival days higher). Mobile phones may be restricted on the hill (verify)."
+  }
+}

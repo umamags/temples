@@ -1,0 +1,47 @@
+{
+  "alternate_names": [
+    "Lamsial Cave"
+  ],
+  "deities": [
+    "None - natural cave and archaeological site; human skeletal remains (verify)"
+  ],
+  "district": "Champhai",
+  "festivals": [
+    "No religious festivals observed (verify)"
+  ],
+  "history": {
+    "dynasty": "",
+    "period": "",
+    "summary": "NOT A HINDU TEMPLE - keep-or-drop decision needed: Lamsial Puk is a natural cave ('puk' = cave) and archaeological site, not a temple. CSV TOWN CLARIFICATION: the cave is near Farkawn village, Champhai district (a day excursion from Champhai town); town kept as Champhai area with the Farkawn location stated. The cave sits atop a massive rock formation on a rockface near Farkawn and contains a large number of human skulls and bones along with pieces of traditional shawls, presumably from the people of the erstwhile Lamsial village that stood nearby when the Mizos began settling this area after crossing the Tiau river from Myanmar; local lore says the remains are of warriors killed in inter-village warfare over land. In July 2026 the Mizo Archaeological Society confirmed that a bone sample from one skeleton, sent to the Beta Analytic laboratory in Miami, Florida for Carbon-14 dating (funded by the Mizoram Art and Culture Department, Rs 1.5 lakh sanctioned in 2023), dated to AD 1729-1789 - one of the first scientifically verified dates for remains from the cave; the society cautioned that only a single sample was tested and the finding should not be taken as representative of all the remains. The cave is regarded as one of Mizoram's most significant archaeological sites."
+  },
+  "id": "lamsial-puk-cave",
+  "latitude": 23.13614,
+  "longitude": 93.28743,
+  "media": [
+    "https://travvana.com/assets/images/states/mizoram/lamsial-puk.webp"
+  ],
+  "name": "Lamsial Puk",
+  "sources": [
+    "https://themileage.in/ancient-skeletons-found-in-mizoram-cave-scientifically-dated-to-ad-1729-1789/",
+    "https://mizoramobserver.com/carbon-dating-reveals-18th-century-origins-of-human-remains-found-in-mizorams-lamsial-puk-cave/",
+    "https://www.tripadvisor.co.uk/Attraction_Review-g2287387-d4138866-Reviews-Lamsial_Puk-Champhai_Champhai_District_Mizoram.html"
+  ],
+  "state": "Mizoram",
+  "town": "Farkawn (Champhai district)",
+  "town_description": "Farkawn is a village in Champhai district, Mizoram, reached as a day excursion from Champhai town. The area around Farkawn is rich in Mizo heritage sites - Lamsial Puk cave with its ancient skeletal remains and Kungawrhi Puk, the spirit-haunted cave opening in the hillside. Champhai, the nearest base town, is a bustling Indo-Myanmar border commercial town about 186 km east of Aizawl.",
+  "tradition": "Archaeological / Mizo heritage site - cave, not a Hindu shrine",
+  "travel": {
+    "airport": "",
+    "railway": "",
+    "road": ""
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "",
+    "opening_hours": ""
+  }
+}

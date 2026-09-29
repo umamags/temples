@@ -1,0 +1,57 @@
+{
+ "alternate_names": [
+  "Kallazhagar Temple",
+  "Kallalagar Temple",
+  "Alagar Kovil",
+  "Thirumaliruncholai"
+ ],
+ "deities": [
+  "Kallazhagar / Kallalagar (Sundararaja Perumal — Vishnu, presiding deity)",
+  "Thirumamagal (Sundaravalli Thayar — Lakshmi, consort)",
+  "Padhinettaam Padi Karuppan (Karuppuswami, village deity — worshipped as 18 granite steps behind a closed door)"
+ ],
+ "district": "Madurai",
+ "festivals": [
+  "Chithirai Thiruvizha (April-May — Kallazhagar's Vaigai river entry; declared Tamil Nadu government festival / local holiday)",
+  "Float festival (Masi, February-March)",
+  "Aadi Brahmmorchavam (10 days, July-August)",
+  "Navaratri",
+  "Vaikunta Ekadashi"
+ ],
+ "history": {
+  "dynasty": "Early Pandyas; Cholas; Vijayanagara Empire; Nayaks of Madurai",
+  "period": "Ancient — mentioned in the Sangam-era Cilappatikaram (3rd c. CE) and the Naalayira Divya Prabandham (6th-9th c. CE); structures from multiple eras",
+  "summary": "CSV TOWN CORRECTION: 'Madurai' is approximate — the temple stands at Alagar Koyil village, in the foothills of the Solaimalai (Alagar) Hills, about 21 km north of Madurai city. Dedicated to Vishnu as Kallazhagar (Sundararaja Perumal) with consort Thirumamagal, this is one of the 108 Divya Desams, glorified by the Azhvar saints (Periyalvar, Peyalvar) and known in Sangam literature as Thirumaliruncholai. Tenkalai tradition, Vaikanasa Agama; HRCE-administered. Notable: abhishekam is performed ONLY with water from Noopura Ganga (a hilltop spring) — other water is believed to discolour the image; rare Vijayanagara sculptures in the Kalyana Mandapam pillars; the main Raja Gopuram remains closed, fronting the shrine of Karuppuswami (Padhinettaam Padi Karuppan), whose 18 steps behind the closed door open only once a year in Aadi. The world-famous Chithirai Thiruvizha re-enacts Kallazhagar riding out to his sister Meenakshi's celestial wedding in Madurai: learning at the Vaigai river that the wedding is over, he steps into the river and returns without entering the city. The Saivite and Vaishnavite festivals were merged into one event by Nayaka king Thirumalai Nayak (17th c.). A new temple car was built in 2015 after 300 years."
+ },
+ "id": "alagar-koyil-madurai",
+ "latitude": 10.074136,
+ "longitude": 78.214356,
+ "media": [
+  "https://maduraitourism.co.in/images/v2/places-to-visit/azhagar-kovil-alagar-koyil-temple-madurai-tourism-header.jpg"
+ ],
+ "name": "Alagar Koyil",
+ "sources": [
+  "http://en.wikipedia.org/wiki/Kallalagar_Temple",
+  "https://travelsetu.com/guide/alagar-koyil-alagar-kovil-tourism/alagar-koyil-alagar-kovil-tourism-history",
+  "https://www.rvatemples.com/listings/alagar-koyil/",
+  "https://casualwalker.com/kallazhagar-temple-alagar-koyil-madurai/"
+ ],
+ "state": "Tamil Nadu",
+ "town": "Alagar Koyil (CSV town 'Madurai' is approximate — ~21 km north of Madurai city)",
+ "town_description": "Alagar Koyil is a village about 21 km north of Madurai city in Madurai district, set at the foothills of the Alagar (Solaimalai) Hills; it is defined by the Kallazhagar Vishnu temple, one of the 108 Divya Desams.",
+ "tradition": "Hinduism (Vaishnavism — Tenkalai tradition, Vaikanasa Agama); one of the 108 Divya Desams",
+ "travel": {
+  "airport": "Madurai International Airport — roughly 30 km (verify).",
+  "railway": "Madurai Junction — roughly 21 km (verify).",
+  "road": "About 21 km north of Madurai via Alagar Kovil Road; buses and taxis available."
+ },
+ "video": {
+  "audio": "",
+  "script": "",
+  "video_file": ""
+ },
+ "visitor_information": {
+  "best_time": "April-May for the Chithirai festival (extremely crowded); October-March for pleasant weather (verify).",
+  "opening_hours": "Typically open morning to midday and afternoon to evening in two sessions; no single authoritative published listing found (verify locally)."
+ }
+}

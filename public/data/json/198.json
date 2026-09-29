@@ -1,0 +1,44 @@
+{
+  "alternate_names": [],
+  "deities": [
+    "Shiva"
+  ],
+  "district": "Rajnandgaon",
+  "festivals": [
+    "Maha Shivratri"
+  ],
+  "history": {
+    "dynasty": "",
+    "period": "",
+    "summary": "IDENTITY UNVERIFIED — placeholder. No prominent temple named simply 'Shiv Mandir' in Rajnandgaon city is documented in web sources. Map/directory listings show several small generic 'Shiv Mandir' shrines in town: at Kamptee Line (21.093886, 81.039786), at Baigatola Itar (JustDial, 4.3, 24 ratings), and near Allahabad Bank, Avana (21.094909, 81.028553). The CSV row cannot be matched to any one of them. Nearby significant Shiva temples for reference: Barfani Dham (Patal Bhairavi), a three-level temple in Rajnandgaon town with a 108-ft Shiva linga on the top level; and the 13th-14th c. Kalachuri Deour (Gandai) Shiva Temple, an ASI-protected monument in Gandai town, Rajnandgaon district (not Rajnandgaon city). Coordinates below are Rajnandgaon city centre — APPROXIMATE. Festivals listed are the customary observance only, not documented for this row."
+  },
+  "id": "shiv-mandir-rajnandgaon",
+  "latitude": 21.09755,
+  "longitude": 81.03435,
+  "media": [],
+  "name": "Shiv Mandir",
+  "sources": [
+    "https://meta.ai?place_id=595026453094108",
+    "https://meta.ai?place_id=1090296625812039",
+    "https://www.justdial.com/Rajnandgaon/Hindu-Shrine-in-Jai-Stambh-Chowk/nct-12265868",
+    "https://en.wikipedia.org/wiki/Barfani_Dham"
+  ],
+  "state": "Chhattisgarh",
+  "town": "Rajnandgaon",
+  "town_description": "Rajnandgaon is a city and district headquarters in western Chhattisgarh, on the Howrah-Mumbai rail corridor between Raipur and Nagpur; an industrial and agricultural trading centre.",
+  "tradition": "Shaivism",
+  "travel": {
+    "airport": "Swami Vivekananda Airport, Raipur (nearest major airport)",
+    "railway": "Rajnandgaon railway station (Howrah-Mumbai main line)",
+    "road": "NH 53 connects Rajnandgaon to Raipur, Durg and Nagpur"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "",
+    "opening_hours": ""
+  }
+}

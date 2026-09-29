@@ -1,0 +1,49 @@
+{
+  "alternate_names": [
+    "Vinayaka Shrine, Mookambika Temple",
+    "Ganesha Sub-shrine, Kollur"
+  ],
+  "deities": [
+    "Lord Ganapati (Vinayaka)"
+  ],
+  "district": "Udupi",
+  "festivals": [
+    "Navaratri",
+    "Rathotsava (Phalguna)",
+    "Vinayaka Chaturthi (typically observed - verify)"
+  ],
+  "history": {
+    "dynasty": "Unknown",
+    "period": "Unknown - sub-shrine within the Mookambika complex",
+    "summary": "SUB-SHRINE OF SEQ 1686 (Sri Mookambika Temple, Kollur): this is the Ganapathi shrine inside the Mookambika Temple complex, not an independent temple - RELATED RECORD, not an exact duplicate. Sources describing the complex list shrines to Vinayaka alongside Veerabhadra, Subramanya, Naga, Anjaneya and others around the main sanctum; devotees commonly offer prayers to Lord Ganesha and at the Shankara Simhasanam during their visit. No independent history, founding date, or dedicated hours are published for this sub-shrine (unverified). Coordinates, travel and hours follow the main Mookambika Temple. Image shows the Mookambika temple complex which houses the shrine."
+  },
+  "id": "ganapathi-sub-shrine-mookambika-temple-complex",
+  "latitude": 13.86385,
+  "longitude": 74.81452,
+  "media": [
+    "https://images.nativeplanet.com/hi/img/2018/10/mookambika-temple1-1539951809.jpg"
+  ],
+  "name": "Ganapathi Sub-shrine, Mookambika Temple Complex",
+  "sources": [
+    "https://tourism.webindia123.com/tourism/pilgrimcenters/temples/Kollur_Sri_Mookambika_Temple/index.htm",
+    "https://hindugallery.com/sri-mookambika-temple-kollur/"
+  ],
+  "state": "Karnataka",
+  "town": "Kollur",
+  "town_description": "Kollur is a village in Kundapura taluk of Udupi district, Karnataka, nestled in the Western Ghats on the banks of the Sauparnika river. It is famous across South India as the home of the Sri Mookambika Temple, one of Karnataka's seven Mukti Sthalas, drawing lakhs of pilgrims for Navaratri and the Phalguna chariot festival. Nearby Kodachadri peak, where Adi Shankaracharya is said to have meditated, adds to its religious and trekking significance.",
+  "tradition": "Hinduism (Shaivism-associated, Ganesha worship)",
+  "travel": {
+    "airport": "Mangalore International Airport, ~150 km (verify)",
+    "railway": "Byndoor/Mookambika Road station ~20 km (verify); Kundapura ~40 km (verify)",
+    "road": "Kollur is well connected by road and daily bus services from Mangalore, Shimoga, Sagara and Bangalore"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March; Navaratri at the main temple",
+    "opening_hours": "Same as Sri Mookambika Temple: 5:00 AM - 1:30 PM and 3:00 PM - 9:00 PM (conflicting variants reported - verify)"
+  }
+}

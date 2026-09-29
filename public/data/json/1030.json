@@ -1,0 +1,51 @@
+{
+  "alternate_names": [
+    "Mahadev Bari",
+    "Mahadevabari",
+    "Mausi Bari"
+  ],
+  "deities": [
+    "Shiva (worshipped as Tripuresh Bhairava, the Bhairava of Tripureshwari)"
+  ],
+  "district": "Gomati",
+  "festivals": [
+    "Shiva-Chaturdoshi fair (annual fair venue fixed at Mahadev Bari since 1902, per tripura.org.in)",
+    "Maha Shivaratri (verify)",
+    "Udaipur Rath Yatra passes from Jagannath Bari to Mahadev Bari (Mausi Bari)"
+  ],
+  "history": {
+    "dynasty": "Manikya dynasty (visitor reviews attribute the build to Maharaja Dhanya Manikya; a heritage booklet says it was erected by Kalyana Manikya - conflict flagged)",
+    "period": "15th-17th century royal period (exact date disputed - verify)",
+    "summary": "Best-supported referent for this generic CSV row: Mahadev Bari (মহাদেব বাড়ী) of Udaipur, Tripura - the historic Shiva shrine in the old-capital area (Radhakishorepur), on the bank of Mahadev Dighi. A heritage booklet on Tripura's temples ('Temples of Tripura') records that the 'Mahadevabari' - still in regular use while neighbouring shrines stand abandoned - was erected by Kalyana Manikya over the ruins of an earlier temple during the reign of Dhanya Manikya; visitor reviews attribute the temple to Maharaja Dhanya Manikya, describe it as the abode of Tripuresh Bhairava where a phallic symbol of Shiva is still worshipped, note twin shrines of nearly identical domes in different sizes, and a Naatmandir (theatre hall) in front. FLAG - conflicting claim: reviews also call it 'Chaturdas Devta Mandir', but the heritage booklet distinguishes the nearby Chaturdasadevata temple (erected Saka 1572 / 1650-51 as a Gopinatha temple) from the Mahadevabari - the two should not be conflated. tripura.org.in records an annual Shiva-Chaturdoshi fair at Mahadev Bari with its venue fixed in 1902. The annual Udaipur Rath Yatra procession travels from Jagannath Bari to Mahadev Bari, which the local press also calls 'Mausi Bari'. CSV district/state: town Udaipur and state Tripura are correct; district recorded here as Gomati (Udaipur subdivision, Gomati district). Coordinates are town-level approximations for Udaipur (map.geocode was rate-limited during research) - verify. Media: no reliably identified photograph of the Mahadev Bari itself was found after multiple searches; all image hits showed the Tripura Sundari temple (Matabari), Agartala's Chaturdasha temple, or Rajasthan shrines - media left empty."
+  },
+  "id": "mahadev-bari-udaipur-tripura",
+  "latitude": 23.533,
+  "longitude": 91.483,
+  "media": [],
+  "name": "Mahadev Temple",
+  "sources": [
+    "https://in.worldorgs.com/catalog/udaipur/hindu-temple/mahadev-bari-",
+    "https://ia902902.us.archive.org/16/items/templesoftripura00adri/templesoftripura00adri.pdf",
+    "https://shaivam.org/temples-of-lord-shiva/tripura-lord-shiva-temples/",
+    "http://www.tripura.org.in/tripureswari.htm",
+    "https://www.tripuratime24.com/udaipur-rath-yatra-gold-chain-snatching-tripura/"
+  ],
+  "state": "Tripura",
+  "town": "Udaipur",
+  "town_description": "Udaipur (Radhakishorepur) is the former capital of the Tripura kingdom and the state's best-known temple town, set among lakes in Gomati district about 55 km from Agartala. Besides the famous Tripura Sundari (Matabari) shrine it holds Jagannath Bari, Mahadev Bari, Hari Mandir and other old shrines.",
+  "tradition": "Shaivism",
+  "travel": {
+    "airport": "Maharaja Bir Bikram Airport, Agartala (~55 km - verify).",
+    "railway": "Udaipur Tripura railway station near Matabari, on the Lumding-Sabroom section of the Northeast Frontier Railway.",
+    "road": "On NH 8 (Agartala-Sabroom segment); Rajarbag Motor Stand has all-day road connectivity to Agartala and other towns."
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March; Shiva-Chaturdoshi (Phalgun) for the fair.",
+    "opening_hours": "Daylight hours (verify - not published)."
+  }
+}

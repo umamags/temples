@@ -1,0 +1,44 @@
+{
+  "alternate_names": [
+    "Durga Mandir, Tamenglong (verify - only generic map listings; no dedicated published source)"
+  ],
+  "deities": [
+    "Goddess Durga (verify - presumed from the CSV name; shrine identity unverified)"
+  ],
+  "district": "Tamenglong",
+  "festivals": [
+    "Durga Puja / Navratri (September-October; verify - presumed for a Durga shrine; no published record of this shrine's observances)"
+  ],
+  "history": {
+    "dynasty": "None documented (verify)",
+    "period": "Unknown (verify)",
+    "summary": "IMPORTANT IDENTITY NOTE: No published travel, tourism, or temple source documents a specific 'Durga Mandir' in Tamenglong with a name, address, or history; this entry is provisional (verify). The only traces found are generic map/real-estate listings mentioning a 'Durga Mandir' roughly 26-35 km from Tamenglong-area localities (Tharon, Old Kaiphundai) - too vague to fix an exact shrine, and those listings also show a 'Shantipur Durga Mandir' and 'Sanamahi Temple' in the Jiribam direction, so the referent is unclear. The name 'Durga Mandir' is extremely common across India, and searches surfaced unrelated Durga Mandirs in Assam, Bihar, West Bengal, Uttar Pradesh, Rajasthan and Odisha - none in Tamenglong. Tamenglong district is overwhelmingly Christian (Naga Baptist); a Durga shrine here, if it exists, would be a small community temple of the non-tribal population. Treat all details here as provisional pending local verification; do not conflate with the Durga temples of Imphal/Lamshang (Shantipur, Durganagar) which are separate sites."
+  },
+  "id": "durga-mandir-tamenglong-provisional",
+  "latitude": 24.96538,
+  "longitude": 93.49509,
+  "media": [],
+  "name": "Durga Mandir",
+  "sources": [
+    "https://www.reeltor.com/manipur/tamenglong/pg-for-sale-in-tharon-tamenglong",
+    "https://www.reeltor.com/manipur/tamenglong/plots-for-rent-in-old-kaiphundai-tamenglong"
+  ],
+  "state": "Manipur",
+  "town": "Tamenglong",
+  "town_description": "Tamenglong is the headquarters town of Tamenglong district in western Manipur, a Naga-majority hill town at about 1,290 m elevation in the Barak river basin. It is known for its oranges, the nearby Zeilad Lake, Tharon cave and Buning meadows. The district is overwhelmingly Christian (Baptist), so Hindu shrines here, if any, are small community temples serving the non-tribal population rather than historic pilgrimage sites.",
+  "tradition": "Shaktism (presumed; verify)",
+  "travel": {
+    "airport": "Bir Tikendrajit International Airport, Imphal (approx. 150 km by road via Khongsang; verify).",
+    "railway": "Jiribam railway station is the nearest broad-gauge railhead in the state (verify distance from Tamenglong).",
+    "road": "Tamenglong connects to Imphal by road (approx. 150 km; verify current route); local transport by shared taxi/bus."
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March (dry, pleasant season).",
+    "opening_hours": "Not published (verify - small local shrines typically open morning and evening; confirm locally). No entry fee expected."
+  }
+}

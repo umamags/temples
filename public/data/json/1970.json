@@ -1,0 +1,49 @@
+{
+  "alternate_names": [
+    "Maa Narayani Temple",
+    "Narayani Temple"
+  ],
+  "deities": [
+    "Narayani (Goddess Durga/Parvati, ten-armed form)"
+  ],
+  "district": "Ganjam",
+  "festivals": [
+    "Navratri/Durga Puja (verify)"
+  ],
+  "history": {
+    "dynasty": "unknown",
+    "period": "UNVERIFIED — founding date not established in available sources",
+    "summary": "A Shakti shrine dedicated to the ten-armed goddess Narayani, located in Narayani village near Khallikote in Ganjam district, at the foot of the Valleri (Vallery) hills amid forested country near Chilika. It is a popular pilgrimage and picnic spot drawing devotees from Berhampur and the surrounding region. The temple's founding date and builders are UNVERIFIED — no reliable source found. NOTE: CSV town 'Berhampur' is approximate; the temple is at Narayani village (Khallikote area), ~35-40 km from Berhampur town (verify)."
+  },
+  "id": "narayani-devi-temple",
+  "latitude": 19.67821,
+  "longitude": 85.17155,
+  "media": [
+    "https://static2.tripoto.com/media/filter/nl/img/10401/TripDocument/1448438587_img_0326.jpg.webp"
+  ],
+  "name": "Narayani Devi Temple",
+  "sources": [
+    "https://odishatour.in/narayani-temple-ganjam/",
+    "https://www.youtube.com/watch?v=r2Kglr9MpZI",
+    "https://www.youtube.com/watch?v=kB_lED_e8m8",
+    "https://www.justdial.com/Ganjam/Narayani-Temple/9999P6816-6816-250306063431-S1P1_BZDET"
+  ],
+  "state": "Odisha",
+  "town": "Narayani (near Khallikote)",
+  "town_description": "Narayani is a small village near Khallikote in Ganjam district of southern Odisha, set at the foot of the forested Valleri hills not far from Chilika Lake and the Balugaon railway junction. Khallikote is a historic estate town on the Chennai–Kolkata highway (NH-16) corridor. The village's main claim to fame is the Narayani temple, which draws weekend and pilgrimage crowds from Berhampur and nearby areas.",
+  "tradition": "Hinduism (Shaktism)",
+  "travel": {
+    "airport": "Biju Patnaik International Airport, Bhubaneswar, ~170 km (verify)",
+    "railway": "Balugaon station ~13-15 km (verify); Berhampur station also cited (verify)",
+    "road": "On the NH-16 corridor near Chilika/Balugaon; local buses and taxis from Khallikote and Berhampur"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to June, winter months preferred",
+    "opening_hours": "CONFLICT (verify): 9:00 am to 6:00 pm per odishatour.in; 6:00 am to 9:00 pm per Justdial listing"
+  }
+}

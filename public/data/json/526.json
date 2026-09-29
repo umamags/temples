@@ -1,0 +1,53 @@
+{
+  "alternate_names": [
+    "Alathiyur Hanuman Kavu",
+    "Sree Alathiyoor Hanuman Swamy Temple"
+  ],
+  "deities": [
+    "Hanuman Swamy (main deity)",
+    "Sree Ramaswamy",
+    "Lakshmana Swamy",
+    "Ganapathy",
+    "Ayyappa"
+  ],
+  "district": "Malappuram",
+  "festivals": [
+    "Hanuman Jayanti",
+    "Ramayana Masam (Karkidakam, mid-July–mid-August: daily Ramayana recitation and special poojas)"
+  ],
+  "history": {
+    "dynasty": "Unknown — maintained by the Alathiyoor Perumthrikovil Devaswom; antiquity rests on oral tradition only",
+    "period": "Ancient; popular tradition claims ~3000 years (unverified — flag)",
+    "summary": "One of the most famous Hanuman temples of Kerala, a kavu (sacred grove) shrine at Alathiyur, Poilissery, about 6 km from Tirur on the Tirur–Ponnani road. The sanctum enshrines Hanuman with Rama, Lakshmana, Ganapathy and Ayyappa idols; it is the Rama–Hanuman pairing that draws devotees. Key vazhipadus include Avil Nivedyam/Kuzhacha Avil, Vadamala (butter garland) and Gadha Pooja; belief holds that three pradakshinams remove bad luck. The widely repeated '3000 years old' claim has no documented evidence — flag as oral tradition. CSV town/state (Malappuram, Kerala) are correct; nearest hub town is Tirur."
+  },
+  "id": "alathiyoor-hanuman-temple",
+  "latitude": 10.87217,
+  "longitude": 75.93994,
+  "media": [
+    "https://famoustemplesofindia.com/wp-content/uploads/2025/06/Alathiyoor-Hanuman-Temple-Kerala-1-1024x576.webp"
+  ],
+  "name": "Alathiyoor Hanuman Temple",
+  "sources": [
+    "https://himalappuram.in/hanumantemple.html",
+    "http://www.alathiyoorhanumankavu.in/",
+    "https://tripnetra.com/blog/sree-alathiyoor-hanuman-kavu-temple"
+  ],
+  "state": "Kerala",
+  "town": "Alathiyur",
+  "town_description": "Alathiyur (Poilissery) is a temple locality on the Tirur–Ponnani road in Malappuram district, built around the Hanuman Kavu shrine and its Devaswom.",
+  "tradition": "Vaishnava bhakti (Hanuman worship); Kerala kavu tradition",
+  "travel": {
+    "airport": "Calicut International Airport (verify distance)",
+    "railway": "Tirur railway station (~6–7.7 km); buses/autos to the temple",
+    "road": "Tirur–Ponnani road at Poilissery, ~6 km from Tirur"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October–March; Hanuman Jayanti",
+    "opening_hours": "5:00 AM–11:30 AM and 5:00 PM–7:30 PM (verify — sources vary slightly)"
+  }
+}

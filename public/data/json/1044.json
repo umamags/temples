@@ -1,0 +1,44 @@
+{
+  "alternate_names": [
+    "Tripura Government Museum",
+    "Rajbari (Agartala)"
+  ],
+  "deities": [],
+  "district": "West Tripura",
+  "festivals": [],
+  "history": {
+    "dynasty": "Manikya dynasty",
+    "period": "1899-1901",
+    "summary": "NOT A HINDU TEMPLE — keep-or-drop decision needed. Ujjayanta Palace is the former royal palace of the Manikya kings of Tripura and now the Tripura Government Museum (state museum), a secular heritage institution. The current palace was built in the heart of Agartala city between 1899 and 1901 by Maharaja Radha Kishore Manikya at a cost of Rs 10 lakh, designed by Sir Alexander Martin of Martin and Burn Co. in Indo-Saracenic style (Mughal, Roman and British influences), with three domes and Mughal gardens; the name 'Ujjayanta' was given by poet Rabindranath Tagore. An earlier 1862 palace 10 km away was destroyed in the 1897 Assam earthquake. It was the Manikyas' principal residence until Tripura's merger with India in October 1949, was purchased by the state government in 1972-73, housed the Legislative Assembly until July 2011, and was inaugurated as the state museum on 25 September 2013. Several Hindu temples (Lakshmi Narayan, Uma-Maheshwari, Kali, Jagannath) stand on plots adjacent to the palace, but the palace itself is not a temple. The CSV town 'Ambassa' is wrong — the palace is in Agartala, West Tripura district (~90+ km from Ambassa) and has been corrected."
+  },
+  "id": "ujjayanta-palace-agartala",
+  "latitude": 23.8374,
+  "longitude": 91.2827,
+  "media": [
+    "https://tzmedia.b-cdn.net/media/images/in/place/gallery/medium/61d83163f76d0faab5af3f37a0d8b192.jpg"
+  ],
+  "name": "Ujjayanta Palace",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Ujjayanta_Palace",
+    "https://web.archive.org/web/20130925183954/http://newindianexpress.com/lifestyle/travel/Tripuras-royal-mansion-to-house-northeasts-biggest-museum/2013/09/24/article1801321.ece",
+    "https://www.inheritage.foundation/heritage/ujjayanta-palace-agartala"
+  ],
+  "state": "Tripura",
+  "town": "Agartala",
+  "town_description": "Agartala is the capital city of Tripura in West Tripura district; Ujjayanta Palace stands in the heart of the city amid Mughal-style gardens.",
+  "tradition": "Not a temple — Tripura Government Museum (secular heritage institution)",
+  "travel": {
+    "airport": "Maharaja Bir Bikram Airport, Agartala (~12 km)",
+    "railway": "Agartala railway station (~10 km, verify)",
+    "road": "In the heart of Agartala city"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October-March",
+    "opening_hours": "Museum hours — verify locally (typically closed Mondays/public holidays)"
+  }
+}

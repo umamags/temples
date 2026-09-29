@@ -1,0 +1,53 @@
+{
+  "alternate_names": [
+    "Aghoreshwara Temple",
+    "Agoreshvara Temple",
+    "Ikkeri Temple"
+  ],
+  "deities": [
+    "Aghoreshvara (Shiva)",
+    "Parvati",
+    "Nandi"
+  ],
+  "district": "Shivamogga",
+  "festivals": [
+    "Maha Shivaratri"
+  ],
+  "history": {
+    "dynasty": "Keladi Nayakas",
+    "period": "16th century CE",
+    "summary": "North-facing granite Shiva temple at Ikkeri village, ~6 km south of Sagara (CSV town 'Shimoga' corrected: Shimoga is the district headquarters; the temple is at Ikkeri in Sagara taluk). Built during Keladi Nayaka rule in the 16th century; sources conflict on whether the capital shifted from Keladi to Ikkeri under Chaudappa Nayaka (r. 1499-1544) or c. 1560 — CONFLICT (verify). Ikkeri was the Nayaka capital for about 120 years; the temple is the only surviving vestige of that grandeur (the mud-and-timber palace and triple walls are lost). Architecture blends Kadamba, Hoysala, Chalukya, Vijayanagara and Nayaka elements: large mukha mandapa, open sukhanasi, garbha griha with a very high pedestal and 32 seated female figures around the Shivalinga (said to be self-manifested), white-spar Nandi shrine on axis, and effigies of three Keladi chiefs doing obeisance. Maintained by the ASI. Tradition holds it was desecrated by invaders and later renovated."
+  },
+  "id": "aghoreshvara-temple-ikkeri",
+  "latitude": 14.13517,
+  "longitude": 75.0228,
+  "media": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Aghoreshvara_Temple_-_Ikkeri.jpg/1920px-Aghoreshvara_Temple_-_Ikkeri.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  ],
+  "name": "Aghoreshvara Temple, Ikkeri",
+  "sources": [
+    "https://sahasa.in/2023/03/01/aghoreshwara-temple-ikkeri-sagara-taluka-shivamogga-district-karnataka/",
+    "http://lightuptemples.com/ikkeri-aghoreshwara-temple-karnataka/",
+    "http://www.milesandtrails.com/2018/04/aghoreshwara-temple-ikkeri.html",
+    "https://ipfs.io/ipfs/QmXoypizjW3WknFiJnKLwHCnL72vedxjQkDDP1mXWo6uco/wiki/Ikkeri.html",
+    "https://velpu.com/temple/IKKERI-AGHORESHWARA-TEMPLE/NDY2"
+  ],
+  "state": "Karnataka",
+  "town": "Ikkeri",
+  "town_description": "Ikkeri is a heritage village in Sagara taluk of Shivamogga district, about 6 km south of Sagara town in Karnataka's Malnad region. The name means 'two streets' in Kannada. It was the second capital of the Keladi Nayakas for over a century after they shifted from Keladi; the town once had a grand palace and triple concentric fort walls, now lost. Today it is a quiet village whose main claim to fame is the ASI-maintained Aghoreshvara Temple, the sole surviving vestige of its former grandeur.",
+  "tradition": "Hinduism (Shaivism)",
+  "travel": {
+    "airport": "Shivamogga Airport, ~70-80 km (verify)",
+    "railway": "Sagara Jambagaru station, ~6 km (verify); Shivamogga Town station, ~75 km (verify)",
+    "road": "~6 km diversion off B.H. Road (NH-69) at Sagara; ~76 km north of Shivamogga city"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March (verify)",
+    "opening_hours": "6:00 AM - 5:00 PM daily (single travel-directory source; verify)"
+  }
+}

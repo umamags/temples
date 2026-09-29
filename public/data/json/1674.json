@@ -1,0 +1,57 @@
+{
+  "alternate_names": [
+    "Pampapati Temple",
+    "Prasanna Virupaksha Temple",
+    "Sri Virupaksha Temple"
+  ],
+  "deities": [
+    "Shiva (as Virupaksha)",
+    "Pampa (Pampadevi, consort - associated with the Tungabhadra River)"
+  ],
+  "district": "Vijayanagara",
+  "festivals": [
+    "Virupaksha Car Festival / Rathotsava (Feb-Apr; ritual marriage of the deities)",
+    "Betrothal and marriage festivities of Virupaksha and Pampa (December)",
+    "Phala Puja Festival",
+    "Maha Shivaratri",
+    "Diwali"
+  ],
+  "history": {
+    "dynasty": "Vijayanagara (great temple built by Lakkana Dandesha, chieftain under Deva Raya II); origins Chalukya (7th c.) with late-Chalukyan and Hoysala additions",
+    "period": "7th century CE (shrine); major complex c. 1442; repaired early 19th century",
+    "summary": "The living heart of Hampi: a shrine to Virupaksha (Shiva) with uninterrupted worship from about the 7th century - a Chalukya-period small sanctuary (inscriptions referring to Shiva date to the 9th-10th c.) that grew through late-Chalukyan and Hoysala additions into a grand complex under the Vijayanagara Empire, when Lakkana Dandesha, a chieftain/minister under Deva Raya II, built the great temple c. 1442; major repair and restoration were done in the early 19th century (east and north gopuras). Unlike the surrounding ruins it survived the 1565 Battle of Talikota sack and continues in daily worship as the main pilgrimage centre of Hampi, marked by the nine-storeyed east gopuram (~50 m/160 ft), the temple elephant Lakshmi who blesses devotees, and the annual chariot festival. Part of the UNESCO World Heritage Group of Monuments at Hampi. Note: Hampi now lies in Vijayanagara district (carved out of Ballari in 2021); older sources still say Ballari district."
+  },
+  "id": "virupaksha-temple",
+  "latitude": 15.33514,
+  "longitude": 76.45866,
+  "media": [
+    "https://imp-art.org/wp-content/uploads/2025/10/virupaksha-temple-hampi-1S.jpg"
+  ],
+  "name": "Virupaksha Temple",
+  "sources": [
+    "https://vijayanagara.nic.in/tourist-place/virupaksha-temple/",
+    "https://www.herzindagi.com/diary/virupaksha-temple-lord-shiva-hampi-karnataka-details-article-254291",
+    "https://www.lineshjose.com/blog/virupaksha-temple-hampi-complete-travel-guide/",
+    "https://www.inheritage.foundation/heritage/virupaksha-temple-hampi",
+    "https://www.dreamandtravel.com/virupaksha-temple",
+    "https://prayanamam.com/hampi-virupaksha-temple-opening-closing-timings-karnataka/"
+  ],
+  "state": "Karnataka",
+  "town": "Hampi",
+  "town_description": "Hampi is a village and temple town in Vijayanagara district, Karnataka, on the south bank of the Tungabhadra River, amid the boulder-strewn ruins of Vijayanagara, the last great Hindu capital of South India. Designated a UNESCO World Heritage Site as the Group of Monuments at Hampi, it combines a living pilgrimage centre - the Virupaksha Temple has been in continuous worship since about the 7th century - with one of the world's great archaeological landscapes. Hampi Bazaar, the riverside ghats and the surrounding ruins make it Karnataka's most visited heritage destination.",
+  "tradition": "Hinduism (Shaivism)",
+  "travel": {
+    "airport": "Jindal Vijayanagar Airport (VDY), Toranagallu - ~37 km (verify); Hubballi ~160-170 km (verify); Bengaluru ~350 km",
+    "railway": "Hospet (Hosapete) Junction - ~12-14 km; auto/taxi ~25-30 min",
+    "road": "~12-14 km from Hospet via Hampi Road; buses from Hospet and Hubballi; temple at Hampi Bazaar, ~300-400 m from Hampi bus stand (verify)"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March (cool season); Car Festival (Mar-Apr); Hampi Utsav (Nov/Jan)",
+    "opening_hours": "Commonly cited as 6:00 AM-1:00 PM and 5:00-9:00 PM daily (some sources give 4:00 PM reopening) (verify locally); entry free (camera fees ~Rs 50 per some sources)"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "alternate_names": [
+    "Basistha Mandir",
+    "Vasistha Temple",
+    "Vashistha Ashram"
+  ],
+  "deities": [
+    "Shiva (Shiva linga)",
+    "Sage Vasistha (foot impression in the sunken garbhagriha)"
+  ],
+  "district": "Kamrup Metropolitan",
+  "festivals": [
+    "Maha Shivaratri",
+    "Durga Puja"
+  ],
+  "history": {
+    "dynasty": "Ahom dynasty (earlier stone temple c. 1000-1100 CE)",
+    "period": "1764 CE (present brick temple; site much older)",
+    "summary": "Shiva mandir on Sandhyachal Hill within the Basistha Ashram, on the banks of the mountain streams (Sandhya, Lalita, Kanta) from the Meghalaya hills that form the Basistha and Bahini/Bharalu rivers. Legend traces the ashram to the Vedic age as the hermitage of sage Vasistha (one of the Saptarishis). Archaeological evidence points to a stone temple here around 1000-1100 CE; the present octagonal brick temple with a polygonal sikhara was built by Ahom king Swargadeo Rajeswar Singha (reigned 1751-1769), completed 1764. The sunken garbhagriha is believed to hold the sage's foot impression. A meditation cave lies ~5 km inside the ashram, and there is a waterfall nearby. Date note: one source gives 1751 as the construction date - flag (verify). Coordinates note: the geocoder returned only a district-level match for this query, so the coordinates used are the published Wikipedia coordinates 26.09500N 91.78444E."
+  },
+  "id": "basistha-temple-vashistha-ashram-guwahati",
+  "latitude": 26.095,
+  "longitude": 91.78444,
+  "media": [
+    "https://www.tourmyindia.com/states/assam/images/Basistha-Temple-1.jpg"
+  ],
+  "name": "Basistha Temple (Vashistha Ashram)",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Basistha_Temple",
+    "https://dev-beta.travalour.com/attraction/2873-basistha-mandir",
+    "https://www.triphobo.com/places/guwahati-india/basistha-temple",
+    "https://www.airial.travel/attractions/india/guwahati/basistha-ashram-guwahati-YegUsnRG"
+  ],
+  "state": "Assam",
+  "town": "Guwahati",
+  "town_description": "Guwahati is the largest city of Assam and the principal gateway to Northeast India, spread along the south bank of the Brahmaputra around the ancient city of Pragjyotishpur. It is one of Assam's major temple towns, home to the Kamakhya, Umananda and Navagraha temples, and serves as the region's main transport, education and commercial hub.",
+  "tradition": "Shaivism",
+  "travel": {
+    "airport": "Lokpriya Gopinath Bordoloi International Airport, Guwahati, is the nearest airport.",
+    "railway": "Guwahati Railway Station is the nearest major railway station.",
+    "road": "City buses stop at 'Basistha Mandir'; the temple lies ~10-12 km southeast of Guwahati city centre, on the edge of the Garbhanga reserve forest."
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March for pleasant weather; open all year.",
+    "opening_hours": "Not published online - verify locally before visiting. Early mornings are the least crowded."
+  }
+}

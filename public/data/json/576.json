@@ -1,0 +1,55 @@
+{
+  "alternate_names": [
+    "Ram Van Temple",
+    "Ramvan Mandir",
+    "Ramvan Krishnayan Hanuman Temple"
+  ],
+  "deities": [
+    "Lord Rama (idol installed 1936)",
+    "Lord Hanuman (a towering Hanuman statue - reported as 25 feet by one source and 36 feet by the Ram Van Hanuman Temple Trust; conflict flagged)",
+    "Lord Krishna (associated shrines in the complex)"
+  ],
+  "district": "Satna",
+  "festivals": [
+    "Ram Navami",
+    "Hanuman Jayanti",
+    "Dussehra",
+    "Tulsi Jayanti"
+  ],
+  "history": {
+    "dynasty": "Modern, managed by the Manas Sangh Trust (founded 1939)",
+    "period": "1936 (idol of Lord Rama installed); continuous Ramcharitmanas recitation since 1929",
+    "summary": "The Ramvan temple stands at Delaura, Ramvan village, about 20 km from Satna on the Satna-Rewa road, at the site of ancient temple remains. Continuous recitation (akhand path) of the Ramcharitmanas began here in 1929; the temple was formally established in 1936 with the installation of a Rama idol. The Manas Sangh Trust was founded in 1939 to promote the Ramayana and Indian culture, and the Tulsi Museum was set up in 1959 to house sculptures gathered from the region's ancient temples since 1925. The complex also includes a large Hanuman statue (height reported inconsistently as 25 ft or 36 ft - verify) and family amusements (toy train, rides). CSV note: the CSV town 'Satna' is approximate - the actual site is Ramvan village in Satna district, about 20 km from Satna city."
+  },
+  "id": "ramvan-temple-satna",
+  "latitude": 24.55072,
+  "longitude": 80.96468,
+  "media": [
+    "https://www.tusktravel.com/blog/wp-content/uploads/2024/02/Ramvan-Satna-Madhya-Pradesh.jpg"
+  ],
+  "name": "Ramvan Temple",
+  "sources": [
+    "https://newandolder.com/2024/09/14/ramvan-temple-satna/",
+    "https://www.justdial.com/Satna/Ram-Van-Temple-Ramvan/9999P7672-7672-170315163920-D3P4_BZDET",
+    "https://promallu.com/toprated/india/ramvan-temple-xw7vy/",
+    "https://www.findglocal.com/IN/Satna/460950934110882/36-Feet-Veer-Hanuman-Statue%2C-Ramvan-Krishnayan%2C-Satna-Dist.-Madhya-Pradesh"
+  ],
+  "state": "Madhya Pradesh",
+  "town": "Ramvan",
+  "town_description": "Ramvan is a village in Satna district on the Satna-Rewa road, known for the Ramvan temple complex, the Manas Sangh institution, the Tulsi archaeological museum, and a large Hanuman statue.",
+  "tradition": "Vaishnavism",
+  "travel": {
+    "airport": "Jabalpur Airport (about 180 km); Satna has an airstrip with limited service",
+    "railway": "Satna Junction railway station (about 20 km)",
+    "road": "On the Satna-Rewa road at Sajjanpur, about 20 km from Satna; parking Rs 20"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March; mornings and evenings are calmest",
+    "opening_hours": "Listings conflict: general temple hours 9:00 AM-6:00 PM (Justdial/Promallu) vs 10:00 AM-8:30 PM on the trust's page (verify); museum entry about Rs 20"
+  }
+}

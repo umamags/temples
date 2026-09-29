@@ -1,0 +1,44 @@
+{
+  "alternate_names": [
+    "Sri Prachin Hanuman Devalayam (provisional referent)"
+  ],
+  "deities": [
+    "Hanuman (presumed - shrine details undocumented)"
+  ],
+  "district": "Kohima",
+  "festivals": [],
+  "history": {
+    "dynasty": "Not documented",
+    "period": "Not documented (verify)",
+    "summary": "IDENTITY PROVISIONAL — high uncertainty, verify before publishing. No prominently documented 'Hanuman Mandir' exists in Kohima town in any source consulted (the town's listed Hindu temples are Durgabari, the Nepali Mandir, Kohima Hindu Mandir, the Gorkha Singhadevi Mandir and the Radha Krishna Temple). The only trace of a Hanuman shrine in Kohima district found is 'Sri Prachin Hanuman Devalayam', named as a nearby landmark for the Mitelephe/Sweba rural belt of Jakhama sub-district (reeltor.com property listings note it about 6.5 km from Mitelephe and as an area temple for Sweba residents). No dedicated temple page, history, or photograph of this shrine exists online, so this identification is provisional: the file documents the Jakhama-area shrine as the best-supported referent, with coordinates set to the Mitelephe village pin as an area anchor (NOT the exact shrine location). A separate Hanuman Mandir visited by the Nagaland Governor in March 2026 sits near Dimapur (per DIPR Nagaland, the Governor proceeded to Kohima afterwards), not in Kohima. Media is empty. Verify the shrine's exact name, location and existence on the ground."
+  },
+  "id": "hanuman-mandir-kohima-provisional",
+  "latitude": 25.6355,
+  "longitude": 94.18496,
+  "media": [],
+  "name": "Hanuman Mandir Kohima (provisional - Sri Prachin Hanuman Devalayam, Jakhama area)",
+  "sources": [
+    "https://www.reeltor.com/nagaland/jakhama/plots-for-sale-in-mitelephe-jakhama",
+    "https://www.reeltor.com/nagaland/jakhama/office-space-for-sale-in-sweba-jakhama",
+    "https://ipr.nagaland.gov.in/index.php/GOVERNOR-OF-NAGALAND-VISITS-SITLA-MATA-MANDIR-AND-HUNUMAN-MANDIR",
+    "https://www.justdial.com/Kohima/Temples/nct-10475644"
+  ],
+  "state": "Nagaland",
+  "town": "Jakhama area, Kohima district (CSV town 'Kohima' is approximate - no Hanuman Mandir was found in Kohima town; provisional referent is near Mitelephe/Sweba)",
+  "town_description": "Jakhama is a sub-district (circle) of Kohima district south of Kohima town on the Kohima-Mao/Imphal road (NH-2), a rural belt of Angami Naga villages such as Mitelephe and Sweba. Kohima itself is the Nagaland state capital, overwhelmingly Naga and Christian, with only a handful of Hindu temples serving the non-Naga community.",
+  "tradition": "Hinduism",
+  "travel": {
+    "airport": "Dimapur Airport, the nearest airport (verify distance).",
+    "railway": "Dimapur railway station, the nearest railhead (verify distance).",
+    "road": "The Jakhama/Mitelephe belt is on NH-2 south of Kohima; reach via Kohima town by taxi (verify local directions)."
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March for cool, clear weather (verify).",
+    "opening_hours": "Not documented - verify locally; the shrine's existence and timings are unconfirmed."
+  }
+}

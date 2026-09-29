@@ -1,0 +1,51 @@
+{
+  "alternate_names": [
+    "Umananda Devaloi",
+    "Umananda Island Temple"
+  ],
+  "deities": [
+    "Lord Shiva (as Umananda)",
+    "Ten other Hindu deities (idols in subsidiary shrines)"
+  ],
+  "district": "Kamrup Metropolitan",
+  "festivals": [
+    "Maha Shivaratri",
+    "Shiva Chaturdashi"
+  ],
+  "history": {
+    "dynasty": "Ahom",
+    "period": "17th century (completed 1694)",
+    "summary": "FLAG: DUPLICATE ROW: same temple as seq 1287 (\"Umananda Temple\", id umananda-temple). One file per CSV row; keep-or-dedup decision needed.\n\nShiva temple on Umananda (Peacock/Mayur) Island in the middle of the Brahmaputra, claimed to be the world's smallest inhabited river island. Built in 1694 by Bar Phukan Garhganya Handique on the orders of Ahom king Gadadhar Singha (1681-1696), a devout Shaivite. The hill is known as Bhasmachala/Bhasmakuta: per legend Shiva burnt Kamadeva to ashes here with his third eye, and the Kalika Purana says Shiva sprinkled ashes (bhasma) at this spot. The 1897 Assam earthquake destroyed much of the structure, which was rebuilt by a local merchant. CSV town 'Dispur' corrected to Guwahati. Coordinates from Wikipedia (map geocoder placed it incorrectly on the south bank); the temple is on the island in the river."
+  },
+  "id": "umananda-temple-guwahati",
+  "latitude": 26.19639,
+  "longitude": 91.74528,
+  "media": [
+    "https://india.muthu.co/images/image_umananda-island.png"
+  ],
+  "name": "Umananda Temple",
+  "sources": [
+    "https://www.travelandleisureasia.com/in/web-stories/destinations/umananda-temple-in-guwahati-is-a-historic-shiva-shrine-on-a-tiny-island/",
+    "https://assaminfo.com/tourist-places/umananda-temple-guwahati",
+    "https://www.holidify.com/places/guwahati/umananda-temple-sightseeing-1945.html",
+    "https://en.wikipedia.org/wiki/Umananda_Temple"
+  ],
+  "state": "Assam",
+  "town": "Guwahati",
+  "town_description": "Guwahati is the largest city of Assam and the principal city of Northeast India, on the south bank of the Brahmaputra. Once the seat of the ancient kingdom of Pragjyotishpura/Kamarupa, it is the region's main commercial and transport hub and a centre of Shakti worship, with Kamakhya, Umananda and Ugratara shrines.",
+  "tradition": "Shaivism",
+  "travel": {
+    "airport": "Lokpriya Gopinath Bordoloi International Airport, Guwahati",
+    "railway": "Guwahati railway station",
+    "road": "Ferry/motorboat from Uzan Ghat, Kachari Ghat or Umananda Ghat (10-15 minutes); the Guwahati ropeway passes over the island"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to April; Maha Shivaratri draws the largest crowds",
+    "opening_hours": "Generally 5:30 AM to 6:00 PM (one source splits this as 5:30-10:30 AM and 12:00-4:00 PM); final return ferry leaves earlier"
+  }
+}

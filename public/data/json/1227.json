@@ -1,0 +1,50 @@
+{
+  "alternate_names": [
+    "Rotary Club Charitable Trust Mahakaleshwar Temple",
+    "Dakshina Ujjain Mahakaleshwar Temple",
+    "Another Ujjain"
+  ],
+  "deities": [
+    "Lord Shiva as Mahakaleshwar"
+  ],
+  "district": "East Godavari",
+  "festivals": [
+    "Maha Shivaratri",
+    "Daily Bhasma Aarti (4:00-5:30 AM)"
+  ],
+  "history": {
+    "dynasty": "Modern",
+    "period": "2022-present",
+    "summary": "Newly constructed Shiva temple at Gautama Ghat on the banks of the Godavari, built by the Rotary Club Charitable Trust and inaugurated in April 2022 by TTD chairman Y.V. Subba Reddy. It bills itself as the first Mahakaleshwar temple in South India - a 'second Ujjain' - performing the daily Bhasma Aarti (cremation-ash abhishekam to the Shiva linga) every morning 4:00-5:30 AM, a ritual otherwise associated with the Ujjain Jyotirlinga."
+  },
+  "id": "mahakaleshwar-temple-rajahmundry",
+  "latitude": 16.98891,
+  "longitude": 81.77875,
+  "media": [
+    "https://temple.yatradham.org/public/Product/temple/temple_kBgQqykX_202409021654340.jpg"
+  ],
+  "name": "Mahakaleshwar Temple",
+  "sources": [
+    "http://rotarycharatabletrustmahakaleshwartempleanotherujjain.com",
+    "https://temple.yatradham.org/temple/mahakaleshwar-temple-rajahmundry",
+    "https://www.youtube.com/watch?v=AxgaNnVM9QM"
+  ],
+  "state": "Andhra Pradesh",
+  "town": "Rajahmundry",
+  "town_description": "Rajamahendravaram (Rajahmundry), on the east bank of the Godavari in East Godavari district, is one of the oldest cities of Andhra Pradesh. It was the 11th-century seat of Eastern Chalukya king Rajaraja Narendra and the birthplace of Telugu literature under the poet Nannaya. It is famed for its riverside ghats and Godavari Pushkarams, the Dowleswaram Barrage, paper mills and nurseries.",
+  "tradition": "Shaivism",
+  "travel": {
+    "airport": "Rajahmundry Airport - about 15.5 km",
+    "railway": "Rajahmundry Railway Station - about 1-1.5 km",
+    "road": "City buses, autos and taxis; well connected by road"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October-March",
+    "opening_hours": "4:00 AM-8:30 PM; Bhasma Aarti 4:00-5:30 AM daily"
+  }
+}

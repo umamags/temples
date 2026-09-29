@@ -1,0 +1,48 @@
+{
+  "alternate_names": [
+    "Gurdwara Patshahi Pehli, Takhtupura"
+  ],
+  "deities": [
+    "Guru Granth Sahib (installed and recited; Sikhism - NOT a Hindu temple)"
+  ],
+  "district": "Moga",
+  "festivals": [
+    "Jor Mela (13-17 January)",
+    "Gurpurabs of Guru Nanak Dev Ji, Guru Hargobind Ji and Guru Gobind Singh Ji",
+    "Shahidi Divas of Guru Arjan Dev Ji"
+  ],
+  "history": {
+    "dynasty": "Sikh Gurus",
+    "period": "Early 16th century (Guru Nanak Dev Ji's visit)",
+    "summary": "NOT A HINDU TEMPLE — Sikh gurdwara, keep-or-drop decision needed. LIKELY DUPLICATE OF CSV SEQ 2042: 'Gurudwara Sahib Patsahi Pehli' is one of the three shrines of the Gurudwara Sri Nanaksar Sahib complex at village Takhtupura (2042), not a standalone site in Moga city. This shrine stands on the bank of the Nanaksar sarovar and marks Guru Nanak Dev Ji's discourse with siddha yogis who lived on a nearby mound; Sikh tradition also associates the spot with Raja Bharthari of Ujjain, whom the Guru is said to have miraculously transported to Junagarh for his wedding and brought back. Coordinates are those of the Takhtupura Nanaksar complex (approximate for this shrine); CSV town 'Moga' is wrong — actual site is village Takhtupura."
+  },
+  "id": "gurudwara-patshahi-pehli-takhtupura",
+  "latitude": 30.56123,
+  "longitude": 75.33402,
+  "media": [
+    "https://discoversikhism.com/images/gurdwara/gurdwara_sri_takhtupura_sahib/thumbs/gurdwara_sri_takhtupura_sahib1.jpg"
+  ],
+  "name": "Gurudwara Sahib Patsahi Pehli",
+  "sources": [
+    "http://www.historicalgurudwaras.com/GurudwaraDetail.aspx?gid=4074",
+    "https://www.sikhiwiki.org/index.php/Gurudwara_Nanaksar_Sahib_(Village_Takhtupura)"
+  ],
+  "state": "Punjab",
+  "town": "Takhtupura",
+  "town_description": "Takhtupura is a village in Nihal Singhwala tehsil of Moga district, Punjab, about 32 km southeast of Moga city. Its Nanaksar Sahib complex of three shrines commemorates the visits of Guru Nanak Dev Ji, Guru Hargobind Ji and Guru Gobind Singh Ji.",
+  "tradition": "Sikhism",
+  "travel": {
+    "airport": "Chandigarh International ~120 km; Bathinda airport ~110 km",
+    "railway": "Moga Junction ~32 km",
+    "road": "32 km southeast of Moga via Bagha Purana and Nihal Singhwala, or via Lohara on the Moga-Barnala road"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March; Jor Mela (13-17 January) is the biggest annual gathering",
+    "opening_hours": "Open daily from early morning (verify exact hours)"
+  }
+}

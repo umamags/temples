@@ -1,0 +1,51 @@
+{
+  "alternate_names": [
+    "Shri Chandreshwar Bhootnath Sansthan",
+    "Chandranath Temple"
+  ],
+  "deities": [
+    "Lord Shiva as Chandreshwar/Bhutnath (linga; local lore calls it swayambhu)"
+  ],
+  "district": "South Goa",
+  "festivals": [
+    "Hanuman Jayanti (five-day celebration)",
+    "Dussehra (annual palkhi procession)",
+    "Mahashivratri"
+  ],
+  "history": {
+    "dynasty": "Kadamba (attributed)",
+    "period": "Attributed to c. 1050 CE (verify); popular lore claims Bhoja-era or ~2500-year antiquity — weakly sourced",
+    "summary": "Ancient hilltop Shiva temple atop Chandranath Hill above Paroda village, Quepem taluka. Built of grey laterite in Indo-Aryan Nagara style with a curvilinear shikhara (inheritage.foundation); the mandapa columns show possible Vijayanagara influence. Local lore holds that moonbeams fall on the linga at full moon and that the linga exudes water droplets under moonlight — unverified. Visitor accounts note old wooden statues and carvings inside. Exact construction date is uncertain; treat the 1050 CE Kadamba attribution and the Bhoja-king lore as provisional. DUPLICATE FLAG: CSV rows 230 ('Shri Chandreshwar Temple, Margao') and 250 ('Shree Chandreshwar Bhutnath Temple, Quepem') are the same temple (both CSV towns wrong) — keep-or-merge decision needed. CSV town 'Sanguem' corrected to Paroda, Quepem taluka, South Goa."
+  },
+  "id": "chandreshwar-bhutnath-temple-paroda",
+  "latitude": 15.21369,
+  "longitude": 74.03636,
+  "media": [
+    "https://hinterscapes.com/uploads/0000/1/2023/03/30/chandreshwar-shiva-temple-goa.jpg"
+  ],
+  "name": "Shri Chandreshwar Bhutnath Temple",
+  "sources": [
+    "https://www.inheritage.foundation/explore/kalinga-architecture-in-goa",
+    "https://www.justdial.com/Goa/Shri-Chandreshwar-Temple-Quepem/0832PX832-X832-141219110649-Z2V8_BZDET",
+    "https://wanderlog.com/place/details/744052/shri-chandreshwar-bhootnath-temple",
+    "https://www.youtube.com/watch?v=jTJzwopQMyo"
+  ],
+  "state": "Goa",
+  "town": "Paroda",
+  "town_description": "Paroda is a village in Quepem taluka, South Goa, about 15 km from Margao amid forested hills; the Chandreshwar temple stands atop Chandranath Hill above the village, with views over the surrounding countryside.",
+  "tradition": "Shaivism",
+  "travel": {
+    "airport": "Goa International Airport (Dabolim), about 30-35 km (approx.)",
+    "railway": "Margao Junction, about 15 km (approx.)",
+    "road": "Paroda village, Quepem taluka (403705); motorable road leads up Chandranath Hill to the temple"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March; full-moon nights are considered auspicious per local lore",
+    "opening_hours": "06:00-21:00 per the Justdial listing for the Paroda temple — verify locally"
+  }
+}

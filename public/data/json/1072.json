@@ -1,0 +1,53 @@
+{
+  "alternate_names": [
+    "Durga Kund Mandir",
+    "Monkey Temple",
+    "Lal Mandir"
+  ],
+  "deities": [
+    "Durga",
+    "Lakshmi",
+    "Saraswati",
+    "Kali"
+  ],
+  "district": "Varanasi",
+  "festivals": [
+    "Navratri",
+    "Durga Puja",
+    "Nag Panchami"
+  ],
+  "history": {
+    "dynasty": "Maratha-era patronage (Bengal)",
+    "period": "18th century (c. 1760)",
+    "summary": "Prominent Durga shrine in Varanasi built in the 18th century by Rani Bhabani (Bhavani) of Natore, Bengal, in North Indian Nagara style with a red-ochre exterior and multi-tiered shikhara representing the five elements (panchmahabhutas). The main idol is believed to be swayambhu (self-manifested, not crafted), and the Skanda Purana tradition holds that Durga guards Kashi from the south. The temple was renovated by Maratha rulers in the 19th century. It stands beside the rectangular Durga Kund tank; shrines of Lakshmi, Saraswati, Kali, Hanuman and Bhairavnath are in the complex. Each Nag Panchami the kund reenacts Vishnu reclining on the serpent. NOTE: opening-hour conflict across sources (5 AM–12 PM / 4–9 PM vs 4 AM–1 PM / 3–8 PM — verify)."
+  },
+  "id": "durga-temple-varanasi",
+  "latitude": 25.28864,
+  "longitude": 82.99928,
+  "media": [
+    "https://tripandtales.com/wp-content/uploads/2025/05/Durga-Temple-Durga-Kund-Mandir-1.jpg"
+  ],
+  "name": "Durga Temple",
+  "sources": [
+    "https://www.trawell.in/uttar-pradesh/varanasi/durgakund-temple-durga-temple",
+    "https://www.pincodify.com/blog/varanasi-guide/durga-temple-varanasi"
+  ],
+  "state": "Uttar Pradesh",
+  "town": "Varanasi",
+  "town_description": "Varanasi (Banaras/Kashi) is one of the world's oldest living cities, on the banks of the Ganga in Uttar Pradesh. India's spiritual capital, it is famed for the Kashi Vishwanath Temple, its ghats, Banaras Hindu University, and silk weaving.",
+  "tradition": "Hindu (Shakta)",
+  "travel": {
+    "airport": "Lal Bahadur Shastri International Airport, Varanasi, ~25-26 km",
+    "railway": "Varanasi Junction, ~7 km",
+    "road": "On Durgakund Road near Tulsi Manas Temple and Banaras Hindu University, ~2 km south of the old city"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March; Navratri (September-October) for peak festivities",
+    "opening_hours": "5:00 AM–12:00 PM and 4:00 PM–9:00 PM daily; some sources list 4 AM–1 PM and 3–8 PM — verify. Entry free."
+  }
+}

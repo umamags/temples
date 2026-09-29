@@ -1,0 +1,48 @@
+{
+ "alternate_names": [
+  "Vaikuntapuram Venkateshwara Temple",
+  "Sri Mahalaxmi Goda Sametha Virat Venkateswara Swamy vari Divya kshetram, Srivaikuntapuram"
+ ],
+ "deities": [
+  "Lord Venkateswara Swamy (with Sri Mahalakshmi and Goddess Goda, per the temple's full name)",
+  "Monumental statue of Lord Venkateswara (per a SumanTV video; dimensions unverified - verify)"
+ ],
+ "district": "Sangareddy",
+ "festivals": [],
+ "history": {
+  "dynasty": "Unknown (modern temple; no founding dynasty or year found in sources)",
+  "period": "Unknown - verify",
+  "summary": "The best-supported referent for this generic CSV row is the Sri Venkateswara Swami Temple at Vaikuntapuram, on Vykuntapuram Road, Sangareddy (address: Vykuntapuram Rd, Sangareddy, Telangana 502294; phone +91 73299 26266; temple website svpd-srd.org; popular rating 4.7-4.8 across ~1,300 reviews). It is a colourful modern temple complex amid farmland with a pond and multiple statues, known for ladoo prasadam and annaprasadam; a SumanTV video describes it as housing a monumental statue of Lord Venkateswara (unverified). No reliable history, founding year or builder was found in any source - the full name 'Sri Mahalaxmi Goda Sametha Virat Venkateswara Swamy vari Divya kshetram' appears only in a locality listing. This is a GENERIC-NAME row: several other Venkateswara temples exist in the district (Veerabhadra Nagar, Sadasivpet, Patancheru, Mominpet), so if the CSV intends a different one it should be specified. CSV CORRECTION: town 'Sangareddy' refined to VAIKUNTAPURAM, on the outskirts of Sangareddy town. History details need verification."
+ },
+ "id": "sri-venkateswara-swami-temple-vaikuntapuram-sangareddy",
+ "latitude": 17.633358,
+ "longitude": 78.098536,
+ "media": [],
+ "name": "Sri Venkateswara Swami Temple, Vaikuntapuram",
+ "sources": [
+  "https://www.justdial.com/Sangareddy/Venkateswara-Temple/9999P8455-8455-190826001352-L1A2_BZDET",
+  "https://www.beyondyatra.com/destinations/india/telangana/sangareddy/places-to-visit/sri-venkateshwara-swamy-temple",
+  "https://www.top-rated.online/cities/Tadlapalle/place/p/9677409/Sri+Venkateswara+Swami+Temple%2C+Vaikuntapuram",
+  "http://www.Onefivenine.com/india/villages/Medak/Sangareddy/Vykuntapuram",
+  "https://www.youtube.com/watch?v=vGJsX693Msg",
+  "https://templesofindia.org/temple-view/vaikuntapuram-venkateswara-temple-medak-telangana-139qjq"
+ ],
+ "state": "Telangana",
+ "town": "Vaikuntapuram",
+ "town_description": "Vaikuntapuram (Vykuntapuram) is a locality on the outskirts of Sangareddy town in Sangareddy district, Telangana, on Vykuntapuram Road. It is a semi-rural area with farmland around the temple; the Annnaprasada Satram (dining hall) serves devotees.",
+ "tradition": "Hinduism (Vaishnavism)",
+ "travel": {
+  "airport": "Rajiv Gandhi International Airport, Hyderabad, about 60 km (verify).",
+  "railway": "Not verified - verify before visiting.",
+  "road": "On Vykuntapuram Road, a few km from Sangareddy town; reachable by local taxi/auto from Sangareddy."
+ },
+ "video": {
+  "audio": "",
+  "script": "",
+  "video_file": ""
+ },
+ "visitor_information": {
+  "best_time": "Not documented in sources - verify.",
+  "opening_hours": "Reported 6:00 AM-1:00 PM daily with evening hours 4:30/5:00 PM-8:30 PM (listings conflict on afternoon opening - verify before visiting)."
+ }
+}

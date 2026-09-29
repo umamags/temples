@@ -1,0 +1,55 @@
+{
+  "alternate_names": [
+    "Shri Damodar Hari Temple",
+    "Damodarji Temple"
+  ],
+  "deities": [
+    "Damodar Hari (Krishna)",
+    "Radha",
+    "Balrama (Balarama)",
+    "Revati"
+  ],
+  "district": "Junagadh",
+  "festivals": [
+    "Janmashtami",
+    "Radhashtami",
+    "Holi",
+    "Kartik Purnima"
+  ],
+  "history": {
+    "dynasty": "Traditional (attributed); renovated under Guptas",
+    "period": "Traditionally ancient; renovation recorded 462 CE (Gupta era)",
+    "summary": "POSSIBLE DUPLICATE of seq 293 ('Shri Radha Damodar Temple', Junagadh) - both rows appear to describe the same temple at Damodar Kund; coordinates aligned to seq 293's approximate value (verify). Tradition attributes the original shrine to Vajranabha, grandson of Krishna; the Damodar pilgrimage was renovated in 462 CE under Gupta king Skandagupta, and later works are credited to the Suryavanshi ruler Chandraketpur. The temple enshrines Damodar Hari (a four-armed Vishnu form of Krishna) with Radha in the central shrine, plus Revati-Balrama shrines, beside the sacred Damodar and Revati kunds at the foot of Girnar. It is a Pushtimarg centre - Vallabhacharya's 64th Baithakji is nearby - and is associated with the saint-poet Narsinh Mehta, who bathed in Damodar Kund. CONFLICT (verify): templeyatri.in claims an 1826 founding by 'Shri Raghunathpriya Maharaj', contradicting the ancient/Vajranabha-Gupta tradition. COORDINATE NOTE: Wikipedia lists 21.3132N 70.2910E, which conflicts with the temple's location at Damodar Kund, Girnar Taleti (~4 km from Junagadh Junction); coordinates here are approximate (verify)."
+  },
+  "id": "shri-radha-damodarji-temple-junagadh",
+  "latitude": 21.5215,
+  "longitude": 70.4965,
+  "media": [
+    "https://temple.yatradham.org/public/Product/temple/temple_iFWql8w1_202507031555000.webp"
+  ],
+  "name": "Shri Radha Damodarji Temple (Damodar Kund)",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Radha_Damodar_Temple,_Junagadh",
+    "https://en.wikipedia.org/wiki/Damodar_Kund",
+    "https://temple.yatradham.org/temple/shri-radha-damodarji-temple",
+    "https://myadhyatm.com/shri-radha-damodarji-mandir/"
+  ],
+  "state": "Gujarat",
+  "town": "Junagadh",
+  "town_description": "Junagadh is a city at the foot of the Girnar hills in the Saurashtra region of Gujarat, once the capital of the former princely state of Junagadh. It is known for the Ashokan rock edicts (c. 250 BCE), the Uparkot fort and the Mahabat Maqbara, and is the gateway for pilgrims climbing Mount Girnar and visitors to Sasan Gir. The district headquarters is a major religious-tourism hub of western Gujarat.",
+  "tradition": "Hinduism (Vaishnavism, Pushtimarg)",
+  "travel": {
+    "airport": "Keshod Airport, ~40-45 km (verify)",
+    "railway": "Junagadh Junction, ~4 km",
+    "road": "On Taleti Rd towards Girnar, ~2 km from Bhavnath Mahadev Temple; on the road to the Girnar hills"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March",
+    "opening_hours": "6:00 AM - 12:00 PM, 4:00 PM - 8:00 PM (verify; festival hours differ)"
+  }
+}

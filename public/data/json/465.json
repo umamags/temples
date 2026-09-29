@@ -1,0 +1,55 @@
+{
+  "alternate_names": [
+    "Ramakrishna Mission Ashram Belgaum",
+    "RK Mission Ashrama, Fort Belgaum",
+    "Swami Vivekananda Memorial, Belagavi"
+  ],
+  "deities": [
+    "Sri Ramakrishna",
+    "Sri Sarada Devi",
+    "Swami Vivekananda"
+  ],
+  "district": "Belagavi",
+  "festivals": [
+    "Sri Ramakrishna Jayanti (tithi puja)",
+    "Sri Sarada Devi Jayanti",
+    "Swami Vivekananda Jayanti",
+    "Durga Puja",
+    "Kali Puja"
+  ],
+  "history": {
+    "dynasty": "N/A (modern)",
+    "period": "Established 2000",
+    "summary": "A branch centre of the Ramakrishna Mission (Belur Math) — a Vedanta centre and ashrama, NOT a traditional temple: it houses a shrine for daily worship, plus a charitable eye clinic, computer training centre, reading room, and bookshop, and runs welfare activities (ration kits, educational aid). It stands on the premises where Swami Vivekananda stayed in October 1892: sources conflict on the length of stay (nine days per Belur Math vs '16th to 27th October' on the ashrama's own blog, and 4 days for the town-centre house). A second campus, the Swami Vivekananda Memorial on Swami Vivekananda Marg (the house he stayed in, acquired by the Mission in 2007 after the earlier Sevashrama was taken over, restored and inaugurated as a memorial in 2019), houses a life-and-message exhibition. The ashrama observes the major celebrations of the Ramakrishna Mission tradition. Visitor hours below are from business listings; confirm with the ashrama before visiting."
+  },
+  "id": "ramakrishna-mission-ashrama-belagavi",
+  "latitude": 15.85958,
+  "longitude": 74.521954,
+  "media": [
+    "https://vushii.com/uploads/9660034_Ramakrishna.png"
+  ],
+  "name": "Ramakrishna Mission Ashrama, Belagavi",
+  "sources": [
+    "https://belurmath.org/ramakrishna-mission-ashrama-belagavi/",
+    "https://blog.rkmissionashrama.org/2025/10/21/about-ramakrishna-mission-ashrama-belgaum/",
+    "https://wanderlog.com/place/details/319141/ramakrishna-mission-ashrama"
+  ],
+  "state": "Karnataka",
+  "town": "Belagavi",
+  "town_description": "Belagavi (Belgaum) is a major city in northwestern Karnataka near the Maharashtra and Goa borders, known for the historic Belgaum Fort, the 1204 Kamala Basti, and its colleges; it sits on an important road and rail link between Mumbai and Bengaluru.",
+  "tradition": "Vedanta (Ramakrishna-Vivekananda tradition)",
+  "travel": {
+    "airport": "Belagavi Airport, Sambra (~10-15 km)",
+    "railway": "Belagavi Railway Station (~1.8 km)",
+    "road": "Fort Road, inside the Belgaum Fort area; town-centre campus at Swami Vivekananda Marg near the Old City Corporation office"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October-March.",
+    "opening_hours": "Listed as 5:30 AM - 12:00 PM and 4:00 - 8:00 PM daily (per business listings; verify before visiting)."
+  }
+}

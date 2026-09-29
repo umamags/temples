@@ -1,0 +1,46 @@
+{
+  "alternate_names": [
+    "Kandhasamy Kovil",
+    "Sundhara Kandhaswamy Kovil"
+  ],
+  "deities": [
+    "Lord Murugan (Kandhasamy)"
+  ],
+  "district": "Salem",
+  "festivals": [
+    "Thaipusam — ahaholidays.com notes the temple fills with devotees and special rituals are undertaken (verify locally)"
+  ],
+  "history": {
+    "dynasty": "Unknown (not documented in consulted sources)",
+    "period": "Antiquity unverified",
+    "summary": "IDENTITY CONFIRMED: the Sundhara Kandhaswamy Kovil is a Murugan temple ~22 km from Salem city on the Salem-Thiruchengode road, listed by the Salem district administration (salem.nic.in) as one of the seven richest temples in the district; phone 04288-287511 (Sankagiri STD code). Builder, dynasty and age are not documented in any consulted source (verify locally). CSV TOWN FLAG: the temple is NOT in Salem city — it is ~22 km away on the Thiruchengode road (geocode matched the Attayampatti locality on that road); the exact village is unconfirmed. Coordinates are locality-level and provisional — temple-level coordinates not verified. Town field kept as 'Salem' per CSV pending the exact village."
+  },
+  "id": "sundhara-kandhaswamy-temple-salem",
+  "latitude": 11.53462,
+  "longitude": 78.05077,
+  "media": [],
+  "name": "Sundhara Kandhaswamy Temple",
+  "sources": [
+    "https://salem.nic.in/tourism/temples/",
+    "https://www.hindudevotionalblog.com/2024/01/9-famous-temples-in-salem-tamil-nadu.html",
+    "https://www.ahaholidays.com/top-places-to-visit-in-salem/"
+  ],
+  "state": "Tamil Nadu",
+  "town": "Salem (CSV town is approximate — temple is ~22 km away on the Thiruchengode road; exact village unconfirmed)",
+  "town_description": "Salem is a major city and district headquarters in north-central Tamil Nadu, known as the 'Steel City' (SAIL Salem Steel Plant), for its mangoes and textiles, and as a pilgrimage base for temples across the district. The Kandhasamy Kovil lies ~22 km out on the Salem-Thiruchengode road, in a rural belt toward Sankagiri (phone STD 04288).",
+  "tradition": "Kaumaram (Murugan devotion)",
+  "travel": {
+    "airport": "Salem Airport (SXV) ~25 km (verify); Coimbatore International Airport ~160 km (verify)",
+    "railway": "Salem Junction (SA), ~22 km; the temple is off the Salem-Thiruchengode road (verify)",
+    "road": "On the Salem-Thiruchengode road, ~22 km from Salem city; reachable by town bus or taxi from Salem (per salem.nic.in)"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October-March; Thaipusam is the main festival period (verify)",
+    "opening_hours": "6:00 AM-8:00 PM per salem.nic.in (verify locally)"
+  }
+}

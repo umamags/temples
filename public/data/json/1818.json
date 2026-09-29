@@ -1,0 +1,52 @@
+{
+  "alternate_names": [
+    "Shree Mahalakshmi Temple",
+    "Mahalaxmi Mandir"
+  ],
+  "deities": [
+    "Mahalakshmi",
+    "Ganesha",
+    "Saraswati"
+  ],
+  "district": "Ratlam",
+  "festivals": [
+    "Diwali (five-day celebration)",
+    "Dhanteras",
+    "Navratri"
+  ],
+  "history": {
+    "dynasty": "UNVERIFIED",
+    "period": "Described as one of the oldest temples of Ratlam city; exact founding date not documented in any source found",
+    "summary": "One of the oldest and most famous temples of Ratlam, in the old Manak Chowk / Sarafa market. Its signature tradition is on Diwali: devotees hand over their cash, gold and silver jewellery to decorate the temple for five days, and it is all returned to the contributors afterwards. The main idol is Mata Lakshmi at the centre, with nine swarups of the goddess, and idols of Ganesh and Saraswati. The exact age of the temple is unverified."
+  },
+  "id": "mahalakshmi-temple-ratlam",
+  "latitude": 23.32312,
+  "longitude": 75.03738,
+  "media": [
+    "https://images.nativeplanet.com/te/img/2017/05/cover-15-1494830104.jpg"
+  ],
+  "name": "Mahalakshmi Temple",
+  "sources": [
+    "https://myadhyatm.com/shree-mahalakshmi-temple-ratlammadhya-pradesh/",
+    "https://www.thrillophilia.com/attractions/mahalakshmi-temple",
+    "https://yappe.in/madhya-pradesh/ratlam/mahalaxmi-mandir/61557"
+  ],
+  "state": "Madhya Pradesh",
+  "town": "Ratlam",
+  "town_description": "Ratlam is a city in the Malwa region of northwestern Madhya Pradesh and the headquarters of Ratlam district. It was historically one of central India's first commercial towns, trading in opium, tobacco and salt. Ratlam Junction is a major railway junction, and the city is known for its sweets, sarafa markets, and old temples.",
+  "tradition": "Hinduism (Shaktism)",
+  "travel": {
+    "airport": "Nearest airport is Indore, about 135-140 km away (verify)",
+    "railway": "Ratlam Junction is about 0.8-2.7 km from the temple (sources conflict; verify)",
+    "road": "At Manak Chowk Main Road, Laxman Pura, in the heart of Ratlam's market area; reachable by auto/cab within the city"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October-November (Diwali/Dhanteras) for the famous currency-and-jewellery decoration; otherwise October to March",
+    "opening_hours": "6:00 AM to 11:30 PM (verify)"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "alternate_names": [
+    "Modhera Surya Mandir",
+    "Sun Temple, Modhera"
+  ],
+  "deities": [
+    "Surya (Sun God) — original idol no longer present; sanctum empty, no active worship"
+  ],
+  "district": "Mehsana",
+  "festivals": [
+    "Modhera Dance Festival / Uttarardha Mahotsav (annual cultural festival organised by Gujarat Tourism — not a worship festival)"
+  ],
+  "history": {
+    "dynasty": "Chaulukya (Solanki)",
+    "period": "Shrine proper 1026–1027 CE; sabhamandapa and additions later 11th century",
+    "summary": "CSV town 'Ahmedabad' is wrong: the temple is at the village of Modhera in Becharaji taluka, Mehsana district, about 100 km north of Ahmedabad (corrected; town set to Modhera). Built under Bhima I of the Chaulukya (Solanki) dynasty in the Māru-Gurjara style, on the bank of the Pushpavati river near the Tropic of Cancer. The complex has three axial components: the Surya Kund stepwell (with 108 small shrines), the Sabhamandapa assembly hall (52 intricately carved pillars), and the Gudhamandapa with its sanctum (24 pillars, 12 niches showing Surya for each month). The east-facing sanctum is aligned so the rising sun illuminates it at the equinoxes. An upside-down inscription of Vikram Samvat 1083 (1026–27 CE) on the cella's western wall is interpreted by scholars as the date of Ghaznavid destruction rather than construction. The temple is no longer used for worship and is an ASI Monument of National Importance (N-GJ-158); it was added to UNESCO's tentative World Heritage list in December 2022."
+  },
+  "id": "modhera-sun-temple",
+  "latitude": 23.583806,
+  "longitude": 72.1326861,
+  "media": [
+    "https://vygrnews.com/uploader/modhera-sun-temple-gujarat_1672113617.jpg"
+  ],
+  "name": "Modhera Sun Temple",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Sun_Temple,_Modhera",
+    "https://hiindia.com/gujarat-modhera-sun-temple-marks-1000-years-of-architectural-heritage/"
+  ],
+  "state": "Gujarat",
+  "town": "Modhera",
+  "town_description": "A village in Becharaji taluka of Mehsana district, on the banks of the Pushpavati river about 100 km north of Ahmedabad. Home to the 11th-century Sun Temple, a protected ASI monument celebrated for its solar alignment.",
+  "tradition": "Hinduism (no active worship — ASI-protected monument)",
+  "travel": {
+    "airport": "Sardar Vallabhbhai Patel International Airport, Ahmedabad (~100 km)",
+    "railway": "Mehsana railway station (~25 km)",
+    "road": "From Ahmedabad via Becharaji on the Ahmedabad–Palanpur highway; about a 2-hour drive"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March; January for the Modhera Dance Festival",
+    "opening_hours": "Daylight hours as an ASI monument (typical 6:00 AM to 6:00 PM — verify with ASI)"
+  }
+}

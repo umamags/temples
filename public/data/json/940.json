@@ -1,0 +1,59 @@
+{
+ "alternate_names": [
+  "Solaimalai Murugan Temple",
+  "Arulmigu Solaimalai Murugan Temple",
+  "Pazhamudhir Solai"
+ ],
+ "deities": [
+  "Lord Murugan (Subramanya Swamy — with BOTH consorts Valli and Deivanai; the only Arupadai Veedu where he appears so)",
+  "Stone Vel (divine weapon — originally the sole object of worship)",
+  "Vinayagar (separate shrine)",
+  "Raakayi Amman (at the Noopura Ganga spring)"
+ ],
+ "district": "Madurai",
+ "festivals": [
+  "Panguni Uthiram (March-April)",
+  "Vaikasi Visakam (May-June)",
+  "Skanda Sashti (October)",
+  "Karthigai Deepam and Karthikai Mondays (November-December)",
+  "Tamil New Year (13-14 April)",
+  "Aadi Kirthigai (July-August)"
+ ],
+ "history": {
+  "dynasty": "Ancient (Pandya-era region) — no single founding dynasty documented",
+  "period": "Ancient — mentioned in the Sangam-era Tirumurukarruppatai by Nakkeerar and in Cilappatikaram; hymns by Arunagirinathar (Tiruppugazh)",
+  "summary": "CSV TOWN CORRECTION: 'Madurai' is approximate — the temple stands atop Solaimalai (also called Vrishabhadri/Idabagiri) hill inside the Alagar Hills Reserve Forest, about 3.4 km uphill from Alagar Koyil (seq 939) and ~19-25 km north of Madurai city (coordinates are the hilltop shrine). This is the SIXTH and last of the Arupadai Veedu of Lord Murugan, and the only one where Murugan is worshipped with both consorts, Valli and Deivanai. Legend: the Tamil poet Avvaiyar was tested here by Murugan disguised as a boy, who shook a naaval (rose-apple/black-berry) tree to shower fruits on her — 'pazham' (fruit) + 'udir' (disperse/fall) + 'cholai' (grove) gives the place its name; the sthala-vriksha naaval tree (fruiting unusually in Aippasi, Oct-Nov) is still worshipped. Originally only the Vel was worshipped; shrines to Murugan with consorts and Ganesha were added later. The hilltop Noopura Ganga spring (with a Raakayi Amman shrine) is used for purification dips. Set in dense forest inside the reserve — the temple is modest, with no massive gopuram, integrating with nature. ~25 km by road from the first abode, Thiruparankundram (seq 938). HRCE-administered."
+ },
+ "id": "pazhamudircholai-murugan-temple-madurai",
+ "latitude": 10.094069,
+ "longitude": 78.223445,
+ "media": [
+  "https://www.trawell.in/admin/images/upload/130303851PazhamudhirSolai.jpg"
+ ],
+ "name": "Pazhamudircholai Murugan Temple",
+ "sources": [
+  "https://en.wikipedia.org/wiki/Murugan_Temple,_Pazhamudircholai",
+  "https://arupadai.org/pazhamudircholai-murugan-temple/",
+  "https://casualwalker.com/pazhamudircholai-pazhamudircholai-murugan-temple-madurai/",
+  "https://www.livechennai.com/detailnews.asp?newsid=39613",
+  "https://divineguide.com/temples/pazhamudircholai-murugan-temple"
+ ],
+ "state": "Tamil Nadu",
+ "town": "Alagar Hills R.F. / Solaimalai (CSV town 'Madurai' is approximate — ~19-25 km north of Madurai city, 3.4 km above Alagar Koyil)",
+ "town_description": "The Alagar Hills Reserve Forest northeast of Madurai city in Madurai district — a forested hill range whose Solaimalai peak holds the sixth Arupadai Veedu shrine and the Noopura Ganga spring, reached by a 3.4 km ghat road from Alagar Koyil.",
+ "tradition": "Hinduism (Murugan / Kaumaram) — sixth of the six Arupadai Veedu",
+ "travel": {
+  "airport": "Madurai International Airport — about 40 km (verify).",
+  "railway": "Madurai Junction — about 25 km (verify).",
+  "road": "Shuttle buses run about every 20 minutes from the foot of the hill to the temple (~3.4 km, ~15 min); private vehicles allowed to the temple entrance."
+ },
+ "video": {
+  "audio": "",
+  "script": "",
+  "video_file": ""
+ },
+ "visitor_information": {
+  "best_time": "October to March for pleasant weather (verify).",
+  "opening_hours": "OPENING-HOURS CONFLICT: some listings report 6:00 AM-6:00 PM (worship 6 AM-12 PM and 4 PM-6 PM); others report 5:30 AM-12:30 PM and 4:00 PM-8:00 PM with Palliyarai puja 8:00-9:00 PM (verify locally)."
+ }
+}

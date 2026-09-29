@@ -1,0 +1,63 @@
+{
+  "alternate_names": [
+    "Sri Kateel Durga Parameshwari Temple",
+    "Kateel Devi Temple"
+  ],
+  "deities": [
+    "Durga Parameshwari (Adhishakti)",
+    "Rakteshwari",
+    "Mahaganapathi",
+    "Ayyappan (Shasthara)",
+    "Kshetrapala",
+    "Naga Devata",
+    "Brahma",
+    "Chamundi"
+  ],
+  "district": "Dakshina Kannada",
+  "festivals": [
+    "Annual 8-day festival (April)",
+    "Navaratri/Dussera (10 days)",
+    "Laksha Deepotsava (Kartika Masa)",
+    "Ugadi",
+    "Deepavali",
+    "Makar Sankranti",
+    "Maha Shivaratri"
+  ],
+  "history": {
+    "dynasty": "Traditional - legendary origins; no recorded dynasty",
+    "period": "Legendary (claimed to date to the beginning of Kali Yuga - UNVERIFIED)",
+    "summary": "TOWN CORRECTED: CSV says 'Mangalore'; the temple is in Kateel town, ~25-26 km NE of Mangaluru (PIN 574148), Mangalore Taluk. 'Kateel' derives from 'kati' (centre): the temple stands on an island-like bend, the centre of the sacred Nandini river, and the deity is enshrined as an Udbhava Linga in the middle of the river. Legend: Arunasura, minister of the slain demons Shumbha-Nishumbha, obtained a boon from Brahma making him immune to death by the Trinity, devas, men, women, and two- or four-legged creatures, plus the Gayatri mantra from Saraswati. Devi took the form of Mohini, lured him, and vanished into a rock; when he split the rock with his sword, a swarm of bees emerged - Devi in her furious bee form (Bhramara) - and stung him to death. The goddess had promised the river Nandini (cursed by sage Jabali to flow as a river) to be born as her daughter, purifying her; the Udbhava Linga is that fulfillment. The four-armed Devi is worshipped in Soumya Roopa. The temple runs daily annadana (free meals) and a guest house, and supports Yakshagana troupes. Nelli Theertha (cave of sage Jabali's penance, Neerude village, ~10 km away) is a linked holy site."
+  },
+  "id": "kateel-durga-parameshwari-temple",
+  "latitude": 13.043995,
+  "longitude": 74.870014,
+  "media": [
+    "https://lightup-temples.s3.ap-south-1.amazonaws.com/wp-content/uploads/file78yh7bdaa2sxjq8x1mp-1579713813.jpg"
+  ],
+  "name": "Kateel Durga Parameshwari Temple",
+  "sources": [
+    "http://www.kateeldevi.in/",
+    "https://www.itslife.in/travel/kateel-durga-parameshwari-temple",
+    "https://gfgc.karnataka.gov.in/gfgcudupi/public/uploads/media_to_upload1709192619.pdf",
+    "https://www.trawell.in/karnataka/mangalore/kateel-durga-parameshwari-temple",
+    "https://www.astroved.com/astropedia/en/temples/south-india/kateel-durga-parameshwari-temple"
+  ],
+  "state": "Karnataka",
+  "town": "Kateel",
+  "town_description": "Kateel is a temple town in Dakshina Kannada district, about 25-26 km northeast of Mangaluru city, centred on the island-like bend (kati, 'centre') of the sacred Nandini river. Its identity is dominated by the Durga Parameshwari temple on the river, which also supports Yakshagana art, daily free meals, and local educational institutions. The town lies near Permude on SH 66A, reached by road from Mangaluru or Udupi.",
+  "tradition": "Hinduism (Shaktism)",
+  "travel": {
+    "airport": "Mangalore International Airport (~10 km straight-line; road ~15 km, verify)",
+    "railway": "Nearest: Surathkal or Mangaluru Junction; temple ~20 km straight-line from Mangaluru Central (verify)",
+    "road": "Temple Rd, Kateel 574148; ~25-26 km from Mangaluru city centre via Permude/SH 66A; well connected by road and ~45 km from Udupi"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October-March; April annual festival is the major event",
+    "opening_hours": "CONFLICT (verify): 6:30 AM-8:30 PM (trawell.in, praveenmusafir) vs 6:30 AM-10:00 PM (itslife.in) vs 6:00 AM-9:30 PM (Karnataka Govt historical study)"
+  }
+}

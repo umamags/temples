@@ -1,0 +1,48 @@
+{
+  "alternate_names": [
+    "Banashankari Devi Temple, Amargol"
+  ],
+  "deities": [
+    "Banashankari (a form of Parvati)",
+    "Shiva"
+  ],
+  "district": "Dharwad",
+  "festivals": [
+    "Shivaratri"
+  ],
+  "history": {
+    "dynasty": "Later Chalukyas",
+    "period": "12th-13th century",
+    "summary": "Ancient dvikuta (two-shrine) temple at Amargol village, on the Hubli-Dharwad route, dedicated to goddess Banashankari (Vana Shankari, 'goddess of the forest', a form of Parvati said to have slain the demon Durgamasura) and to Shiva as a linga. One shrine carries a stepped-diamond Nagara vimana, the other a Dravida vimana; the navaranga pillars are carved with Shiva, Parvati, Vishnu, Narasimha, Ganapati, Brahma and other deities. It is a protected monument of the Archaeological Survey of India, with restoration underway. NOTE: this is NOT the famous Banashankari temple at Badami (Bagalkot district, ~130 km away); the CSV's 'Hubli' is approximate - the temple stands in Amargol village, ~9 km from Hubli Junction. Sources date it to the 12th or 13th century. Coordinates below are village-level and approximate."
+  },
+  "id": "banashankari-temple-amargol",
+  "latitude": 15.39723,
+  "longitude": 75.0908,
+  "media": [
+    "https://www.asidharwadcircle.in/wp-content/uploads/2018/10/ASI_5849.jpg"
+  ],
+  "name": "Banashankari Temple, Amargol",
+  "sources": [
+    "https://www.trawell.in/karnataka/hubli/banashankari-temple",
+    "https://www.ishtadevata.com/temple/banashankari-temple-amargol-dharwad-2/",
+    "https://www.teamgsquare.com/2012/06/banashankari-temple-amargol-hubli.html?m=1"
+  ],
+  "state": "Karnataka",
+  "town": "Amargol",
+  "town_description": "Amargol is a village on the Hubli-Dharwad highway, about 9 km from Hubli city. It is best known for its 12th-13th century Chalukyan Banashankari temple, a protected ASI monument.",
+  "tradition": "Shakta-Shaiva (Hindu)",
+  "travel": {
+    "airport": "Hubballi Airport (HBX), ~12 km",
+    "railway": "Hubli Junction (UBL), ~9 km",
+    "road": "On the Hubli-Dharwad highway/BRTS corridor; village road off the highway"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to February",
+    "opening_hours": "8:00 AM - 6:00 PM (verify on festival days)"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "alternate_names": [
+    "Durga Baadi",
+    "Durga Bari",
+    "Durga Badi Durga Puja Samiti"
+  ],
+  "deities": [
+    "Goddess Durga (principal deity)",
+    "Maa Kali (sub-shrine)",
+    "Lord Shiva (sub-shrine)",
+    "Lord Ganesha (sub-shrine)",
+    "Radha-Krishna (sub-shrine)"
+  ],
+  "district": "Ranchi",
+  "festivals": [
+    "Durga Puja (Sharad Navratri)",
+    "Kali Puja",
+    "Diwali"
+  ],
+  "history": {
+    "dynasty": "Not documented; no dynastic attribution found",
+    "period": "Present-day structure modern; traditional Durga Puja here said to be over a century old per local accounts (verify)",
+    "summary": "Durga Badi, beside the Firayalal building at Albert Ekka Chowk in the heart of Ranchi, is one of the city's oldest and most traditional Durga Puja sites — reviewers describe a ritual, traditional Bengali-style Durga Puja conducted here for more than 100 years, with the idol, prasad and traditions unchanged across generations (local claim, verify). It functions as a temple complex with sub-shrines of Kali, Shiva, Ganesh and Radha-Krishna, and draws devotees of all communities. The idol is taken out on devotees' shoulders for immersion at Bada Talaab. No published history of the temple's founding or construction date could be found; only the living Durga Puja tradition is documented."
+  },
+  "id": "durga-badi-ranchi",
+  "latitude": 23.37047,
+  "longitude": 85.32467,
+  "media": [],
+  "name": "Durga Badi",
+  "sources": [
+    "https://in.worldorgs.com/catalog/ranchi/hindu-temple/durga-baadi",
+    "https://reporterpost.in/article/jharkhand/13871/durga-puja-concludes-as-devotees-bid-adieu-to-goddess-with-prayers-to-wipe-out-coronavirus",
+    "https://mapcarta.com/W287433025"
+  ],
+  "state": "Jharkhand",
+  "town": "Ranchi",
+  "town_description": "Ranchi is the capital and largest city of Jharkhand, set on the Chota Nagpur Plateau. Known as the 'City of Waterfalls', it grew from a summer retreat of the Bengal administration into a major industrial and administrative centre.",
+  "tradition": "Shaktism",
+  "travel": {
+    "airport": "Birsa Munda Airport, Ranchi — about 7 km south of the city centre",
+    "railway": "Ranchi Junction — about 2.5 km southeast of the temple",
+    "road": "Central Ranchi location beside Firayalal/Albert Ekka Chowk; easily reached by city bus, auto-rickshaw and taxi"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October-November during Durga Puja; October-February for pleasant weather",
+    "opening_hours": "Not published; typically open daily for morning and evening worship (verify)"
+  }
+}

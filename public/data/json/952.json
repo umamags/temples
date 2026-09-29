@@ -1,0 +1,56 @@
+{
+  "alternate_names": [
+    "Avinasilingeshwarar Temple",
+    "Avinasiappar Temple",
+    "Tiruppukkozhiyur Temple",
+    "Karunaiyaaththaal Temple"
+  ],
+  "deities": [
+    "Lord Shiva as Avinashiappar (Avinasilingeshwarar; Swayambhu lingam)",
+    "Goddess Parvati as Karunambigai (Karunaiyaaththaal; her sanctum stands to the right of the main shrine, unusual for Shiva temples)"
+  ],
+  "district": "Tiruppur",
+  "festivals": [
+    "Annual Brahmotsavam / Car Festival — CONFLICT: templenet places it in Chittirai (April-May, ~11 days, chariot said to rival Tiruvarur's); Wikipedia says the Brahmotsavam falls on Magam day (February-March) — verify before visiting",
+    "Mudalai Vaai Pillai Utsavam on Panguni Uththiram (commemorates Sundarar's miracle of reviving the boy swallowed by a crocodile in the Tamaraikkulam)",
+    "The Pathiri tree (Sthala Vruksham) is said to blossom only during the Brahmotsavam"
+  ],
+  "history": {
+    "dynasty": "Cholas, Kongu Cholas, Pandyas, Hoysalas, Vijayanagara and Nayaks (successive endowments per inscriptions); present masonry structure Nayak-era (16th century)",
+    "period": "Sung by the Nayanars (7th century Tevaram - a Paadal Petra Sthalam); inscriptions range from the 12th to the 18th centuries (Chola donations, Vijayanagara renovations, an 18th-century Mysore-era renovation)",
+    "summary": "CSV TOWN FLAG: the CSV lists the town as Tiruppur, but the temple stands in AVINASHI town, ~12-15 km east of Tiruppur on the Coimbatore-Erode road (the district, Tiruppur, is correct). Documented with the corrected town. The Avinashiappar Temple - 'the Lord who is indestructible' - is the first of the seven Tevara Stalams of Kongu Nadu and was known in inscriptions as Tiruppukkozhiyur and Dakshina Varanasi (Southern Varanasi). Its defining legend is Saint Sundarar's miracle at the Tamaraikkulam tank: he prayed a Pathigam and a crocodile returned a boy it had swallowed three years earlier, grown to the age of seven - the event is carved in the temple and re-enacted yearly as the Mudalai Vaai Pillai Utsavam. Tirumular's Tirumantiram, Arunagirinathar's Tiruppugazh and Manikkavacakar's Tiruvacakam also praise the shrine. The 7-tier rajagopuram stands over 100 ft tall; the Navaranga Mandapam holds 6-ft sculptures of Alangattu Kali and Urdhava Thandava Murthy, and the 30-pillar hall before the deepastambam was built by a Mysore king (Udayar) in 1756. The temple is a protected monument of the Archaeological Survey of India and is administered by the HRCE Department of Tamil Nadu."
+  },
+  "id": "avinashiappar-temple-avinashi",
+  "latitude": 11.1882,
+  "longitude": 77.2685,
+  "media": [
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisDuiTCj8xh0kWvdOEx00-OBj0OJUqmhpxwm-ZjU3t0AnV1COOMTCsxxZaUzqoqqhKu8oG8aqOm2cYlLQpvzI0GCW_Q7yMGV4Rz5M9zLTJ3dyXh0YRG0ALhhS7C-e22bWKj3f-ZT-L3DA5/s640/7.JPG"
+  ],
+  "name": "Avinashiappar Temple",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Avinasilingeshwarar_Temple_(Tiruppukkozhiyur)",
+    "https://en.wikipedia.org/wiki/Avinashi",
+    "http://www.templenet.com/Tamilnadu/s012.html",
+    "https://aanmeegam.org/en/temples/avinashi-lingeshwarar-avinashiappar/",
+    "https://gosthala.com/avinasiappar-temple-a-paadal-petra-sthalam-in-kongu-naadu/",
+    "http://www.lightuptemples.com/en/avinashi-sri-karunaiyaaththaalavinasiappar-temple-tiruppur/"
+  ],
+  "state": "Tamil Nadu",
+  "town": "Avinashi",
+  "town_description": "Avinashi is a panchayat town in Tiruppur district on the arterial Coimbatore-Erode road, effectively a suburb of Tiruppur. Part of the ancient Kongunadu region, it was known as Thirupukkoliyur in the Sangam era and counts among the seven Shivastalams of Kongu Nadu. Its defining landmark is the Avinashiappar Shiva temple; the town has no railway station of its own and relies on Tiruppur (~12 km) for rail links and Coimbatore (~32 km) for air links.",
+  "tradition": "Shaivism",
+  "travel": {
+    "airport": "Coimbatore International Airport, about 32 km from Avinashi (taxis available).",
+    "railway": "Tiruppur railway station, about 12 km (no rail line serves Avinashi itself).",
+    "road": "On the Coimbatore-Erode main road; the temple is about 200 m from the Avinashi old bus stand, served by state and private buses."
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March. The Brahmotsavam car festival (Chittirai, April-May) is the grandest time but very crowded.",
+    "opening_hours": "6:00 AM to 1:00 PM and 4:30 PM to 8:30 PM (per aanmeegam.org); six daily poojas run from 5:00 AM to 8:00 PM."
+  }
+}

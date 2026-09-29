@@ -1,0 +1,57 @@
+{
+  "alternate_names": [
+    "Sai Mandir Dehradun",
+    "Sai Baba Mandir (Rajpur Road)",
+    "Sai Baba Devasthanam"
+  ],
+  "deities": [
+    "Shirdi Sai Baba",
+    "Shiva",
+    "Durga",
+    "Kali",
+    "Hanuman"
+  ],
+  "district": "Dehradun",
+  "festivals": [
+    "Guru Purnima",
+    "Sai Baba Punyatithi"
+  ],
+  "history": {
+    "dynasty": "None (modern construction)",
+    "period": "Modern; founding date not established from sources (flag)",
+    "summary": "A modern white-marble shrine on Rajpur Road in Dehradun, about 10 km from Dehradun Railway Station, dedicated to Shirdi Sai Baba. A life-like stone statue of Sai Baba stands at the centre of the temple, whose interiors are decorated with colourful glass paintings; idols of Shiva, Durga, Kali and Hanuman are also housed in the complex. There is a large hall where aarti and prayers are held every evening. The temple is open to devotees of all castes, creeds and religions, and sees its largest crowds on Thursdays (Sai Baba's day), when bhandara is served. FLAG: no source gives the temple's founding year or history (verify); opening hours conflict across sources (temple's own site: 4:00 AM-9:00 PM; trawell: 9 AM-12 PM and 5-9:30 PM; travelsetu: 5:00 AM-10:00 PM) (verify)."
+  },
+  "id": "sai-darbar-temple-dehradun",
+  "latitude": 30.37984,
+  "longitude": 78.08736,
+  "media": [
+    "https://lh5.googleusercontent.com/p/AF1QipPLJj1sNTfDev68auuk-Et02igI1GpQeNjg7viy=w300-k-no"
+  ],
+  "name": "Sai Darbar Temple",
+  "sources": [
+    "https://travelsetu.com/guide/sai-darbar-temple-tourism",
+    "https://www.trawell.in/uttarakhand/dehradun/sai-darbar-temple-sai-mandir",
+    "https://www.holidify.com/places/dehradun/sai-mandir-dehradun-sightseeing-1263586.html",
+    "https://bugyalvalley.com/sai-darbar-temple/?amp=1",
+    "https://www.dooncircle.com/sai-mandir-dehradun/",
+    "https://saibabamandirdehradun.com/"
+  ],
+  "state": "Uttarakhand",
+  "town": "Dehradun",
+  "town_description": "Dehradun is the capital city of Uttarakhand, set in the Doon Valley at the foothills of the Himalayas. Known as the 'School Capital of India' with institutions like The Doon School and the Forest Research Institute, it is also the gateway to the hill station of Mussoorie and a base for Char Dham pilgrims.",
+  "tradition": "Sai Baba (syncretic Hindu)",
+  "travel": {
+    "airport": "Jolly Grant Airport, Dehradun (approx. 36 km)",
+    "railway": "Dehradun Railway Station (approx. 10 km)",
+    "road": "Rajpur Road, about 9 km from Clock Tower; city buses and shared vikrams run to Rajpur"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March; Thursdays for the Sai Baba aarti and bhandara",
+    "opening_hours": "Sources conflict: 4:00 AM-9:00 PM (temple's own site) vs 9:00 AM-12:00 PM and 5:00-9:30 PM (trawell) vs 5:00 AM-10:00 PM (travelsetu) - verify"
+  }
+}

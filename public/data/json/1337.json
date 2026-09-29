@@ -1,0 +1,48 @@
+{
+  "alternate_names": [
+    "Mahabodhi Mahavihara"
+  ],
+  "deities": [
+    "Buddha (gilded statue in Bhumisparsha Mudra)"
+  ],
+  "district": "Gaya",
+  "festivals": [
+    "Buddha Purnima"
+  ],
+  "history": {
+    "dynasty": "Mauryan (original shrine by Ashoka, 3rd c BCE); present brick structure Gupta, 5th-6th c CE",
+    "period": "3rd century BCE (original); current temple c. 5th-6th century CE",
+    "summary": "THIS IS A BUDDHIST TEMPLE, NOT A HINDU TEMPLE - keep-or-drop decision needed. The Mahabodhi Temple marks the site where Siddhartha Gautama attained enlightenment under the Bodhi tree, one of Buddhism's four holiest places. Emperor Ashoka built the first shrine here in the 3rd century BCE and set up the Vajrasana (diamond throne); the present ~55-metre brick tower dates to the late Gupta period (5th-6th c CE), making it one of India's oldest surviving brick temples and a model for Buddhist architecture across Asia. The complex includes the descendant of the original Bodhi tree, stupas and shrines; it was restored in the 19th century and inscribed as a UNESCO World Heritage Site in 2002. CSV town corrected: actual town is Bodh Gaya (~16 km from Gaya)."
+  },
+  "id": "mahabodhi-temple",
+  "latitude": 24.69593,
+  "longitude": 84.99139,
+  "media": [
+    "https://tourism.bihar.gov.in/content/dam/bihar-tourism/images/category_a/gaya/mahabodhi_temple/13.-Mahabodhi-Temple_Bodh-Gaya.jpg/jcr:content/renditions/cq5dam.web.1280.765.webp"
+  ],
+  "name": "Mahabodhi Temple",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Mahabodhi_Temple",
+    "https://mad-traveller.com/famous-places/mahabodhi-temple-complex-at-bodh-gaya/",
+    "https://cultureandheritage.org/mahabodhi-temple-complex-at-bodh-gaya-sacred-site-of-buddhas-enlightenment",
+    "https://exploreoffbeat.com/the-indian-temples/mahabodhi-temple-bodh-gaya-bihar-history-travel-guide-enlightenment-significance"
+  ],
+  "state": "Bihar",
+  "town": "Bodh Gaya",
+  "town_description": "Bodh Gaya is a small pilgrimage town in Gaya district of Bihar, about 16 km south of Gaya city. It is the holiest site in Buddhism as the place of the Buddha's enlightenment, ringed by monasteries and temples built by Buddhist communities from around the world. The town lives on pilgrimage tourism and is compact and walkable.",
+  "tradition": "Buddhism",
+  "travel": {
+    "airport": "Gaya International Airport, ~12 km (verify); Patna airport, ~110 km",
+    "railway": "Gaya Junction, ~15-16 km",
+    "road": "On NH-83, ~12 km from Gaya and ~110 km from Patna; well served by buses and taxis"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March; Buddha Purnima (April-May) is the main festival",
+    "opening_hours": "5:00 AM - 9:00 PM daily (verify); security checks at entry, modest dress required"
+  }
+}

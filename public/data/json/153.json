@@ -1,0 +1,43 @@
+{
+  "alternate_names": [],
+  "deities": [
+    "Vishnu"
+  ],
+  "district": "Purnia",
+  "festivals": [
+    "Janmashtami",
+    "Diwali"
+  ],
+  "history": {
+    "dynasty": "Unknown",
+    "period": "Unknown",
+    "summary": "IDENTITY UNCONFIRMED - placeholder file. No temple named 'Vishnu Mandir' is documented in Purnia city; web and directory results show Vishnu Mandirs only in surrounding areas (Supaul, Forbesganj, Katihar/Barsoi, Sameli), all 20+ km away and none matching this row. Coordinates are approximate - Purnia town centre, not a temple location. Keep-or-drop / rename decision needed."
+  },
+  "id": "vishnu-mandir-purnia",
+  "latitude": 25.77687,
+  "longitude": 87.47435,
+  "media": [],
+  "name": "Vishnu Mandir",
+  "sources": [
+    "https://www.justdial.com/Purnia/Temples/nct-10475644",
+    "https://vimarsana.com/ampreview/vishnu-mandir-katihar-bihar"
+  ],
+  "state": "Bihar",
+  "town": "Purnia",
+  "town_description": "Purnia (also Purnea) is a city in northeastern Bihar and the headquarters of Purnia district and division. An educational and commercial hub of the Seemanchal-Kosi region, it is nicknamed 'Mini Darjeeling' and takes its name from goddess Puran Devi (Puran Aranya).",
+  "tradition": "Vaishnavism",
+  "travel": {
+    "airport": "Nearest commercial airport: Bagdogra (IXB), about 160-170 km by road; Purnia's own airport is under development.",
+    "railway": "Purnea Junction, a major railhead on the Katihar-Samastipur section, lies within the city.",
+    "road": "NH 27 and NH 31 pass through Purnia; well connected by bus, auto-rickshaw and taxi."
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October-March",
+    "opening_hours": "Unknown - verify locally."
+  }
+}

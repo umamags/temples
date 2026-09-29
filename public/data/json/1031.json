@@ -1,0 +1,49 @@
+{
+  "alternate_names": [
+    "Shib Kali Mandir",
+    "Radhapur Shib Kali Mandir"
+  ],
+  "deities": [
+    "Kali",
+    "Shiva"
+  ],
+  "district": "North Tripura",
+  "festivals": [
+    "Kali Puja",
+    "Shivratri (both documented at the Radhapur shrine)"
+  ],
+  "history": {
+    "dynasty": "None documented",
+    "period": "Unknown (no published history found)",
+    "summary": "IDENTITY FLAG - generic CSV name with multiple candidates. Best-supported referent in Dharmanagar: the Radhapur Shib Kali Mandir at Radhapur, Dharmanagar-799253, North Tripura (Justdial: 27 ratings, 3.9) - a sacred Hindu temple dedicated to Lord Shiva and Goddess Kali celebrating Shivratri and Kali Puja with community participation. ALTERNATIVE CANDIDATE: the Kameshwar Kali temple in Dharmanagar - listed by shaivam.org ('Dharmanagar - Kameshwar temple') and reported by Tripura Times (Sept 2025) as looted twice within a week, which marks it as a known Dharmanagar Kali shrine. The CSV gives no locality beyond 'Dharmanagar', so it cannot be established which of these (or another neighbourhood Kali Mandir) the row intends. Coordinates are those published for the Radhapur Shib Kali Mandir - verify. CSV town (Dharmanagar) and state (Tripura) are correct; district recorded as North Tripura. Media: no reliably identified photograph of this specific shrine was found - media left empty."
+  },
+  "id": "radhapur-shib-kali-mandir-dharmanagar",
+  "latitude": 24.3634,
+  "longitude": 92.15999,
+  "media": [],
+  "name": "Kali Mandir",
+  "sources": [
+    "https://vimarsana.com/review/radhapur-shib-kali-mandir-north-tripura",
+    "https://www.justdial.com/Dharmanagar/Radhapur-Shib-Kali-Mandir-Radhapur/9999P3822-3822-251014161434-R8E4_BZDET/reviews",
+    "https://tripuratimes.com/ttimes/kali-temple-looted-twice-in-week-in-north-tripura-28053.html",
+    "https://shaivam.org/temples-of-lord-shiva/tripura-lord-shiva-temples/"
+  ],
+  "state": "Tripura",
+  "town": "Dharmanagar",
+  "town_description": "Dharmanagar is the second-largest town in Tripura and the headquarters of North Tripura district, on NH 8 near the Assam border - a commercial and cultural hub of the northern part of the state.",
+  "tradition": "Shaktism (Kali-Shiva worship)",
+  "travel": {
+    "airport": "Maharaja Bir Bikram Airport, Agartala (~175 km by road - verify); Silchar Airport, Assam (~145 km - verify).",
+    "railway": "Dharmanagar Railway Station (on the Lumding-Sabroom broad-gauge section - verify) connects north to Silchar/Guwahati and south to Agartala.",
+    "road": "Dharmanagar lies on NH 8, with regular bus and shared-vehicle connections to Agartala (~175 km), Kailashahar, and Karimganj (Assam)."
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March; Kali Puja (Diwali) for the main festival.",
+    "opening_hours": "Reported as open all days, roughly 9:30 AM - 8:30 PM (verify before visiting)."
+  }
+}

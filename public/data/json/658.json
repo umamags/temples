@@ -1,0 +1,51 @@
+{
+  "alternate_names": [
+    "Kaina Govindajee Mandir",
+    "Kaina Govindaji Temple",
+    "Sacred Jackfruit Tree site, Kaina Hill"
+  ],
+  "deities": [
+    "Shri Govindajee (Krishna)"
+  ],
+  "district": "Imphal East",
+  "festivals": [
+    "Ras Lila at the mandapa of the temple complex (per Wikipedia - verify current observance)"
+  ],
+  "history": {
+    "dynasty": "18th-century Manipur kingdom under Rajarshi Bhagya Chandra (Jai Singh Maharaja)",
+    "period": "18th century (legendary origin); present structures later",
+    "summary": "IMPORTANT CSV CORRECTION: Kaina is not in Chandel district - the Kaina Temple complex sits on Kaina Hill (also called Bhashmukh Parbat, formerly Lakhai Phandong Ching), a 921 m hillock about 29 km from Imphal on the Imphal-Yariripok road, near Keirao Bitra/Yairipok in Imphal East district (one source, apnisanskriti.com, labels it Thoubal - district attribution conflict; Imphal East is better supported: the ownership order for the Kaina Govindajee Mandir was issued by the deputy commissioner of Imphal East). Kaina is sacred to Manipuri Hindus through the legend that Lord Krishna appeared in the dream of Rajarshi Bhagya Chandra (Jai Singh Maharaja, 18th century) and ordered him to carve His images from the jackfruit tree growing here; seven Krishna images were carved from that tree and installed in temples across Manipur and Assam, including the Shri Govindajee Temple at Imphal. The site - known as the Sacred Jackfruit Tree / Kaina temple complex - is being developed as a major tourist complex by the Manipur government (announced 2014). The Kaina Development and Protection Organisation has publicly disputed the temple's ownership order, so management status should be treated as contested (verify)."
+  },
+  "id": "kaina-govindajee-temple-keirao-bitra",
+  "latitude": 24.68117,
+  "longitude": 94.01528,
+  "media": [
+    "https://airial.travel/_next/image?url=https%3A%2F%2Fcoinventmediastorage.blob.core.windows.net%2Fmedia-storage-container%2Fgphoto_ChIJ5TZtmhQzSTcRosEdhFwHm7M_0.jpg&w=2048&q=75"
+  ],
+  "name": "Kaina Temple",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Sacred_Jackfruit_Tree",
+    "https://en.wikipedia.org/wiki/Kaina_(Manipur)",
+    "https://www.apnisanskriti.com/temple/sacred-jackfruit-tree-kaina-hill-thoubal-manipur-3981",
+    "https://www.incredible-northeastindia.com/manipur/kaina.html",
+    "https://www.manipur.org/news/2018/08/30/kdpo-urges-for-change-of-ownership-of-kaina-temple/"
+  ],
+  "state": "Manipur",
+  "town": "Kaina (Keirao Bitra area)",
+  "town_description": "Kaina is a small sacred hillock on the Imphal-Yariripok road, about 29 km east of Imphal near the Keirao Bitra/Yairipok area. Rising to 921 m, it was once the royal orchard (Lakhai Phandong Ching) and is now a Hindu pilgrimage spot centred on the legendary jackfruit tree from which Krishna images were carved, with the state developing it as a tourist complex.",
+  "tradition": "Vaishnavism (Meitei Hindu)",
+  "travel": {
+    "airport": "Bir Tikendrajit International Airport, Imphal (approx. 35-40 km by road; verify).",
+    "railway": "Manipur's only broad-gauge railhead is Jiribam railway station (verify distance); most visitors arrive via Imphal by road.",
+    "road": "About 29 km from Imphal on the Imphal-Yariripok road; reachable by taxi from Imphal (verify current road conditions)."
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March (dry, pleasant season).",
+    "opening_hours": "Not published (verify - small hill shrine; typically open during daylight hours; confirm locally). No entry fee expected."
+  }
+}

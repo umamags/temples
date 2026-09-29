@@ -1,0 +1,56 @@
+{
+ "alternate_names": [
+  "Srisailam Temple",
+  "Mallikarjuna Swamy Temple",
+  "Sri Bhramaramba Mallikarjuna Temple",
+  "Mallanna Temple"
+ ],
+ "deities": [
+  "Mallikarjuna (Shiva, presiding Jyotirlinga)",
+  "Bhramaramba (Parvati, Shakti Peetha consort)"
+ ],
+ "district": "Nandyal",
+ "festivals": [
+  "Maha Shivaratri (main annual festival)",
+  "Navaratri (9 days for Bhramaramba Devi)",
+  "Karthika Masam (November)",
+  "Srisailam Brahmotsavam"
+ ],
+ "history": {
+  "dynasty": "Ancient origins attributed to the Satavahana period (c. 2nd century CE, inscriptional references); patronage by the Chalukyas, Kakatiyas and Reddy kings; major expansion under the Vijayanagara Empire (14th-16th century)",
+  "period": "Ancient origins; earliest surviving epigraph dated 1313 CE (Kakatiya king Prataparudra, recording earlier gifts); present structures largely Vijayanagara-era",
+  "summary": "The Sri Bhramaramba Mallikarjuna Swamy Temple at Srisailam is one of the twelve Jyotirlingas of Shiva and simultaneously a major Shakti Peetha (Bhramaramba), the rare shrine where both are worshipped together. Tradition says Shiva and Parvati stayed here to console their son Kartikeya, and that the linga was worshipped with jasmine (mallika), giving the name Mallikarjuna. The shrine is referenced in the Skanda Purana and sits on the banks of the Krishna river in the Nallamala Hills. Managed by the Srisaila Devasthanam. NOTE: this CSV row (1235) duplicates seq 36 ('Srisailam Mallikarjuna Temple', id srisailam-mallikarjuna-temple) - the same temple complex; dedup decision needed."
+ },
+ "id": "sri-bhramaramba-mallikarjuna-swamy-temple-srisailam",
+ "latitude": 16.07394,
+ "longitude": 78.86863,
+ "media": [
+  "https://lightuptemples.com/wp-content/uploads/temple/profile_image/temp-0515.jpg"
+ ],
+ "name": "Sri Bhramaramba Mallikarjuna Swamy Temple",
+ "sources": [
+  "https://en.wikipedia.org/wiki/Mallikarjuna_Temple,_Srisailam",
+  "https://www.srisailadevasthanam.org/",
+  "https://exploreoffbeat.com/the-indian-temples/mallikarjuna-temple-srisailam-blog-history-significance-travel-guide-trek-experience",
+  "https://sanatandharmaa.com/srisailam-mallikarjuna-temple/",
+  "https://www.triphobo.com/places/srisailam-india/mallikarjuna-swamy-temple"
+ ],
+ "state": "Andhra Pradesh",
+ "town": "Srisailam",
+ "town_description": "Srisailam is a temple town in Andhra Pradesh's Nandyal district, perched on a plateau of the Nallamala Hills on the banks of the Krishna river. It grew up around the Mallikarjuna Jyotirlinga shrine and functions almost entirely as a pilgrim centre, with the Srisaila Devasthanam's choultries, Haritha resorts and markets serving visitors. Nearby attractions include the Srisailam Dam and Pathala Ganga on the Krishna, making the town a blend of intense religiosity and hill scenery.",
+ "tradition": "Shaivism (with Shaktism - Bhramaramba Shakti Peetha)",
+ "travel": {
+  "airport": "Rajiv Gandhi International Airport, Hyderabad (approx. 195-220 km; taxis and buses available).",
+  "railway": "Markapur Road (approx. 87 km), the nearest railhead; Kurnool and Nandyal are alternatives, with cabs and buses onward.",
+  "road": "Well connected by road via NH765; APSRTC buses run from Hyderabad (approx. 215 km) and Kurnool (approx. 180 km). Private taxis available."
+ },
+ "video": {
+  "audio": "",
+  "script": "",
+  "video_file": ""
+ },
+ "visitor_information": {
+  "best_time": "October to February for pleasant weather. Maha Shivaratri (February-March) and Navaratri are the grandest festival periods but very crowded.",
+  "opening_hours": "Broadly 4:30 AM to 10:00 PM daily with an afternoon break (verify - detailed seva-wise schedule varies; free darshan, special darshan and sparsha darshan tickets are booked online at srisailadevasthanam.org)."
+ }
+}

@@ -1,0 +1,50 @@
+{
+  "alternate_names": [
+    "Bhoramdev Temple",
+    "Khajuraho of Chhattisgarh"
+  ],
+  "deities": [
+    "Shiva (as Bhoramdeo, linga form)"
+  ],
+  "district": "Kabirdham",
+  "festivals": [
+    "Mahashivratri",
+    "Bhoramdeo Mahotsav (last week of March, reported)"
+  ],
+  "history": {
+    "dynasty": "Naga/Nagavanshi (Fani Nagavanshi) kings of Dakshina Kosala; some sources also credit Kalachuri-period patronage",
+    "period": "7th-11th century CE; main stone temple dated 11th century (inscriptions of 1088 and 1098 CE name Naga king Gopaladeva)",
+    "summary": "Group of four stone temples (main Bhoramdeo temple plus Cherki, Madwa Mahal and an earlier brick shrine) in Chouragaon village, ~18 km from Kawardha, set in the Bhoramdev Wildlife Sanctuary in the Maikal hills. Built in Nagara style with profuse erotic and deity carvings, it is called the 'Khajuraho of Chhattisgarh'. Gond tribals worshipped Shiva here as Bhoramdeo, giving the temple its name. The complex is ASI-protected; structural cracks were reported in 2017 with conservation work ongoing. CSV TOWN ERROR: the famous Bhoramdeo Temple is at Kawardha (Kabirdham district), not Durg. Date ranges conflict across sources (7th-11th c. vs 11th c. only); dynasty attribution is predominantly Nagavanshi with some sources citing the Kalachuris."
+  },
+  "id": "bhoramdeo-temple-kawardha",
+  "latitude": 22.11521,
+  "longitude": 81.14813,
+  "media": [
+    "https://www.nationsonline.org/gallery/India/Bhoramdeo-Temple-Kawardha.jpg"
+  ],
+  "name": "Bhoramdeo Temple",
+  "sources": [
+    "https://grokipedia.com/page/Bhoramdeo_Temple",
+    "https://www.rvatemples.com/listings/bhoramdeo-temple/",
+    "https://www.outlooktraveller.com/destinations/india/did-you-know-this-temple-is-known-as-the-khajuraho-of-chhattisgarh",
+    "https://velpu.com//temple/BHORAMDEV-TEMPLE-COMPLEX/MTU0OQ=="
+  ],
+  "state": "Chhattisgarh",
+  "town": "Kawardha",
+  "town_description": "Kawardha is the headquarters of Kabirdham district and the historic capital of a former princely state, known for the Kawardha Palace. It lies ~18 km from the Bhoramdeo temple complex at the edge of the Maikal hill forests.",
+  "tradition": "Shaivism (Hinduism; tantric influences noted by historians)",
+  "travel": {
+    "airport": "Swami Vivekananda Airport, Raipur (~125-134 km)",
+    "railway": "Raipur Junction (~130 km, on the Howrah-Mumbai main line); Kawardha has only limited rail connectivity",
+    "road": "Well connected by road: ~18 km from Kawardha; Kawardha is ~116 km from Raipur, ~133 km from Rajnandgaon and ~220 km from Jabalpur (reported distances vary slightly)"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March (avoids the plains' intense summer heat); also the Bhoramdeo Mahotsav in the last week of March",
+    "opening_hours": "Reported as 6:00 AM - 7:00 PM (velpu.com) but sources conflict: one lists 6:00 AM - 1:00 PM, another 'open all day'. Verify locally before visiting."
+  }
+}

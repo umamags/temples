@@ -1,0 +1,49 @@
+{
+  "alternate_names": [
+    "Langja Presbyterian Church, Mawshynrut (verify; map-listing coordinates adopted)"
+  ],
+  "deities": [
+    "Jesus Christ (worshipped as Lord and Saviour)",
+    "God the Father and the Holy Spirit (Trinitarian Christian worship)"
+  ],
+  "district": "Eastern West Khasi Hills (verify — Mawshynrut was West Khasi Hills before the 2021 district split; sources vary)",
+  "festivals": [
+    "Christmas",
+    "Good Friday",
+    "Easter Sunday",
+    "Palm Sunday",
+    "Sunday worship services (Presbyterian)"
+  ],
+  "history": {
+    "dynasty": "Presbyterian Church of India (origin: Welsh Calvinistic Methodist mission, 1841)",
+    "period": "Modern (founding date not published; verify)",
+    "summary": "NOT A HINDU TEMPLE — keep-or-drop decision needed. This is a Presbyterian church at Langja village near Mawshynrut in the Khasi Hills, not a Hindu temple. The best-supported referent is the 'Langja Presbyterian Church' place listing at Mawshynrut, Meghalaya (approx. 25.727776, 91.175715), corroborated by local video of a Langja Presbyterian Church youth-week event identifying Langja as a village of West Khasi Hills district. The church belongs to the Presbyterian Church of India tradition, which began with Welsh missionaries Rev. Thomas Jones and party arriving at Sohra (Cherrapunji) in June 1841; the first Khasi converts were baptised in March 1846, and the first presbytery was formed in the Khasi Hills in 1867. CSV town 'Nongstoin' is only approximate: Nongstoin is the district headquarters town; the church's actual locality is Langja in the Mawshynrut area, roughly 40-50 km north-east of Nongstoin (verify). Identity caveat: do not confuse with Nonglang Presbyterian Church (a different village church in the Mawshynrut/Mawkyrwat area, listed at approx. 25.68643, 91.18155); 'Langja' and 'Nonglang' are distinct villages. No founding history, congregation size, or service timings are published online (verify)."
+  },
+  "id": "langja-presbyterian-church-mawshynrut",
+  "latitude": 25.727776,
+  "longitude": 91.175715,
+  "media": [],
+  "name": "Langja Presbyterian Church",
+  "sources": [
+    "https://www.youtube.com/shorts/7-b2JLAGiq8",
+    "https://www.justdial.com/West-Khasi-Hills/Churches/nct-10099288?undefined=&redirect=301"
+  ],
+  "state": "Meghalaya",
+  "town": "Langja (near Mawshynrut)",
+  "town_description": "Langja is a village in the Mawshynrut area of the Khasi Hills, Meghalaya (West/Eastern West Khasi Hills district — the 2021 split is inconsistently reflected in sources). It is a rural Khasi village with limited published visitor information; the nearest service town is Mawshynrut.",
+  "tradition": "Christianity (Presbyterian)",
+  "travel": {
+    "airport": "Shillong Airport (SHL), Umroi, about 90 km (verify); Guwahati Airport (GAU) about 160 km (verify).",
+    "railway": "Guwahati railway station (GHY), the nearest major railhead, about 160 km (verify).",
+    "road": "Langja village in the Mawshynrut area, off the Nongstoin–Mawshynrut road; reachable by local bus or shared taxi from Mawshynrut or Nongstoin (verify)."
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March for cool, dry weather; Christmas season is the most festive time in the Khasi Hills.",
+    "opening_hours": "Open for Sunday worship services; published visiting hours not found for this village church (verify)."
+  }
+}

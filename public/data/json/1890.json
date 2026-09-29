@@ -1,0 +1,55 @@
+{
+  "alternate_names": [
+    "Parli Vaijnath Jyotirlinga Temple",
+    "Vaidyanath Temple, Parli",
+    "Shree Vaijnath Devasthan"
+  ],
+  "deities": [
+    "Lord Shiva (Vaijnath/Vaidyanath Jyotirlinga)",
+    "Goddess Parvati",
+    "Lord Ganesha"
+  ],
+  "district": "Beed",
+  "festivals": [
+    "Mahashivratri",
+    "Shravan Mondays",
+    "Kartik Purnima"
+  ],
+  "history": {
+    "dynasty": "Yadava dynasty (Devagiri); 18th-century restoration",
+    "period": "Original temple 12th-13th century CE; inscription records reconstruction in 1706",
+    "summary": "The Vaijnath (Vaidyanath) Temple Complex at Parli is one of the twelve Jyotirlingas, the shrine of Shiva as the 'Lord of Physicians' (Vaidyanath). The present stone temple in the Hemadpanthi style is attributed to the Yadava period (12th-13th century CE, under minister Hemadri/Hemadpant of Devagiri), fell into ruin, and was rebuilt in the 18th century; an inscription at the site records the reconstruction in 1706, while sources traditionally credit the restoration to Ahilyabai Holkar - CONFLICT (verify). The CSV row names the Parvati and Ganesha sub-shrines within the complex, which houses many shrines around the main Jyotirlinga. Unusually, devotees are allowed to touch the linga during sparsha darshan, and the temple follows the rare tradition of offering Tulsi to Shiva and Bilva leaves to Vishnu, symbolising the unity of Shaivism and Vaishnavism. The Ravana legend holds that he set the linga down here en route to Lanka."
+  },
+  "id": "parvati-and-ganesha-sub-shrines-vaijnath-temple-complex",
+  "latitude": 18.842295,
+  "longitude": 76.535055,
+  "media": [
+    "https://dddcabs.com/assets/img/jyotirlinga/parli-vaijnath-jyotirlinga.webp"
+  ],
+  "name": "Parvati and Ganesha Sub-shrines, Vaijnath Temple Complex",
+  "sources": [
+    "https://www.outlooktraveller.com/explore-maharashtra/parli-vaijnath-jyotirling-temple-maharashtras-hidden-gem",
+    "https://velpu.com/temple/shree-parli-vaijnath-jyotirling-/MTUzMA==",
+    "https://www.vaijnathjyotirling.com/",
+    "https://gokshetra.com/parli-vaijnath-temple-darshan-guide/",
+    "https://tirthakshetra.in/Baidyanath/baidyanath"
+  ],
+  "state": "Maharashtra",
+  "town": "Parli Vaijnath",
+  "town_description": "Parli Vaijnath (often shortened to Parli) is a pilgrimage town in Beed district, Maharashtra, on the Latur-Parli railway branch line. As one of Maharashtra's five Jyotirlinga sites it draws devotees seeking the healing blessings of Vaidyanath, the 'divine physician'. The town is also a trading and educational centre for the surrounding Marathwada region, with the Harihara Teerth and bazaars around the temple complex.",
+  "tradition": "Hinduism (Shaivism)",
+  "travel": {
+    "airport": "Nanded Airport, ~110 km (verify)",
+    "railway": "Parli Vaijnath railway station on the Latur-Parli branch line, ~3 km from the temple (verify)",
+    "road": "Connected by state highways to Beed (~80 km), Latur (~110 km) and Chhatrapati Sambhajinagar (~230 km) (verify)"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March; Mahashivratri for the festival experience; early mornings for peaceful darshan",
+    "opening_hours": "5:00 AM-9:30 PM (verify: some sources cite 9:00 PM or 10:00 PM close; Mondays open until midnight)"
+  }
+}

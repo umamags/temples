@@ -1,0 +1,49 @@
+{
+  "alternate_names": [
+    "Temple of Thangal General (S-MN-10)",
+    "Thangal Menjor Temple, Wangkhei"
+  ],
+  "deities": [
+    "Thangal Menjor (Lungthoubu Thangal), a deified historical general - not a conventional Hindu deity (verify)"
+  ],
+  "district": "Imphal East",
+  "festivals": [
+    "None documented (verify)"
+  ],
+  "history": {
+    "dynasty": "Late Manipur princely-state period; built by Thangal General himself in 1879 AD",
+    "period": "1879 AD",
+    "summary": "IMPORTANT CSV CORRECTION: this temple is not in Chandel district at all - it stands in the Wangkhei locality (Angom Colony), Imphal, and is listed among Manipur's state protected monuments under Imphal East (S-MN-10). Built in 1879 AD by Thangal Menjor, also called Lungthoubu Thangal, a general who served under Maharaja Gambhir Singh and is venerated as a warrior who sacrificed his life protecting the motherland from the British. The temple is dedicated to him as a deified historical figure rather than to a conventional Hindu god, so it is not a standard Hindu temple - keep-or-drop decision needed if the project requires Hindu deities. It is a brick temple in Bengal style with Islamic-influenced detailing: a square plinth, an outer jacket with four flying-step staircases leading to the pradakshina path, double railings, an octagonal dome, and small Bengal-hut-type replicas at the four corners. Heritage documentation lists it as a protected monument under the Manipur Ancient and Historical Monuments and Archaeological Sites and Remains Act, 1976 (one heritage document notes ASI ownership - verify). It is often found locked with no watchman present, so visits may be exterior-only (verify)."
+  },
+  "id": "thangal-general-temple-wangkhei-imphal",
+  "latitude": 24.80164,
+  "longitude": 93.94947,
+  "media": [
+    "https://imphalreviews.in/wp-content/uploads/2020/07/Thangal-temple.jpg"
+  ],
+  "name": "Thangal General Temple",
+  "sources": [
+    "https://savaniheritage.com/uploads/rnd/01-ManipurTangible.pdf",
+    "https://www.Webindia123.com/MANIPUR/ART/TEMPLEthangal.htm",
+    "https://yappe.in/manipur/imphal/temple-of-thangal-general/780670",
+    "http://en.wikipedia.org/wiki/List_of_State_Protected_Monuments_in_Manipur"
+  ],
+  "state": "Manipur",
+  "town": "Imphal",
+  "town_description": "Imphal is the capital of Manipur, set in the central valley at about 786 m elevation, and the cultural heart of the Meitei people. The Kangla Fort precinct - the ancient seat of Manipuri kings - anchors its heritage landscape alongside the Shri Govindajee Temple, the Manipur State Museum and Ima Keithel (the women's market). It is served by Bir Tikendrajit International Airport and connects by road to Dimapur, Guwahati and Silchar.",
+  "tradition": "Meitei heroic-deity veneration (memorial temple to a deified historical figure; not a conventional Hindu shrine - verify)",
+  "travel": {
+    "airport": "Bir Tikendrajit International Airport, Imphal (approx. 7-8 km from the city centre; verify).",
+    "railway": "Manipur's only broad-gauge railhead is Jiribam railway station (approx. 210 km by road; verify); the nearest major railhead outside the state is Dimapur, Nagaland. Most visitors arrive by air or road.",
+    "road": "The temple complex is on Wangkhei Main Road, Angom Colony, in eastern Imphal - reachable by local taxi/auto; one listing gives Tuesday hours 10 AM-5 PM and Sunday closed (verify)."
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March (dry, pleasant season).",
+    "opening_hours": "Not reliably published (verify - one listing shows Tuesday 10:00 AM-5:00 PM and closed Sunday; a visitor review found it locked with no watchman. Confirm locally before visiting). No entry fee expected."
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "alternate_names": [
+    "Kona Ranganatha Swamy Temple",
+    "Alurukona Ranganathaswamy Temple",
+    "Avula Kona Sri Ranganatha Swamy Temple",
+    "Sri Kona Ranganatha Swamy Devasthanam"
+  ],
+  "deities": [
+    "Sri Ranganatha Swamy (reclining Vishnu on Adishesha, with Sridevi and Bhudevi at his feet; chakra in right hand, shankha in left)",
+    "Garuda Mandapam deities; sub-shrines of Anjaneya; a Shiva lingam beside the temple said to have been installed by Rama for dosha nivarana"
+  ],
+  "district": "Anantapur",
+  "festivals": [
+    "Annual Brahmotsavam (starts on Chaitra Suddha Pournami; the biggest festival)",
+    "Sri Rama Navami",
+    "Kalyanotsavam",
+    "Rathotsavam"
+  ],
+  "history": {
+    "dynasty": "Vijayanagara Empire (Bukka Raya I); built by Yerramraju, a chieftain at Bukka Raya's court",
+    "period": "Built in 1334 CE (some sources say 1330); endowed with 51.48 acres of temple land",
+    "summary": "NOTE: CSV town 'Anantapur' is the district, not the town - the temple stands at Alurukona (Avula Kona), a forested valley about 7 km from Tadipatri town, Tadipatri mandal, Anantapur district (~56 km from Anantapur city). Identify as the Aluru Kona Ranganathaswamy Temple near Tadipatri (also listed as 'Kona Ranganatha Swamy Temple'); this is the only well-documented Ranganatha temple in the district. Built in 1334 CE by Yerramraju, a chieftain under Vijayanagara king Bukka Raya I, who endowed extensive lands for its upkeep. Legend connects the spot to the Ramayana: sage Vishwamitra was performing yagna here when the demons Tadaka and Maricha disturbed it; Rama and Lakshmana slew them, and Rama is said to have installed a Shiva lingam nearby for dosha nivarana. The east-facing temple has a three-tiered rajagopuram approached by an arch and 50 stone steps, with a natural perennial spring flowing between the rocks year-round and a waterfall behind the temple. The presiding idol of Ranganatha reclines on Adishesha with Sridevi and Bhudevi at his feet. Accommodation (temple guest house and cottages) and daily annadanam are available. Coordinates are corroborated from map-directory sources (MapCarta/GeoNames/OSM list the 'Konarangaswami' temple at these coordinates), not an exact geocoder POI match - treat as approximate."
+  },
+  "id": "sri-ranganatha-swamy-temple",
+  "latitude": 14.94255,
+  "longitude": 78.07538,
+  "media": [
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilluQu6Pi5gQBqazzBS8OJ7kK85KaQt75W_XwvmmqCbk84N6EoXOWenHgY0z5K_0qfgglGReI4Ec7Dbde-tWYEgeSScHhQOoWnL9O46H7Vp3cmzPvjL4p46SsBhada-AOFakdbELEMVl0z9fEpQyhRxsnmTgPM8MKyhnID1XgExzX5ZhK1_sZHGdhSD5Dl/w1200-h630-p-k-no-nu/rangnatham%20temple.JPG"
+  ],
+  "name": "Sri Ranganatha Swamy Temple",
+  "sources": [
+    "https://www.sanatanavibes.in/2025/07/sri-ranganatha-swamy-temple-alurukona.html",
+    "https://gotirupati.com/aluru-kona-ranganathaswamy-temple/",
+    "https://holyshrines.in/aluru-kona-ranganathaswamy-temple-aluru-kona/",
+    "https://www.pilgrimaide.com/temple-details.php?tlid=aluru-kona-ranganathaswamy-temple",
+    "https://MapCarta.com/34891834"
+  ],
+  "state": "Andhra Pradesh",
+  "town": "Tadipatri (CSV town 'Anantapur' is the district; the temple is at Alurukona, ~7 km from Tadipatri town, ~56 km from Anantapur city)",
+  "town_description": "Tadipatri is a town in Anantapur district on the Pennar river, about 56 km from Anantapur city, with a railway station connecting it to Tirupati, Gooty and Anantapur. It is known for its Vijayanagara-era temples (Bugga Ramalingeswara, Chintala Venkataramana) and the Alurukona Ranganatha temple in its forested outskirts, where a natural spring and waterfall make it a pilgrimage-cum-picnic spot with temple guest-house accommodation.",
+  "tradition": "Vaishnavism",
+  "travel": {
+    "airport": "Nearest airport reported as Puttaparthi airport, about 100 km away (verify).",
+    "railway": "Tadipatri Railway Station, about 7 km from the temple; regular trains from Tirupati, Gooty and Anantapur.",
+    "road": "The temple is 7 km from Tadipatri town; direct buses run from Anantapur bus station to Tadipatri, then local autos/taxis to Alurukona (verify); about 245 km from Tirupati by road."
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March; the Chaitra Brahmotsavam draws large crowds.",
+    "opening_hours": "Conflicting listings: 6:00 AM-12:30 PM & 4:00 PM-8:00 PM; or 6:30 AM-1:30 PM & 5:00 PM-7:30 PM (verify locally)."
+  }
+}

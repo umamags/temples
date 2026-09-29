@@ -1,0 +1,53 @@
+{
+  "alternate_names": [
+    "Maa Sharda Mandir, Maihar",
+    "Sharda Devi Temple",
+    "Maihar Devi Temple",
+    "Mata Sharda Mai Temple"
+  ],
+  "deities": [
+    "Goddess Sharda (Sharada, a form of Saraswati; a Shakti Peetha where Sati's necklace is believed to have fallen)"
+  ],
+  "district": "Maihar",
+  "festivals": [
+    "Navratri (nine-day fair with lakhs of devotees)",
+    "Basant Panchami",
+    "Ashwin and Chaitra Navratri melas"
+  ],
+  "history": {
+    "dynasty": "Foundation attributed to Nupula Deva (Kalachuri-era); temple complex layered over centuries",
+    "period": "c. 502 CE (Vikram Samvat 559; inscription dated Shake 424, Chaitra Krishna Paksha 14, Tuesday)",
+    "summary": "The Maa Sharda temple crowns the 600-foot Trikuta (Trikoota) hill at Maihar, about 5 km from Maihar town, reached by 1,063 steps or a ropeway (installed 2009). It is one of the 51 Shakti Peethas: Sati's necklace is believed to have fallen here. An inscription records that the stone idols of Sharda Devi and Lord Narsingh were installed by Nupula Deva in Vikram Samvat 559 (502 CE), and local tradition says Adi Shankaracharya worshipped here in the 9th-10th century. Legend holds the temple was discovered in the forest by the warrior brothers Alha and Udal, devotees of the goddess, who called her 'Sharda Mai'; Alha is believed to have gained immortality after 12 years of penance and to still worship her daily at Brahma Muhurta. CSV CORRECTION: the CSV town 'Satna' is wrong - the temple is at Maihar, about 40 km from Satna town. District is now Maihar (a separate district since October 2023; earlier part of Satna district)."
+  },
+  "id": "maa-sharda-temple-maihar",
+  "latitude": 24.26597,
+  "longitude": 80.76229,
+  "media": [
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuWLaMocGDlTD8U4iYQw62VXD9kueQxTHhCXseStnHDMYRJV4ZVZxX_eMEsI8-LR3Z4Mu7MwTVrMDfXDLw7s7RkQaWU6w_oVu0SAGwL6YkcTNpqB4VS_vgDBt7PKOKQ_kinScUevWxTCuGEETJa6Bs6-Vsh6XwemybD0-GN8vgSVTO7MkSyWVsOQ6z8pRa/w1600-h1600-p-k-no-nu/maihar%20sharada%20devi%20temple.jpg"
+  ],
+  "name": "Maa Sharda Temple",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Maa_Sharda_Mandir,_Maihar",
+    "https://en.wikipedia.org/wiki/Maihar",
+    "https://www.bhaskar.com/local/mp/maihar/news/maihar-sharada-devi-temple-navratri-devotees-trek-stairs-137532824.html",
+    "http://maavindhyavasini.com/maihar/"
+  ],
+  "state": "Madhya Pradesh",
+  "town": "Maihar",
+  "town_description": "Maihar is a town in Madhya Pradesh about 40 km from Satna, the former capital of the princely state of Maihar (founded 1778) and home of the musician Allauddin Khan; it became a separate district in October 2023.",
+  "tradition": "Shaktism",
+  "travel": {
+    "airport": "Jabalpur Airport (about 150-160 km)",
+    "railway": "Maihar Junction railway station (about 5 km); Satna Junction (about 40 km)",
+    "road": "Maihar-Banshipur Road (SH-11); NH-30 connects Satna-Maihar-Jabalpur"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March; Navratri (Chaitra and Ashwin) is the peak season",
+    "opening_hours": "Open daily from early morning; devotees climb 1,063 steps or use the ropeway; exact published hours not found online (verify)"
+  }
+}

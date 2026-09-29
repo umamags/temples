@@ -1,0 +1,51 @@
+{
+  "alternate_names": [
+    "Swaminarayan Akshardham (Gandhinagar)",
+    "Akshardham Gandhinagar"
+  ],
+  "deities": [
+    "Bhagwan Swaminarayan (central 7-ft gold-leafed murti)",
+    "Aksharbrahma Gunatitanand Swami and Aksharmukta Gopalanand Swami (flanking murtis)",
+    "Marble murtis of the BAPS guru parampara (four corners of the mandir)"
+  ],
+  "district": "Gandhinagar",
+  "festivals": [
+    "Diwali",
+    "Janmashtami",
+    "Swaminarayan Jayanti (per BAPS calendar — verify)"
+  ],
+  "history": {
+    "dynasty": "None (modern construction)",
+    "period": "1979–1992 (foundation stone 14 December 1979; 13-year construction)",
+    "summary": "CSV ERROR: town 'Ahmedabad' is wrong — the real Akshardham is in Sector 20, Gandhinagar, about 30 km north of Ahmedabad (corrected; town set to Gandhinagar). This is almost certainly a duplicate of CSV row 259 ('Akshardham', Gandhinagar): there is no separate Akshardham temple in Ahmedabad city, and the Gandhinagar complex is sometimes loosely described as 'near Ahmedabad'. Recommend dedup/merge with 259. The BAPS complex, inspired by Yogiji Maharaj and created by Pramukh Swami Maharaj, is a 23-acre tribute to Bhagwan Swaminarayan: a 6,000-tonne pink-sandstone mandir (108 ft high, no steel/iron), five exhibition halls, the Sat-Chit-Anand water show (2010), Sahajanand Van garden, and the AARSH research institute. Inauguration date conflict: sources report 2 November 1992 (infobox) vs 4 November 1992 (BAPS source) vs 30 October 1992 (travel source) — verify. On 24 September 2002 the complex suffered a terror attack in which 33 worshippers were killed; Pramukh Swami's peaceful response became known as the 'Akshardham Response'."
+  },
+  "id": "swaminarayan-akshardham-gandhinagar-csv-ahmedabad",
+  "latitude": 23.23083,
+  "longitude": 72.67444,
+  "media": [
+    "https://www.manimansion.com/wp-content/uploads/2023/10/Akshardham-Temple-Hotel-MM.jpg"
+  ],
+  "name": "Swaminarayan Akshardham",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Swaminarayan_Akshardham_(Gandhinagar)",
+    "https://travelroach.com/akshardham-temple-gandhinagar/"
+  ],
+  "state": "Gujarat",
+  "town": "Gandhinagar",
+  "town_description": "The planned capital city of Gujarat on the banks of the Sabarmati river, about 30 km north of Ahmedabad. Home to the BAPS Swaminarayan Akshardham temple complex in Sector 20, inaugurated in 1992.",
+  "tradition": "Hinduism (Swaminarayan; BAPS)",
+  "travel": {
+    "airport": "Sardar Vallabhbhai Patel International Airport, Ahmedabad (~22 km)",
+    "railway": "Gandhinagar railway station (~2 km)",
+    "road": "J Road, Sector 20, Gandhinagar — well connected by road from Ahmedabad"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March; evenings for the Sat-Chit-Anand water show",
+    "opening_hours": "Tuesday to Sunday 9:30 AM to 7:30 PM; closed Mondays. Main darshan free; exhibitions ticketed (~Rs 60 adults). Mobile phones and cameras strictly prohibited inside."
+  }
+}

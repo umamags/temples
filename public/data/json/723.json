@@ -1,0 +1,46 @@
+{
+  "alternate_names": [
+    "Vanhnuailiana's Tomb",
+    "Vanhnuailiana Memorial Park (Tualte) (verify relationship to the historic tomb)"
+  ],
+  "deities": [
+    "None - memorial to a Lushai (Mizo) chief; Vanhnuailiana (chief of the eastern Lushais, father of chief Lalburha) died in 1871"
+  ],
+  "district": "Champhai",
+  "festivals": [
+    "No religious festivals observed (verify)"
+  ],
+  "history": {
+    "dynasty": "",
+    "period": "",
+    "summary": "NOT A HINDU TEMPLE - keep-or-drop decision needed: this is a chief's tomb / memorial site, not a temple. Vanhnuailiana was an Eastern Lushai chief (father of Lalburha Sailo) whose settlement the British Cachar Column reached at the onset of the Lushai Expedition of 1871-72, after his death during the expedition. British expedition accounts describe his tomb as well preserved: many posts and heads, a broken Burmese idol inside, decorated with a large mithun skull whose horns impaled and carried a human head and arm, with headhunted remains of Sukte villagers outside; the expedition burned his settlement but left the tomb intact, converting the headhunted remains into a proper burial place (per Wikipedia's Vanhnuailiana and Lalburha articles, citing expedition histories). The tomb's original settlement lay south-east of Champhai. A 'Vanhnuailiana Memorial Park' is listed at Tualte, Khawzawl/Champhai area (796310), ~16 km from Champhai town; it is unclear whether the modern memorial park marks or relates to the 1871 tomb site (verify before treating them as the same referent). The CSV town 'Champhai' is therefore approximate; coordinates given are town-level for Champhai. The entry is retained here as a historic memorial site rather than a religious building."
+  },
+  "id": "tomb-of-vanhnuailiana",
+  "latitude": 23.47809,
+  "longitude": 93.3261,
+  "media": [],
+  "name": "Tomb of Vanhnuailiana",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Vanhnuailiana",
+    "https://en.wikipedia.org/wiki/Lalburha",
+    "http://www.onefivenine.com/india/Listing/Town/parks/Champhai/Champhai"
+  ],
+  "state": "Mizoram",
+  "town": "Champhai (approximate; memorial park listed at Tualte, ~16 km away - verify)",
+  "town_description": "Champhai is a bustling commercial town at the Indo-Myanmar border, about 186-188 km east of Aizawl, considered the fruit bowl and rice bowl of Mizoram and a storehouse of ancient relics, legends and folklore. It was the headquarters of Lalbura Sailo, son of Vanhnuailiana, the Mizo chief against whom the British Expedition of 1871-72 was directed. Nearby attractions include Kungawrhi Puk cave, the Tiau river, Rih Dil lake across the border, and Thasiama Seno Neihna.",
+  "tradition": "Mizo chief memorial - not a Hindu shrine",
+  "travel": {
+    "airport": "",
+    "railway": "",
+    "road": ""
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "",
+    "opening_hours": ""
+  }
+}

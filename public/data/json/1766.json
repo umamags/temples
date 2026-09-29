@@ -1,0 +1,52 @@
+{
+  "alternate_names": [
+    "Ambalappuzha Sree Krishna Swamy Temple",
+    "Dwaraka of the South"
+  ],
+  "deities": [
+    "Sri Krishna (Parthasarathi form)"
+  ],
+  "district": "Alappuzha",
+  "festivals": [
+    "Champakkulam Moolam Water Festival (commemorates installation of the idol)",
+    "Arattu festival (Atham to Thiruvonam in Meenam, March-April)",
+    "Pallipana (once every 12 years)"
+  ],
+  "history": {
+    "dynasty": "Chembakassery (Chembakasserry Pooradam Thirunal-Devanarayanan Thampuran)",
+    "period": "15th-17th century (sources differ: 15th c. / 16th c. / completed ME 790 per Wikipedia; CONFLICT, verify)",
+    "summary": "HINDU Vaishnavite temple at Ambalapuzha, Alappuzha district, built by the Chembakassery chief Pooradam Thirunal-Devanarayanan Thampuran. It is one of the seven greatest Vaishnava temples of Travancore and counted among the 108 Abhimana Kshetrams. The black-granite idol shows Krishna as Parthasarathi, whip in the right hand and conch in the left; the inner chuttambalam walls carry Dasavatara paintings. The temple is famous for its Ambalapuzha Palpayasam (milky rice porridge). During Tipu Sultan's raids in 1789 the Guruvayoor Krishna idol was sheltered here for 12 years (one source says 3 years; CONFLICT, verify), and devotees believe Guruvayoorappan still visits daily for the payasam. Ottanthullal was first staged here by Kunjan Nambiar."
+  },
+  "id": "ambalapuzha-sri-krishna-temple",
+  "latitude": 9.38418,
+  "longitude": 76.36944,
+  "media": [
+    "https://upload.wikimedia.org/wikipedia/commons/b/bd/Entrance_of_Ambalapuzha_Sri_Krishna_Temple.jpg"
+  ],
+  "name": "Ambalapuzha Sri Krishna Temple",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Ambalappuzha_Sree_Krishna_Swamy_Temple",
+    "https://www.trawell.in/kerala/alleppey/sri-krishna-temple-ambalapuzha",
+    "https://tourism.webindia123.com/tourism/pilgrimcenters/temples/Sri_Krishna_Temple_Ambalapuzha/index.htm",
+    "https://www.astroved.com/astropedia/en/temples/south-india/ambalapuzha-sri-krishna-temple",
+    "http://keralatourism.guide/pilgrimages/ambalapuzha-sreekrishna-temple"
+  ],
+  "state": "Kerala",
+  "town": "Ambalapuzha",
+  "town_description": "Ambalapuzha is a town in Alappuzha district, about 14 km south of Alappuzha city on the Kollam-Alappuzha highway, close to Kerala's backwaters. Its name came into existence only after the Sri Krishna temple was built (16th century tradition), and it remains a major pilgrim centre of central Kerala. The town is also known for the Champakkulam Moolam water festival on the nearby Pamba river system.",
+  "tradition": "Hinduism (Vaishnavism)",
+  "travel": {
+    "airport": "Cochin International Airport - 64 km (keralatourism.guide) vs 98 km (makemytrip); CONFLICT (verify)",
+    "railway": "Ambalapuzha Railway Station, about 1 km (verify)",
+    "road": "14 km south of Alappuzha on the Kollam-Alappuzha highway; 1.5 km east of Ambalapuzha town junction off NH-47"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March; during evening aarti",
+    "opening_hours": "4:00 AM-12:30 PM and 5:00-8:00 PM (trawell.in, makemytrip)"
+  }
+}

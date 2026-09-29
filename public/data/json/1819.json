@@ -1,0 +1,50 @@
+{
+  "alternate_names": [
+    "Kedareshwar Mahadev Temple",
+    "Sailana Ka Kedareshwar Dham"
+  ],
+  "deities": [
+    "Shiva (as Kedareshwar)"
+  ],
+  "district": "Ratlam",
+  "festivals": [
+    "Maha Shivaratri (local fair)",
+    "Shravan"
+  ],
+  "history": {
+    "dynasty": "CONFLICT (verify)",
+    "period": "CONFLICT: one source claims 17th century under Raja Chatarsal of Ratlam; another claims an 11th-century Bhumija-style temple; a third says only 'over 200 years old'",
+    "summary": "CSV TOWN CORRECTED: this temple is NOT in Ratlam city but at Sailana village, about 20 km from Ratlam city (about 4 km from the Sailana Palace). It is a man-made cave temple carved out of a single cliff of igneous rock, with a small stream that flows from the top of the cliff into a pond in the monsoon, set among scenic hills. Its history is CONFLICTING across sources: one secondary site claims it was built by the Maharaja of Ratlam, Raja Chatarsal, in the 17th century with later Maratha renovations; another calls it an 11th-century Bhumija-style temple; a third gives only 'over 200 years old'. Treat the founding date as UNVERIFIED. It is also a popular picnic spot."
+  },
+  "id": "kedareshwar-temple-ratlam",
+  "latitude": 23.42734,
+  "longitude": 74.90315,
+  "media": [
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2-VGLXJQgUgAvaiyyp_YEF-L5WqGFljRQoSC5xOFa11brwmkwhzbtR4GN7I5ZtxeLCG8E4onGa3-E4aDCpFK1TYtQ8jptQ2Rjt182UT2yhXi5r_-RU9i9Fg1t8sTvvN6en8AB_ok6fYir/s1600/kedareshwar+temple+ratlam2.jpg"
+  ],
+  "name": "Kedareshwar Temple",
+  "sources": [
+    "https://www.ratlamonline.in/guide/kedareshwar-temple-in-ratlam",
+    "https://www.ratlamonline.in/guide/temples-in-ratlam",
+    "https://vushii.com/place.php?name=Kedareshwar Mandir",
+    "https://www.koreatripguide.com/destinations/historical-landmarks-and-sightseeing-around-ratlam-cactus-garden-kedareshwar-temple"
+  ],
+  "state": "Madhya Pradesh",
+  "town": "Sailana",
+  "town_description": "Sailana is a town in Ratlam district, Madhya Pradesh, about 20-25 km west of Ratlam city. It was the capital of the princely Sailana state from 1736, ruled by the Rathore dynasty. Set at the foothills (in Sanskrit, 'shaila' means hills and 'anana' means mouth), it is known for the Sailana Palace, a famous cactus garden, and the nearby Kedareshwar cave temple.",
+  "tradition": "Hinduism (Shaivism)",
+  "travel": {
+    "airport": "Nearest airport is Indore, about 140-150 km away (verify)",
+    "railway": "Nearest railway station is Ratlam Junction, about 20 km away (verify)",
+    "road": "About 4 km from the Sailana Palace; Sailana is well connected to Ratlam by road (about 1 hour by bus/cab from Ratlam city)"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "July to September (monsoon), when the stream and falls are in full flow; also October to March",
+    "opening_hours": "No verified opening hours found for this temple (verify)"
+  }
+}

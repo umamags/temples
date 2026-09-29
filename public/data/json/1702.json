@@ -1,0 +1,55 @@
+{
+  "alternate_names": [
+    "Shri Bhuvaneshwari Ammanavara Gudi",
+    "Bhuvaneshwari Temple, Mysore Palace"
+  ],
+  "deities": [
+    "Bhuvaneshwari (Shakti)",
+    "Surya",
+    "Maha Vishnu",
+    "Maheshwara (Shiva)",
+    "Ganapati",
+    "Rajarajeshwari",
+    "Chamundeshwari"
+  ],
+  "district": "Mysuru",
+  "festivals": [
+    "Ratha Saptami (January/February - special pooja to the large copper Surya Mandala, offered annually)"
+  ],
+  "history": {
+    "dynasty": "Wodeyar (post-independence)",
+    "period": "Built 1951 (20th century)",
+    "summary": "CSV town 'Mysore' is correct (temple within the Mysore Palace complex, near the north gate). The Sri Bhuvaneshwari Temple was commissioned in 1951 by Maharaja Jayachamaraja Wodeyar and built in the traditional Dravidian style with a Chola-style gateway. The principal deity, Goddess Bhuvaneshwari, and the other sculptures (Surya, Maha Vishnu, Maheshwara, Rajarajeshwari, Ganapati, Chamundeshwari) were carved by the noted Mysore sculptor Siddalingaswamy. A highlight is the large copper Surya Mandala gifted by the Maharaja, which receives special pooja every year on Ratha Saptami. Coordinates are geocoder-level approximations for the palace north-gate area."
+  },
+  "id": "sri-bhuvaneshwari-temple",
+  "latitude": 12.30224,
+  "longitude": 76.65383,
+  "media": [
+    "https://upload.wikimedia.org/wikipedia/commons/a/af/Bhuvaneshwari_temple_in_the_Mysore_Palace_grounds.jpg"
+  ],
+  "name": "Sri Bhuvaneshwari Temple",
+  "sources": [
+    "https://Wanderlog.com/place/details/6995748",
+    "https://in.worldorgs.com/catalog/mysuru/golf-course/sri-bhuvaneshwari-temple",
+    "https://zeezest.com/travel/7-mysore-temple-you-must-visit-to-embark-on-a-spiritual-odyssey-4755",
+    "http://templestovisitinmaysore.blogspot.com/2020/05/10-amazing-temples-in-mysore-to-visit.html"
+  ],
+  "state": "Karnataka",
+  "town": "Mysuru",
+  "town_description": "Mysuru (Mysore), Karnataka's 'City of Palaces', was the historic capital of the Wodeyar dynasty and remains one of South India's major heritage destinations, anchored by the Mysore Palace and Chamundi Hills. The city is renowned for its Dussehra festival, silk, sandalwood, and the cluster of temples inside the palace premises. The Bhuvaneshwari temple stands near the palace's north gate on Albert Victor Road, visited by palace tourists.",
+  "tradition": "Hinduism (Shaktism)",
+  "travel": {
+    "airport": "Mysuru Airport (~12 km - verify); Kempegowda International Airport, Bengaluru (~170 km) is the main gateway.",
+    "railway": "Mysuru Junction (~2 km - verify); the temple is inside the Mysore Palace complex.",
+    "road": "Near the palace north gate, Albert Victor Rd, Agrahara, Chamrajpura, Mysuru; entry is through the Mysore Palace premises (palace entry ticket required - verify current fee)."
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March; Ratha Saptami (January/February) is the key festival period.",
+    "opening_hours": "CONFLICT (verify): ZeeZest gives 8:30 AM - 12:00 PM and 6:00 PM - 8:00 PM; another source gives 7:00 AM - 12:00 PM and 6:00 PM - 8:30 PM. Entry requires the Mysore Palace ticket."
+  }
+}

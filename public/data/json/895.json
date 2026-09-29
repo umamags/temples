@@ -1,0 +1,50 @@
+{
+ "alternate_names": [
+  "Sunehri Kothi",
+  "Shishmahal",
+  "Golden Mansion",
+  "Nawab ki Kothi (candidate IGNCA RJ/TNK-001 - verify)"
+ ],
+ "deities": [],
+ "district": "Tonk",
+ "festivals": [],
+ "history": {
+  "dynasty": "Nawabs of Tonk",
+  "period": "Built 1824 (per travel literature - verify); gold-leaf interiors",
+  "summary": "NOT A HINDU TEMPLE - KEEP-OR-DROP DECISION NEEDED. Sunhari Kothi ('Golden Mansion') is a secular heritage mansion and museum in Tonk city, near Bada Kua on Najar Bagh road - NOT a temple. Built in 1824 (per travel literature; patronage attribution to Nawab Ibrahim Ali Khan per project brief - FLAG: Wikipedia records Ibrahim Ali Khan succeeding as Nawab only in 1867, so the 1824 date or the patron attribution needs verification) as a residence with a famous 'Shishmahal' hall: walls polished with gold leaf, glass/mirror work, flower paintings, mother-of-pearl inlay and Pachhikari & Meenakari work. The Government of Rajasthan has gazetted it a historical place; renovation work has been ongoing. IGNCA ASI record RJ/TNK-001 ('Nawab ki Kothi', Tennis Court, Raj Talkies Road, Bada Kuan, Tonk) is a candidate match for this site (verify before merging)."
+ },
+ "id": "sunhari-kothi-tonk",
+ "latitude": 26.15941,
+ "longitude": 75.78407,
+ "media": [
+  "https://www.rajasthandhara.com/image/cache/catalog/places/rp588-750x750.jpg"
+ ],
+ "name": "Sunhari Kothi",
+ "sources": [
+  "https://INDOVACATIONS.NET/visitRajasthan/Tonk.htm",
+  "https://pinkcityroyals.com/jaipur-places/Tonk.php",
+  "https://www.triphobo.com/places/tonk-india/things-to-do/historical",
+  "https://topplacesindia.com/states/rajasthan/attractions/tonk-sunheri-kothi",
+  "https://www.rajasthandhara.com/sunehri-kothi-tonk",
+  "https://ignca.gov.in/asi_reports/rjtnk_001.pdf",
+  "https://www.top-rated.online/cities/Behir/place/p/10621590/Sunhri+kothi+tonk"
+ ],
+ "state": "Rajasthan",
+ "town": "Tonk (CSV town correct; near Bada Kua, Najar Bagh road - coordinates are Bada Kua vicinity, VERIFY exact kothi)",
+ "town_description": "Sunhari Kothi stands in Tonk city, the former capital of the Tonk princely state (1817-1947) - the only Muslim-ruled state in Rajputana, nicknamed 'Nawabi Nagari' and the 'Lucknow of Rajasthan'. Tonk blends Rajput and Mughal architecture and is famed for its havelis, mosques and the Arabic-Persian Research Institute.",
+ "tradition": "None - secular Nawabi heritage mansion/museum, not a temple",
+ "travel": {
+  "airport": "Jaipur International Airport - about 95-96 km (verify).",
+  "railway": "Tonk Railway Station (verify).",
+  "road": "City site on Najar Bagh road near Bada Kua; ~3 km from Tonk bus stand per IGNCA; cabs readily available (verify)."
+ },
+ "video": {
+  "audio": "",
+  "script": "",
+  "video_file": ""
+ },
+ "visitor_information": {
+  "best_time": "October to March (verify).",
+  "opening_hours": "Listed open all day with free entry (verify - confirm locally)."
+ }
+}

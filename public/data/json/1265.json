@@ -1,0 +1,40 @@
+{
+  "alternate_names": [],
+  "deities": [],
+  "district": "East Siang",
+  "festivals": [
+    "Solung (Adi harvest festival, September - regional)"
+  ],
+  "history": {
+    "dynasty": "",
+    "period": "Undated",
+    "summary": "Bongkud Monying is a hillock near Pasighat venerated for its religious and scenic value; devotees trek up to the temple on the hill to perform puja and pray, and it offers panoramic views of Pasighat town and the Siang river valley (esikkimtourism.in). The presiding deity, founders and age of the shrine are not documented in available sources - identity uncertain, research limited to a single travel listing. Coordinates are approximate (town-level): the exact location of the hillock is not documented."
+  },
+  "id": "bongkud-monying-pasighat",
+  "latitude": 28.06706,
+  "longitude": 95.3268,
+  "media": [],
+  "name": "Bongkud Monying",
+  "sources": [
+    "https://www.esikkimtourism.in/places-to-visit-in-pasighat/",
+    "https://www.mashahur.com/blog/pasighat-the-gateway-to-arunachal-pradesh/"
+  ],
+  "state": "Arunachal Pradesh",
+  "town": "Pasighat",
+  "town_description": "Pasighat is the oldest town of Arunachal Pradesh (established 1911) and the headquarters of East Siang district, on the banks of the Siang River. It is the gateway to the state and is known for the Kekar Monying hanging bridge, the Daying Ering Wildlife Sanctuary, and the culture of the Adi people.",
+  "tradition": "Hindu",
+  "travel": {
+    "airport": "Pasighat Airport (IXT, ~6 km, limited scheduled flights); Dibrugarh (Assam, ~150 km)",
+    "railway": "Murkongselek (Assam), ~35 km",
+    "road": "Accessible from Pasighat town by road, with the final ascent on foot via trek trails"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to May; dry season for treks",
+    "opening_hours": "Open daily (specific published hours not documented - verify)"
+  }
+}

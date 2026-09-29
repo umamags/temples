@@ -1,0 +1,55 @@
+{
+  "alternate_names": [
+    "Kashi Annapurna Mandir",
+    "Annapurna Temple, Varanasi"
+  ],
+  "deities": [
+    "Goddess Annapurna (form of Parvati)",
+    "Lord Shiva",
+    "Ganesha",
+    "Lakshmi",
+    "Saraswati"
+  ],
+  "district": "Varanasi",
+  "festivals": [
+    "Annakoot Mahotsav (day after Diwali)",
+    "Diwali",
+    "Navratri"
+  ],
+  "history": {
+    "dynasty": "Maratha (Peshwa)",
+    "period": "1729 CE",
+    "summary": "Built in 1729 CE by Maratha Peshwa Baji Rao I in North Indian Nagara style, near the Kashi Vishwanath Temple in Visheshwarganj. The temple honours Goddess Annapurna, the provider of food: legend says Parvati withdrew all food after Shiva called the world an illusion, then appeared as Annapurna to feed creation, establishing her cosmic kitchen at Kashi. It houses two idols of the goddess - a brass idol worshipped daily and a gold idol shown only during the Annakoot festival. The temple runs a free bhojanalaya (annadanam) serving meals to pilgrims and the needy daily, roughly 9 AM-3 PM."
+  },
+  "id": "annapurna-devi-mandir-varanasi",
+  "latitude": 25.32087,
+  "longitude": 83.0223,
+  "media": [
+    "https://www.gosahin.com/go/p/j/t1/1582308009_annapurna-devi-mandir-varanasi2.jpg"
+  ],
+  "name": "Annapurna Devi Mandir",
+  "sources": [
+    "https://www.seecitydestination.com/my-blog/why-varanasis-annapurna-devi-mandir-is-famous-story-facts",
+    "https://ayodhyavaranasitourism.com/annapurna-devi-mandir-varanasi-timings/",
+    "https://www.rajasthantourplanner.com/blog/annapurna-temple-varanasi/",
+    "https://Www.tripadvisor.in/ShowUserReviews-g297685-d10171114-r1007654274-Annapurna_Devi_Mandir-Varanasi_Varanasi_District_Uttar_Pradesh.html"
+  ],
+  "state": "Uttar Pradesh",
+  "town": "Varanasi",
+  "town_description": "Varanasi (Banaras/Kashi), on the Ganges in southeastern Uttar Pradesh, is among the world's oldest continuously inhabited cities and Hinduism's holiest city, famed for its ghats, the Kashi Vishwanath Jyotirlinga, and as a centre of learning, music and silk weaving.",
+  "tradition": "Shaktism (goddess worship)",
+  "travel": {
+    "airport": "Lal Bahadur Shastri International Airport (VNS), Babatpur, ~25 km",
+    "railway": "Varanasi Junction (BSB) / Banaras station",
+    "road": "Connected by NH-19/NH-31; the temple sits inside Vishwanath Gali near Kashi Vishwanath (~15-700 m walk), served by autos and cycle-rickshaws in the old city"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October-March (winter); visit during Annakoot (day after Diwali, Oct/Nov) to see the gold idol",
+    "opening_hours": "4:00 AM-11:30 AM and 7:00 PM-11:00 PM daily (Mangala Aarti 4-5 AM, Bhog Aarti 12 PM, Sandhya Aarti 7-8 PM); some sources give 4:00 AM-10:30/11:00 PM - verify"
+  }
+}

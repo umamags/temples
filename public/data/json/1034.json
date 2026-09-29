@@ -1,0 +1,45 @@
+{
+  "alternate_names": [
+    "Shiv Mandir",
+    "Shib Mandir"
+  ],
+  "deities": [
+    "Shiva"
+  ],
+  "district": "North Tripura",
+  "festivals": [
+    "Maha Shivaratri (verify)"
+  ],
+  "history": {
+    "dynasty": "None documented",
+    "period": "Unknown (no published history found)",
+    "summary": "IDENTITY FLAG - generic CSV name with multiple candidates. Best-supported referent: the 'Shiv Mondir' listed at 'Dharmanagar, TR, IN' in public place records - the closest generic match for the CSV's 'Shiva Mandir | Dharmanagar'. ALTERNATIVE CANDIDATE: the Shiv Shani Mandir on Algapur Road, Dharmanagar - a more specifically named shrine (Shiva + Shani) that may or may not be the CSV's intent. Several other small 'Shiv Mandir'/'Shiv Mondir' listings exist in the Dharmanagar-Kadamtala area. The CSV gives no locality, so the intended shrine cannot be pinned down; no history, builder or festival is published for any candidate. Coordinates are from the place listing for the Dharmanagar 'Shiv Mondir' - verify. CSV town (Dharmanagar) and state (Tripura) are correct; district recorded as North Tripura. Media: no reliably identified photograph of the specific shrine was found - media left empty."
+  },
+  "id": "shiv-mondir-dharmanagar",
+  "latitude": 24.401872,
+  "longitude": 92.161344,
+  "media": [],
+  "name": "Shiva Mandir",
+  "sources": [
+    "https://meta.ai?place_id=2011340485996867",
+    "https://meta.ai?place_id=1118218549824449"
+  ],
+  "state": "Tripura",
+  "town": "Dharmanagar",
+  "town_description": "Dharmanagar is the second-largest town in Tripura and the headquarters of North Tripura district, on NH 8 near the Assam border - a commercial and cultural hub of the northern part of the state.",
+  "tradition": "Shaivism",
+  "travel": {
+    "airport": "Maharaja Bir Bikram Airport, Agartala (~175 km by road - verify); Silchar Airport, Assam (~145 km - verify).",
+    "railway": "Dharmanagar Railway Station (on the Lumding-Sabroom broad-gauge section - verify) connects north to Silchar/Guwahati and south to Agartala.",
+    "road": "Dharmanagar lies on NH 8, with regular bus and shared-vehicle connections to Agartala (~175 km), Kailashahar, and Karimganj (Assam)."
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March; Maha Shivaratri for the festival.",
+    "opening_hours": "Not published (verify)."
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "alternate_names": [
+    "Sangam",
+    "Prayag Triveni Sangam"
+  ],
+  "deities": [
+    "Ganga",
+    "Yamuna",
+    "Saraswati"
+  ],
+  "district": "Prayagraj",
+  "festivals": [
+    "Kumbh Mela",
+    "Ardh Kumbh Mela",
+    "Magh Mela",
+    "Ganga Dussehra",
+    "Makar Sankranti"
+  ],
+  "history": {
+    "dynasty": "Various (mythological to present)",
+    "period": "Ancient (mentioned in Puranas and Mahabharata) to present",
+    "summary": "NOT A HINDU TEMPLE — keep-or-drop decision needed. Triveni Sangam is the sacred confluence of the Ganga, Yamuna and the mythical Saraswati rivers, one of Hinduism's holiest bathing sites. Mythology traces the Kumbh Mela to drops of amrita falling here during the Samudra Manthan. The Purna Kumbh is held every 12 years, the Ardh Kumbh every 6 years, and the Maha Kumbh every 144 years (most recently in 2025); the annual Magh Mela is held each January-February. Emperor Ashoka erected a pillar here in the 3rd century BCE and Akbar built the Allahabad Fort adjoining it. NOTE: CSV town 'Allahabad' updated to Prayagraj (city renamed in 2018)."
+  },
+  "id": "triveni-sangam-prayagraj",
+  "latitude": 25.46787,
+  "longitude": 81.8639,
+  "media": [
+    "https://www.pilgrimagetour.in/blog/wp-content/uploads/2025/01/Triveni-Sangam-Prayagraj-768x487.jpg"
+  ],
+  "name": "Triveni Sangam",
+  "sources": [
+    "https://www.japjitravel.com/blog/triveni-sangam-allahabad-all-you-need-to-know/",
+    "https://en.wikipedia.org/wiki/Allahabad_Kumbh_Mela"
+  ],
+  "state": "Uttar Pradesh",
+  "town": "Prayagraj",
+  "town_description": "Prayagraj (formerly Allahabad) is a major city in Uttar Pradesh at the confluence of the Ganga and Yamuna. Among India's oldest cities, it is one of the four Kumbh Mela sites, home to the Allahabad Fort, Anand Bhavan and the University of Allahabad.",
+  "tradition": "Hindu",
+  "travel": {
+    "airport": "Prayagraj Airport (Bamrauli), ~12 km",
+    "railway": "Prayagraj Junction, ~7 km from the Sangam area",
+    "road": "Well connected by road; the Sangam is near Allahabad Fort on the eastern side of the city"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March; January-February during the Magh Mela, or Kumbh Mela years",
+    "opening_hours": "Open site with no fixed timings; boat rides available during daylight hours"
+  }
+}

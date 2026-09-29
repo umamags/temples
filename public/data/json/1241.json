@@ -1,0 +1,55 @@
+{
+  "alternate_names": [
+    "Kapila Theertham Falls",
+    "Kapila Tirtha",
+    "Kapila Pushkarini"
+  ],
+  "deities": [
+    "Lord Shiva as Sri Kapileswara (Swayambhu lingam; worshipped by sage Kapila)",
+    "Goddess Parvati (consort)"
+  ],
+  "district": "Tirupati",
+  "festivals": [
+    "Kartika Purnima Mukkoti (all the teerthas of the three worlds are believed to merge here for ten ghatikas; a bath then is said to grant salvation)",
+    "Maha Shivaratri",
+    "Karthika Deepam",
+    "Kapileswara Swamy Brahmotsavams (February)",
+    "Adikirtika"
+  ],
+  "history": {
+    "dynasty": "Vijayanagara Empire (temple patronage, 13th-16th centuries)",
+    "period": "Vijayanagara patronage 13th-16th centuries; legend of sage Kapila is ancient",
+    "summary": "NOT A STANDALONE TEMPLE — Kapila Theertham is the sacred waterfall and holy pond at the Kapileswara Swamy Temple complex (see seq 1240); keep-or-merge decision needed as the two CSV rows describe the same site. The theertham is named after the sage Kapila, who is said to have emerged from the bilam (cavity) in the pushkarini and worshipped the self-manifested Shiva lingam here; Vishnu and Brahma are said to have performed kshira-abhisheka with the milk of the Kapila cow (Brahma in bovine form), giving the deity the name Kapileswara. During Kartika month on Mukkoti Purnima, all teerthas are believed to merge into this theertham for ten ghatikas (approx. four hours), and those who bathe here at that time are said to attain salvation; the spot is also used for ancestral rites (pindam) by those who missed them. The temple complex is administered by the TTD."
+  },
+  "id": "kapila-theertham-tirupati",
+  "latitude": 13.65417,
+  "longitude": 79.42032,
+  "media": [
+    "https://media1.thrillophilia.com/filestore/65mmvul3vmmkz3ufuqpactzug8nu_Kapila_Theertham_waterfalls_Tirupati_2015_1.jpg?w=753&h=450&dpr"
+  ],
+  "name": "Kapila Theertham",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Kapila_Theertham",
+    "https://tirupatitirumalainfo.com/kapila-theertham-temple-tirupati/",
+    "https://www.tirupatihelps.com/kapila-theertham-temple-timings/",
+    "https://xploringdestinations.com/kapila-theertham-tirupati-timings/"
+  ],
+  "state": "Andhra Pradesh",
+  "town": "Tirupati",
+  "town_description": "Tirupati, at the foot of the Seshachala hills in southern Andhra Pradesh, is one of India's great pilgrimage cities, anchored by the Sri Venkateswara Temple on the Tirumala hills. It draws tens of millions of devotees a year and has its own international airport, a major rail junction, and a dense network of city buses and autos serving its temples.",
+  "tradition": "Shaivism",
+  "travel": {
+    "airport": "Tirupati International Airport at Renigunta (approx. 14-15 km; taxis and app cabs available).",
+    "railway": "Tirupati railway station (approx. 3 km), well connected across South India.",
+    "road": "City buses and autos run from Tirupati town to Kapila Theertham (approx. 3 km northwest of the city centre); a short walk leads from the parking area to the falls."
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "July to October (monsoon) for the waterfall in full flow; November to February for comfortable temple visits. Kartika Purnima Mukkoti is the most auspicious bathing day.",
+    "opening_hours": "Temple generally 5:00 AM to 9:00 PM daily (verify — sources conflict on midday breaks). Waterfall area is typically accessible approx. 6:00 AM to 6:00 PM; timings vary during festivals."
+  }
+}

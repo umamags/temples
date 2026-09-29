@@ -1,0 +1,46 @@
+{
+  "alternate_names": [
+    "Sri Shivalaya",
+    "Lord Shiva Temple, Vinobanagara"
+  ],
+  "deities": [
+    "Shiva"
+  ],
+  "district": "Shivamogga",
+  "festivals": [
+    "Maha Shivaratri"
+  ],
+  "history": {
+    "dynasty": "",
+    "period": "Uncertain",
+    "summary": "IDENTITY UNCERTAIN: the CSV row 'Shiva Temple, Shimoga' is a generic name. The best-matching referent found is the locally famous 'Shivalaya' (Lord Shiva Temple) at 100 Feet Road, Vinobanagara, Shivamogga city (address per directory listing; coordinates approximate, directory-sourced). It is an ancient stone Shiva shrine (one travel source claims 11th-century origin — weak/UNVERIFIED), refurbished with reconstructed floors, with spacious premises seating 50+ and Maha Shivaratri as its biggest event. CSV town 'Shimoga' kept as the city (now officially Shivamogga). If the CSV intends a different Shivamogga-district Shiva temple (e.g. Pranaveshwara at Talagunda, Kedareshwara at Balligavi, or Kaitabheshvara), this file should be remapped."
+  },
+  "id": "shiva-temple-shimoga",
+  "latitude": 13.929196,
+  "longitude": 75.602411,
+  "media": [],
+  "name": "Shiva Temple, Shimoga (Shivalaya, Vinobanagara)",
+  "sources": [
+    "https://www.makemytrip.com/tripideas/attractions/shiva-temple-shimoga?pdtCtx=eyJqaWQiOiJqb3VybmV5XzE3ODgyNDM0OTQxNDFfcGU1ZmRic281Iiwic2MiOm51bGwsInBwIjoiZGVzdGluYXRpb25fY2l0eSJ9",
+    "https://in.worldorgs.com/catalog/shivamogga/amusement-park/lord-shiva-temple",
+    "https://Wanderlog.com/place/details/10223929/shivalaya"
+  ],
+  "state": "Karnataka",
+  "town": "Shivamogga",
+  "town_description": "Shivamogga (formerly Shimoga) is a major city in central Karnataka and the district headquarters of Shivamogga district, on the banks of the Tunga River in the Malnad region. Known as the 'Gateway of Malnad', it is a commercial and cultural hub with landmarks like the Shivappa Nayaka Palace museum, Gandhi Park, and several old temples. The city is well connected by rail (Shivamogga Town) and road to Bengaluru (~280 km) and Mangaluru (~200 km), and has its own airport.",
+  "tradition": "Hinduism (Shaivism)",
+  "travel": {
+    "airport": "Shivamogga Airport, ~8-10 km (verify)",
+    "railway": "Shivamogga Town station, ~3-4 km (verify)",
+    "road": "100 Feet Road, Vinobanagara, within Shivamogga city; city buses and autos"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "All year; Maha Shivaratri (February-March) is the biggest event",
+    "opening_hours": "CONFLICT (verify): one travel site lists 6:00 AM-8:00 PM; a business directory lists 5:00 AM-9:00 AM daily"
+  }
+}

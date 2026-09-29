@@ -1,0 +1,51 @@
+{
+  "alternate_names": [
+    "Sun Temple, Ranakpur",
+    "Surya Dev Ji Temple"
+  ],
+  "deities": [
+    "Surya, the Sun God, riding his chariot drawn by seven horses",
+    "Amba Mata (separate shrine nearby)"
+  ],
+  "district": "Pali",
+  "festivals": [
+    "Ratha Saptami / Surya Jayanti (typical for Sun temples - verify)",
+    "Makar Sankranti (verify)"
+  ],
+  "history": {
+    "dynasty": "Unknown (early medieval; later rebuilt under Mewar-era patronage; managed today by the Udaipur royal family trust)",
+    "period": "13th century (original construction); desecrated during invasions and rebuilt in the 15th century",
+    "summary": "CSV TOWN FLAG: this temple is NOT in Pali city - it stands at Ranakpur in Desuri tehsil, Pali district, adjacent to the Ranakpur Jain temple complex, about 90 km from Pali city. The Surya Narayan Temple dates to the 13th century - two centuries before the Jain complex - was desecrated in the period of invasions, and was reconstructed with the rest of the complex in the 15th century. It is managed by the Udaipur (Mewar) royal family trust. Built of white marble in the Nagara style, its sanctum follows a circular/octagonal plan with projecting bays; the highlight is the idol of the Sun God on his seven-horse chariot. Walls, ceilings, and pillars carry fine carvings of warriors, horses, and celestial figures in excellent condition. The temple faces east with a shikhara over the sanctum; nearby are the Amba Mata shrine and the Jain complex. DUPLICATE FLAG: this CSV row describes the same temple as CSV row 2109; kept as a separate file per the one-file-per-row rule."
+  },
+  "id": "surya-narayan-temple-ranakpur-duplicate",
+  "latitude": 25.11494,
+  "longitude": 73.47033,
+  "media": [
+    "https://www.tusktravel.com/blog/wp-content/uploads/2022/01/Ranakpur-Sun-Temple-Rajasthan.jpg"
+  ],
+  "name": "Surya Narayan Temple, Ranakpur",
+  "sources": [
+    "https://www.rajasthantourplanner.com/Monuments-Citywise/surya-narayan-temple-ranakpur.html",
+    "https://www.mashahur.com/blog/the-magnificent-ranakpur-jain-temple-rajasthan/",
+    "https://hinduscriptures.com/ranakpur-jain-temples-rajasthan/",
+    "https://www.tripadvisor.in/Attraction_Review-g1162449-d4088898-Reviews-Surya_Narayan_Temple-Ranakpur_Pali_District_Rajasthan.html"
+  ],
+  "state": "Rajasthan",
+  "town": "Ranakpur, Desuri tehsil (CSV town 'Pali' is wrong - the temple is at Ranakpur, ~90 km from Pali city)",
+  "town_description": "Ranakpur is a small village in Desuri tehsil of Pali district, nestled in a quiet valley of the Aravalli Range on the banks of the Maghai (Mavi) river. It is one of India's great Jain pilgrimage centres, surrounded by forested hills; the nearest railhead is Falna and the nearest airports are Udaipur and Jodhpur.",
+  "tradition": "Hinduism",
+  "travel": {
+    "airport": "Udaipur Airport - about 90-100 km; Jodhpur Airport - about 150 km (verify).",
+    "railway": "Falna railway station - about 35 km; taxi/bus onward.",
+    "road": "On the Jodhpur-Udaipur highway via Sadri/Desuri; buses and taxis from Falna, Udaipur, and Jodhpur."
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March.",
+    "opening_hours": "Not published in the sources consulted (verify - confirm locally); usually visited alongside the Ranakpur Jain complex."
+  }
+}

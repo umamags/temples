@@ -1,0 +1,42 @@
+{
+  "alternate_names": [
+    "Shri Venkatramana Temple"
+  ],
+  "deities": [
+    "Venkatramana (Vishnu)"
+  ],
+  "district": "Belagavi",
+  "festivals": [],
+  "history": {
+    "dynasty": "Unknown",
+    "period": "Not documented",
+    "summary": "UNCERTAIN IDENTITY — very thin web footprint. The only Belagavi-specific referent found is 'Venkatramana Devasthan' at Vitthal Dev Galli, Narvekar Galli, Belagavi, a small neighbourhood Vaishnavite temple with listed hours 8 AM-8 PM; no history, founding date, or festival details are documented anywhere. Other Venkatramana/Venkataramana temples exist across Karnataka (Hubballi, Mulki, Ankola, Karwar, Jamakhandi), so the generic CSV name may intend a different shrine. Coordinates are from the single POI listing and are approximate; identity should be confirmed."
+  },
+  "id": "venkatramana-devasthan-narvekar-galli-belagavi",
+  "latitude": 15.844055,
+  "longitude": 74.517605,
+  "media": [],
+  "name": "Venkatramana Devasthan",
+  "sources": [
+    "https://meta.ai?place_id=1154208459561074",
+    "https://www.justdial.com/Belgaum/Hindu-Shrine-in-Ram-Nagar/nct-12265868"
+  ],
+  "state": "Karnataka",
+  "town": "Belagavi",
+  "town_description": "Belagavi (Belgaum) is a major city in northwestern Karnataka near the Maharashtra and Goa borders, known for the historic Belgaum Fort, the 1204 Kamala Basti, and its colleges; it sits on an important road and rail link between Mumbai and Bengaluru.",
+  "tradition": "Vaishnavism",
+  "travel": {
+    "airport": "Belagavi Airport, Sambra (~10-15 km)",
+    "railway": "Belagavi Railway Station (~3 km)",
+    "road": "Vitthal Dev Galli, Narvekar Galli, in the old city"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October-March.",
+    "opening_hours": "Listed as 8:00 AM - 8:00 PM daily (per the single POI listing; unverified)."
+  }
+}

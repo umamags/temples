@@ -1,0 +1,49 @@
+{
+ "alternate_names": [
+  "Madan Mohanji Temple, Nathdwara",
+  "Navneet Priyaji Temple, Nathdwara",
+  "Naveet Priya Temple"
+ ],
+ "deities": [
+  "Madan Mohanji (Krishna)",
+  "Navneet Priyaji (Naveet Priya, Krishna as a child)"
+ ],
+ "district": "Rajsamand",
+ "festivals": [
+  "Janmashtami",
+  "Holi",
+  "Annakut (same Pushtimarg festive calendar as Shrinathji - verify which festivals each haveli observes)"
+ ],
+ "history": {
+  "dynasty": "Mewar royal family; the Nathdwara shrines date to Maharana Raj Singh's grant of protection in 1669-1672",
+  "period": "17th century (with the Nathdwara settlement); origins of the icons earlier - Madan Mohanji was gifted to Shri Nathji by the wife of Maharana Fateh Singh of Udaipur, and Naveet Priya came to Nathdwara together with Shrinathji",
+  "summary": "Two Pushtimarg (Vallabha Sampradaya) havelis in Nathdwara, documented together because both are under the same administration as the Shrinathji Temple (per the Nathdwara Wikipedia article). Madan Mohanji's haveli stands along the main route from Shri Nathji's main gate towards the older dharamshalas and the market; its icon was once cared for by a princess of Udaipur and is now in the care of ShriNathji (per a Nathdwara guide document). The idol of Naveet Priya - Krishna as a child - came to Nathdwara with Shrinathji himself in the 1670s migration from Govardhan/Vrindavan. Opening hours and individual festival schedules for these two havelis are not documented online (verify). Geocoded coordinates are for the Madan Mohan Ji Temple (exact match, relevance 100); Navneet Priyaji's haveli is a separate nearby shrine - verify."
+ },
+ "id": "madan-mohanji-navneet-priyaji-temples-nathdwara",
+ "latitude": 24.92888,
+ "longitude": 73.81695,
+ "media": [],
+ "name": "Madan Mohanji and Navneet Priyaji Temples",
+ "sources": [
+  "https://en.wikipedia.org/wiki/Nathdwara",
+  "https://www.scribd.com/presentation/117942159/Nathdwara"
+ ],
+ "state": "Rajasthan",
+ "town": "Nathdwara",
+ "town_description": "Nathdwara ('portal of the Lord') is a pilgrim town in Rajsamand district on the Banas river, about 45 km northeast of Udaipur. It was founded in the 17th century when the Shrinathji deity was moved here from Govardhan/Vrindavan for protection from Aurangzeb, and it remains the headquarters of the Pushtimarg sect with the haveli-style Shrinathji temple at its center.",
+ "tradition": "Hindu (Pushtimarg/Vaishnavism - Vallabha Sampradaya)",
+ "travel": {
+  "airport": "Maharana Pratap Airport, Udaipur, about 60 km away.",
+  "railway": "Nearest major railhead Udaipur, about 45-48 km away (verify); local buses and taxis connect to Nathdwara.",
+  "road": "About 45 km northeast of Udaipur on NH-158; well connected by road and local buses."
+ },
+ "video": {
+  "audio": "",
+  "script": "",
+  "video_file": ""
+ },
+ "visitor_information": {
+  "best_time": "October to March; Janmashtami and the winter festival season are the busiest.",
+  "opening_hours": "Darshan timings for these havelis are not documented online (verify locally); the main Shrinathji temple follows the traditional eight-darshan Pushtimarg schedule. FLAG: no reliable image of these specific havelis was found despite searching (results returned unrelated Madan Mohan temples) - media left empty."
+ }
+}

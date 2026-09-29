@@ -1,0 +1,46 @@
+{
+  "alternate_names": [
+    "Ayyappa Temple, Sector 3, Rourkela"
+  ],
+  "deities": [
+    "Lord Ayyappa (Dharmasastha)"
+  ],
+  "district": "Sundargarh",
+  "festivals": [
+    "Makaravilakku / Mandala season — common to Ayyappa temples; not specifically confirmed for Rourkela"
+  ],
+  "history": {
+    "dynasty": "Modern (no published history)",
+    "period": "Modern (20th–21st century; date unknown)",
+    "summary": "A modern Ayyappa shrine in Rourkela's steel-city Sector layout, documented here as the best-supported referent. FLAGS — GENERIC NAME WITH MULTIPLE CANDIDATES: (1) a full-address geocode match (relevance 100) places 'Ayyappa' at Block A, Sector 3, Rourkela 769002; (2) meta.ai lists 'Ayyappa Temple, Temple Complex, Sector-03' at different coordinates (22.230188, 84.841227); (3) Justdial/onefivenine list an 'Ayyappa Temple, Sector-4'. These may be two or three distinct shrines or the same shrine recorded differently — identity is uncertain and no online history, founder, or deity detail exists for any of them. The Sector-3 referent (geocode full-address match) is used here; coordinates follow that match. No reliable image was found after genuine searching — media left empty. Do not treat this file as a verified single-shrine record."
+  },
+  "id": "sri-ayyappa-temple-rourkela",
+  "latitude": 22.24827,
+  "longitude": 84.87751,
+  "media": [],
+  "name": "Sri Ayyappa Temple",
+  "sources": [
+    "https://meta.ai?place_id=564583966555905",
+    "https://meta.ai?place_id=911416134280661",
+    "https://www.justdial.com/Rourkela/Temples-in-Rourkela-Sector-5/nct-10475644",
+    "https://www.onefivenine.com/india/Listing/Locality/temples/Sundargarh/Raurkela/Sector-_1a-4"
+  ],
+  "state": "Odisha",
+  "town": "Rourkela",
+  "town_description": "Sector 3 is one of the planned sectors of Rourkela Steel Township in Sundargarh district, Odisha, near the Jagannath Temple complex at Ahirabandh and Ring Road. The township sectors host many community shrines serving the steel-plant workforce.",
+  "tradition": "Ayyappa worship (Kerala tradition)",
+  "travel": {
+    "airport": "Jharsuguda (Veer Surendra Sai Airport) is the nearest airport; Biju Patnaik International Airport, Bhubaneswar is the nearest major airport.",
+    "railway": "Rourkela Junction — major railhead on the Howrah–Mumbai line.",
+    "road": "Sector 3, Rourkela steel township — well connected by city roads."
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March; the Mandala/Makaravilakku season (Nov–Jan) is the main Ayyappa pilgrimage season.",
+    "opening_hours": "No published hours found online — verify locally."
+  }
+}

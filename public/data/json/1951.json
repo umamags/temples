@@ -1,0 +1,39 @@
+{
+  "alternate_names": [],
+  "deities": [],
+  "district": "Kiphire",
+  "festivals": [],
+  "history": {
+    "dynasty": "",
+    "period": "Unknown (UNVERIFIED)",
+    "summary": "This is the mandir (Hindu shrine) inside the campus of the 41 Assam Rifles battalion at Kiphire, Nagaland - a unit place of worship, not a public temple. On 22 April 2025 an electrical short circuit caused a fire that severely damaged the mandir; two fire tenders from Fire Station Kiphire contained it in about 1 hour 15 minutes and no casualties were reported (DIPR Nagaland). No source documents its founding date, presiding deity, or festivals (UNVERIFIED). Access is restricted: it sits inside an active military battalion campus and is not open to the general public. Coordinates below are approximate for Kiphire town; the exact campus location is unverified."
+  },
+  "id": "mandir-assam-rifles-kiphire",
+  "latitude": 25.888,
+  "longitude": 94.785,
+  "media": [],
+  "name": "Mandir, 41 Assam Rifles, Kiphire",
+  "sources": [
+    "https://ipr.nagaland.gov.in/node/16594",
+    "https://nagamesekhobor.com/category/nagaland/kiphire/page/4/",
+    "https://en.wikipedia.org/wiki/Kiphire"
+  ],
+  "state": "Nagaland",
+  "town": "Kiphire",
+  "town_description": "Kiphire is the headquarters town of Kiphire district in eastern Nagaland, situated at about 896 m above sea level. It was carved out of Tuensang district and is home to the Sangtam, Yimchunger and Sema Naga tribes. It is about 254 km from Kohima and is the nearest district headquarters to Mt. Saramati, Nagaland's highest peak. It is a remote hill town with limited connectivity.",
+  "tradition": "Hinduism",
+  "travel": {
+    "airport": "Dimapur Airport (the state's only civil airport), ~300+ km by road (verify)",
+    "railway": "Dimapur Railway Station (the state's only railhead), ~300+ km by road (verify)",
+    "road": "By road via Mokokchung/Tuensang on state highways; long hill journey from Kohima (~254 km, per kiphire.nic.in) (verify)"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "Not applicable - restricted military campus",
+    "opening_hours": "Not applicable - restricted military campus; civilian darshan not documented (verify)"
+  }
+}

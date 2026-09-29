@@ -1,0 +1,51 @@
+{
+  "alternate_names": [
+    "Leaning Temple of Huma",
+    "Bimaleswar Temple",
+    "Huma Bimaleswar Temple"
+  ],
+  "deities": [
+    "Lord Shiva as Bimaleswar (Adya Sambhu, first of the Asta-Sambhu)",
+    "Bhairavi Devi shrine to the left and Bhairo shrine to the right of the main temple"
+  ],
+  "district": "Sambalpur",
+  "festivals": [
+    "Maha Shivaratri (great annual fair at the foothill, per Odisha Hindu Religious Endowments Commission)"
+  ],
+  "history": {
+    "dynasty": "Eastern Ganga origin (Anangabhima Deva III); rebuilt by Chauhan King Baliar Singh (1660–1690); additions under King Ajit Singh (1766–1788)",
+    "period": "13th-century origin; 17th-century rebuild (1660–1690)",
+    "summary": "The Huma Temple at Huma village, on the left bank of the Mahanadi about 23 km south of Sambalpur, is one of only two leaning temples in the world — the main shrine tilts about 13.8° toward the north-east while other shrines in the complex tilt in different directions, yet the pinnacle remains perpendicular to the ground. Historical records credit Eastern Ganga emperor Anangabhima Deva III with the original temple; it was rebuilt/renovated by Chauhan king Baliar Singh (1660–1690), with the remaining structures added under King Ajit Singh (1766–1788). The tilt is attributed to geological causes — displacement of the rocky bed by Mahanadi floods or earthquakes — and locals say the angle has not changed in 40–50 years. Legend says a cowherd (Gauda) discovered the divine presence when a cow's milk was absorbed by a rock on the river bank. The temple is an ASI-protected monument and a pilgrimage centre famed for its sacred 'Kudo' fish in the Mahanadi, believed to be the god's assets and never caught. CSV CORRECTION: the CSV town 'Sambalpur' is the nearest CITY, not the temple's location — corrected to Huma village, Sambalpur district (Tabada area, PIN 768113). Coordinates are a village-level geocode match for Huma, approximate."
+  },
+  "id": "huma-leaning-temple-sambalpur",
+  "latitude": 21.28957,
+  "longitude": 83.93528,
+  "media": [
+    "https://lightup-temples.s3.ap-south-1.amazonaws.com/wp-content/uploads/IMG_20220312_132632.jpg"
+  ],
+  "name": "Huma Temple",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Leaning_Temple_of_Huma",
+    "https://lightuptemples.com/huma-bimaleswar-leaning-temple-odisha/",
+    "https://hinduendowments.odisha.gov.in/temples/huma-temple/",
+    "https://eodisha.in/huma-temple-sambalpur/"
+  ],
+  "state": "Odisha",
+  "town": "Huma",
+  "town_description": "Huma is a village in Sambalpur subdivision, about 23 km south of Sambalpur city, on the left bank of the Mahanadi at its confluence with the Dhuli Jor. Apart from the famous leaning temple, the river bank here is known for the tame, sacred Kudo fish.",
+  "tradition": "Shaivism",
+  "travel": {
+    "airport": "Jharsuguda (Veer Surendra Sai Airport) — nearest airport, roughly 60 km away; Biju Patnaik International Airport, Bhubaneswar is the nearest major airport.",
+    "railway": "Sambalpur Junction — nearest major railway station, about 23 km away.",
+    "road": "Huma village is about 23 km south of Sambalpur by road (Tabada area); no entry fee; photography allowed outside the sanctum."
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March for pleasant weather; Maha Shivaratri in March draws the great annual fair.",
+    "opening_hours": "Open daily as a living ASI-protected monument; exact darshan hours are not published online — verify locally before travel."
+  }
+}

@@ -1,0 +1,53 @@
+{
+ "alternate_names": [
+  "Enchey Gompa"
+ ],
+ "deities": [
+  "Buddha",
+  "Lokeshwara (Avalokiteshvara)",
+  "Guru Padmasambhava",
+  "Khangchendzonga and Yabdean (protecting deities)"
+ ],
+ "district": "Gangtok",
+ "festivals": [
+  "Chaam / Detor Cham masked dance - 18th-19th day of the 12th Tibetan lunar month (~January-February)",
+  "Singhe Chaam (verify)",
+  "Pang Lhabsol (verify)"
+ ],
+ "history": {
+  "dynasty": "None (established by a tantrik lama)",
+  "period": "Founding date DISPUTED: 1840 vs 1909 (both published - unresolved)",
+  "summary": "CSV DUPLICATE FLAG: this row ('Enchey Monastery', Gangtok) is a DUPLICATE of CSV row 915 ('Enchey Monastery', Mangan) - both describe the same Nyingma Buddhist monastery standing ~3 km north-east of Gangtok in Gangtok district. Row 915 already corrects the CSV town to Gangtok. Deprecate one of the two rows; keep this cross-reference rather than listing twice. THIS IS A BUDDHIST MONASTERY (NYINGMA), NOT A HINDU TEMPLE - keep-or-drop decision needed. 'Enchey' means 'the solitary monastery'. It was founded by the tantrik Lama Druptob Karpo, a master said to have flying powers who blessed the site after flying from Maenam Hill and established a small gompa/hermitage there. FOUNDING-DATE FLAG: sources genuinely disagree - some give 1840 and others 1909 - treat as unresolved. The protecting deities are Khangchendzonga and Yabdean; legend says Guru Padmasambhava subdued spirits here. The prayer hall walls are covered with murals of the four cardinal-direction deities. About 90 Nyingma monks reside here."
+ },
+ "id": "enchey-monastery-gangtok-csv-duplicate",
+ "latitude": 27.33583,
+ "longitude": 88.61917,
+ "media": [
+  "https://www.bontravelindia.com/wp-content/uploads/2024/12/Enchey-Monastery-Sikkim.jpg"
+ ],
+ "name": "Enchey Monastery",
+ "sources": [
+  "https://en.wikipedia.org/wiki/Enchey_Monastery",
+  "https://www.visittobengal.com/enchey-monastery.php",
+  "https://www.dreamwaydestinations.com/enchey-monastery.php",
+  "https://www.bontravelindia.com/enchey-monastery-sikkim/"
+ ],
+ "state": "Sikkim",
+ "town": "Gangtok (CSV town correct; this row duplicates seq 915 - see history)",
+ "town_description": "Enchey stands on a forested hill ~3 km north-east of Gangtok, the capital of Sikkim, with the Kanchenjunga range visible from the complex. It is one of Gangtok's most-visited monasteries, easily combined with the nearby Flower Exhibition Centre and Ganesh Tok viewpoint.",
+ "tradition": "Buddhism (Tibetan, Nyingma) - NOT a Hindu temple",
+ "travel": {
+  "airport": "Pakyong Airport - about 30-35 km (verify).",
+  "railway": "New Jalpaiguri (NJP) - about 125 km (verify).",
+  "road": "Easy road access from Gangtok city (about 3 km); taxis and shared cabs (verify)."
+ },
+ "video": {
+  "audio": "",
+  "script": "",
+  "video_file": ""
+ },
+ "visitor_information": {
+  "best_time": "October to December and March to June; the January-February Chaam is the cultural highlight.",
+  "opening_hours": "Not published (verify - expected daylight hours; confirm locally)."
+ }
+}

@@ -1,0 +1,57 @@
+{
+  "alternate_names": [
+    "Shree Saunsthan Mahalaxmi",
+    "Mahalaxmi Devasthan, Bandora",
+    "Mahalakshmi Temple, Bandora"
+  ],
+  "deities": [
+    "Goddess Mahalaxmi (two idols: the original and the 16th-century idol relocated from Colva)",
+    "Shri Ravalnath",
+    "Shri Baleshwar",
+    "Shri Narayan Purush"
+  ],
+  "district": "North Goa",
+  "festivals": [
+    "Ram Navami (principal festival, with palkhi processions)",
+    "Mahashivratri",
+    "Navratri",
+    "Chaitra Pournima",
+    "annual zatra (March-April)"
+  ],
+  "history": {
+    "dynasty": "Portuguese colonial period (temple destroyed 1567); present structure 18th century",
+    "period": "15th-18th century",
+    "summary": "CSV town is WRONG: this temple is at Bandora (Bandivade), Ponda taluka, North Goa - not Vasco da Gama. Originated around the 15th century; Portuguese records list the Mahalaxmi (Malcumi) temple among those destroyed in 1567. During the Portuguese Inquisition era, two devotees (Safto and Fato) smuggled the idol out of Colva in a trunk at night, first to Talauli near Ponda (where the goddess's footprints are still worshipped), then to Bandora, where it was installed alongside the existing idol - so the temple now houses two idols of Mahalaxmi. The deity wears a linga on her head (her satvika/peaceful form); the temple is the kuldevi of many Saraswat families. The current 18th-century structure has a silver arched doorway, 24 wooden panels depicting Bhagavata Purana scenes, a monolithic medieval deepastamba, and a sabhamandapa art gallery with 22 woodcarvings of the Vyuha - considered rare in the subcontinent."
+  },
+  "id": "shree-mahalaxmi-temple-bandora-ponda",
+  "latitude": 15.38098,
+  "longitude": 73.98006,
+  "media": [
+    "https://www.mahalaxmibandora.com/wp-content/uploads/2020/08/PSX_20200728_174854-1-800x427.jpg"
+  ],
+  "name": "Shree Mahalaxmi Temple",
+  "sources": [
+    "https://goa-tourism.org.in/shri-mahalaxmi-temple-goa",
+    "https://www.inheritage.foundation/heritage/mahalaxmi-temple",
+    "https://traveltriangle.com/blog/shree-mahalaxmi-temple/",
+    "https://alsphere.org/wp-content/uploads/2022/03/Discovering-the-Temples-of-Goa-by-Brig-AP-Singh.pdf"
+  ],
+  "state": "Goa",
+  "town": "Bandora",
+  "town_description": "Bandora (also Bandivade) is a village in Ponda taluka, North Goa, about 4 km from Ponda town and 28 km from Panaji. It is known as a Goan temple town, housing several major Hindu temples including Mahalaxmi and the Shantadurga temple at nearby Kavale.",
+  "tradition": "Hindu, Shakta (Kuldevata worship)",
+  "travel": {
+    "airport": "Goa International Airport, Dabolim (~28 km) or Manohar International Airport, Mopa",
+    "railway": "Karmali or Madgaon Junction (~18-25 km)",
+    "road": "Well-connected by road; ~4 km from Ponda town, with local bus and taxi services from Panaji and Margao."
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March; Navratri and the annual zatra (March-April) for festive darshan.",
+    "opening_hours": "6:00 AM to 8:30 PM daily; poojas 7:00-11:30 AM, 12:00 PM and 8:00 PM. Entry free."
+  }
+}

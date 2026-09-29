@@ -1,0 +1,43 @@
+{
+  "alternate_names": [
+    "Gauri Shankar Temple",
+    "Shiv Temple, Katra Bazar-Gujrati Bazar"
+  ],
+  "deities": [
+    "Lord Shiva",
+    "Goddess Parvati (Gauri)"
+  ],
+  "district": "Sagar",
+  "festivals": [],
+  "history": {
+    "dynasty": "Unknown",
+    "period": "Unknown (not documented)",
+    "summary": "PROVISIONAL/THIN RECORD: a local Shiva-Parvati (Gauri-Shankar) shrine in Sagar city, Sagar district, Madhya Pradesh, listed at Katra Bazar-Gujrati Bazar, Tilak Ganj (PIN 470002). No published history, founder, or festival record could be found after genuine web searching; the deity pair is inferred from the temple's name (unverified). Coordinates come from an Instagram location listing (23.83963, 78.742556) and geocoder confirmation, not from temple documentation. Do NOT confuse with the well-documented Gauri Shankar temples of Chandni Chowk (Delhi) or Naggar (Kullu, Himachal Pradesh) - those are different temples and their histories do not apply here. Needs on-the-ground verification or removal if the CSV intended a different shrine. CSV town/state (Sagar, Madhya Pradesh) are correct."
+  },
+  "id": "shri-gauri-shankar-mandir-sagar-madhya-pradesh",
+  "latitude": 23.83959,
+  "longitude": 78.74279,
+  "media": [],
+  "name": "Shri Gauri Shankar Mandir",
+  "sources": [
+    "https://www.instagram.com/explore/locations/111496453617834"
+  ],
+  "state": "Madhya Pradesh",
+  "town": "Sagar",
+  "town_description": "City in central Madhya Pradesh and headquarters of Sagar district, set in the Vindhya Range around the historic Lakha Banjara Lake.",
+  "tradition": "Shaivism",
+  "travel": {
+    "airport": "Nearest airports: Bhopal and Jabalpur",
+    "railway": "Sagar railway station",
+    "road": "Connected by road within Madhya Pradesh"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October-March (general; not sourced for this temple)",
+    "opening_hours": "Not documented (verify)"
+  }
+}

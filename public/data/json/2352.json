@@ -1,0 +1,57 @@
+{
+  "alternate_names": [
+    "Matabari",
+    "Tripureshwari Temple",
+    "Kurma Pitha",
+    "Devi Tripureshwari"
+  ],
+  "deities": [
+    "Tripura Sundari (Tripureshwari, the third Mahavidya - 5-ft idol, presiding deity)",
+    "Chhota Ma (smaller 2-ft idol, identified with Goddess Chandi)"
+  ],
+  "district": "Gomati",
+  "festivals": [
+    "Diwali mela (major annual fair, 200,000+ pilgrims)",
+    "Navratri",
+    "Garia Puja (listed by temple directories - verify)",
+    "Pous Sankranti (listed by temple directories - verify)"
+  ],
+  "history": {
+    "dynasty": "Manikya dynasty",
+    "period": "Built 1501 CE",
+    "summary": "DUPLICATE FLAG: seq 2352 is the SAME famous Matabari Shakti Peetha already documented as seq 1021 (id tripura-sundari-temple-matabari-udaipur) and seq 1026 (id tripureshwari-temple-matabari-udaipur) - recommend merging all three into one canonical record. Identity confirmed: this is the renowned Tripura Sundari Temple, one of the 51 Shakti Peethas (legend: Sati's right foot fell here; her Bhairava is Tripuresh), the shrine that gave Tripura its name. Built in 1501 CE by Maharaja Dhanya Manikya after a divine dream; the hilltop already held a Vishnu shrine, and the king reconciled the vision as the unity of Vishnu and Shakti. Bengali Ek-ratna style: square sanctum with a conical/pagoda-like dome, on a tortoise-hump-shaped hillock (Kurma Pith). The 5-ft Tripura Sundari idol was brought from Chittagong; a smaller 2-ft 'Chhota Ma' (Chandi) stands beside her. Behind the temple lies the Kalyan Sagar lake, home to rare, revered Bostami turtles. Second-most-visited temple in Northeast India after Kamakhya. Redeveloped under the PRASHAD scheme (Rs 34.43 crore), inaugurated by PM Modi on 22 September 2025."
+  },
+  "id": "tripura-sundari-temple-matabari-duplicate",
+  "latitude": 23.5089,
+  "longitude": 91.49828,
+  "media": [
+    "https://i0.wp.com/tripuratoday.in/wp-content/uploads/2025/02/tripura-sundari-devi-temple-2.jpeg?w=1200&ssl=1"
+  ],
+  "name": "Tripura Sundari Temple (Matabari)",
+  "sources": [
+    "https://tripurasundari.tripura.gov.in/contact-us",
+    "https://northeastindiaconnect.com/tripura-sundari-temple-udaipur-guide/",
+    "https://travelsetu.com/guide/tripura-sundari-temple-also-known-as-matabari-temple-tourism",
+    "https://maa-tripurasundari.com/tripura-sundari-temple-udaipur-tripura-shakti-peetha/",
+    "https://allworldtemple.com/tripura-sundari-temple-tripura/",
+    "https://www.bharattemples.com/tripura-sundari-temple-gomati-tripura/"
+  ],
+  "state": "Tripura",
+  "town": "Matabari, Udaipur (CSV town 'Udaipur' correct; the temple stands at Matabari, ~5 km from Udaipur town)",
+  "town_description": "Udaipur (ancient Rangamati) in Gomati district was the capital of the Tripura kingdom under the Manikya dynasty before the capital shifted to Agartala. The Tripura Sundari Temple stands on a small hillock at Matabari on the south-western outskirts of Udaipur town, about 55 km south of Agartala, and is Tripura's most famous Hindu pilgrimage site.",
+  "tradition": "Hinduism (Shaktism)",
+  "travel": {
+    "airport": "Maharaja Bir Bikram Airport, Agartala, about 55 km by road.",
+    "railway": "Udaipur (Tripura) railway station is the nearest major railhead; a Matabari rail station is reported about 2 km away (verify).",
+    "road": "On the Agartala-Sabroom road (NH-8), about 5 km from Udaipur town and 55 km from Agartala; the temple has its own management trust with pilgrim accommodation."
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March; Diwali for the famous mela (expect very large crowds).",
+    "opening_hours": "Sources conflict: the temple's official listing gives 4:00 AM-10:00 PM daily; other directories list about 5:30/6:00 AM-9:00 PM, some with a midday break (verify on the day of visit)."
+  }
+}

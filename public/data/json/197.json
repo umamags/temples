@@ -1,0 +1,49 @@
+{
+  "alternate_names": [
+    "Danteshwari Temple, Dongargarh",
+    "Danteshwari Mandir, Danteshwari Para"
+  ],
+  "deities": [
+    "Danteshwari (form of Shakti/Durga)"
+  ],
+  "district": "Rajnandgaon",
+  "festivals": [
+    "Navratri"
+  ],
+  "history": {
+    "dynasty": "",
+    "period": "",
+    "summary": "Most likely referent for this CSV row is the Shri Danteshwari Temple at Danteshwari Para, Ward No. 2, Dongargarh (Rajnandgaon district, pin 491445) — a small local Devi shrine listed on JustDial, Yappe and top-rated.online (4.0, 25 reviews). It is NOT the famous 14th-century Danteshwari Shakti Peetha at Dantewada, South Bastar (~300 km away). CSV town 'Rajnandgaon' is approximate: this shrine is in Dongargarh town. AMBIGUITY: Ambagarh Chowki (also Rajnandgaon district) has a separately listed 'Danteshwari Mandir' (indiainfo.net); the CSV row could intend either. No documented history, founding date, or festival details for the Dongargarh shrine beyond its listings; Navratri is listed as the customary observance only."
+  },
+  "id": "shri-danteshwari-temple-dongargarh",
+  "latitude": 21.19024,
+  "longitude": 80.75588,
+  "media": [
+    "https://vushii.com/uploads/476699137_Shri%20Danteshwari%20Temple.png"
+  ],
+  "name": "Shri Danteshwari Temple, Dongargarh",
+  "sources": [
+    "https://www.justdial.com/Dongargarh/Temples-in-Rengakathera-Rajnandgaon/nct-10475644",
+    "https://www.top-rated.online/cities/Dongargarh/place/p/13239309/Shri+Danteshwari+Temple",
+    "https://www.indiainfo.net/place/danteshwari-mandir-219227",
+    "https://yappe.in/chhattisgarh/dongargarh/hindu-temple"
+  ],
+  "state": "Chhattisgarh",
+  "town": "Dongargarh",
+  "town_description": "Dongargarh is a town in Rajnandgaon district, Chhattisgarh, best known as a pilgrimage centre for the Maa Bamleshwari Temple atop a hill, reached by steps and ropeway.",
+  "tradition": "Shaktism",
+  "travel": {
+    "airport": "Swami Vivekananda Airport, Raipur (nearest major airport)",
+    "railway": "Dongargarh railway station (Howrah-Mumbai main line)",
+    "road": "On NH 53 corridor; connected by road to Rajnandgaon and Raipur"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "",
+    "opening_hours": ""
+  }
+}

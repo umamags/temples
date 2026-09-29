@@ -1,0 +1,51 @@
+{
+    "alternate_names": [
+        "Mata Murti Mandir",
+        "Mata Murty Temple"
+    ],
+    "deities": [
+        "Mata Murti - mother of the twin sages Nar and Narayan (an incarnation of Lord Vishnu); the family deity of the Garhwal region"
+    ],
+    "district": "Chamoli",
+    "festivals": [
+        "Mata Murti Ka Mela (Shravan Dwadashi / Vaman Dwadashi, Bhadrapada month, August-September; Mahabhishek, Geeta Path, Bhagavat Pooja in the mornings, Geet Govinda recital and Aarti in the evenings, with Vedic Ashtotram and Sahasranama recitations)"
+    ],
+    "history": {
+        "dynasty": "Not documented (small shrine; no dynasty attribution found)",
+        "period": "Date of origin undocumented (verify)",
+        "summary": "Identity confirmed: the small Mata Murti temple ~3 km from the Badrinath shrine on the right bank of the Alaknanda, reached by a short easy trek (30 min-1 hr) on the Mana route. It is dedicated to Mata Murti, mother of the twins Nar and Narayan, who are an incarnation of Lord Vishnu: legend says her deep penance persuaded Vishnu to take birth from her womb as the twins to slay a demon; praying here is believed to free one from worldly suffering. The annual Mata Murti fair (August-September) honours her and commemorates the descent of the Ganges on earth. COORDINATE FLAG: the geocoder could not resolve the exact temple, so the coordinates are approximate - ~3 km from the Badrinath temple along the road toward Mana village; verify on the ground before use. Media note: the bookmychardhamyatra.com image candidate was rejected (host returns HTTP 403 to all external fetches); the file's media image is the verified Mata Murti festival photograph from rajasthantourdriver.com."
+    },
+    "id": "mata-murti-badrinath",
+    "latitude": 30.77,
+    "longitude": 79.496,
+    "media": [
+        "https://rajasthantourdriver.com/wp-content/uploads/2023/08/matamurti.jpg"
+    ],
+    "name": "Mata Murti Temple",
+    "sources": [
+        "https://myholidayhappiness.com/place/uttarakhand/badrinath/mata-murti-temple",
+        "https://www.chardhamtours.in/uttarakhand/badrinath/mata-murti-temple_127.html",
+        "https://otaexpert.in/attractions/mata-murty-temple",
+        "http://www.euttaranchal.com/tourism/mata-murti-temple.php",
+        "https://www.holidify.com/places/badrinath/mata-murti-temple-sightseeing-122761.html",
+        "https://www.rajasthantourdriver.com/india/festive-splendor-top-events-in-north-india/"
+    ],
+    "state": "Uttarakhand",
+    "town": "Badrinath (temple is ~3 km from the Badrinath shrine on the route toward Mana)",
+    "town_description": "The Mata Murti shrine lies a short trek from Badrinath town on the right bank of the Alaknanda, on the way toward Mana, the last village on the Indo-Tibet border. Badrinath itself is the Char Dham temple town in Chamoli district at 3,133 m.",
+    "tradition": "Hinduism (Vaishnavism / Devi worship)",
+    "travel": {
+        "airport": "Jolly Grant Airport, Dehradun (~312-317 km); road onward to Badrinath",
+        "railway": "Rishikesh railway station (~293 km); road onward to Badrinath",
+        "road": "~3 km from the Badrinath bus stand/shrine; short easy trek of 30 minutes to an hour"
+    },
+    "video": {
+        "audio": "",
+        "script": "",
+        "video_file": ""
+    },
+    "visitor_information": {
+        "best_time": "April to June and September to November (same open window as Badrinath; closed in winter with Badrinath)",
+        "opening_hours": "No published timings (verify locally)"
+    }
+}

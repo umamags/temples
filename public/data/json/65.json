@@ -1,0 +1,48 @@
+{
+  "alternate_names": [
+    "Chongkham Raj Vihara",
+    "Chowkham Buddhist Temple"
+  ],
+  "deities": [
+    "Buddha"
+  ],
+  "district": "Namsai",
+  "festivals": [
+    "Sangken",
+    "Kathina"
+  ],
+  "history": {
+    "dynasty": "Tai-Khamti community",
+    "period": "18th century (old temple; new temple replaces it)",
+    "summary": "NOT A HINDU TEMPLE — Buddhist (Theravada) monastery of the Tai-Khamti community; keep-or-drop decision needed. CSV TOWN CORRECTION: Chongkham (also spelt Chowkham) is not in Tezu — it is a historic Tai-Khamti village in Namsai district, about 15-22 km from Namsai town. 'Chongkham' literally means 'golden (kham) temple (chong)'; local tradition says the old monastery had a gold-plated roof and the village grew around it. The original 18th-century temple has been replaced by a newer structure. A Buddhist-conclave report describes Chongkham Raj Vihara as one of the oldest monasteries in the region; an academic survey notes a large stupa built at Chowkham on 10 March 1990 by Chow Khamoon Gohain and a dozen early-20th-century votive stupas around the monastery. Coordinates (27.80782, 96.03689) are from the mapped 'Chongkham Buddhist Temple' location pin at Chowkham — approximate; the exact Raj Vihara plot is not independently verified."
+  },
+  "id": "chongkham-raj-vihara-namsai",
+  "latitude": 27.80782,
+  "longitude": 96.03689,
+  "media": [
+    "https://cdn.s3waas.gov.in/s3dc912a253d1e9ba40e2c597ed2376640/uploads/2018/08/2018080813.jpg"
+  ],
+  "name": "Chongkham Raj Vihara (Chongkham Buddhist Temple)",
+  "sources": [
+    "https://www.latestly.com/agency-news/world-news-buddhist-conclave-in-namsai-concludes-with-prayers-and-cultural-unity-6807023.html",
+    "https://www.outlooktraveller.com/experiences/heritage/from-the-latest-issue-in-arunachals-namsai-tradition-lives-at-home"
+  ],
+  "state": "Arunachal Pradesh",
+  "town": "Chongkham",
+  "town_description": "Chongkham (Chowkham) is a historic Tai-Khamti village in Namsai district, one of the oldest villages in eastern Arunachal Pradesh, whose name means 'golden temple'. It lies near the better-known Golden Pagoda of Namsai and is a centre of Theravada Buddhist life in the region.",
+  "tradition": "Theravada Buddhism (Tai-Khamti)",
+  "travel": {
+    "airport": "Mohanbari Airport, Dibrugarh (Assam)",
+    "railway": "Tinsukia (Assam)",
+    "road": "Road via Namsai (~15 km)"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March",
+    "opening_hours": "Daylight hours; no published official timings"
+  }
+}

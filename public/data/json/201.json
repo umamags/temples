@@ -1,0 +1,48 @@
+{
+  "alternate_names": [
+    "Balaji Temple, Jagdalpur",
+    "Sri Venkateshwara Swamy Temple"
+  ],
+  "deities": [
+    "Venkateswara (Balaji, form of Vishnu)"
+  ],
+  "district": "Bastar",
+  "festivals": [
+    "Brahmotsavam"
+  ],
+  "history": {
+    "dynasty": "",
+    "period": "",
+    "summary": "The Sri Venkateswara Swamy (Balaji) Temple at Motitalab Para, Jagdalpur, built through the dedicated efforts of the Andhra Association (vushii, tripinvites, bastariya). Architecture is modelled on the Tirupati Balaji temple. Construction date not documented in any consulted source. Serves as the spiritual and cultural hub of Jagdalpur's Andhra community, with the annual Brahmotsavam as its principal festival. CSV name matches this documented referent directly."
+  },
+  "id": "sri-venkateswara-temple-jagdalpur",
+  "latitude": 19.09058,
+  "longitude": 82.01033,
+  "media": [
+    "https://media.tripinvites.com/places/jagdalpur/venkateshwara-temple/attractive-architecture-of-venkateshwara-temple-featured.jpg"
+  ],
+  "name": "Sri Venkateswara Temple, Jagdalpur",
+  "sources": [
+    "https://vushii.com/place.php?name=Balaji Temple Jagdalpur",
+    "https://bastariya.com/balaji-temple-jagdalpur-bastar/",
+    "https://www.tripinvites.com/places/jagdalpur/venkateshwara-temple/"
+  ],
+  "state": "Chhattisgarh",
+  "town": "Jagdalpur",
+  "town_description": "Jagdalpur is the headquarters of Bastar district in southern Chhattisgarh and the region's administrative and cultural centre, gateway to Chitrakote and Tirathgarh waterfalls and home of the 75-day Bastar Dussehra festival.",
+  "tradition": "Vaishnavism",
+  "travel": {
+    "airport": "Maa Danteshwari Airport, Jagdalpur (limited scheduled services); nearest major airport Raipur",
+    "railway": "Jagdalpur railway station",
+    "road": "NH 30 connects Jagdalpur to Raipur and to Dantewada"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "",
+    "opening_hours": ""
+  }
+}

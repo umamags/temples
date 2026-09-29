@@ -1,0 +1,55 @@
+{
+  "alternate_names": [
+    "Gentse Gaden Rabgyel Ling",
+    "GRL Monastery",
+    "Bomdila Buddhist Monastery"
+  ],
+  "deities": [
+    "Buddha Shakyamuni"
+  ],
+  "district": "West Kameng",
+  "festivals": [
+    "Losar",
+    "Saka Dewa",
+    "Torgya",
+    "Dukpa Tse-Shi",
+    "Lhabab Duechen"
+  ],
+  "history": {
+    "dynasty": "None (modern)",
+    "period": "1965",
+    "summary": "NOT A HINDU TEMPLE - a Gelugpa (Yellow Hat) Tibetan Buddhist monastery (the Upper Gompa of Bomdila); keep-or-drop decision needed. Built in 1965 by the 12th reincarnate of Tsona Gontse Rinpoche and consecrated by the 14th Dalai Lama, it is modeled on the Tsona Gontse Monastery of Tibet. It serves the Tibetan refugee community, trains young lamas, and its main prayer hall (Dukhang) houses a grand statue of the Buddha amid murals and thangkas. Founding-year conflict: most sources say 1965, some say 'early 1960s', and one outlier says 1865 (likely an error)."
+  },
+  "id": "bomdila-monastery-upper-gompa",
+  "latitude": 27.27055,
+  "longitude": 92.41861,
+  "media": [
+    "https://wanderon-images.gumlet.io/gallery/new/2026/04/01/1775040561254-bomdila-gompa.jpg"
+  ],
+  "name": "Bomdila Monastery (Gontse Gaden Rabgyel Ling / GRL, Upper Gompa)",
+  "sources": [
+    "https://templeyatri.in/bomdila-buddhist-monastery/",
+    "https://www.airial.travel/attractions/bomdila/bomdila-monastery-bomdila-arunachal-pradesh-zwdYbASi",
+    "https://indiano.travel/place/lower-gompa-bomdila/",
+    "https://www.inheritage.foundation/explore/tibetan-buddhist-monastic-architecture-in-arunachal-pradesh",
+    "https://vocal.media/wander/bomdila-monastery-a-spiritual-gem-in-arunachal-pradesh"
+  ],
+  "state": "Arunachal Pradesh",
+  "town": "Bomdila",
+  "town_description": "Bomdila is a hill town in West Kameng district and the district headquarters, lying on the road between Tezpur (Assam) and Tawang. Known for its Buddhist monasteries - the Upper and Lower Gompas - panoramic Himalayan views and apple orchards, it is the usual overnight stop for travellers heading onward to Tawang.",
+  "tradition": "Tibetan Buddhism - Gelugpa (Yellow Hat)",
+  "travel": {
+    "airport": "Tezpur Airport, Assam (about 190 km)",
+    "railway": "Rangapara North Junction, Assam (about 146 km)",
+    "road": "On NH-13 on the Tezpur-Tawang road, about 170 km from Tawang"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to April",
+    "opening_hours": "Open daily; detailed hours not published (evening visits may find the monastery closed)"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "alternate_names": [
+    "Hanuman Mandir (Bharatpur Chowk)"
+  ],
+  "deities": [
+    "Hanuman"
+  ],
+  "district": "Koderma",
+  "festivals": [
+    "Hanuman Jayanti"
+  ],
+  "history": {
+    "dynasty": "",
+    "period": "not documented",
+    "summary": "IDENTITY AMBIGUOUS: 'Hanuman Mandir' is a generic name and Koderma town/region has several Hanuman shrines — one at Bharatpur Chowk, Chandwara (listed at 24.433895, 85.464021, geocoded independently at 24.43386, 85.46399), another at nagarkhara (~0.62 km from Koderma railway station, FJC3+543, 825410), plus Hanuman Mandir Garhai and a Hanumaan Mandir on the Koderma-Domchanch Road at Lokai. The documented referent used here is the Bharatpur Chowk listing (two independent sources corroborate its coordinates); it should not be confused with the Dumar Hanuman Mandir (near Hazaribagh, per vimarsana.com) or the Sankat Mochan Temple in Jhumri Telaiya that celebrated its 70th anniversary in April 2026. No built date or history published for this shrine."
+  },
+  "id": "hanuman-mandir-koderma",
+  "latitude": 24.43386,
+  "longitude": 85.46399,
+  "media": [
+    "https://lh5.googleusercontent.com/p/AF1QipNsuT-035ARpCmM0FPbSoj_dZTEieaZUFm9UwtY=w300-k-no"
+  ],
+  "name": "Hanuman Mandir",
+  "sources": [
+    "https://yappe.in/jharkhand/koderma/hanuman-mandir/1555178",
+    "http://www.onefivenine.com/india/Listing/Town/temples/Koderma/Koderma",
+    "https://koderma.nic.in/tourist-place/radhakrishna-mandir/"
+  ],
+  "state": "Jharkhand",
+  "town": "Koderma",
+  "town_description": "Koderma, often referred to as Jhumri Telaiya, is a town in Jharkhand and the headquarters of Koderma district. Once known as the mica capital of India, it lies along National Highway 31 between Patna and Ranchi.",
+  "tradition": "Vaishnavite (Hanuman, devotee of Rama)",
+  "travel": {
+    "airport": "Lok Nayak Jayaprakash Airport, Patna (~165 km)",
+    "railway": "Koderma Junction railway station",
+    "road": "National Highway 31; the nagarkhara Hanuman Mandir listing is ~0.62 km from Koderma railway station"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October-March",
+    "opening_hours": "Open daily; official hours not published - verify locally"
+  }
+}

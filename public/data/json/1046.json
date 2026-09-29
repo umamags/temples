@@ -1,0 +1,50 @@
+{
+  "alternate_names": [
+    "Durgabari, Agartala",
+    "Royal Durga Bari"
+  ],
+  "deities": [
+    "Durga (two-armed form)"
+  ],
+  "district": "West Tripura",
+  "festivals": [
+    "Durga Puja",
+    "Basanti Puja"
+  ],
+  "history": {
+    "dynasty": "Manikya dynasty",
+    "period": "c. 1876 in present Agartala location (verify)",
+    "summary": "CSV town 'Kumarghat' is likely wrong and has been corrected: no temple named 'Durgabari' is documented at Kumarghat (Unakoti district) — the local Durga shrines there are the Durga Mandob (NH-108, Kumarghat) and the Shiva Durga Temple (Bash Bagan Rd), neither called Durgabari. The best-supported referent for the distinctive name 'Durgabari Temple' is Tripura's famous royal Durgabari at Agartala, standing in front of Ujjayanta Palace — documented with this uncertainty flagged. It is Tripura's oldest Durgabari in its present location (~148 years as of 2024, i.e. founded c. 1876 — verify), unique for worshipping the TWO-ARMED form of Goddess Durga: legend says Maharani Sulakshana Devi fainted on seeing a ten-armed goddess and received a divine message to worship a two-armed form instead. The royal worship tradition is ~500 years old, begun by Maharaja Krishna Kishore Manikya at Chittagong (now Bangladesh) and moved via Amarpur and Udaipur to Agartala. The state government sponsors the puja through its Debarchan Vibhag under the 1949 merger agreement; on immersion day the goddess receives a Tripura State Rifles gun salute with the national anthem. The Tripura High Court banned animal sacrifice in temples on 27 September 2019 (first break in ~525 years), resumed December 2019 after Supreme Court interim nod. COORDINATES are approximate (temple stands directly in front of Ujjayanta Palace at 23.8374, 91.2827 — verify exact pin)."
+  },
+  "id": "durgabari-temple-agartala",
+  "latitude": 23.8374,
+  "longitude": 91.2827,
+  "media": [
+    "https://www.tripurastarnews.com/wp-content/uploads/2024/04/16-04-2024-Basanti-Puja-2024-Maha-Ashtami-Puja-Celebration-Of-Basanti-Durga-Puja-At-Durga-Bari-Agartala.Pic-2-768x576.jpeg"
+  ],
+  "name": "Durgabari Temple",
+  "sources": [
+    "https://www.funandflip.com/tourism/tripuras-oldest-durgabari-temple-celebrates-148-years-of-worshiping-twoarm-goddess-durga.html",
+    "https://inshorts.com/en/news/durgabari-temple-marks-148-years-of-worshipping-two-arm-goddess-durga-1728285740569",
+    "https://www.thuglak.com/thuglak/newscontent.php?newsid=11081",
+    "https://swarajyamag.com/amp/story/insta/tripura-no-animal-sacrifice-for-the-first-time-in-525-years-at-durga-bari-temple-after-high-court-bans-practice"
+  ],
+  "state": "Tripura",
+  "town": "Agartala",
+  "town_description": "Agartala is the capital city of Tripura in West Tripura district; Durgabari stands in front of Ujjayanta Palace.",
+  "tradition": "Shaktism",
+  "travel": {
+    "airport": "Maharaja Bir Bikram Airport, Agartala (~12 km)",
+    "railway": "Agartala railway station (~10 km, verify)",
+    "road": "In front of Ujjayanta Palace, Agartala"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October (Durga Puja); March-April (Basanti Puja)",
+    "opening_hours": "Open during puja days; verify locally"
+  }
+}

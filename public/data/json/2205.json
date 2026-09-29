@@ -1,0 +1,39 @@
+{
+  "alternate_names": [],
+  "deities": [
+    "Goddess Kali (presumed from the name - identity unconfirmed, verify)"
+  ],
+  "district": "Soreng",
+  "festivals": [],
+  "history": {
+    "dynasty": "Unknown (verify)",
+    "period": "Unknown (verify)",
+    "summary": "IDENTITY FLAG: CSV row 'Narsing Kali Devi Mandir, Soreng' has no web footprint - repeated targeted searches ('Narsing Kali Devi Mandir Soreng', 'Narsing/Narsingh temple Soreng Sikkim', 'Kali temple Soreng Sikkim') returned no listing, review, news hit or map entry for this temple. It is documented as a provisional placeholder mapped to the Soreng town centre; the name may refer to a small local/community Kali shrine in or near Soreng (possibly 'Narsing' as a locality or a variant spelling of 'Narsingh'/Narasimha - ambiguous, verify locally). No deity details, history, timings or festivals are published. Do not merge blindly with any other Kali shrine. MEDIA FLAG: media is empty - no reliable temple-specific image exists online; coordinates are the Soreng town centre from map geocode (CITY match), not the temple's exact location. SOURCE NOTE: the authoritative Sikkim Ecclesiastical Department district-wise List of Hindu Mandirs was checked on 2026-09-29 - this temple name does not appear on it, and targeted web searches the same day returned no matching listing, review or map entry."
+  },
+  "id": "narsing-kali-devi-mandir-soreng",
+  "latitude": 27.17285,
+  "longitude": 88.19708,
+  "media": [],
+  "name": "Narsing Kali Devi Mandir",
+  "sources": [
+    "http://www.sikkimeccl.gov.in/Documents/RTI/Lists%20of%20Religious%20Institutions/List%20of%20R.I/ListOfHinduMandirsDistrictWise.pdf"
+  ],
+  "state": "Sikkim",
+  "town": "Soreng (identity unconfirmed - coordinates are the Soreng town centre; the temple's exact location is undocumented)",
+  "town_description": "Soreng is the headquarters town of Soreng district in West Sikkim, a small hill town on the road between Gyalshing and Jorethang. It serves as the administrative centre for the district's largely rural, Hindu-Nepali majority population.",
+  "tradition": "Hinduism",
+  "travel": {
+    "airport": "Pakyong Airport - about 70 km (verify).",
+    "railway": "New Jalpaiguri (NJP) - about 140 km (verify).",
+    "road": "Soreng town, West Sikkim; reachable by road via Gyalshing and Jorethang (verify - temple's exact address unknown)."
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "Not documented (verify).",
+    "opening_hours": "Not published (verify - confirm locally)."
+  }
+}

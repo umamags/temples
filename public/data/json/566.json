@@ -1,0 +1,45 @@
+{
+  "alternate_names": [
+    "Shree Dev Lakshmi Narayan Mandir",
+    "Shri Laxmi Narayan Mandir, Moti Nagar"
+  ],
+  "deities": [
+    "Lakshmi",
+    "Vishnu (Narayan)"
+  ],
+  "district": "Sagar",
+  "festivals": [],
+  "history": {
+    "dynasty": "",
+    "period": "",
+    "summary": "Local Vishnu-Lakshmi temple in Sagar, located on NH-86 at Rampura Ward, Moti Nagar, Sagar 470002 - the best exact-name match for the CSV row in Sagar town. It is documented through a Google-maps business listing (worldorgs mirror) with a visitor photo; no published history, builder, dynasty or antiquity date was found, so the dynasty and period fields are left blank. Not to be confused with the well-known 12th-century Lakshmi Narayan temple at Orchha or the Birla Mandir in Delhi."
+  },
+  "id": "shri-dev-lakshmi-narayan-mandir-sagar-moti-nagar",
+  "latitude": 23.83883,
+  "longitude": 78.73997,
+  "media": [
+    "https://lh5.googleusercontent.com/p/AF1QipNdgvy0j6yOfNsZNNNrrNJPx9FEsdbljcpk-89G=w1080-k-no"
+  ],
+  "name": "Shri Dev Lakshmi Narayan Mandir",
+  "sources": [
+    "https://in.worldorgs.com/catalog/sagar/hindu-temple/shree-dev-lakshmi-narayan-mandir"
+  ],
+  "state": "Madhya Pradesh",
+  "town": "Sagar",
+  "town_description": "Sagar is a city in Madhya Pradesh on a spur of the Vindhya Range, known as the 'city of lakes' after the historic Lakha Banjara lake in its heart. It is home to Dr. Hari Singh Gour Central University and, with its temples, lakes and waterfalls, is an established stop on the Bundelkhand tourist circuit.",
+  "tradition": "Hindu",
+  "travel": {
+    "airport": "Jabalpur is the nearest major airport (about 175-180 km, per temple-directory listings)",
+    "railway": "Saugor (Sagar) railway station",
+    "road": "Sagar is connected by road via NH 26 and NH 86"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "September to February (winter)",
+    "opening_hours": ""
+  }
+}

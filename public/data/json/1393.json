@@ -1,0 +1,54 @@
+{
+  "alternate_names": [
+    "Sita Temple",
+    "Deorbija Sita Temple",
+    "Devarbija Temple"
+  ],
+  "deities": [
+    "Shiva",
+    "Sita",
+    "Sarasvati"
+  ],
+  "district": "Durg",
+  "festivals": [],
+  "history": {
+    "dynasty": "Kalachuri (Ratanpur branch)",
+    "period": "Early 13th century CE (12th-13th century CE)",
+    "summary": "TOWN CORRECTED: the temple is not in Durg city but at Deorbija (Devarbija) village, Saja tehsil, Durg district — note some gazetteers now place the village in Bemetara district, and village coordinates conflict across sources (verify). The only evidence of the village's antiquity is this 12th-13th century CE sandstone temple on the western bank of the Devaraha tank. Dedicated to Shiva, it later received a female deity statue in the garbha-grha and came to be called the Sita Temple. It faces east with garbha-grha and antarala (the ardha-mandapa is lost), built in sapta-ratha plan with a nagara latina shikhara of seven bhumis; carvings include a rare Pandava-Shivalinga-worship scene on the antarala lintel (paralleled at Janjgir, Gandai and Ratanpur), Ganga-Yamuna door jambs, and bhadra-niche images of Natesa, Andhakantaka, Surya, Harihara-Hiranyagarbha, Mahishasuramardini, Vaishnavi and Kaumari. Local legend says it was built in six nights, and that Rama, Sita and Lakshmana visited during exile. It is a protected monument under the Archaeological Survey of India. Coordinates are approximate for the village (postal-code level; conflicting figures 21.2134/81.3854 vs 21.6667/81.4000 across gazetteers — verify)."
+  },
+  "id": "deorbijia-temple",
+  "latitude": 21.2134,
+  "longitude": 81.3854,
+  "media": [
+    "https://lightup-temples.s3.ap-south-1.amazonaws.com/wp-content/uploads/2019-03-08-2.jpg"
+  ],
+  "name": "Deorbijia Temple",
+  "sources": [
+    "https://puratattva.in/deorbija-sita-temple/",
+    "https://lightuptemples.com/deorbija-sita-devi-temple-chhattisgarh/",
+    "https://www.tripadvisor.in/Attraction_Review-g1584787-d3172232-Reviews-Deorbijia_Temple-Durg_Durg_District_Chhattisgarh.html",
+    "http://www.99mustsee.com/India/Deorbijia-Temple-Drug-Chhattisgarh-Attractions-4135",
+    "https://www.justdial.com/Durg/Shani-Mandir/9999PX788-X788-180303213128-I7B4_BZDET",
+    "https://indiamapia.com/Durg/Deorbija.html",
+    "https://zip.nowmsg.com/postal_code.asp?country=IN&state=Chattisgarh&county=Durg&city=Deorbija",
+    "https://mapcarta.com/14892086"
+  ],
+  "state": "Chhattisgarh",
+  "town": "Deorbijia",
+  "town_description": "Deorbijia (also spelled Deorbija or Devarbija) is a small village in Saja tehsil, historically of Durg district, Chhattisgarh, with postal code 491993. It lies on the Raipur-Bemetara road and is known almost entirely for its 12th-13th century sandstone temple on the Devaraha tank, a protected monument that draws heritage visitors and pilgrims.",
+  "tradition": "Hinduism (Shaivism)",
+  "travel": {
+    "airport": "Swami Vivekananda Airport, Raipur, about 60-70 km (verify)",
+    "railway": "Gundardehi is the nearest rail point per postal gazetteers; Raipur Junction is the major station, about 60 km (verify)",
+    "road": "On the Raipur-Bemetara road; hire a taxi from Raipur, Durg or Bemetara as public transport is limited (verify)"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March (verify)",
+    "opening_hours": "Not published online (verify)"
+  }
+}

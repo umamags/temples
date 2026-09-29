@@ -1,0 +1,57 @@
+{
+  "alternate_names": [
+    "Ranchhodraiji Temple",
+    "Raja Ranchhod Temple",
+    "Dakor Krishna Temple"
+  ],
+  "deities": [
+    "Krishna (as Ranchhodrai / Dwarkadhish)"
+  ],
+  "district": "Kheda",
+  "festivals": [
+    "Janmashtami",
+    "Holi",
+    "Rathyatra",
+    "Hindola Utsav",
+    "Annukut",
+    "Kartik Purnima",
+    "Falgun Purnima",
+    "Chaitra Purnima"
+  ],
+  "history": {
+    "dynasty": "Peshwa era; built by Gopal Jagannath Ambekar (Tambekar) of the Peshwa court; throne gifted by the Gaekwad of Baroda; Pushtimarg rites instituted by Harirāya in 1625",
+    "period": "devotee legend of Bodana dated 1151; present temple built 1769–70/1772 AD",
+    "summary": "Dakor's famous Krishna temple dedicated to Ranchhodji — 'he who left the battlefield', Krishna's name after fleeing Jarasandha (which legend says led him to Gujarat and Dwarka). The Dakor-mahatmya says the Dwarkadhish idol came back with the aged devotee Bodana to Dakor in 1151; the present temple on the Gomti lake bank was built by the Peshwa's shroff Gopal Jagannath Ambekar after a dream (1769–70/1772). It has 8 domes, 24 turrets and a 27 m central dome with golden kalash; the 1 m black-touchstone idol sits on an ornate silver-and-gold throne gifted by the Gaekwad of Baroda. Build year is given as 1770 in some sources and 1772 in others (CONFLICT — verify)."
+  },
+  "id": "ranchhodrai-temple",
+  "latitude": 22.7538,
+  "longitude": 73.144,
+  "media": [
+    "https://upload.wikimedia.org/wikipedia/commons/0/09/Dakore_temple_-_By_Ashesh_Shah.jpg"
+  ],
+  "name": "Ranchhodrai Temple",
+  "sources": [
+    "https://gtbooking.gujarattourism.com/central-zone/kheda/ranchhodrai-temple.html",
+    "https://www.theindia.co.in/places/dakor-temple",
+    "https://en.wikipedia.org/wiki/Dakor",
+    "https://www.hindu-blog.com/2014/07/dakor-dasrhan-timing-darshan-time-at.html"
+  ],
+  "state": "Gujarat",
+  "town": "Dakor",
+  "town_description": "Dakor is a small pilgrim city and municipality in Kheda district, Gujarat, in Thasra taluka, about 35 km east of Nadiad and 43 km northeast of Anand. Its name derives from ancient 'Dankor' (after Danknath Mahadev) and 'Khakhariya' (palash trees); the town sits by the holy Gomti lake and draws large Krishna-devotee crowds, especially on full-moon days.",
+  "tradition": "Hinduism (Vaishnavism — Pushtimarg)",
+  "travel": {
+    "airport": "Vadodara (~78 km) or Ahmedabad (~90 km, verify)",
+    "railway": "Nadiad (~35 km) or Anand (~43 km); slow branch-line terminus at Umreth (~7 km, verify)",
+    "road": "GSRTC/private buses from Ahmedabad, Vadodara and Anand"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October–March; Janmashtami and full-moon days are peak",
+    "opening_hours": "6:00 AM–12:00 noon and 4:00 PM–7:00 PM daily (verify — some reports say the evening session runs to 7:30 PM; closed 12–4 PM)"
+  }
+}

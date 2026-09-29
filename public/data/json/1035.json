@@ -1,0 +1,43 @@
+{
+  "alternate_names": [
+    "Ramthakur Mandir",
+    "Sri Sri Ram Thakur Temple"
+  ],
+  "deities": [
+    "Sri Ram Thakur"
+  ],
+  "district": "North Tripura",
+  "festivals": [],
+  "history": {
+    "dynasty": "None documented",
+    "period": "Unknown (no published history found)",
+    "summary": "Solid generic-name match: the Ram Thakur Mandir (listed as 'Ramthakur Mandir') on Shivbari Road, Dharmanagar, North Tripura. It is a recognised civic-religious landmark: Tripura Star News / Neindia (2026) reported a special prayer ceremony for the late veteran Tripura politician and former Speaker Biswa Bandhu Sen held 'at the Ram Thakur Temple in Dharmanagar', attended by ministers and dignitaries. Sri Ram Thakur (Ramchandra Chakraborty, 1860-1949) is the Bengali spiritual figure whose ashrams and temples are common across Tripura and Bengal; no founding history specific to this Dharmanagar shrine is published - marked verify throughout. CSV town (Dharmanagar) and state (Tripura) are correct; district recorded as North Tripura. Coordinates are from the public place listing for 'Ramthakur Mandir, Shivbari Rd, Dharmanagar' - verify. Media: image searches returned only Ram Thakur ashrams in Agartala, South Tripura and Belonia (wrong referents), so media is left empty."
+  },
+  "id": "ram-thakur-mandir-dharmanagar",
+  "latitude": 24.379968,
+  "longitude": 92.160041,
+  "media": [],
+  "name": "Ram Thakur Mandir",
+  "sources": [
+    "https://neindia.com/tributes-pour-in-for-biswa-bandhu-sen-in-dharmanagar/",
+    "https://www.instagram.com/explore/locations/185389618877489"
+  ],
+  "state": "Tripura",
+  "town": "Dharmanagar",
+  "town_description": "Dharmanagar is the second-largest town in Tripura and the headquarters of North Tripura district, on NH 8 near the Assam border - a commercial and cultural hub of the northern part of the state.",
+  "tradition": "Devotional Hinduism (Ram Thakur tradition - verify)",
+  "travel": {
+    "airport": "Maharaja Bir Bikram Airport, Agartala (~175 km by road - verify); Silchar Airport, Assam (~145 km - verify).",
+    "railway": "Dharmanagar Railway Station (on the Lumding-Sabroom broad-gauge section - verify) connects north to Silchar/Guwahati and south to Agartala.",
+    "road": "Dharmanagar lies on NH 8, with regular bus and shared-vehicle connections to Agartala (~175 km), Kailashahar, and Karimganj (Assam)."
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March.",
+    "opening_hours": "Reported as 8:00 AM - 8:00 PM daily (verify before visiting)."
+  }
+}

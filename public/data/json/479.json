@@ -1,0 +1,50 @@
+{
+ "alternate_names": [
+  "Ankali Mutt",
+  "Chandravalli Caves",
+  "Ankalimatha"
+ ],
+ "deities": [
+  "Shiva (Shivalinga placed in the cave chamber)",
+  "Panchalingeshwara - five Shiva lingas (tradition says installed by the Pandavas during exile - verify)"
+ ],
+ "district": "Chitradurga",
+ "festivals": [],
+ "history": {
+  "dynasty": "Multiple strata - Iron Age habitation; Satavahana, Kadamba, Chalukya, Hoysala, Vijayanagara finds (rock inscription of Kadamba founder Mayurasharma, ~345-450 CE, at the site's Bhairaweshwara/Bhairaveshvara temple)",
+  "period": "Prehistoric (Iron Age) through Satavahana era; cave temple development later (verify)",
+  "summary": "CSV DUPLICATE FLAG: row 483 'Ankali Mutt' is the SAME site - recommend dedup (details there). The Chandravalli cave temple (also called Ankali Mutt, since saints from Ankalagi, Belgaum district, came here to meditate) is a semilunar cave set between two giant monolithic rocks, about 3 km from Chitradurga in a valley formed by the Chitradurga, Kirabanakallu (Cholagudda) and Jolagudda hills. Chandravalli ('moon-shaped', formerly Chandanavati) is a major prehistoric archaeological site: excavations by R. Narasimhachar with B.L. Rice and R. Shamasastry (1909), M.H. Krishna (1928-30) and Mortimer Wheeler for the ASI (1947) revealed painted pottery, earthen pots and coins of the Satavahana, Vijayanagara and Hoysala dynasties, Roman denarii of Emperor Augustus and a Chinese Han coin of Emperor Wu Ti (2nd century BC), plus neoliths and a cist burial. A rock inscription of Kadamba founder Mayurasharma (~345-450 CE) stands in the Bhairaweshwara temple at the site; Chandravalli is described as the first capital of the Kadambas. The cave - reached about 80 ft below/above local grade per reports (verify) - has a Shivalinga chamber, a visitors' room, a room for sadhus, prehistoric paintings/carvings, pooja room and bedroom; lore links the Panchalingeshwara shrine here to the Pandavas (five lingas installed during exile - per a 2026 travel report; verify). It is under ASI protection; a lake and forest beside the cave add bird-watching interest."
+ },
+ "id": "chandravalli-cave-temple-chitradurga",
+ "latitude": 14.20734,
+ "longitude": 76.383,
+ "media": [
+  "https://images.nativeplanet.com/img/2016/08/2chandravalli-08-1470639408.jpg"
+ ],
+ "name": "Chandravalli Cave Temple",
+ "sources": [
+  "https://en.wikipedia.org/wiki/Chandravalli",
+  "http://www.nativeplanet.com/travel-guide/the-pre-historic-chandravalli-cave-temple-chitradurga-002307.html",
+  "https://solopassport.com/chandravalli/",
+  "https://2indians.in/ankali-mutt-or-chadravalli-cave/",
+  "https://curlytales.com/india/travel/the-three-thousand-year-old-chandravalli-caves-near-bengaluru-hold-secrets-of-revenge-and-global-trade/"
+ ],
+ "state": "Karnataka",
+ "town": "Chandravalli (CSV town 'Chitradurga' is the district/city; the site is ~3 km from Chitradurga city)",
+ "town_description": "Chandravalli is a valley site about 3 km from Chitradurga city, formed by the Chitradurga, Kirabanakallu (Cholagudda) and Jolagudda hills. A lake beside the cave temple and the surrounding forest make it a good bird-watching spot; the prehistoric settlement area excavated measures ~730 m x 730 m.",
+ "tradition": "Hinduism (Shaivism) + prehistoric archaeological site",
+ "travel": {
+  "airport": "Bengaluru (Kempegowda International) - about 200-215 km.",
+  "railway": "Chitradurga railway station - about 3-4 km.",
+  "road": "From Chitradurga bus stand take a local taxi or auto-rickshaw (~2.9 km); ~500 m walk from the entrance to the cave; guides ~Rs 300 (verify)."
+ },
+ "video": {
+  "audio": "",
+  "script": "",
+  "video_file": ""
+ },
+ "visitor_information": {
+  "best_time": "October to March; visit in the morning - carry a torch (interiors are pitch dark, though ventilated and cool).",
+  "opening_hours": "Reported 10:30 AM-5:30 PM (verify); free entry and parking reported (verify); beware of monkeys; not ideal for the claustrophobic."
+ }
+}

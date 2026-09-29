@@ -1,0 +1,39 @@
+{
+  "alternate_names": [],
+  "deities": [
+    "Lord Hanuman (presumed; shrine identity unverified)"
+  ],
+  "district": "Shimla",
+  "festivals": "Not documented — shrine identity unverified; verify locally",
+  "history": {
+    "dynasty": "Unknown — identity unverified",
+    "period": "Unknown",
+    "summary": "No documented shrine named 'Hanuman Temple' in Rampur was found in web sources after genuine searching. Rampur here is taken to be Rampur Bushahr, the former winter capital of the Bushahr princely state in Shimla district (31.45 N, 77.63 E per Wikipedia). Place-listing entries for small Hanuman shrines exist around Rampur but carry no history, dates, or verifiable details, so the CSV row cannot be tied to any documented referent. Coordinates are town-level and approximate. Treat this file as a clearly-flagged placeholder: the identity needs on-the-ground verification before this record is used."
+  },
+  "id": "hanuman-temple-rampur-bushahr",
+  "latitude": 31.444,
+  "longitude": 77.62943,
+  "media": [],
+  "name": "Hanuman Temple",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Rampur,_Himachal_Pradesh"
+  ],
+  "state": "Himachal Pradesh",
+  "town": "Rampur",
+  "town_description": "Rampur Bushahr is a historic town on the Sutlej in Shimla district, once the winter capital of the Bushahr princely state and a famed trading post (the Lavi fair) on the route toward Kinnaur and Tibet.",
+  "tradition": "Hindu (presumed; identity unverified)",
+  "travel": {
+    "airport": "Shimla (Jubbarhatti), ~125 km via NH-5",
+    "railway": "Shimla (narrow gauge), ~125 km",
+    "road": "NH-5 passes through Rampur; well connected to Shimla, Narkanda and Kinnaur"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "March–June and September–November (generic hill-season guidance; verify locally)",
+    "opening_hours": "Not documented — verify locally"
+  }
+}

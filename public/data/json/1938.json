@@ -1,0 +1,42 @@
+{
+  "alternate_names": [],
+  "deities": [
+    "Unknown (UNVERIFIED — no published source identifies the presiding deity)"
+  ],
+  "district": "Aizawl",
+  "festivals": [],
+  "history": {
+    "dynasty": "Unknown",
+    "period": "Contemporary (founding date unverified)",
+    "summary": "A Hindu temple listed at Aizawl 796017 (southern Aizawl), with two independent place datasets agreeing on coordinates 23.7435, 92.7419; ~4.6 rating from ~15 online reviews. No published source gives its founding date, builder, presiding deity, or history — the name suggests a shrine centred on the sacred syllable Om, but this is inference, not evidence. The only image-search hit for 'OM Mandir Aizawl' was actually Solomon's Temple (a Christian church) and was excluded; no reliable photograph of this temple was found after genuine searching, so media is left empty."
+  },
+  "id": "om-mandir",
+  "latitude": 23.7435,
+  "longitude": 92.7419,
+  "media": [],
+  "name": "OM Mandir",
+  "sources": [
+    "https://meta.ai?place_id=1270413107535149",
+    "http://rentechdigital.com/smartscraper/business-report-details/india/mizoram/list-of-hindu-temples-in-aizawl",
+    "https://yappe.in/mizoram/aizawl/hindu-temple",
+    "http://onefivenine.com/india/Listing/Town/temples/Aizawl/Aibawk"
+  ],
+  "state": "Mizoram",
+  "town": "Aizawl",
+  "town_description": "Aizawl is the capital of Mizoram, a hill city built on steep ridges at around 1,130 m elevation in the state's northern hills. Overwhelmingly Christian (Mizo) in population, it is the political, commercial and cultural centre of the state, with a small Hindu minority of Gorkha, Bihari and other non-Mizo communities who maintain the city's handful of temples.",
+  "tradition": "Hinduism",
+  "travel": {
+    "airport": "Lengpui Airport, ~35 km northwest of Aizawl (verify).",
+    "railway": "Nearest railhead Bairabi, ~110 km (verify).",
+    "road": "Aizawl is connected to Silchar (~180 km) and Guwahati (~450 km) by NH-6; city taxis within town (verify)."
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March (verify).",
+    "opening_hours": "Not published (verify)."
+  }
+}

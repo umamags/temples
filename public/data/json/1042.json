@@ -1,0 +1,53 @@
+{
+  "alternate_names": [
+    "Matabari",
+    "Devi Tripureshwari Temple",
+    "Kurma Pitha"
+  ],
+  "deities": [
+    "Tripura Sundari",
+    "Chandi (Chhoto-Ma)"
+  ],
+  "district": "Gomati",
+  "festivals": [
+    "Diwali Mela",
+    "Navaratri",
+    "Lalita Jayanti (Magha Purnima)",
+    "Lalita Panchami"
+  ],
+  "history": {
+    "dynasty": "Manikya dynasty",
+    "period": "1501 CE",
+    "summary": "CSV DUPLICATE — this row duplicates seq 1026 (Tripura Sundari Temple, Matabari/Udaipur); see data/json/1026.json (on the Mac output folder) as the canonical record. No Tripura Sundari Temple exists at Ambassa: Ambassa is the Dhalai-district headquarters town, ~65 km north of the real temple, and no shrine of this name is documented there. The one famous Tripura Sundari Temple (Devi Tripureshwari, the third Mahavidya) stands at Matabari, Udaipur, Gomati district, ~55 km from Agartala; the CSV town 'Ambassa' is wrong and has been corrected. It is one of the 51 Shakta pithas (Sati's right foot fell here), built in 1501 CE by Maharaja Dhanya Manikya after a dream-vision, in Bengali Ek-ratna style on a tortoise-hump hillock (Kurma Pitha). The sanctum holds a 5-ft Tripura Sundari idol and the 2-ft 'Chhoto-Ma' (Chandi), once carried to battlefields. The state of Tripura is named after this temple. A Diwali mela draws 200,000+ pilgrims; a Rs 34.43 crore PRASHAD-scheme redevelopment was inaugurated on 22 September 2025."
+  },
+  "id": "tripura-sundari-temple-ambassa-row",
+  "latitude": 23.509064,
+  "longitude": 91.498254,
+  "media": [
+    "https://i0.wp.com/tripuratoday.in/wp-content/uploads/2025/02/tripura-sundari-devi-temple-2.jpeg?w=1200&ssl=1"
+  ],
+  "name": "Tripura Sundari Temple [CSV duplicate of seq 1026]",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Tripura_Sundari_Temple",
+    "https://tripurasundari.tripura.gov.in/contact-us",
+    "https://northeastindiaconnect.com/tripura-sundari-temple-udaipur-guide/"
+  ],
+  "state": "Tripura",
+  "town": "Matabari (Udaipur)",
+  "town_description": "Matabari is the temple town on the edge of Udaipur in Gomati district, Tripura, about 55 km from Agartala, known for the Tripura Sundari Shakti Peetha and the Kalyan Sagar lake with its rare Bostami turtles.",
+  "tradition": "Shaktism",
+  "travel": {
+    "airport": "Maharaja Bir Bikram Airport, Agartala (~55 km)",
+    "railway": "Udaipur (Tripura) station nearby; Agartala station ~55 km (verify)",
+    "road": "~55 km from Agartala by road; ~65 km from Ambassa"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October-March; Diwali mela (Oct/Nov) is the main festival",
+    "opening_hours": "4:00 AM - 10:00 PM daily (per the temple's official site listing)"
+  }
+}

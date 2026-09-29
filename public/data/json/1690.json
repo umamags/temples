@@ -1,0 +1,67 @@
+{
+  "alternate_names": [
+    "Kadri Manjunath Temple",
+    "Kadri Shree Manjunatha Temple"
+  ],
+  "deities": [
+    "Manjunatheshwara (Shiva)",
+    "Ganesha",
+    "Durga Parameshwari",
+    "Ayyappa",
+    "Lokeshwara (bronze)",
+    "Avalokiteshwara (bronze)",
+    "Buddha (bronze)",
+    "Machendranath",
+    "Gorakhnath",
+    "Shringinath",
+    "Shani Dev"
+  ],
+  "district": "Dakshina Kannada",
+  "festivals": [
+    "Jathra Mahothsava (9-day annual festival from Makara Sankranti, January)",
+    "Deepotsava (Karthika Maasa)",
+    "Maha Shivaratri",
+    "Navaratri",
+    "Ganesh Chaturthi",
+    "Sowramana Ugadi",
+    "Nagarapanchami",
+    "Krishna Janmastami",
+    "Kadri Kambala (Nov-Feb buffalo race, verify)"
+  ],
+  "history": {
+    "dynasty": "Alupa dynasty (origins); stone renovation under Vijayanagara-era patronage",
+    "period": "10th-11th century CE (origins); 14th century CE (stone structure)",
+    "summary": "Ancient Shaivite temple on the Kadri hills, built during the 10th or 11th century and rebuilt as a complete stone structure in the 14th century. The site began as Kadarika Vihara, a Vajrayana Buddhist monastery; a bronze (panchaloha) Lokeshwara idol here bears an inscription (dated 968 CE, or 1068 CE) recording that Alupa king Kundavarma installed it in Kadarika Vihara, mentioning Mangaluru as 'Mangalapura'. The temple later became a centre of the Nath tradition (Machendranath, Gorakhnath), and a 1730 CE text links it to the Natha order. Legend holds that Parashurama performed penance at Kadali Kshetra and Lord Shiva appeared as Manjunatha with Parvati; the Sapthakoti mantras became the seven theerthas (temple tanks). A natural spring, Gomukha (Kashi Bhageerathi Theertha), feeds nine ponds; a large Hanuman statue stands higher on the hill. Priests are Shivalli Madhva Brahmins. Local legend also links Kadri to Dharmasthala's Manjunatha (Annappa Daiva carried a Shivalinga from the seventh pond there). NOTE: some sources date the inscription to 968 CE, others to 1068 CE."
+  },
+  "id": "kadri-manjunatheshwara-temple",
+  "latitude": 12.88618,
+  "longitude": 74.85566,
+  "media": [
+    "https://mangaloretourism.in/images/v2/places-to-visit/kadri-manjunath-temple-mangalore-tourism-header.jpg"
+  ],
+  "name": "Kadri Manjunatheshwara Temple",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Kadri_Manjunath_Temple",
+    "https://www.karnataka.com/mangalore/kadri-manjunath-temple/",
+    "https://famoustemplesofindia.com/kadri-shree-manjunatha-temple/",
+    "https://www.airial.travel/attractions/india/mangaluru/kadri-manjunath-temple-mangalore--cNznVf1"
+  ],
+  "state": "Karnataka",
+  "town": "Mangaluru",
+  "town_description": "Mangaluru (formerly Mangalore) is a major port city on the Arabian Sea coast of Karnataka, the administrative headquarters of Dakshina Kannada district and the heart of Tulu-speaking Tulunadu. Known for its beaches, banking and education institutions, and diverse cuisine, it is also a temple city whose ancient shrines anchor the region's religious life.",
+  "tradition": "Hinduism (Shaivism), with Buddhist (Vajrayana) origins and Nath tradition influence",
+  "travel": {
+    "airport": "Mangalore International Airport, Bajpe (~8 km straight-line; road ~12 km, verify)",
+    "railway": "Mangaluru Junction (Kankanady) ~3 km straight-line; Mangaluru Central ~3 km (verify)",
+    "road": "Kadri Kambla Rd, Vasanth Vihar, Kadri, Mangaluru 575002; city buses and autos from Mangaluru city centre (~4-5 km)"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October-February; Jathra Mahothsava in January is the major annual event",
+    "opening_hours": "CONFLICT (verify): commonly cited as 5:30 AM-1:00 PM and 4:00-8:00 PM; some sources list 5:00 AM-2:00 PM / 4:00-8:00 PM"
+  }
+}

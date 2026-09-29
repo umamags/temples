@@ -1,0 +1,56 @@
+{
+  "alternate_names": [
+    "Sri Sri Lakshmi Narayana Mandir",
+    "Laxmi Narayan Mandir"
+  ],
+  "deities": [
+    "Lakshmi",
+    "Narayan (Vishnu)",
+    "Bata Mangala",
+    "Hanuman",
+    "Santoshi Maa",
+    "Shiva (Bateshwar Mahadev)",
+    "Jagannath"
+  ],
+  "district": "Sundargarh",
+  "festivals": [
+    "Janmashtami",
+    "Diwali"
+  ],
+  "history": {
+    "dynasty": "Modern",
+    "period": "Mid-20th century (UNVERIFIED)",
+    "summary": "Hilltop Vaishnavite temple on a small hillock near Sector 14 (Shanti Nagar) of Rourkela Steel Township. The main shrine is dedicated to Lakshmi-Narayan, with subsidiary shrines of Bata Mangala, Hanuman, Santoshi Maa, Bateshwar Mahadev (Shiva) and Jagannath; the carved walls and hilltop views make it a popular local shrine and event venue. One guide says it was built in the mid-20th century as Rourkela grew as an industrial city; a visitor review guesses construction in 1955-56 with inauguration on 26 January - UNVERIFIED. CONFLICT: one travel site (indiano.travel) pastes the history of Delhi's Birla Temple (built 1933 by the Birla family) onto this temple - do not trust. Precise founding date needs verification."
+  },
+  "id": "laxmi-narayan-temple",
+  "latitude": 22.26171,
+  "longitude": 84.83884,
+  "media": [
+    "https://hblimg.mmtcdn.com/content/hubble/img/ttd_images/mmt/activities/t_trp/m_Rourkela_Laxmi_narayan_mandir_2_l_480_640.jpg?im=Resize=(1200,570)"
+  ],
+  "name": "Laxmi Narayan Temple",
+  "sources": [
+    "https://orissatours.com/laxmi-narayan-temple-rourkela-sundargarh-odisha/",
+    "https://orissaguide.com/laxmi-narayan-mandir-rourkela-odisha/",
+    "https://www.tripadvisor.in/Attraction_Review-g1162252-d2629567-Reviews-Laxmi_Narayan_Mandir-Rourkela_Sundargarh_District_Odisha.html",
+    "https://5bestincity.com/india/laxmi-narayan-temple-temples-rourkela-odisha/profileid=ed7f7a27b1"
+  ],
+  "state": "Odisha",
+  "town": "Rourkela",
+  "town_description": "Rourkela is an industrial metropolis in Sundargarh district, northwestern Odisha, known as the 'Steel City' for the Rourkela Steel Plant commissioned in the 1950s. It sits near the confluence of the Shankh and Koel rivers that form the Brahmani. Beyond industry, it has become a tourist base for Vedvyas, Hanuman Vatika and the surrounding tribal hinterland of the Chotanagpur plateau.",
+  "tradition": "Hinduism (Vaishnavism)",
+  "travel": {
+    "airport": "Veer Surendra Sai Airport, Jharsuguda, ~115 km (verify)",
+    "railway": "Rourkela Junction, ~6-8 km (verify)",
+    "road": "Motorable road with parking up to the hilltop near Sector 14; autos/taxis from the city"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October-March; early morning and dusk for views",
+    "opening_hours": "Reported as open 24 hours on some listings (verify)"
+  }
+}

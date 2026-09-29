@@ -1,0 +1,46 @@
+{
+  "alternate_names": [
+    "Vishal Jain Derasar (CSV name; no derasar by this name is documented - likely a conflation)"
+  ],
+  "deities": [
+    "Jain Tirthankaras"
+  ],
+  "district": "Bhavnagar",
+  "festivals": [],
+  "history": {
+    "dynasty": "Modern",
+    "period": "Not documented",
+    "summary": "NOT A HINDU TEMPLE - keep-or-drop decision needed. The CSV name 'Vishal Jain Derasar, Bhavnagar' has no documented referent: no derasar of this name exists in Bhavnagar city in any source checked. The only documented 'Shri Vishal' Jain institution in the region is the Shri Vishal Jain Museum at Taleti, Palitana (Bhavnagar district, ~56 km from Bhavnagar city), named after Jain Acharya Vishalsen Suriji; it houses excavated temple idols, ancient coins, palm-leaf manuscripts, an exhibit on the life of Lord Mahavira, and a basement circular temple with mirror walls and centuries-old Tirthankara images. Generic taxi-service listings name a 'Shri Vishal Jain Derasar' among Palitana sights, likely conflating it with this museum. Identity is uncertain; town corrected from Bhavnagar to Palitana. Entry fee ~Rs 20-30 per person; timings vary by source (9 AM-12:30 PM & 3:30 PM-6 PM per trawell.in; 8:30 AM-8:30 PM per map listings)."
+  },
+  "id": "shri-vishal-jain-museum-palitana",
+  "latitude": 21.5094,
+  "longitude": 71.81654,
+  "media": [
+    "https://www.trawell.in/admin/images/upload/0248864vishal_jain_museum.jpg"
+  ],
+  "name": "Shri Vishal Jain Museum",
+  "sources": [
+    "https://www.trawell.in/gujarat/palitana/shri-vishal-jain-museum",
+    "http://coloursofgujarat.com/jel_tour/single_city_and_more/27",
+    "https://myholidayhappiness.com/place/gujarat/palitana/shri-vishal-jain-museum",
+    "https://MapCarta.com/N3297005854"
+  ],
+  "state": "Gujarat",
+  "town": "Palitana",
+  "town_description": "Palitana is a town in Bhavnagar district, Gujarat, famous as one of Jainism's holiest pilgrimage centers, with the cluster of marble Jain temples atop Shatrunjaya Hill.",
+  "tradition": "Jainism",
+  "travel": {
+    "airport": "Bhavnagar Airport, ~55 km",
+    "railway": "Palitana railway station, ~4 km",
+    "road": "Taleti Road, Taleti area of Palitana; ~56 km from Bhavnagar by road"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "November to March",
+    "opening_hours": "9:00 AM - 12:30 PM and 3:30 PM - 6:00 PM (map listings report 8:30 AM - 8:30 PM; verify)"
+  }
+}

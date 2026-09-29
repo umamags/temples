@@ -1,0 +1,55 @@
+{
+  "alternate_names": [
+    "Arulmigu Sankara Narayanasamy Temple",
+    "Sankaranarayanan Temple",
+    "Sankaranayinarkoil (older name of the town)"
+  ],
+  "deities": [
+    "Sri Sankaranarayanar (Sankaranarayana Swamy - the combined half-Shiva, half-Vishnu form revealed to Gomathi Amman)",
+    "Sri Sankara Linga Swamy (Shiva)",
+    "Goddess Gomathi Amman (Parvati)"
+  ],
+  "district": "Tenkasi",
+  "festivals": [
+    "Adi Thabasu (Aadithapasu) - the 15-day festival in Adi (July-August); the Thapasu Katchi on the full-moon Uthrada day, marking Shiva's revelation of the Sankaranarayana form, is the highlight",
+    "Chithirai festival - the 48-day car festival with the temple car procession",
+    "Cradle festival (listed in the temple's festival calendar - verify)"
+  ],
+  "history": {
+    "dynasty": "Pandya - traditionally attributed to King Ugra Pandiyan (the '900 BC' date in folklore is sthalapurana legend, not history); Wikipedia places construction in the 10th century CE",
+    "period": "Sthalapurana origins in legend; standing temple is Pandya-era with later renovations (inscriptions at Thachanallur record renovation works by various kings); 125-ft nine-tiered rajagopuram",
+    "summary": "CSV CORRECTIONS: (1) the CSV's town is the temple's older name - 'Sankaranayinarkoil' is what Sankarankovil town was formerly called; the file uses the current town name Sankarankovil. (2) The district is TENKASI, not Tirunelveli - Tenkasi district was carved out of Tirunelveli in November 2019; Wikipedia lists the temple under Tenkasi district. Documented with both corrections. The Sankaranarayana Swamy Temple is the great Hari-Hara shrine of the south: its presiding deity is half Shiva and half Vishnu in one body. The sthalapurana tells of the serpent kings Sanka (a Shiva devotee) and Padma (a Vishnu devotee), whose dispute over Hari's and Hara's supremacy was settled when Shiva revealed the combined Sankaranarayana form; Gomathi Amman's nine-day penance in the month of Adi at Punnai Vanam culminated in that revelation on a full-moon day - commemorated yearly as the Adi Thabasu. The Nagasunai sacred tank inside the 4.5-acre complex is said to have been dug by the serpent kings, and puttru mann (ant-hill sand) from the Vanmikam snake pit in the prakaram is believed to cure diseases. The Dravidian-style temple follows Kamika Agamam, with life-size pillar sculptures, frescoes on the sanctum walls and a unique stone Nataraja. It is sacred to Saivites and to Hindus who hold Shiva and Vishnu to be one; Sri Vaishnavites who worship Vishnu alone do not accept the combined form (per Wikipedia). Administered by the HRCE Department."
+  },
+  "id": "sankarankovil-sankaranarayana-swamy-temple",
+  "latitude": 9.16,
+  "longitude": 77.55,
+  "media": [
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0zWGeN6sMuopSIVFh_nNeUImPUu41Lkr4UU-rHiu41Oh_DKhdbMBI_8ytq-jsqQUQovlcITCt1TjFCTbIg8IS4zpXhBKp2CKdpcosnYIldFUQ94DzDVNhEglh8GDFhDUzN6SieFLjdavFP9s8cUhjd0LAUgix8U-NONXJ4InNJybrPxyvEPu6C2Fje7Nm/w640-h352/IMG_20250711_074345251_HDR.jpg"
+  ],
+  "name": "Sankaranarayana Swamy Temple",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Sankara_Narayanasamy_Temple",
+    "http://en.wikipedia.org/wiki/Sankarankovil",
+    "https://velpu.com/temple/SRI-SANKARANARAYANA-SWAMY-TEMPLE/NjQz",
+    "https://www.jetir.org/download1.php?file=JETIR1905K77.pdf",
+    "http://veludharan.blogspot.com/2025/10/sankara-narayanasamy-temple-arulmigu_1.html"
+  ],
+  "state": "Tamil Nadu",
+  "town": "Sankarankovil",
+  "town_description": "Sankarankovil (older name Sankaranayinarkoil) is a first-grade municipality and the third-largest town in Tenkasi district, on the eastern slopes of the Western Ghats. It grew around the Sankara Narayanasamy temple and is famous for the Adi Thabasu festival, its Nagasunai tank and the belief that its ant-hill sand cures diseases.",
+  "tradition": "Hinduism (Hari-Hara unity - sacred to both Shaivites and Vaishnavites)",
+  "travel": {
+    "airport": "Tuticorin Airport (approx. 75 km - verify) or Madurai Airport (approx. 100 km - verify).",
+    "railway": "Sankarankovil has its own railway station in the town (verify).",
+    "road": "About 60 km from Tirunelveli by road (verify); local buses and taxis serve the town."
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March. Adi (July-August) brings the Adi Thabasu festival - the grandest but most crowded time.",
+    "opening_hours": "5:30 AM to 12:30 PM and 4:00 PM to 9:00 PM (per Wikipedia - verify locally)."
+  }
+}

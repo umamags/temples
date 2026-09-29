@@ -1,0 +1,53 @@
+{
+  "alternate_names": [
+    "Sri Sri Ugratara Devalaya"
+  ],
+  "deities": [
+    "Goddess Ugratara (fierce form of Tara/Dikkara Vasini)",
+    "Lord Shiva (in the adjoining Shivalaya)"
+  ],
+  "district": "Kamrup Metropolitan",
+  "festivals": [
+    "Navratri (Sharadiya and Chaitra)",
+    "Durga Puja",
+    "Kali Puja",
+    "Manasa Puja"
+  ],
+  "history": {
+    "dynasty": "Ahom",
+    "period": "18th century (built 1725)",
+    "summary": "Shakti shrine in Uzan Bazar, Guwahati, dedicated to Ugratara, the fierce form of Tara identified with Dikkara Vasini of the Kalika Purana, where the navel of Sati is believed to have fallen. Built in 1725 by Ahom king Siva Singha, who had excavated the adjacent Jor Pukhuri (Jorpukhuri) tank three years earlier. The upper section was destroyed in the 1897 earthquake and the temple was rebuilt by a local citizen. Built in the Nilachal architectural style. Unusually, the garbhagriha has no idol: a small water-filled pit is worshipped as the goddess. CSV town 'Dispur' corrected to Guwahati. Coordinates are approximate (Wikipedia gives rounded 26.18, 91.74; OpenStreetMap place-of-worship node at 26.18942, 91.75322, used here)."
+  },
+  "id": "ugratara-temple-guwahati",
+  "latitude": 26.18942,
+  "longitude": 91.75322,
+  "media": [
+    "https://assamtourism.gov.in/images/Ugratara3.jpg"
+  ],
+  "name": "Ugratara Temple",
+  "sources": [
+    "https://www.trawell.in/assam/guwahati/ugratara-temple",
+    "https://assaminfo.com/tourist-places/ugratara-temple-guwahati",
+    "https://assaminfo.com/tourist-places/sri-sri-ugratara-temple-guwahati-a-sacred-seat-of-shakti-worship",
+    "https://evendo.com/locations/india/guwahati/attraction/sri-sri-ugratara-devalaya",
+    "https://en.wikipedia.org/wiki/Ugratara_Devalaya"
+  ],
+  "state": "Assam",
+  "town": "Guwahati",
+  "town_description": "Guwahati is the largest city of Assam and the principal city of Northeast India, on the south bank of the Brahmaputra. Once the seat of the ancient kingdom of Pragjyotishpura/Kamarupa, it is the region's main commercial and transport hub and a centre of Shakti worship, with Kamakhya, Umananda and Ugratara shrines.",
+  "tradition": "Shaktism (Shakti Peetha; Tantric worship)",
+  "travel": {
+    "airport": "Lokpriya Gopinath Bordoloi International Airport, about 20-22 km away",
+    "railway": "Guwahati railway station, about 2 km away (sources vary 1.5-3 km)",
+    "road": "Central Guwahati location; easily reached by city bus, auto-rickshaw or taxi"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March; Navratri and Durga Puja are the most auspicious times",
+    "opening_hours": "Sources conflict widely: commonly 5:30 AM-1:00 PM and 5:30-8:00 PM; other listings say 6:00 AM-8:00 PM, 6:00 AM-7:00 PM, or 7:00 AM-4:00 PM - verify locally"
+  }
+}

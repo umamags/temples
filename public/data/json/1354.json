@@ -1,0 +1,52 @@
+{
+  "alternate_names": [
+    "Maa Raj Rajeshwari Mandir",
+    "Shri Raj Rajeshwari Devi Temple",
+    "Bachcha Babu Mandir"
+  ],
+  "deities": [
+    "Goddess Durga (as Maa Raj Rajeshwari, 18-armed form)"
+  ],
+  "district": "Muzaffarpur",
+  "festivals": [
+    "Navratri",
+    "Durga Puja"
+  ],
+  "history": {
+    "dynasty": "N/A (modern, by a private patron)",
+    "period": "Modern (founding date undocumented; verify)",
+    "summary": "IDENTITY NOTE: the generic CSV name 'Devi Mandir' is identified here as the well-known Maa Raj Rajeshwari Mandir on Club Road, Mithanpura/Ramna — the famous 'Devi Mandir' of Muzaffarpur city (Holidify's listing explicitly identifies it as such). A large, old and popular Durga temple where the goddess is worshipped as Raj Rajeshwari with 18 hands; it sees its biggest footfall during Navratri/Durga Puja and is believed by devotees to fulfil wishes. Per thisismyindia.com, it was constructed by a wealthy devotee 'Bachcha Babu', a pujari of Mata Durga, who gifted it to Muzaffarpur (weakly sourced — verify). Holidify's claim that it is one of the 51 Shaktipeeths is UNSUPPORTED by mainstream Shaktipeeth lists — flagged. AMBIGUITY: the Ramna Tripur Sundari temple (built 28 June 1941 by Umashankar Prasad) is also locally called 'Devi temple' — flagged so the identity can be confirmed."
+  },
+  "id": "devi-mandir-muzaffarpur",
+  "latitude": 26.116177,
+  "longitude": 85.393582,
+  "media": [
+    "https://files.yappe.in/place/full/maa-raj-rajeshwari-devi-mandir-87029.webp"
+  ],
+  "name": "Devi Mandir",
+  "sources": [
+    "https://www.holidify.com/places/muzaffarpur/devi-mandir-sightseeing-1257575.html",
+    "https://yappe.in/bihar/muzaffarpur/maa-raj-rajeshwari-devi-mandir/87027",
+    "http://devimandirmuz.in/",
+    "https://www.justdial.com/Muzaffarpur/Devi-Mandir-Ramna/9999PX621-X621-180226185829-X3S1_BZDET/reviews",
+    "https://www.thisismyindia.com/bihar/bihar-temples.html"
+  ],
+  "state": "Bihar",
+  "town": "Muzaffarpur",
+  "town_description": "Muzaffarpur is a major city of north Bihar and the headquarters of Muzaffarpur district in the Tirhut division, famous across India for its Shahi litchis. Situated on the Burhi Gandak river, it is an important commercial hub and railway junction of the region. The city also has historical associations with Jubba Sahni and the freedom fighter Khudiram Bose, and hosts Bihar's only planetarium and the L. S. College campus.",
+  "tradition": "Hinduism (Shaktism)",
+  "travel": {
+    "airport": "Patna (Jay Prakash Narayan International Airport), ~75 km away (verify).",
+    "railway": "Ram Dayalu Nagar station, ~1.6 km away; Muzaffarpur Junction nearby (verify).",
+    "road": "On Club Road, Mithanpura/Ramna, Muzaffarpur; reachable by city roads (verify)."
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "Navratri (September-October), the busiest and most festive period; October-February is comfortable. No entry fee.",
+    "opening_hours": "CONFLICT (verify): sources disagree — 4:00 AM-11:00 PM vs 6:00 AM-10:00 PM vs 9:00 AM-6:00 PM."
+  }
+}

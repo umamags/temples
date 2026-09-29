@@ -1,0 +1,54 @@
+{
+  "alternate_names": [
+    "Tirunavaya Temple",
+    "Navamukunda Perumal Temple",
+    "Navayogisthala"
+  ],
+  "deities": [
+    "Navamukundan (Vishnu/Narayana)",
+    "Goddess Lakshmi (Malarmangai Nachiyar)",
+    "Ganapati (Adi Ganesa/Gajendra)",
+    "Ayyappa Swami"
+  ],
+  "district": "Malappuram",
+  "festivals": [
+    "Mamankam (historic 12-year festival, attested from at least the 8th century)",
+    "Karkidaka Vavu (Amavasya) pitru tarpana at the Bharathapuzha riverbank",
+    "Annual sevas: Naivilakku, Thamara mala, Palpayasam, Malar pala, Thali Charthal"
+  ],
+  "history": {
+    "dynasty": "Legendary origin; administered today by the Samutiri of Kozhikode (Zamorin of Calicut) as managing trustee under the Malabar Devaswom Board",
+    "period": "Ancient; Mamankam held from at least the 8th century CE; present building rebuilt after 18th-century and 1921 destruction",
+    "summary": "Ancient Vishnu shrine on the northern bank of the Bharathapuzha (Ponnani) river and one of the 108 Divya Desams, glorified in the Divya Prabandha. The deity is 'Navamukunda Perumal' because, per legend, the ninth installed idol was the first to stay upright (the first eight sank, installed by the Navayogis). The stone idol is covered in panchaloha and only its upper half is visible. It was the venue of the Mamankam, the great 12-year festival of medieval Kerala; the building was destroyed during Tipu Sultan's invasion (18th c.) and attacked again in the 1921 Mappila Rebellion, and rebuilt in Kerala temple style. With the Brahma-Siva temples at Cherutirunavaya across the river it forms a Trimurti sangama, and its riverbank is held as holy as Kasi for bali tarpana. CSV town/state (Thirunavaya, Malappuram, Kerala) are correct."
+  },
+  "id": "thirunavaya-navamukunda-temple",
+  "latitude": 10.86391,
+  "longitude": 75.98174,
+  "media": [
+    "https://www.keralatourism.org/images/picture/hri/Thirunavaya_Temple_2822.jpg"
+  ],
+  "name": "Thirunavaya Navamukunda Temple",
+  "sources": [
+    "http://en.wikipedia.org/wiki/Thirunavaya_Navamukunda_Temple",
+    "https://myadhyatm.com/thirunavaya-navamukunda-temple/",
+    "https://www.rvatemples.com/listings/thirunavaya-navamukunda-temple/"
+  ],
+  "state": "Kerala",
+  "town": "Thirunavaya",
+  "town_description": "Thirunavaya is a historic riverbank town in Tirur taluk on the Bharathapuzha, famous as the venue of the medieval Mamankam festival and as Kerala's foremost centre for ancestral (pitru) rites.",
+  "tradition": "Vaishnavism (Sri Vaishnava Divya Desam); Kerala Smartha tantra rituals",
+  "travel": {
+    "airport": "Calicut International Airport (~42 km)",
+    "railway": "Thirunavaya railway station (~2 km)",
+    "road": "Tirur–Kuttippuram road; ~8 km from Tirur"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October–March; Karkidaka Amavasya (Vavu) for pitru rites",
+    "opening_hours": "5:00 AM–10:00 AM and 4:00 PM–7:00 PM daily (extended on festival days)"
+  }
+}

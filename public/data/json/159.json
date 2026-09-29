@@ -1,0 +1,49 @@
+{
+  "alternate_names": [
+    "Someshwar Nath Dham",
+    "Someshwar Nath Mahadev Mandir, Areraj"
+  ],
+  "deities": [
+    "Shiva (Panchmukhi / swayambhu lingam)"
+  ],
+  "district": "East Champaran",
+  "festivals": [
+    "Shrawani Mela (July-August)",
+    "Mahashivratri"
+  ],
+  "history": {
+    "dynasty": "None documented (legendary founder: King Som)",
+    "period": "Claimed ~2,000 years old (traditional; unverified archaeologically)",
+    "summary": "The Someshwar Nath Dham at Areraj, ~30 km from Motihari in East Champaran district near the Nepal border, is one of Bihar's most-visited Shiva shrines. Per the Bihar tourism department and Shiva Purana tradition, King Som built the 55-ft-high temple about 2,000 years ago; its five-faced (Panchmukhi) lingam of Mahadeo is believed self-existent (swayambhu). Local lore (per a recent devotional documentary, unverified by ASI) also links Lord Rama's visit and the nearby 36.5-ft Lauriya Areraj Ashokan pillar (c. 249 BCE) to the site. The Shrawani Mela in July-August draws lakhs of pilgrims from Bihar and Nepal; over 200,000 devotees performed jalabhishek on New Year's Day 2025 (Patna Press). NOTE: CSV town 'Motihari' is the district HQ ~30 km away; the temple is in Areraj town (correct town given). The ~2,000-year age claim is traditional, not archaeologically verified."
+  },
+  "id": "someshwar-nath-mahadev-temple-areraj",
+  "latitude": 26.55119,
+  "longitude": 84.67525,
+  "media": [
+    "https://www.someshwarnathareraj.com/images/img_6994852f1ebf6.jpeg"
+  ],
+  "name": "Someshwar Nath Mahadev Temple",
+  "sources": [
+    "https://tourism.bihar.gov.in/en/destinations/east-champaran/someshwar-nath-dham",
+    "https://patnapress.com/over-200000-devotees-gather-at-areraj-temple-in-motihari-to-seek-blessings-on-new-years-day/",
+    "https://www.someshwarnathareraj.com/"
+  ],
+  "state": "Bihar",
+  "town": "Areraj",
+  "town_description": "Areraj is a small town in East Champaran district, Bihar, about 30 km from Motihari near the Nepal border; besides the Someshwar Nath temple it is known for the nearby Lauriya Areraj Ashokan pillar.",
+  "tradition": "Hinduism (Shaivism)",
+  "travel": {
+    "airport": "Jay Prakash Narayan International Airport, Patna (~165 km); the nearest airport with regular service.",
+    "railway": "Bapudham Motihari station; Areraj is reached by auto-rickshaw/local bus from Motihari (~30 km).",
+    "road": "About 30 km from Motihari by road (auto-rickshaws and local buses)."
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "September to April (per Bihar tourism); Shrawani Mela (July-August) and Mahashivratri draw the largest crowds.",
+    "opening_hours": "Not published; gates opened early for devotees on festival/New Year days (verify)."
+  }
+}

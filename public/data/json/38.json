@@ -1,0 +1,57 @@
+{
+  "alternate_names": [
+    "Sri Raghavendra Swamy Mutt",
+    "Rayara Mutt (Mantralayam)",
+    "Manchale Temple"
+  ],
+  "deities": [
+    "Sri Raghavendra Swamy (Moola Brindavana - Jeeva Samadhi of the saint)",
+    "Lord Moola Rama",
+    "Mantralaya Mangalambika (Manchalamma)"
+  ],
+  "district": "Kurnool",
+  "festivals": [
+    "Aradhana Mahotsava (three-day, Purvaradhana/Madhya Aradhana/Uttara Aradhana, Aug-Sep - the grandest festival)",
+    "Vaikunta Ekadashi",
+    "Sri Raghavendra Swamy Jayanti",
+    "Sri Krishna Janmashtami",
+    "Deepavali"
+  ],
+  "history": {
+    "dynasty": "None (Madhva matha; the temple is a saint's samadhi shrine, not a dynastic temple)",
+    "period": "17th century; Sri Raghavendra Swamy entered Jeeva Samadhi in 1671 CE; the matha and Brindavana were built by his disciples",
+    "summary": "NOTE: CSV town 'Kurnool' is the district; the temple is at Mantralayam town, about 150 km from Kurnool city. Mantralayam, on the banks of the Tungabhadra near the Karnataka border, is one of the holiest Madhva pilgrimage sites. Sri Raghavendra Swamy (1595-1671), pontiff of the Madhva matha for close to 50 years and a proponent of Dvaita philosophy, chose this place - formerly called Manchale - and entered Jeeva Samadhi here in 1671; his mortal remains rest beneath the Moola Brindavana. Tradition holds that he promised to reside in the Brindavana for 700 years to grace his devotees. The famous Sir Thomas Munro legend says the British collector came to settle a land dispute, met the saint in person at the Brindavana, and recorded the event in the Madras records (the document is said to survive). Devotees take a dip in the Tungabhadra before entering the matha, which also runs a library, museum, guesthouses and a free annadanam meal service."
+  },
+  "id": "mantralayam-raghavendra-swamy-temple",
+  "latitude": 15.94096,
+  "longitude": 77.42443,
+  "media": [
+    "https://d2kihw5e8drjh5.cloudfront.net/eyJidWNrZXQiOiJ1dGEtaW1hZ2VzIiwia2V5IjoicGxhY2VfaW1nLzEwMjJmNmFiMmJiZDQyMjFiNTIyMTE2NzYzZTc2ZDQwIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo2NDAsImhlaWdodCI6NjQwLCJmaXQiOiJpbnNpZGUifSwicm90YXRlIjpudWxsLCJ0b0Zvcm1hdCI6ICJ3ZWJwIn19"
+  ],
+  "name": "Mantralayam Raghavendra Swamy Temple",
+  "sources": [
+    "https://famoustemplesofindia.com/raghavendra-swamy-temple-mantralayam/",
+    "https://srsmatha.org/",
+    "https://templeyatri.in/mantralayam-temple/",
+    "https://www.saptashwatv.com/news/national-news/sri-raghavendra-swamy-355th-aradhana-2026-mantralayam-schedule-16395.html",
+    "http://tourmet.com/Mantralayam/"
+  ],
+  "state": "Andhra Pradesh",
+  "town": "Mantralayam (CSV town 'Kurnool' is the district; the temple is at Mantralayam, ~150 km from Kurnool city)",
+  "town_description": "Mantralayam is a pilgrimage town on the banks of the Tungabhadra river on the Andhra Pradesh-Karnataka border, about 150 km from Kurnool and 250 km from Hyderabad. Once a quiet village called Manchale, it grew entirely around the samadhi shrine of Sri Raghavendra Swamy and now has guesthouses, canteens and mutt-run institutions. Nearby sites include the Panchamukha Anjaneya Temple and Bichali on the river. The town is thronged year-round, especially during the Aradhana Mahotsava.",
+  "tradition": "Hinduism (Madhva / Dvaita Vedanta)",
+  "travel": {
+    "airport": "Rajiv Gandhi International Airport, Hyderabad - about 250 km from Mantralayam (sources vary, 250-350 km - verify); Bengaluru airport is about 370 km away.",
+    "railway": "Mantralayam Road railway station, about 14-15 km from the town, on the Chennai-Mumbai / Chennai-Raichur route; connects to Hyderabad, Bengaluru and Chennai.",
+    "road": "Well connected by APSRTC buses from Kurnool and Hyderabad; regular buses and private taxis from Raichur and Adoni (verify)."
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March for pleasant weather; the Aradhana Mahotsava (Aug-Sep) is the grandest time but very crowded.",
+    "opening_hours": "Generally listed as 6:00 AM-2:00 PM and 4:00 PM-9:00 PM daily (darshan breaks mid-afternoon) - verify locally as timings vary between listings."
+  }
+}

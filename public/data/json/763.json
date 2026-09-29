@@ -1,0 +1,48 @@
+{
+  "alternate_names": [
+    "Maa Gada Chandi Mandir",
+    "Gada Chandi Temple"
+  ],
+  "deities": [
+    "Goddess Chandi (Maa Gada Chandi)"
+  ],
+  "district": "Cuttack",
+  "festivals": [
+    "Navratri / Durga Puja (verify)"
+  ],
+  "history": {
+    "dynasty": "",
+    "period": "Unknown — no dated sources found on the web",
+    "summary": "Identity documented to the best available sources but UNCERTAIN: the only 'Gadachandi Temple' matching the CSV's Cuttack location is the Maa Gada Chandi Mandir on Cantonment Road, Biju Patnaik Colony, Cuttack — a local Hindu shrine rated 4.8/5 across roughly 670 reviews, with listings giving hours of 6 AM–12 PM. No reliable history, builder, or construction date was found on the web for this shrine; it appears to be a local urban Devi shrine. It must NOT be conflated with (a) the famous Katak (Cuttack) Chandi Temple on the Mahanadi bank — the presiding deity of the city and a different, major temple; (b) the ASI/IGNCA-documented 11th-century Gada Chandi Temple at Kaupur (Chandipur Sahi), Bhadrak district, a Somavamsi-era shrine housing ancient Vishnu and Parvati images now kept in a village-built RCC structure; or (c) the Maa Gadachandi Temple at Anandpur, Keonjhar district, the ista-devi shrine of the 16th-century Singh dynasty of Singidigarh under Odisha Tourism since 1998. CSV town Cuttack is a reasonable district-level match; district is Cuttack. The deities entry follows the Chandi dedication; festivals are unconfirmed — verify. Media left empty because image searches return only the famous Katak Chandi Temple, which is a different temple, and no reliable photo of this specific shrine was found."
+  },
+  "id": "gadachandi-temple-cuttack",
+  "latitude": 20.48037,
+  "longitude": 85.87148,
+  "media": [],
+  "name": "Gadachandi Temple",
+  "sources": [
+    "https://yappe.in/odisha/cuttack/gadachandi-temple-gddcnnddii-mndir/1684945",
+    "https://www.justdial.com/Cuttack/Maa-Gada-Chandi-Mandir-Biju-Patnaik-Colony/0671PX671-X671-200627232835-S3Z2_BZDET",
+    "https://www.justdial.com/Cuttack/Temples-in-Barabati-Stadium/nct-10475644",
+    "https://ignca.gov.in/asi_reports/orbhadrak006.pdf",
+    "https://en.wikipedia.org/wiki/Cuttack_Chandi_Temple"
+  ],
+  "state": "Odisha",
+  "town": "Cuttack",
+  "town_description": "Cuttack, the 'Silver City', is the former capital of Odisha and the headquarters of Cuttack district, set at the head of the Mahanadi delta. Its presiding deity is Maa Katak Chandi of the famous Mahanadi-bank temple; other landmarks include the Barabati Fort ruins, Netaji's birthplace museum, and the Dhabaleswar island Shiva temple.",
+  "tradition": "Shaktism",
+  "travel": {
+    "airport": "",
+    "railway": "",
+    "road": ""
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "",
+    "opening_hours": ""
+  }
+}

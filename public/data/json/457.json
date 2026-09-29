@@ -1,0 +1,56 @@
+{
+  "alternate_names": [
+    "Sri Balabhima Temple",
+    "Nuggikeri Balabhima Temple"
+  ],
+  "deities": [
+    "Hanuman (Sri Balabhima)",
+    "Rama",
+    "Shiva",
+    "Saraswati",
+    "Durga",
+    "Santoshi Mata",
+    "Venugopala Swamy",
+    "Jagannath"
+  ],
+  "district": "Dharwad",
+  "festivals": [
+    "Hanuman Jayanti",
+    "Saturdays (Vishesha Divasa for Hanuman)"
+  ],
+  "history": {
+    "dynasty": "Vijayanagara (pratishtapana)",
+    "period": "Reinstalled c. 1500 AD; worship said to be much older",
+    "summary": "Ancient lakeside temple at Nuggikeri village near Dharwad, dedicated to Hanuman as Sri Balabhima. Legend says the idol appeared in a devotee's dream and was recovered from Nuggikeri Lake; the pratishtapana (reinstallation) was done by Sri Vyasatirtha (Vyasaraja), chief saint in Sri Krishnadevaraya's court, around 1500 AD. In the 18th century a Maratha Peshwa awarded the jagir of Nuggikeri to the Nuggikeri Desai family, which still manages the temple. The moolamurti is a ~5-ft granite idol coated with vermilion; the complex has a three-tier raja gopuram facing south. NOTE: the CSV's 'Hubli' is approximate - the temple is at Nuggikeri village, ~18-20 km from Hubli and closer to Dharwad (~7 km). One low-quality source claims a Mahabharata-era installation by Janamejaya; the corroborated history is the Vyasatirtha reinstallation."
+  },
+  "id": "nuggikeri-hanuman-temple",
+  "latitude": 15.4130738,
+  "longitude": 75.005425,
+  "media": [
+    "https://temple.yatradham.org/public/Product/temple/temple_qvq1INep_202409161558350.jpg"
+  ],
+  "name": "Nuggikeri Hanuman Temple",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Nuggikeri_Hanuman_Temple",
+    "http://www.trawell.in/karnataka/hubli/nuggikeri-hanuman-temple",
+    "https://hubballidharwad.in/nuggikeri-hanuman-temple/"
+  ],
+  "state": "Karnataka",
+  "town": "Nuggikeri",
+  "town_description": "Nuggikeri is a village on the Hubli-Dharwad airport road, known for the ancient Sri Balabhima (Hanuman) temple on the banks of Nuggikeri Lake. It lies closer to Dharwad than to Hubli.",
+  "tradition": "Vaishnava (Hanuman worship)",
+  "travel": {
+    "airport": "Hubballi Airport (HBX), ~10 km",
+    "railway": "Dharwad railway station, ~7 km; Hubli Junction (UBL), ~18-20 km",
+    "road": "Village road off the Hubballi-Dharwad bypass, ~2 km from the bypass"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to February; Saturdays are crowded",
+    "opening_hours": "Early morning to evening (exact hours not reliably published; verify)"
+  }
+}

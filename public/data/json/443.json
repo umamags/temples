@@ -1,0 +1,46 @@
+{
+  "alternate_names": [
+    "Bajrang Bali Mandir",
+    "Bajarang Bali Temple"
+  ],
+  "deities": [
+    "Hanuman"
+  ],
+  "district": "Koderma",
+  "festivals": [
+    "Hanuman Jayanti"
+  ],
+  "history": {
+    "dynasty": "",
+    "period": "not documented",
+    "summary": "IDENTITY UNVERIFIED / AMBIGUOUS: no single well-documented 'Bajrang Bali Temple' in Koderma town exists in the sources consulted. Several candidates: a 'Bajrang bali mandir' place listing at Kodarma (24.520122, 85.415476, ~2.6 miles from Koderma); a 'Bajarang Bali Temple' at Kodarma (24.341096, 85.726334, ~21 miles from Koderma); onefivenine.com lists a 'Devi Mandap Bajrang Bali Mandir' at Jhumri Telaiya and a 'Bajrangbali Mandir' at Dewanidhab/Kakoriya; Justdial lists a 'Bajrang Bali Mandir' at Mahuagarha, Kurumdih (rating 3.6, opens 6:00 am). None is reliably tied to the CSV row. Coordinates below are the Koderma town-centre approximation only; treat as provisional placeholder pending local verification."
+  },
+  "id": "bajrang-bali-temple-koderma",
+  "latitude": 24.43352,
+  "longitude": 85.53104,
+  "media": [],
+  "name": "Bajrang Bali Temple",
+  "sources": [
+    "http://www.onefivenine.com/india/Listing/Town/temples/Koderma/Koderma",
+    "http://www.Onefivenine.com/india/villages/Koderma/Koderma/Jhalpo",
+    "https://www.justdial.com/Koderma/Bajrang-Bali-Mandir-Kurumdih/9999P6534-6534-171127164505-R6Z8_BZDET/reviews"
+  ],
+  "state": "Jharkhand",
+  "town": "Koderma",
+  "town_description": "Koderma, often referred to as Jhumri Telaiya, is a town in Jharkhand and the headquarters of Koderma district. Once known as the mica capital of India, it lies along National Highway 31 between Patna and Ranchi.",
+  "tradition": "Vaishnavite (Hanuman, devotee of Rama)",
+  "travel": {
+    "airport": "Lok Nayak Jayaprakash Airport, Patna (~165 km)",
+    "railway": "Koderma Junction railway station",
+    "road": "National Highway 31 through Koderma/Jhumri Telaiya"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October-March",
+    "opening_hours": "Open daily; official hours not published - verify locally"
+  }
+}

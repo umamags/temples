@@ -1,0 +1,45 @@
+{
+  "alternate_names": [
+    "Bihari Mandir, Satna",
+    "Bihari Temple, Mahaveer Marg"
+  ],
+  "deities": [
+    "Lord Krishna as Bihari Ji (Banke Bihari form)"
+  ],
+  "district": "Satna",
+  "festivals": [
+    "Janmashtami",
+    "Ram Leela at Dussehra (the mandir is the region's cultural centre for Ram Leela, per Native Planet)"
+  ],
+  "history": {
+    "dynasty": "Not documented in available sources",
+    "period": "Not documented",
+    "summary": "The documented referent for this row is the Bihari Temple at Bihari Chowk, 6 Mahaveer Marg, Satna city. Native Planet's Satna travel guide describes 'Behari Mandir' as the cultural centre of the region, famous for its Ram Leela celebrations admired by locals and visitors. Beyond that, no founding date, builder, or architectural details are published online; the name is generic (Bihari Ji shrines exist in many towns), so identity is provisional and flagged. The CSV town 'Satna' matches this referent."
+  },
+  "id": "bihari-ji-temple-satna",
+  "latitude": 24.5629,
+  "longitude": 80.83053,
+  "media": [],
+  "name": "Bihari Ji Temple",
+  "sources": [
+    "https://www.nativeplanet.com/travel-guide/satna-madhya-pradesh-attractions-how-to-reach-005573.html"
+  ],
+  "state": "Madhya Pradesh",
+  "town": "Satna",
+  "town_description": "Satna is a city in northeastern Madhya Pradesh on the Tamsa river and the district headquarters, well connected by rail and road to Maihar, Chitrakoot, Rewa, and Allahabad.",
+  "tradition": "Vaishnavism",
+  "travel": {
+    "airport": "Jabalpur Airport (about 180 km); Satna airstrip has limited service",
+    "railway": "Satna Junction railway station (about 2 km)",
+    "road": "City centre at Bihari Chowk, Mahaveer Marg, Satna"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March; Dussehra season for the Ram Leela",
+    "opening_hours": "No hours published online (verify)"
+  }
+}

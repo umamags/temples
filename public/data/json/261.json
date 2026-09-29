@@ -1,0 +1,50 @@
+{
+  "alternate_names": [
+    "Shree Siddhivinayak Devstan Mehmdavad",
+    "Siddhivinayak Temple, Mahemdavad"
+  ],
+  "deities": [
+    "Lord Ganesha (Siddhivinayak)",
+    "Katyayni Shri Arbuda Ma (secondary shrine)",
+    "Shiva lingam of 1,21,000 rudrakshas (secondary shrine)"
+  ],
+  "district": "Kheda",
+  "festivals": [
+    "Ganesh Chaturthi",
+    "Sankashti / Sankat Chaturthi (monthly)"
+  ],
+  "history": {
+    "dynasty": "None (modern construction)",
+    "period": "2011–2014 CE",
+    "summary": "CSV town 'Gandhinagar' is wrong: this temple is at Mahemdavad in Kheda district, about 54 km from Gandhinagar (corrected; town set to Mahemdavad). The foundation stone was laid on 9 March 2011 and the temple was consecrated on 5 February 2014, built under the supervision of Ahmedabad businessman Narendrabhai Purohit in fulfilment of his late mother Dahiba's wish. The outer structure, shaped like Lord Ganesha's face using Australian ferro-cement technique, measures 120.98 ft long, 84.25 ft wide and 71 ft tall (including an 8-ft shikhar); the trust calls it Asia's largest temple in the shape of Ganesha. The holy flame was ritually brought from Mumbai's Siddhivinayak temple. The 22-acre campus includes a rudraksha Shiva lingam, a shrine of Katyayni Shri Arbuda Ma, stay rooms, food court, garden, amusement area and helipad."
+  },
+  "id": "shri-siddhivinayak-devasthan-mahemdavad",
+  "latitude": 22.83338,
+  "longitude": 72.76324,
+  "media": [
+    "https://siddhivinayakdevsthan.org/assets/Customimages/Lord-Ganesh-3.jpg"
+  ],
+  "name": "Shri Siddhivinayak Devasthan",
+  "sources": [
+    "https://siddhivinayakdevsthan.org/",
+    "https://curlytales.com/india/travel/asias-largest-siddhivinayak-temple-is-in-gujarat-why-this-place-is-so-special/"
+  ],
+  "state": "Gujarat",
+  "town": "Mahemdavad",
+  "town_description": "A town in Kheda district on the banks of the Vatrak river, on the Ahmedabad–Nadiad corridor about 30 km southeast of Ahmedabad. Known for its historic Bhammariyo Kuvo stepwell and the large modern Siddhivinayak temple complex on the Mahemdabad–Ahmedabad highway.",
+  "tradition": "Hinduism",
+  "travel": {
+    "airport": "Sardar Vallabhbhai Patel International Airport, Ahmedabad (~60 km)",
+    "railway": "Mahemdavad railway station (~3 km)",
+    "road": "On the Mahemdabad–Ahmedabad highway (GJ SH 3), about 2 km from Mahemdavad town"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "November to February; Ganesh Chaturthi sees the largest crowds",
+    "opening_hours": "6:00 AM to 10:00 PM daily (5:00 AM to 11:00 PM on Sankat Chaturthi days — verify)"
+  }
+}

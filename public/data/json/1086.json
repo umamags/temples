@@ -1,0 +1,57 @@
+{
+  "alternate_names": [
+    "Sri Sri Radha Madan Mohan Mandir",
+    "Hare Krishna Temple, Ghaziabad"
+  ],
+  "deities": [
+    "Krishna (Madan Mohan)",
+    "Radha",
+    "Jagannath",
+    "Balarama",
+    "Subhadra"
+  ],
+  "district": "Ghaziabad",
+  "festivals": [
+    "Krishna Janmashtami",
+    "Jagannath Rathayatra",
+    "Rama Navami",
+    "Narasimha Jayanti",
+    "Annakut / Diwali",
+    "Holi Purnima"
+  ],
+  "history": {
+    "dynasty": "None (modern)",
+    "period": "Late 20th/21st century",
+    "summary": "Gaudiya Vaishnava temple of ISKCON, the Hare Krishna movement founded by A. C. Bhaktivedanta Swami Prabhupada in 1966, at R-11/35 Hare Krishna Marg, Raj Nagar, Ghaziabad. Reviews note it is popular during Rash Mela. Founding date of this specific temple was not found in published sources (verify)."
+  },
+  "id": "iskcon-ghaziabad",
+  "latitude": 28.68205,
+  "longitude": 77.45121,
+  "media": [
+    "https://iskconghaziabad.com/img10.webp"
+  ],
+  "name": "ISKCON Ghaziabad",
+  "sources": [
+    "https://promallu.com/toprated/india/iskcon-temple-ghaziabad-437dx/",
+    "http://hindupad.com/iskcon-temple-ghaziabad/",
+    "https://indiano.travel/place/iskcon-temple-ghaziabad/"
+  ],
+  "state": "Uttar Pradesh",
+  "town": "Ghaziabad",
+  "town_description": "Ghaziabad is a large industrial city in western Uttar Pradesh on Delhi's eastern edge, part of the National Capital Region; its planned townships of Raj Nagar, Kavi Nagar and Vaishali mix dense residential sectors with markets, parks and neighbourhood temples.",
+  "tradition": "Gaudiya Vaishnava (Hindu)",
+  "travel": {
+    "airport": "Nearest airport: Delhi IGI Airport (DEL), roughly an hour's drive (verify)",
+    "railway": "Nearest major station: Ghaziabad Junction (GZB), a short drive away (verify)",
+    "road": "R-11/35 Hare Krishna Marg, Block 11, Raj Nagar; accessible by road from Delhi via NH-9; parking can be tight on Janmashtami"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March; Janmashtami is the peak festival",
+    "opening_hours": "Daily 4:30 am - 1:00 pm and 4:15 pm - 9:00 pm (per local listing; verify on iskconghaziabad.com)"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "alternate_names": [
+    "Saptakoteshwar Mandir",
+    "Shree Saptakoteshwar Devasthan",
+    "Raj Daivat of Goa"
+  ],
+  "deities": [
+    "Lord Shiva as Saptakoteshwar (faceted Dharalinga; legend says a linga of seven metals)"
+  ],
+  "district": "North Goa",
+  "festivals": [
+    "Gokul Ashtami (annual festival; devotees bathe in the adjoining river, held to turn into Pancha Ganga that day)",
+    "Mahashivratri"
+  ],
+  "history": {
+    "dynasty": "Kadamba (family deity); restored under Vijayanagara; rebuilt by Marathas",
+    "period": "Kadamba origins (10th-12th c.); present structure 1668; renovated 2023",
+    "summary": "The 'Raj Daivat' (royal deity) of Goa and family god of the Kadamba kings, who stamped 'Saptakotishvaralabdha-Varaprasada' on their coins. The original shrine stood on Divar island (established per the Sahyadri Khanda by the Saptarishi); destroyed under the Bahamanis, restored in 1391 by Madhava Mantri, minister of Vijayanagara, then destroyed by the Portuguese in 1540. The deity was shifted to Narve (Bicholim) by about 1558, and the present temple was built there by Chhatrapati Shivaji Maharaj in 1668. Renovated by the Goa Archives and Archaeology Department and reopened in February 2023 (Kaavi wall art revived); in September 2025 the state approved a Koti Tirth corridor to rebuild the temple at its original Divar site. The dharalinga is accompanied by shrines to Kalabhairava and the padukas of Dattatreya, plus the Panchaganga Tirtha tank. DUPLICATE FLAG: CSV row 222 'Shree Saptakoteshwar Temple, Panaji' is the same temple (its CSV town is also wrong) — keep-or-merge decision needed. CSV town 'Sanguem' corrected to Narve, Bicholim taluka, North Goa."
+  },
+  "id": "saptakoteshwar-temple-sanguem-row",
+  "latitude": 15.55433,
+  "longitude": 73.93744,
+  "media": [
+    "https://booktickets2india.com/wp-content/uploads/2023/11/Shri-Saptakoteshwar-Temple-goa-min.jpeg"
+  ],
+  "name": "Shri Saptakoteshwar Temple",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saptakoteshwar_Temple",
+    "http://lightuptemples.com/narve-sri-saptakoteshwar-temple-goa/",
+    "http://www.eindiatourism.com/goa-temples/saptakoteshwar-temple.html",
+    "https://www.latestly.com/agency-news/india-news-goa-cm-inaugurates-renovated-shree-saptakoteshwar-temple-amit-shah-maharashtra-cm-deputy-cm-extend-wishes-4832332.html/amp"
+  ],
+  "state": "Goa",
+  "town": "Narve",
+  "town_description": "Narve (Naroa) is a village in Bicholim taluka, North Goa, on the banks of the Mandovi near Divar island, about 35 km from Panaji; a historic temple settlement.",
+  "tradition": "Shaivism",
+  "travel": {
+    "airport": "Goa International Airport (Dabolim), about 35-40 km (approx.)",
+    "railway": "Nearest stations Karmali/Thivim on the Konkan line (approx.)",
+    "road": "About 35 km from Panaji via Mapusa-Bicholim; temple road at Narve, Maem, Goa 403403"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March; Gokul Ashtami for the annual festival",
+    "opening_hours": "Not reliably documented online — verify locally"
+  }
+}

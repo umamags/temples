@@ -1,0 +1,40 @@
+{
+  "alternate_names": [
+    "Suncity Mandir",
+    "Suncity Jan Kalyan Mandir Samiti project"
+  ],
+  "deities": [],
+  "district": "Hisar",
+  "festivals": [],
+  "history": {
+    "dynasty": "",
+    "period": "21st century (project; status uncertain)",
+    "summary": "The most likely referent is the Suncity Mandir project in the Sun City residential colony, Hisar, pursued by the Suncity Jan Kalyan Mandir Samiti. Per Samvada Broadcast, the effort began in 2018 when the committee approached HSVP for land allotment after the Suncity builder handed over RB land; progress was delayed by single-bidder allotment rounds, the pandemic, and elections, and as of early 2025 the committee was still awaiting final HSVP approvals, hoping to complete the mandir within the year. Identity is uncertain: no completed temple of this name is documented, and it may still be under construction or unbuilt. Deity, festivals and opening hours are undocumented. Coordinates are approximate for the Sun City colony area near the Delhi Bypass (verify)."
+  },
+  "id": "suncity-temple-hisar",
+  "latitude": 29.11907,
+  "longitude": 75.80888,
+  "media": [],
+  "name": "Suncity Temple",
+  "sources": [
+    "https://samvadabroadcast.com/suncity-mandir-project-a-journey-towards-completion/"
+  ],
+  "state": "Haryana",
+  "town": "Hisar",
+  "town_description": "Hisar is a major city in western Haryana, founded as Hisar-e-Firoza by Firoz Shah Tughlaq in 1354. It is known for its agricultural university, steel industry, and historic sites such as the Firoz Shah palace complex and Agroha.",
+  "tradition": "Hinduism",
+  "travel": {
+    "airport": "Hisar Airport (nearest); Indira Gandhi International Airport, Delhi (approx. 165 km)",
+    "railway": "Hisar Junction railway station",
+    "road": "On the Delhi–Hisar Bypass (NH-9)"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March",
+    "opening_hours": "Not documented"
+  }
+}

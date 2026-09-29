@@ -1,0 +1,56 @@
+{
+  "alternate_names": [
+    "Shree Dhabaleswar Temple",
+    "Baba Dhabaleswar Temple"
+  ],
+  "deities": [
+    "Shiva (as Dhabaleswar)",
+    "Ganesha (subsidiary shrine)",
+    "Vishnu (subsidiary shrine)"
+  ],
+  "district": "Cuttack",
+  "festivals": [
+    "Bada Osa (Kartika Chaturdashi, November)",
+    "Maha Shivaratri",
+    "Kartika Purnima",
+    "Makar Sankranti",
+    "Pausha Purnima",
+    "Dola Purnima"
+  ],
+  "history": {
+    "dynasty": "Somavamshi — attributed to King Yayati Keshari (UNVERIFIED); ASI-protected monument per sources",
+    "period": "10th-11th century CE per most sources (CONFLICT: some sources claim 14th c or 1600 AD — UNVERIFIED)",
+    "summary": "Shiva temple on a small island in the Mahanadi River near Athagad/Mancheswar, ~27 km from Cuttack city. The name Dhabaleswar ('White God') comes from the legend of a thief who hid a stolen black calf in the shrine and prayed for rescue; Shiva appeared as a sannyasi and led out the calf turned white, amazing the villagers. Stone carvings date to the 10th-11th centuries; the Kalinga-style complex has a three-chamber main shrine with a Shiva lingam, black-chlorite deity images (Narasimha, Varaha, Kartikeya) on the walls, and courtyard shrines of Ganesha and Vishnu. The island is reached by the Dhabaleswar Jhula, a ~245-254 m suspension bridge from Mancheswar (built ~2006-2007; one source says 2000 — CONFLICT, verify), or by boat; a concrete bridge has since replaced vehicle use of the hanging bridge. Bada Osa on Kartika Chaturdashi is the biggest festival, drawing over 10 lakh devotees. TOWN CORRECTED: CSV says 'Cuttack' — the island temple is near Athagad, ~27 km from Cuttack city. Coordinates 20.50417, 85.80361 from Wikipedia (20°30'15\"N 85°48'13\"E); the geocoder matched a different Dhabaleswar in Cuttack city, so its result was rejected."
+  },
+  "id": "dhabaleswar-temple",
+  "latitude": 20.50417,
+  "longitude": 85.80361,
+  "media": [
+    "https://indiano.travel/wp-content/uploads/2024/08/Shree-Dhabaleswar-Temple-3-1024x676.jpg"
+  ],
+  "name": "Dhabaleswar Temple",
+  "sources": [
+    "https://www.bharattemples.com/dhabaleswar-cuttack-odisha/",
+    "https://www.citybit.in/india/dhabaleswar-temple-athagarh/",
+    "https://evendo.com/locations/india/east-india/attraction/shree-dhabaleswar-temple",
+    "https://placeguider.com/dhabaleswar-temple-odishas-sacred-island-of-lord-shiva/"
+  ],
+  "state": "Odisha",
+  "town": "Athagad",
+  "town_description": "Athagad (Athgarh) is a historic town and former princely state in Cuttack district, Odisha, on the Mahanadi about 27 km from Cuttack city. It is the gateway to the Dhabaleswar island temple, reached from Mancheswar by suspension bridge and boat. A blend of royal heritage and living Shaivite pilgrimage, it anchors the western Mahanadi temple belt of the district.",
+  "tradition": "Hinduism (Shaivism)",
+  "travel": {
+    "airport": "Biju Patnaik International Airport, Bhubaneswar (~55-60 km, verify)",
+    "railway": "Cuttack Railway Station (~27-35 km, verify)",
+    "road": "Via Mancheswar near Athagad; the ~245-254 m Dhabaleswar Jhula suspension bridge links the island to the mainland (verify current vehicle access); boats also run, especially during festivals"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March; early mornings and late afternoons. Maha Shivaratri and Bada Osa (November) are the great festivals",
+    "opening_hours": "CONFLICT (verify): sources give 6:00 AM-7:00 PM; 5:00 AM-12:30 PM and 1:00-8:00 PM; or 6:00 AM-1:00 PM and 4:00-8:30 PM"
+  }
+}

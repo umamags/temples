@@ -1,0 +1,47 @@
+{
+  "alternate_names": [
+    "Maitri Bagh Zoo",
+    "Garden of Friendship",
+    "Matri Baag"
+  ],
+  "deities": [],
+  "district": "Durg",
+  "festivals": [
+    "Annual flower show (zoo event)"
+  ],
+  "history": {
+    "dynasty": "None (modern)",
+    "period": "1972 (garden founded 1965 per some sources - conflict)",
+    "summary": "NOT A HINDU TEMPLE - keep-or-drop decision needed. Maitri Bagh ('Garden of Friendship') is a zoo-cum-children's park at Maroda Sector, Bhilai, established as a symbol of India-Soviet friendship and developed/maintained by the Bhilai Steel Plant (SAIL). Sources conflict on founding: Wikipedia/Central Zoo Authority say established 1972; Dainik Jagran reports the garden was founded in 1965 and converted into a zoo in 1972. It is Chhattisgarh's largest and oldest zoo, a noted white-tiger conservation centre (first pair from Nandankanan arrived 1990; 19 white tigers born since). Attractions include the artificial lake with boating, musical fountain, toy train, and memorials of the Soviet-era collaboration. No temple is documented within or as the site; the CSV row appears to name the park itself. PROBABLE DUPLICATE: CSV seq 179 ('Maitri Bagh Temple, Bhilai', handled by another worker) refers to the same site - 179's town (Bhilai) is correct; this row's town 'Durg' is the district name. Town corrected to Bhilai."
+  },
+  "id": "maitri-bagh-zoo-maroda-bhilai",
+  "latitude": 21.16882,
+  "longitude": 81.35188,
+  "media": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Maitri_bagh4_%28cropped%29.JPG/1280px-Maitri_bagh4_%28cropped%29.JPG?utm_source=www.wikidata.org&utm_campaign=index&utm_content=thumbnail"
+  ],
+  "name": "Maitri Bagh Zoo (Garden of Friendship)",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Maitri_Bagh",
+    "https://durg.gov.in/en/tourist-place/maitri-bagh/",
+    "https://english.dainikjagranmpcg.com/states/chhattisgarh/chhattisgarh’s-first-zoo-moves-toward-privatization/article-8789"
+  ],
+  "state": "Chhattisgarh",
+  "town": "Bhilai",
+  "town_description": "Bhilai is an industrial city in Durg district, Chhattisgarh, built around the Bhilai Steel Plant (commissioned 1959 with Soviet collaboration); its planned sectors and township host numerous temples serving the steel-town population.",
+  "tradition": "Non-religious - zoological park and public garden",
+  "travel": {
+    "airport": "Swami Vivekananda Airport, Raipur (~54 km)",
+    "railway": "Durg Junction on the Mumbai-Howrah main line; nearest station Bhilai Power House",
+    "road": "Maroda Sector, Bhilai (~9 km from Durg district HQ)"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October-March",
+    "opening_hours": "Zoo 10:00 AM - 5:00 PM; park 10:00 AM - 7:30 PM; closed Mondays (timings vary across sources - confirm locally)"
+  }
+}

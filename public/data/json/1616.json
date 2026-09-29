@@ -1,0 +1,50 @@
+{
+  "alternate_names": [
+    "Maa Kalyaneshwari Mandir",
+    "Kalyaneswari Temple"
+  ],
+  "deities": [
+    "Goddess Kalyaneshwari (form of Shakti/Kali)"
+  ],
+  "district": "Paschim Bardhaman",
+  "festivals": [
+    "Durga Puja",
+    "Kali Puja"
+  ],
+  "history": {
+    "dynasty": "Uncertain (Panchkot rulers; present structure modern)",
+    "period": "Worship site circa 500 years old (legendary); present temple modern",
+    "summary": "POSSIBLE DUPLICATE of seq 1162 (\"Kalyaneshwari Temple\", Kalyaneshwari, Paschim Bardhaman, West Bengal) — same real temple. TOWN AND STATE CORRECTED: the CSV row says Dhanbad, Jharkhand, but this temple stands at Kalyaneshwari village near Asansol in PASCHIM BARDHAMAN district, WEST BENGAL, on the West Bengal-Jharkhand border by the Barakar River, about 5 km downstream of the Maithon Dam. It is a circa-500-year-old centre of Shakti worship; legend says human sacrifices were offered here in the remote past. The present temple is not very old — Wikipedia says it was built by Sri Gurudin Prasad Pal, while other sources credit the Panchkot Raj (a traveller review claims King Harigupta built the first structure — CONFLICT). The goddess is believed to be a living deity who fulfils the wishes of childless women. The name 'Maithon' is locally derived from 'Mai ka Sthan' (the Mother's place)."
+  },
+  "id": "kalyaneshwari-temple-asansol",
+  "latitude": 23.65833,
+  "longitude": 86.93668,
+  "media": [
+    "https://temple.yatradham.org/public/Product/temple/temple_PXhDI7nX_202507101347330.webp"
+  ],
+  "name": "Kalyaneshwari Temple",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Kalyaneshwari_Temple",
+    "https://www.rvatemples.com/listings/maa-kalyaneshwari-temple/",
+    "https://www.swarnabdutta.com/kalyaneshwari-temple-asansol-timings-history/",
+    "https://www.makemytrip.com/tripideas/attractions/kalyaneshwari-temple?pdtCtx=eyJqaWQiOiJqb3VybmV5XzE3ODA3OTgzMjQ2MTJfYnA0cDd4NWlpIiwic2MiOm51bGwsInBwIjoiZGVzdGluYXRpb25fY2l0eSJ9"
+  ],
+  "state": "West Bengal",
+  "town": "Kalyaneshwari",
+  "town_description": "Kalyaneshwari is a small town near Asansol in Paschim Bardhaman district, West Bengal, sitting right at the West Bengal-Jharkhand border on the Barakar River. It lies about 5 km from the Maithon Dam and reservoir of the Damodar Valley Corporation, just off the NH-19 (Grand Trunk Road) bypass. The town is best known for the centuries-old Maa Kalyaneshwari Shakti shrine, which draws pilgrims from both West Bengal and Jharkhand, and the name 'Maithon' itself is locally derived from 'Mai ka Sthan' (the Mother's place).",
+  "tradition": "Hinduism (Shaktism)",
+  "travel": {
+    "airport": "Kazi Nazrul Islam Airport, Durgapur (Andal), approx. 60-65 km (verify)",
+    "railway": "Asansol Junction, approx. 23 km (verify); buses/private cabs from Asansol or Barakar",
+    "road": "About 7 km from Barakar on the Grand Trunk Road (NH-19); approx. 1 km off the NH-19 bypass"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March; Durga Puja and Kali Puja are the busiest periods",
+    "opening_hours": "CONFLICT (verify): swarnabdutta.com says 6 AM-8 PM daily; makemytrip says 8 AM-4 PM daily"
+  }
+}

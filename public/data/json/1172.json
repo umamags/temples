@@ -1,0 +1,51 @@
+{
+  "alternate_names": [
+    "Druk Thupten Sangag Choling Monastery",
+    "Druk Sangag Choling Monastery",
+    "Dali Gompa"
+  ],
+  "deities": [
+    "Gautama Buddha"
+  ],
+  "district": "Darjeeling",
+  "festivals": [
+    "Mahakala puja",
+    "Buddha Jayanti (Vesak)"
+  ],
+  "history": {
+    "dynasty": "Modern",
+    "period": "1971 (established by Kyabje Thuksey Rinpoche; gompa inaugurated by the Dalai Lama in 1993)",
+    "summary": "NOT A HINDU TEMPLE - Buddhist monastery of the Drukpa Kagyu (Kargyupa) lineage; keep-or-drop decision needed. Dali Monastery, officially Druk Thupten Sangag Choling Monastery, was established in 1971 by the 1st Kyabje Thuksey Rinpoche and serves as the headquarters and residence of the Drukchen Rinpoche XII, the supreme head of the Kagyu sect. It stands on a hillock on Hill Cart Road at Dali, about 4-5 km from Darjeeling town between Darjeeling and Ghoom, and houses around 300 monks. The multi-storey Tibetan-style complex has colourful murals of Buddha's life, a large Buddha statue, thangkas, important Buddhist texts and a small library; the Dalai Lama inaugurated the gompa and taught there for three days in 1993. Festival dates beyond Mahakala puja were not confirmed - verify locally."
+  },
+  "id": "dali-monastery-darjeeling",
+  "latitude": 27.02325,
+  "longitude": 88.25465,
+  "media": [
+    "https://darjeelingadventuretourism.com/images/dali-monastery-780.jpg"
+  ],
+  "name": "Dali Monastery",
+  "sources": [
+    "https://spiceholiday.in/travel-guide/monasteries-in-darjeeling/",
+    "https://evendo.com/locations/india/darjeeling/batasia-loop/attraction/dali-monastery",
+    "https://darjeelingdays.com/dali-monastery/",
+    "https://www.windhorsetours.com/sights/druk-thupten-sangag-choling-monastery-dali-monastery"
+  ],
+  "state": "West Bengal",
+  "town": "Darjeeling",
+  "town_description": "Darjeeling is a hill town in the Eastern Himalaya of West Bengal, famous for its tea, the Darjeeling Himalayan Railway (a UNESCO World Heritage toy train) and views of Kanchenjunga. Founded as a British sanatorium and summer retreat in the 19th century, it blends colonial heritage with Tibetan Buddhist culture and is one of India's best-known tourist destinations.",
+  "tradition": "Tibetan Buddhism (Drukpa Kagyu / Kargyupa)",
+  "travel": {
+    "airport": "Bagdogra Airport (IXB), about 70 km away",
+    "railway": "Darjeeling station of the Darjeeling Himalayan Railway; nearest mainline station New Jalpaiguri (NJP), about 65 km",
+    "road": "Hill Cart Road at Dali, about 4-5 km from Darjeeling town; taxis and shared jeeps from Chowk Bazaar, or the toy train between Darjeeling and Ghoom"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to April (Oct-Nov autumn, Dec-Feb winter, Mar-Apr spring)",
+    "opening_hours": "Open daily; best during morning (5:00 AM - 6:30 AM) and evening (5:00 PM - 6:30 PM) prayer sessions"
+  }
+}

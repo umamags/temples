@@ -1,0 +1,52 @@
+{
+  "alternate_names": [
+    "Sree Thirumandhamkunnu Bhagavathy Temple",
+    "Thirumandhamkunnilamma Temple"
+  ],
+  "deities": [
+    "Bhadrakali (Thirumandhamkunnilamma, north-facing, with the Saptamatrikas in the Mathrusala)",
+    "Shiva (sacred split linga in the roofless Sreemoolasthanam)"
+  ],
+  "district": "Malappuram",
+  "festivals": [
+    "Thirumandhamkunnu Pooram — 11 days from the Makayiram star in Meenam (March–April), with daily Aarattu and caparisoned elephants",
+    "Mangalya Pooja — special wedding oblation attracting thousands of young women",
+    "Annual Mandhatha pooja on Chithra in Midhunam"
+  ],
+  "history": {
+    "dynasty": "Valluvanad Rajas (the deity was their paradevatha); Zamorin patronage in later centuries",
+    "period": "Ancient; Pooram attested to the early decades of the 16th century in palm-leaf records",
+    "summary": "One of the three great Bhagavathi temples of Kerala (with Kodungallur and Panayannarkavu), atop the hill at Angadipuram — the old capital of the Valluvanad Rajavamsham. Legend: King Mandhatha of the Surya dynasty received a Shiva linga from Shiva himself; when Goddess Parvati sought to retrieve it, she chose to remain here as Bhadrakali. The Chaver (martyr-warriors) of the Valluvanad king set out from this temple to the Mamankam at Thirunavaya; their memorial 'chaver thara' stands before the entrance. The thanthri is still from the Kattillamuttam/Panthalakode Brahmin families; the Sreemoolasthanam is roofless, evidence of its kavu origin. IMPORTANT CSV ERROR: the row name 'Kodikuthimala Thirumandhamkunnu Temple' conflates two different places. Kodikuthimala is a 540-m hill station and eco-tourism trekking spot near Perinthalmanna (Amminikkad) with no famous temple — it is NOT where this temple stands. The real Thirumandhamkunnu Temple is at Angadipuram, Malappuram district, which is recorded as the town."
+  },
+  "id": "thirumandhamkunnu-bhagavathy-temple-angadipuram",
+  "latitude": 10.98017,
+  "longitude": 76.20164,
+  "media": [
+    "https://www.keralatourism.org/images/destination/mobile/thirumandhamkunnu_temple_angadipuram20131207101450_28_1.jpg"
+  ],
+  "name": "Thirumandhamkunnu Temple",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Thirumandhamkunnu_Temple",
+    "https://keralatourism.org/destination/thirumandhamkunnu-temple-angadipuram/28",
+    "https://en.wikipedia.org/wiki/Thirumandhamkunnu_Pooram",
+    "https://en.wikipedia.org/wiki/Kodikuthimala"
+  ],
+  "state": "Kerala",
+  "town": "Angadipuram",
+  "town_description": "Angadipuram, near Perinthalmanna, was the capital of the medieval Valluvanad kingdom; the Bhagavathy temple crowns its hillock and the town hosts the temple's Pooram grounds.",
+  "tradition": "Shaktism (Bhadrakali worship); Kerala tantra",
+  "travel": {
+    "airport": "Calicut International Airport",
+    "railway": "Angadipuram railway station (~2 km)",
+    "road": "On the hilltop at Angadipuram, off the Perinthalmanna–Valanchery road"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "March–April (Pooram season); October–March generally",
+    "opening_hours": "Typical Kerala hours 5:00 AM–11:00 AM and 5:00 PM–7:30 PM (verify before visit)"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "alternate_names": [
+    "Mahabaleshwara Temple",
+    "Sri Mahabaleshwara Swami Temple",
+    "Dakshina Kashi (epithet)",
+    "Bhookailash (epithet)"
+  ],
+  "deities": [
+    "Shiva (as Mahabaleshwara - the Atma-linga / Prana-linga)",
+    "Ganesha (Maha Ganapati shrine)",
+    "Parvati (as Tamira Gowri / Gokarnanayagi)",
+    "Chandikeswara",
+    "Aadi Gokarneswara",
+    "Dattatreya"
+  ],
+  "district": "Uttara Kannada",
+  "festivals": [
+    "Maha Shivaratri (Feb-Mar) with Ratha Yatra",
+    "Shivaratri Ratha Yatra (starts at the Maha Ganapati Temple)",
+    "Karthika month (Nov-Dec, the month of lamps)"
+  ],
+  "history": {
+    "dynasty": "Kadamba (traditional founder: King Mayurasharma/Mayuravarma, 4th c. CE); present complex largely Vijayanagara-period (14th-17th c.)",
+    "period": "4th century CE (345-365 CE traditionally); present fabric mostly 14th-17th century",
+    "summary": "The temple's origin is traditional: a shrine to the self-manifested (Swayambhu) Atma-linga or Prana-linga of Shiva was raised by Kadamba king Mayurasharma/Mayuravarma in the 4th century CE (345-365 CE), while most of the present granite complex is Vijayanagara-period (14th-17th century). Legend tells that Ravana, carrying the Atma-linga granted by Shiva from Kailasa, was tricked by the boy Ganesha into setting it down at Gokarna; unable to lift it again, Ravana named it Mahabaleshwara, 'the mighty one' - the flung fragments founded the other shrines of the coastal Panchalinga (Sajjeshwar, Gunavante, Dhareshwar, Murudeshwar/Mrideshwara). The linga is enclosed in a square Saligrama pedestal; only its crown is visible, unusually offered for sparsha darshan (touch). The temple is one of the 275 Paadal Petra Sthalams sung in the Tamil Tevaram (6th-7th c. Nayanar saints), one of the seven Mukti Sthalas of Karnataka (hence 'Dakshina Kashi'), and its name Gokarna comes from go (cow) + karna (ear) - the petrified ear of the cow that sank into the earth. Administration is with a Supreme Court-appointed Overseeing Committee (chair: Justice B.N. Srikrishna)."
+  },
+  "id": "mahabaleshwar-temple",
+  "latitude": 14.54351,
+  "longitude": 74.3163,
+  "media": [
+    "https://blog.yatradham.org/wp-content/uploads/2023/10/Sri-Mahabaleshwara-Temple-Gokarna-1024x536.jpg"
+  ],
+  "name": "Mahabaleshwar Temple",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Mahabaleshwar_Temple,_Gokarna",
+    "https://www.meremandir.com/temple/gokarna-mahabaleshwar",
+    "https://gokarnatourism.co.in/mahabaleshwar-temple-gokarna",
+    "https://www.cholantours.com/india/karnataka/mahabaleshwar-temple",
+    "http://templenet.com/Tamilnadu/s116.html",
+    "https://www.scribd.com/document/331001714/Mahabaleshwar-Temple-Gokarna-Wikipedia",
+    "https://www.ixigo.com/plan/gokarna",
+    "https://travelsetu.com/guide/gokarna-tourism/how-to-reach-gokarna"
+  ],
+  "state": "Karnataka",
+  "town": "Gokarna",
+  "town_description": "Gokarna is a coastal temple town in Uttara Kannada district, Karnataka, on the Arabian Sea between the Gangavalli and Aganashini rivers. One of the seven Mukti Sthalas of Karnataka and revered as Dakshina Kashi, it draws Shaivite pilgrims year-round while its beaches and the Konkan Railway have also made it popular with domestic and foreign travellers. The town pairs a traditional pilgrim economy - the Koti Tirtha, Car Street and the daily temple routine - with beaches such as Om Beach and Kudle, treks and a traveller cafe scene.",
+  "tradition": "Hinduism (Shaivism)",
+  "travel": {
+    "airport": "Dabolim Airport (GOI), Goa - ~140 km; taxi/bus ~3.5-4 hrs; Hubli ~160-230 km (sources vary) (verify)",
+    "railway": "Gokarna Road (GOK) on the Konkan Railway - ~8-10 km from town (some sources say 6 km) (verify); Ankola ~20 km, Kumta ~30 km have more trains",
+    "road": "NH 66 passes nearby; KSRTC and private buses from Bengaluru (~475 km), Mangalore (~240 km), Hubli and Panjim (Goa); autos/taxis within town"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to February (cool season); Maha Shivaratri (Feb-Mar) is the peak occasion",
+    "opening_hours": "Commonly cited as 5:00 AM-12:00 PM and 4:00 PM-9:00 PM (verify locally); no cameras inside; traditional dress expected; men uncover upper body before the garbhagriha"
+  }
+}

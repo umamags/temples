@@ -1,0 +1,50 @@
+{
+  "alternate_names": [
+    "Chaiturgarh Mahishasur Mardini Temple",
+    "Lafagarh Devi Temple",
+    "Chaithurgarh Temple"
+  ],
+  "deities": [
+    "Durga (Mahishasur Mardini)"
+  ],
+  "district": "Korba",
+  "festivals": [
+    "Navratri",
+    "Dussehra"
+  ],
+  "history": {
+    "dynasty": "Kalchuri",
+    "period": "10th-12th century (disputed)",
+    "summary": "The temple crowns the Chaiturgarh (also called Lafagarh) hill fort at about 3,060 ft, an Archaeological Survey of India protected monument on the Korba-Bilaspur road. Inscriptions of the Central Provinces and Berar (Kalchuri Era 933 = 1181-82 CE) trace the Kalchuri lineage of Ratnaraja I to Prithvideva I, and local and popular accounts attribute the fort-temple to Raja Prithvideva I; Wikipedia and lightuptemples place it in this Kalchuri period, while some travel accounts say the Mahishasur Mardini shrine was built in the 10th century by Kalchuri kings - the exact century is uncertain. The sanctum holds a 12-armed Mahishasur Mardini idol; sculptures are in ruins. Local belief holds that Durga slew Mahishasura here. The fort has three entrances (Menaka, Humkara, Simhadwar); a 25-ft Shankar cave lies 3 km from the temple. CSV town correction: the fort is not in Korba town but near Pali village (address Pali 495449), about 70 km from Korba."
+  },
+  "id": "chaiturgarh-mahishasur-mardini",
+  "latitude": 22.51821,
+  "longitude": 82.25469,
+  "media": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/(%E0%A4%AE%E0%A4%B9%E0%A4%BF%E0%A4%B7%E0%A4%BE%E0%A4%B8%E0%A5%81%E0%A4%B0_%E0%A4%AE%E0%A4%B0%E0%A5%8D%E0%A4%A6%E0%A4%BF%E0%A4%A8%E0%A5%80_%E0%A4%AE%E0%A4%82%E0%A4%A6%E0%A4%BF%E0%A4%B0%2C_%E0%A4%9A%E0%A5%88%E0%A4%A4%E0%A5%81%E0%A4%B0%E0%A4%97%E0%A4%A2%E0%A4%BC%2C_%E0%A4%95%E0%A5%8B%E0%A4%B0%E0%A4%AC%E0%A4%BE)_Mahishasur_Mardini_temple_Chaiturgarh_Korba%2C_Chhattisgarh.jpg/1280px-thumbnail.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail"
+  ],
+  "name": "Chaiturgarh Mahishasur Mardini Temple",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Chaiturgarh",
+    "http://lightuptemples.com/en/Chaiturgarh-Mahishasur-Mardini-Temple-Chhattisgarh/",
+    "http://www.99mustsee.com/India/Chaithurgarh-Fort-Korba-Chhattisgarh-Attractions-4751"
+  ],
+  "state": "Chhattisgarh",
+  "town": "Pali",
+  "town_description": "Pali is a village and tehsil on the Korba-Bilaspur road in Korba district, known for the 9th-century Pali Shiva temple and as the base for reaching the Chaiturgarh hill fort nearby.",
+  "tradition": "Shaktism",
+  "travel": {
+    "airport": "Bilasa Devi Kevat Airport, Bilaspur, about 90 km away",
+    "railway": "Korba Junction, about 70 km away",
+    "road": "Korba-Bilaspur road; about 70 km from Korba town, 51 km from Katghora; hilltop reached by trek"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March; Navratri draws a large fair",
+    "opening_hours": "Not documented"
+  }
+}

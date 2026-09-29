@@ -1,0 +1,55 @@
+{
+  "alternate_names": [
+    "Maa Charchika Temple",
+    "Banki Charchika Temple"
+  ],
+  "deities": [
+    "Charchika (eight-armed Chamunda, form of Durga)",
+    "Chamunda (four-armed, parsvadevata)",
+    "Mahishasuramardini Durga (parsvadevata)"
+  ],
+  "district": "Cuttack",
+  "festivals": [
+    "Durga Puja (October)",
+    "Kumar Purnima (Kumari Vesha)",
+    "Pana Sankranti",
+    "Dola Jatra",
+    "Chandana Jatra"
+  ],
+  "history": {
+    "dynasty": "Bhaumakara (deity iconography); present temple rebuilt 19th century",
+    "period": "9th-10th century CE (idol, iconographic dating); present structure 19th century",
+    "summary": "Ancient Shakti Peetha in Banki town, Cuttack district, on the Ruchika Parvata hillock beside the Renuka river. The presiding deity is the eight-armed goddess Charchika (Chamunda), seated on a prostrate human body and wearing a garland of skulls, worshipped per tantric rites. The present temple was reconstructed in the 19th century, but the enshrined idol is iconographically dated to the 9th-10th centuries (Bhaumakara rule); legend says the idol was created by Parashurama, hence the site is also called Parashurama Pitha. The temple has a pidha vimana, jagamohana and a wooden 'sunyavahini mandapa' whose carved wooden ceiling depicts Bhagavata episodes; parsvadevata niches hold four-armed Chamunda, four-armed Mahishasuramardini and eight-armed Chamunda. Some sources count it among the 51 Shakti Peethas (UNVERIFIED claim). Kumar Purnima is the biggest local festival, when the deity wears the Kumari Vesha. TOWN CORRECTED: CSV says 'Cuttack' — the temple is in Banki town, Cuttack district, ~48-55 km from Cuttack/Bhubaneswar."
+  },
+  "id": "charchika-temple",
+  "latitude": 20.37724,
+  "longitude": 85.52765,
+  "media": [
+    "https://odishatour.in/wp-content/uploads/2021/09/Banki-charchika-Temple-Cuttack7.jpg"
+  ],
+  "name": "Charchika Temple",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Charchika_Temple",
+    "https://www.trawell.in/orissa/cuttack/banki-charchika-temple",
+    "https://localdrive.in/charchika-temple-a-spiritual-gem-in-banki-odisha-you-must-visit/",
+    "https://odishatour.in/charchika-temple/"
+  ],
+  "state": "Odisha",
+  "town": "Banki",
+  "town_description": "Banki is a town and subdivision headquarters in Cuttack district, Odisha, on the banks of the Mahanadi about 50 km from Cuttack city. It is best known for the Charchika Temple, one of the oldest Shakti Peethas of Odisha, set on a hillock in the heart of the town. A historic trade and administrative centre, it serves as the gateway to the Bhattarika-Banki pilgrimage belt of the Mahanadi valley.",
+  "tradition": "Hinduism (Shaktism; Tantric worship)",
+  "travel": {
+    "airport": "Biju Patnaik International Airport, Bhubaneswar (~55 km, verify)",
+    "railway": "Cuttack Railway Station (~48 km, verify)",
+    "road": "Well-connected scenic roads; about 53-55 km from Bhubaneswar and ~48 km from Cuttack; buses and private vehicles available"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "Durga Puja (October) and Kumar Purnima (5 days after Dussehra) are the peak festivals; visitable any time of year",
+    "opening_hours": "CONFLICT (verify): most sources give 5:00 AM-2:30 PM and 5:00-9:30 PM; trawell gives 6:00 AM-6:00 PM"
+  }
+}

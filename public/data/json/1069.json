@@ -1,0 +1,49 @@
+{
+  "alternate_names": [
+    "Bade Hanuman Ji Mandir",
+    "Lete Hanuman Mandir"
+  ],
+  "deities": [
+    "Hanuman"
+  ],
+  "district": "Prayagraj",
+  "festivals": [
+    "Hanuman Jayanti",
+    "Ram Navami",
+    "Narak Chaturdashi"
+  ],
+  "history": {
+    "dynasty": "Various (legendary)",
+    "period": "Idol dated 600-700 years old (traditional accounts)",
+    "summary": "Unique Hindu temple near the Triveni Sangam housing the only known reclining idol of Hanuman in the world — a 20-ft-long south-facing deity in an underground shrine. Legend says a childless Kannauj king brought the idol from the Vindhyachal hills; his boat broke at Prayag, the idol sank, and centuries later the devotee Baba Balagiri Ji recovered it while digging (one source dates the shrine establishment to 1119 AD; another dates the idol to the 14th-15th century — conflict flagged). Another legend says Hanuman rested here after burning Lanka. Mughal emperor Akbar tried to move the idol to Patalpuri Temple in 1583 but failed, then built the fort wall behind the temple. Each monsoon the Ganga rises to touch the idol's feet. The temple is managed by the Baghambari Gaddi and was extensively renovated for the 2025 Prayag Maha Kumbh. NOTE: CSV name 'Hanuman Mandir (Prayagraj)' matches this famous Sangam shrine; town corrected from Allahabad to Prayagraj."
+  },
+  "id": "hanuman-mandir-prayagraj",
+  "latitude": 25.42816,
+  "longitude": 81.83359,
+  "media": [
+    "https://lh3.googleusercontent.com/p/AF1QipONaevXsKGSb8VtQUsOz2GYHNVl8_KIMnnfXcAQ"
+  ],
+  "name": "Hanuman Mandir (Prayagraj)",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Bade_Hanuman_Mandir",
+    "http://visitplacesindia.com/attraction/hanuman-mandir-prayagraj/"
+  ],
+  "state": "Uttar Pradesh",
+  "town": "Prayagraj",
+  "town_description": "Prayagraj (formerly Allahabad) is a major city in Uttar Pradesh at the confluence of the Ganga and Yamuna. Among India's oldest cities, it is one of the four Kumbh Mela sites, home to the Allahabad Fort, Anand Bhavan and the University of Allahabad.",
+  "tradition": "Hindu",
+  "travel": {
+    "airport": "Prayagraj Airport (Bamrauli), ~12-15 km",
+    "railway": "Prayagraj Junction, ~6 km",
+    "road": "Located at Dariyabad near the Triveni Sangam and Allahabad Fort, accessible by city road and during melas by dedicated corridors"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March; Magh Mela and Kumbh Mela are peak pilgrimage times",
+    "opening_hours": "5:00 AM–2:00 PM and 5:00 PM–8:00 PM daily; open till 10:00 PM on Tuesdays and Saturdays per Wikipedia — other sources differ (5:30 AM/5 PM and even 9 AM–12 PM/4–9:30 PM) — verify. Busiest on Tuesdays and Saturdays."
+  }
+}

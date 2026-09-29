@@ -1,0 +1,53 @@
+{
+  "alternate_names": [
+    "Har Ki Paudi",
+    "Brahmakund",
+    "Brahma Kund"
+  ],
+  "deities": [
+    "Goddess Ganga (Ganga Aarti)"
+  ],
+  "district": "Haridwar",
+  "festivals": [
+    "Kumbh Mela (every 12 years)",
+    "Ardh Kumbh Mela (every 6 years)"
+  ],
+  "history": {
+    "dynasty": "None (legendary foundation; modern extensions 1938, 1986)",
+    "period": "Legendary origin in 1st century BC; ghat expanded by the British after 1819; landmark clock tower 1938",
+    "summary": "NOT A TEMPLE - a ghat (riverfront steps), though a major Hindu pilgrimage site; keep-or-drop decision needed. Har Ki Pauri, 'the feet of Vishnu (Hari)', is the most sacred ghat of Haridwar and its landmark, on the banks of the Ganga where the river leaves the Himalayas and enters the plains. King Vikramaditya is said to have built the original ghat in the 1st century BC in memory of his brother Bharthari, who meditated here. An imprint of Vishnu's foot on a stone at the ghat gives it its name; the most sacred spot, Brahma Kund, is where drops of Amrit are believed to have fallen during the Samudra Manthan, making it one of the four Kumbh sites. After a deadly crush at the 1819 Kumbh, the British expanded the ghat to 100 feet with 60 steps; further extensions were made in 1938 (Hargyan Singh Katara of Agra, when the clock tower was erected) and 1986. The evening Ganga Aarti at sunset - priests with fire bowls, temple bells and floating diyas - is the daily highlight."
+  },
+  "id": "har-ki-pauri-haridwar",
+  "latitude": 29.96033,
+  "longitude": 78.17625,
+  "media": [
+    "https://travelogyindia.b-cdn.net/storage/app/upload/haridwar-ganga-aarti.jpg"
+  ],
+  "name": "Har Ki Pauri",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Har_Ki_Pauri",
+    "https://travelchardham.com/spot/har-ki-pauri",
+    "http://www.ecoindia.com/ghats/har-ki-pauri.html",
+    "https://www.theindianpanorama.news/haridwar-the-holy-city-2/",
+    "https://www.singhtour.com/place/har-ki-pauri/",
+    "https://onlinepoojan.com/pooja/ganga-aarti-sthal-haridwar"
+  ],
+  "state": "Uttarakhand",
+  "town": "Haridwar",
+  "town_description": "Haridwar is one of the seven holiest cities in Hinduism, where the Ganga descends from the Himalayas and enters the plains. An ancient pilgrimage centre and host of the Kumbh Mela every twelve years, its ghats draw millions of devotees for ritual bathing.",
+  "tradition": "Hindu (ghat - pilgrimage)",
+  "travel": {
+    "airport": "Jolly Grant Airport, Dehradun (approx. 35 km)",
+    "railway": "Haridwar Railway Station (approx. 3 km)",
+    "road": "In the heart of Haridwar, 3 km from the bus stand; well connected by road to Delhi and Dehradun"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March; early morning for sunrise bathing, evening for the Ganga Aarti",
+    "opening_hours": "Open all day; the Ganga Aarti is held daily at sunset (morning around sunrise and evening around 6-7 PM, timing varies seasonally and is altered on eclipses)"
+  }
+}

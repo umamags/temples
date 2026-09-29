@@ -1,0 +1,46 @@
+{
+  "alternate_names": [
+    "Maa Maheswari Temple"
+  ],
+  "deities": [
+    "Goddess Maheswari (a form of Shakti/Durga)"
+  ],
+  "district": "Jharsuguda",
+  "festivals": [
+    "Navratri",
+    "Maha Shivaratri"
+  ],
+  "history": {
+    "dynasty": "Unknown (UNVERIFIED)",
+    "period": "UNVERIFIED - described as 'several centuries old' in travel write-ups only; no documented construction date",
+    "summary": "A Shakti shrine at Lakhanpur in Jharsuguda district (CSV town 'Jharsuguda' corrected - the temple is associated with Lakhanpur). Travel write-ups describe it as a centuries-old Odia-style temple celebrating Navratri and Maha Shivaratri, but these accounts are generic and uncited, so the founding date and history are UNVERIFIED. IDENTITY AMBIGUITY (verify): multiple same-named shrines appear in listings - a 'Maa Maheswari Temple' at Laikera, one at Thelkoloi, and a 'Maheswari Temple' with a Bheden (Bargarh district) road project; it is not firmly established which referent the CSV row intends. Coordinates below are approximate, from the Laikera listing."
+  },
+  "id": "maheswari-temple",
+  "latitude": 21.948999,
+  "longitude": 84.11977,
+  "media": [],
+  "name": "Maheswari Temple",
+  "sources": [
+    "https://orissatours.com/maheswari-temple-lakhanpur-jharsuguda-odisha/",
+    "https://orissaguide.com/maheswari-temple-lakhanpur-jharsuguda-odisha/",
+    "https://ppms.odisha.gov.in/upload/bill_dpr/bill_dpr_1773826053.pdf"
+  ],
+  "state": "Odisha",
+  "town": "Lakhanpur",
+  "town_description": "Lakhanpur is a block and small town in Jharsuguda district, western Odisha, about 25-30 km from Jharsuguda town. It sits in a largely rural, forested landscape and is known regionally for the Koilighugar waterfall. Like the rest of the district it lies in the mineral-rich Ib valley belt.",
+  "tradition": "Hinduism (Shaktism)",
+  "travel": {
+    "airport": "Veer Surendra Sai Airport, Jharsuguda (~35-40 km, verify)",
+    "railway": "Jharsuguda Junction (~25-30 km, verify)",
+    "road": "Reachable by road from Jharsuguda via the Lakhanpur road (verify)"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March (verify)",
+    "opening_hours": "Not published (verify); one listing suggests 7:00 AM - 7:00 PM daily"
+  }
+}

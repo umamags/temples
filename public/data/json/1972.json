@@ -1,0 +1,53 @@
+{
+  "alternate_names": [
+    "Parasurameswara Temple",
+    "Parasurameswar Temple",
+    "Parasesvara"
+  ],
+  "deities": [
+    "Shiva (Parashurameshvara)",
+    "Durga (Mahishamardini)",
+    "Saptamatrikas"
+  ],
+  "district": "Khordha",
+  "festivals": [
+    "Parashuramashtami (Ashadha, June-July)",
+    "Maha Shivaratri"
+  ],
+  "history": {
+    "dynasty": "Shailodbhava (attributed to King Madhavaraja II)",
+    "period": "c. 650 CE (7th century)",
+    "summary": "The oldest well-preserved temple in Bhubaneswar, dating to around 650 CE under the Shailodbhavas. Tradition says the sage Parashurama installed the linga here to atone after his campaign against the Kshatriyas — hence the name combining Parashurama and Ishvara. Notable as the first temple with both vimana and jagamohana in the Kalinga idiom, the earliest Odishan temple depicting the eight grahas (not nine), and the earliest representation of the Saptamatrikas in Odisha. Repaired by the British administration in 1903; now ASI-maintained. Coordinates approximate (street-level geocode match in Old Town)."
+  },
+  "id": "parashurameshvara-temple",
+  "latitude": 20.23318,
+  "longitude": 85.83911,
+  "media": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Parasuramesvara_Temple.jpg/1280px-Parasuramesvara_Temple.jpg?utm_source=en.wikivoyage.org&utm_campaign=index&utm_content=thumbnail"
+  ],
+  "name": "Parashurameshvara Temple",
+  "sources": [
+    "https://www.bharattemples.com/parashurameshvara-temple-bhubaneswar-odisha/",
+    "https://www.optimatravels.com/bhubaneswar-odisha/parashurameshvara-temple-bhubanewar-odisha-india.aspx",
+    "https://www.tourmyindia.com/states/odisha/parasurameswara-temple.html",
+    "https://testbook.com/question-answer/parsurameshwara-temple-of-bhubaneswar-belongs-to--6719f3188dddfeb2c3972a1d/amp"
+  ],
+  "state": "Odisha",
+  "town": "Bhubaneswar",
+  "town_description": "Bhubaneswar, the capital of Odisha, is known as the \"Temple City of India\" for its hundreds of ancient temples from the 7th to 13th centuries, the greatest concentration of Kalinga-style architecture anywhere. Once called Ekamra Kshetra (the mango-forest shrine), it sits on the coastal plain between the Mahanadi delta and the Eastern Ghats. Modern Bhubaneswar is a planned administrative and IT hub built around its ancient old town, home to Lingaraj, Puri's Jagannath pilgrims' transit stop, and Biju Patnaik International Airport.",
+  "tradition": "Hinduism (Shaivism, with Shaktism)",
+  "travel": {
+    "airport": "Biju Patnaik International Airport ~4-5 km (verify)",
+    "railway": "Bhubaneswar Junction ~3-4 km (verify); close to Mukteshvara and Siddheshwar temples in Old Town",
+    "road": "Old Town, near Bindu Sagar; accessible by auto and city bus from all parts of the city"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March",
+    "opening_hours": "5:00 am to 6:00 pm (verify — per optimatravels.com); free entry"
+  }
+}

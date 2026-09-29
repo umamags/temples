@@ -1,0 +1,56 @@
+{
+  "alternate_names": [
+    "Thirumandhamkunnu Temple",
+    "Thirumanthamkunnu Temple",
+    "Angadipuram Temple"
+  ],
+  "deities": [
+    "Lord Shiva (principal deity)",
+    "Thirumandhamkunnilamma (Sree Bhadrakali/Sree Parvathy)",
+    "Ganesha"
+  ],
+  "district": "Malappuram",
+  "festivals": [
+    "Thirumandhamkunnu Pooram (11 days, Meenam/March-April)",
+    "Navaratri",
+    "Vishu",
+    "Thiruvathira",
+    "Mangalya Puja"
+  ],
+  "history": {
+    "dynasty": "Valluvanad (Valluvakonathiri kings)",
+    "period": "Medieval; the Pooram festival is attested from the early 16th century (palm-leaf records, Calicut University); one source claims 8th-century construction — UNVERIFIED",
+    "summary": "Hilltop temple at Angadipuram, the former capital of the medieval Valluvanad kingdom, whose goddess Thirumandhamkunnilamma was the paradevatha (official goddess) of the Valluvanad kings. The Nair Chavers (martyrs) set out from this temple to Thirunavaya for the historic Mamankam festival; a chaver thara memorial stands before the main entrance. While Lord Shiva is the principal deity, the famous deity is Sree Bhadrakali/Parvathy with a large wooden idol; the split-condition Shiva linga at the sree moola sthanam is visible only during abhisheka before ushapooja. One of the three major Bhagavathi temples of Kerala (with Kodungallur and Panayannarkavu)."
+  },
+  "id": "thirumandhamkunnu-bhagavathy-temple",
+  "latitude": 10.97864,
+  "longitude": 76.20135,
+  "media": [
+    "https://keralacallingyou.com/assets/listcontentphoto/Thirumandan1.jpg"
+  ],
+  "name": "Thirumandhamkunnu Bhagavathy Temple",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Thirumandhamkunnu_Temple",
+    "https://en.wikipedia.org/wiki/Thirumandhamkunnu_Pooram",
+    "https://www.hindu-blog.com/2021/03/thirumandhamkunnu-pooram-angadipuram-bhagavathy-temple-festival.html",
+    "https://templeyatri.in/thirumandhamkunnu-temple/"
+  ],
+  "state": "Kerala",
+  "town": "Angadipuram",
+  "town_description": "Angadipuram is a historic town in Malappuram district that served as the capital of Valluvanad, a medieval kingdom of central Malabar. The hilltop temple complex dominates the townscape and remains its spiritual and cultural centre. Angadipuram is now effectively a suburb of Perinthalmanna, well connected by rail and road. (CSV town 'Malappuram' is the district, corrected to Angadipuram.)",
+  "tradition": "Hinduism (Shaivism and Shaktism)",
+  "travel": {
+    "airport": "Calicut International Airport, ~25 km (verify)",
+    "railway": "Angadipuram Railway Station, ~2 km (verify)",
+    "road": "On the Nilambur-Shoranur corridor near Perinthalmanna; buses and taxis from Perinthalmanna"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "March-April for the Pooram; otherwise October-March",
+    "opening_hours": "UNVERIFIED (verify) — no reliable published darshan timings found. Non-Hindus are not admitted; mobile phones are not allowed inside"
+  }
+}

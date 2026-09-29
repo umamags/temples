@@ -1,0 +1,58 @@
+{
+  "alternate_names": [
+    "Kancha Kanti Mandir",
+    "Sri Sri Kancha Kanti Devi Mandir",
+    "Kachakanti Temple"
+  ],
+  "deities": [
+    "Kanchakanti (four-armed gold idol, union of Kali and Durga)",
+    "Ganesh (subsidiary)",
+    "Shiva (subsidiary)",
+    "Krishna (subsidiary)"
+  ],
+  "district": "Cachar",
+  "festivals": [
+    "Durga Puja",
+    "Kali Puja",
+    "Navratri"
+  ],
+  "history": {
+    "dynasty": "Dimasa Kachari (Kachari Kingdom)",
+    "period": "Original temple 1806; present structure 1978",
+    "summary": "The Kancha Kanti Kali Mandir at Udharbond (Udarbond), on the Silchar-Kumbhirgram road, is the most celebrated Shakti shrine of South Assam. Legend says a Kachari king (identified in one local account as King Govinda Chandra Narayan) dreamed that Goddess Durga commanded him to make a four-armed idol, and built the temple in 1806 with a gold idol of the goddess 'Kachakanti' - an amalgam of Kali and Durga, meaning 'golden radiance'. The Airports Authority of India notes human sacrifices were offered here until 1818; the original temple fell into ruin from natural forces and the present structure was built in 1978. Kachakanti Vidya Mandir school stands nearby. Distance from Silchar is reported as 11-17 km across sources (AAI: 11 km; Census/Outlook: 15 km; Tripadvisor: ~17 km - conflict, verify)."
+  },
+  "id": "kanch-kanti-kali-mandir-udharbond",
+  "latitude": 24.88627,
+  "longitude": 92.88525,
+  "media": [
+    "https://media.tripinvites.com/places/silchar/kancha-kanti-kali-mandir/kancha-kanti-kali-mandir-featured.jpg"
+  ],
+  "name": "Kanch Kanti Kali Mandir",
+  "sources": [
+    "https://censusindia.gov.in/nada/index.php/catalog/201/download/454/DH_2011_1817_PART_B_DCHB_CACHAR.pdf",
+    "http://www.nativeplanet.com/silchar/attractions/kanch-kanti-kali-mandir/",
+    "https://www.outlooktraveller.com/destinations/india/a-travellers-guide-to-durga-puja-in-silchar-assams-cultural-treasure",
+    "https://www.aai.aero/en/airports/city-info/Silchar/Tourist-Place",
+    "https://www.youtube.com/shorts/nt-Lp31SwJs",
+    "http://silcharairport.com/Top-7-Attractions-Recommended-In-Silchar.php",
+    "https://www.tripinvites.com/places/silchar/kancha-kanti-kali-mandir/"
+  ],
+  "state": "Assam",
+  "town": "Udharbond (Udarbond; CSV town 'Silchar' corrected - temple is ~11-17 km from Silchar city)",
+  "town_description": "Udharbond (Udarbond) is a town in Cachar district on the road from Silchar to Kumbhirgram Airport. It hosts the Kachakanti Vidya Mandir school and is best known for the historic Kancha Kanti Devi temple, one of Barak Valley's major pilgrimage stops.",
+  "tradition": "Shaktism",
+  "travel": {
+    "airport": "Silchar Airport (Kumbhirgram, IXS) - the temple lies on the Silchar-airport road, about 20 km from the airport (verify).",
+    "railway": "Silchar Junction - then taxi/bus toward Udharbond.",
+    "road": "On the Silchar-Kumbhirgram road at Udharbond; reachable by taxi or bus from Silchar city."
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March; Durga Puja and Kali Puja are peak periods.",
+    "opening_hours": "8:00 AM - 8:00 PM (per a local video description; verify)."
+  }
+}

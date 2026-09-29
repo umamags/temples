@@ -1,0 +1,43 @@
+{
+  "alternate_names": [
+    "Naga Temple, Tamenglong (verify - no published source confirms a shrine of this exact name in Tamenglong)"
+  ],
+  "deities": [
+    "Uncertain (verify - 'Naga' could refer to serpent deities (Naga Devata) or, in this region, loosely to the Naga community; no source confirms the dedication)"
+  ],
+  "district": "Tamenglong",
+  "festivals": [
+    "None documented (verify)"
+  ],
+  "history": {
+    "dynasty": "None documented (verify)",
+    "period": "Unknown (verify)",
+    "summary": "IMPORTANT IDENTITY NOTE: No published travel, tourism, temple, or map source documents a specific 'Naga Temple' in Tamenglong town or district; this entry is provisional (verify). The name is ambiguous: it could denote a shrine to Naga (serpent) deities, or it could be a community shrine associated with the Naga people of the district - neither interpretation is supported by any source found, so no dedication, age, or history can be stated. Web searches for 'Naga Temple Tamenglong' returned only unrelated results (Naag temples in Himachal Pradesh, Naga Devatha temples in Telangana, an ancient Meroitic temple in Sudan, and even a casino game) - none in Manipur. Tamenglong district is overwhelmingly Christian (Naga Baptist), and any Hindu shrine in the town would be a small, unpublished community temple. Treat all details here as provisional pending local verification; do not conflate with Naga/serpent shrines elsewhere in India. NOTE (2026-09-29): the onefivenine.com temple directory for Tamenglong lists no \"Naga Temple\" - identity remains unverified."
+  },
+  "id": "naga-temple-tamenglong-provisional",
+  "latitude": 24.96538,
+  "longitude": 93.49509,
+  "media": [],
+  "name": "Naga Temple",
+  "sources": [
+    "http://www.onefivenine.com/india/Listing/Town/temples/Tamenglong/Tamenglong"
+  ],
+  "state": "Manipur",
+  "town": "Tamenglong",
+  "town_description": "Tamenglong is the headquarters town of Tamenglong district in western Manipur, a Naga-majority hill town at about 1,290 m elevation in the Barak river basin. It is known for its oranges, the nearby Zeilad Lake, Tharon cave and Buning meadows. The district is overwhelmingly Christian (Baptist), so Hindu shrines here, if any, are small community temples serving the non-tribal population rather than historic pilgrimage sites.",
+  "tradition": "Uncertain (verify - presumed Hindu folk/serpent worship if the shrine exists at all)",
+  "travel": {
+    "airport": "Bir Tikendrajit International Airport, Imphal (approx. 150 km by road via Khongsang; verify).",
+    "railway": "Jiribam railway station is the nearest broad-gauge railhead in the state (verify distance from Tamenglong).",
+    "road": "Tamenglong connects to Imphal by road (approx. 150 km; verify current route); local transport by shared taxi/bus."
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March (dry, pleasant season).",
+    "opening_hours": "Not published (verify - small local shrines typically open morning and evening; confirm locally). No entry fee expected."
+  }
+}

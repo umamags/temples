@@ -1,0 +1,52 @@
+{
+  "alternate_names": [
+    "Mahadev Temple, Deobaloda",
+    "Shiv Mandir Deobaloda",
+    "6 Maashi (Chhamahi) Temple"
+  ],
+  "deities": [
+    "Lord Shiva",
+    "Parvati",
+    "Ganesha",
+    "Hanuman"
+  ],
+  "district": "Durg",
+  "festivals": [
+    "Mahashivratri"
+  ],
+  "history": {
+    "dynasty": "Kalachuri (Kalchuri)",
+    "period": "13th century CE (some sources say 13th-14th century; ASI information board)",
+    "summary": "IDENTITY UNVERIFIED — the CSV row 'Shiva Mandir, Bhilai' is generic and dozens of neighborhood Shiva shrines exist in Bhilai; this file documents the best-known referent, the Mahadev Temple at Deobaloda in Bhilai Charoda, described as a historical landmark of Bhilai. It is an ancient east-facing sandstone Shiva temple built by the Kalachuris (ASI information board: 13th-14th century; Wikipedia: 13th century CE), a protected monument under the Archaeological Survey of India. Built in Nagara style, it survives with a garbhagriha housing a ~1.5-ft Shiva linga and a pillared navaranga mandapa; the shikhara is missing. Legend says it was built in six months (hence '6 Maashi' or 'Chhamahi' temple) — one version says the mason fled naked into the temple pond mid-work when his sister arrived, leaving the dome incomplete. A kund in the courtyard is believed by locals to connect via a tunnel to Arang (no archaeological evidence). Mahashivratri draws devotees from nearby villages with a small fair."
+  },
+  "id": "shiva-mandir-bhilai",
+  "latitude": 21.21861,
+  "longitude": 81.47861,
+  "media": [
+    "https://d34vm3j4h7f97z.cloudfront.net/optimized/3X/a/e/ae273e00e82f7468a430af66d1a152ef9cf5d509_2_768x1024.jpeg"
+  ],
+  "name": "Shiva Mandir, Bhilai",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Mahadev_Temple,_Deobaloda",
+    "https://www.re-thinkingthefuture.com/case-studies/a13019-shiva-mandir-deobaloda-chhattisgarh/",
+    "https://myadhyatm.com/debaloda-mandir-shiva-mandir-deobaloda-bhilai-charoda-chhattisgarh/"
+  ],
+  "state": "Chhattisgarh",
+  "town": "Deobaloda (Bhilai Charoda) — CSV town 'Bhilai' is approximate",
+  "town_description": "Deobaloda is a village in the Bhilai Charoda municipal area of Durg district, Chhattisgarh, on the Raipur-Durg corridor. It is known principally for its 13th-century Kalachuri-era Mahadev temple, an ASI-protected monument. The surrounding region is semi-urban, between the industrial city of Bhilai and the state capital Raipur.",
+  "tradition": "Hinduism (Shaivism)",
+  "travel": {
+    "airport": "Swami Vivekananda Airport, Raipur — about 20 km (verify)",
+    "railway": "Charoda / Durg Junction — Deobaloda is about 22 km from Durg district HQ (verify)",
+    "road": "On the Bhilai-Raipur road corridor (NH-53), about 20 km from Raipur and a short drive from Bhilai (verify)"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "Mahashivratri (February-March) for the fair; otherwise October to March (verify)",
+    "opening_hours": "Daytime darshan hours UNVERIFIED (verify)"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "alternate_names": [
+    "Hatimura Durga Mandir"
+  ],
+  "deities": [
+    "Durga"
+  ],
+  "district": "Nagaon",
+  "festivals": [
+    "Durga Puja"
+  ],
+  "history": {
+    "dynasty": "Ahom",
+    "period": "1745-1746 CE (1667 Saka)",
+    "summary": "Shakti temple at Hatimura, Silghat (Nagaon district), on the south bank of the Brahmaputra. Built during the reign of Ahom king Pramatta Singha (r. 1744-1751) in 1667 Sakabda, i.e. 1745-46 CE (the two datings are consistent). The presiding goddess is Durga worshipped as Mahisamardini (Mahishasuramardini), slayer of the buffalo demon. It was an important centre of Shaktism in ancient Assam; secondary sources state human sacrifice was once made at its altars, an unverified historical claim that is flagged. The current structure is in the indigenous Assamese/Ahom temple style. Town corrected from CSV 'Nagaon' to 'Silghat'."
+  },
+  "id": "hatimura-temple-silghat",
+  "latitude": 26.22859,
+  "longitude": 92.55201,
+  "media": [
+    "https://www.aartigyan.com/Images/TampleImages/15374261981234.jpg"
+  ],
+  "name": "Hatimura Temple",
+  "sources": [
+    "http://en.wikipedia.org/wiki/Hatimura_Temple",
+    "https://nagaon.assam.gov.in/tourism",
+    "https://www.bharattemples.com/hatimura-temple-nagaon-assam/",
+    "http://www.templenet.com/Assam/shakti.html",
+    "https://www.aartigyan.com/temple/hatimura-temple"
+  ],
+  "state": "Assam",
+  "town": "Silghat",
+  "town_description": "Silghat is a historic river-port town in the Kaliabor subdivision of Nagaon district, on the southern bank of the Brahmaputra. It is known for its cluster of old temples — the Kamakhya temple (called the second Kamakhya of Assam), the Trishuldhari Shiva temple and the Hatimura Shakti temple — and as a popular picnic spot with views of the Silghat hills.",
+  "tradition": "Shaktism",
+  "travel": {
+    "airport": "Lokpriya Gopinath Bordoloi International Airport, Guwahati (verify distance)",
+    "railway": "Jakhalabandha railway station, the nearest railhead for the Silghat area (verify distance)",
+    "road": "About 60 km from Nagaon town via Jakhalabandha (per Assam government tourism page); taxi or local tempo services"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to April (verify)",
+    "opening_hours": "Not published (verify)"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "alternate_names": [
+    "Augharnath Temple",
+    "Kali Paltan Mandir",
+    "Shri Baba Augharnath Shiv Mandir"
+  ],
+  "deities": [
+    "Lord Shiva (swayambhu lingam)",
+    "Radha-Krishna",
+    "Durga"
+  ],
+  "district": "Meerut",
+  "festivals": [
+    "Maha Shivratri",
+    "Diwali",
+    "Dussehra",
+    "Purnima",
+    "Shravan month crowds"
+  ],
+  "history": {
+    "dynasty": "British colonial era (modern reconstruction 1968)",
+    "period": "19th century; present structure 1968",
+    "summary": "DUPLICATE of CSV seq 1076 ('Augharnath Temple') - one file per row written, but this row refers to the same physical temple. Sources confirm the identity: Wikipedia notes 'Kali Paltan Mandir is the commonly used name of the Shiva temple Augarhnath Mandir', and the business listing 'Shri Baba Augharnath Shiv Mandir' shares the same cantonment address, phone (+91-121-2665425) and coordinates as the Augharnath Temple. Same history: swayambhu lingam discovered 1844, 1857 uprising planning site, rebuilt 1968 with hexagonal hall, 4.5 kg gold-plated kalash installed 2001, 1857 war memorial on the premises."
+  },
+  "id": "baba-augharh-nath-temple-meerut",
+  "latitude": 28.99671,
+  "longitude": 77.69126,
+  "media": [
+    "https://temple.yatradham.org/public/Product/temple/temple_1rJHmVKR_202507091541540.webp"
+  ],
+  "name": "Baba Augharh Nath Temple",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Kali_Paltan_Mandir",
+    "https://wanderlog.com/geoInMonth/1792/12/meerut-in-december",
+    "https://www.justdial.com/Meerut/Augharnath-Mandir-Meerut-Cantt/9999PX121-X121-170315150922-I9N4_BZDET/photos",
+    "https://indiachalk.com/augarnath-temple-meerut-on-focus/",
+    "https://5bestincity.com/india/augharnath-temple-temples-meerut-uttar-pradesh/profileid=39e65d9af1"
+  ],
+  "state": "Uttar Pradesh",
+  "town": "Meerut",
+  "town_description": "Meerut, in western Uttar Pradesh about 70 km northeast of Delhi, is one of the NCR's largest cities - known as the 'Sports City of India' for its sports-goods industry - and is historically famous as the city where the 1857 uprising began.",
+  "tradition": "Shaivism",
+  "travel": {
+    "airport": "Meerut Airport has limited services; the nearest major airport is Indira Gandhi International Airport, Delhi (~70-90 km)",
+    "railway": "Meerut City Junction is the nearest major station (~2-3 km from most city temples); the city has seven railway stations",
+    "road": "Well connected via NH-58 and the Delhi-Meerut Expressway; city buses, auto-rickshaws and taxis available"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October-February (winter)",
+    "opening_hours": "Sources conflict: 6:00 AM-8:30 PM (Holidify), 6 AM-1 PM & 3-10 PM (5BestInCity), 6 AM-10 PM daily (business listing) - verify"
+  }
+}

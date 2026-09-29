@@ -1,0 +1,50 @@
+{
+  "alternate_names": [
+    "Swaminarayan Akshardham, Gandhinagar",
+    "Akshardham Mandir"
+  ],
+  "deities": [
+    "Swaminarayan"
+  ],
+  "district": "Gandhinagar",
+  "festivals": [
+    "Diwali",
+    "Janmashtami",
+    "Sahaj Anand Water Show (evening attraction)"
+  ],
+  "history": {
+    "dynasty": "",
+    "period": "Modern — foundation stone 14 December 1979; inaugurated November 1992",
+    "summary": "A large BAPS (Bochasanwasi Shri Akshar Purushottam Swaminarayan Sanstha) temple complex in Sector 20, Gandhinagar, inspired by Yogiji Maharaj and created by Pramukh Swami Maharaj, dedicated to Bhagwan Swaminarayan. Construction took about 13 years with ~9,000 volunteers and 7,000 artisans; the 23-acre mandir is built from 6,000 tonnes of pink sandstone with no steel or iron, 108 ft tall. INAUGURATION-DATE CONFLICT: sources give 2 November 1992 (Wikipedia), 4 November 1992, or 30 October 1992. On 24 September 2002 the complex was attacked by two terrorists, killing 33 and wounding 70; it reopened 14 days later. DEDUP FLAG: seq 264 'Akshardham Temple, Ahmedabad' is almost certainly the SAME temple — there is no separate BAPS Akshardham in Ahmedabad; this Gandhinagar complex (~25-30 km from Ahmedabad) is the only Akshardham in Gujarat. Coordinates are for the Sector 20 complex and are approximate. The Akshardham media image was visually verified as a BAPS pink-sandstone Akshardham-style mandir."
+  },
+  "id": "swaminarayan-akshardham-gandhinagar",
+  "latitude": 23.22838,
+  "longitude": 72.67372,
+  "media": [
+    "https://www.manimansion.com/wp-content/uploads/2023/10/Akshardham-Temple-Hotel-MM.jpg"
+  ],
+  "name": "Akshardham Temple",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Swaminarayan_Akshardham_(Gandhinagar)",
+    "https://travelroach.com/akshardham-temple-gandhinagar/",
+    "https://www.akshardham.com/gujarat/"
+  ],
+  "state": "Gujarat",
+  "town": "Gandhinagar",
+  "town_description": "Gandhinagar is the capital city of Gujarat, a planned city on the west bank of the Sabarmati river named after Mahatma Gandhi. Laid out in numbered sectors, it houses the state secretariat, the legislative assembly, and major institutions alongside Akshardham.",
+  "tradition": "Swaminarayan Hinduism (BAPS)",
+  "travel": {
+    "airport": "Sardar Vallabhbhai Patel International Airport, Ahmedabad (~25 km)",
+    "railway": "Gandhinagar Capital railway station (~2 km)",
+    "road": "J Road, Sector 20, Gandhinagar; well connected by road to Ahmedabad (~30 km)"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March",
+    "opening_hours": "Tuesday–Sunday 9:30 AM–7:30 PM; closed Mondays (some sources list 10:00 AM–8:00 PM — verify)"
+  }
+}

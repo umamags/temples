@@ -1,0 +1,42 @@
+{
+  "alternate_names": [
+    "Sati Temple, Lohardaga"
+  ],
+  "deities": [
+    "Rani Sati (Rani Sati of Jhunjhunu)"
+  ],
+  "district": "Lohardaga",
+  "festivals": [],
+  "history": {
+    "dynasty": "Not documented",
+    "period": "Not documented (modern local shrine)",
+    "summary": "UNCERTAIN IDENTITY - flagged. The most likely referent of CSV 'Sati Temple, Lohardaga' is the Rani Sati Dadi Mandir at Gudri Bazar in Lohardaga town (place-listed at 23.431744, 84.680657), a small local shrine dedicated to Rani Sati (the venerated sati of Jhunjhunu, Rajasthan, widely worshipped in eastern India). Documentation is thin: only business/directory listings, no published history, founding date, or festival details. Alternative: a 'Sati Temple bansari' place entry also exists in Lohardaga district (~16 miles from Lohardaga) - unverified and could be the intended referent. Founding history, trust, and opening hours are not published anywhere found; verify locally before treating this entry as definitive."
+  },
+  "id": "rani-sati-dadi-mandir-lohardaga",
+  "latitude": 23.431744,
+  "longitude": 84.680657,
+  "media": [],
+  "name": "Rani Sati Dadi Mandir",
+  "sources": [
+    "http://www.onefivenine.com/india/Listing/Locality/temples/Lohardaga/Lohardaga/Nadiya",
+    "https://meta.ai?place_id=545147218305946"
+  ],
+  "state": "Jharkhand",
+  "town": "Lohardaga",
+  "town_description": "Lohardaga is the district headquarters town of Lohardaga district in Jharkhand. Local history links it to iron smelting ('Lohar' = ironmonger, 'dagga' = centre); it became a district on 17 May 1983 and is known for waterfalls and temples.",
+  "tradition": "Shakta (Sati/Dadi worship)",
+  "travel": {
+    "airport": "Birsa Munda Airport, Ranchi (~80 km)",
+    "railway": "Lohardaga (LAD) station",
+    "road": "Gudri Bazar locality in Lohardaga town"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October-March",
+    "opening_hours": "Not published online (verify locally)"
+  }
+}

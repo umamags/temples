@@ -1,0 +1,50 @@
+{
+  "alternate_names": [
+    "Kadamba Shri Mahadeva Temple",
+    "Mahadev Temple, Tambdi Surla"
+  ],
+  "deities": [
+    "Lord Shiva (Mahadev, in linga form)"
+  ],
+  "district": "South Goa",
+  "festivals": [
+    "Mahashivratri",
+    "Shravana month observances"
+  ],
+  "history": {
+    "dynasty": "Kadamba (Kadamba-Yadava architecture)",
+    "period": "12th century (some sources say 13th century)",
+    "summary": "Goa's oldest surviving temple and its only intact Kadamba-Yadava structure, built of black basalt carried from the Deccan plateau. Its remote clearing deep in the Bhagwan Mahaveer Wildlife Sanctuary saved it from destruction during Muslim and Portuguese rule; it is an ASI-protected Monument of National Importance and an active worship site. Legend attributes it to a Kadamba queen, Kamladevi (unverified). Features: east-facing garbhagriha, basalt-pillared Nandi mandapa with a headless Nandi, bas-reliefs of Shiva, Vishnu and Brahma with consorts, and the Kadamba elephant-trampling-horse emblem on a pillar base. DUPLICATE FLAG: CSV row 1448 'Tambdi Surla Temple (Shri Mahadeva Temple), Sanguem' is the same temple — keep-or-merge decision needed. CSV town 'Sanguem' corrected: the temple is at Tambdi Surla village, Sanguem taluka."
+  },
+  "id": "tambdi-surla-mahadev-temple",
+  "latitude": 15.43889,
+  "longitude": 74.25227,
+  "media": [
+    "https://chaloindiaworld.com/wp-content/uploads/2017/08/Tambdi-Surla-Mahadev-3.jpg"
+  ],
+  "name": "Tambdi Surla Mahadev Temple",
+  "sources": [
+    "https://www.thetempleguru.com/listing/tambdi-surla-mahadev-temple/",
+    "https://www.tripadvisor.in/Attraction_Review-g2037406-d9712725-Reviews-or20-Tambadi_Surla_Mahadev_Temple-Sanguem_South_Goa_District_Goa.html",
+    "https://www.tanderlust.com/mahadev-temple-at-tambdi-surla-goa-diaries/",
+    "http://nomadographer.com/2020/04/20/tambdi-surla-temple-goa/comment-page-1/"
+  ],
+  "state": "Goa",
+  "town": "Tambdi Surla",
+  "town_description": "Tambdi Surla is a small forest village in Sanguem taluka, South Goa, on the edge of the Bhagwan Mahaveer Wildlife Sanctuary and Mollem National Park near the Karnataka border; its name comes from the area's red (tambdi) soil.",
+  "tradition": "Shaivism",
+  "travel": {
+    "airport": "Goa International Airport (Dabolim), about 65 km / ~2 hours by road",
+    "railway": "Kulem Railway Station, about 12 km",
+    "road": "Via Molem/Dharbandora off the Anmod Ghat road, or 22 km south of Valpoi; forest road through the sanctuary"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "Monsoon and winter (June to February) for the forest setting; October to March generally",
+    "opening_hours": "08:30-17:30 per Tripadvisor listing (one source cites 07:30-17:30) — verify locally"
+  }
+}

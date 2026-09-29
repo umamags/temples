@@ -1,0 +1,49 @@
+{
+  "alternate_names": [
+    "Hanuman Temple, Dimapur",
+    "Shree Hanumanji Temple"
+  ],
+  "deities": [
+    "Hanuman"
+  ],
+  "district": "Dimapur",
+  "festivals": [
+    "Hanuman Jayanti",
+    "Tuesdays (weekly worship)"
+  ],
+  "history": {
+    "dynasty": "",
+    "period": "Modern (20th-21st century; exact founding date unverified)",
+    "summary": "The Hanuman Temple of Dimapur most documented on the web is the Shree Hanuman Mandir at Lahorijan, on the Dimapur-Diphu road near the Assam border, managed by the Shri Hanumanji Temple Trust (Regd.), Dimapur (797112). It is a colourfully decorated modern shrine with a large standing Hanuman murti; no reliable source gives a founding date or dynasty (UNVERIFIED). IDENTITY CAVEAT (verify): the CSV name 'Hanuman Temple, Dimapur' is generic; at least two Hanuman shrines are listed in Dimapur (Lahorijan and West Yard Colony, Railway Colony) and this file follows the Lahorijan temple as the most documented one."
+  },
+  "id": "shree-hanuman-mandir-lahorijan",
+  "latitude": 25.931139,
+  "longitude": 93.734025,
+  "media": [
+    "https://r2.community.samsung.com/t5/image/serverpage/image-id/5073765i261A49BA7DCBB0BB?v=v2"
+  ],
+  "name": "Shree Hanuman Mandir, Lahorijan",
+  "sources": [
+    "https://www.prayers1.com/IN/Dimapur/1818341378223340/Shree-Hanuman-Mandir%2C-Lahorijan%2C-Dimapur%2C-Nagaland-India",
+    "https://meta.ai?place_id=1604475757128146",
+    "https://yappe.in/nagaland/dimapur/hindu-temple"
+  ],
+  "state": "Nagaland",
+  "town": "Lahorijan",
+  "town_description": "Lahorijan is a settlement on the Assam-Nagaland border along the Dimapur-Diphu road, administratively in Dimapur district. It sits at the edge of the Naga Hills foothills where the plains meet the hills, serving as a transit point between Dimapur city and Karbi Anglong (Assam). The CSV town 'Dimapur' is approximate: the temple is at Lahorijan, roughly 10-15 km from central Dimapur (verify).",
+  "tradition": "Hinduism (Vaishnavism)",
+  "travel": {
+    "airport": "Dimapur Airport, ~15-20 km (verify)",
+    "railway": "Dimapur Railway Station, ~10-15 km (verify)",
+    "road": "On the Dimapur-Diphu road near Lahorijan; reachable by taxi/auto-rickshaw from Dimapur (verify)"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March (verify)",
+    "opening_hours": "6:00 AM-1:00 PM and 3:00 PM-9:00 PM daily (per the Trust's listed page; verify)"
+  }
+}

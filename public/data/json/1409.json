@@ -1,0 +1,42 @@
+{
+  "alternate_names": [],
+  "deities": [
+    "Maa Mahamaya (form of Goddess Durga)"
+  ],
+  "district": "Sarangarh-Bilaigarh (CSV district context 'Raigarh' - Sarangarh was in Raigarh district until the 2022 bifurcation; verify)",
+  "festivals": [
+    "Navratri (verify - no published festival calendar found)"
+  ],
+  "history": {
+    "dynasty": "Unverified",
+    "period": "Unverified",
+    "summary": "IDENTITY UNVERIFIED: no dedicated web sources (no temple website, no tourism listing, no reviews) were found for a Mahamaya temple in Sarangarh, so this entry is documented provisionally from the CSV name and must be locally verified - the temple's age, trust/management and even exact locality are unknown. CSV TOWN FLAG: 'Raigarh' is wrong - documented here with the corrected town Sarangarh, now headquarters of Sarangarh-Bilaigarh district (carved out of Raigarh district in 2022; verify). Sarangarh was the seat of the former Sarangarh princely state. Town facts: on National Highway 216, about 52 km from the rail head Raigarh and about 200 km from Raipur airport (per Wikipedia). Coordinates are approximate town-level (verify)."
+  },
+  "id": "sarangarh-mahamaya-temple",
+  "latitude": 21.59,
+  "longitude": 83.17,
+  "media": [],
+  "name": "Sarangarh Mahamaya Temple",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Sarangarh",
+    "https://www.makemytrip.com/bus-tickets/sleeper-buses-from-sarangarh-to-raigarh-online-ticket-booking.html"
+  ],
+  "state": "Chhattisgarh",
+  "town": "Sarangarh (CSV town 'Raigarh' is WRONG - the temple name places it at Sarangarh, now in Sarangarh-Bilaigarh district)",
+  "town_description": "Sarangarh is a town on National Highway 216, about 52 km from Raigarh and 200 km from Raipur, and now the headquarters of Sarangarh-Bilaigarh district. It was formerly the seat of a princely state. Nearby attractions include the Gomarda wildlife sanctuary, about 15 km away, and a World War II-era airstrip 6 km towards Raigarh.",
+  "tradition": "Hinduism (Shaktism)",
+  "travel": {
+    "airport": "Swami Vivekananda International Airport, Raipur - about 200 km (verify).",
+    "railway": "Raigarh, the nearest rail head - about 52 km (verify).",
+    "road": "On NH 216; regular buses between Sarangarh and Raigarh (about 47-52 km, ~1.5 hrs) (verify)."
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March (verify).",
+    "opening_hours": "Not published (verify - confirm locally)."
+  }
+}

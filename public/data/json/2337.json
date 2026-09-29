@@ -1,0 +1,48 @@
+{
+  "alternate_names": [
+    "Laxmi Narayan Bari Temple",
+    "Sri Sri Lakshmi Narayan Bari Temple"
+  ],
+  "deities": [
+    "Lakshmi Narayana (Vishnu and Lakshmi)",
+    "Krishna (idol consecrated in the sanctum, per local tradition - verify)"
+  ],
+  "district": "West Tripura",
+  "festivals": [
+    "Krishna Janmashtami (celebrated grandly in the temple campus and palace grounds, drawing devotees from across the state)"
+  ],
+  "history": {
+    "dynasty": "Manikya (Tripura Kingdom)",
+    "period": "Founded during the reign of Maharaja Birendra Kishore Manikya (1909-1923)",
+    "summary": "DUPLICATE FLAG: CSV row seq 2337 duplicates the already-researched record = seq 1024 (id sri-sri-laxmi-narayan-bari-temple-agartala); no separate shrine exists under this CSV name. CSV town 'Agartala' is CORRECT. This is the well-known royal-family Lakshmi Narayan Bari in the Ujjayanta Palace grounds, Agartala - the two-storied temple at the entrance of the palace compound (Palace Compound, B.K. Road / Lakshmi Narayan Bari Rd). Dedicated to the divine couple Lakshmi-Narayana; local sources say a Krishna idol was consecrated in the sanctum about 45 years ago by Krishnananda Sevayet, and a tamal tree planted by the sevayet stands in the premises (verify). The temple is a major venue of Janmashtami celebrations in Tripura. CONFLICT FLAG: one AI-generated travel blog claims the temple was 'consecrated in 1999'; this contradicts the documented Manikya founding (1909-1923) and is treated as unreliable."
+  },
+  "id": "sri-sri-laxmi-narayan-bari-temple-agartala-duplicate",
+  "latitude": 23.8342332,
+  "longitude": 91.2829037,
+  "media": [
+    "https://images.jdmagicbox.com/comp/agartala/b3/9999px381.x381.191120191934.i9b3/catalogue/laxminarayan-bari-mandir-agartala-temples-5ppg06nh04.jpg"
+  ],
+  "name": "Laxminarayan Temple",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Lakshmi_Narayan_Temple,_Agartala",
+    "https://lightuptemples.com/agartala-lakshmi-narayan-temple-tripura/"
+  ],
+  "state": "Tripura",
+  "town": "Agartala",
+  "town_description": "Agartala, the capital city of Tripura in West Tripura district, on the banks of the Haora river near the Bangladesh border, about 90 km east of Dhaka. It holds the Manikya royal seat - Ujjayanta Palace (now a museum) - and the cluster of royal-family temples in the palace compound (Lakshmi Narayan, Uma Maheshwar, Jagannath).",
+  "tradition": "Hinduism (Vaishnavism)",
+  "travel": {
+    "airport": "Maharaja Bir Bikram Airport, Agartala - within the city, a few km away (verify).",
+    "railway": "Agartala Railway Station - a few km away (verify).",
+    "road": "Central Agartala; located at the entrance of the Ujjayanta Palace grounds on Lakshmi Narayan Bari Rd."
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March for pleasant weather; Janmashtami for the grand celebrations.",
+    "opening_hours": "Reported 8:00 AM to 9:00 PM daily (map listing; verify on site)."
+  }
+}

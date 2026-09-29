@@ -1,0 +1,48 @@
+{
+ "alternate_names": [
+  "Jagatpita Brahma Mandir",
+  "Jagatpita Shri Brahma Mandir"
+ ],
+ "deities": [
+  "Brahma (Chaturmukhi, four-faced creator god)",
+  "Gayatri (consort, goddess of the Vedas)"
+ ],
+ "district": "Ajmer",
+ "festivals": [
+  "Kartik Poornima (Brahma's festival, coinciding with the Pushkar Fair)"
+ ],
+ "history": {
+  "dynasty": "None (ancient site; current structure 14th century, with later additions by Maharaja Jawat Raj of Ratlam)",
+  "period": "Current structure 14th century; legend attributes founding to sage Vishwamitra; Adi Shankara renovated it in the 8th century",
+  "summary": "DUPLICATE FLAG: this CSV row is seq 872 'Brahma Temple, Pushkar' (id brahma-temple-pushkar) - also recorded as seq 2106 (id brahma-temple-pushkar-duplicate) - the same Jagatpita Brahma temple on the banks of Pushkar Lake. Geocoded coordinates match seq 872 exactly. Dedup needed - three CSV rows now point at one temple. For full detail see seq 872. Brief facts: one of the very few Brahma temples in India; marble sanctum with four-headed Brahma and Gayatri; red shikhara with hamsa motif; priesthood belongs to the Sanyasi ascetic sect."
+ },
+ "id": "brahma-temple-pushkar-triplicate",
+ "latitude": 26.48749,
+ "longitude": 74.54951,
+ "media": [
+  "https://www.revv.co.in/blogs/wp-content/uploads/2020/10/Brahma-Temple-Pushkar.jpg"
+ ],
+ "name": "Brahma Temple, Pushkar",
+ "sources": [
+  "https://en.wikipedia.org/wiki/Brahma_Temple,_Pushkar",
+  "https://www.revv.co.in/blogs/road-trips-from-delhi-to-ajmer-and-pushkar/"
+ ],
+ "state": "Rajasthan",
+ "town": "Pushkar",
+ "town_description": "Pushkar is a small holy town in Ajmer district, Rajasthan, built around the sacred Pushkar Lake with over 500 temples. It is one of the five sacred pilgrimage places for Hindus and hosts the famous Pushkar Camel Fair each November.",
+ "tradition": "Hindu (Brahma worship; Sanyasi ascetic-sect priesthood)",
+ "travel": {
+  "airport": "Jaipur International Airport, about 150 km away.",
+  "railway": "Ajmer Junction, about 15 km away.",
+  "road": "About 15 km northwest of Ajmer via NH-48/NH-58; local buses and taxis run from Ajmer."
+ },
+ "video": {
+  "audio": "",
+  "script": "",
+  "video_file": ""
+ },
+ "visitor_information": {
+  "best_time": "November to February; the Pushkar Fair around Kartik Poornima is the peak season.",
+  "opening_hours": "Daytime darshan with midday closure (verify - sources differ)."
+ }
+}

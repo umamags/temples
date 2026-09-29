@@ -1,0 +1,47 @@
+{
+  "alternate_names": [
+    "Shri Ram Mandir",
+    "Sri Ram Temple, Sand Lane Road"
+  ],
+  "deities": [
+    "Lord Rama"
+  ],
+  "district": "East Singhbhum",
+  "festivals": [
+    "Ram Navami",
+    "Diwali",
+    "Hanuman Jayanti"
+  ],
+  "history": {
+    "dynasty": "Not documented",
+    "period": "Modern local temple; no construction date found",
+    "summary": "IDENTITY UNCERTAIN — thinly documented. 'Sri Ram Temple' is a generic name and Jamshedpur has several Ram temples (Sonari/Adarsh Nagar, Sidhgora, Adityapur). The most likely CSV referent is the small 'Sri Ram Temple' listed at Sand Lane Road, Sakchi (Justdial temples-in-Sakchi listing, 4 ratings), which matches a location-listing pin at Sand Ln Rd, Jamshedpur (22.808225, 86.202003). Beyond its existence and location, no history, founding details, timings or festival programme are published for this shrine. The festivals listed are typical observances for a Rama temple (verify locally). If the CSV intends a different Ram temple (e.g. the larger Shri Ram Temple at Adarsh Nagar, Sonari), this record must be replaced."
+  },
+  "id": "sri-ram-temple-sakchi-jamshedpur",
+  "latitude": 22.808225,
+  "longitude": 86.202003,
+  "media": [],
+  "name": "Sri Ram Temple",
+  "sources": [
+    "https://www.justdial.com/Jamshedpur/Temples-in-Sakchi/nct-10475644",
+    "https://meta.ai?place_id=1348866936083370"
+  ],
+  "state": "Jharkhand",
+  "town": "Jamshedpur",
+  "town_description": "Jamshedpur is Jharkhand's largest urban agglomeration and India's first planned industrial city, founded by Jamshedji Tata around the Tata Steel works. Known as the 'Steel City of India', it lies in East Singhbhum district between the Subarnarekha and Kharkai rivers.",
+  "tradition": "Vaishnavism",
+  "travel": {
+    "airport": "Sonari Airport, Jamshedpur — limited services; Birsa Munda Airport, Ranchi — nearest major airport, about 130 km",
+    "railway": "Tatanagar Junction — about 3-4 km from Sakchi (verify)",
+    "road": "Sand Lane Road, Sakchi; reachable by auto-rickshaw and taxi within the city"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October-March; Ram Navami draws the biggest crowds",
+    "opening_hours": "Not published (verify)"
+  }
+}

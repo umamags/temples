@@ -1,0 +1,59 @@
+{
+  "alternate_names": [
+    "Thiruvanaikaval",
+    "Thiruvanaikal",
+    "Jambukeswaram",
+    "Appu Sthalam (water sthalam)"
+  ],
+  "deities": [
+    "Lord Jambukeswarar (Shiva as the Appu/water lingam, swayambhu)",
+    "Goddess Akhilandeswari (Parvati, worshipped in a separate shrine)"
+  ],
+  "district": "Tiruchirappalli",
+  "festivals": [
+    "Panguni Brahmotsavam (March-April)",
+    "Aadi Pooram (Goddess Akhilandeswari's special day, July-August)",
+    "Navaratri",
+    "Maha Shivaratri",
+    "Theppam (float festival) on Thai Poosam",
+    "Vasantha Urchavam (10 days in Vaikasi)",
+    "Karthigai Deepam"
+  ],
+  "history": {
+    "dynasty": "Early Chola (Kochenga Chola / Kocengannan); expanded by later Cholas, Pandyas, Vijayanagara and Nayaks",
+    "period": "2nd century CE (attributed); Chola-period inscriptions",
+    "summary": "Thiruvanaikaval is one of the five Pancha Bhoota Sthalams, representing the water element (neer): the sanctum of Jambukeswarar has a natural underground water stream and stays filled with water despite pumping. Built by Kochenga Chola (one of the 70 Madakkovils he is credited with) ~1,800 years ago, it is one of the 275 Paadal Petra Sthalams sung by all four Nayanars. Legend: Parvati, as Akhilandeswari, made a lingam from Kaveri water under the Venn Naaval tree and worshipped Shiva here; Shiva taught her Siva Gnana, making the temple a symbol of the guru-shishya relationship. An elephant worshipped here and was blessed — hence 'Thiruvanaikaval' (holy elephant temple). Five prakarams, the fifth ('Thiruneettan Thirumathil') said to have been built by Shiva himself in the form of a spider. Adi Shankaracharya is said to have installed Sri Chakra yantras as the goddess's ear ornaments to soften her radiance; priests dress as women in one daily ritual honouring Parvati's penance. OVERLAP NOTE: CSV seq 2255 ('Jambukeswarar Temple, Tiruchirappalli') is the SAME temple — this file (2244) is the primary record. CSV TOWN FLAG: actual town is Thiruvanaikaval on Srirangam island (~2 km from the Ranganathaswamy Temple), not 'Srirangam' town proper — documented with the corrected town."
+  },
+  "id": "jambukeswarar-temple-thiruvanaikaval",
+  "latitude": 10.85383,
+  "longitude": 78.70384,
+  "media": [
+    "https://thetempleguru.com/wp-content/uploads/2023/04/Jambukeswarar-Temple-7.jpg"
+  ],
+  "name": "Jambukeswarar Temple",
+  "sources": [
+    "https://www.livechennai.com/jambukeswarar_temple_of_thiruvanaikaval.asp",
+    "https://www.astroved.com/astropedia/en/temples/south-india/jambukeswarar-temple-thiruvanaikaval",
+    "https://templeyatri.in/best-time-to-visit-jambukeswarar-temple/",
+    "https://mytempletrips.in/shri-jambukeswarar-temple-thiruvanaikaval-tamil-nadu/",
+    "http://www.templenet.com/Tamilnadu/jambtiru.html"
+  ],
+  "state": "Tamil Nadu",
+  "town": "Thiruvanaikaval (CSV town 'Srirangam' is approximate — the temple is at Thiruvanaikaval on Srirangam island, ~2 km from the Ranganathaswamy Temple)",
+  "town_description": "Thiruvanaikaval is a temple neighbourhood on Srirangam island in Tiruchirappalli, between the Kaveri and Kollidam rivers, near the city on the Trichy-Chennai highway. It is one of South India's most important Saivite pilgrimage sites and a well-known Paadal Petra Sthalam.",
+  "tradition": "Shaivism (Pancha Bhoota water sthalam; Paadal Petra Sthalam)",
+  "travel": {
+    "airport": "Tiruchirappalli International Airport, ~12-15 km (verify)",
+    "railway": "Tiruchirappalli Junction, ~8 km (per astroved/airial — verify)",
+    "road": "On the Trichy-Chennai highway, ~2 km from the Srirangam Ranganathaswamy Temple; auto-rickshaw, taxi and local bus (per vagabondinglife.in/airial)"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October-March; Mondays are considered auspicious (per templeyatri.in); Panguni Brahmotsavam and Aadi Pooram are the major festival draws",
+    "opening_hours": "5:30 AM-1:00 PM & 3:00-8:30 PM per livechennai.com/astroved.com; some sources give 4:00-9:00 PM for the evening (verify)"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "alternate_names": [
+    "Rudreshwar Mahadev Ghat",
+    "Rudri Rudreswar Ghat"
+  ],
+  "deities": [
+    "Shiva"
+  ],
+  "district": "Dhamtari",
+  "festivals": [
+    "Mahashivratri",
+    "Sawan (Shravan month)"
+  ],
+  "history": {
+    "dynasty": "Unknown (local legend attributes it to King Rudra Dev)",
+    "period": "Ancient (date not documented)",
+    "summary": "Identity flag: the CSV row 'Mahadev Ghat Temple, Dhamtari' is a generic name with no single documented referent; this file documents the most plausible match, the ancient Rudreshwar Mahadev Temple on the Mahanadi ghat at Rudri village, about 5 km from Dhamtari town, listed as a Hindu temple place at these coordinates. Per dhamtaritourism.com it is an ancient Shiva temple on the Mahanadi believed built by King Rudra Dev, counted among the ancient Shiva temples of the Dakshin Kosala region and lively at Mahashivratri and in Sawan, when devotees perform jalabhishek. Coordinates are from a corroborating place listing for Rudreshwar Mahadev Ghat and should be treated as approximate."
+  },
+  "id": "rudreshwar-mahadev-ghat-rudri",
+  "latitude": 20.661193,
+  "longitude": 81.562344,
+  "media": [
+    "https://cgsangwari.com/media.php?folder=place&file=place_1787819262698.jpg"
+  ],
+  "name": "Rudreshwar Mahadev Temple (Mahadev Ghat)",
+  "sources": [
+    "https://www.dhamtaritourism.com/top-10-religious-places-in-dhamtari/",
+    "https://www.justdial.com/Dhamtari/Temples-in-Bhatgaon/nct-10475644"
+  ],
+  "state": "Chhattisgarh",
+  "town": "Rudri",
+  "town_description": "Rudri is a village on the Mahanadi river just northwest of Dhamtari town, known for the Mahanadi Project headworks and this ancient riverside Shiva temple.",
+  "tradition": "Shaivism",
+  "travel": {
+    "airport": "Swami Vivekananda Airport, Raipur, about 80 km away",
+    "railway": "Dhamtari railway station, about 6 km away",
+    "road": "Rudri Road from Dhamtari town, about 5 km"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March; Mahashivratri and Sawan for festive crowds",
+    "opening_hours": "Not documented"
+  }
+}

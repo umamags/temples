@@ -1,0 +1,56 @@
+{
+  "alternate_names": [
+    "Thirunavaya Lava Mukunda Temple (CSV rendering)",
+    "Thirunavaya Nava Mukunda Temple",
+    "Tirunavaya Temple"
+  ],
+  "deities": [
+    "Navamukunda Perumal (Narayana-Vishnu)",
+    "Lakshmi (Malarmangai Nachiyar)",
+    "Ganapati (Adi Ganesa/Gajendra)",
+    "Ayyappa Swami"
+  ],
+  "district": "Malappuram",
+  "festivals": [
+    "Annual 10-day Utsavam (April)",
+    "Mamankam/Maha Makam — historic 12-yearly festival; a 2026 revival (Jan 18-Feb 3) is reported on recent video sources — verify",
+    "Karkidaka Amavasya (Vavu) pitru tharpanam",
+    "Maasi Makam (historic, discontinued after control passed to Hyder Ali in the 18th century)"
+  ],
+  "history": {
+    "dynasty": "Chera-era origins; later under the Zamorins of Calicut (managing trustees)",
+    "period": "Glorified by the Alwars (8th-9th century); Mamankam venue from at least the 8th century CE",
+    "summary": "POSSIBLE DUPLICATE of seq 524 ('Thirunavaya Navamukunda Temple') — the CSV name 'Lava Mukunda' appears to be a misrendering of 'Navamukunda'; keep-or-merge decision needed. Ancient Vishnu shrine on the northern bank of the Bharathapuzha, one of the 108 Divya Desams sung by Nammalwar and Tirumangai Alwar (13 verses). The deity is Navamukunda Perumal: per legend the idol sank eight times and only the ninth installation stood upright; the 6-foot stone idol covered in panchaloha shows only its upper half above ground. The temple hosted the Mamankam, a 28-day festival held once every 12 years from at least the 8th century (last held 1755), where the Chavers of Valluvanad set out from Thirumandhamkunnu to fight here. Attacked by Tipu Sultan's forces and during the 1921 Mappila Rebellion; the present structure is in Kerala temple style. A 'Kerala Kumbh Mela'/Maha Makam revival in Jan-Feb 2026 is reported on video platforms but UNVERIFIED in print sources. Now administered by the Zamorin of Calicut under the Malabar Devaswom Board."
+  },
+  "id": "thirunavaya-navamukunda-temple-malappuram",
+  "latitude": 10.86391,
+  "longitude": 75.98174,
+  "media": [
+    "https://www.templeaddress.com/_next/image?url=https%3A%2F%2Ftempleaddress-cloud.s3.ap-south-1.amazonaws.com%2Fuat%2Fmedia%2Flisting_gallery%2Fthirunavaya-sree-nava-mukunda-temple-6.jpg&w=1080&q=75"
+  ],
+  "name": "Thirunavaya Navamukunda Temple",
+  "sources": [
+    "http://en.wikipedia.org/wiki/Thirunavaya_Navamukunda_Temple",
+    "http://www.templenet.com/Tamilnadu/df076.html",
+    "https://www.thrillophilia.com/attractions/thirunavaya-nava-mukunda-temple",
+    "http://tourmet.com/thirunavaya-nava-mukunda-temple/"
+  ],
+  "state": "Kerala",
+  "town": "Thirunavaya",
+  "town_description": "Thirunavaya is a village in Malappuram district on the northern bank of the Bharathapuzha (Ponnani) river, about 8 km south of Tirur. It was the historic seat of the Mamankam festival and is regarded as Kerala's equivalent of Kashi for ancestral rites, with Brahma and Shiva temples across the river at Tavanur completing a Trimurti sangama. (CSV town 'Malappuram' is the district, corrected to Thirunavaya; CSV name 'Lava Mukunda' corrected to 'Navamukunda'.)",
+  "tradition": "Hinduism (Vaishnavism) — one of the 108 Divya Desams",
+  "travel": {
+    "airport": "Calicut International Airport, ~42 km (thrillophilia)",
+    "railway": "Thirunavaya Railway Station, ~2 km",
+    "road": "About 8 km south of Tirur by road; Ajithappadi Bus Stop ~2 km; buses and autos available"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "September-March",
+    "opening_hours": "CONFLICT (verify): 5:00-10:00 AM and 4:00-7:00 PM per Wikipedia; 5:00-11:00 AM and 5:00-7:30 PM per thrillophilia"
+  }
+}

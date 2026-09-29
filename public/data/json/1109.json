@@ -1,0 +1,49 @@
+{
+  "alternate_names": [
+    "Tibetan Buddhist Temple",
+    "Buddha Temple (Dehradun)",
+    "Tibetan Monastery"
+  ],
+  "deities": [
+    "Gautama Buddha",
+    "Guru Padmasambhava"
+  ],
+  "district": "Dehradun",
+  "festivals": [],
+  "history": {
+    "dynasty": "None (established in exile)",
+    "period": "Modern; re-established 1965 (original Mindrolling in Tibet founded 1676)",
+    "summary": "NOT A HINDU TEMPLE - keep-or-drop decision needed. Mindrolling Monastery is a Tibetan Buddhist monastery of the Nyingma school at Clement Town, Dehradun, re-established in 1965 by Khochhen Rinpoche and fellow monks after their exile from Tibet (the original Mindrolling Monastery in Tibet dates to 1676). One of the largest Buddhist centres in India, its highlights are the five-storey Buddha Temple with murals depicting the Buddha's life and statues of Buddha and Guru Padmasambhava, a 130-ft Buddha statue, and the Great Stupa inaugurated in 2002 as a memorial to Khochhen Rinpoche, claimed among Asia's tallest stupas. The complex also houses the Ngagyur Nyingma College and a Tibetan bookstore. FLAG: sources disagree on the Great Stupa's height - 220 ft (trawell) vs 185 ft (urmilatravels) vs 60 m (travelsetu) (verify); no festivals sourced."
+  },
+  "id": "mindrolling-monastery-dehradun",
+  "latitude": 30.26865,
+  "longitude": 77.99818,
+  "media": [
+    "https://www.sterlingholidays.com/activities/dehradun/mindrolling-monastery.jpg.imgw.1280.1280.jpeg"
+  ],
+  "name": "Mindrolling Monastery",
+  "sources": [
+    "https://www.trawell.in/uttarakhand/dehradun/tibetan-buddhist-temple-mindrolling-monastery",
+    "https://travelsetu.com/guide/mindrolling-monastery-tourism",
+    "https://www.urmilatravels.com/dehradun/mindrolling-monastery-dehradun.php",
+    "https://dev.to/naman_saxena_b0c8c29aceaf/buddhist-monasteries-in-india-a-journey-through-spiritual-sanctuaries-49ee"
+  ],
+  "state": "Uttarakhand",
+  "town": "Dehradun",
+  "town_description": "Dehradun is the capital city of Uttarakhand, set in the Doon Valley at the foothills of the Himalayas. Known as the 'School Capital of India' with institutions like The Doon School and the Forest Research Institute, it is also the gateway to the hill station of Mussoorie and a base for Char Dham pilgrims.",
+  "tradition": "Buddhism (Tibetan, Nyingma)",
+  "travel": {
+    "airport": "Jolly Grant Airport, Dehradun (approx. 33 km)",
+    "railway": "Dehradun Railway Station (approx. 9.5 km)",
+    "road": "Clement Town via NH7/NH307; well connected by road to Dehradun city and Haridwar"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March",
+    "opening_hours": "Summer: 8:00 AM-12:00 PM and 2:00-7:00 PM; Winter: 9:00 AM-12:00 PM and 1:30-6:00 PM"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "alternate_names": [
+    "Kumaramangalam Park Kali Mandir",
+    "KMP Kali Temple"
+  ],
+  "deities": [
+    "Goddess Kali"
+  ],
+  "district": "Paschim Bardhaman",
+  "festivals": [
+    "Kali Puja",
+    "Diwali"
+  ],
+  "history": {
+    "dynasty": "",
+    "period": "modern",
+    "summary": "IDENTITY UNCERTAIN: no web source documents a Kali temple by this name, so this is a thin provisional record. It is presumed to be a small shrine in/near Kumaramangalam Park (Mohan Kumar Mangalam Park, KMP) in B-Zone, Durgapur Steel Town East 713205 - the park is Durgapur's largest and oldest public park, with a lake, boating, musical fountain, toy train and a giant bronze Ganesha at the welcome entrance (per visitor reviews). Coordinates 23.56272, 87.29887 are the park's alternate gate from map.geocode (not the shrine itself); the shrine's exact location is unverified. Hours follow park access; festival list is the standard Bengali temple calendar, not sourced for this shrine."
+  },
+  "id": "kumaramangalam-park-kali-temple-durgapur",
+  "latitude": 23.56272,
+  "longitude": 87.29887,
+  "media": [
+    "https://www.beautyofdurgapur.com/wp-content/uploads/2021/03/kmp-durgapur-1024x745.jpeg"
+  ],
+  "name": "Kumaramangalam Park Kali Temple",
+  "sources": [
+    "https://www.justdial.com/Durgapur/Kumar-Mangalam-Park-Near-B-Zone-Durgapur-Steel-Town-East/9999PX343-X343-141218153458-L3Z1_BZDET",
+    "https://www.beautyofdurgapur.com/best-places-to-visit-in-durgapur/",
+    "https://xeno-canto.org/location/map?lat=23.563&long=87.3003&loc=Kumar%20Mangalam%20Park,%20Durgapur,%20Bardhaman,%20West%20Bengal"
+  ],
+  "state": "West Bengal",
+  "town": "Durgapur",
+  "town_description": "Durgapur is a planned industrial city in the Paschim Bardhaman district of West Bengal, known as the 'Steel City of India'. Built around the Durgapur Steel Plant in the 1950s, it is West Bengal's second-largest urban agglomeration after Kolkata, home to steel, power and engineering industries, the Kazi Nazrul Islam Airport at Andal, the Durgapur Barrage on the Damodar river, and religious landmarks such as the Rahreswar Shiv Mandir and the Bhiringi Shamshan Kali Temple (1852).",
+  "tradition": "Shaktism (Kali worship)",
+  "travel": {
+    "airport": "Kazi Nazrul Islam Airport (Andal, Durgapur)",
+    "railway": "Durgapur Junction",
+    "road": "Kumar Mangalam Park, Priyadarshini Indira Avenue, B-Zone, Durgapur Steel Town East"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March",
+    "opening_hours": "Park access typically 9:00 AM - 8:00 PM (closed Fridays per Justdial; temple hours unverified)"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "alternate_names": [
+    "Ganga Maiya Mandir"
+  ],
+  "deities": [
+    "Goddess Ganga (Maa Ganga, as Shakti)"
+  ],
+  "district": "Balod",
+  "festivals": [
+    "Chaitra Navratri",
+    "Sharad Navratri",
+    "Kartik Purnima"
+  ],
+  "history": {
+    "dynasty": "Unknown (folk origin)",
+    "period": "Modern temple; legend of folk origin",
+    "summary": "TOWN/DISTRICT CORRECTED: Ganga Maiya Temple stands at Jhalmala village, 4 km east of Balod on the Durg-Balod road. The CSV's town 'Durg' is outdated - the site is near Balod town in Balod district (carved out of Durg district in 2012, which explains older sources listing Durg). Legend: a fisherman repeatedly netted an idol in the village pond; after Goddess Ganga appeared in a tribal villager's dream, the idol was enshrined in a hut; it was first given temple form by Bhikam Chand Tawri and repeatedly renovated since. The deity is worshipped as a perennial water body in the sanctum, believed self-manifested (swayambhu). Thousands visit during the two Navratris, many walking barefoot from long distances; the temple trust runs free medical camps and cultural events."
+  },
+  "id": "ganga-maiya-temple-jhalmala-balod",
+  "latitude": 20.71651,
+  "longitude": 81.23911,
+  "media": [
+    "https://wanderon-images.gumlet.io/blogs/new/2024/05/about-ganga-maiya-temple.jpg?auto=compress%2Cformat&w=1280"
+  ],
+  "name": "Ganga Maiya Temple",
+  "sources": [
+    "https://www.bharattemples.com/ganga-maiya-durg/",
+    "https://www.indianetzone.com/17/ganga_maiya_temple_jhalmala_durg_chhattisgarh.htm",
+    "https://www.apnisanskriti.com/temple/ganga-maiya-temple-jhalmala-balod-durg-chhattisgarh-4076"
+  ],
+  "state": "Chhattisgarh",
+  "town": "Jhalmala (near Balod)",
+  "town_description": "Balod is a town and district headquarters in Chhattisgarh on the Durg-Dalli Rajhara road, an agricultural centre and pilgrimage hub for the surrounding region.",
+  "tradition": "Hindu (Shakta)",
+  "travel": {
+    "airport": "Swami Vivekananda Airport, Raipur (~50 km per temple guides)",
+    "railway": "Durg Junction (~55 km; one guide says 25 km - likely understated)",
+    "road": "On the Durg-Balod road (NH 130), 4 km east of Balod"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October-March; Navratri (very crowded)",
+    "opening_hours": "6:00 AM - 12:00 PM and 4:00 PM - 8:00 PM (per 2026 temple guide; confirm locally)"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "alternate_names": [
+    "Lakhubai Temple",
+    "Shri Lakhubai Temple Rukmini Mandir",
+    "Dindiravan Rukmini Mandir"
+  ],
+  "deities": [
+    "Rukmini (worshipped as Lakhubai)"
+  ],
+  "district": "Solapur",
+  "festivals": [
+    "Ashadhi Ekadashi (June-July; the great Wari pilgrimage to Pandharpur)",
+    "Kartiki Ekadashi (October-November; second major Wari season)"
+  ],
+  "history": {
+    "dynasty": "Legendary origin; present structure reconstructed in the Maratha period",
+    "period": "Legendary; present structure rebuilt in 1780 by Dhondbhat Katake (attributed - verify)",
+    "summary": "IDENTITY NOTE: the CSV row 'Rukmini Temple, Solapur' has no clear standalone referent in Solapur city. This file documents the only well-documented standalone Rukmini shrine in Solapur district: the Lakhubai Temple at Dindiravan, Pandharpur, listed on travel directories as 'Shri Lakhubai Temple Rukmini Mandir'. TOWN CORRECTED: Pandharpur (CSV said Solapur; Pandharpur is about 70 km west of Solapur city). COORDINATES APPROXIMATE (town-level; the shrine's exact spot within the Dindiravan area has not been precisely geocoded - verify). Local tradition, recorded by scholar R.C. Dhere, holds that Rukmini, angered at Krishna, withdrew to the Dindiravan forest to perform penance, and Krishna came searching for her; the two reconciled here. Another local legend credits the goddess with slaying the demon Dindirasura, from whom the forest takes its name. The deity is a shapeless sacred stone covered with red lead; a sculpted image behind it resembles Gajalakshmi rather than conventional Rukmini iconography. One directory source credits a stone reconstruction to Dhondbhat Katake in 1780 (verify). The shrine sits on the bank of the Chandrabhaga river, north of Dindiravan, in the Chinch Baag area of Pandharpur."
+  },
+  "id": "rukmini-temple-pandharpur",
+  "latitude": 17.6744,
+  "longitude": 75.3355,
+  "media": [],
+  "name": "Rukmini Temple",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Lakhubai_Temple_Dindiravan",
+    "http://tourmet.com/shri-lakhubai-temple-rukmini-mandir/"
+  ],
+  "state": "Maharashtra",
+  "town": "Pandharpur",
+  "town_description": "Pandharpur is a major pilgrimage town in Solapur district on the crescent-shaped Chandrabhaga (Bhima) river, often called the 'Southern Kashi' of Maharashtra. It is the spiritual heart of the Warkari sect and the home of the famous Shri Vitthal-Rukmini (Vithoba) temple, one of the most visited temples in Maharashtra. Millions of Warkari pilgrims walk to Pandharpur during the Ashadhi and Kartiki Ekadashi yatras, singing abhangas; a dip in the Chandrabhaga is believed to wash away sins.",
+  "tradition": "Hinduism (Vaishnavism - Warkari tradition)",
+  "travel": {
+    "airport": "Solapur Airport is the nearest airport (approx. 70-75 km; verify - limited services). Pune International Airport is approx. 200-215 km (verify).",
+    "railway": "Pandharpur Junction is the nearest railway station (verify distance); Solapur Junction (approx. 70 km) is the nearest major railhead.",
+    "road": "Pandharpur lies on the bank of the Chandrabhaga river in Solapur district, well connected by road to Solapur (approx. 70 km via NH-65/SH corridors) and Pune; autos and taxis serve the town (verify)."
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "July to February (per travel directory). Avoid peak yatra days (Ashadhi/Kartiki Ekadashi) unless joining the pilgrimage, as the town is extremely crowded then.",
+    "opening_hours": "UNVERIFIED - no reliable source found for this shrine's hours (verify on site)."
+  }
+}

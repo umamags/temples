@@ -1,0 +1,51 @@
+{
+  "alternate_names": [
+    "Nagsankar Mandir",
+    "Nagshankar Temple",
+    "Navishankar"
+  ],
+  "deities": [
+    "Shiva"
+  ],
+  "district": "Biswanath",
+  "festivals": [
+    "Maha Shivaratri"
+  ],
+  "history": {
+    "dynasty": "Nagakha (King Nagashankar/Narasankar)",
+    "period": "4th century CE",
+    "summary": "Ancient Shiva shrine in Nagsankar Mouza near Sootea, about 15 km west of Biswanath Chariali, on the north bank of the Brahmaputra. Believed to have been built by King Nagashankar (Narasankar) of the Nagakha dynasty in the 4th century; the older name was Navishankar. It was later renovated by Ahom king Su-sen-pha in 1480. Famous for its large turtle pond hosting 500+ rare softshell turtles (black softshell, Indian softshell, narrow-headed softshell); turtles are revered as incarnations of Vishnu. It was officially recognised as a model temple for turtle conservation on World Turtle Day. CSV town 'Nagaon' is WRONG — the temple is in Biswanath district, not Nagaon (Wikipedia lists Sonitpur, reflecting the pre-2015 district when Biswanath was carved out of Sonitpur; Assam government lists it under Biswanath). No exact POI geocode match; coordinates are from a published academic paper (JETIR, July 2023) giving the temple's position as 26 deg 43'29'' N, 92 deg 59'40'' E, so mild uncertainty remains."
+  },
+  "id": "nag-shankar-temple-sootea",
+  "latitude": 26.72472,
+  "longitude": 92.99444,
+  "media": [
+    "https://www.nativeplanet.com/photos/929x523x90/2018/08/photo-91-165703-4.jpg"
+  ],
+  "name": "Nag Shankar Temple",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Nagsankar_Mandir",
+    "https://www.jetir.org/papers/JETIR2307887.pdf",
+    "https://www.gktoday.in/question/nagshankar-temple-which-has-recently-been-designated-as-a-model-temple",
+    "https://imp.news/nation/from-worship-to-wildlife-nagshankar-temple-sets-conservation-benchmark-50533/",
+    "https://malayalam.nativeplanet.com/tezpur/nag-shankar-temple/photos/"
+  ],
+  "state": "Assam",
+  "town": "Sootea",
+  "town_description": "Sootea (Sotea) is a town in Biswanath district on the north bank of the Brahmaputra in northern Assam, close to Biswanath Chariali. The Nag-Shankar mouza centred on the ancient temple lies just off NH-15, in a largely rural, tea-and-paddy landscape.",
+  "tradition": "Shaivism",
+  "travel": {
+    "airport": "Salonibari Airport, Tezpur (nearest; published distances from Tezpur vary 58-70 km, verify) or Guwahati (verify)",
+    "railway": "Biswanath Chariali railway station, ~15-17 km east of the temple",
+    "road": "About 1.5 km south of NH-15; reachable by taxi or auto from Sootea or Biswanath Chariali"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to April (verify)",
+    "opening_hours": "Not published (verify)"
+  }
+}

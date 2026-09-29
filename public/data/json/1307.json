@@ -1,0 +1,54 @@
+{
+  "alternate_names": [
+    "ISKCON Mandir Silchar",
+    "ISKCON Silchar"
+  ],
+  "deities": [
+    "Radha-Krishna (sanctum)",
+    "Jagannath, Balaram and Subhadra (adjoining shrine)"
+  ],
+  "district": "Cachar",
+  "festivals": [
+    "Janmashtami",
+    "Rath Yatra",
+    "Dol Purnima"
+  ],
+  "history": {
+    "dynasty": "None (modern ISKCON institution)",
+    "period": "Modern; founding year of the Silchar centre not verified",
+    "summary": "The ISKCON Temple at Ambikapatty, Silchar (on ISKCON Mandir Road), is built and operated by the International Society for Krishna Consciousness (ISKCON), founded in 1966 by A.C. Bhaktivedanta Swami Prabhupada with headquarters at Mayapur, West Bengal. A local travel account notes its gopura stands about 50 feet tall. The sanctum houses Radha-Krishna, with Jagannath, Balaram and Subhadra on the other side, and daily morning/evening kirtans are held. The complex includes the Gobinda Bhojanalaya (vegetarian meals) and guest lodging. The exact year the Silchar centre was established is not verified in available sources."
+  },
+  "id": "iskcon-temple-silchar",
+  "latitude": 24.81969,
+  "longitude": 92.79607,
+  "media": [
+    "https://media.tripinvites.com/places/silchar/iskcon-temple/iskcon-temple-featured-750x500.jpg"
+  ],
+  "name": "ISKCON Temple, Silchar",
+  "sources": [
+    "https://www.aai.aero/en/airports/city-info/Silchar/Tourist-Place",
+    "http://www.iskcon.org/",
+    "https://www.youtube.com/watch?v=kvhkSD8FQks",
+    "https://www.oyorooms.com/travel-guide/places-to-visit-in-silchar/amp/",
+    "https://www.goindigo.in/get-inspired/best-reasons-to-explore-and-visit-silchar.html",
+    "https://www.tripinvites.com/places/silchar/iskcon-temple/"
+  ],
+  "state": "Assam",
+  "town": "Silchar",
+  "town_description": "Silchar is the second-largest city of Assam and the commercial and educational hub of the Barak Valley, set on the banks of the Barak River. Known as the 'Island of Peace', it is predominantly Bengali-speaking, famous for its grand Durga Puja celebrations and tea estates, and serves as the gateway to southern Assam and the neighbouring states of Manipur, Mizoram and Tripura.",
+  "tradition": "Vaishnavism (Gaudiya)",
+  "travel": {
+    "airport": "Silchar Airport (Kumbhirgram, IXS) - about 20-22 km (verify).",
+    "railway": "Silchar Junction - within the city.",
+    "road": "ISKCON Mandir Road, Ambikapatty, Silchar; reachable by taxi, auto or city bus."
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March; Janmashtami and Rath Yatra are peak periods.",
+    "opening_hours": "4:00 AM - 8:00 PM daily (per the ISKCON listing; verify - timings conflict slightly across listings)."
+  }
+}

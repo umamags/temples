@@ -1,0 +1,51 @@
+{
+  "alternate_names": [
+    "Jakhani Mata Temple",
+    "Shree Jakhni Mata Mandir",
+    "Jakhni Devi Temple"
+  ],
+  "deities": [
+    "Maa Jakhni (Mata Latti Jakhni), a local goddess of the Palampur region"
+  ],
+  "district": "Kangra",
+  "festivals": [
+    "Navratri"
+  ],
+  "history": {
+    "dynasty": "Not documented",
+    "period": "Uncertain — believed by locals to be centuries old (UNVERIFIED)",
+    "summary": "IDENTITY/LOCATION NOTE: CSV town 'Chintpurni' appears WRONG. No 'Jakhni Mata' temple is documented near Chintpurni (Una). The only well-documented Jakhni Mata shrine is at Chandpur/Dugh village near Palampur in Kangra district (~7 km from Palampur, at the highest point of the village, coords 32.13385, 76.56755 — documented here). It is dedicated to Mata Latti Jakhni, a local goddess believed to be a powerful manifestation of the divine feminine associated with nature and protection. Local legend says she appeared before a shepherd in the forests near Palampur, leading to the shrine's establishment. The temple offers panoramic views of the Palampur valley and the Dhauladhar ranges; a motorable road reaches it though many visitors trek. History beyond legend is UNVERIFIED — found via YouTube/travel-blog sources only; no official temple or HP tourism page with historical detail was found."
+  },
+  "id": "jakhni-mata-mandir",
+  "latitude": 32.13385,
+  "longitude": 76.56755,
+  "media": [
+    "https://hptours.org/sites/default/files/images/jakhani%20mata.jpg"
+  ],
+  "name": "Jakhni Mata Mandir",
+  "sources": [
+    "https://seawatersports.com/places/Places-To-Visit-In-Palampur/jakhni-mata-temple",
+    "https://www.youtube.com/watch?v=Eiw5qti8ZDc",
+    "https://www.youtube.com/watch?v=0sIGK1KfW3g",
+    "https://hptours.org/temples/jakhni-devi-%E0%A4%9C%E0%A4%96%E0%A4%A3%E0%A5%80-%E0%A4%A6%E0%A5%87%E0%A4%B5%E0%A5%80-kangra",
+    "https://wanderlog.com/place/details/171073/jakhni-mata-mandir-rd"
+  ],
+  "state": "Himachal Pradesh",
+  "town": "Palampur",
+  "town_description": "Palampur is a town in Kangra district, Himachal Pradesh, set in the Beas valley at the foot of the Dhauladhar Himalayan range. Known for its tea gardens (one of India's oldest tea estates), pine forests, and colonial-era charm, it is a popular hill station and paragliding base. The town serves as a gateway to several local temples, including the Jakhni Mata shrine about 7 km away at Chandpur village.",
+  "tradition": "Hinduism (Shaktism — local goddess)",
+  "travel": {
+    "airport": "Nearest: Kangra (Gaggal) Airport (verify)",
+    "railway": "Nearest: Palampur HP / Pathankot broad gauge (verify)",
+    "road": "~7 km from Palampur via Chandpur/Dugh village; motorable road reaches the temple (verify)"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October-March (verify)",
+    "opening_hours": "UNVERIFIED (verify)"
+  }
+}

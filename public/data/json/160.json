@@ -1,0 +1,46 @@
+{
+  "alternate_names": [
+    "Radhe-Krishna Mandir (NH-28A)",
+    "Shri Radhe Krishna Thakurbari Mandir, Rupdih (possible referent)"
+  ],
+  "deities": [
+    "Radha",
+    "Krishna"
+  ],
+  "district": "East Champaran",
+  "festivals": [
+    "Janmashtami (typical - unconfirmed for this site)"
+  ],
+  "history": {
+    "dynasty": "None documented",
+    "period": "Modern (a new Radha-Krishna temple at Amar Chhatauni, Motihari, had its pran pratishtha in January 2024)",
+    "summary": "IDENTITY PROVISIONAL. 'Radha Krishna Mandir' is a generic name with several candidate referents in/around Motihari: a geocoded 'Radhe-Krishna' POI on NH-28A, Motihari 845401 (coordinates used below, relevance 84); a newly built Radha-Krishna temple in the Brahmababa temple complex at Amar Chhatauni, Motihari, whose pran pratishtha was reported by local press in January 2024; and the Shri Radhe Krishna Thakurbari Mandir at Rupdih (~4 km out). No single documented shrine matching the CSV row could be isolated, so this file uses the NH-28A POI location and flags the ambiguity. Festivals and hours below are typical/generic, not confirmed for this specific shrine."
+  },
+  "id": "radha-krishna-mandir-motihari",
+  "latitude": 26.65532,
+  "longitude": 84.91867,
+  "media": [],
+  "name": "Radha Krishna Mandir",
+  "sources": [
+    "https://youthmukam.com/the-life-consecration-of-radha-krishna-took-place-with-rituals-in-the-newly-built-temple-located-in-amarchhatauni-a-grand-procession-took-place-devotees-gathered-in-large-numbers/",
+    "https://www.instagram.com/explore/locations/1959775470753863"
+  ],
+  "state": "Bihar",
+  "town": "Motihari",
+  "town_description": "Motihari is the headquarters of East Champaran district in north Bihar, near the Nepal border; it is the birthplace of George Orwell and a commercial and agricultural hub of the Champaran region.",
+  "tradition": "Hinduism (Vaishnavism)",
+  "travel": {
+    "airport": "Jay Prakash Narayan International Airport, Patna (~160 km).",
+    "railway": "Bapudham Motihari station on the Delhi-Guwahati line.",
+    "road": "On NH-27/NH-28A; well connected to Patna, Muzaffarpur and Raxaul."
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March.",
+    "opening_hours": "Not documented (verify)."
+  }
+}

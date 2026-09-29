@@ -1,0 +1,50 @@
+{
+  "alternate_names": [
+    "Chateswar Mahadev Temple",
+    "Chateshwar Temple"
+  ],
+  "deities": [
+    "Lord Shiva as a patalaphuta Shivalinga in a circular yoni-pitha",
+    "Detached images of Chamunda, Surya, Buddha, Udyotasimha, four-armed Vishnu and Nandi in the precinct (mostly ruined)"
+  ],
+  "district": "Cuttack",
+  "festivals": [
+    "Maha Shivaratri",
+    "Dola Purnima",
+    "Kartik Purnima",
+    "Margashirsha Purnima"
+  ],
+  "history": {
+    "dynasty": "Eastern Ganga dynasty — built by 'Vishnu', a minister under Anangabhima Deva III (whose inscription survives in the temple)",
+    "period": "12th century CE",
+    "summary": "The Chateswar (Chateshwar) Mahadev Temple at Kishinapur village, near Paga-Gopinathpur in Salipur block, is an ancient Shaiva shrine housing a patalaphuta (self-manifested) Shivalinga within a circular yoni-pitha. On the evidence of detached sculptures of Saivite and Sakta affiliation (Chamunda, Surya, Buddha, Udyotasimha, Vishnu, Nandi) it is assigned to the Eastern Ganga period of the 12th century CE; the temple is pancharatha on plan with multi-segmented horizontal mouldings in the bada, in Kalinga style, and was built by a minister named 'Vishnu' under Ganga monarch Anangabhima Deva III, whose inscription is found in the temple. It is a living temple, managed by the Archaeological Survey of India (per lightuptemples), with heavy devotional crowds on Mondays and Sankranti days. CSV CORRECTION: the CSV town 'Cuttack' is the DISTRICT, too broad — the temple is at Kishinapur village (near Salipur), Cuttack district; 'Kishorenagar area' (task-brief guess) is not supported — sources say Kishinapur/Krishnapur. NOTE: a geocoder full-address match places a 'Chateswara Temple' at Choudwar (PIN 754028); Chatesvara also appears among the 'Asta-Sambhu' Shiva temples of Choudwar in scholarly sources — possible conflation of two same-named shrines; the Kishinapur/Salipur identification (Wikipedia coordinates, lightuptemples) is used here. Coordinates are from the Wikipedia infobox for this temple."
+  },
+  "id": "chateswar-mahadev-temple-kishinapur",
+  "latitude": 20.50335,
+  "longitude": 86.04864,
+  "media": [],
+  "name": "Chateswar Temple",
+  "sources": [
+    "http://en.wikipedia.org/wiki/Chateshwar_Temple",
+    "https://lightuptemples.com/kishinapur-chateswar-mahadev-temple-odisha/",
+    "https://www.ishtadevata.com/temple/chateswar-temple-bahugram-cuttack/"
+  ],
+  "state": "Odisha",
+  "town": "Kishinapur",
+  "town_description": "Kishinapur (also spelled Kisinapur/Krishnapur) is a village near Paga-Gopinathpur in Salipur block, Cuttack district, Odisha, reached by road from Cuttack via Jagatpur. The temple is an ancient pilgrimage point in this rural stretch on the south-east coast of India.",
+  "tradition": "Shaivism",
+  "travel": {
+    "airport": "Biju Patnaik International Airport, Bhubaneswar — nearest major airport.",
+    "railway": "Cuttack Junction — nearest major railway station (per lightuptemples).",
+    "road": "Easily accessed by road from Cuttack via Jagatpur to Kishinapur village; nearest bus stop at Kishinapur (per lightuptemples)."
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March for pleasant weather; Maha Shivaratri, Dola Purnima and Kartik Purnima are the peak festival times.",
+    "opening_hours": "Living temple drawing large crowds on Mondays and Sankranti days; exact daily darshan hours are not published online — verify locally before travel."
+  }
+}

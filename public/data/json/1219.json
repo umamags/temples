@@ -1,0 +1,55 @@
+{
+  "alternate_names": [
+    "Panakala Narasimha Swamy Temple",
+    "Mangalagiri Hill Temple"
+  ],
+  "deities": [
+    "Lord Panakala Lakshmi Narasimha Swamy",
+    "Goddess Lakshmi (Rajya Lakshmi shrine)",
+    "Lord Hanuman (rock relief)"
+  ],
+  "district": "Guntur",
+  "festivals": [
+    "Brahmotsavam (11 days, Phalguna - February/March)",
+    "Narasimha Jayanthi",
+    "Hanuman Jayanthi",
+    "Rama Navami",
+    "Vaikuntha Ekadashi"
+  ],
+  "history": {
+    "dynasty": "Unknown (legendary origins; no firm construction date in sources)",
+    "period": "Ancient (traditional; steps to the shrine built in 1890)",
+    "summary": "The hilltop shrine of the Mangalagiri Narasimha complex, set midway up the hill. Its signature ritual is the offering of panakam (jaggery water) poured into the deity's wide-open mouth — devotees believe the Lord drinks about half, and a gurgling sound is heard as it is offered. Legend says the Lord has been worshipped here since Satya Yuga; Rama asked Hanuman to remain as kshetrapalaka (a large Hanuman relief is carved into the rock beside the separate Lakshmi shrine above the cave temple), and a dark cave behind the shrine is believed to lead toward Undavalli. The rock steps to the shrine were built by Sri Channapragada Balaramadasu in 1890. Timings are unusual: the shrine closes by ~3 PM as it is believed gods and sages worship the Lord in the evenings. DUPLICATE RELATIONSHIP: CSV seq 13 (Sri Mangalagiri Lakshmi Narasimha Swamy Temple) is the downhill town temple of the SAME complex — this file covers only the hilltop Panakala shrine; merge/dedup decision needed."
+  },
+  "id": "panakala-lakshmi-narasimha-swamy-temple-mangalagiri",
+  "latitude": 16.43638,
+  "longitude": 80.56998,
+  "media": [
+    "https://static2.tripoto.com/media/filter/nxl/img/1776863/SpotDocument/1572811028_1572810908887.jpg.webp"
+  ],
+  "name": "Sri Panakala Lakshmi Narasimha Swamy Temple",
+  "sources": [
+    "https://www.tirthayatra.org/pankala-narasimha-temple-mangalagiri/",
+    "https://www.airial.travel/attractions/india/mangalagiri/seethanagaram-lakshmi-narasimha-temple-sj5qUIVr",
+    "https://temples.vibhaga.com/temple/mangalagiri-sri-lakshmi-narasimha-swamy-temple/",
+    "https://holyshrines.in/panakala-lakshmi-narasimha-swamy-temple-mangalagiri/"
+  ],
+  "state": "Andhra Pradesh",
+  "town": "Mangalagiri",
+  "town_description": "Mangalagiri ('Auspicious Hill') is a temple and handloom town in Guntur district on the Guntur-Vijayawada highway, closer to Vijayawada. It is famous for the twin Narasimha temples — the hilltop Panakala shrine and the downhill Lakshmi Narasimha temple with its 153-ft gopuram — and for Mangalagiri cotton saris and dress material woven on its handlooms.",
+  "tradition": "Vaishnavite",
+  "travel": {
+    "airport": "Vijayawada (Gannavaram) Airport",
+    "railway": "Mangalagiri railway station; Vijayawada Junction (~12 km)",
+    "road": "On the Guntur-Vijayawada highway; steep rock steps and a ghat road lead up to the hilltop shrine"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March; Brahmotsavam (February-March)",
+    "opening_hours": "7:00 AM - 3:00 PM; no evening darshan (some sources say till 4:30 PM — verify)"
+  }
+}

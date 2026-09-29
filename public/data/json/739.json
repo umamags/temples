@@ -1,0 +1,52 @@
+{
+  "alternate_names": [
+    "Shri Shri Govindajee Laishang",
+    "Govindaji Temple, Imphal"
+  ],
+  "deities": [
+    "Govindaji (Krishna) and Radha (central chamber of the garbhagriha; presiding deities)",
+    "Jagannath, Subhadra and Balabhadra (northern adjoining chamber)",
+    "Krishna and Balarama (southern adjoining chamber)"
+  ],
+  "district": "Imphal East",
+  "festivals": [
+    "Janmashtami (August) - one of the two biggest festivals",
+    "Kang / Rathayatra (June-July) - one of the two biggest festivals",
+    "Ras Lila (the Manipuri classical dance) during Halangkar (Holi), Basant Purnima (February) and Kartik Purnima (October)"
+  ],
+  "history": {
+    "dynasty": "Manipur kingdom (Meitei kings): Maharaja Nara Singh commissioned it; Maharaja Chandrakirti rebuilt it; Maharaja Churachand Singh reconsecrated the idols in the present temple",
+    "period": "19th century (original 1846; rebuilt 1876; idols reconsecrated 1908)",
+    "summary": "CSV DUPLICATE CROSS-REFERENCE: this row (seq 739, 'Shree Govindajee Temple | Kohima | Nagaland') refers to the SAME famous Shri Govindajee Temple already documented at seqs 639, 654 and 705 - all in IMPHAL, MANIPUR. No Govindajee/Govindaji temple in Kohima or anywhere else in Nagaland was found in any source consulted; the CSV town ('Kohima') and state ('Nagaland') are both incorrect, and the dataset owner should merge seq 739 with the existing entries or remove it. This file is a standalone duplicate entry kept per project rules. About the temple itself: Shree Govindajee Temple (Meitei: Shri Shri Govindajee Laishang) stands next to Sana Konung (the royal palace) in Imphal, the capital of Manipur, and is the largest Vaishnava temple in Imphal district. Maharaja Nara Singh (1844-50) commissioned it on 16 January 1846 and dedicated it to Shree Govindaji, the royal deity. The 1868 earthquake substantially damaged the temple and deities, so it was rebuilt to its original design under Maharaja Chandrakirti (1859-1886) and consecrated on 26 April 1876. During the Anglo-Manipur War of 1891 the idols were moved to Kongma; in 1908, after Maharaja Churachand Singh took up residence in his new palace, the idols were moved and reconsecrated in the present temple. The temple is simple in design with two gold-plated domes, a paved court and a large raised Mandapa (congregation hall); the Govindaji-Radha images are carved from special wood (with the remaining wood used for the Jagannath triad). The tradition reaches back to Maharaja Bhagya Chandra (Jai Singh, 1763-1798), who in 1776-1779 had the first Govindaji idol carved from a jackfruit tree at Kaina (29 km from Imphal) and instituted the Ras Lila. The temple is managed by a board whose president is the Chief Minister of Manipur."
+  },
+  "id": "shri-govindajee-temple-imphal-kohima-csv-duplicate",
+  "latitude": 24.79737,
+  "longitude": 93.9483,
+  "media": [
+    "https://chaloghumane.com/wp-content/uploads/2021/08/Shree-Govindajee-Temple-Imphal-445x265.jpg"
+  ],
+  "name": "Shree Govindajee Temple",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Shree_Govindajee_Temple",
+    "https://www.expervia.in/destinations/place/govindajee-temple",
+    "https://grand-eastern.com/destination/page/5/"
+  ],
+  "state": "Manipur (CSV state 'Nagaland' is incorrect)",
+  "town": "Imphal (CSV town 'Kohima' is incorrect - this row duplicates seqs 639, 654 and 705)",
+  "town_description": "Imphal is the capital of Manipur in the north-east of India, the historical seat of the Meitei kings (the Manipur kingdom). The city centres on the Kangla Fort and the Sana Konung (royal palace), next to which the Govindajee Temple stands. Imphal is the hub of Manipuri Vaishnavite culture - Ras Lila, Ima Keithel (the women's market) and Loktak Lake nearby. There is no verified connection between this temple and Kohima, Nagaland, named in the CSV.",
+  "tradition": "Vaishnavism",
+  "travel": {
+    "airport": "Imphal International Airport (flights from New Delhi, Kolkata, Guwahati and Silchar per Wikipedia) (verify current schedules)",
+    "railway": "Nearest railhead is Dimapur, Nagaland, 215 km away, with regular bus services to Imphal (verify - per Wikipedia)",
+    "road": "Imphal is connected by National Highway 39 (to Dimapur in the north and Myanmar in the east), NH-53 (to Silchar, Assam) and NH-150 (to Mizoram) per Wikipedia (verify). The temple stands by the palace in central Imphal."
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March for pleasant weather (verify). Janmashtami (August) and Kang/Rathayatra (June-July) are the grandest festivals but very crowded; Basant Purnima (February) and Kartik Purnima (October) for Ras Lila performances.",
+    "opening_hours": "Daily 5:00 AM to 12:00 PM and 4:00 PM to 9:00 PM (verify - per one travel guide). Strict dress code and ritualistic worship: men in white kurta/dhoti, women in traditional phanek/innafi, salwar kameez or sari; devotees queue separately by gender; live music during main prayer hours (verify on site)."
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "alternate_names": [
+    "Durg Devi Mandir"
+  ],
+  "deities": [
+    "Goddess Durga (Devi)"
+  ],
+  "district": "Durg",
+  "festivals": [
+    "Navratri",
+    "Dussehra"
+  ],
+  "history": {
+    "dynasty": "Unknown",
+    "period": "Unknown",
+    "summary": "UNCERTAIN IDENTITY — no address-level documentation found for a 'Durg Devi Temple' in Bhilai. The name appears in a travel guide's list of top Bhilai places to visit ('a spiritual destination attracting devotees from across the region'). Possible candidates include Durga Mandir, Ram Nagar (Ekta Durga Utsav Samiti, open 6 AM-8 PM) and Maa Jagdamba Mandir, Sector 6 — no source confirms either as the CSV's referent. Coordinates below are Bhilai town-centre approximate; no on-topic image could be verified, so media is empty."
+  },
+  "id": "durg-devi-temple-bhilai",
+  "latitude": 21.21,
+  "longitude": 81.35,
+  "media": [],
+  "name": "Durg Devi Temple",
+  "sources": [
+    "http://gurukulgalaxy.com/blog/explore-bhilai-with-ease-rent-bikes-and-cars-through-motoshare/",
+    "https://www.justdial.com/Bhilai/Durga-Mandir-Ram-Nagar/9999PX788-X788-181226135334-X5D7_BZDET"
+  ],
+  "state": "Chhattisgarh",
+  "town": "Bhilai",
+  "town_description": "Bhilai is an industrial city in Durg district, Chhattisgarh, built around the Bhilai Steel Plant (commissioned 1959 with Soviet collaboration); its planned sectors and township host numerous temples serving the steel-town population.",
+  "tradition": "Hindu (Shakta)",
+  "travel": {
+    "airport": "Swami Vivekananda Airport, Raipur (~35 km)",
+    "railway": "Durg Junction (~10 km)",
+    "road": "Bhilai; exact locality unverified"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October-March (Navratri peak)",
+    "opening_hours": "Not verified - confirm locally"
+  }
+}

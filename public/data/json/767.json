@@ -1,0 +1,51 @@
+{
+  "alternate_names": [
+    "Vaishnodevi Temple, Rourkela",
+    "Jai Vaishno Devi Temple, Rourkela"
+  ],
+  "deities": [
+    "Goddess Vaishno Devi (Durga)",
+    "Bhairabanath Temple (Bhairava shrine) nearby on the same hill"
+  ],
+  "district": "Sundargarh",
+  "festivals": [
+    "Navaratri",
+    "Durga Puja"
+  ],
+  "history": {
+    "dynasty": "Modern (21st century)",
+    "period": "21st century — opened to visitors in 2007",
+    "summary": "The Vaishnodevi Temple at Rourkela is a replica of the original Vaishno Devi shrine of Trikuta Hills, Jammu, built on top of Durgapur Hill facing the Rourkela Steel Plant. Per Wikipedia the temple of Goddess Durga on the hill was opened for visitors in 2007; the Bhairabanath Temple stands nearby on the same hill. Devotees climb roughly 500 steps to reach the hilltop shrine; Navaratri (spring and autumn) and Durga Puja draw hundreds of worshippers. Coordinates are a full-address geocode match for 'Mata Vaishno Devi Mandir, Timber Colony, Rourkela'. CONFLICT (verify): Justdial lists hours 5:00 AM–2:00 PM (7:00 PM on some days), while adotrip lists 5:30 AM–8:00 PM — hours disagree across sources. No history or founder details were found online; the shrine appears to be a 21st-century devotional construction."
+  },
+  "id": "vaishno-devi-temple-rourkela",
+  "latitude": 22.23533,
+  "longitude": 84.86537,
+  "media": [
+    "https://lightup-temples.s3.ap-south-1.amazonaws.com/wp-content/uploads/2020-07-13.jpg"
+  ],
+  "name": "Maa Vaishno Devi Temple",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Vaishnodevi_Temple,_Rourkela",
+    "https://justdial.com/Rourkela/Mata-Vaishno-Devi-Mandir-Railway-Colony/9999PX661-X661-200628015356-E5P1_BZDET",
+    "https://www.adotrip.com/blog/temples-in-rourkela",
+    "https://lightuptemples.com/en/rourkela-vaishnodevi-temple-odisha/"
+  ],
+  "state": "Odisha",
+  "town": "Rourkela",
+  "town_description": "Rourkela, in Sundargarh district, is Odisha's steel city built around the Rourkela Steel Plant. The Vaishno Devi Temple sits on Durgapur Hill near Bisra Road/Railway Colony, facing the steel plant, and is a popular hilltop pilgrimage and viewpoint within the city.",
+  "tradition": "Shaktism",
+  "travel": {
+    "airport": "Jharsuguda (Veer Surendra Sai Airport) is the nearest airport; Biju Patnaik International Airport, Bhubaneswar is the nearest major airport.",
+    "railway": "Rourkela Junction — major railhead on the Howrah–Mumbai line.",
+    "road": "Reached via Vaishno Devi Temple Road off Bisra Road in Rourkela; climb of about 500 steps to the hilltop shrine."
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March for pleasant weather; Navaratri and Durga Puja are the most vibrant times to visit.",
+    "opening_hours": "Hours conflict across sources (Justdial vs adotrip: 5:00 AM–2:00 PM vs 5:30 AM–8:00 PM) — verify locally before travel."
+  }
+}

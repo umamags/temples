@@ -1,0 +1,51 @@
+{
+  "alternate_names": [
+    "Shyama Kali Temple",
+    "Shyama Maa Kali Mandir",
+    "Rameshwari Shyama Mai"
+  ],
+  "deities": [
+    "Goddess Kali (Maa Kali)"
+  ],
+  "district": "Darbhanga",
+  "festivals": [
+    "Navaratri",
+    "Kali Puja",
+    "Shyama Mai festival (December)"
+  ],
+  "history": {
+    "dynasty": "Darbhanga Raj",
+    "period": "1933 (20th century)",
+    "summary": "Built in 1933 by Maharaja Kameshwar Singh of Darbhanga on the funeral pyre/cremation ghat of his father Maharaja Rameshwar Singh - a temple built on a pyre is itself unusual. The 10-foot black-stone idol of Maa Kali stands above the grave; the sanctum also holds Mahakal, Ganapati and Batukabhairava, and the goddess's mund-mala is said to carry the letters of the Hindi alphabet. The district site notes 6 temples around a central pond and counts it (with Kankali temple) among North Bihar's major tantric temples. The CSV name 'Shyama Kali Temple' is a documented alternate; the canonical name is Shyama Mai Temple (Kathalbari, LNMU campus, Darbhanga-846008)."
+  },
+  "id": "shyama-mai-temple-darbhanga",
+  "latitude": 26.1602,
+  "longitude": 85.9002,
+  "media": [
+    "https://inditales.com/wp-content/uploads/2023/07/shyama-mai-temple-darbhanga.jpg"
+  ],
+  "name": "Shyama Mai Temple",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Shyama_Mai_Temple",
+    "https://darbhanga.nic.in/adventures/",
+    "https://eindiatourism.in/tourist-place/shyamakali-temple/"
+  ],
+  "state": "Bihar",
+  "town": "Darbhanga",
+  "town_description": "Darbhanga is a historic city in North Bihar, the old capital of the Mithila region and seat of the Darbhanga Raj. It is a cultural and educational centre, home to Lalit Narayan Mithila University.",
+  "tradition": "Shaktism",
+  "travel": {
+    "airport": "Darbhanga Airport (nearest airport)",
+    "railway": "Darbhanga Junction (temple is easily reached from the station, per the district site)",
+    "road": "At Kathalbari on the LNMU campus, Darbhanga; reachable by city road"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October-November (Navaratri/Kali Puja) and December (annual Shyama Mai festival)",
+    "opening_hours": "Sources conflict: 4:00 AM-11:00 PM (meta.ai listing) vs 5:00 AM-10:00 PM (eindiatourism.in); no entry fee (verify before visiting)"
+  }
+}

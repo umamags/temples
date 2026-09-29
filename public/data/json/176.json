@@ -1,0 +1,50 @@
+{
+  "alternate_names": [
+    "Mahadev Ghat",
+    "Mahadevghat"
+  ],
+  "deities": [
+    "Shiva (the ghat's central Hatkeshwar Mahadev Temple)",
+    "Hanuman (Hanuman Mandir at the ghat)"
+  ],
+  "district": "Raipur",
+  "festivals": [
+    "Maha Shivaratri",
+    "Shravan month rituals"
+  ],
+  "history": {
+    "dynasty": "Kalachuri (temple); ghat precinct developed later",
+    "period": "Ancient temple dated 1402 CE; ghat is a riverside pilgrim precinct",
+    "summary": "NOTE: this CSV row describes the same site as row 178 (Hatkeshwar Mahadev Mandir) - the ancient Shiva temple is the centrepiece of the Mahadev Ghat precinct on the banks of the Kharun River, about 5 km from Raipur. The precinct includes the temple, the ghat steps, the Laxman Jhula suspension bridge (the first suspension bridge of Chhattisgarh), an evening river aarti, boating, and a Hanuman Mandir. The temple was built in 1402 CE by Hajiraj Naik during the rule of the Kalachuri ruler Brahmadeo Rai. The coordinates below are for the Mahadev Ghat place pin and are approximate."
+  },
+  "id": "mahadev-ghat-raipur",
+  "latitude": 21.2154,
+  "longitude": 81.5907,
+  "media": [
+    "https://joharcg.com/wp-content/uploads/2019/08/Laxman-Jhula-Raipur.jpg"
+  ],
+  "name": "Mahadev Ghat Temple",
+  "sources": [
+    "https://Wanderlog.com/place/details/11345906/mahadev-ghat-raipura-raipur",
+    "https://www.sanatanavibes.in/2025/10/raipurs-ancient-shiva-shrine-hatkeshwar.html",
+    "https://www.tripadvisor.co.za/ShowUserReviews-g297595-d3838629-r237497711-Hatkeshwar_Mahadev_Temple-Raipur_Raipur_District_Chhattisgarh.html"
+  ],
+  "state": "Chhattisgarh",
+  "town": "Raipur",
+  "town_description": "Raipur is the capital of Chhattisgarh, a city rich in medieval heritage located on the banks of the Kharun River. Mahadev Ghat lies in the Raipura area of the city, about 5 km from the centre, and is one of its oldest pilgrimage spots.",
+  "tradition": "Shaivism",
+  "travel": {
+    "airport": "Swami Vivekananda Airport, Raipur (nearest airport)",
+    "railway": "Raipur Junction (Sarona station is nearest to the ghat)",
+    "road": "About 5 km from Raipur city centre via Mahadev Ghat Road / Patan-Raipur Road"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March; evenings for the river aarti",
+    "opening_hours": "6:00 AM - 8:00 PM daily (listing data; verify on visit)"
+  }
+}

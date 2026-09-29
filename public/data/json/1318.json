@@ -1,0 +1,47 @@
+{
+  "alternate_names": [
+    "Shri Radha Krishna Mandir"
+  ],
+  "deities": [
+    "Radha",
+    "Krishna"
+  ],
+  "district": "Tinsukia",
+  "festivals": [
+    "Janmashtami (verify)",
+    "Holi (verify)"
+  ],
+  "history": {
+    "dynasty": "Not published",
+    "period": "Not published (verify)",
+    "summary": "AMBIGUITY FLAG: at least two distinct 'Radha Krishna Mandir' listings exist in Tinsukia - (1) 'Shri Radha Krishna Mandir' on Chirwapatty Road (the POI match used for the coordinates below), and (2) a 'Radha Krishna Mandir' at Hukanpukhuri Gaon on AT Road (Justdial: open 6:00 AM - 9:00 PM, phone +91 98671 77158, ~3 km from Makum Road). Note the Shiv Dham complex at Hukanpukhuri Gaon also reportedly contains a Radhakrishna shrine within its premises, so listing (2) may be that shrine rather than an independent temple. The CSV gives only 'Radha Krishna Mandir, Tinsukia'; coordinates and hours below follow listing (1) for the POI but the intended referent is unconfirmed - verify on the ground. NO RELIABLE IMAGE FOUND; media is intentionally empty."
+  },
+  "id": "radha-krishna-mandir-tinsukia",
+  "latitude": 27.49063,
+  "longitude": 95.36399,
+  "media": [],
+  "name": "Radha Krishna Mandir",
+  "sources": [
+    "https://www.justdial.com/Tinsukia/Radha-Krishna-Mandir-AT-Road-Tinsukia/9999PX374-X374-171206143446-R3I3_BZDET",
+    "https://meta.ai?place_id=5124392461005429",
+    "https://www.top-rated.online/cities/Tinsukia/place/p/13495997/Radha+Krishna+Mandir"
+  ],
+  "state": "Assam",
+  "town": "Tinsukia",
+  "town_description": "Tinsukia is a major industrial and commercial city in Upper Assam, often called the gateway to the Dibru-Saikhowa National Park and the surrounding tea country. It grew around the oil, tea, timber and coal trades of the region and is known for several notable Hindu temples, including the bell temple Tilinga Mandir nearby.",
+  "tradition": "Vaishnavism",
+  "travel": {
+    "airport": "Dibrugarh Airport (Mohanbari), about 41-45 km away",
+    "railway": "Tinsukia (New Tinsukia Junction) railway station",
+    "road": "Chirwapatty Road, Tinsukia (per map POI); a second listing exists at Hukanpukhuri Gaon, AT Road (verify)"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March, the cooler months of Upper Assam (verify)",
+    "opening_hours": "6:00 AM - 9:00 PM (Justdial, for the AT Road listing; hours conflict/ambiguity - verify)"
+  }
+}

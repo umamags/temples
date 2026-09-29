@@ -1,0 +1,51 @@
+{
+  "alternate_names": [
+    "Sri Sri Auniati Satra",
+    "Auni Ati Satra"
+  ],
+  "deities": [
+    "Lord Krishna as Govinda"
+  ],
+  "district": "Majuli",
+  "festivals": [
+    "Raas Mahotsav (Raasleela)",
+    "Paal Naam (Pal Naam)",
+    "Janmashtami",
+    "Bihu festivals"
+  ],
+  "history": {
+    "dynasty": "Ahom Kingdom (patron: Swargadeo Jayadhwaj Singha)",
+    "period": "1653 CE",
+    "summary": "FLAG: DUPLICATE ROW: same satra as seq 115 (\"Sri Sri Auniati Satra\", id auniati-satra-majuli). One file per CSV row; keep-or-dedup decision needed.\n\nCSV TOWN FLAG: Auniati Satra is NOT in Jorhat - it stands on Majuli island in Majuli district (carved out of Jorhat district in 2016). Documented with the corrected location. Founded in 1653 by Ahom king Jayadhwaj Singha (Sutamla); the first satradhikar (head monk) was Sri Sri Niranjana Deva Goswami (Niranjan Pathakdeva). It is one of the four raj satras (royal satras) and the first satra patronised by the Ahom kingdom, following the Brahma Sanghati of the Ekasarana Dharma. Named Auni Ati after the Auni paan tree that stood at the founding site. The resident bhakats (monks) are celibate udaseen Vaishnavas devoted to Krishna as Govinda - the idol is said to have been brought from Jagannath Puri. The satra is a living centre of Sattriya dance, bhaona theatre, borgeet and khol/taal; its 371-year-old Pal Naam tradition draws lakhs of devotees during Raas Utsav (ANI, Nov 2024)."
+  },
+  "id": "auniati-satra-majuli-duplicate",
+  "latitude": 26.93685,
+  "longitude": 94.12368,
+  "media": [
+    "https://www.tourmyindia.com/states/assam/images/Auniati-Satra-1.jpg"
+  ],
+  "name": "Auniati Satra",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Auniati_Satra",
+    "https://www.tourmyindia.com/states/assam/auniati-satra.html",
+    "https://exploremajuli.com/auniati-satra-the-spiritual-and-cultural-beacon-of-majuli/"
+  ],
+  "state": "Assam",
+  "town": "Majuli (CSV town 'Jorhat' is WRONG - the satra is on Majuli island)",
+  "town_description": "Majuli is a large river island in the Brahmaputra and the cradle of Assamese Neo-Vaishnavite culture, home to around 30 satras including Auniati and Kamalabari. Declared India's first island district in 2016, it is reached by ferry from Nimati Ghat near Jorhat or by road via the Bogibeel Bridge, and is famed for Sattriya dance, mask-making, pottery and the Raas Mahotsav festival.",
+  "tradition": "Ekasarana Dharma (Neo-Vaishnavism), Brahma Sanghati",
+  "travel": {
+    "airport": "Rowriah Airport (Jorhat) - about 20 km plus ferry from Nimati Ghat; Dibrugarh airport via Bogibeel Bridge (2-2.5 hrs) (verify).",
+    "railway": "Jorhat Town railway station (verify).",
+    "road": "Regular ferries from Nimati Ghat (Jorhat) to Majuli; road access via Bogibeel Bridge from the Dibrugarh/Tezpur-Lakhimpur side (verify)."
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March; Raas Mahotsav (November) is the peak festival season.",
+    "opening_hours": "Daily prayers run from morning to evening; no fixed published hours (verify - confirm locally)."
+  }
+}

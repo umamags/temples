@@ -1,0 +1,56 @@
+{
+  "alternate_names": [
+    "Chintaman Ganesh Mandir",
+    "Chintamani Ganesh Temple",
+    "Chintaharan Ganesh"
+  ],
+  "deities": [
+    "Lord Ganesha (Chintaman Ganesh - Swayambhu idol)",
+    "Riddhi",
+    "Siddhi"
+  ],
+  "district": "Ujjain",
+  "festivals": [
+    "Ganesh Chaturthi",
+    "Sankashti Chaturthi (monthly)",
+    "Chaitra Wednesday Jatra",
+    "Makar Sankranti",
+    "Rakshabandhan"
+  ],
+  "history": {
+    "dynasty": "Paramara (11th-12th c.); later upkeep by Maratha/Holkar patrons",
+    "period": "11th-12th century CE",
+    "summary": "Ancient stone temple on the banks of the Kshipra, about 6 km from the Mahakaleshwar Temple and 7 km from Ujjain railway station on the Fatehabad road. The swayambhu (self-manifested) Ganesha idol is flanked by Riddhi and Siddhi; one account describes the deity in three forms - Chintaman (remover of worries), Ichhaman (fulfiller of desires) and Siddhivinayak (giver of riddhi-siddhi). The assembly hall's finely carved stone pillars reflect the Paramara period; the shrine complex also has idols of Shiva, Parvati, Vishnu and Saraswati. Later rulers including Ahilyabai Holkar contributed to upkeep. This is a separate ancient temple, distinct from Bade Ganeshji Ka Mandir (seq 563) near Mahakaleshwar. The CSV gives no address beyond Ujjain, MP (no town/state error); coordinates are approximate - the geocoder did not return the temple as a distinct POI (verify on the ground)."
+  },
+  "id": "chintaman-ganesh-temple-ujjain-madhya-pradesh",
+  "latitude": 23.20154,
+  "longitude": 75.77688,
+  "media": [
+    "https://blog.yatradham.org/wp-content/uploads/2023/12/Chintamani-Ganesha-Temple-Ujjain-884x1024.jpg"
+  ],
+  "name": "Chintaman Ganesh Temple",
+  "sources": [
+    "https://www.bharattemples.com/chintaman-ganesh-temple-ujjain-madhya-pradesh/",
+    "https://www.goldentriangletour.com/en/tourist-attractions/india/madhya-pradesh/ujjain/shri-chintaman-ganesh-temple-ujjain.html",
+    "https://tirthtrails.com/chintaman-ganesh-temple-ujjain-history-darshan-timings-travel-guide/",
+    "https://www.templetravel.info/2013/01/chintaman-ganesh-temple-in-ujjain.html"
+  ],
+  "state": "Madhya Pradesh",
+  "town": "Ujjain",
+  "town_description": "Ancient city on the Shipra (Kshipra) River in Madhya Pradesh, one of Hinduism's seven Sapta Puri, home to the Mahakaleshwar Jyotirlinga and the Simhastha Kumbh Mela held every 12 years.",
+  "tradition": "Ganapatya",
+  "travel": {
+    "airport": "Devi Ahilya Bai Holkar Airport, Indore (~55 km)",
+    "railway": "Ujjain Junction, connected to all major stations of India",
+    "road": "Well connected by road; regular buses from Indore, Bhopal and other MP cities"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October-March",
+    "opening_hours": "Sources conflict: 5:00 AM-9:00 PM vs 8:00 AM-8:00 PM (verify)"
+  }
+}

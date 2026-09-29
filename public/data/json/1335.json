@@ -1,0 +1,50 @@
+{
+  "alternate_names": [
+    "Umga Surya Mandir",
+    "Umangeswari Mandir"
+  ],
+  "deities": [
+    "Surya"
+  ],
+  "district": "Aurangabad",
+  "festivals": [
+    "Chhath Puja"
+  ],
+  "history": {
+    "dynasty": "Uncertain; historians estimate mid-7th century CE, attributed to Raja Bhairavendra of Umga",
+    "period": "7th century CE (attributed, unverified)",
+    "summary": "CSV town corrected: the Umga Sun Temple is NOT in Deo. It stands on the Umga hills near Madanpur in Aurangabad district, Bihar; the famous Deo Sun Temple is a separate shrine ~25 km away. The partially dilapidated temple is built of square granite blocks with a mix of Nagara and Dravidian features, and houses the Sun god along with Ganesha and Shiva images. Per religious belief it is the second most important Chhath Puja Sun shrine in Bihar after Deo. Historians place its construction in the mid-7th century CE under Raja Bhairavendra, though this is weakly sourced; lightuptemples calls it 1000 years old (verify). Managed by the Archaeological Survey of India (verify)."
+  },
+  "id": "umga-sun-temple",
+  "latitude": 24.648297,
+  "longitude": 84.56815,
+  "media": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Umgeswari_Umga_Mandir%2C_Bihar.jpg/330px-Umgeswari_Umga_Mandir%2C_Bihar.jpg"
+  ],
+  "name": "Umga Sun Temple",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Umga_Sun_Temple",
+    "https://tourism.bihar.gov.in/en/destinations/aurangabad/umga-temple",
+    "https://lightuptemples.com/umga-sun-temple-bihar/",
+    "https://templesofindia.org/temple-view/umga-sun-temple-bihar-aurangabad-bihar-480lmf",
+    "https://www.instagram.com/explore/locations/1518641804918603"
+  ],
+  "state": "Bihar",
+  "town": "Madanpur",
+  "town_description": "Madanpur is a small town in Aurangabad district of Bihar, on the route between Aurangabad and Deo. It sits at the foot of the Umga hills, a minor tourist and religious spot promoted by Bihar tourism. The town is a rural market centre serving surrounding villages.",
+  "tradition": "Hinduism (Surya worship)",
+  "travel": {
+    "airport": "Gaya International Airport, ~100 km (verify); Patna airport, ~170 km (verify)",
+    "railway": "Anugraha Narayan Road (Rafiganj) station, ~25-30 km (verify)",
+    "road": "On the Deo-Madanpur road (Bihar), reachable by road from Aurangabad (~25-30 km) and Deo (~25 km); a motorable road goes up the Umga hill (verify)"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March; Kartik Chhath (October-November) draws the largest crowds",
+    "opening_hours": "5:00 AM - 8:00 PM daily (verify)"
+  }
+}

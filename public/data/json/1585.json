@@ -1,0 +1,52 @@
+{
+  "alternate_names": [
+    "Panchbakhtar Temple"
+  ],
+  "deities": [
+    "Shiva (five-faced Panchvaktra form)",
+    "Parvati"
+  ],
+  "district": "Mandi",
+  "festivals": [
+    "Maha Shivratri",
+    "Mandi Shivratri fair"
+  ],
+  "history": {
+    "dynasty": "Mandi princely state (restored under Raja Sidh Sen, 1684-1727)",
+    "period": "Foundation date unknown; restored 1684-1727",
+    "summary": "Situated at the confluence of the Beas and Suketi rivers, the Panchvaktra Temple enshrines a huge five-faced image of Shiva - Aghora, Ishana, Tat Purusha, Vamadeva and Rudra, 'Panchvaktra' being their union. Its foundation date is unknown; historical accounts record it was restored under Raja Sidh Sen of Mandi (reigned 1684-1727) after flood damage. Built in the shikhara style with its porch supported by four finely carved pillars, it is an ASI-protected monument that famously withstood the July 2023 Beas flash floods which destroyed modern structures around it. NOTE: one travel site claims an 8th-century founding by Raja Sahil Varman - UNVERIFIED and inconsistent with the foundation-unknown consensus; treat with caution. Opening hours CONFLICT across sources (verify)."
+  },
+  "id": "panchvaktra-temple-mandi",
+  "latitude": 31.71151,
+  "longitude": 76.93445,
+  "media": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Panchvaktra_Temple%2C_Mandi_%28FRONT_VIEW%29_01.jpg/1920px-Panchvaktra_Temple%2C_Mandi_%28FRONT_VIEW%29_01.jpg"
+  ],
+  "name": "Panchvaktra Temple",
+  "sources": [
+    "https://www.tourmyindia.com/states/himachal/panchvaktra-temple-mandi.html",
+    "https://lightuptemples.com/Mandi-Panchvaktra-Temple-Himachal-Pradesh/",
+    "https://www.trawell.in/himachal/mandi/panchbakhtar-temple-panchvaktra-temple",
+    "https://www.triphippies.com/panchvaktra-temple/",
+    "https://english.telugustop.com/mandis-panchvaktra-temple-withstands-worst-natural-calamity-latest-eng-news-11760787",
+    "https://www.justdial.com/Mandi/Panchvaktra-Temple-Mandi-Ho/9999P1905-1905-141213153423-W6W3_BZDET"
+  ],
+  "state": "Himachal Pradesh",
+  "town": "Mandi",
+  "town_description": "Mandi, on the banks of the Beas river at its confluence with the Suketi, is an old Himalayan market town known as 'Chhoti Kashi' for its 81 temples. Once the capital of the Mandi princely state, it is the commercial and cultural hub of central Himachal Pradesh and hosts the famous week-long Mandi Shivratri fair. The town lies on the Chandigarh-Manali highway, about 145 km from Chandigarh.",
+  "tradition": "Hinduism (Shaivism)",
+  "travel": {
+    "airport": "Bhuntar (Kullu-Manali) Airport, ~60 km (verify)",
+    "railway": "Joginder Nagar, ~55 km (verify)",
+    "road": "~1 km from Mandi Bus Station; Mandi is on the Chandigarh-Manali highway (verify)"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "March-June and October-November; avoid monsoon - the temple can be submerged by the Beas during floods",
+    "opening_hours": "CONFLICT (verify): 6:00 AM-6:00 PM (trawell.in); 6:00 AM-12:00 PM & 4:00-8:00 PM (triphippies.com); 5:30 AM-8:30 PM (meta.ai listing)"
+  }
+}

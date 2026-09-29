@@ -1,0 +1,57 @@
+{
+  "alternate_names": [
+    "Ram Tekri Ram-Janaki Mandir",
+    "Ramtekri Temple, Ratanpur"
+  ],
+  "deities": [
+    "Lord Rama",
+    "Goddess Sita",
+    "Lord Hanuman",
+    "Lord Vishnu",
+    "Kaal Bhairav"
+  ],
+  "district": "Bilaspur",
+  "festivals": [
+    "Ram Navami",
+    "Navratri",
+    "Diwali"
+  ],
+  "history": {
+    "dynasty": "Marathas (Bhonsle) - builder named as Shivaji Rao Bhonsle (17th c.) per one source; legend names Bimbaji Rao Bhonsle (15th c.) - CONFLICT (verify)",
+    "period": "Maratha period; 17th century per velpu, 15th century per ecoheritage legend - CONFLICT",
+    "summary": "A Ram-Janaki temple atop the Ram Tekri hill, ~3 km from Ratanpur town, named after the hill itself. It houses magnificent granite statues of Lord Ram, Sita and Lord Hanuman, plus idols of Vishnu and Kaal Bhairav; a steep but motorable road leads to the hilltop, which also offers a panoramic view of the whole Ratanpur township, with the Vridheshwar Nath Mandir and Girijabandh Hanuman Mandir nearby. Built by Maratha king Shivaji Rao Bhonsle (17th century per velpu). CONFLICT (verify): ecoheritage records a legend that 15th-century Bimbaji Rao Bhonsle commissioned three idols, but Lord Ram appeared in his dream instructing him to install three sunken statues from Bikma Talab instead - the statues miraculously appeared at his door the next day, and he consecrated the divine trio inside. The temple has historical and archaeological value and draws large crowds on auspicious occasions. Coordinates from a place-listing (approximate; hilltop location)."
+  },
+  "id": "ram-tekri-mandir-ratanpur",
+  "latitude": 22.28693,
+  "longitude": 82.172783,
+  "media": [
+    "https://thebetterchhattisgarh.com/wp-content/uploads/2025/07/a5bb7fe363db5c7c3e97f7a49abb019a_1000x1000-1-e1752832414625.jpg"
+  ],
+  "name": "Ram Tekri Mandir",
+  "sources": [
+    "https://ecoheritage.cpreec.org/ram-tekri/",
+    "https://velpu.com/temple/RAM-TEKRI-TEMPLE/MTg5Mg==&map=yes",
+    "https://www.top-rated.online/cities/Ratanpur/place/p/2153873/Ram+Tekri+Mandir",
+    "https://www.justdial.com/Bilaspur-Chhattisgarh/Ram-Tekri-Temple-Ratanpur/9999P7752-7752-171206105105-A8N4_BZDET",
+    "https://en.wikipedia.org/wiki/Ratanpur,_Chhattisgarh",
+    "https://thebetterchhattisgarh.com/ramtekri-temple-ratanpur-bilaspur/"
+  ],
+  "state": "Chhattisgarh",
+  "town": "Ratanpur",
+  "town_description": "Ratanpur is an ancient town about 25 km from Bilaspur in the Bilaspur district, once the capital of the Kalachuri kings of Ratnapura. It is a major religious centre of Chhattisgarh, anchored by the Mahamaya Siddh Shaktipeeth and dotted with historic temples such as Ram Tekri, Budha Mahadev and old tanks. The town draws large pilgrim crowds, especially during Navratri.",
+  "tradition": "Hinduism (Vaishnavism)",
+  "travel": {
+    "airport": "Bilaspur Airport (~25 km, limited flights; verify)",
+    "railway": "Bilaspur Junction (~25 km)",
+    "road": "Hilltop ~3 km from Ratanpur town, reached by a steep motorable road"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March",
+    "opening_hours": "8:00 AM - 8:00 PM daily (Justdial, velpu and travel listings agree)"
+  }
+}

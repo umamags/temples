@@ -1,0 +1,48 @@
+{
+  "alternate_names": [
+    "Keezhkkaavu Temple",
+    "Keezukavu Bhagavathy Temple",
+    "Kizhakkavu Bhadrakali Temple"
+  ],
+  "deities": [
+    "Bhadrakali (Bhadra Kali, fierce form of the Goddess)"
+  ],
+  "district": "Ernakulam",
+  "festivals": [
+    "Valiya Guruthi (every evening, ~8:45 PM)",
+    "Makam Thozhal (as part of the Chottanikkara complex)"
+  ],
+  "history": {
+    "dynasty": "Unknown (part of the Chottanikkara complex; no independent founder recorded)",
+    "period": "UNVERIFIED - no independent sources found for this shrine's age",
+    "summary": "RELATED TO seq 1768 (Chottanikkara Bhagavathy Temple), NOT a duplicate: this CSV row refers to the Kizhukkavu (Keezhkkaavu/Kizhakkavu) shrine, the lower-level temple within the Chottanikkara complex dedicated to Bhadrakali in her fierce form. Legend says Vilwamangalam Swamiyar found the Kali idol in the pond (Rakthakulam) and consecrated it here; the shrine is where the Guruthi ritual (formerly involving sacrifice, now red-coloured water) is performed each evening at ~8:45 PM, believed to exorcise evil spirits and heal mental disorders. Coordinates, hours and access are those of the parent complex."
+  },
+  "id": "kizhukkavu-bhagavathy-temple",
+  "latitude": 9.93313,
+  "longitude": 76.39051,
+  "media": [],
+  "name": "Kizhukkavu Bhagavathy Temple",
+  "sources": [
+    "https://www.hearitage.in/2022/01/chottanikkara-temple-temple-of-goddess.html",
+    "https://chottanikkarabhagavathy.org/bhajanam.php",
+    "https://www.tripadvisor.ca/ShowUserReviews-g19872779-d3171204-r264982748-Chottanikkara_Bhagavathy_Temple-Chottanikkara_Ernakulam_District_Kerala.html"
+  ],
+  "state": "Kerala",
+  "town": "Chottanikkara",
+  "town_description": "Chottanikkara is a town in Ernakulam district, about 17 km south of Kochi city, on the edge of the Kochi urban sprawl. It is one of Kerala's most visited pilgrim centres, drawing devotees year-round for the Bhagavathy temple and its healing rituals. The town sits in gently hilly terrain surrounded by fields and suburban development.",
+  "tradition": "Hinduism (Shaktism)",
+  "travel": {
+    "airport": "Cochin International Airport, about 30 km by road (verify)",
+    "railway": "Ernakulam Junction/Tripunithura (verify), temple is 17 km from Ernakulam",
+    "road": "17 km south of Ernakulam/Kochi; the Kizhukkavu shrine is the lower temple of the Chottanikkara complex"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "Evenings, to witness the Valiya Guruthi ritual",
+    "opening_hours": "Guruthi Nivedyam 7:30 AM; Valia Guruthi ~8:45 PM (verify). Complex hours 4:00 AM-12:00 PM, 4:00-8:30 PM per sources (CONFLICT on evening close; verify)."
+  }
+}

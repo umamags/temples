@@ -1,0 +1,40 @@
+{
+  "alternate_names": [],
+  "deities": [],
+  "district": "Barnala",
+  "festivals": [
+    "Gurpurabs (verify)",
+    "Baisakhi (verify)"
+  ],
+  "history": {
+    "dynasty": "Unknown",
+    "period": "Unknown (UNVERIFIED)",
+    "summary": "THIS IS A SIKH GURDWARA, NOT A HINDU TEMPLE — keep-or-drop decision needed. IDENTITY UNVERIFIED: no web sources were found for a 'Gurdwara Singhwala Sahib'; the record appears to refer to a gurdwara in or near Singhwala village (Amla Singhwala area), Barnala sub-district. The village itself exists (geocode places Singhwala at approx 30.41436, 75.58677), but the gurdwara's history, founding date and exact location could not be corroborated. As a Sikh gurdwara it venerates the Guru Granth Sahib; there are no deity idols. Coordinates are the village location and are approximate — verify on the ground."
+  },
+  "id": "gurdwara-singhwala-sahib-barnala",
+  "latitude": 30.41436,
+  "longitude": 75.58677,
+  "media": [],
+  "name": "Gurdwara Singhwala Sahib",
+  "sources": [
+    "https://barnala.gov.in/tourism/"
+  ],
+  "state": "Punjab",
+  "town": "Singhwala",
+  "town_description": "Barnala is a centrally located city in the Malwa region of Punjab and the headquarters of Barnala district, formed in 2006. It has a history said to reach back before the 18th century, with older quarters like Quilla Mahal still showing traces of the past. The city and district are known for their handloom and textile industry, and for several historic gurdwaras in and around the town.",
+  "tradition": "Sikhism",
+  "travel": {
+    "airport": "Nearest domestic airports at Ludhiana / Bathinda / Chandigarh (verify)",
+    "railway": "Barnala Junction (verify)",
+    "road": "Village Singhwala, Barnala sub-district; approach by road from Barnala town (verify)"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March",
+    "opening_hours": "Typical gurdwara hours, e.g. 4:00 AM to 8:00 PM (verify)"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "alternate_names": [],
+  "deities": [
+    "Goddess Danteshwari (Durga)"
+  ],
+  "district": "Balod (directory listing places it in Durg; verify)",
+  "festivals": [
+    "Navratri",
+    "Dussehra"
+  ],
+  "history": {
+    "dynasty": "Unknown",
+    "period": "Unknown; no published history found",
+    "summary": "UNCERTAIN IDENTITY — web-footprint flag. The only documented 'Danteshwari Temple' matching the CSV's Durg location is a directory listing for 'Shri Danteshwari Temple, Amadula, Durg, Chhattisgarh 491228' (indiainfo.net; geocoder places Amadula in Dondi block, Balod district, adjacent to Durg). No history, timings, or images for this specific temple are published online. THIS IS NOT the famous Danteshwari Shakti Peetha at Dantewada (one of the 52 Shakti Peethas, 14th century, Kakatiya/Chalukya), which is CSV row 1386; rows 197 (Rajnandgaon) and 199 (Jagdalpur) are handled by another worker and may refer to other local Danteshwari shrines. Coordinates below are town-level for Amadula, an approximation, and festivals/hours are generic assumptions to be verified on the ground. Reviewer should confirm this row's intended referent before use."
+  },
+  "id": "danteshwari-temple-amadula-durg",
+  "latitude": 20.47337,
+  "longitude": 81.25039,
+  "media": [],
+  "name": "Shri Danteshwari Temple",
+  "sources": [
+    "https://www.indiainfo.net/place/shri-danteshwari-temple-466376",
+    "https://en.wikipedia.org/wiki/Danteshwari_Temple"
+  ],
+  "state": "Chhattisgarh",
+  "town": "Amadula",
+  "town_description": "Amadula is a village in the Durg/Balod region of western Chhattisgarh (PIN 491228, near Dalli Rajhara), in a mining and agricultural belt. Little is documented about the village itself.",
+  "tradition": "Shaktism (Hinduism)",
+  "travel": {
+    "airport": "Swami Vivekananda Airport, Raipur (~70-90 km, approximate)",
+    "railway": "Durg Junction is the major railhead for the region (distance from Amadula unverified)",
+    "road": "Amadula lies near Dalli Rajhara in the Durg-Balod area; reachable by road from Durg town (exact distance unverified)"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March (winter season; generic for the region)",
+    "opening_hours": "Not published for this temple; typical village temples open around sunrise to sunset. Verify locally."
+  }
+}

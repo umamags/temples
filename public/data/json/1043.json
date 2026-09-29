@@ -1,0 +1,47 @@
+{
+  "alternate_names": [
+    "Subrai Khung"
+  ],
+  "deities": [
+    "Shiva"
+  ],
+  "district": "Unakoti",
+  "festivals": [
+    "Asokastami (March-April)"
+  ],
+  "history": {
+    "dynasty": "",
+    "period": "c. 7th-9th century CE",
+    "summary": "CSV DUPLICATE — this row duplicates seq 1038 (Unakoti, near Kailashahar); see data/json/1038.json (on the Mac output folder) as the canonical record. No site named Unakoti exists at Ambassa — Unakoti is the famous rock-cut Shaivite sculpture site ~8 km from Kailashahar in Unakoti district, ~178 km from Agartala and far from Ambassa (Dhalai district); the CSV town 'Ambassa' is wrong and has been corrected. Bas-relief rock carvings ascribed on stylistic grounds to 7th-9th century CE (pre-Manikya period; one account credits patronage by the Deva dynasty of Sribhumi in Samatata — verify). 'Unakoti' means 'one less than a crore': legend says Shiva, travelling to Kashi with a crore gods and goddesses, rested here overnight and cursed the sleepers into stone at sunrise. Features giant Shiva faces, Ganesha, Durga, Vishnu and Nandi carvings plus waterfalls and kundas; ASI-protected and on the UNESCO World Heritage tentative list since 2022; the Asokastami festival is held here."
+  },
+  "id": "unakoti-temple-ambassa-row",
+  "latitude": 24.317,
+  "longitude": 92.067,
+  "media": [
+    "https://surahonne.com/wp-content/uploads/2023/05/Unakoti-Hill.jpg"
+  ],
+  "name": "Unakoti Temple [CSV duplicate of seq 1038]",
+  "sources": [
+    "http://en.wikipedia.org/wiki/Unakoti",
+    "https://www.travelandleisureasia.com/in/destinations/india/why-unakoti-should-be-your-next-offbeat-getaway-in-northeast-india/",
+    "https://www.latestly.com/agency-news/india-news-unakoti-the-ancient-shaiba-wonder-of-tripura-awaits-global-spotlight-6889773.html"
+  ],
+  "state": "Tripura",
+  "town": "Kailashahar",
+  "town_description": "Kailashahar is the headquarters town of Unakoti district in northern Tripura, about 178 km from Agartala; the Unakoti rock-cut site lies ~8 km away in forested hills.",
+  "tradition": "Shaivism (rock-cut pilgrimage site)",
+  "travel": {
+    "airport": "Maharaja Bir Bikram Airport, Agartala (~178 km)",
+    "railway": "Kumarghat railway station (~30 km)",
+    "road": "~8 km from Kailashahar; ~178 km from Agartala by road"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October-March; Asokastami (Mar/Apr) is the main festival",
+    "opening_hours": "Daylight hours; usually no entry fee (verify locally)"
+  }
+}

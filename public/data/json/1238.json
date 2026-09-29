@@ -1,0 +1,60 @@
+{
+ "alternate_names": [
+  "Alamelumangapuram Temple",
+  "Alamelu Mangai Temple"
+ ],
+ "deities": [
+  "Sri Padmavathi Ammavari (Alamelu Mangamma)",
+  "Sri Sundararaja Swamy (Varadaraja Swamy)",
+  "Sridevi and Bhudevi",
+  "Sri Krishna Swamy",
+  "Sri Suryanarayana Swamy",
+  "Sri Andal",
+  "Azhwars"
+ ],
+ "district": "Tirupati",
+ "festivals": [
+  "Karthika Brahmotsavam (Nov-Dec; 9-day annual festival with Dhwajarohanam, Vahana Sevas, ending with Pushpayagam and Panchami Theertham)",
+  "Panchami Theertham (Chakra Snanam in Padmasarovaram on the last day of Brahmotsavam)",
+  "Teppotsavam (Float Festival)",
+  "Vasanthotsavam (Spring Festival)",
+  "Navaratri",
+  "Varalakshmi Vratam"
+ ],
+ "history": {
+  "dynasty": "Pallava, Chola and Yadavaraya patronage; Vijayanagara influence; present administration by TTD",
+  "period": "Ancient (inscribed Tamil, Telugu and Sanskrit records; sub-shrines dated 13th-16th century)",
+  "summary": "Sri Padmavathi Ammavari Temple at Tiruchanur (also called Alamelumangapuram) is the consort shrine of Lord Venkateswara of Tirumala, about 5 km from Tirupati town, and is administered by the Tirumala Tirupati Devasthanams (TTD). Tradition holds that Goddess Lakshmi appeared as Alamelu to King Akasha Raja and Queen Dharani Devi, manifested herself in the holy Padmasarovaram tank in a golden lotus on Karthika Shukla Panchami, and married Srinivasa at Narayanavanam; the event is described in the Padma Purana and the Venkatachala Mahatyam. Tiruchanur was an ancient Shrivaishnava settlement with inscriptions in Tamil, Telugu and Sanskrit, and came under Pallava, Chola and Yadavaraya patronage; the Krishna Swamy sub-temple inside the complex is dated 1221 CE and the Sundararaja Swamy temple to the 16th century, with the main shrine showing Vijayanagara, Pallava and Chola architectural influence. Worship follows the Pancharatra Agama and Vadakalai traditions, and a visit to Tirumala is considered incomplete without first seeking the blessings of Padmavathi here. NOTE: this CSV row (1238) duplicates seq 18 ('Sri Padmavathi Ammavari Temple', id sri-padmavathi-ammavari-temple-tirupati) - the same temple; dedup decision needed."
+ },
+ "id": "sri-padmavathi-ammavari-temple-tiruchanur",
+ "latitude": 13.60742,
+ "longitude": 79.45059,
+ "media": [
+  "https://tirupatitirumalainfo.com/wp-content/uploads/2016/09/padmavathi-Temple.jpeg"
+ ],
+ "name": "Sri Padmavathi Ammavari Temple, Tiruchanur",
+ "sources": [
+  "https://en.wikipedia.org/wiki/Padmavati_Temple",
+  "https://lightuptemples.com/tiruchanur-padmavathi-temple-andhra-pradesh/",
+  "https://www.tirumala.org",
+  "https://www.joingo.co/information/Place/PadmavathiTempleTiruchanurAndhraPradheshkbM"
+ ],
+ "state": "Andhra Pradesh",
+ "town": "Tiruchanur",
+ "town_description": "Tiruchanur, also called Alamelumangapuram, is a temple town about 5 km south of Tirupati in Andhra Pradesh, centred on the Padmavathi temple and its sacred tank Padmasarovaram. It forms the essential second half of the Tirupati pilgrimage circuit - pilgrims traditionally visit Tiruchanur before climbing to Tirumala. The town bustles with shops selling pooja articles, flowers and the famous Tiruchanur laddu during the Karthika Brahmotsavam season.",
+ "tradition": "Vaishnavism",
+ "travel": {
+  "airport": "Tirupati International Airport (approx. 15 km; taxis and app cabs available).",
+  "railway": "Tirupati Railway Station (approx. 5 km), well connected across South India.",
+  "road": "Tiruchanur is about 5 km from Tirupati bus stand; frequent APSRTC buses, auto-rickshaws and taxis run between Tirupati and Tiruchanur."
+ },
+ "video": {
+  "audio": "",
+  "script": "",
+  "video_file": ""
+ },
+ "visitor_information": {
+  "best_time": "November to February for pleasant weather; November-December is the Karthika Brahmotsavam season when the temple is most vibrant but crowded. Fridays are considered especially auspicious.",
+  "opening_hours": "Typically 4:50 AM to 9:30 PM; on Fridays the temple opens at 3:30 AM. Day begins with Suprabhatam, Kalyanotsavam daily 10:30 AM-12 noon, Ekanta Seva at 9:30 PM. Verify before travel."
+ }
+}

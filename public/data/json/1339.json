@@ -1,0 +1,51 @@
+{
+  "alternate_names": [
+    "Mahakala Caves",
+    "Pragbodhi Caves"
+  ],
+  "deities": [
+    "Buddha (emaciated Bodhisattva statue)",
+    "Dungeshwari (goddess)"
+  ],
+  "district": "Gaya",
+  "festivals": [
+    "Buddha Purnima"
+  ],
+  "history": {
+    "dynasty": "Caves associated with the pre-enlightenment period (6th-5th c BCE tradition); recorded by Faxian and Xuanzang; cave deity images dated 9th-10th c CE",
+    "period": "6th-5th century BCE (traditional); existing images 9th-10th century CE",
+    "summary": "THIS IS A BUDDHIST SITE (with a Hindu shrine), NOT A HINDU TEMPLE - keep-or-drop decision needed. The Dungeshwari Cave Temples, on Pragbodhi (Dungeshwari) hill east of the Phalgu/Niranjana river, are the caves where tradition holds Siddhartha Gautama practised severe austerities for about six years before renouncing extreme asceticism for the Middle Path and proceeding to Bodh Gaya. Identified with the Pragbodhi of the Chinese travellers Faxian and Xuanzang, who reported stupas and a monastery here built by Ashoka. The narrow cave (about 5 m x 3.5 m) holds a golden emaciated Bodhisattva image and, per archaeological survey, 9th-10th-century black-basalt images of female deities; a Hindu shrine to goddess Dungeshwari gives the hill its name. Modern Buddhist shrines and a white stupa stand on the summit. CSV town corrected: the site lies in Manpur block, Gaya district, ~12 km northeast of Bodh Gaya; it is visited from Bodh Gaya."
+  },
+  "id": "dungeshwari-cave-temples",
+  "latitude": 24.73668,
+  "longitude": 85.04758,
+  "media": [
+    "https://temple.yatradham.org/public/Product/temple/temple_TUnd6gov_202507041356480.jpg"
+  ],
+  "name": "Dungeshwari Cave Temples",
+  "sources": [
+    "https://travelsetu.com/guide/dungeshwari-hills-pragbodhi-tourism",
+    "https://airial.travel/attractions/india/dungeshwari-cave-temples-egulXGts",
+    "https://www.researchgate.net/publication/399481453_Archaeology_at_Pragbodhi_Mountain_Dungeshwari_Hill",
+    "https://showcaves.com/english/in/subterranea/Dungeshwari.html",
+    "https://www.gktoday.in/question/dungeshwari-caves-are-located-at-which-place-in-bi"
+  ],
+  "state": "Bihar",
+  "town": "Manpur",
+  "town_description": "Manpur is a block town in Gaya district of Bihar on the banks of the Phalgu river, about 4 km northeast of Gaya city. It is known locally for its handloom and railway tie production. Pilgrims pass through Manpur to reach the Dungeshwari (Pragbodhi) hills and Bodh Gaya nearby.",
+  "tradition": "Buddhism (with Hindu shrine)",
+  "travel": {
+    "airport": "Gaya International Airport, ~15-18 km (verify)",
+    "railway": "Gaya Junction, ~12-14 km (verify)",
+    "road": "~12 km northeast of Bodh Gaya; reached by taxi/auto-rickshaw then a hike of about 424 stone steps to the caves (verify)"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March; visit in daylight hours, carry water (limited facilities, beware of monkeys)",
+    "opening_hours": "6:00 AM - 5:30 PM daily (verify); no entry fee"
+  }
+}

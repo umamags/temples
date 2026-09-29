@@ -1,0 +1,49 @@
+{
+  "alternate_names": [
+    "Parasuram Kund",
+    "Parshuram Kund",
+    "Brahmakund"
+  ],
+  "deities": [
+    "Sage Parshuram (tirtha of his penance); the site is a sacred bathing kund on the Lohit river rather than a conventional temple shrine"
+  ],
+  "district": "Lohit",
+  "festivals": [
+    "Parshuram Kund Mela on Makar Sankranti (mid-January), when thousands of pilgrims take a holy dip in the kund"
+  ],
+  "history": {
+    "dynasty": "",
+    "period": "Mythological origin; modern mela facilities developed in recent decades",
+    "summary": "CSV DUPLICATE FLAG: 62 (Parasuram Kund, Tezu) DUPLICATE ROW: this is the SAME site as file 62 ('Parasuram Kund', CSV town Tezu). TIRTHA, NOT A CONVENTIONAL TEMPLE: Parasuram Kund is a sacred bathing site (kund) on the lower Lohit river within the Kamlang Reserve Forest, Lohit district, rather than a built temple complex. Legend holds that sage Parshuram washed away the sin of matricide here at Brahmkund (the Lohit is the Brahmaputra's upper course), a story linked in sources to the Kalika Purana, Srimad Bhagavat and the Mahabharata. Each year on Makar Sankranti (14 January) thousands of pilgrims converge for the Parshuram Kund Mela to bathe in the icy waters. CSV CORRECTION: town 'Roing' and by extension Lower Dibang Valley are WRONG - the site is in Lohit district, about 21 km north-east of Tezu via Wakro (older sources); a recent travel guide puts Tezu to Parshuram Kund at ~46-50 km (1.5 hours) - DISTANCE DISCREPANCY (verify). Coordinates are approximate (geocoder matched near Wakro)."
+  },
+  "id": "parashuram-kund-roing-csv",
+  "latitude": 27.87672,
+  "longitude": 96.36056,
+  "media": [
+    "https://www.gktoday.in/wp-content/uploads/2020/12/2-17-600x333.jpg"
+  ],
+  "name": "Parashuram Kund",
+  "sources": [
+    "https://arunachaltourism.com/parasuram-kund/",
+    "https://www.webindia123.com/arunachal/tourism/places.htm",
+    "https://www.gktoday.in/hindi/%E0%A4%AA%E0%A4%B0%E0%A4%B6%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%AE-%E0%A4%95%E0%A5%81%E0%A4%82%E0%A4%A1-%E0%A4%85%E0%A4%B0%E0%A5%81%E0%A4%A3%E0%A4%BE%E0%A4%9A%E0%A4%B2-%E0%A4%AA%E0%A5%8D%E0%A4%B0/"
+  ],
+  "state": "Arunachal Pradesh",
+  "town": "Tezu",
+  "town_description": "Tezu is the headquarters of Lohit district in eastern Arunachal Pradesh, on the right bank of the Lohit river. It is the gateway town for Parshuram Kund and the Mishmi Hills region, with a small domestic airport (TEI) and road links to Tinsukia and Dibrugarh in Assam. (The CSV row's town 'Roing' is incorrect for this site - see history.summary.)",
+  "tradition": "Hinduism (tirtha - sacred bathing site, not a built temple)",
+  "travel": {
+    "airport": "Tezu Airport (TEI, limited scheduled flights); most visitors use Dibrugarh Airport, Assam, then drive via Tinsukia and Tezu.",
+    "railway": "Tinsukia Junction (Assam), about 150 km away, is the nearest major railhead; Dibrugarh is another option.",
+    "road": "About 21 km north-east of Tezu by older accounts, or ~46-50 km per a recent guide (discrepancy flagged); reached by road via Wakro."
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "November to January, peaking at the Makar Sankranti mela (mid-January); expect severe cold.",
+    "opening_hours": "Open site with no fixed temple hours; bathing ghats accessible through the day during the mela period (verify locally)."
+  }
+}

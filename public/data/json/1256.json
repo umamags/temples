@@ -1,0 +1,47 @@
+{
+  "alternate_names": [
+    "Shiv Mandir, Hospital Road"
+  ],
+  "deities": [
+    "Shiva"
+  ],
+  "district": "Itanagar Capital Complex",
+  "festivals": [
+    "Maha Shivratri"
+  ],
+  "history": {
+    "dynasty": "None (modern temple)",
+    "period": "Contemporary; founding date not documented in available sources",
+    "summary": "FLAG: DUPLICATE ROW: same temple as seq 52 (\"Shiv Mandir\", id shiv-mandir-naharlagun) — the Shiv Mandir on NH-52A near Kali Mandir, E-Sector, Naharlagun. One file per CSV row; keep-or-dedup decision needed.\n\nThe CSV name 'Shiv Mandir, Itanagar' is generic and matches several shrines in the capital area; this file maps to the well-documented Shiv Mandir on Hospital Road near Kali Mandir, E-Sector, Naharlagun (Itanagar Capital Complex), the best-documented Shiv Mandir in the Itanagar urban area. It is a modern neighbourhood Shiva temple; no published founding date, patron history or confirmed festival calendar was found in available sources (Maha Shivratri is the expected major festival). The exact map POI match is 'Shiv Mandir, Hospital Road, Naharlagun'. Opening hours below are per the Justdial listing and are unverified."
+  },
+  "id": "shiv-mandir-itanagar-duplicate",
+  "latitude": 27.10743,
+  "longitude": 93.69293,
+  "media": [
+    "https://images.jdmagicbox.com/v2/comp/itanagar/d2/9999px360.x360.180303230415.w9d2/catalogue/shiv-mandir-naharlagun-itanagar-temples-OcXDuVpJQy-250.jpg"
+  ],
+  "name": "Shiv Mandir, Itanagar",
+  "sources": [
+    "https://www.justdial.com/Itanagar/Shiv-Mandir-Near-Kali-Mandir-Naharlagun/9999PX360-X360-180303230415-W9D2_BZDET",
+    "https://www.justdial.com/Itanagar/Shiv-Mandir/9999PX360-X360-200926233523-R9Q5_BZDET",
+    "https://www.justdial.com/Itanagar/Temples/nct-10475644"
+  ],
+  "state": "Arunachal Pradesh",
+  "town": "Itanagar",
+  "town_description": "Itanagar is the capital of Arunachal Pradesh, set in the foothills of the Eastern Himalayas within the Itanagar Capital Complex. Its twin town Naharlagun, about 10 km north on NH-52A, is the region's commercial centre and railhead, and the two towns function as a single urban area together with Nirjuli; landmarks nearby include the Ita Fort ramparts and the Jawaharlal Nehru Museum.",
+  "tradition": "Shaivism",
+  "travel": {
+    "airport": "Donyi Polo Airport (Hollongi), about 14-15 km south of Itanagar",
+    "railway": "Naharlagun railway station (local)",
+    "road": "On NH-52A in Naharlagun, Itanagar Capital Complex"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to April",
+    "opening_hours": "6:00 am-9:00 pm daily (per Justdial listing; unverified)"
+  }
+}

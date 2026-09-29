@@ -1,0 +1,49 @@
+{
+  "alternate_names": [
+    "Bhagwan Valmiki Mandir",
+    "Valmiki Temple, Bithoor"
+  ],
+  "deities": [
+    "Valmiki",
+    "Sita",
+    "Hanuman"
+  ],
+  "district": "Kanpur Nagar",
+  "festivals": [
+    "Diwali"
+  ],
+  "history": {
+    "dynasty": "Maratha (Peshwa)",
+    "period": "19th century (present structure)",
+    "summary": "Mythologically dated to the Treta Yuga: the spot where Maharishi Valmiki composed the Ramayana and where Sita took refuge after her exile, giving birth to Luv and Kush here. The ashram complex houses temples of Valmiki, Sita Mata and Hanuman, plus the Sita Kund, Sita Rasoi and a Deep Malika Stambha. The present Valmiki Temple structure was built by Baji Rao Peshwa in the 19th century. NOTE: CSV town 'Kanpur' corrected to Bithoor (the ashram is at Bithoor, ~22 km from Kanpur Central, Kanpur Nagar district)."
+  },
+  "id": "valmiki-ashram-temple-bithoor",
+  "latitude": 26.597,
+  "longitude": 80.2709,
+  "media": [
+    "https://tripxl.com/blog/wp-content/uploads/2025/01/Valmiki-Ashram-Temple.jpg"
+  ],
+  "name": "Valmiki Ashram Temple",
+  "sources": [
+    "http://sahasa.in/2022/03/16/valmiki-ashram-bithoor-kanpur-district-uttar-pradesh/",
+    "https://www.justdial.com/Kanpur/Valmiki-Ashram-Mandhana/0512PX512-X512-220920201711-U6Q6_BZDET"
+  ],
+  "state": "Uttar Pradesh",
+  "town": "Bithoor",
+  "town_description": "Bithoor is a historic town on the banks of the Ganga, about 22 km from Kanpur. Known in mythology as Brahmavarta, it is tied to the Ramayana through the Valmiki Ashram, and to the 1857 freedom struggle as the base of Nana Sahib Peshwa and the childhood home of Rani Lakshmibai.",
+  "tradition": "Hindu",
+  "travel": {
+    "airport": "Kanpur Airport (limited flights); the nearest major airport is Chaudhary Charan Singh International Airport, Lucknow",
+    "railway": "Bithoor has a local halt; the nearest major station is Kanpur Central, ~22 km away",
+    "road": "Connected by road to Kanpur (~22 km) and Lucknow (~80 km)"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March",
+    "opening_hours": "Daylight hours (exact temple timings unverified — verify)"
+  }
+}

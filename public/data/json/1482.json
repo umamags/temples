@@ -1,0 +1,47 @@
+{
+  "alternate_names": [],
+  "deities": [
+    "Shiva (Bhavnath Mahadev)"
+  ],
+  "district": "Junagadh",
+  "festivals": [
+    "Maha Shivratri (Bhavnath fair, 5 days)",
+    "Girnar Lili Parikrama"
+  ],
+  "history": {
+    "dynasty": "Unknown",
+    "period": "Ancient (Puranic-era tradition); exact founding unknown",
+    "summary": "An ancient shrine at the foot of Mount Girnar whose origins lie in the Puranic era; the lingam is held to be svayambhu (self-manifested). Legend says that as Shiva and Parvati crossed the Girnar hills their divine garment fell at the Mrigi Kund, making it a holy Shaivite site; to this day Naga sadhus bathe in Mrigi Kund before joining the Maha Shivratri procession. The precise founding is unknown - the fair itself is of great antiquity. The five-day Bhavnath fair in the Magha month (February-March), culminating at midnight on Maha Shivratri with the Dashanami Naga sadhus, and the Girnar Lili Parikrama are the two main annual events. COORDINATE NOTE: place listings give conflicting coordinates around Bhavnath/Taleti; the value here is approximate (verify)."
+  },
+  "id": "bhavnath-mahadev-temple-junagadh",
+  "latitude": 21.527423,
+  "longitude": 70.501769,
+  "media": [
+    "https://temple.yatradham.org/public/Product/temple/temple_MCvV2KDA_202507021334570.webp"
+  ],
+  "name": "Bhavnath Mahadev Temple",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Bhavnath",
+    "https://www.trawell.in/gujarat/junagadh/bhavnath-mahadev-mandir",
+    "https://guidetour.in/bhavnath-mahadev-temple/",
+    "https://temple.yatradham.org/temple/bhavnath-mahadev-temple"
+  ],
+  "state": "Gujarat",
+  "town": "Junagadh",
+  "town_description": "Junagadh is a city at the foot of the Girnar hills in the Saurashtra region of Gujarat, once the capital of the former princely state of Junagadh. It is known for the Ashokan rock edicts (c. 250 BCE), the Uparkot fort and the Mahabat Maqbara, and is the gateway for pilgrims climbing Mount Girnar and visitors to Sasan Gir. The district headquarters is a major religious-tourism hub of western Gujarat.",
+  "tradition": "Hinduism (Shaivism)",
+  "travel": {
+    "airport": "Keshod Airport, ~40 km (verify)",
+    "railway": "Junagadh Junction, ~5 km",
+    "road": "Bhavnath locality at Girnar Taleti, ~5 km from Junagadh city centre; starting point of the Girnar climb"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March; Maha Shivratri (February-March) is the peak pilgrimage time",
+    "opening_hours": "6:30 AM - 7:00 PM (verify)"
+  }
+}

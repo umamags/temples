@@ -1,0 +1,45 @@
+{
+  "alternate_names": [
+    "Temple Cave at Kupunli"
+  ],
+  "deities": [
+    "Shiva (one source); goddess (another source) - deity conflict flagged, verify"
+  ],
+  "district": "Lower Dibang Valley",
+  "festivals": [],
+  "history": {
+    "dynasty": "",
+    "period": "Undated",
+    "summary": "The Kupunli Cave Temple is a cave shrine near Hunli in the Lower Dibang Valley, about 90 km from Roing; a roughly two-hour trek from Hunli town leads to it, and it is described as a sacred pilgrimage site for local tribes (roing.nic.in, traveltriangle.com). TOWN CORRECTION: the CSV lists Roing, but all sources place the temple near Hunli - town set to Hunli. DEITY CONFLICT: one travel source calls it a Shiva cave temple (praveenmusafir.com), another says trekkers 'get blessings from the goddess' (pickyourtrail.com) - the presiding deity is unresolved. Its age and history are undocumented. Coordinates are approximate (Hunli town-level)."
+  },
+  "id": "kupunli-cave-temple-hunli",
+  "latitude": 28.32283,
+  "longitude": 95.96569,
+  "media": [],
+  "name": "Kupunli Cave Temple",
+  "sources": [
+    "https://roing.nic.in/places-of-interest/",
+    "https://roing.nic.in/tourist-packages/",
+    "https://traveltriangle.com/blog/places-to-visit-in-roing/",
+    "https://praveenmusafir.com/arunachal-pradesh/dibang-valley/",
+    "https://pickyourtrail.com/blog/roing-in-arunachal-pradesh"
+  ],
+  "state": "Arunachal Pradesh",
+  "town": "Hunli",
+  "town_description": "Hunli is a scenic small town in the Lower Dibang Valley at about 5,000 feet, on the Roing-Anini road and a sub-divisional headquarters. It is the gateway to the Mayudia Pass and the Kupunli cave temple, and its hills and forests draw trekkers and nature lovers.",
+  "tradition": "Hindu",
+  "travel": {
+    "airport": "Tezu Airport (~120+ km via Roing, limited flights); Dibrugarh (Assam)",
+    "railway": "Tinsukia Junction (Assam), ~97 km from Roing",
+    "road": "Roing-Hunli road via Mayudia Pass, ~90 km from Roing; then ~2-hour trek from Hunli to the cave"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to April",
+    "opening_hours": "Open daily for worship (hours not documented - verify)"
+  }
+}

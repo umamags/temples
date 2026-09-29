@@ -1,0 +1,56 @@
+{
+  "alternate_names": [
+    "Arulmigu Swami Nellaiappar Temple",
+    "Sri Nellaiyappar and Kanthimathi Amman Temple",
+    "Tirunelveli Nellaiappar Temple"
+  ],
+  "deities": [
+    "Lord Shiva as Swami Nellaiappar (also called Venuvaneswarar)",
+    "Goddess Parvati as Kanthimathi Amman (Gandhimathi Amman)"
+  ],
+  "district": "Tirunelveli",
+  "festivals": [
+    "Aani Brahmotsavam (June-July, with the massive temple car procession; the 518th car festival ran in 2024)",
+    "Margazhi Tiruvathirai / Arudra Darshanam (Nataraja worshipped in the Tamra Sabha, the copper hall of dance - one of the Pancha Sabhas)",
+    "Thai Pusam Tirthavari, Masi Shivaratri, Panguni Uttiram, Aadi Pooram",
+    "Also listed on the temple's festival calendar: Aippasi Tirukalyanam, Kandha Shasti, Karthikai Tiruvananthal, Vasanthostavam"
+  ],
+  "history": {
+    "dynasty": "Early Pandyas (original complex); later additions by Medieval Cholas, Pallavas, Cheras and the Madurai Nayaks",
+    "period": "Sanctums and the musical-pillared Mani Mandapam built by Nindraseer Nedumaran (Koon Pandiyan), 7th century CE; the twin temples were linked by the Sangili (chain) Mandapam in 1647; inscriptions from 950 CE onward",
+    "summary": "The Nellaiappar Temple is the twin Shiva-Parvati temple of Tirunelveli town and one of Tamil Nadu's largest Shiva temples (14.5 acres). The town itself is named for it: Tiru-Nel-Veli, 'the sacred paddy fence' - legend says paddy collected for worship was protected from floods by a fence of grain, and Shiva as Nellaiappar is 'the protector of the paddy'. A Paadal Petra Sthalam sung by Sambandar (14th of the Pandya-region Tevara stalams), it centres on two originally separate shrines - Nellaiappar and Kanthimathi - joined in 1647 by Thiru Vadamalaiappa Pillaiyan's Sangili Mandapam. Its signature marvel is the Mani Mandapam's musical pillars: two giant pillars carved from single stones, each with 48 sub-pillars that sound the sapta swaras (seven notes) when tapped - the temple chronicle Thirukovil Varalaaru dates them to the 7th-century reign of Nindraseer Nedumaran. The temple also houses the Tamra Sabha (copper hall of dance, one of Nataraja's five Pancha Sabhas, with exquisite woodwork), the Somavara Mandapam (1000-pillared hall), the Vasantha Mandapam and a Nellai Govindan (Vishnu) shrine. Stone inscriptions include those of Veerapandiyan (~950 CE), Rajendra I and Kulothunga Chola I; Maravarman Sundara Pandyan's records call the Lord 'Woodayar' and Kulasekara Pandyan I is credited with the outer walls. The temple is administered by the HRCE Department of Tamil Nadu. (The CSV's town 'Tirunelveli' is correct - no correction needed.)"
+  },
+  "id": "nellaiappar-gandhimathi-temple-tirunelveli",
+  "latitude": 8.728444,
+  "longitude": 77.688722,
+  "media": [
+    "https://scrolldroll.com/wp-content/uploads/2021/09/Tirunelveli_Nellaiappar_Temple_1.jpg"
+  ],
+  "name": "Nellaiappar Temple",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Nellaiappar_Temple",
+    "http://www.templenet.com/Tamilnadu/nelltiru.html",
+    "http://templenet.com/Tamilnadu/s179.html",
+    "https://casualwalker.com/nellaiappar-temple-arulmigu-swami-nellaiyappar-gandhimathi-amman-temple-in-tirunelveli-famous-lord-shiva-temple-visit-travel-guide/",
+    "http://hvk.org/2004/0704/197.html",
+    "https://templeyatri.in/nellaiappar-temple-tirunelveli-festivals/"
+  ],
+  "state": "Tamil Nadu",
+  "town": "Tirunelveli",
+  "town_description": "Tirunelveli is a 2000-year-old city in southern Tamil Nadu on the Thamirabarani river, once a subsidiary capital of the Pandyas. Known for its reed mats, palm crafts and the world-famous Iruttukadai halwa, its defining landmark is the twin Nellaiappar-Kanthimathi temple complex in Tirunelveli Town, about 2 km from Tirunelveli Junction railway station.",
+  "tradition": "Shaivism",
+  "travel": {
+    "airport": "Tuticorin Airport is the nearest domestic airport (verify distance); Thiruvananthapuram International Airport is about 110 km per one source (verify).",
+    "railway": "Tirunelveli Junction (TEN), about 2 km from the temple; Tirunelveli Town is the older station nearby.",
+    "road": "162, E Car St, Tirunelveli Town 627006; well connected by road to Madurai (~150 km), Nagercoil and Kanyakumari."
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to February for pleasant weather. The Aani Brahmotsavam car festival (June-July) is the grandest time - expect very heavy crowds.",
+    "opening_hours": "Morning 6:00 AM to 12:00 PM and evening 4:00 PM to 8:00 PM (per casualwalker.com); one listing gives 5:00 AM to 9:00 PM - verify locally."
+  }
+}

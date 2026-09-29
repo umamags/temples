@@ -1,0 +1,59 @@
+{
+  "alternate_names": [
+    "Shri Geeta Birla Mandir",
+    "Bhagavad Gita Temple",
+    "Gita Mandir"
+  ],
+  "deities": [
+    "Krishna",
+    "Rama",
+    "Hanuman",
+    "Guru Nanak",
+    "Guru Gobind Singh",
+    "Guru Tegh Bahadur",
+    "Sant Ravi Das",
+    "Tulsidas"
+  ],
+  "district": "Kurukshetra",
+  "festivals": [
+    "Janmashtami",
+    "Gita Jayanti",
+    "Kurukshetra Festival (Gita Mahotsav)"
+  ],
+  "history": {
+    "dynasty": "Modern (Birla)",
+    "period": "20th century",
+    "summary": "A white-marble temple dedicated to Lord Krishna, built by industrialist Jugal Kishore Birla. Most sources date its construction to 1952 (CONFLICT (verify): some say 1950, Wikipedia's Birla Mandir table says 1955). It is one of the oldest modern temples in Kurukshetra and stands on Pehowa Road near Brahma Sarovar. The verses of the Bhagavad Gita are inscribed on the temple walls, and the garden holds a marble Krishna-Arjuna chariot with four horses depicting Krishna delivering the Gita's message. Idols of other revered figures - Guru Nanak, Guru Gobind Singh, Guru Tegh Bahadur, Hanuman, Ram, Sant Ravi Das, Tulsidas - with their teachings engraved nearby, make it an interfaith-style monument to spiritual unity. Entry is free."
+  },
+  "id": "birla-mandir",
+  "latitude": 29.96621,
+  "longitude": 76.83321,
+  "media": [
+    "https://www.tourmyindia.com/blog//wp-content/uploads/2026/06/Birla-Mandir-Kurukshetra-768x461.jpg"
+  ],
+  "name": "Birla Mandir (Geeta Mandir)",
+  "sources": [
+    "https://devdhamyatra.com/blog/shri-geeta-birla-mandir-kurukshetra-harayna",
+    "http://www.treebo.com/blog/birla-mandir/",
+    "https://en.wikipedia.org/wiki/Birla_Mandir",
+    "https://www.radha.name/news/india/kurukshetra-part-9"
+  ],
+  "state": "Haryana",
+  "town": "Thanesar",
+  "town_description": "Thanesar (ancient Sthanishvara) is the old temple town that grew around the Sthaneshwar Mahadev shrine; it was the capital of the Pushyabhuti dynasty under Emperor Harshavardhana in the early 7th century CE. Today it forms the core of the Kurukshetra urban agglomeration on the Grand Trunk Road in Haryana, anchoring the 48-kos Kurukshetra pilgrimage circuit with Brahma Sarovar, the Shaktipeeth, and the Mahabharata battlefield sites. The town draws pilgrims year-round and is busiest during Gita Jayanti, solar-eclipse fairs, and Maha Shivaratri.",
+  "tradition": "Hinduism (Vaishnavism)",
+  "travel": {
+    "airport": "IGI Airport Delhi (~174 km) (verify)",
+    "railway": "Kurukshetra Junction (~2.5-2.8 km)",
+    "road": "On Pehowa Road, Brahma Sarovar area, Thanesar; auto-rickshaws and taxis from anywhere in town"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October-March; Gita Jayanti (Nov-Dec) for the Kurukshetra Festival celebrations",
+    "opening_hours": "CONFLICT (verify): sources report 5:00 AM-10:00 PM vs 7:00 AM-12:00 PM and 3:00 PM-9:00 PM"
+  }
+}

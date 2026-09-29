@@ -1,0 +1,52 @@
+{
+  "alternate_names": [
+    "Agroha Dham Mandir"
+  ],
+  "deities": [
+    "Mahalakshmi",
+    "Saraswati",
+    "Maharaja Agrasen"
+  ],
+  "district": "Hisar",
+  "festivals": [
+    "Agroha Maha Kumbh (Sharad Purnima)",
+    "Agrasen Jayanti",
+    "Navratri",
+    "Diwali / Lakshmi Puja"
+  ],
+  "history": {
+    "dynasty": "Modern (Agroha Vikas Trust)",
+    "period": "1976-1984",
+    "summary": "Agroha is the legendary capital of Maharaja Agrasen, origin-place of the Agrawal/Aggarwal community; mound excavations date habitation to ~300 BC and the town sat on the ancient Taxila-Mathura trade route until captured by Ghori in 1194. In 1907-08 ascetic Brahmananda Brahmachari founded the Agrawal Darbar here (gaushala, Shiva temple, 18 sati shrines). The modern complex was decided at the 1976 All India Aggarwal Representatives convention; Agroha Vikas Trust was formed, land donated by Laxmi Narain Gupta, and the main temple completed in 1984. The main temple has three wings - central Mahalakshmi, western Saraswati, eastern Maharaja Agrasen. The Shakti Sarovar behind the complex was filled with water from 41 rivers of India in 1988. Town corrected: CSV says 'Hisar' but the temple is at Agroha village, ~20 km from Hisar city."
+  },
+  "id": "agroha-dham",
+  "latitude": 29.332074,
+  "longitude": 75.625253,
+  "media": [
+    "https://temple.yatradham.org/public/Product/temple/temple_wGznVTsi_202507141627210.webp"
+  ],
+  "name": "Agroha Dham Temple",
+  "sources": [
+    "https://hisar.gov.in/agroha-dham/",
+    "https://en.wikipedia.org/wiki/Agroha_Dham",
+    "https://www.bharattemples.com/agroha-dham-hisar-haryana/"
+  ],
+  "state": "Haryana",
+  "town": "Agroha",
+  "town_description": "Agroha is an ancient town ~20 km northwest of Hisar city in Haryana, remembered as the legendary capital of Maharaja Agrasen and the birthplace of the Agrawal trading community. Archaeological mounds near the modern town have yielded coins, pottery and structures dating back to around 300 BC. The adjoining modern temple complex, plus Maharaja Agrasen Medical College nearby, make it a significant pilgrimage and educational centre of the region.",
+  "tradition": "Hinduism (Shaktism / Vaishnavism, Agrawal community)",
+  "travel": {
+    "airport": "Hisar Airport (domestic) ~25 km (verify); Indira Gandhi International Airport, Delhi ~185 km (verify)",
+    "railway": "Hisar Junction ~20 km",
+    "road": "Agroha village on the Hisar-Fatehabad highway (NH-9) corridor, ~20 km NW of Hisar"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March; Sharad Purnima for the Agroha Maha Kumbh",
+    "opening_hours": "Daily 6:00 AM-8:30 PM (verify - some listings say 7:00 AM-8:30 PM with a 1:00-2:00 PM break; one says 6:30 AM-8:30 PM, conflicting)"
+  }
+}

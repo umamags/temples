@@ -1,0 +1,43 @@
+{
+  "alternate_names": [],
+  "deities": [],
+  "district": "Nagaon",
+  "festivals": [
+    "Naam Kirtan Festival"
+  ],
+  "history": {
+    "dynasty": "Unknown",
+    "period": "Unknown (described only as an old temple)",
+    "summary": "An old Hindu temple at New Gatanga on the New Gatanga Highway (NH-127/AT Road), Nagaon, best known locally for its Naam Kirtan festival. A distinct adjacent shrine, the Gatanga Shitala Mandir (dedicated to Shitala Devi, known for Shitala Devi Puja and the Shitala Mela), stands about 90 m away and should not be conflated with it. Presiding deity, builder and antiquity are undocumented in the sources found, so the identity is provisional and the sourcing is thin. Coordinates reflect the New Gatanga temple locality (geocoder matched the nearby Shitala Mandir on A T Road). Town corrected from CSV 'Nagaon' to 'Gatanga'."
+  },
+  "id": "gatanga-temple-nagaon",
+  "latitude": 26.43662,
+  "longitude": 92.87112,
+  "media": [
+    "https://d34vm3j4h7f97z.cloudfront.net/optimized/2X/2/2801d4d0e86f9bbf87dd3ac40b3f6193ad94eacb_2_676x500.jpeg"
+  ],
+  "name": "Gatanga Temple",
+  "sources": [
+    "https://www.tripadvisor.in/Attraction_Review-g25036300-d25024727-Reviews-Gatanga_Temple-New_Gatanga_Nagaon_District_Assam.html",
+    "https://www.tripadvisor.in/Attraction_Review-g25041432-d25035908-Reviews-Gatanga_Shitala_Mandir-New_Gatanga_Nagaon_District_Assam.html",
+    "https://www.localguidesconnect.com/t/gatanga-temple/385790"
+  ],
+  "state": "Assam",
+  "town": "Gatanga",
+  "town_description": "Gatanga (New Gatanga) is a settlement on the New Gatanga Highway (NH-127/AT Road) just outside Nagaon town in central Assam, on the route toward the Kolong river and Gatanga Beel. It is known locally for its old temple and the annual Naam Kirtan festival.",
+  "tradition": "Hinduism (Naam Kirtan suggests Ekasarana/Neo-Vaishnavite affiliation; unconfirmed)",
+  "travel": {
+    "airport": "Lokpriya Gopinath Bordoloi International Airport, Guwahati (verify distance)",
+    "railway": "Nagaon railway station, the nearest major station (verify distance)",
+    "road": "On NH-127/AT Road at New Gatanga; reachable from Nagaon town by taxi or auto"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "Not published; October to March is generally pleasant in Assam (verify)",
+    "opening_hours": "Local listings show open daily (Tripadvisor lists 00:00-23:59; verify)"
+  }
+}

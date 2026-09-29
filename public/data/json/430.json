@@ -1,0 +1,52 @@
+{
+  "alternate_names": [
+    "Baba Basukinath Dham",
+    "Basukinathdham",
+    "Baba Faujdari Nath Temple"
+  ],
+  "deities": [
+    "Shiva (as Basukinath)",
+    "Parvati"
+  ],
+  "district": "Dumka",
+  "festivals": [
+    "Maha Shivratri",
+    "Shravani Mela (Shravan, July-August)"
+  ],
+  "history": {
+    "dynasty": "Late medieval (one web source attributes the present structure to 1585 under Raja Puran Mal; unverified and possibly conflated with Baidyanath Temple)",
+    "period": "Ancient shrine; present structures medieval to modern (dating disputed)",
+    "summary": "Baba Basukinath Dham is the famous Shiva temple of Basukinath town, Dumka district, about 42-46 km from Deoghar on the Dumka-Deoghar road (CSV town 'Deoghar' is imprecise; corrected here). Tradition holds that a pilgrimage to Baidyanath Dham is incomplete without darshan at Basukinath - 'Devghar ka Kachari, Basukinath ka Diwani' (petitions are filed at Deoghar, the hearing happens at Basukinath). Legends: a villager named Basu found the lingam while digging; alternatively Nagraj Vasuki did penance here after the Samudra Manthan and Shiva stayed on as 'Basukinath'. Some local belief calls it a Jyotirlinga, though it is not in the canonical Dwadash list. The Ghatwals of Nonihat feature in its history; the Van Ganga pond nearby is used for ritual bathing. Distance from Deoghar varies across sources (42 km, 45 km, 46 km)."
+  },
+  "id": "basukinath-dham-dumka",
+  "latitude": 24.39436,
+  "longitude": 87.08677,
+  "media": [
+    "https://bababasukinathmandir.in/ui/photos/_DSC4463.JPG"
+  ],
+  "name": "Baba Basukinath Dham",
+  "sources": [
+    "https://dorituals.com/basukinath-temple-jharkhand/",
+    "https://www.pujasthan.com/basukinath-temple-deoghar-jharkhand/",
+    "https://deoghar.co/baba-basukinath-dham-temple/",
+    "https://digitalindiadaily.com/what-is-the-secret-of-the-unique-court-in-basukinath-temple-of-jharkhand-learn-about-its-history-here/"
+  ],
+  "state": "Jharkhand",
+  "town": "Basukinath",
+  "town_description": "Basukinath (also called Basukinathdham) is a temple town in Jarmundi block of Dumka district in the Santhal Pargana division, on the Dumka-Deoghar road. The settlement grew around the famous Baba Basukinath Dham Shiva shrine.",
+  "tradition": "Shaiva",
+  "travel": {
+    "airport": "Deoghar Airport (nearest domestic airport)",
+    "railway": "Jasidih Junction and Dumka are the nearest major railway stations",
+    "road": "On the Dumka-Deoghar road, ~42-46 km from Deoghar and ~25 km from Dumka"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October-March; Shravani Mela (July-August) is the festival peak",
+    "opening_hours": "Opens ~4 AM, closes ~8 PM (sources conflict: deoghar.co says 3 AM opening; verify locally)"
+  }
+}

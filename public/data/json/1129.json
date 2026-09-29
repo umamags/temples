@@ -1,0 +1,48 @@
+{
+ "alternate_names": [
+  "Bara Aditya Temple (Temple of the Twelve Suns)"
+ ],
+ "deities": [
+  "Surya, the Sun God, worshipped as Burhadita/Vriddhaditya (the Old Sun God); subsidiary shrines to Shiva-Parvati and Lakshmi-Narayana in the complex"
+ ],
+ "district": "Almora",
+ "festivals": [
+  "Chhath Puja (dedicated to Surya; observed at the temple - weakly sourced, verify)"
+ ],
+ "history": {
+  "dynasty": "Katyuri dynasty",
+  "period": "9th century CE",
+  "summary": "CSV TOWN FLAG: the temple is at Katarmal village, ~17 km from Almora town (not in Almora itself); documented with the corrected location. Built by the Katyuri king Katarmalla in the 9th century, Katarmal is one of India's oldest surviving Sun temples - second in importance only to Konark - and a monument of national importance. The east-facing main shrine is aligned so the first rays of the rising sun fall on the deity. It is ringed by 44 smaller shrines built at different periods, with intricate stone carving and once-famous carved wooden doors and panels - many of which were moved to the National Museum, New Delhi after a theft. Perched at 2,116 m with Himalayan views, the last motorable point is Kosi (1.5 km trek uphill to the temple)."
+ },
+ "id": "katarmal-sun-temple-katarmal",
+ "latitude": 29.63192,
+ "longitude": 79.61487,
+ "media": [
+  "https://www.trawell.in/admin/images/upload/4314293Ranikhet_Katarmal_Sun_Temple_main.jpg"
+ ],
+ "name": "Katarmal Sun Temple",
+ "sources": [
+  "https://testbook.com/question-answer/the-katarmal-sun-temple-an-architecturally-sign--69f45ad86c454973a03d8ebc",
+  "https://chitrolekha.com/katarmal-sun-temple/?amp=1",
+  "https://travelchardham.com/spot/katarmal-sun-temple",
+  "https://deshraahi.com/katarmal-sun-temple-guide/"
+ ],
+ "state": "Uttarakhand",
+ "town": "Katarmal, Almora district (CSV town 'Almora' is imprecise - the temple is ~17 km from Almora town)",
+ "town_description": "Katarmal is a small hilltop village ~17 km northwest of Almora on the Almora-Ranikhet route, above the Kosi river valley. Known almost entirely for its ancient Sun temple, it sits at 2,116 m amid pine forest with wide views of the surrounding hills, and serves as a quiet, offbeat stop for history-minded travellers.",
+ "tradition": "Surya (solar) worship within Hinduism",
+ "travel": {
+  "airport": "Pantnagar Airport (~142 km from the temple per travelchardham); road onward via Almora",
+  "railway": "Kathgodam railway station (~90 km from the temple per travelchardham), then road via Almora",
+  "road": "~17 km from Almora by motorable road to Kosi, the last motorable point; then a ~1.5 km uphill trek to the temple (~45 km from Ranikhet)"
+ },
+ "video": {
+  "audio": "",
+  "script": "",
+  "video_file": ""
+ },
+ "visitor_information": {
+  "best_time": "May to September (per travelchardham); avoid the monsoon, which makes the hill roads difficult",
+  "opening_hours": "No published hours (verify); ASI monument site - typically open during daylight hours"
+ }
+}

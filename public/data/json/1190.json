@@ -1,0 +1,46 @@
+{
+  "alternate_names": [
+    "Banda Jain Temple",
+    "Deulghera Temple"
+  ],
+  "deities": [
+    "A Jain Tirthankara (original idol lost; sanctum now empty)"
+  ],
+  "district": "Purulia",
+  "festivals": [],
+  "history": {
+    "dynasty": "Unknown (local chieftains; Jain trading community)",
+    "period": "11th-13th century CE (commonly dated to the 11th century)",
+    "summary": "NOT A HINDU TEMPLE — Digambar Jain Rekha Deul; keep-or-drop decision needed. An 11th-century (within an 11th–13th c. range) sandstone temple at Banda village (locally Deulghera), Raghunathpur II block, built by the Jain community that flourished in the Rarh/Vajjrabhumi region along Pala-period trade networks; tri-ratha plan, soaring curvilinear shikhara (~72 ft), intricate creeper and chaitya-window carvings, makara-shaped water outlet and pillared mandapa. Rediscovered in 1872 by archaeologist J.D. Beglar overgrown by dense forest; now an ASI-protected monument and the most preserved stone deul in Purulia. Town corrected: CSV 'Purulia' is the district HQ — the temple stands at Banda village, ~35 km from Purulia town."
+  },
+  "id": "banda-deul-temple-purulia",
+  "latitude": 23.53499,
+  "longitude": 86.6601,
+  "media": [
+    "https://upload.wikimedia.org/wikipedia/commons/e/e8/Deul_at_Banda%2C_Purulia_WLM2016-0207.jpg"
+  ],
+  "name": "Banda Deul Temple",
+  "sources": [
+    "https://jainsattva.com/jain-temples/banda-deul-jain-temple/",
+    "https://www.jainheritagecentres.com/jainism-in-india/west-bengal/banda-deul-a-forgotten-jewel-of-bengals-jain-heritage/",
+    "https://mytravelframes.com/banda-deul-purulia/"
+  ],
+  "state": "West Bengal",
+  "town": "Banda",
+  "town_description": "Banda (locally called Deulghera) is a small rural village in the Raghunathpur II block of Purulia district, western West Bengal — red-soil farmland dotted with ancient Jain deuls, about 35 km from Purulia town and 12–14 km from Raghunathpur.",
+  "tradition": "Digambar Jainism",
+  "travel": {
+    "airport": "Netaji Subhas Chandra Bose International Airport, Kolkata (~250 km)",
+    "railway": "Adra Junction (~20 km)",
+    "road": "~35 km from Purulia town; 12–14 km from Raghunathpur on the Raghunathpur–Cheliama road"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October–March",
+    "opening_hours": "Daylight hours; ASI-protected monument, no entry fee (verify)"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "alternate_names": [
+    "NBCC"
+  ],
+  "deities": [],
+  "district": "Kohima",
+  "festivals": [],
+  "history": {
+    "dynasty": "",
+    "period": "1937 (renamed Nagaland Baptist Church Council in 1953)",
+    "summary": "NOT A HINDU TEMPLE — keep-or-drop decision needed. The Nagaland Baptist Church Council (NBCC) is a Baptist Christian denomination: the apex body of Baptist churches in Nagaland, affiliated to the Council of Baptist Churches in Northeast India and the Baptist World Alliance. Its origins trace to an American Baptist mission of 1839; Naga Hills congregations were first organized as the Naga Hills Baptist Church Advisory Board, renamed the Naga Hills Baptist Church Council in 1937 and the Nagaland Baptist Church Council in 1953; it was a founding member of the CBCNEI in 1950. The headquarters is at Bayavü Hill, Kohima (P.O. Box 71, Kohima 797001) — the CSV town 'Zunheboto' is wrong; Zunheboto is a different district (home of the Sümi Nagas), while the Council's HQ has always been Kohima. Office holders per Wikipedia: President Achu Chang, General Secretary Mar Pongener; the Council reports about 1,724 congregations and 716,495 members. The deities and festivals fields are empty by design (Christian body, no Hindu deities). Sources: Wikipedia, baptistworld.org, nagalandpost.com, nbcc-nagaland.org."
+  },
+  "id": "nagaland-baptist-church-council-kohima",
+  "latitude": 25.68368,
+  "longitude": 94.10386,
+  "media": [],
+  "name": "Nagaland Baptist Church Council",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Nagaland_Baptist_Church_Council",
+    "https://baptistworld.org/member/nagaland-baptist-church-council/",
+    "https://www.nbcc-nagaland.org/",
+    "https://nagalandpost.com/nagaland-nbcc-to-launch-revival-torchon-january-22/"
+  ],
+  "state": "Nagaland",
+  "town": "Kohima (CSV town 'Zunheboto' is wrong; the Council HQ is at Bayavü Hill, Kohima)",
+  "town_description": "Kohima is the capital of Nagaland, a hill city in the Naga Hills of Northeast India. The NBCC headquarters sits on Bayavü Hill on the Kohima–Mokokchung Road. Kohima is also known for the WWII Kohima War Cemetery and the annual Hornbill Festival held at nearby Kisama.",
+  "tradition": "Baptist Christianity (NOT Hindu)",
+  "travel": {
+    "airport": "",
+    "railway": "",
+    "road": ""
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "",
+    "opening_hours": ""
+  }
+}

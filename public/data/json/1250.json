@@ -1,0 +1,53 @@
+{
+  "alternate_names": [
+    "Sri Sri Radha Damodar Temple",
+    "ISKCON Vizag",
+    "Glory of Andhra",
+    "Hare Krishna Land, Sagar Nagar"
+  ],
+  "deities": [
+    "Sri Sri Radha Damodara (Radha-Krishna)",
+    "Balaram",
+    "Subhadra",
+    "Jagannath"
+  ],
+  "district": "Visakhapatnam",
+  "festivals": [
+    "Janmashtami",
+    "Radha Saptami",
+    "Sunday feast for devotees"
+  ],
+  "history": {
+    "dynasty": "Modern (ISKCON, Gaudiya Vaishnava)",
+    "period": "2005-2018",
+    "summary": "FLAG: CSV ROW DUPLICATES SEQ 7 - 'ISKCON Temple' (id iskcon-temple-visakhapatnam) covers the same Sagar Nagar temple; this file is written per-row with a unique id. The Sri Sri Radha Damodar Temple (ISKCON Vizag) on Hare Krishna Land, Beach Road, Sagar Nagar near Rushikonda was founded through the efforts of Samba Das and his wife Nitaisevini Dasi, who came to Visakhapatnam in May 1999 and bought 3 acres in Sagar Nagar in 2005. A temporary hall housed idols of Jagannath, Subhadra, Baladeva and Shri Radha Damodar. Cyclone Hudhud (12 Oct 2014) destroyed the complex; it was rebuilt by January 2015, after which the government cleared the seaside 'Glory of Andhra' grand complex (work begun 5 Mar 2015, completed Feb 2018). The 67,000 sq ft, 2-storey complex includes a marble-and-carved-stone temple hall, multimedia theatre, naturopathy centre, annadanam kitchen, Govinda restaurant, goshala, school and guest house."
+  },
+  "id": "iskcon-temple-visakhapatnam-duplicate",
+  "latitude": 17.76812,
+  "longitude": 83.3669,
+  "media": [],
+  "name": "ISKCON Temple, Visakhapatnam",
+  "sources": [
+    "https://vizagtourism.org.in/iskcon-temple-vizag",
+    "https://templeyatri.in/iskcon-temple-visakhapatnam/",
+    "http://hellovizag.in/place/iskcon-temple"
+  ],
+  "state": "Andhra Pradesh",
+  "town": "Visakhapatnam",
+  "town_description": "Visakhapatnam (Vizag), on the Bay of Bengal in coastal Andhra Pradesh, is the state's largest city and main port, nicknamed the 'City of Destiny'. Known for Rushikonda and RK beaches, Kailasagiri hill park and the ancient Simhachalam Narasimha temple, it blends heavy industry and a naval presence with beach tourism and pilgrimage.",
+  "tradition": "Vaishnavism",
+  "travel": {
+    "airport": "Visakhapatnam Airport (approx. 20 km per Vizag Tourism; another guide says 12-15 km).",
+    "railway": "Visakhapatnam Junction (approx. 11 km).",
+    "road": "On Beach Road at Sagar Nagar near Rushikonda; city buses, autos and taxis from anywhere in Vizag."
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March, when Vizag's weather is pleasant; Janmashtami is the most vibrant time.",
+    "opening_hours": "7:30 AM-12:30 PM and 4:30 PM-8:00 PM daily; no entry fee; modest dress; no photography inside the temple hall."
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "alternate_names": [
+    "ISKCON Sri Krishna Balarama Temple",
+    "ISKCON Hubli-Dharwad"
+  ],
+  "deities": [
+    "Krishna-Balarama",
+    "Gaura Nitai",
+    "Srila Prabhupada",
+    "Lakshmi Narasimha"
+  ],
+  "district": "Dharwad",
+  "festivals": [
+    "Janmashtami",
+    "Gaura Purnima",
+    "Ratha Yatra (annual, since 2003)",
+    "Vamana Jayanti"
+  ],
+  "history": {
+    "dynasty": "",
+    "period": "2002-present",
+    "summary": "Gaudiya Vaishnava (ISKCON) centre of Hubli-Dharwad. Roots: a 1976 pendal program by Yasodhanandan Swami in Srila Prabhupada's time; the Hare Krishna Gift shop opened in 1993; the centre opened in April 2002 in a rented building at Lingarajnagar, Hubli, where the utsava deities of Krishna-Balarama, Gaura Nitai and Prabhupada were installed on Sri Ramanavami 2002 (deities carved in Vrindavan). In 2005-2006 the Karnataka government allotted ~8.5 acres at Rayapur, where a makeshift temple was built in 2006; Lakshmi Narasimha deities were installed in May 2015. A grand new temple complex in Vesara style (project cost ~Rs 50 crore) has been under construction since 2011-2013 groundwork; one content-creator video reports its inauguration on 22 June 2026 - treat as unverified pending official word. NOTE: the actual location is Rayapur on the Hubli-Dharwad bypass (Dharwad side), not Hubli city centre."
+  },
+  "id": "iskcon-sri-krishna-balarama-rayapur",
+  "latitude": 15.40489,
+  "longitude": 75.06963,
+  "media": [
+    "https://seawatersports.com/images/places/iskcon-sri-krishna-balarama-temple.png"
+  ],
+  "name": "ISKCON Sri Krishna Balarama Temple, Hubli",
+  "sources": [
+    "https://www.iskconhubli.org/deities/",
+    "https://www.iskconhubli.org/project-overview/",
+    "https://Wanderlog.com/place/details/324543/iskcon-sri-krishna-balarama-temple"
+  ],
+  "state": "Karnataka",
+  "town": "Rayapur",
+  "town_description": "Rayapur is a locality on the Hubballi-Dharwad bypass corridor between the twin cities. It hosts the ISKCON Hubli complex on government-allotted land near the BRTS route.",
+  "tradition": "Gaudiya Vaishnavism (ISKCON)",
+  "travel": {
+    "airport": "Hubballi Airport (HBX), ~10 km",
+    "railway": "Hubli Junction (UBL), ~10 km",
+    "road": "On P B Road / Hubballi-Dharwad bypass; BRTS bus stop nearby"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to February",
+    "opening_hours": "Not reliably published; verify on iskconhubli.org"
+  }
+}

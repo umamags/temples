@@ -1,0 +1,47 @@
+{
+  "alternate_names": [
+    "Mahakaleshwar Mahadev Temple, Bilawali",
+    "Mahakaleshwar Mandir, Dewas"
+  ],
+  "deities": [
+    "Lord Shiva, worshipped as Mahakaleshwar (Shiva lingam)"
+  ],
+  "district": "Dewas",
+  "festivals": [
+    "Mahashivratri",
+    "Mondays of Shravan"
+  ],
+  "history": {
+    "dynasty": "Not documented in available sources",
+    "period": "Modern local shrine (20th century, unverified)",
+    "summary": "This is a small local Shiva shrine at Bilawali on Maksi Road in Dewas city, documented on online business listings (rated 5.0). It must NOT be confused with the famous Mahakaleshwar Jyotirlinga temple at Ujjain, about 40 km away on the Ujjain-Dewas road - that is a different, far more significant temple. The CSV town 'Dewas' is correct for this local shrine, but the name is generic and no published history, founding date, or architectural description exists online; identity is therefore provisional and flagged. (verify)"
+  },
+  "id": "mahakaleshwar-mahadev-temple-bilawali-dewas",
+  "latitude": 22.9552,
+  "longitude": 76.08255,
+  "media": [],
+  "name": "Mahakaleshwar Temple",
+  "sources": [
+    "https://akhandapp.in/place/mahakaleshwar-mahadev-temple-bilawali-dewas-141854/",
+    "https://cabbazar.com/taxi/cab/dewas-to-mahakaleshwar-jyotirlinga",
+    "https://exploreoffbeat.com/the-indian-temples/mahakaleshwar-temple-ujjain-blog-history-significance-travel-guide-darshan-insights"
+  ],
+  "state": "Madhya Pradesh",
+  "town": "Dewas",
+  "town_description": "Dewas is a city in Madhya Pradesh about 35 km north of Indore, known for the Tekri hill topped by the Chamunda and Tulja Bhavani shrines, the Kailadevi temple, and its classical-music heritage (Kumar Gandharva).",
+  "tradition": "Shaivism",
+  "travel": {
+    "airport": "Devi Ahilya Bai Holkar Airport, Indore (about 40 km)",
+    "railway": "Dewas Junction railway station (about 5 km)",
+    "road": "On Maksi Road in Dewas, off the Indore-Bhopal highway (AB Road); Dewas is about 40 km from Ujjain"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to February, when the weather is pleasant",
+    "opening_hours": "Darshan generally morning and evening; no hours published online (verify)"
+  }
+}

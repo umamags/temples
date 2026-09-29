@@ -1,0 +1,46 @@
+{
+  "alternate_names": [
+    "Shri Ram Janki Math Mandir"
+  ],
+  "deities": [
+    "Hanuman",
+    "Rama",
+    "Sita"
+  ],
+  "district": "Dhamtari",
+  "festivals": [
+    "Hanuman Jayanti",
+    "Tuesdays and Saturdays"
+  ],
+  "history": {
+    "dynasty": "Unknown",
+    "period": "About 400 years old (per local tradition)",
+    "summary": "Identity flag: the CSV row 'Shri Hanuman Temple, Dhamtari' is a generic name; this file documents the most distinctive Hanuman temple in Dhamtari town, the Shri Ram Janki Mandir on Sadar Road, famous for its 'growing' Hanuman idol. Per dhamtaritourism.com, the Hanuman idol was installed around 400 years ago in a smaller form and has gradually grown; it now stands 11 feet tall, and priests perform special rituals to control its growth. It is considered one of Dhamtari's most important religious sites. An alternative candidate is the Sankat Mochan Hanuman Mandir near Itwari Bazar, also in Dhamtari town; the exact referent of the CSV row cannot be fixed without more information."
+  },
+  "id": "ram-janki-mandir-dhamtari-hanuman",
+  "latitude": 20.7062,
+  "longitude": 81.54933,
+  "media": [],
+  "name": "Shri Ram Janki Mandir (Growing Hanuman Idol)",
+  "sources": [
+    "https://www.dhamtaritourism.com/top-10-religious-places-in-dhamtari/"
+  ],
+  "state": "Chhattisgarh",
+  "town": "Dhamtari",
+  "town_description": "Dhamtari is a district headquarters town in central Chhattisgarh, on the plains south of Raipur, long known as a grain-market town and for the nearby Mahanadi origin shrines at Sihawa and the Gangrel (Ravishankar Sagar) dam.",
+  "tradition": "Vaishnavism (Hanuman worship)",
+  "travel": {
+    "airport": "Swami Vivekananda Airport, Raipur, about 80 km away",
+    "railway": "Dhamtari railway station, in the town",
+    "road": "Sadar Road in the heart of Dhamtari city"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March; Tuesdays and Saturdays are the main worship days",
+    "opening_hours": "Not documented"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "alternate_names": [
+    "Pali Shri Mahadev Temple",
+    "Pali Shiva Mandir",
+    "Ancient Shiv Mandir Pali"
+  ],
+  "deities": [
+    "Shiva"
+  ],
+  "district": "Korba",
+  "festivals": [
+    "Mahashivratri",
+    "Sawan fair"
+  ],
+  "history": {
+    "dynasty": "Banna (origin), Kalchuri (expansion)",
+    "period": "9th century, expanded 11th-12th century",
+    "summary": "A 9th-century sandstone Shiva temple east of Pali village, notable for its uncommon octagonal mandapa with a domed, richly carved ceiling and a saptaratha-plan sanctum facing an ancient water reservoir. An inscription mentioning Vikramaditya helps date the core to the 9th century; local accounts attribute the original shrine to King Vikramaditya of the Banna dynasty (one travel site's '870 B.C.E.' is clearly an error for C.E.), while inscriptions record gifts and expansion in the 11th and 12th centuries under the Kalchuri king Jajvalyadeva I. The temple carries Shaiva, Vaishnava, Saura, and Shakta artwork plus secular panels, was damaged after the 15th century and largely abandoned until British archaeologists recognized its importance; it has since been restored and is now a popular Mahashivratri site. CSV town correction: the temple is at Pali village in Katghora tehsil, not in Korba town (about 50 km away)."
+  },
+  "id": "pali-shiv-mandir-ancient",
+  "latitude": 22.44046,
+  "longitude": 82.43082,
+  "media": [
+    "https://puratattva.in/wp-content/uploads/2024/12/Pali.jpeg"
+  ],
+  "name": "Pali Shri Mahadev Temple (Ancient Shiv Mandir)",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:9th-century_Pali_temple_Korba_Chhattisgarh,_ruins_in_early_20th_century.jpg",
+    "https://myadhyatm.com/pali-shi-mandir-pali-shri-mahadev-templeancient-shiv-mandirkorbachhattisgarh/",
+    "https://www.youtube.com/watch?v=3oFd5qP3Mm4"
+  ],
+  "state": "Chhattisgarh",
+  "town": "Pali",
+  "town_description": "Pali is a village and tehsil on the Korba-Bilaspur road in Korba district, known for the 9th-century Pali Shiva temple and as the base for reaching the Chaiturgarh hill fort nearby.",
+  "tradition": "Shaivism (with Vaishnava, Saura, and Shakta artwork)",
+  "travel": {
+    "airport": "Bilasa Devi Kevat Airport, Bilaspur, about 50 km away",
+    "railway": "Korba Junction, about 50 km away",
+    "road": "On the main road through Pali village, Katghora tehsil; about 50 km northeast of Bilaspur"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March; Mahashivratri and the Sawan fair draw thousands",
+    "opening_hours": "Not documented"
+  }
+}

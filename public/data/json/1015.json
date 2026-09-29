@@ -1,0 +1,50 @@
+{
+ "alternate_names": [
+  "Ranganayaka Swamy Temple | Srirangapur (malformed CSV row name)"
+ ],
+ "deities": [
+  "Sri Ranganayaka Swamy (Lord Vishnu)",
+  "Sridevi",
+  "Bhudevi"
+ ],
+ "district": "Wanaparthy",
+ "festivals": [
+  "Brahmotsavalu",
+  "Jatara",
+  "Sankranthi (Koti Utsavalu)"
+ ],
+ "history": {
+  "dynasty": "Rajas of Wanaparthy Samasthanam (see 1013.json)",
+  "period": "18th century (Saka 1685, c. 1763 AD)",
+  "summary": "DUPLICATE/MALFORMED-ROW RECORD: the CSV row for seq 1015 carries the malformed name field '\"Ranganayaka Swamy Temple | Srirangapur\"' (the '|' character suggests a broken delimiter split) and the same town/state (Mahbubnagar, Telangana) as seq 1013. Every researched attribute - name variant, town, deity (Lord Vishnu/Ranganayaka), 18th-century Wanaparthy Samasthanam origin, Srirangapuram location - matches the Sri Ranganayaka Swamy Temple documented in 1013.json. Treat this row as a DUPLICATE of seq 1013; the two CSV rows should be merged or one removed. Do not count this as a separate temple. Full researched details live in 1013.json."
+ },
+ "id": "ranganayaka-swamy-temple-srirangapur-duplicate-record",
+ "latitude": 16.198,
+ "longitude": 78.049,
+ "media": [
+  "https://itin-dev.wanderlogstatic.com/freeImage/UaGKpaz3oQ1d1HyCdEyMorxkbytzHlqj"
+ ],
+ "name": "Ranganayaka Swamy Temple Srirangapur",
+ "sources": [
+  "https://en.wikipedia.org/wiki/Sri_Ranganayaka_Swamy_Temple",
+  "https://wanaparthy.telangana.gov.in/tourist-place/sri-ranganayaka-swamy-temple-srirangapuram-v-pebbair-m/"
+ ],
+ "state": "Telangana",
+ "town": "Srirangapur",
+ "town_description": "Same as 1013.json: Srirangapuram village, Pebbair mandal, Wanaparthy district - this record duplicates seq 1013.",
+ "tradition": "Hinduism (Vaishnavism)",
+ "travel": {
+  "airport": "As in 1013.json.",
+  "railway": "As in 1013.json.",
+  "road": "As in 1013.json."
+ },
+ "video": {
+  "audio": "",
+  "script": "",
+  "video_file": ""
+ },
+ "visitor_information": {
+  "best_time": "As in 1013.json.",
+  "opening_hours": "As in 1013.json."
+ }
+}

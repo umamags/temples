@@ -1,0 +1,48 @@
+{
+  "alternate_names": [
+    "Sri Kadu Hanumantharaya Swamy Temple",
+    "Arulmigu Kadu Anumantharaya Swamy Temple"
+  ],
+  "deities": [
+    "Lord Hanuman (Anjaneya) as Kadu Anumantharaya Swamy - the idol is said to stand with open sky above it, and holds a Sowganthika flower in its hands",
+    "Sri Rama, Sita Devi and Lakshmana (separate sannidhi)",
+    "Lord Narasimhar (separate sannidhi)"
+  ],
+  "district": "Tiruppur",
+  "festivals": [
+    "No published festival calendar found for this temple (flag) - visitor reviews note that special days of Hanuman and Saturdays draw the largest crowds (verify)"
+  ],
+  "history": {
+    "dynasty": "None documented",
+    "period": "Described as 'very old' / 'ancient' only in visitor reviews; no published construction date, patron or inscription found - verify",
+    "summary": "CSV TOWN FLAG: the CSV lists the town as Tiruppur, but the exact-name match - 'Arulmigu Kadu Anumantharaya Swamy Temple' - is the Hanuman temple on Dharapuram Road in DHARAPURAM, ~55 km south of Tiruppur city (district Tiruppur is correct). Documented as the Dharapuram temple. AMBIGUITY FLAG: a second 'Anumandaraya Swamy Temple' is listed on Sivanmalai Road in Tiruppur district (11.0385, 77.5353), closer to Tiruppur town, but its name does not match the CSV's 'Kadu Anumantharaya'; if the CSV meant that shrine, this file would need to move. Also note: a seawatersports.com page describes a 'Kadu Anumantharaya' temple in Kadu village, Kanyakumari district on the Tamiraparani - that text reads as unreliable AI-generated content and is NOT this temple (flagged, not used). The Dharapuram temple is a large Hanuman temple about 2 km from the Dharapuram main bus stand. Its speciality, per devotees, is that Lord Anjaneya stands under open sky with a Sowganthika flower in his hands; one reviewer records the local belief that the statue grows by an inch or so over time. Sannidhis exist for Rama-Sita-Lakshmana and for Narasimhar. TripAdvisor rates it 4.8/5 from 4 reviews (2017-2019)."
+  },
+  "id": "kadu-anumantharaya-swamy-temple-dharapuram",
+  "latitude": 10.735897,
+  "longitude": 77.531333,
+  "media": [],
+  "name": "Kadu Anumantharaya Swamy Temple",
+  "sources": [
+    "https://www.tripadvisor.in/Attraction_Review-g8096088-d4089192-Reviews-Arulmigu_Kadu_Anumantharaya_Swamy_Temple-Tiruppur_Tiruppur_District_Tamil_Nadu.html",
+    "https://www.tripadvisor.ca/Attraction_Review-g8096088-d4089192-Reviews-Arulmigu_Kadu_Anumantharaya_Swamy_Temple-Tiruppur_Tiruppur_District_Tamil_Nadu.html",
+    "https://www.tripadvisor.co.nz/Attraction_Review-g8096088-d4089192-Reviews-Arulmigu_Kadu_Anumantharaya_Swamy_Temple-Tiruppur_Tiruppur_District_Tamil_Nadu.html"
+  ],
+  "state": "Tamil Nadu",
+  "town": "Dharapuram",
+  "town_description": "Dharapuram is an old Kongu Nadu town in Tiruppur district, about 55 km south of Tiruppur city on the road toward Palani. A historic settlement with several ancient temples, it is best known in this dataset for the Kadu Anumantharaya Hanuman temple, about 2 km from its main bus stand.",
+  "tradition": "Vaishnavism (Hanuman devotion)",
+  "travel": {
+    "airport": "Nearest major air links via Coimbatore (approx. 115 km - verify).",
+    "railway": "Nearest major railhead Tiruppur (approx. 55 km - verify).",
+    "road": "On Dharapuram Road, about 2 km from the Dharapuram main bus stand; reachable by town bus, auto or taxi."
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March. Saturdays are the busiest day; visit on a weekday for a quieter darshan.",
+    "opening_hours": "7:00 AM to 12:00 PM and 5:00 PM to 7:30 PM per the TripAdvisor listing; one visitor review says open till noon and 4:00 to 7:00 PM - verify locally."
+  }
+}

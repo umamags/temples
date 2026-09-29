@@ -1,0 +1,57 @@
+{
+  "alternate_names": [
+    "Vekkaliamman Temple",
+    "Arulmigu Sri Vekkaliamman Temple",
+    "Woraiyur Vekkali Amman Temple"
+  ],
+  "deities": [
+    "Vekkali Amman (a form of Goddess Kali/Parvati; guardian deity of Woraiyur)"
+  ],
+  "district": "Tiruchirappalli",
+  "festivals": [
+    "Chithirai festival",
+    "Vaikasi mango abhishekam",
+    "Aavani sathasadi vellvi and deepa Dharisanam",
+    "Aipasi annanishekam",
+    "Karthikai deepam",
+    "Thai Theerthavizha",
+    "Panguni Poochoridal",
+    "Thai Velli",
+    "Navarathri"
+  ],
+  "history": {
+    "dynasty": "Early Chola (local sources credit Gochenkan Chola; Wikipedia notes the temple is known from the early Chola period but has no historical records)",
+    "period": "Early Chola era; exact date undocumented",
+    "summary": "The Vekkali Amman Temple's signature feature is its roofless sanctum — the goddess sits open to the sky, in honour of the people of Uraiyur who lost their homes when Lord Thayumanavar (Shiva of the Rock Fort temple) rained sand on the city in fury after King Paranthaka Chola plucked flowers from the sage Sarama Munivar's garden; Vekkali interceded and stopped the sandstorm, then chose to remain roofless until every resident had a shelter — attempts to build a roof are said to have failed ever since. The north-facing idol (favourable for kings' victory in war) is unusual in placing the left leg on the demon. Six kaala poojas daily (Kaarana Agama system); a gold temple chariot was launched in 2010; maintained by the TN Hindu Religious and Endowment Board. CSV TOWN FLAG: actual town is Woraiyur/Uraiyur, a neighbourhood in Tiruchirappalli — 'Srirangam' in the CSV is wrong; documented with the corrected town."
+  },
+  "id": "uraiyur-vekkali-amman-temple",
+  "latitude": 10.82801,
+  "longitude": 78.67679,
+  "media": [
+    "https://www.trawell.in/admin/images/upload/653500778Trichy_Vekkali_Amman_Temple_Main.jpg"
+  ],
+  "name": "Uraiyur Vekkali Amman Temple",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Vekkali_Amman_Temple",
+    "https://www.tiruchirappallionline.in/guide/woraiyur-vekkaliamman-temple",
+    "https://www.triphobo.com/places/tiruchirappalli-india/vekkali-amman-temple"
+  ],
+  "state": "Tamil Nadu",
+  "town": "Uraiyur (CSV town 'Srirangam' is WRONG — the temple is at Woraiyur/Uraiyur in Tiruchirappalli)",
+  "town_description": "Woraiyur (Uraiyur) is an ancient locality in Tiruchirappalli city, once the capital of the early Cholas and now a dense urban neighbourhood. Its Vekkali Amman temple is the guardian-deity shrine of the locality, visited especially for prayers for marriage, children, education and fulfilment of wishes written on paper tied to the goddess's trident.",
+  "tradition": "Shaktism (Kali/Parvati as guardian deity of Uraiyur)",
+  "travel": {
+    "airport": "Tiruchirappalli International Airport (TRZ) (per tiruchirappallionline.in)",
+    "railway": "Tiruchirappalli Fort station (TP) is the nearest; Tiruchirappalli Junction a short drive away (per tiruchirappallionline.in)",
+    "road": "In Woraiyur within Trichy city; nearest bus stand is Chathiram Bus Stand (per tiruchirappallionline.in)"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October-March; at its best during the Chithirai festival, Navarathri and Thai Velli (per TripHobo)",
+    "opening_hours": "6:00 AM-11:00 AM and 4:00-8:00 PM per tiruchirappallionline.in (its page reads '11:00 PM', which appears to be a typo — verify locally)"
+  }
+}

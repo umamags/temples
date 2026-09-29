@@ -1,0 +1,52 @@
+{
+  "alternate_names": [
+    "Lingaraj Temple",
+    "Sri Lingaraja Mandir"
+  ],
+  "deities": [
+    "Lord Shiva as Lingaraja (Harihara — syncretic Shiva-Vishnu form, svayambhu linga)",
+    "Goddess Parvati (as Annapurna / Girija)"
+  ],
+  "district": "Khurda",
+  "festivals": [
+    "Maha Shivaratri",
+    "Ashokashtami (Rukuna Rath Yatra)",
+    "Kartik Purnima",
+    "Makar Sankranti"
+  ],
+  "history": {
+    "dynasty": "Somavamsi (11th c.; later additions by Ganga rulers)",
+    "period": "11th century CE (worship traditions trace to the 7th c.; present structure under Somavamsi rule)",
+    "summary": "The Lingaraja Temple in Old Town Bhubaneswar is the largest and most prominent temple of the city and the quintessence of Kalinga (Deula) architecture. Its curvilinear rekha-deula vimana rises about 55 m (180 ft) over the sanctum, fronted by the jagamohana (assembly hall), natamandira (festival hall) and bhoga-mandapa (hall of offerings), each successively taller; the walled complex holds over 100 subsidiary shrines. The self-manifested (svayambhu) Harihara linga — worshipped as Shiva yet carrying Vishnu iconography — reflects the region's shift from Shaivism to Vaishnavism under the Gangas. The deity's original shrine under a mango tree gave Bhubaneswar its epithet Ekamra Kshetra (Ekamra Purana, 13th c.). The present structure was raised in the 11th century under the Somavamsi kings (Yayati II / Jajati Keshari per sources) with later Ganga additions. Unlike most Bhubaneswar temples it is a living temple with active daily worship; non-Hindus are not allowed inside the sanctum but may view it from a platform outside. CSV town and state (Bhubaneswar, Odisha) are correct; district is Khurda."
+  },
+  "id": "lingaraja-temple-bhubaneswar",
+  "latitude": 20.23829,
+  "longitude": 85.83401,
+  "media": [
+    "https://gitc.travel/wp-content/uploads/2020/02/Lingaraj_temple_Bhubaneswar-600x450.jpg"
+  ],
+  "name": "Lingaraja Temple",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Lingaraja_Temple",
+    "https://99pandit.com/blog/lingaraja-temple-timings-history-and-architecture/",
+    "http://vajiramandravi.com/upsc-exam/lingaraja-temple/"
+  ],
+  "state": "Odisha",
+  "town": "Bhubaneswar",
+  "town_description": "Bhubaneswar, the capital of Odisha, is called the 'City of Temples' and Ekamra Kshetra, with a temple-building history stretching back over two millennia. The Old Town clusters the great Kalinga temples — Lingaraja, Ananta Vasudeva, Brahmeswara, Mukteswara, Rajarani — around the sacred Bindu Sagar tank; the modern city also hosts the Dhauli Shanti Stupa and the Udayagiri-Khandagiri Jain caves nearby.",
+  "tradition": "Shaivism (Harihara syncretism of Shaivism and Vaishnavism)",
+  "travel": {
+    "airport": "",
+    "railway": "",
+    "road": ""
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "",
+    "opening_hours": ""
+  }
+}

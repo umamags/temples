@@ -1,0 +1,43 @@
+{
+  "alternate_names": [
+    "Maharajganj Mandir"
+  ],
+  "deities": [],
+  "district": "Siwan",
+  "festivals": [],
+  "history": {
+    "dynasty": "",
+    "period": "",
+    "summary": "TOWN CORRECTED: the CSV row says town 'Siwan', but the name 'Maharajganj Temple' refers to a temple in Maharajganj town (notified area in Siwan district, PIN 841238), not Siwan city. No temple under this exact name appears in any source consulted; this file is a clearly-flagged placeholder for a temple in Maharajganj town. Possible intended referents include the town's Shiv Mandir and Rameshwar Dham (26.11782, 84.50579, per Mapcarta/OSM), Garh Devi Temple at Baliya, and a Pashupatinath Temple that one travel site claims was built by Raja Bhoj (uncorroborated by any other source). Coordinates are approximate town coordinates. Identity uncertain - reclassify or replace once Mahesh confirms the intended shrine."
+  },
+  "id": "maharajganj-temple-siwan-district",
+  "latitude": 26.114,
+  "longitude": 84.509,
+  "media": [
+    "https://www.myindianproducts.com/images/travel/cities/maharajganj-bihar-india-famous-landmark.jpg"
+  ],
+  "name": "Maharajganj Temple",
+  "sources": [
+    "http://www.onefivenine.com/india/villages/Siwan/Maharajganj/Risaura",
+    "https://seawatersports.com/places/Bihar/maharajganj",
+    "https://mapcarta.com/W1360323181"
+  ],
+  "state": "Bihar",
+  "town": "Maharajganj",
+  "town_description": "Maharajganj is a town and notified area in Siwan district, Bihar, near the Uttar Pradesh border (PIN 841238). It is a local market centre with several small temples and shrines.",
+  "tradition": "Hindu",
+  "travel": {
+    "airport": "Patna Airport, the nearest major airport (~160 km); distance approximate",
+    "railway": "Maharajganj / Duraundha Junction stations nearby; Siwan Junction ~30 km",
+    "road": "Manjhi-Barauli Road and Maharajganj-Sisai-Goreakothi Road serve the town; local transport in town"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October-March",
+    "opening_hours": "Not documented for a specific temple under this name (verify before visiting)"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "alternate_names": [
+    "Rih Lake",
+    "Rih-i Dil"
+  ],
+  "deities": [
+    "None - natural lake; revered as the passage of souls to the afterlife (Pialral / Mitthi Khua) in traditional Mizo/Chin belief (verify interpretation with Mizo cultural sources)"
+  ],
+  "district": "Falam Township (Chin State, Myanmar)",
+  "festivals": [
+    "No religious festivals observed; the lake's cultural importance is celebrated in Mizo songs, dances, and literature (verify)"
+  ],
+  "history": {
+    "dynasty": "",
+    "period": "",
+    "summary": "NOT A HINDU TEMPLE - keep-or-drop decision needed: Rih Dil is a natural lake, not a temple or religious building, and the CSV's town and state are both wrong - it does NOT lie in Champhai, Mizoram; it lies in the Hualngoram region of northwestern Chin State, Myanmar, within the village area of Rihkhawdar, about 3 km from the India-Myanmar border (Tiau river) and about 22 km inside Myanmar from Champhai town (the commonly repeated 'largest lake of Mizoram is Rih Dil, but it is in Burma' saying captures this border oddity). It is documented here as a sacred site because of its deep religious status in Mizo tradition: the heart-shaped lake (~1 mile long, half a mile wide, ~3 miles circumference, ~60 ft deep per Wikipedia) is believed to be the corridor through which the souls of the dead pass to Pialral, the eternal abode - a central tenet of the traditional religion of the Chin peoples (Mizo, Laimi, Zomi). Folklore centres on the girl Rih-i, a cruel stepmother, a magical revival leaf given by a spirit (Lasi), and Rih-i's transformation into the lake. The lake has no external inflow or outflow yet stays clear year-round. Indian visitors reach it via Champhai and the Zokhawthar border crossing with a Myanmar visa/permits (verify current requirements, which are subject to border regulations)."
+  },
+  "id": "rih-dil-lake",
+  "latitude": 23.34,
+  "longitude": 93.385,
+  "media": [
+    "https://knowledgeofindia.com/wp-content/uploads/2020/01/Rih-Dil-Lake-on-India-Myanmar-Border.jpg"
+  ],
+  "name": "Rih Dil",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Rih_Dil",
+    "https://champhai.nic.in/places-of-interest/",
+    "https://travelsetu.com/guide/rih-dil-lake-tourism/rih-dil-lake-faqs",
+    "https://riahrun.com/rih-dil-mizoram-travel-guide-location-story-how-to-reach-where-to-eat-border-tips/"
+  ],
+  "state": "Myanmar (Chin State)",
+  "town": "Rihkhawdar (Chin State, Myanmar; reached via Champhai/Zokhawthar)",
+  "town_description": "Rihkhawdar is a border village in Falam Township, Chin State, Myanmar, directly across the Tiau river from Zokhawthar on the Indian side, about 22-27 km from Champhai town in Mizoram. The surrounding borderland of hills and valleys is the cultural heartland of the Mizo/Chin peoples, with the sacred heart-shaped Rih Dil lake 3 km from the border checkpost. Visitors typically base themselves in Champhai, Mizoram, and cross the international border gate to reach the lake.",
+  "tradition": "Mizo traditional religion - sacred natural site (not Hindu)",
+  "travel": {
+    "airport": "",
+    "railway": "",
+    "road": ""
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "",
+    "opening_hours": ""
+  }
+}

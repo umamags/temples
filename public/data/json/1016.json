@@ -1,0 +1,45 @@
+{
+ "alternate_names": [
+  "ISKCON Temple, Kambalpalli",
+  "Kambalpalli Jagannath Temple"
+ ],
+ "deities": [
+  "Sri Jagannath Swamy (per the one YouTube source; full deity set unverified - verify)"
+ ],
+ "district": "Sangareddy",
+ "festivals": [],
+ "history": {
+  "dynasty": "Unknown (identity of this temple is unconfirmed)",
+  "period": "Unknown",
+  "summary": "IDENTITY UNCERTAIN - verify before use. The only web evidence found for an ISKCON temple in Sangareddy district is a YouTube promo video ('Kambalpalli ISKCON Temple | Sri Jagannath Swamy', Prabha Samrat channel, ~Sept 2026) describing an ISKCON temple dedicated to Sri Jagannath Swamy at Kambalpalli village, Sadasivpet mandal, Sangareddy district, with a gaushala and farmland setting. No official ISKCON directory listing, no address, no founding details and no independent corroboration were found. The CSV town 'Sangareddy' is imprecise at best - the sole candidate referent is at KAMBALPALLI village (Sadasivpet mandal), not Sangareddy town; coordinates below are the village centroid, not the temple's own verified location. If the CSV intends a different ISKCON centre (e.g. Hyderabad's ISKCON Kukatpally, ~38 km away), that should be established. Treat this file as a placeholder pending verification."
+ },
+ "id": "iskcon-temple-kambalpalli-sangareddy",
+ "latitude": 17.57317,
+ "longitude": 77.93912,
+ "media": [],
+ "name": "Kambalpalli ISKCON Temple (Sri Jagannath Swamy)",
+ "sources": [
+  "https://www.youtube.com/watch?v=ROk-YwsRb08",
+  "https://en.wikipedia.org/wiki/Kambalpally",
+  "https://mapcarta.com/N6163803085",
+  "http://www.Onefivenine.com/india/villages/Medak/Sadasivpet/Kambalpalle"
+ ],
+ "state": "Telangana",
+ "town": "Kambalpalli",
+ "town_description": "Kambalpalli is a small village in Sadasivpet mandal, Sangareddy district, Telangana (census village code 573838, population ~1,095), about 7 km from Sadasivpet town and 25 km from the district headquarters Sangareddy. It sits amid farmland (cotton, paddy, turmeric).",
+ "tradition": "Hinduism (Vaishnavism - Gaudiya/ISKCON)",
+ "travel": {
+  "airport": "Rajiv Gandhi International Airport, Hyderabad, roughly 65-70 km via Sadasivpet (verify).",
+  "railway": "Not verified - verify before visiting.",
+  "road": "Kambalpalli village is about 7 km from Sadasivpet town on local roads."
+ },
+ "video": {
+  "audio": "",
+  "script": "",
+  "video_file": ""
+ },
+ "visitor_information": {
+  "best_time": "Not verified - verify before visiting.",
+  "opening_hours": "Not verified - verify before visiting."
+ }
+}

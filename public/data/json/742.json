@@ -1,0 +1,46 @@
+{
+  "alternate_names": [
+    "Singrijan Shiva Temple",
+    "Swayambhu Shiva Temple Dimapur"
+  ],
+  "deities": [
+    "Shiva (Swayambhu lingam - naturally formed, per myadhyatm.com)"
+  ],
+  "district": "Dimapur",
+  "festivals": [
+    "Maha Shivratri (February-March) - the grandest festival, drawing huge crowds"
+  ],
+  "history": {
+    "dynasty": "None (built by local villagers)",
+    "period": "1961 (construction year per myadhyatm.com; peopleplaces.in says 'supposedly built in 1961' - verify)",
+    "summary": "Best-supported referent for the generic CSV row 'Shiva Temple | Dimapur': the Swayambhu Shiva temple at Singrijan village, Dimapur district - the most documented Shiva temple of the Dimapur area (myadhyatm.com, astroved.com, peopleplaces.in all describe it). Per myadhyatm.com, the temple was constructed in 1961 by local villagers around a Swayambhu (naturally formed) Shiva lingam, and its origin legend belongs to the Rangapahar Reserve Forest: a villager sharpening his knife on a stone saw liquid oozing from it, then dreamed three times that the stone was Lord Shiva commanding a temple be built there (a fourth dream carried a warning), after which the temple was raised in the forest. Astroved.com describes a simple North-Indian-style complex with a golden-yellow shikhara, bells at the sanctum entrance, a trishul and snake idol behind the lingam on its circular platform, and a bronze Nandi; astroved's stated travel distances (railway station 44 km, airport 164 km) look like generic template figures and are NOT used here - verify distances locally. Maha Shivratri is the major festival. Coordinates are an area-level pin for the Rangapahar/Singrijan village belt (the geocoder carries no Singrijan entry), NOT the exact shrine - verify the shrine's precise location on the ground. Media is empty: no image verifiably depicting this temple was found after genuine searching."
+  },
+  "id": "shiva-temple-singrijan-dimapur",
+  "latitude": 25.88358,
+  "longitude": 93.72195,
+  "media": [],
+  "name": "Shiva Temple, Singrijan (Dimapur)",
+  "sources": [
+    "https://myadhyatm.com/shiva-temple-nagaland/",
+    "https://www.astroved.com/astropedia/en/temples/east-india/dimapur-shiva-temple",
+    "https://peopleplaces.in/web-stories/dimapur-nagaland-10-amazing-places-to-visit/"
+  ],
+  "state": "Nagaland",
+  "town": "Singrijan (village, Dimapur district; CSV town 'Dimapur' is approximate - the temple is outside the city)",
+  "town_description": "Singrijan is a village in Dimapur district, Nagaland, south-west of Dimapur city near the Rangapahar Reserve Forest - the setting of the temple's origin legend. Dimapur, the district's main city, is Nagaland's largest commercial hub with the Kachari Ruins, the Kalibari, and the ISKCON temple; its airport and railway station link it to Guwahati, Kolkata and Delhi.",
+  "tradition": "Shaivism (Hinduism)",
+  "travel": {
+    "airport": "Dimapur Airport, the nearest airport (verify distance).",
+    "railway": "Dimapur railway station, the nearest railhead (verify distance).",
+    "road": "Singrijan village is south-west of Dimapur city near Rangapahar; reach by taxi/auto from Dimapur (verify local directions)."
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March for pleasant weather; Maha Shivratri (February-March) is the grandest festival but very crowded (verify).",
+    "opening_hours": "6:00 AM to 8:00 PM daily per astroved.com (verify)."
+  }
+}

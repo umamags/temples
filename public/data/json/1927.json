@@ -1,0 +1,55 @@
+{
+  "alternate_names": [
+    "Mahadev Khola Mandir",
+    "Khola Mahadev Temple",
+    "Sri Mahadev Khola Dham"
+  ],
+  "deities": [
+    "Lord Shiva as Mahadev (presiding; shivlinga enshrined in the cave)",
+    "Ganesha (sub-shrine in the complex - verify)",
+    "Lord Ram (sub-shrine in the complex - verify)",
+    "Lord Krishna (sub-shrine in the complex - verify)"
+  ],
+  "district": "East Khasi Hills",
+  "festivals": [
+    "Maha Shivaratri - three-day mela with over 25,000 devotees; the temple's main annual festival",
+    "Shravan month (July-August) rituals (verify)",
+    "Diwali observances (verify)"
+  ],
+  "history": {
+    "dynasty": "None - a folk/devotional shrine of the colonial and post-independence era",
+    "period": "19th century (believed about 150 years old); present structures built after independence",
+    "summary": "POSSIBLE DUPLICATE of seq 704 (Mahadev Khola Dham) - this is the same real temple, written here for CSV seq 1927 with a unique id. Mahadev Khola Dham is one of the oldest Hindu temples in Meghalaya, a cave temple dedicated to Lord Shiva at Upper Shillong, about 5 km from the Shillong bus stand, on the banks of the Umshyrpi river near Lawsohtun/Laban. According to the legend recounted by the temple, the shrine stands where Lakhiya Baba, a sage, chose to meditate; a subedar-major of the 8th Gorkha Regiment dreamt of the sage meditating with a trishul and rudraksha necklace, found him the next day at this spot, and, during excavation for the temple, unearthed a huge shivlinga - hence the Shiva dedication. The earlier temple was built with the permission of the British government; the present structures were built by devotees after independence. A small opening in the cave is believed to lead directly to the Kamakhya temple atop the Nilachal Hills in Assam. A grand three-day Shiva mela is held every year on Maha Shivaratri, drawing over 25,000 devotees. Opening hours conflict between sources (verify)."
+  },
+  "id": "mahadev-khola-dham-shillong",
+  "latitude": 25.56419,
+  "longitude": 91.8618,
+  "media": [
+    "https://itin-dev.wanderlogstatic.com/freeImageSmall/pyAfWSOdrqUkul0wMGWWvOAqebQmRnfr"
+  ],
+  "name": "Mahadev Khola Dham",
+  "sources": [
+    "https://mahadevkholadham.org/temple-history/",
+    "https://www.trawell.in/meghalaya/shillong/mahadev-khola-dham",
+    "https://temple.yatradham.org/temple/mahadev-khola-dham",
+    "https://wanderlog.com/place/details/4990524/mahadev-khola-dham"
+  ],
+  "state": "Meghalaya",
+  "town": "Shillong (Upper Shillong / Laban; CSV town 'Shillong' correct)",
+  "town_description": "Shillong, the capital of Meghalaya at about 1,525 m in the East Khasi Hills, is the former capital of undivided Assam, known as the 'Scotland of the East'. Its attractions include Shillong Peak, Elephant Falls, Wards Lake, the Don Bosco Museum and a vibrant music culture. Mahadev Khola Dham lies in a verdant gorge at Upper Shillong near Laban (address: Lawsohtun, Laban, Shillong 793004), in North Indian architectural style with shikharas.",
+  "tradition": "Hinduism (Shaivism)",
+  "travel": {
+    "airport": "Shillong Airport (Umroi) is the nearest airport (verify distance); Guwahati Airport is the nearest major airport, approx. 100-130 km (verify).",
+    "railway": "Nearest major railway station is Guwahati, Assam, approx. 100-130 km; taxis and buses run to Shillong (verify).",
+    "road": "About 5 km from the Shillong bus stand and 2 km from the city centre near Laban; reachable by local taxi, autorickshaw or private vehicle."
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March for pleasant weather. Maha Shivaratri (February-March) brings the three-day mela and the largest crowds; quieter visits are best on weekday mornings.",
+    "opening_hours": "CONFLICT between sources (verify before visiting): one travel guide lists 6:00 AM-12:00 PM and 4:30 PM-6:00 PM; the temple's own site and another guide list 7:00 AM-7:00 PM daily."
+  }
+}

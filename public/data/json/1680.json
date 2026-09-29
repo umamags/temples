@@ -1,0 +1,57 @@
+{
+  "alternate_names": [
+    "ISKCON Hubli-Dharwad",
+    "ISKCON Hubballi"
+  ],
+  "deities": [
+    "Krishna",
+    "Balarama",
+    "Gaura Nitai",
+    "Lakshmi Narasimha"
+  ],
+  "district": "Dharwad",
+  "festivals": [
+    "Janmashtami",
+    "Radhashtami",
+    "Gaura Purnima",
+    "Rath Yatra",
+    "Diwali",
+    "Kartik month observances (typical ISKCON festivals - verify for this centre)"
+  ],
+  "history": {
+    "dynasty": "None (modern ISKCON centre)",
+    "period": "Utsava deities installed Sri Ramanavami 2002; makeshift temple at Rayapur 2006",
+    "summary": "CSV TOWN NOTE: 'Hubli' is the anglicized name of Hubballi; the temple stands at Rayapur on the Hubballi-Dharwad road, Dharwad district. On Sri Ramanavami 2002 the panchaloha utsava deities of Sri Krishna Balarama, Sri Gaura Nitai and Srila Prabhupada (carved in Vrindavan) were installed in a rented building at Lingarajnagar, Hubli. The Government of Karnataka allotted ~8.2-8.5 acres at Rayapur (2005), and the deities were moved to a makeshift temple there in 2006; Sri Lakshmi Narasimha deities were installed in May 2015. Bhoomi puja (2011) and shilanyasa (2013) were performed for a new Sri Radha Krishna Temple and Cultural Complex on the site; a YouTube vlog claims the new complex was inaugurated 22 June 2026 - UNVERIFIED by official sources (verify). The centre runs an Akshaya Patra kitchen, goshala and cultural programmes."
+  },
+  "id": "iskcon-sri-krishna-balarama-temple",
+  "latitude": 15.40489,
+  "longitude": 75.06963,
+  "media": [
+    "https://itin-dev.wanderlogstatic.com/freeImage/ESwO9x1wP4JWFbdwXD9kAc2l7wwVqZhr"
+  ],
+  "name": "ISKCON Sri Krishna Balarama Temple",
+  "sources": [
+    "https://www.iskconhubli.org/deities/",
+    "https://www.fueladream.com/home/campaign/70204",
+    "https://Wanderlog.com/place/details/324543/iskcon-sri-krishna-balarama-temple",
+    "https://www.tripadvisor.in/Attraction_Review-g1154299-d4138555-Reviews-ISKCON_Sri_Krishna_Balarama_Temple-Hubli_Dharwad_Dharwad_District_Karnataka.html"
+  ],
+  "state": "Karnataka",
+  "town": "Hubballi",
+  "town_description": "Hubballi (formerly Hubli), twinned with Dharwad as the Hubballi-Dharwad municipal corporation, is the commercial and educational hub of North Karnataka. It is a major rail and road junction on NH-48 between Bengaluru and Pune, known for its BRTS bus corridor, the large Akshaya Patra centralised kitchen, and a strong base of educational and cultural institutions.",
+  "tradition": "Hinduism (Gaudiya Vaishnavism)",
+  "travel": {
+    "airport": "Hubballi Airport (HBX) - about 10 km (verify).",
+    "railway": "Hubballi Junction - about 7-8 km (verify).",
+    "road": "On the Hubballi-Dharwad (PB) Road at Rayapur, beside the Bengaluru-Pune NH-48 bypass; served by the Hubballi-Dharwad BRTS bus route (verify)."
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October-March; morning or evening aarti for the full experience (verify).",
+    "opening_hours": "CONFLICT (verify): 9:30 AM-1:00 PM and 4:30-8:30 PM daily (Wanderlog) vs 9:30 AM-8:30 PM all days (Google place listing)."
+  }
+}

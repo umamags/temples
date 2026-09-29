@@ -1,0 +1,48 @@
+{
+  "alternate_names": [
+    "Khuangchera Pûk",
+    "Khuangchera Cave"
+  ],
+  "deities": [
+    "None - natural cave; named after the legendary Mizo warrior Khuangchera (verify)"
+  ],
+  "district": "Mamit",
+  "festivals": [
+    "No religious festivals observed (verify)"
+  ],
+  "history": {
+    "dynasty": "",
+    "period": "",
+    "summary": "NOT A HINDU TEMPLE - keep-or-drop decision needed: Khuangchera Puk is a natural cave ('puk' = cave in Mizo), not a temple. CSV TOWN CORRECTION: it is NOT in Champhai - the cave stands at Ailawng near Reiek village, about 30 km west of Aizawl in Mamit district (the grottomap survey lists the Ailawng area in Mamit district); town corrected to Ailawng and district corrected to Mamit. The cave is named after Khuangchera, a legendary Mizo warrior of the late 19th century: his villagers relied on a spring flowing from a narrow cave but superstition kept anyone from entering it, and Khuangchera ventured in with a bamboo torch and proved that the two entrances on opposite sides of the hillside connected through one underground passage beneath the hill (an early-1980s local club later re-explored and documented the cave in his memory). The 150-162 m long tunnel cave is of gravitational origin, developed along a zigzagging rift in mudstone of the Bhuban Formation (Miocene), with two opposite entrances - an upper south-western sinkhole entrance and a lower north-eastern triangular resurgence entrance near the first houses of Ailawng. It is described as Mizoram's second-longest cave (some sources say the longest - verify). It served as a hideout in times of inter-village conflict and is now a tourist attraction for caving and climbing. Foreign tourists require an Inner Line Permit for Mizoram (verify current rules)."
+  },
+  "id": "khuangchera-puk-cave",
+  "latitude": 23.68929,
+  "longitude": 92.6188,
+  "media": [
+    "https://vushii.com/uploads/791658986_Khuangchera%20Puk,%20Aizawl7.jpg"
+  ],
+  "name": "Khuangchera Puk",
+  "sources": [
+    "https://www.incredibleindia.gov.in/en/mizoram/aizawl/khuangchera-puk",
+    "https://grottomap.org/en/entrance/feNq0TP2/khuangchera_puk",
+    "https://vushii.com/place.php?name=Khuangchera%20Puk"
+  ],
+  "state": "Mizoram",
+  "town": "Ailawng (near Reiek)",
+  "town_description": "Ailawng is a small village near Reiek, about 30 km west of Aizawl in Mamit district, Mizoram, on the Reiek-Ailawng road at about 1,485 m above sea level. Reiek is a well-known hill station and tourist hub with the Heritage Village and Reiek Tlang (cliff); the two entrances of Khuangchera Puk lie a short walk from the Ailawng road, marked by signboards.",
+  "tradition": "Mizo folklore/historic landmark - cave, not a Hindu shrine",
+  "travel": {
+    "airport": "",
+    "railway": "",
+    "road": ""
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "",
+    "opening_hours": ""
+  }
+}

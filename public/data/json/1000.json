@@ -1,0 +1,52 @@
+{
+  "alternate_names": [
+    "Dharmapuri Narasimha Temple",
+    "Shri Laxmi Narasimha Swamy Devasthanam"
+  ],
+  "deities": [
+    "Lord Narasimha - worshipped primarily as Yoga Narasimha; the complex also houses the Ugra (fierce) form and the Saumya (peaceful) form",
+    "Goddess Lakshmi (Lakshmi Narasimha)",
+    "Yama, lord of Dharma (idol at the entrance)",
+    "Lord Anjaneya Swamy (Kshetra Swamy)"
+  ],
+  "district": "Jagtial",
+  "festivals": [
+    "Nrusimha Jayanti (heavily crowded)",
+    "Vaikuntha Ekadashi (heavily crowded)",
+    "Karthika Pournami (heavily crowded)"
+  ],
+  "history": {
+    "dynasty": "Chalukya (initial construction); expanded by the Kakatiyas; 17th-century rebuild",
+    "period": "Built 1018 AD per inscriptions; demolished by Muslim rulers in 1422-1436 AD; rebuilt in the 17th century",
+    "summary": "DUPLICATE CSV ROW - CANONICAL RECORD IS FILE 993.json. CSV row 1000 'Dharmapuri Sri Lakshmi Narasimha Swamy Temple | Karimnagar' refers to the SAME shrine as dataset row 993 ('Sri Lakshmi Narasimha Swamy Temple, Dharmapuri'). This file is a cross-reference record; 993.json (id: lakshmi-narasimha-swamy-temple-dharmapuri) is the canonical full research record and should be merged with this row or kept as the single entry. CSV town 'Karimnagar' is WRONG: the temple is at Dharmapuri on the banks of the Godavari, about 30 km from the Jagtial district HQ, in Jagtial district, Telangana. It is one of the Nava Narasimha Kshetras, founded per tradition by king Dharma Varma (the town's name derives from his); Dharmapuri is called 'Dakshina Kashi' / the 'Banaras of South India'. The temple was built in 1018 AD per inscriptions, demolished in 1422-1436 AD and rebuilt in the 17th century. See 993.json for the full researched entry."
+  },
+  "id": "lakshmi-narasimha-swamy-temple-dharmapuri-csv-duplicate",
+  "latitude": 18.95026,
+  "longitude": 79.09744,
+  "media": [
+    "https://uppunews.com/wp-content/uploads/2022/03/IMG_20220311_192551-2.jpg"
+  ],
+  "name": "Dharmapuri Sri Lakshmi Narasimha Swamy Temple",
+  "sources": [
+    "https://www.tripadvisor.in/Attraction_Review-g17829013-d23413054-Reviews-Dharmapuri_Sri_Lakshmi_Narasimha_Swamy_Temple-Dharmapuri_Jagtial_District_Tela.html",
+    "https://uppunews.com/2026/03/dharmapurinarshimha-hundiadhyamarakotie/"
+  ],
+  "state": "Telangana",
+  "town": "Dharmapuri (CSV town 'Karimnagar' is WRONG - the temple is at Dharmapuri in Jagtial district, ~30 km from Jagtial town)",
+  "town_description": "Dharmapuri is an ancient temple town on the banks of the Godavari in Jagtial district, about 30 km from Jagtial and 42 km from Mancherial. Known as 'Dakshina Kashi' / the 'Banaras of South India', it is one of the Nava Narasimha Kshetras and a major Vaishnavite pilgrimage centre. See 993.json for the full entry.",
+  "tradition": "Hinduism",
+  "travel": {
+    "airport": "Rajiv Gandhi International Airport, Hyderabad - about 230 km (verify).",
+    "railway": "Mancherial railway station - about 40 km (per Tripadvisor review; verify).",
+    "road": "On the banks of the Godavari at Dharmapuri, about 30 km from Jagtial by road (verify)."
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to February; Nrusimha Jayanti, Vaikuntha Ekadashi and Karthika Pournami draw very heavy crowds.",
+    "opening_hours": "Morning 5:00 am - 2:00 pm; evening 4:00 pm - 8:00 pm (per Tripadvisor review; verify - official timings not published)."
+  }
+}

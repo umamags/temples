@@ -1,0 +1,49 @@
+{
+  "alternate_names": [
+    "Maa Mahamaya Mandir",
+    "Mahamaya Mandir, Arrah"
+  ],
+  "deities": [
+    "Goddess Mahamaya (a form of Durga)"
+  ],
+  "district": "Bhojpur",
+  "festivals": [
+    "Navratri / Durga Puja",
+    "Diwali"
+  ],
+  "history": {
+    "dynasty": "Not documented",
+    "period": "Undocumented",
+    "summary": "IDENTITY UNCERTAIN: web sources confirm a Mahamaya temple in Arrah town dedicated to Goddess Mahamaya (an incarnation of Durga), but no published history or founding date was found for it. Separately, the Bhojpur district tourism page (bhojpur.nic.in) lists a Mahamaya Mandir at Ekwari village in Sahar block, said to have been built during the Mughal period - this may be the same shrine under the CSV's 'Arrah' label, or a different one; treated as distinct until verified. Coordinates use Arrah town centre as a placeholder pending confirmation. A Hindu temple; no non-Hindu flag."
+  },
+  "id": "mahamaya-temple-arrah",
+  "latitude": 25.5582,
+  "longitude": 84.67778,
+  "media": [
+    "https://hindi.cdn.zeenews.com/hindi/sites/default/files/2023/06/19/1889511-mahamaya-temple.jpg"
+  ],
+  "name": "Mahamaya Temple, Arrah",
+  "sources": [
+    "https://trackstick.com/arrah-india/4/",
+    "https://trek.zone/en/india/places/857834/arrah",
+    "https://bhojpur.nic.in/tourism/"
+  ],
+  "state": "Bihar",
+  "town": "Arrah",
+  "town_description": "Arrah (also spelled Ara) is the administrative headquarters of Bhojpur district in Bihar, situated on the banks of the Son River about 60 km west of Patna. An ancient town with a history going back to the Dvapara Yuga legends and the 1857 rebellion (home of Veer Kunwar Singh), it is known for the Aranya Devi temple, Ramna Maidan, the 18th-century Kila Arrah and the Mughal-era Shahi Masjid. It is well connected by rail (Arrah Junction) and road via NH 30.",
+  "tradition": "Shaktism (Hinduism)",
+  "travel": {
+    "airport": "Jay Prakash Narayan International Airport, Patna (~60 km east); then taxi/bus to Arrah",
+    "railway": "Arrah Junction (Ara) on the Howrah-Delhi main line",
+    "road": "On NH 30 (old NH 30 Patna-Buxar route); regular buses from Patna"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March (cooler, dry season); Navratri is the festive peak",
+    "opening_hours": "Opening hours not published online; typical small-shrine hours are roughly 5:00 AM-9:00 PM (unverified)"
+  }
+}

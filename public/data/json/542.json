@@ -1,0 +1,43 @@
+{
+  "alternate_names": [
+    "Maa Vaishno Dhaam"
+  ],
+  "deities": [
+    "Maa Vaishno Devi"
+  ],
+  "district": "Bhopal",
+  "festivals": [
+    "Navratri (assumed; verify)"
+  ],
+  "history": {
+    "dynasty": "Unknown (verify)",
+    "period": "Unknown (verify)",
+    "summary": "PROVISIONAL ENTRY — IDENTITY UNVERIFIED. No web article, review page or official listing for a temple named exactly 'Maa Vaishno Devi Dham' in Bhopal could be found after genuine searching (web search and image search both returned only unrelated temples in Vrindavan, Firozabad, Indore and other cities). The closest match is a map listing titled 'Maa Vaishno Dhaam' at Nikhil Bunglows, Narmadapuram Rd, Bhopal (coordinates recorded here), classified as a Hindu temple. An alternative map listing, 'Maa Vaishnoo Devi Temple' on Indore Highway Rd, Bhopal (approx 23.252, 77.277), may be the intended referent instead. The CSV row may refer to a small local shrine with no online footprint. Do not treat any field below as verified; confirmation on the ground is needed. NOTE (2026-09-29): a Meta maps/places listing for \"Maa Vaishno Dhaam\" (Nikhil Bunglows, Narmadapuram Rd, Bhopal) exists, but no web article, review page or official temple listing could be found - identity remains unverified."
+  },
+  "id": "maa-vaishno-devi-dham-bhopal-provisional",
+  "latitude": 23.186503,
+  "longitude": 77.455225,
+  "media": [],
+  "name": "Maa Vaishno Devi Dham",
+  "sources": [
+    "https://meta.ai?place_id=926632789421533"
+  ],
+  "state": "Madhya Pradesh",
+  "town": "Bhopal",
+  "town_description": "Bhopal, the capital of Madhya Pradesh, is known as the City of Lakes for its two artificial lakes (Upper and Lower) built centuries ago. It is one of India's greenest cities, blending Nawabi heritage — mosques, palaces and bazaars — with modern institutions and museums.",
+  "tradition": "Hinduism (Shakta, Vaishno Devi — verify)",
+  "travel": {
+    "airport": "Raja Bhoj International Airport, Bhopal (verify)",
+    "railway": "Bhopal Junction (verify)",
+    "road": "Provisional coordinates place it on Narmadapuram Rd; verify the actual location before use"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "Unknown (verify)",
+    "opening_hours": "Unknown (verify)"
+  }
+}

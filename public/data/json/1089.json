@@ -1,0 +1,45 @@
+{
+  "alternate_names": [
+    "Shree Shiv Temple, Vaishali"
+  ],
+  "deities": [
+    "Shiva"
+  ],
+  "district": "Ghaziabad",
+  "festivals": [
+    "Mahashivratri",
+    "Sawan Mondays"
+  ],
+  "history": {
+    "dynasty": "None (modern)",
+    "period": "Modern (undated)",
+    "summary": "Neighbourhood Shiva temple in Sector 2, Vaishali, Ghaziabad (directory listings). UNCERTAIN DETAILS: opening hours conflict between sources - Poojat lists 5:00 am-12:00 pm and 5:00 pm-10:00 pm, while Justdial lists 6:00 am-8:00 pm daily (verify). Founding date unknown (verify). CSV town 'Ghaziabad' retained; actual locality is Vaishali, Ghaziabad."
+  },
+  "id": "shiv-mandir-vaishali-ghaziabad",
+  "latitude": 28.64039,
+  "longitude": 77.34105,
+  "media": [],
+  "name": "Shiv Mandir, Vaishali",
+  "sources": [
+    "https://poojat.com/shiv-mandir-sector-2-ghaziabad",
+    "https://www.justdial.com/Delhi/Shree-Shiv-Temple-Vaishali-Vaishali-Ghaziabad/011PXX11-XX11-191017031924-R6B1_BZDET"
+  ],
+  "state": "Uttar Pradesh",
+  "town": "Ghaziabad",
+  "town_description": "Ghaziabad is a large industrial city in western Uttar Pradesh on Delhi's eastern edge, part of the National Capital Region; its planned townships of Raj Nagar, Kavi Nagar and Vaishali mix dense residential sectors with markets, parks and neighbourhood temples.",
+  "tradition": "Shaiva (Hindu)",
+  "travel": {
+    "airport": "Nearest airport: Delhi IGI Airport (DEL) (verify)",
+    "railway": "Nearest stations: Sahibabad / Anand Vihar Terminal, a short drive (verify)",
+    "road": "Sector 2, Vaishali, close to Anand Vihar ISBT, Delhi (verify)"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March; Mahashivratri is the peak",
+    "opening_hours": "CONFLICT: Poojat lists 5:00 am-12:00 pm and 5:00 pm-10:00 pm; Justdial lists 6:00 am-8:00 pm daily (verify)"
+  }
+}

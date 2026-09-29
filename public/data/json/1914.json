@@ -1,0 +1,53 @@
+{
+  "alternate_names": [
+    "Shree Govindajee Temple",
+    "Shri Govindaji Temple"
+  ],
+  "deities": [
+    "Govindaji (Krishna) and Radha (central chamber of the garbhagriha; presiding deities)",
+    "Jagannath, Subhadra and Balabhadra (northern adjoining chamber)",
+    "Krishna and Balarama (southern adjoining chamber)"
+  ],
+  "district": "Imphal East",
+  "festivals": [
+    "Janmashtami (August) - one of the two biggest festivals",
+    "Kang / Rathayatra (June-July) - one of the two biggest festivals",
+    "Ras Lila (Manipuri classical dance) during Halangkar (Holi), Basant Purnima (February) and Kartik Purnima (October)"
+  ],
+  "history": {
+    "dynasty": "Manipuri kings (Vaishnavite royal tradition of Manipur)",
+    "period": "Idol installed 1846/1876 per tradition (dates vary between 1846, 1876 and 1908 across sources - verify)",
+    "summary": "DUPLICATE of seq 705 ('Shri Govindajee Temple', id shri-govindajee-temple) - the same famous temple; the earlier CSV row mislabeled its town/state as Mairang/Meghalaya, while this row correctly places it at Imphal, Manipur. The Shri Govindajee Temple stands beside the former royal palace in central Imphal and is the principal Vaishnavite shrine of Manipur, the presiding deity of the erstwhile Manipuri kingdom. The twin-domed white shrine houses Govindaji (Krishna) and Radha in the central chamber, with Jagannath-Subhadra-Balabhadra and Krishna-Balarama in adjoining chambers. It is the centre of Manipuri Ras Lila performances and the Kang (Rathayatra) festival."
+  },
+  "id": "shri-govindajee-temple-imphal",
+  "latitude": 24.79737,
+  "longitude": 93.9483,
+  "media": [
+    "https://chaloghumane.com/wp-content/uploads/2021/08/Shree-Govindajee-Temple-Imphal-445x265.jpg"
+  ],
+  "name": "Shri Govindajee Temple",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Shree_Govindajee_Temple",
+    "https://chaloghumane.com/temples/golden-pagoda/",
+    "https://tripxl.com/blog/shri-govind-ji-temple-in-manipur/",
+    "https://trekgo.in/blog/temples-imphal"
+  ],
+  "state": "Manipur",
+  "town": "Imphal",
+  "town_description": "Imphal is the capital of Manipur in northeast India, set in a valley ringed by hills at about 786 m elevation. It is the cultural heart of the Meitei people - home to the Kangla palace ruins, the Ima Keithel women's market, Loktak Lake nearby, and a living Vaishnavite tradition expressed through the Manipuri Ras Lila dance. The city blends its royal past with a vibrant contemporary arts and sports culture.",
+  "tradition": "Hinduism (Vaishnavism)",
+  "travel": {
+    "airport": "Imphal International Airport (flights from New Delhi, Kolkata, Guwahati and Silchar per Wikipedia - verify current schedules).",
+    "railway": "Nearest railhead is Dimapur, Nagaland, 215 km away, with regular bus services to Imphal (verify - per Wikipedia).",
+    "road": "Imphal is connected by NH-39 (to Dimapur/Myanmar), NH-53 (to Silchar, Assam) and NH-150 (to Mizoram) (verify). The temple stands by the palace in central Imphal."
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March for pleasant weather (verify). Janmashtami (August) and Kang/Rathayatra (June-July) are the grandest but most crowded; Basant Purnima (February) and Kartik Purnima (October) for Ras Lila.",
+    "opening_hours": "Daily 5:00 AM-12:00 PM and 4:00 PM-9:00 PM (verify - per one travel guide). Strict dress code and ritualistic worship: men in white kurta/dhoti, women in phanek/innafi, salwar kameez or sari; separate queues by gender (verify on site)."
+  }
+}

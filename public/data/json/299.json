@@ -1,0 +1,47 @@
+{
+  "alternate_names": [],
+  "deities": [
+    "Lord Swaminarayan"
+  ],
+  "district": "Anand",
+  "festivals": [
+    "Janmashtami",
+    "Diwali"
+  ],
+  "history": {
+    "dynasty": "Modern (BAPS Swaminarayan Sanstha)",
+    "period": "Modern (consecration date not found)",
+    "summary": "A BAPS Swaminarayan Sanstha mandir dedicated to Lord Swaminarayan, listed on baps.org as the Anand mandir at Goya Talav, Mathiya Chora, Anand. Built of carved stone and marble in traditional style, with a garden, cultural halls and satsang space; Janmashtami and Diwali are celebrated with special devotion (yatradham.org). AMBIGUITY FLAG: several BAPS mandirs exist in and around Anand (Jitodiya Road, Vallabh Vidyanagar listings), and the historic first BAPS mandir at Bochasan (1907, built by Shastriji Maharaj, ~24 km from Anand) is a separate temple in Anand district; the CSV row gives no address, so this file documents the baps.org-listed Anand mandir and the row should be verified against it. The mandir's consecration/founding date was not found in sources - do not treat as known. Coordinates are those of the baps.org Goya Talav listing, approximate."
+  },
+  "id": "baps-shri-swaminarayan-mandir-anand",
+  "latitude": 22.553388,
+  "longitude": 72.954358,
+  "media": [
+    "https://temple.yatradham.org/public/Product/temple/temple_utnYgs6T_202508042040410.webp"
+  ],
+  "name": "BAPS Shri Swaminarayan Mandir",
+  "sources": [
+    "http://www.baps.org/Anand",
+    "https://temple.yatradham.org/temple/baps-shri-swaminarayan-mandir-anand",
+    "https://vushii.com/place.php?name=BAPS Shri Swaminarayan Mandir, Mathiya Chora",
+    "https://nrievents.com/directory-live_darshan/listing/baps-shri-swaminarayan-mandir-bochasan/"
+  ],
+  "state": "Gujarat",
+  "town": "Anand",
+  "town_description": "Anand is a city in central Gujarat known as the Milk Capital of India (home of Amul) and the Vallabh Vidyanagar educational hub; a major rail junction on the Ahmedabad-Mumbai line.",
+  "tradition": "Hinduism (Swaminarayan Sampradaya)",
+  "travel": {
+    "airport": "Vadodara Airport, ~40 km",
+    "railway": "Anand Junction, ~3 km",
+    "road": "Goya Talav, Mathiya Chora, Anand; well connected by road"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March",
+    "opening_hours": "7:00 AM - 9:00 PM (per baps.org listing)"
+  }
+}

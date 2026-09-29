@@ -1,0 +1,45 @@
+{
+  "alternate_names": [
+    "Gurudwara Shri Guru Gobind Singh Ji, Ellenabad"
+  ],
+  "deities": [
+    "Guru Granth Sahib"
+  ],
+  "district": "Sirsa",
+  "festivals": [
+    "Baisakhi",
+    "Gurpurab"
+  ],
+  "history": {
+    "dynasty": "",
+    "period": "Modern (20th century)",
+    "summary": "NOT A HINDU TEMPLE — SIKH GURDWARA; keep-or-drop decision needed. The Haryana Tourism-listed 'Gurudwara Guru Gobind Singh' associated with the tenth Guru, Guru Gobind Singh (who is said to have stayed here for a night), is at Ellenabad, SIRSA district — the CSV town 'Hisar' is wrong and should be corrected (no gurdwara of this name is documented in Hisar city). The complex is spread over 8 acres with a sarovar/tank (separate enclosure for ladies), a small museum and a library, per Haryana Tourism. Note: a different, similarly named shrine — 'Gurudwara Guru Gobind Singh, Chormar Khera (Tehsil Dabwali)' — is also listed by the Divisional Commissioner, Hisar, as a Sirsa-district religious site, so the exact referent should be verified; the Ellenabad shrine is documented here as the most prominent one."
+  },
+  "id": "gurudwara-guru-gobind-singh-ellenabad",
+  "latitude": 29.43156,
+  "longitude": 74.92519,
+  "media": [],
+  "name": "Gurudwara Guru Gobind Singh",
+  "sources": [
+    "https://haryanatourism.gov.in/places_of_interest/gurudwara-guru-gobind-singh/",
+    "https://commhsr.haryana.gov.in/places-centres/rani-talab-jind/"
+  ],
+  "state": "Haryana",
+  "town": "Ellenabad",
+  "town_description": "Ellenabad is a town in Sirsa district in northwestern Haryana, close to the Rajasthan border. It is best known for the historical Gurudwara Guru Gobind Singh, associated with a visit by the tenth Sikh Guru.",
+  "tradition": "Sikhism",
+  "travel": {
+    "airport": "Nearest major airport: Chandigarh International Airport (approx. 225 km)",
+    "railway": "Ellenabad railway station",
+    "road": "On SH-23; connected by road to Sirsa (approx. 40 km) and Hisar (approx. 130 km)"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March",
+    "opening_hours": "Not documented; gurdwaras typically open from early morning (Amrit Vela) to late evening"
+  }
+}

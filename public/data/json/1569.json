@@ -1,0 +1,44 @@
+{
+  "alternate_names": [
+    "Radha Krishna Temple"
+  ],
+  "deities": [
+    "Krishna",
+    "Radha"
+  ],
+  "district": "Kangra",
+  "festivals": [
+    "Janmashtami (verify)"
+  ],
+  "history": {
+    "dynasty": "unknown",
+    "period": "unknown",
+    "summary": "IDENTITY UNVERIFIED: documented against the standalone Radha Krishna Temple listed in Baijnath town (approx 32.03935, 76.61672). Possible alternative referent: the small Radha-Krishna shrine reported outside the main Baijnath Vaidyanath temple complex (himbassador notes a 'small Radha Krishna temple' outside the main shrine, across from a Shiva sculpture where snake sightings are reported). Founding date, founders and temple details are not documented online; coordinates approximate."
+  },
+  "id": "radha-krishna-temple-baijnath",
+  "latitude": 32.03935,
+  "longitude": 76.61672,
+  "media": [],
+  "name": "Krishna-Radha Shrine",
+  "sources": [
+    "https://himbassador.in/temples-in-himachal/baijnath-temple/"
+  ],
+  "state": "Himachal Pradesh",
+  "town": "Baijnath",
+  "town_description": "Baijnath is a small town in Kangra district, Himachal Pradesh, in the Beas valley on the banks of the Binwa river, about 16 km from Palampur at the foothills of the Dhauladhar range. It grew around the 13th-century Vaidyanath Shiva temple and remains a major Shaivite pilgrimage stop, also serving as a gateway to paragliding at Bir-Billing and the Tibetan monasteries of the valley.",
+  "tradition": "Hinduism (Vaishnavism)",
+  "travel": {
+    "airport": "Gaggal (Kangra) Airport, ~50 km (verify)",
+    "railway": "Baijnath-Paprola station, ~3 km (verify)",
+    "road": "Baijnath town on NH 154; local auto/taxi (verify)"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "March to June and September to November (verify)",
+    "opening_hours": "No reliable hours found (verify)"
+  }
+}

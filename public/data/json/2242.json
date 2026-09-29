@@ -1,0 +1,53 @@
+{
+  "alternate_names": [
+    "1008 Lingam Temple",
+    "1008 Shiva Temple",
+    "1008 Shivalay",
+    "Shiva & Rajarajeshwari Temple"
+  ],
+  "deities": [
+    "Sri Arunachala Sundareswarar (Shiva; 18-ft main lingam in the moolasthanam)",
+    "Umayambika (consort)",
+    "Rajarajeshwari (hilltop shrine)"
+  ],
+  "district": "Salem",
+  "festivals": [
+    "Maha Shivaratri (typical for a Shiva temple of this scale — no specific festivals named in consulted sources; verify locally)"
+  ],
+  "history": {
+    "dynasty": "None (modern temple)",
+    "period": "Built c. 2010 by Vinayaka Mission (per Wanderlog and devotional sources)",
+    "summary": "IDENTITY CONFIRMED: the Sahasra Lingeswarar (1008 Lingam) Temple is a modern hillock temple at Ariyanoor/Ariyanur, a Salem suburb on the Salem-Sankagiri/Erode road, built and maintained by the Vinayaka Mission (Vivekanandha/Vinayaka Mission institutions). 1007 lingams surround the central 18-ft lingam (each named after a thousand names of Shiva), with a massive Nandi in the moolasthanam; sub-shrines include Vinayaka (huge statue at the foothill), Perumal, Ashta Lakshmi, Ayyappan, Anjaneyar, the six Arupadai Veedu Murugan shrines, Navagraha, Sri Rama with Sita, Akshaya Aishwarya Lakshmi, Raja Rajeswari, Annapoorani, Mahalakshmi and Andal, set against the Sankagiri hill range. TIMING CONFLICT FLAG: official 7:30 AM-12:30 PM & 4-8 PM (salem.nic.in, TN Tourism brochure) vs 8 AM-8 PM (visittemples.com) vs 5 AM-12 PM & 4-10 PM (one devotional blog) vs 9-11 AM & 5-8 PM pooja hours (TripAdvisor) — verify locally. DISTANCE NOTE: sources vary, ~8 km (mytempletrips), ~10 km (devotional shorts), ~14 km from Salem city centre (Wanderlog). CSV TOWN FLAG: actual town is Ariyanoor (Ariyanur), not Salem city — documented with the corrected town."
+  },
+  "id": "sahasra-lingeswarar-temple-salem",
+  "latitude": 11.59319,
+  "longitude": 78.07736,
+  "media": [
+    "https://ak-d.tripcdn.com/images/0ww57120008d39nen2A66_W_1440_810_Q80.webp?proc=source%2ftrip"
+  ],
+  "name": "Sahasra Lingeswarar Temple",
+  "sources": [
+    "https://www.visittemples.com/hindu/sahasralingeswaratempleariyanursalemtamilnadu",
+    "https://mytempletrips.in/ariyanoor-1008-lingam-temple-salem-tamil-nadu/",
+    "https://Wanderlog.com/place/details/172462",
+    "https://salem.nic.in/tourism/temples/"
+  ],
+  "state": "Tamil Nadu",
+  "town": "Ariyanoor (CSV town 'Salem' is approximate — the temple is in the Ariyanoor suburb, ~8-14 km from Salem city centre)",
+  "town_description": "Ariyanoor (Ariyanur) is a suburb on Salem's eastern fringe along the Salem-Kochi-Kanyakumari highway toward Sankagiri and Erode, at the foothills of the Sankagiri hill range. The 1008-lingam temple complex sits on a small hillock here, surrounded by Vinayaka Mission educational institutions.",
+  "tradition": "Shaivism (Shiva lingam worship; includes a Rajarajeshwari shrine)",
+  "travel": {
+    "airport": "Salem Airport (SXV), ~20 km (verify)",
+    "railway": "Veerapandi Road railway station (per TripHobo); Salem Junction ~15 km (verify)",
+    "road": "On the Salem-Kochi-Kanyakumari highway at Ariyanoor, ~8-14 km from Salem city; vehicles can drive to the hilltop shrines or visitors can climb on foot (per mytempletrips.in)"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October-February (winter months recommended); mornings soon after opening or evenings (per Wanderlog)",
+    "opening_hours": "7:30 AM-12:30 PM & 4:00-8:00 PM per salem.nic.in and the TN Tourism brochure; several sources differ (verify locally)"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "alternate_names": [
+    "Askot Wildlife Sanctuary",
+    "Askot Sanctuary"
+  ],
+  "deities": [],
+  "district": "Pithoragarh",
+  "festivals": [],
+  "history": {
+    "dynasty": "None (protected area established 1986)",
+    "period": "Established 1986 (20th century)",
+    "summary": "FLAG - NOT A HINDU TEMPLE: 'Askot Musk Deer Sanctuary Temple' is a misnomer. Askot Musk Deer Sanctuary (Askot Wildlife Sanctuary) is a protected wildlife sanctuary in Pithoragarh district, Uttarakhand, near the town of Askot - keep-or-drop decision needed for a Hindu-temples dataset. Established in 1986 to conserve the endangered Himalayan musk deer (Moschus leucogaster) and its habitat, it covers 599.93 sq km with altitudes from 600 m to 6,905 m, bounded by the Kali river (India-Nepal border) in the east and West Almora Forest Division to the west. In December 2021 the Union Environment Ministry declared it an Eco-Sensitive Zone, reducing the notified area to 454.65 sq km. Fauna includes snow leopard, Himalayan black bear, brown bear, leopard, jungle cat, Himalayan tahr, serow, goral, barking deer and high-altitude birds such as monal and snowcock. Religious places within the sanctuary include Bhanar, Chiplakot, Niirikot, Panchachuli, Kalapani and Chota Kailash (Adi Kailash); the Mallikarjun Mahadev Temple at Askot town (dedicated to Shiva and Parvati) is the nearest actual temple to the CSV name. Visitors need entry permits from the Uttarakhand Forest Department."
+  },
+  "id": "askot-musk-deer-sanctuary-pithoragarh",
+  "latitude": 29.80723,
+  "longitude": 80.39931,
+  "media": [
+    "https://www.indianetzone.com/public/admin/uploadImage/Askot_Musk_Deer_Sanctuary.jpg"
+  ],
+  "name": "Askot Musk Deer Sanctuary Temple",
+  "sources": [
+    "https://bugyalvalley.com/uttarakhand-tourism/pithoragarh/askot-musk-deer-sanctuary/",
+    "https://tourism.webindia123.com/tourism/wildlife/nationalpark/askot_musk_deer_sanctuary/index.htm",
+    "https://travelsetu.com/guide/askot-musk-deer-sanctuary-tourism/askot-musk-deer-sanctuary-faqs",
+    "https://omadikailash.com/exploring-the-askot-musk-deer-sanctuary/",
+    "https://testbook.com/question-answer/in-december-2021-askot-wildlife-sanctuary-has-bee--61bf04763cf3d22c7a2f0d89/amp"
+  ],
+  "state": "Uttarakhand",
+  "town": "Askot",
+  "town_description": "Askot is a small town in Pithoragarh district on the Pithoragarh-Dharchula road, on the Kailash-Mansarovar pilgrimage route. Its name derives from 'Assi Kot' (eighty forts), many of which lie across the border in Nepal; the sanctuary named after it stretches east to the Kali river and north toward Tibet, with views of the Panchachuli, Neodhura and Naukana peaks.",
+  "tradition": "None - wildlife sanctuary; NOT a Hindu temple (keep-or-drop decision needed)",
+  "travel": {
+    "airport": "Naini Saini Airport, Pithoragarh (~60 km) has limited connectivity; Pantnagar Airport is the major airport gateway",
+    "railway": "Tanakpur railway station, about 204 km away (euttaranchal)",
+    "road": "About 54 km from Pithoragarh on the Pithoragarh-Dharchula highway, about 117 km from Almora; reachable via Haldwani-Almora or Tanakpur-Pithoragarh routes"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "April to June and September to November (multiple sources agree)",
+    "opening_hours": "Daylight hours recommended (sunrise to sunset); entry permits from the Uttarakhand Forest Department are required - confirm current timings locally"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "alternate_names": [
+    "Someshwar Nath Dham",
+    "Someshwar Shiva Mandir",
+    "Areraj Someshwar Mandir"
+  ],
+  "deities": [
+    "Lord Shiva (Someshwar Nath — five-faced/Panchmukhi lingam)"
+  ],
+  "district": "East Champaran",
+  "festivals": [
+    "Shrawani Mela (July-August)",
+    "Mahashivratri"
+  ],
+  "history": {
+    "dynasty": "Per Shiv Puran tradition: King Som, ~2000 years ago (legendary; UNVERIFIED); trust (Shri Someshwar Nath Mahadev Mandir Nyas Samiti-Areraj) set up 21 Aug 2006",
+    "period": "Ancient (legendary ~2000 years); temple management trust from 2006",
+    "summary": "POSSIBLE DUPLICATE of seq 159 (Someshwar Nath Mahadev Temple, Areraj — same temple, filed under a different CSV row). The Someshwar Nath Mahadev Temple at Areraj, East Champaran district (CSV town 'Motihari' corrected to Areraj; Areraj is ~28-30 km south-west of Motihari), is one of North Bihar's most-visited Shiva shrines, near the Nepal border. Per the Bihar tourism department and Shiv Puran tradition, King Som built the 55-ft-high temple about 2,000 years ago; its five-faced (Panchmukhi) lingam of Mahadeo is believed self-existent (swayambhu). Lakhs of pilgrims come from across Bihar and Nepal for the Shrawani Mela (July-August), when Kanwariyas bring Ganga jal from Sultanganj, and for Mahashivratri. The Shri Someshwar Nath Mahadev Mandir Nyas Samiti-Areraj trust was set up on 21 Aug 2006. Areraj Kund (sacred tank) is at the site, and the Lauriya Areraj Ashokan pillar (249 BCE) stands nearby."
+  },
+  "id": "someshwar-nath-mahadev-temple-east-champaran",
+  "latitude": 26.55119,
+  "longitude": 84.67525,
+  "media": [
+    "https://www.someshwarnathareraj.com/images/img_6994852f1ebf6.jpeg"
+  ],
+  "name": "Someshwar Nath Mahadev Temple, Areraj",
+  "sources": [
+    "https://tourism.bihar.gov.in/en/destinations/east-champaran/someshwar-nath-dham",
+    "https://templedarshan.live/bihar-temple-darshan/someshwar-nath-temple-areraj-ancient-shiva-temple-and-center-of-religious-fairs/",
+    "https://vimarsana.com/review/someshwar-nath-dham-the-holy-place-at-areraj-east-champaran-bihar",
+    "https://www.top-rated.online/cities/Kolkata/place/p/7162949/Shree+Someshwar+Nath+Mahadev+Mandir"
+  ],
+  "state": "Bihar",
+  "town": "Areraj",
+  "town_description": "Areraj is a small town in East Champaran district of northern Bihar, about 28-30 km south-west of the district headquarters Motihari, near the Nepal border. It is known as the Someshwar Nath Dham, a major Shiva pilgrimage centre, and for the nearby Lauriya Areraj Ashokan pillar (249 BCE). The town sits on the banks of the Teli (Telie) river.",
+  "tradition": "Hinduism (Shaivism)",
+  "travel": {
+    "airport": "Darbhanga Airport, ~110-120 km (verify)",
+    "railway": "Motihari Railway Station, ~28-30 km (verify)",
+    "road": "Pucca road from Motihari, ~28 km south-west to Areraj"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "September to April; Shravan month (July-August) and Mahashivratri for the melas",
+    "opening_hours": "CONFLICT (verify): travel sites list 4:30 AM-12:30 PM and 3:30 PM-9:00 PM; local listings list 8:30 AM-10:00 PM"
+  }
+}

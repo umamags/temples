@@ -1,0 +1,53 @@
+{
+  "alternate_names": [
+    "Shri Mahamaya Devi Mandir",
+    "Mahamaya Devi Temple, Ratanpur",
+    "Kosaleswari temple"
+  ],
+  "deities": [
+    "Goddess Mahamaya (Durga), worshipped as Mahalakshmi and Mahasaraswati; known as Kosaleswari, presiding deity of Dakshin Kosal"
+  ],
+  "district": "Bilaspur",
+  "festivals": [
+    "Sharad (autumn) Navratri",
+    "Chaitra (spring) Navratri (thousands of Jyoti Kalash lit; ~25,000 reported on day one of Chaitra Navratri 2026)",
+    "Diwali",
+    "Ram Navami"
+  ],
+  "history": {
+    "dynasty": "Kalachuris (Haihayas) of Ratnapura",
+    "period": "11th-13th century CE; legend dates the founding to 1045-1050 CE under King Ratnadeva I; current structure rebuilt in Vikram Samvat 1552 (1492 CE) by King Bahar Sai; renovated later by Marathas and by the ASI",
+    "summary": "One of the 52 Shakti Peethas (Siddh Shaktipeeth), at Ratanpur ~25 km from Bilaspur, the former Kalachuri capital. Legend: King Ratnadeva I, hunting in the village of Manipur, saw a miraculous light under a banyan tree and a gathering of Adi Shakti Mahamaya; he renamed Manipur as Ratnapura (Ratanpur) and built the temple in 1050 CE. Traditions say Sati's right shoulder (skanda) fell here, making it the Kaumari Shakti Peeth. Originally dedicated to Mahakali, Mahalakshmi and Mahasaraswati; the current temple (1492 CE) enshrines Mahalakshmi and Mahasaraswati. Build dates conflict across sources (11th vs 12th-13th c.). CSV TOWN CORRECTION: the temple is at Ratanpur town (Bilaspur district), not Bilaspur city itself. The guardian Kalbhairav temple stands on the approach road; the nearby Baba Bhairavnath temple at Ratanpur's entrance (CSV row 191) is a separate shrine."
+  },
+  "id": "ratanpur-mahamaya-temple",
+  "latitude": 22.28845,
+  "longitude": 82.15977,
+  "media": [
+    "https://upload.wikimedia.org/wikipedia/commons/7/77/Mahamaya_Temple_%40_Ratanpur%2C_Bilaspur%2C_Chattisgarh.jpg"
+  ],
+  "name": "Mahamaya Temple",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Mahamaya_Temple",
+    "https://www.rvatemples.com/listings/ratanpur-mahamaya-temple/",
+    "https://mahamayaratanpur.com/",
+    "https://english.dainikjagranmpcg.com/states/chhattisgarh/-chaitra-navratri-2026-devotees-flock-to-chhattisgarhs-famous-temples/article-15652"
+  ],
+  "state": "Chhattisgarh",
+  "town": "Ratanpur",
+  "town_description": "Ratanpur, ~25 km from Bilaspur on the Katghora road, was the capital of the Kalachuri kings of Dakshin Kosal and is called the 'city of ponds' for its historic tanks. It is a dense cluster of old temples, forts and palaces and is described locally as a city sacred in all four yugas.",
+  "tradition": "Shaktism (Hinduism)",
+  "travel": {
+    "airport": "Swami Vivekananda Airport, Raipur",
+    "railway": "Bilaspur Junction (~25-30 km)",
+    "road": "On the Bilaspur-Katghora road (NH-130); ~48 minutes by road from Bilaspur; temple campus about 0.5 km off the highway"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March; Navratri (both Chaitra and Sharad) is the peak pilgrimage season",
+    "opening_hours": "Reported 6:00 AM - 9:00 PM daily (temple website and travel listings; minor variations reported)"
+  }
+}

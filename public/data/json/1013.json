@@ -1,0 +1,55 @@
+{
+ "alternate_names": [
+  "Shri Rangapur Temple",
+  "Uttara Srirangapuram",
+  "Sri Ranganatha Swamy Temple, Srirangapuram"
+ ],
+ "deities": [
+  "Sri Ranganayaka Swamy (Lord Vishnu in the reclining Ranganatha form)",
+  "Sridevi",
+  "Bhudevi"
+ ],
+ "district": "Wanaparthy",
+ "festivals": [
+  "Brahmotsavalu",
+  "Jatara (15-day holy pilgrimage)",
+  "Sankranthi (Koti Utsavalu and Kalyanam)"
+ ],
+ "history": {
+  "dynasty": "Rajas of Wanaparthy Samasthanam (Motati Reddy Vamsa); epigraphical evidence names Raja Baheri Gopala Rao",
+  "period": "18th century (Saka 1685, circa 1763 AD, per Epigraphia Telanganica)",
+  "summary": "The Sri Ranganayaka Swamy Temple at Srirangapuram is an 18th-century Vaishnava temple built by Raja Baheri Gopal Rao of the Wanaparthy Samasthanam as a replica of the Sri Ranganathaswamy temple of Srirangam, earning it the name 'Uttara Srirangapuram' (Srirangapuram of the North); the presiding deity Sri Ranganadha Swamy was installed at Garudachala in Saka 1685 (c. 1763 AD) per inscriptions. Legend (per the Wanaparthy district portal) says Vijayanagara emperor Krishnadevaraya, enthralled by Srirangam, followed an eagle to an idol between the Kothakota and Kanvayapally/Karapakala hills and had this temple built near the Ratna Pushkarini (Ratna Pushpakarini) lake; later Mukha Mandapas were added by Sankaramba, wife of Wanaparthy ruler Rama Krishna Rao. The architecture is Vijayanagara-style. CONFLICT: one travel blog (travelwithkalyan) reports priests date the temple to 1540 CE - the epigraphical 1763 date is the better-sourced one; verify. CSV CORRECTIONS: the CSV town 'Mahbubnagar' is wrong - the temple is at SRIRANGAPUR (Srirangapuram village, Pebbair mandal), about 12-25 km from Wanaparthy and 10-11 km from Pebbair on the Hyderabad-Bengaluru highway. The district is now Wanaparthy (it was part of undivided Mahbubnagar district before the 2016 reorganisation), Telangana."
+ },
+ "id": "sri-ranganayaka-swamy-temple-srirangapur",
+ "latitude": 16.198,
+ "longitude": 78.049,
+ "media": [
+  "https://itin-dev.wanderlogstatic.com/freeImage/UaGKpaz3oQ1d1HyCdEyMorxkbytzHlqj"
+ ],
+ "name": "Sri Ranganayaka Swamy Temple",
+ "sources": [
+  "https://en.wikipedia.org/wiki/Sri_Ranganayaka_Swamy_Temple",
+  "https://wanaparthy.telangana.gov.in/tourist-place/sri-ranganayaka-swamy-temple-srirangapuram-v-pebbair-m/",
+  "https://www.telangana360.com/2016/12/sri-ranganayaka-swamy-temple.html",
+  "https://travelwithkalyan.com/sri-ranganayaka-swamy-temple/",
+  "https://xploreall.com/sri-ranganayaka-swamy-temple-srirangapuram/"
+ ],
+ "state": "Telangana",
+ "town": "Srirangapur",
+ "town_description": "Srirangapur (Srirangapuram) is a village in Pebbair mandal of Wanaparthy district, Telangana, about 10-11 km off NH44 at Pebbair and 25 km from Wanaparthy town. It is known for the Sri Ranganayaka Swamy Temple on the bund of the Ratna Pushkarini lake, which draws pilgrims from Karnataka, Maharashtra, Tamil Nadu and Andhra Pradesh.",
+ "tradition": "Hinduism (Vaishnavism)",
+ "travel": {
+  "airport": "Rajiv Gandhi International Airport, Hyderabad (Shamshabad), reported 120-160 km (sources conflict - verify).",
+  "railway": "Gadwal station, about 40 km away.",
+  "road": "About 10-11 km off NH44 (Hyderabad-Bengaluru) at Pebbair; about 25 km from Wanaparthy; about 160 km from Hyderabad. Regular buses from Wanaparthy."
+ },
+ "video": {
+  "audio": "",
+  "script": "",
+  "video_file": ""
+ },
+ "visitor_information": {
+  "best_time": "October to February; Sankranthi and Navaratri draw the largest crowds.",
+  "opening_hours": "Reported 6:00 AM-1:00 PM and 4:00 PM-8:00 PM (one source says 6 AM-8 PM without a midday break - verify before visiting)."
+ }
+}

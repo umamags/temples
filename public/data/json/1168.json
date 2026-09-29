@@ -1,0 +1,45 @@
+{
+  "alternate_names": [
+    "Mahananda Shiv Mandir",
+    "Mahananda Shiv Mandir, Lal Mohan Ghat"
+  ],
+  "deities": [
+    "Lord Shiva"
+  ],
+  "district": "Darjeeling",
+  "festivals": [
+    "Mahashivratri",
+    "Shravan Somvar (verify - no published festival calendar found)"
+  ],
+  "history": {
+    "dynasty": "Unknown (contemporary neighbourhood shrine)",
+    "period": "Modern (founding date not documented)",
+    "summary": "Mahananda Temple is a Shiva temple on the banks of the Mahananda river at Lal Mohan Ghat Road, Janta Nagar, Siliguri. No published history, founding date or festival calendar was found for it. UNCERTAIN IDENTITY: there are two Mahananda-linked Shiva shrines in Siliguri - this one at Lal Mohan Ghat Road (place listing 26.719022, 88.419815, used for the coordinates here, treat as approximate) and the Mahanandeshwar Shivalayam Temple near the 2nd Mahananda Bridge on Sevoke Road (26.739418, 88.423745). Opening hours are not published online - verify locally."
+  },
+  "id": "mahananda-temple-siliguri",
+  "latitude": 26.719022,
+  "longitude": 88.419815,
+  "media": [],
+  "name": "Mahananda Temple",
+  "sources": [
+    "https://www.justdial.com/Siliguri/Temples-in-Siliguri-Junction/nct-10475644"
+  ],
+  "state": "West Bengal",
+  "town": "Siliguri",
+  "town_description": "Siliguri is the largest city of North Bengal and the main gateway to the Northeast, Sikkim, Bhutan and Nepal. Straddling the Darjeeling and Jalpaiguri districts on the banks of the Mahananda river, it grew from a small trading town into a busy commercial and transport hub, served by Bagdogra airport and the New Jalpaiguri and Siliguri Junction railway stations.",
+  "tradition": "Shaivism",
+  "travel": {
+    "airport": "Bagdogra Airport (IXB), about 16 km southwest of Siliguri",
+    "railway": "Siliguri Junction, about 2 km; New Jalpaiguri (NJP), about 7 km",
+    "road": "Within Siliguri city on Lal Mohan Ghat Road, Janta Nagar; reachable by auto or taxi from anywhere in the city"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March (North Bengal winter)",
+    "opening_hours": "Unknown - not published online (verify locally)"
+  }
+}

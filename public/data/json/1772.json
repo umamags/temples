@@ -1,0 +1,56 @@
+{
+  "alternate_names": [
+    "Guruvayurappan Temple",
+    "Bhuloka Vaikunta",
+    "Dwarka of the South",
+    "Gurupavanapura temple"
+  ],
+  "deities": [
+    "Lord Guruvayurappan (four-armed form of Krishna/Mahavishnu)"
+  ],
+  "district": "Thrissur",
+  "festivals": [
+    "Guruvayur Ekadasi",
+    "Janmashtami (Krishna Jayanthi)",
+    "Vishu",
+    "Thiruvonam",
+    "Kumbham Utsavam (annual festival with elephant processions)"
+  ],
+  "history": {
+    "dynasty": "Legendary founding; pooja system codified by Adi Shankaracharya and the Chennas Namboodiri tantris (15th century Tantra Samuchaya); modern administration under Guruvayur Devaswom (Kerala government took over 1971, Devaswom Act 1978)",
+    "period": "Tradition claims 5,000 years; present structure dates to about the 14th century (verify)",
+    "summary": "POSSIBLE DUPLICATE of seq 510 (id guruvayur-temple-thrissur). Guruvayur Sri Krishna Temple is one of South India's most revered Krishna temples, called 'Bhooloka Vaikunta' (Vaikunta on earth) and the 'Dwarka of the South'. Legend (Gurupavanapura Mahatmya of the Narada Purana): the four-armed idol - worshipped by Vishnu himself in Vaikuntha and by Krishna at Dwaraka - was brought to Kerala by Guru (Brihaspati) and Vayu after Dwaraka's submersion and installed here. The idol is carved from Patala Anjanam (black bismuth), standing, holding conch, discus, mace and lotus. Pooja follows routines laid down by Adi Shankaracharya and the Tantra Samuchaya of Chennas Narayanan Namboodiri (b. 1427); the Chennas family are hereditary tantris. Narayaniyam was composed here by Melpathur Narayana Bhattathiri (legend says Krishna cured his paralysis). The temple was a key site of the 1931 Guruvayur Satyagraha. Strict rules: only Hindus may enter; men wear mundu (bare chest), women saree/salwar. The Devaswom maintains the Punnathurkotta elephant sanctuary nearby."
+  },
+  "id": "guruvayur-sri-krishna-temple",
+  "latitude": 10.59485,
+  "longitude": 76.03931,
+  "media": [
+    "https://www.holydhams.com/media/images/e1fa72b269e6_guruvayoor_img1.webp"
+  ],
+  "name": "Guruvayur Sri Krishna Temple",
+  "sources": [
+    "https://tapioca.co.in/guruvayur-sri-krishna-temple",
+    "https://tripnetra.com/blog/guruvayur-sri-krishna-temple-kerala",
+    "https://guruvayoorlive.in/guruvayurappan-temple-timings/",
+    "https://www.templetravel.info/2013/07/sri-krishna-temple-in-guruvayur-kerala.html?m=1",
+    "https://www.justdial.com/list/guruvayur-krishna-temple-thrissur-timings-history-darshan-info?wkwebview=1"
+  ],
+  "state": "Kerala",
+  "town": "Guruvayur",
+  "town_description": "Guruvayur is a temple town in Thrissur district, about 28 km northwest of Thrissur city. It is one of South India's busiest pilgrimage centres, its identity and economy revolving entirely around the Sri Krishna temple - hotels, prasadam shops, marriage halls and Devaswom services. The nearby Punnathurkotta fort houses the temple's elephant sanctuary. The Rudratheertham tank, Chavakkad beach and Mammiyoor Shiva temple are the town's other landmarks.",
+  "tradition": "Hinduism (Vaishnavism)",
+  "travel": {
+    "airport": "Cochin International Airport, about 80 km southeast (verify)",
+    "railway": "Guruvayur railway station, about 1.7 km from the temple",
+    "road": "Well connected by road; 28 km from Thrissur, 110 km from Kozhikode"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "November to February (cooler, pleasant weather); Guruvayur Ekadasi for the festival spectacle",
+    "opening_hours": "3:00 AM-12:30 PM and 4:30-9:15 PM on regular days - CONFLICT (verify): sources variously give midday close at 12:30 or 1:30 PM and evening close at 9:15 or ~10 PM; closed 1:30-4:30 PM"
+  }
+}

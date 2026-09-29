@@ -1,0 +1,50 @@
+{
+  "alternate_names": [
+    "Hangseshwari Temple",
+    "Hangseswari Temple"
+  ],
+  "deities": [
+    "Goddess Hanseswari (form of Adi Parashakti / Dakshina Kali)"
+  ],
+  "district": "Hooghly",
+  "festivals": [
+    "Kali Puja",
+    "Navaratri",
+    "Poush Sankranti"
+  ],
+  "history": {
+    "dynasty": "Deb Roy zamindari family of Bansberia (British colonial period)",
+    "period": "1799-1814",
+    "summary": "CSV TOWN ERROR: the temple is not in Howrah; it stands at Bansberia, Hooghly district (town corrected in the town field). Raja Nrisingha Deb Roy laid the foundation stone in December 1799, inspired by a dream of Goddess Kali; he died in 1802 after the second storey was complete. His widow Rani Shankari completed the temple in 1814 at a reported cost of five lakh rupees; a Sanskrit slab at the entrance dated Saka 1736 (1814 CE) records their work. The five-storeyed ratna temple has 13 lotus-bud minars; its architecture is a representation of Tantric Satchakrabhed, the five storeys symbolising the five parts of the human body (Bajraksha, Ira, Chitrini, Pingala, Sushumna). The 3-foot blue neem-wood idol of the goddess stands on a lotus rising from the navel of a reclining Shiva. The complex also holds the Ananta Basudeba Temple (1679) and the Swanbhaba Kali Temple (built 1788 by Raja Nrisinhadeb Roy). Deity name honours Rani Hanseswari, mother of the founder."
+  },
+  "id": "hanseswari-temple-bansberia",
+  "latitude": 22.9609,
+  "longitude": 88.39641,
+  "media": [
+    "https://images.apnisanskriti.com/a/2016/07/Hangseshwari_Temple_View.jpg"
+  ],
+  "name": "Hanseswari Temple",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Hangseshwari_Temple",
+    "https://dorituals.com/hanseswari-temple/",
+    "https://isharethese.com/hansehswari-temple-hooghly/"
+  ],
+  "state": "West Bengal",
+  "town": "Bansberia",
+  "town_description": "Bansberia is an industrial town in Hooghly district on the west bank of the Hooghly river, between Bandel and Tribeni. It was an important river port and religious centre of pre-Muslim Bengal, located at the sacred Tribeni confluence of the Ganga, Jamuna and Saraswati; its name derives from a bamboo grove (bans) cleared by the family of Rameshwar Datta. Today it is known for the Hanseswari-Ananta Basudeba temple complex.",
+  "tradition": "Shaktism (Tantric)",
+  "travel": {
+    "airport": "Netaji Subhas Chandra Bose International Airport, Kolkata (~55 km)",
+    "railway": "Bansberia station (Howrah-Katwa local); ~10-minute walk or short rickshaw ride to the temple",
+    "road": "~50 km from Kolkata via Delhi Road (SH-6) or GT Road; local buses and autos available"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "November to February; Kali Puja draws the largest crowds",
+    "opening_hours": "CONFLICT: DoRituals reports 6 AM-12 PM and 4-8 PM; iShare reports 6-11 AM and 4-7 PM (verify locally)"
+  }
+}

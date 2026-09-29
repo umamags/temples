@@ -1,0 +1,50 @@
+{
+  "alternate_names": [
+    "Shree Omkareshwar Temple"
+  ],
+  "deities": [
+    "Lord Shiva (Omkareshwar)"
+  ],
+  "district": "Pune",
+  "festivals": [
+    "Mahashivratri",
+    "Shravan Mondays"
+  ],
+  "history": {
+    "dynasty": "Maratha (Peshwa period)",
+    "period": "1734-1736 per the temple's own history; other sources say 1740-1760 - CONFLICT (verify)",
+    "summary": "A grand Shiva temple on the banks of the Mutha river in Shaniwar Peth. Per the temple's own account it was built by Vedamurti Shivram Bhat Chitrao, the philosophical guru of the Peshwas, in 1734-1736: he found handas (copper pots) of gold mohors while clearing a well, presented them to the Peshwa, and was granted the riverbank to build a Shiva temple; he brought a Shiv Baan from the Narmada and consecrated it on Ashadh Vadya Trayodashi, at a recorded cost of about Rs 1.1 lakh. Other sources instead credit funding by Chimaji Appa, brother of Peshwa Bajirao I, with construction 1740-1760 - CONFLICT (verify). The temple has a Nagara-style five-tier shikhara, a soft-soapstone white dome with intricate carvings, and columned verandas; it famously survived the 1961 Panshet dam floods (one source says 1962 - verify), when the Nandi idol had to be dragged back into place."
+  },
+  "id": "omkareshwar-temple-pune",
+  "latitude": 18.51954,
+  "longitude": 73.84905,
+  "media": [
+    "https://punetourism.co.in/images/v2/places-to-visit/headers/shree-omkareshwar-temple-pune-tourism-header.jpg"
+  ],
+  "name": "Omkareshwar Temple",
+  "sources": [
+    "https://www.shreeomkareshwartemple.org/",
+    "http://shriomkareshwartemple.org/",
+    "https://velpu.com/temple/Shree-Omkareshwar-Temple-/MjE2MA==",
+    "https://thinkreload.com/omkareshwar-temple-a-confluence-of-faith-culture-and-history/",
+    "http://tourmet.com/omkareshwar-temple/"
+  ],
+  "state": "Maharashtra",
+  "town": "Pune",
+  "town_description": "Pune is Maharashtra's second-largest city and the former seat of the Maratha Peshwas, often called the state's cultural capital and the 'Oxford of the East' for its many universities and research institutes. It is today a major IT, automotive and manufacturing hub. Its old-city core around Shaniwar Wada, the Peshwa-era temples and the Parvati hill is dense with historic and religious landmarks.",
+  "tradition": "Hinduism (Shaivism)",
+  "travel": {
+    "airport": "Pune International Airport, ~11 km (verify)",
+    "railway": "Pune Junction railway station, ~2 km (verify)",
+    "road": "On Omkareshwar Road (Chandrashekhar Govind Aapte Road), Shaniwar Peth, near Balgandharva Rangmandir; well connected within Pune city"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March; morning or evening for the calmest darshan",
+    "opening_hours": "6:00 AM-10:00 PM per the temple's listing; CONFLICT (verify) - other sources cite 6 AM-1 PM, 5:30 AM-11 PM, or 6 AM-12 PM plus 4-8:30 PM"
+  }
+}

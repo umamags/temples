@@ -1,0 +1,51 @@
+{
+  "alternate_names": [
+    "Nalateswari Temple",
+    "Lalateshwari Temple",
+    "Nalateswari Kalika Shaktipeeth"
+  ],
+  "deities": [
+    "Nalateshwari (form of Kali/Kalika)",
+    "Yogesh (Bhairava)"
+  ],
+  "district": "Birbhum",
+  "festivals": [
+    "Kali Puja",
+    "Navaratri"
+  ],
+  "history": {
+    "dynasty": "Unknown (legendary discovery)",
+    "period": "Unknown (tradition dates discovery to 252 Bengali era; temple structure later — unverified)",
+    "summary": "One of the 51 Shakti Peethas: Sati's throat/windpipe ('nala') is believed to have fallen here, giving Nalhati its name; the goddess is worshipped in ugra Kali form — a ~4-ft stone idol with large red-golden tongue, golden crown, three eyes and trishul, set above the throat relic, into which water is poured that is said never to overflow. Local tradition says the larynx was discovered by Kamadeva in 252 Bengali year (~845 CE) in the Nalhati forest and the temple grew around it (unverified); the shrine is also called Lalateshwari, and some traditions say the forehead (lalat) fell here — conflict flagged. The temple crowns a small hill with Jogesh Bhairav, Ganesha and Shiva shrines nearby. Discovery date and construction dynasty undocumented — flag."
+  },
+  "id": "nalhateshwari-temple-nalhati",
+  "latitude": 24.29629,
+  "longitude": 87.82657,
+  "media": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nalateswari_Temple_at_Nalhati%2C_Birbhum_05.jpg/1280px-Nalateswari_Temple_at_Nalhati%2C_Birbhum_05.jpg"
+  ],
+  "name": "Nalhateshwari Temple",
+  "sources": [
+    "https://hinduscriptures.com/nalhateshwari/",
+    "https://sannidhi.net/sannidhi/shri-nalateswari-kalika-shaktipeeth-temple-throat-nalhati-west-bengal/?utm_source=rss&utm_medium=rss&utm_campaign=shri-nalateswari-kalika-shaktipeeth-temple-throat-nalhati-west-bengal",
+    "http://en.wikipedia.org/wiki/Nalhati"
+  ],
+  "state": "West Bengal",
+  "town": "Nalhati",
+  "town_description": "Nalhati is a small town in the Rampurhat subdivision of Birbhum district, near the West Bengal–Jharkhand border, named after the Nalhateshwari Shakti Peetha. It has a municipality (est. 2000), is a railway junction town, and sits on the Panagarh–Moregram highway.",
+  "tradition": "Shaktism",
+  "travel": {
+    "airport": "Netaji Subhas Chandra Bose International Airport, Kolkata (~194–250 km)",
+    "railway": "Nalhati Junction (temple a short walk away); Rampurhat Junction (~16–22 km)",
+    "road": "Nalhati Bus Station nearby; ~24 km north of Tarapith via the Panagarh–Moregram highway"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October–March",
+    "opening_hours": "4:30 AM–1:00 PM & 4:00–8:00 PM per local sources; other sources say 6:00 AM–10:00 PM (conflict — verify)"
+  }
+}

@@ -1,0 +1,50 @@
+{
+ "alternate_names": [
+  "ISKCON Surat",
+  "Shri Shri Radha Damodar Mandir",
+  "ISKCON Jahangirpura"
+ ],
+ "deities": [
+  "Sri Sri Radha Damodar (Radha-Krishna, the presiding deities)"
+ ],
+ "district": "Surat",
+ "festivals": [
+  "Janmashtami (the biggest festival here)",
+  "Rath Yatra (July-August)"
+ ],
+ "history": {
+  "dynasty": "Modern -- International Society for Krishna Consciousness (ISKCON), founded 1966 by A.C. Bhaktivedanta Swami Prabhupada",
+  "period": "Prabhupada visited Surat in 1970; in 1978 the premises with a small Krishna temple was received from the Kanahiyalal Trust, Jahangirpura (~900 sq ft); expanded to about 13,600 sq ft",
+  "summary": "ISKCON Surat is the Sri Sri Radha Damodar Temple on Ashram Road, Jahangirpura, on the banks of the River Tapi, about 15 km from Surat railway and bus stations (per ISKCON directory sources). From a ~900 sq ft plot with a small Krishna temple received from the Kanahiyalal Trust in 1978, it has grown into one of Surat's largest temples (~13,600 sq ft), with the largest turnouts on festivals and Sundays. It follows the standard ISKCON temple program (mangala/arati darshan, prasadam distribution, satsang outreach across Surat) and runs charitable/food-distribution activities. Daily darshan timings differ across sources -- 4:15 AM-8:15 PM (iskconmandir.com), 7:30 AM-1 PM and 4:30-8:30 PM (travel-history.com), 6 AM-10 PM (Tripadvisor) -- flagged as conflicting; verify before visiting."
+ },
+ "id": "iskcon-temple-surat",
+ "latitude": 21.24142,
+ "longitude": 72.78892,
+ "media": [
+  "https://temple.yatradham.org/public/Product/temple/temple_zsNuqlhs_202507181358080.webp"
+ ],
+ "name": "Sri Sri Radha Damodar Temple (ISKCON Surat)",
+ "sources": [
+  "https://iskconmandir.com/iskcon-surat-sri-sri-radha-damodar-temple/",
+  "https://www.travel-history.com/2023/07/iskcon-temple-iskcon-temple-surat-sri.html",
+  "https://www.tripadvisor.ca/Attraction_Review-g297612-d2702212-Reviews-or50-ISKCON_Temple-Surat_Surat_District_Gujarat.html"
+ ],
+ "state": "Gujarat",
+ "town": "Surat",
+ "town_description": "Surat, on the banks of the Tapi in south Gujarat, is a historic port city and one of India's great diamond-polishing and textile hubs. A trading centre since the Mughal era, it is among the country's fastest-growing cities.",
+ "tradition": "Gaudiya Vaishnavism (ISKCON / Hare Krishna movement)",
+ "travel": {
+  "airport": "Surat International Airport (verify distance).",
+  "railway": "Surat railway station, about 15 km (per ISKCON directory sources).",
+  "road": "Ashram Road, Jahangirpura, on the banks of the River Tapi, about 15 km from the station; also listed on Olpad Road, Variya."
+ },
+ "video": {
+  "audio": "",
+  "script": "",
+  "video_file": ""
+ },
+ "visitor_information": {
+  "best_time": "October to March; Janmashtami and Rath Yatra draw the biggest crowds.",
+  "opening_hours": "Sources conflict: 4:15 AM-8:15 PM (iskconmandir.com); 7:30 AM-1:00 PM and 4:30-8:30 PM (travel-history.com); 6:00 AM-10:00 PM (Tripadvisor) -- verify before visiting."
+ }
+}

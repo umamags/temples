@@ -1,0 +1,58 @@
+{
+  "alternate_names": [
+    "Kadri Shree Manjunatha Temple",
+    "Manjunatheshwara Temple, Kadri"
+  ],
+  "deities": [
+    "Manjunatha (Shiva)",
+    "Parvati",
+    "Ganesha",
+    "Durgaparameshwari",
+    "Ayyappa",
+    "Lokeshvara (bronze)",
+    "Avalokiteshvara (as Narayana)",
+    "Buddha (as Vedavyasa)"
+  ],
+  "district": "Dakshina Kannada",
+  "festivals": [
+    "Kadri Jathra Mahothsava (Makara Sankranti, January)",
+    "Maha Rathotsava (grand chariot)",
+    "Belli Rathotsava (silver chariot)",
+    "Maha Shivaratri"
+  ],
+  "history": {
+    "dynasty": "Alupa (founding inscription); rebuilt in Vijayanagara idiom",
+    "period": "10th-11th century; full stone structure 14th century",
+    "summary": "Ancient Shaiva temple on the hills of Kadri, Mangaluru, said to be built in the 10th-11th century and converted to a complete stone structure in the 14th century (Vijayanagara style). Its earliest layer is the Buddhist Kadarika Vihara: the pedestal of the ~5-ft bronze Lokeshvara idol carries an inscription of Alupa king Kundavarma recording its installation - dated 968 CE by some sources and 1068 CE by others (Wikipedia notes the discrepancy); the image has three faces, six arms and a Dhyani-Buddha crown, and is among the oldest bronzes of South India. Two more undated bronzes - Avalokiteshvara (called Narayana) and Buddha (called Vedavyasa) - mark the Buddhist-to-Hindu transition. Legend ties the shrine to Parashurama; the 1730 text Kadli Manjunath Mahatmyam links it with the Natha panth, and a Jogi Mutt still stands above the temple. Incharge and priests are Shivalli Madhva Brahmins. CSV town 'Mangalore' is correct (Mangaluru)."
+  },
+  "id": "kadri-manjunath-temple-mangalore",
+  "latitude": 12.89192,
+  "longitude": 74.85569,
+  "media": [
+    "https://mangaloretourism.in/images/v2/places-to-visit/kadri-manjunath-temple-mangalore-tourism-header.jpg"
+  ],
+  "name": "Kadri Manjunath Temple",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Kadri_Manjunath_Temple",
+    "https://famoustemplesofindia.com/kadri-shree-manjunatha-temple/",
+    "https://wanderlog.com/place/details/6142"
+  ],
+  "state": "Karnataka",
+  "town": "Mangalore",
+  "town_description": "Mangalore (Mangaluru) is the chief port city of coastal Karnataka and headquarters of Dakshina Kannada district. It blends coastal, temple and colonial heritage, with Kadri among its oldest shrines.",
+  "tradition": "Shaivism (with Buddhist and Natha-layered heritage)",
+  "travel": {
+    "airport": "Mangaluru International Airport (IXE), ~10 km",
+    "railway": "Mangaluru Junction, ~6 km",
+    "road": "Kadri locality within Mangaluru city, on the airport road"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to February; January for the Jathra Mahothsava",
+    "opening_hours": "5:30 AM - 1:00 PM, 4:00 PM - 8:00 PM (sources vary slightly; verify)"
+  }
+}

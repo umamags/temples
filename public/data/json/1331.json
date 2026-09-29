@@ -1,0 +1,54 @@
+{
+  "alternate_names": [
+    "Ahalya Sthan",
+    "Ahilya Sthan"
+  ],
+  "deities": [
+    "Devi Ahalya (principal deity)",
+    "Lord Rama",
+    "Goddess Sita (Ram-Janaki shrine)",
+    "Lakshmana",
+    "Maharshi Gautam"
+  ],
+  "district": "Darbhanga",
+  "festivals": [
+    "Ram Navami",
+    "Vivah Panchami (celebrated in Agrahayan, called Vijay Panchami by one source)"
+  ],
+  "history": {
+    "dynasty": "Darbhanga Raj (Maharaja Chhatra Singh and Maharaja Rudra Singh)",
+    "period": "1662-1682 CE (date conflict flagged below)",
+    "summary": "Ancient shrine at Ahiyari village near Kamtaul (Jale block), about 3 km from Kamtaul railway station - the CSV town 'Darbhanga' is corrected here to the actual village. Tradition holds this is the Gautam Ashram where Sage Gautam cursed his wife Ahalya into stone and where Lord Rama redeemed her on his way to Janakpur, making it a key Ramayana site. The present structure was built 1662-1682 during the reigns of Maharaja Chhatra Singh and Maharaja Rudra Singh and is described by sources as the first Ram-Janaki temple in India; a stone slab venerated in the sanctum is said to bear Goddess Sita's footprints. NOTE: one travel site (optfind.com) claims the temple was built in 1835 AD under Maharaja Chhatra Singh - conflicts with the 1662-1682 dating; verify. Large fairs are held at Ram Navami and Vivah Panchami. Coordinates are from a travel source (eindiatourism.in); the geocoder returned the unrelated Mahamaya Sthan POI instead."
+  },
+  "id": "ahilya-asthan-temple-ahiyari-darbhanga",
+  "latitude": 26.2183,
+  "longitude": 85.8914,
+  "media": [
+    "https://dynamic.tourtravelworld.com/hi/wh2/11485/ahilya-asthan.jpg"
+  ],
+  "name": "Ahilya Asthan Temple",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Ahalya_Sthan",
+    "https://www.ishtadevata.com/temple/ahilya-asthan-ahiyari-bihar/",
+    "https://eindiatourism.in/tourist-place/ahilya-asthan/",
+    "https://www.pilgrimaide.com/temple-details.php?tlid=ahilya-asthan"
+  ],
+  "state": "Bihar",
+  "town": "Ahiyari",
+  "town_description": "Ahiyari (also Ahilya Gram) is a village in Jale block of Darbhanga district, Bihar, about 3 km from Kamtaul railway station and roughly 20 km from Darbhanga city. It is associated with the Ramayana legend of Maharshi Gautam's ashram and Devi Ahalya's redemption, and hosts several smaller temples and mosques besides the main shrine.",
+  "tradition": "Hinduism (Vaishnavism - Ramayana/Ram worship)",
+  "travel": {
+    "airport": "Darbhanga Airport is the nearest operational airport (Darbhanga city, ~20 km away); one source (ishtadevata.com) lists Patna's airport ~120 km as nearest - verify",
+    "railway": "Kamtaul railway station, about 3 km; Darbhanga Junction is the major railhead",
+    "road": "On the NH-57 corridor; reachable by bus and auto from Darbhanga and Muzaffarpur"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "Ram Navami (March-April) for the main fair; October to March generally pleasant",
+    "opening_hours": "08:00-19:00 (per pilgrimaide.com)"
+  }
+}

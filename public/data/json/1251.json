@@ -1,0 +1,44 @@
+{
+  "alternate_names": [
+    "Sri Visweswara Swamy Alayam"
+  ],
+  "deities": [
+    "Lord Shiva (as Visweswara)"
+  ],
+  "district": "Visakhapatnam",
+  "festivals": [
+    "Maha Shivaratri (verify)",
+    "Karthika Masam (verify)"
+  ],
+  "history": {
+    "dynasty": "Unknown - modern neighbourhood shrine (verify)",
+    "period": "Unknown (verify)",
+    "summary": "FLAG: IDENTITY PROVISIONAL. This row is documented as the 'Sri Visweswara Swamy Alayam' listed near the Police Club, Visakhapatnam (17.710197, 83.301378; hours 5:00 AM-7:30 PM daily, Monday from 5:30 AM, per the map listing) because its name matches the CSV row exactly, but Visakhapatnam has several similarly-named Shiva shrines (e.g. at Ushodaya Junction, Sai Nagar, Sambovani Palem), and no published history or founding date for this specific shrine could be found. Coordinates and hours should be treated as best-match, not confirmed."
+  },
+  "id": "sri-visweswara-swamy-temple-visakhapatnam",
+  "latitude": 17.710197,
+  "longitude": 83.301378,
+  "media": [],
+  "name": "Sri Visweswara Swamy Temple",
+  "sources": [
+    "https://meta.ai?place_id=1959181567892192"
+  ],
+  "state": "Andhra Pradesh",
+  "town": "Visakhapatnam",
+  "town_description": "Visakhapatnam (Vizag), on the Bay of Bengal in coastal Andhra Pradesh, is the state's largest city and main port, nicknamed the 'City of Destiny'. Known for Rushikonda and RK beaches, Kailasagiri hill park and the ancient Simhachalam Narasimha temple, it blends heavy industry and a naval presence with beach tourism and pilgrimage.",
+  "tradition": "Shaivism",
+  "travel": {
+    "airport": "Visakhapatnam Airport (approx. 10-12 km).",
+    "railway": "Visakhapatnam Junction (approx. 5 km).",
+    "road": "Near the Police Club area of Visakhapatnam city; reachable by city buses, autos and taxis."
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to February; Maha Shivaratri draws the largest crowds.",
+    "opening_hours": "5:00 AM-7:30 PM daily (Monday from 5:30 AM), per the map listing (verify)."
+  }
+}

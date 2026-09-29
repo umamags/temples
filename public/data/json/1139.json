@@ -1,0 +1,51 @@
+{
+  "alternate_names": [
+    "Shri Haru Temple",
+    "Bhileshwar Temple",
+    "Sirharu Temple"
+  ],
+  "deities": [
+    "Lord Shiva (Shivalinga)"
+  ],
+  "district": "Bageshwar",
+  "festivals": [
+    "Maha Shivratri",
+    "Vijaya Dashami (annual fair)"
+  ],
+  "history": {
+    "dynasty": "Unknown (no documented history found)",
+    "period": "Antiquity unknown; absent from standard temple histories and the Skanda Purana references",
+    "summary": "Sri Haru Temple (also called Bhileshwar Temple - 'bhilli' meaning cave + 'eshwar', Shiva, per uttarakhandtrip) is a small Shiva temple about 5 km from Bageshwar town, set among forests and hills with panoramic Himalayan views. Local belief holds that prayers here are answered; an annual fair is held on Vijaya Dashami after the Navratras, and Shivaratri is celebrated. One source (travanya) claims architecture similar to the Panch Kedars (single source - verify). FLAG - thin sourcing and uncertain identity: the temple appears only in tourism blogs (uttarakhandtrip, mustvisitplace, happytrips/TOI), with no documented history, builder, or period; it is absent from the standard Bageshwar temple lists beyond these blogs. Coordinates are approximate - the geocoder has no POI match, so Bageshwar town coordinates are used as the anchor with the temple ~5 km away; exact temple coordinates need verification. No reliable photograph of the temple itself was found, so media is empty."
+  },
+  "id": "sri-haru-temple-bageshwar",
+  "latitude": 29.83896,
+  "longitude": 79.77906,
+  "media": [],
+  "name": "Sri Haru Temple",
+  "sources": [
+    "https://uttarakhandtrip.com/attractions/shri-haru-temple-bageshwar-uttarakhand",
+    "https://www.mustvisitplace.com/tourist-places-to-visit-in-bageshwar-uttarakhand-india/",
+    "https://www1.happytrips.com/travel/articleshowprint/111784905.cms",
+    "https://www.travanya.com/tourism/india/uttarakhand/temples/bageshwar/",
+    "https://www.tripadvisor.in/Attraction_Review-g1162500-d4092712-Reviews-Shri_Haru_Temple-Bageshwar_Bageshwar_District_Uttarakhand.html",
+    "https://travelchardham.com/city/bageshwar-city"
+  ],
+  "state": "Uttarakhand",
+  "town": "Bageshwar",
+  "town_description": "Bageshwar is the district headquarters town of Bageshwar district in Kumaon, Uttarakhand, at the confluence of the Saryu and Gomati rivers. Known as the 'City of Temples', it was ruled by the Katyuri kings and later the Chands, and was historically a trade mart between Kumaon and Tibet; it is ringed by the Bhileshwar and Nileshwar mountains.",
+  "tradition": "Shaivism",
+  "travel": {
+    "airport": "Pantnagar Airport is the nearest airport for the Bageshwar region (distance not sourced - verify)",
+    "railway": "Kathgodam is the nearest major railhead for Bageshwar (verify)",
+    "road": "About 5 km from Bageshwar town by road; Bageshwar is connected by road to Almora, Haldwani, Kausani and Ranikhet"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "March-June and September-November (typical Kumaon hill season - verify)",
+    "opening_hours": "Not published in any source found (verify locally)"
+  }
+}

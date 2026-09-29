@@ -1,0 +1,46 @@
+{
+  "alternate_names": [
+    "Shiv Mandir, Ramna Maidan",
+    "Shiv Temple Ramna Maidan Ara"
+  ],
+  "deities": [
+    "Lord Shiva"
+  ],
+  "district": "Bhojpur",
+  "festivals": [
+    "Maha Shivratri",
+    "Shravan Mondays"
+  ],
+  "history": {
+    "dynasty": "Not documented",
+    "period": "Undocumented",
+    "summary": "A small Shiva shrine listed on maps at Ramna Maidan, Arrah (near the Babu Veer Kunwar Singh Ramna Maidan, a 60-acre urban ground created in the 1850s). No published history, builder, or founding date found; treated as a local community shrine. Coordinates taken from the map POI (25.562594, 84.666721), corroborated against the Ramna Maidan geocode; slight uncertainty. A Hindu shrine; no non-Hindu flag."
+  },
+  "id": "shiv-temple-ramna-maidan-arrah",
+  "latitude": 25.562594,
+  "longitude": 84.666721,
+  "media": [],
+  "name": "Shiv Temple, Ramna Maidan",
+  "sources": [
+    "https://meta.ai?place_id=888095313527407",
+    "https://en.wikipedia.org/wiki/Ramna_Maidan"
+  ],
+  "state": "Bihar",
+  "town": "Arrah",
+  "town_description": "Arrah (also spelled Ara) is the administrative headquarters of Bhojpur district in Bihar, situated on the banks of the Son River about 60 km west of Patna. An ancient town with a history going back to the Dvapara Yuga legends and the 1857 rebellion (home of Veer Kunwar Singh), it is known for the Aranya Devi temple, Ramna Maidan, the 18th-century Kila Arrah and the Mughal-era Shahi Masjid. It is well connected by rail (Arrah Junction) and road via NH 30.",
+  "tradition": "Shaivism (Hinduism)",
+  "travel": {
+    "airport": "Jay Prakash Narayan International Airport, Patna (~60 km east); taxi/bus onward",
+    "railway": "Arrah Junction, ~2 km away",
+    "road": "Inside/near Ramna Maidan in central Arrah; reachable by auto-rickshaw"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March; Maha Shivratri is the main festival",
+    "opening_hours": "Not published; no reliable image found online (media left empty)"
+  }
+}

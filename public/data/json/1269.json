@@ -1,0 +1,51 @@
+{
+  "alternate_names": [
+    "Gaden Namgyal Lhatse",
+    "Tawang Gompa"
+  ],
+  "deities": [
+    "Buddha (Tibetan Buddhist monastery - Gelugpa school)"
+  ],
+  "district": "Tawang",
+  "festivals": [
+    "Torgya (January)",
+    "Losar (Tibetan New Year, February/March)"
+  ],
+  "history": {
+    "dynasty": "",
+    "period": "1681 CE",
+    "summary": "NOT A HINDU TEMPLE - keep-or-drop decision needed. Tawang Monastery is a Tibetan Buddhist monastery of the Gelugpa school, the largest monastery in India and the second-largest Gelug monastery after Drepung in Lhasa (Wikipedia). It was founded in 1681 by Merak Lama Lodre Gyatso at the behest of the 5th Dalai Lama, Ngawang Lobsang Gyatso. Its name means 'chosen by horse': legend says the lama, unable to find a site, meditated in a cave and found his horse grazing atop the Tana Mandekhang hill, taking it as divine guidance. It is also called Gaden Namgyal Lhatse ('the divine paradise of complete victory'), stands at about 10,000 feet with commanding views of the Tawang valley, houses some 450 monks, and preserves Kangyur and Tengyur scriptures in its library."
+  },
+  "id": "tawang-monastery-tawang",
+  "latitude": 27.58669,
+  "longitude": 91.85818,
+  "media": [
+    "https://www.kiomoi.com/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fkmadmin%2Fimage%2Fupload%2Fc_scale%2Cw_500%2Ff_auto%2Fv1695293116%2Fkiomoi%2Ftawang_monastery_arunachal_pradesh_4051.webp&w=640&q=75"
+  ],
+  "name": "Tawang Monastery",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Tawang_Monastery",
+    "https://en.wikipedia.org/wiki/Tawang",
+    "https://thinkreload.com/tawang-monastery-the-spiritual-jewel-of-arunachal-pradesh/",
+    "https://www.borderlens.com/2023/01/19/the-making-of-tawang-monastery-and-the-monpas/",
+    "https://tibetanbuddhistencyclopedia.com/en/index.php?title=Tawang_Monastery"
+  ],
+  "state": "Arunachal Pradesh",
+  "town": "Tawang",
+  "town_description": "Tawang is a high-altitude town at about 10,000 feet in the Tawang district, near the borders with Tibet and Bhutan. It is the heart of Monpa culture, the birthplace of the 6th Dalai Lama, Tsangyang Gyatso, and is known for its monastery, mountain passes and memorials of the 1962 war.",
+  "tradition": "Tibetan Buddhism (Gelugpa school)",
+  "travel": {
+    "airport": "Tezpur (Assam), ~350 km by road; helicopter services available",
+    "railway": "Bhalukpong, ~280 km by road",
+    "road": "Well-connected by road from Tezpur via Bomdila and Dirang, crossing the Sela Pass"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to May",
+    "opening_hours": "Open to visitors daily; dawn prayers early morning (published hours not confirmed - verify)"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "alternate_names": [],
+  "deities": [
+    "Goddess Bhagwati (presumed; identity unverified — see history.summary)"
+  ],
+  "district": "South Goa",
+  "festivals": [],
+  "history": {
+    "dynasty": "",
+    "period": "",
+    "summary": "UNCERTAIN IDENTITY — flagged placeholder: no web-documented 'Bhagwati Temple' exists in Sanguem taluka. Goa's well-known Bhagwati shrines are the Shri Bhagavati temples at Parshem/Pernem (North Goa, ~50 km away), not Sanguem. This row likely refers to a small undocumented local shrine, or is a CSV error conflating with the Pernem Bhagwati temple. Coordinates below are approximate (Sanguem town), and no image is attached because no reliable referent — and therefore no on-topic image — could be established. Do not treat this record as a verified temple entry."
+  },
+  "id": "bhagwati-temple-sanguem",
+  "latitude": 15.22702,
+  "longitude": 74.15677,
+  "media": [],
+  "name": "Bhagwati Temple",
+  "sources": [
+    "https://www.bestgoadeals.com/downloads/goadomains.pdf",
+    "https://velpu.com/temple/SHRI-BHAGWATI-TEMPLE/MTUyOA==&",
+    "https://www.justdial.com/Goa/Bhagwati-Temple-Pernem/0832PX832-X832-181128032236-P7X8_BZDET"
+  ],
+  "state": "Goa",
+  "town": "Sanguem",
+  "town_description": "Sanguem is an inland town in South Goa and the headquarters of Sanguem taluka, set on the road toward the Western Ghats; it is the gateway to the Netravali Wildlife Sanctuary and the Tambdi Surla temple.",
+  "tradition": "Uncertain (presumed Shaktism)",
+  "travel": {
+    "airport": "Goa International Airport (Dabolim), about 60 km by road (approx.)",
+    "railway": "Margao Junction, about 35 km (approx.)",
+    "road": "Sanguem town, South Goa — well connected by road from Margao and Quepem"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March (Goa's typical season; unverified for this shrine)",
+    "opening_hours": "Unknown — identity unverified"
+  }
+}

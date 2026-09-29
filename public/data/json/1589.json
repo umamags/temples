@@ -1,0 +1,48 @@
+{
+  "alternate_names": [
+    "Shiva Ji Mandir, Naina Devi complex",
+    "Ashutosh Shankara shrine"
+  ],
+  "deities": [
+    "Shiva (worshipped as Ashutosh Shankara / Maheshwara)"
+  ],
+  "district": "Bilaspur",
+  "festivals": [
+    "Maha Shivratri (verify - shared with complex)",
+    "Navratri (shared with complex)",
+    "Shravana Ashtami (shared with complex)"
+  ],
+  "history": {
+    "dynasty": "Shri Naina Devi Ji temple complex",
+    "period": "Undated (sub-shrine of the Naina Devi complex)",
+    "summary": "SUB-SHRINE of the Shri Naina Devi Ji Shakti Peetha complex - not a standalone temple; visit it together with seq 1588 (Naina Devi Temple), which covers the main shrine. A sacred shikhara-style Shiva temple stands in the northeast of the complex, where Maheshwara is worshipped in the form of Ashutosh Shankara, beside the kitchen where food for the goddess is prepared (per tirthayatra.org). No independent history, founding date, hours or festivals are published for this sub-shrine; it shares the complex's festivals and timings. NO VERIFIED IMAGE of the Shiva sub-shrine itself was found after genuine searching - media intentionally left empty."
+  },
+  "id": "shiva-shrine-naina-devi-temple-complex",
+  "latitude": 31.30635,
+  "longitude": 76.53659,
+  "media": [],
+  "name": "Shiva Shrine, Naina Devi Temple complex",
+  "sources": [
+    "https://www.tirthayatra.org/naina-devi-shakti-peetha-bilaspur/",
+    "https://lakesinhimachal.com/naina-devi-temple-in-bilaspur-hp/",
+    "https://en.wikipedia.org/wiki/Naina_Devi"
+  ],
+  "state": "Himachal Pradesh",
+  "town": "Naina Devi",
+  "town_description": "Naina Devi is a small pilgrimage town and municipal council in Bilaspur district, set atop the Naina Dhar hill at about 1,177-1,219 m. It grew around the Shakti Peetha and overlooks the Gobind Sagar reservoir formed by the Bhakra Dam, with Anandpur Sahib visible across in Punjab. A cable car connects the hill base to the temple, and the town is ringed by the Naina Devi Wildlife Sanctuary.",
+  "tradition": "Hinduism (Shaivism)",
+  "travel": {
+    "airport": "Chandigarh International Airport, ~100 km (verify)",
+    "railway": "Anandpur Sahib Railway Station, ~30 km (verify); Nangal Dam station also nearby (verify)",
+    "road": "Inside the Shri Naina Devi Ji temple complex atop Naina Dhar hill; reach the hill base by NH-21, then steps or cable car (verify)"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October-February (with the main temple)",
+    "opening_hours": "UNVERIFIED separately - shares the Naina Devi complex hours: CONFLICT (verify): 4:00 AM-10:00 PM daily (tirthayatra.org) vs 6:00 AM-10:00 PM (Justdial)"
+  }
+}

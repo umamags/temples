@@ -1,0 +1,46 @@
+{
+  "alternate_names": [
+    "Love Temple"
+  ],
+  "deities": [],
+  "district": "Khordha",
+  "festivals": [
+    "Rajarani Music Festival (early February, organized by Odisha Tourism)"
+  ],
+  "history": {
+    "dynasty": "Somavamshi (later stages)",
+    "period": "11th century CE",
+    "summary": "A famous Kalinga-architecture monument named after the red-and-yellow \"rajarani\" sandstone it is built of. Uniquely, it has no presiding deity and no active worship — the sanctum stands empty — though images of the Shaiva sage Lakulisa above the entrance and Shaiva dwarapalas indicate it was dedicated to Shiva. Its profusion of ornament, amorous couples and nayika sculptures (hence \"Love Temple\"), and clustered miniature spires show central-Indian/Khajuraho influence, attributed to the Somavamshis' Central Indian origins. ASI-protected, ticketed monument; the jagamohana was repaired in 1903. Hosts the annual Rajarani Music Festival."
+  },
+  "id": "rajarani-temple",
+  "latitude": 20.2448,
+  "longitude": 85.84369,
+  "media": [
+    "https://www.tourmyindia.com/states/odisha/images/rajarani-temple1-1.jpg"
+  ],
+  "name": "Rajarani Temple",
+  "sources": [
+    "https://visit.bhubaneswar.me/content/temples/rajarani",
+    "https://www.eodisha.com/2014/12/rajarani-temple-bhubaneswar.html",
+    "https://eindiatourism.in/rajarani-temple/",
+    "https://testbook.com/question-answer/which-of-the-following-temples-in-odisha-has-no-pr--63a18049a27d92fb9dd269b6"
+  ],
+  "state": "Odisha",
+  "town": "Bhubaneswar",
+  "town_description": "Bhubaneswar, the capital of Odisha, is known as the \"Temple City of India\" for its hundreds of ancient temples from the 7th to 13th centuries, the greatest concentration of Kalinga-style architecture anywhere. Once called Ekamra Kshetra (the mango-forest shrine), it sits on the coastal plain between the Mahanadi delta and the Eastern Ghats. Modern Bhubaneswar is a planned administrative and IT hub built around its ancient old town, home to Lingaraj, Puri's Jagannath pilgrims' transit stop, and Biju Patnaik International Airport.",
+  "tradition": "Hinduism (Shaivism — no active worship; ASI heritage monument)",
+  "travel": {
+    "airport": "Biju Patnaik International Airport ~5 km (verify)",
+    "railway": "Bhubaneswar Junction ~4 km (verify); Tankapani Road, Brahmeswar Patna area",
+    "road": "Within Bhubaneswar city; auto/taxi from Old Town and the railway station"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March; early February for the Rajarani Music Festival",
+    "opening_hours": "6:30 am to 9:00 pm (verify — per visit.bhubaneswar.me); ASI ticket: Rs 15 (Indians), Rs 200 (foreign nationals), free below 15 years (verify)"
+  }
+}

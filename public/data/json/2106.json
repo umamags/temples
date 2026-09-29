@@ -1,0 +1,51 @@
+{
+  "alternate_names": [
+    "Jagatpita Brahma Mandir",
+    "Jagatpita Shri Brahma Mandir"
+  ],
+  "deities": [
+    "Lord Brahma (four-faced Chaturmurti idol on a lotus, hamsa/shwan mount motif on shikhara)",
+    "Goddess Gayatri (consort, goddess of the Vedas)"
+  ],
+  "district": "Ajmer",
+  "festivals": [
+    "Kartik Poornima",
+    "Pushkar Camel Fair"
+  ],
+  "history": {
+    "dynasty": "Tradition credits sage Vishwamitra (foundation), Adi Shankaracharya (8th c. renovation), and Maharaja Jawat Raj of Ratlam (medieval repairs - verify)",
+    "period": "Legend claims 2000+ years; present marble structure 14th century with later partial rebuilding (verify)",
+    "summary": "One of the very few temples in the world dedicated to Lord Brahma, and the most prominent of them. Per the Padma Purana legend, Brahma killed the demon Vajranabha with a lotus; three petals fell at Pushkar forming the three Pushkar lakes (Jyeshta, Madhya, Kanishtha - 'pushpa' flower + 'kar' hand). Brahma performed a yajna here, but his consort Savitri arrived late, so he married Gayatri to complete the ritual; an enraged Savitri cursed Brahma that he would never be worshipped except at Pushkar. The temple is governed by the Sanyasi (ascetic) sect priesthood; devotees bathe in Pushkar Lake before darshan. Many of Pushkar's old temples were destroyed under Aurangzeb (1658-1707) and rebuilt; the Brahma temple's current medieval fabric is attributed to Maharaja Jawat Raj of Ratlam (verify). DUPLICATE FLAG: this CSV row describes the same temple as CSV row 872; kept as a separate file per the one-file-per-row rule."
+  },
+  "id": "brahma-temple-pushkar-duplicate",
+  "latitude": 26.48749,
+  "longitude": 74.54951,
+  "media": [
+    "https://stylesatlife.com/wp-content/uploads/2018/12/Jagatpita-Brahma-Mandir-Rajasthan.jpg"
+  ],
+  "name": "Brahma Temple",
+  "sources": [
+    "https://thetempleguru.com/listing/brahma-temple-pushkar/",
+    "https://myadhyatm.com/brahma-temple-pushkar/",
+    "https://eindiatourism.in/brahma-temple-pushkar-2/",
+    "https://www.tutorialathome.in/famous-hindu-temples/brahma-temple-pushkar-rajasthan"
+  ],
+  "state": "Rajasthan",
+  "town": "Pushkar",
+  "town_description": "Pushkar is an ancient pilgrimage town in Ajmer district on the edge of the Thar Desert, built around sacred Pushkar Lake, about 10 km from Ajmer city and 150 km from Jaipur. With 500+ temples and 52 ghats, it is one of the five sacred pilgrimage sites for Hindus and hosts the famous annual Pushkar Camel Fair on Kartik Poornima.",
+  "tradition": "Hinduism",
+  "travel": {
+    "airport": "Jaipur - about 150 km (verify).",
+    "railway": "Ajmer - about 10 km (verify).",
+    "road": "About 10 km northwest of Ajmer on the Ajmer-Pushkar road; well connected by taxi and bus (verify)."
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March; Kartik Poornima (October/November) for the Brahma festival and Pushkar Camel Fair - the peak pilgrimage season.",
+    "opening_hours": "Winter 6:30 am-8:30 pm; summer 6:00 am-9:00 pm; closed 1:30-3:00 pm (verify)."
+  }
+}

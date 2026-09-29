@@ -1,0 +1,45 @@
+{
+  "alternate_names": [
+    "Ramchandra Mandir",
+    "Lord Ramachandra Temple",
+    "Raghunathji Mandir"
+  ],
+  "deities": [
+    "Rama (Raghunath)"
+  ],
+  "district": "Kullu",
+  "festivals": [],
+  "history": {
+    "dynasty": "Kullu princely state (Raja Jagat Singh, mid-17th century)",
+    "period": "mid-17th century",
+    "summary": "The Raghunath temple at Manikaran was the ORIGINAL home of the Rama (Raghunath) murti that Raja Jagat Singh of Kullu brought from Ayodhya in the mid-17th century as an act of atonement. Since the mid-1600s the murti has been installed in the Raghunath temple at Kullu town (a separate site - not a duplicate), while the Manikaran temple remains functional, maintained by a trust and offering a free langar to visitors. Pilgrims cook rice and dal in the nearby hot springs. Coordinates are town-level geocode (verify for exact temple location). Festival schedule and opening hours UNVERIFIED (verify)."
+  },
+  "id": "raghunath-temple-manikaran",
+  "latitude": 32.02737,
+  "longitude": 77.34594,
+  "media": [],
+  "name": "Raghunath (Rama) Temple, Manikaran",
+  "sources": [
+    "https://www.hindu-calendar.com/2021/03/raghunath-temple-at-manikaran-in-himachal-pradesh.html",
+    "https://www.tripoto.com/himachal-pradesh/trips/the-legends-of-manikaran-village-where-faith-crosses-path-5cdcabe127ad6",
+    "https://unexploredhimachal.com/raghunath-temple-kullu/"
+  ],
+  "state": "Himachal Pradesh",
+  "town": "Manikaran",
+  "town_description": "Manikaran is a pilgrimage town in the Parvati Valley of Kullu district, at about 1,760 m on the banks of the Parvati river. Its hot sulphur springs are sacred to both Hindus (legend of Shiva and Parvati's lost earring) and Sikhs (Guru Nanak's visit), drawing pilgrims year-round. The town lies ~45 km from Kullu and ~3 km from Kasol, and is a trailhead for treks such as Kheerganga.",
+  "tradition": "Hinduism (Vaishnavism)",
+  "travel": {
+    "airport": "Bhuntar (Kullu-Manali) Airport, ~35 km (verify)",
+    "railway": "Joginder Nagar Railway Station, ~146 km (verify); Chandigarh is a better-connected alternative (verify)",
+    "road": "On the Bhuntar-Manikaran road, ~45 km from Kullu town and ~3 km from Kasol (verify)"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "March-June and September-November",
+    "opening_hours": "UNVERIFIED - no reliable published hours found (verify)"
+  }
+}

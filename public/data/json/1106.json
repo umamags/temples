@@ -1,0 +1,52 @@
+{
+  "alternate_names": [
+    "Tapkeshwar Mahadev Temple",
+    "Tapkeshwar Mahadeva Temple",
+    "Drona Cave Temple"
+  ],
+  "deities": [
+    "Shiva (Tapkeshwar Mahadev)",
+    "Hanuman"
+  ],
+  "district": "Dehradun",
+  "festivals": [
+    "Maha Shivratri (Tapkeshwar Mela)"
+  ],
+  "history": {
+    "dynasty": "None established (legendary origin)",
+    "period": "Legendary; claimed to date to the Mahabharata era (alleged 6,000 years old - unverified)",
+    "summary": "A cave shrine dedicated to Shiva on the bank of a river in the Garhi Cantonment area, about 6.5 km from Dehradun city. Its main shrine is a natural shivalinga inside Drona Cave (there are two natural shivalingas), over which water continuously drips from the cave ceiling - 'Tapak' means water drop, giving the temple its name. Legend holds that Guru Dronacharya, teacher of the Pandavas and Kauravas, meditated in this cave, and that Shiva fed milk to his newborn son Ashwatthama here. Pilgrims bathe in cool sulphur-water springs nearby before entering. The annual Tapkeshwar Mela is held at Shivratri. FLAG: sources conflict on the river - Wikipedia says the Tons, trawell.in says the Asan (verify); opening hours also conflict between sources (6:00 AM-7:00 PM per holidify vs 9:00 AM-1:00 PM and 1:30-5:30 PM per trawell) (verify)."
+  },
+  "id": "tapkeshwar-temple-dehradun",
+  "latitude": 30.35617,
+  "longitude": 78.01628,
+  "media": [
+    "https://hindi.boldsky.com/img/2023/07/tapkeshwar-mahadev-temple-drona-cave-dehradun-1689420996.jpg"
+  ],
+  "name": "Tapkeshwar Temple",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Tapkeshwar_Temple",
+    "https://dehraduntourism.co.in/tapkeshwar-temple-dehradun",
+    "https://www.holidify.com/places/dehradun/tapkeshwar-temple-sightseeing-1708.html",
+    "https://www.trawell.in/uttarakhand/dehradun/tapkeshwar-temple",
+    "https://lightuptemples.com/en/dehradun-tapkeshwar-temple-uttarakhand/"
+  ],
+  "state": "Uttarakhand",
+  "town": "Dehradun",
+  "town_description": "Dehradun is the capital city of Uttarakhand, set in the Doon Valley at the foothills of the Himalayas. Known as the 'School Capital of India' with institutions like The Doon School and the Forest Research Institute, it is also the gateway to the hill station of Mussoorie and a base for Char Dham pilgrims.",
+  "tradition": "Shaivism",
+  "travel": {
+    "airport": "Jolly Grant Airport, Dehradun (approx. 30 km)",
+    "railway": "Dehradun Railway Station (6.5 km)",
+    "road": "Garhi Cantonment area, 6.5 km from Dehradun city centre; motorable road to the site followed by a short trek through forest to the cave"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "February to May; Maha Shivratri (February/March) for the Tapkeshwar Mela",
+    "opening_hours": "Sources conflict: 6:00 AM-7:00 PM (holidify) vs 9:00 AM-1:00 PM and 1:30-5:30 PM (trawell) - verify before visiting"
+  }
+}

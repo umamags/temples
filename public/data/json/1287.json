@@ -1,0 +1,52 @@
+{
+  "alternate_names": [
+    "Umananda Devaloi",
+    "Umananda Island Temple"
+  ],
+  "deities": [
+    "Lord Shiva (Umananda - 'bliss of Uma')",
+    "Rock-cut images of Ganesha, Surya, Vishnu with ten avatars, and Devi in the temple"
+  ],
+  "district": "Kamrup Metropolitan",
+  "festivals": [
+    "Maha Shivaratri (February-March; the major festival)",
+    "Shiva Chaturdashi",
+    "Somvar Amavasya (Monday Amavasya - considered highly auspicious)"
+  ],
+  "history": {
+    "dynasty": "Ahom",
+    "period": "1694 CE by Bar Phukan Garhganya Handique under Ahom King Gadadhar Singha; rebuilt after the 1897 earthquake",
+    "summary": "FLAG: DUPLICATE ROW: same temple as seq 1282 (\"Umananda Temple\", id umananda-temple-guwahati). One file per CSV row; keep-or-dedup decision needed.\n\nThe Umananda Temple stands on Umananda (Peacock) Island, said to be the smallest inhabited riverine island in the world, in the middle of the Brahmaputra off Guwahati. It sits atop the rocky hill of Bhasmachala (Bhasmakuta - 'hill of ashes'): per the Kalika Purana, when Kamadeva disturbed Shiva's meditation here, Shiva opened his third eye and burned him to ashes; Shiva is also said to have resided here as Bhayananda and imparted knowledge to Parvati. The temple was built in 1694 CE by Bar Phukan Garhganya Handique on the orders of the devout Shaivaite Ahom King Gadadhar Singha; the original brick structure was badly damaged in the 1897 Assam earthquake and rebuilt by a wealthy local merchant, with restoration work including some Vaishnavite inscriptions inside. Noted for its rock-cut figures and sculptures by Assamese craftsmen, and home to golden langurs on the island. Reachable only by ferry/boat from Kachari Ghat, Uzanbazar or Sukleshwar Ghat (10-15 min ride), then a steep climb of ~100-230 steps."
+  },
+  "id": "umananda-temple",
+  "latitude": 26.19639,
+  "longitude": 91.74528,
+  "media": [
+    "https://india.muthu.co/images/image_umananda-island.png"
+  ],
+  "name": "Umananda Temple",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Umananda_Temple",
+    "https://assaminfo.com/tourist-places/umananda-temple-guwahati",
+    "https://travelsetu.com/guide/umananda-temple-tourism",
+    "https://www.travelandleisureasia.com/in/web-stories/destinations/umananda-temple-in-guwahati-is-a-historic-shiva-shrine-on-a-tiny-island/"
+  ],
+  "state": "Assam",
+  "town": "Guwahati",
+  "town_description": "Guwahati is the largest city of Northeast India, spread along the south bank of the Brahmaputra river in Kamrup Metropolitan district; Dispur, the capital of Assam, is its eastern suburb. Known as the 'City of Temples', it hosts Kamakhya, Umananda, Navagraha, Sukreswar and other historic shrines, plus the IIT Guwahati campus across the river. It is the gateway to the Northeast, well connected by air, rail and road.",
+  "tradition": "Hinduism (Shaivism)",
+  "travel": {
+    "airport": "Lokpriya Gopinath Bordoloi International Airport - about 20-25 km from the ferry ghats.",
+    "railway": "Guwahati Railway Station - about 2-3 km from Kachari Ghat / Uzanbazar ferry ghats.",
+    "road": "Ferry/boat only: government ferries (~Rs 20-40/person; typically 10:30 AM-4:00 PM) and private boats (~Rs 200-300/person return) from Kachari Ghat, Uzanbazar or Sukleshwar Ghat; Guwahati ropeway passes over the island but does not stop (verify current services and timings)."
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to April (dry, cool months); Maha Shivaratri (Feb-Mar) for the festival, expect crowds.",
+    "opening_hours": "Generally 5:30 AM-6:00 PM daily; entry free; ferry services usually finish earlier, so confirm the last return boat (verify)."
+  }
+}

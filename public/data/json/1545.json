@@ -1,0 +1,46 @@
+{
+  "alternate_names": [],
+  "deities": [
+    "Rama",
+    "Sita",
+    "Lakshmana",
+    "Hanuman"
+  ],
+  "district": "Karnal",
+  "festivals": [
+    "Ram Navami"
+  ],
+  "history": {
+    "dynasty": "UNVERIFIED",
+    "period": "Modern",
+    "summary": "IDENTITY UNCERTAIN (verify): the CSV row lists only 'Sri Ram Mandir, Karnal'. Local listings show at least two different shrines with similar names in Karnal - one in Sector 5 and one in Sector 8 (JustDial), plus another Ram Mandir in Dharmaveer Colony. This file documents the Sector 5 Sri Ram Mandir per the geocoder match. No founding date, founder, or reliable history source was found for this temple; the deity set (Rama-Sita-Lakshmana-Hanuman) is the standard Ram-darbar configuration per a local review. Never invent: treat founding date, hours, and exact identity as unverified."
+  },
+  "id": "sri-ram-mandir",
+  "latitude": 29.66859,
+  "longitude": 77.00135,
+  "media": [],
+  "name": "Sri Ram Mandir",
+  "sources": [
+    "https://www.justdial.com/Karnal/Temples-in-Karnal-Sector-6/nct-10475644",
+    "https://ind.5bestincity.com/temples-in-karnal-hr",
+    "https://vimarsana.com/review/ram-mandir-karnal-haryana"
+  ],
+  "state": "Haryana",
+  "town": "Karnal",
+  "town_description": "Karnal, traditionally linked to the Mahabharata warrior Karna, is a major city on the Grand Trunk Road (NH-44) in northern Haryana, between Delhi and Chandigarh. It is an agricultural trade hub known for its grain market, the National Dairy Research Institute, and the Karna Lake tourist complex. The city hosts a mix of historic and modern neighbourhood temples and has grown rapidly as an industrial and educational centre.",
+  "tradition": "Hinduism (Vaishnavism)",
+  "travel": {
+    "airport": "Chandigarh International Airport (~135 km) or IGI Airport Delhi (~130 km) (verify)",
+    "railway": "Karnal Junction (~2 km from Sector 5) (verify)",
+    "road": "Karnal lies on NH-44 (Grand Trunk Road); Sector 5 is accessible by local road and auto-rickshaw"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October-March for pleasant weather (verify)",
+    "opening_hours": "Not reliably published; one listing suggests roughly 9:30 AM-8:30 PM (verify)"
+  }
+}

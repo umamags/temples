@@ -1,0 +1,54 @@
+{
+ "alternate_names": [
+  "Alampur Jogulamba Temple",
+  "Yogulamba Temple",
+  "Jogulamba Devi Temple"
+ ],
+ "deities": [
+  "Goddess Jogulamba (a fierce form of Shakti)",
+  "Bala Brahmeswara Swamy (Shiva, in the Bala Brahma temple of the adjoining Navabrahma complex)",
+  "Chandi and Mundi (the goddess's shakti forms)"
+ ],
+ "district": "Jogulamba Gadwal",
+ "festivals": [
+  "Navratri",
+  "Maha Shivaratri (celebrated in the adjoining Navabrahma temples complex)"
+ ],
+ "history": {
+  "dynasty": "Badami Chalukyas (original shrine); present structure rebuilt with state and devotee support",
+  "period": "Original shrine 7th century CE; destroyed 1390 CE; rebuilt and reconsecrated 2005",
+  "summary": "The Alampur Jogulamba Temple is one of the eighteen Maha Shakti Peethas (the fifth of the Ashtadasa peethas), the spot where Sati Devi's upper teeth are believed to have fallen. The goddess is worshipped as Jogulamba ('Yogula Amma', Mother of Yogis) in a fierce seated form - on a corpse, with scorpion, frog and lizard motifs. The original 7th-century Badami Chalukya shrine was destroyed by the Bahmani Sultans in 1390 CE; the idol was hidden and worshipped in the nearby Bala Brahma temple for over 600 years until the temple was rebuilt at its former location and the original murti reinstalled in 2005. The temple stands in the same complex as the Navabrahma Temples (see 1012.json) and was included in the Government of India's PRASAD scheme in 2019. CSV CORRECTIONS: the CSV town 'Mahbubnagar' is wrong - the temple is at ALAMPUR, about 120-127 km from Mahbubnagar town (per tripadvisor sources), in Jogulamba Gadwal district, Telangana."
+ },
+ "id": "jogulamba-temple-alampur-jogulamba-gadwal",
+ "latitude": 15.877,
+ "longitude": 78.132,
+ "media": [
+  "https://holaciti.com/assets/Articles/1756866365_sNJUTJ9hIO.webp"
+ ],
+ "name": "Jogulamba Temple",
+ "sources": [
+  "https://en.wikipedia.org/wiki/Jogulamba_Temple,_Alampur",
+  "https://holaciti.com/travel-stories/how-to-reach-alampur-jogulamba-devi-temple-travel-guide",
+  "https://www.telangana360.com/2016/06/alampur.html?showComment=1684483753443",
+  "https://mandirmahima.org/jogulamba-temple-alampur-jogulamba-gadwal-telangana-india/",
+  "https://www.tripadvisor.co.za/Attraction_Review-g4013763-d3218640-Reviews-Jogulamba_Temple-Gadwal_Jogulamba_Gadwal_District_Telangana.html"
+ ],
+ "state": "Telangana",
+ "town": "Alampur",
+ "town_description": "Alampur (Alampuram/Hemalapuram) is a temple town in Jogulamba Gadwal district on the left bank of the Tungabhadra river near its confluence with the Krishna, about 220 km south of Hyderabad and 26 km from Kurnool. Known as Dakshina Kasi and the western gateway to Srisailam, it is one of the oldest Shaiva pilgrimage clusters in the Deccan, with the Jogulamba Shakti Peetha, the 7th-century Navabrahma temples, the Papanasi temples and an ASI museum.",
+ "tradition": "Hinduism (Shaktism)",
+ "travel": {
+  "airport": "Rajiv Gandhi International Airport, Hyderabad, about 215-220 km from Alampur.",
+  "railway": "Kurnool railway station, about 26 km away; Gadwal station about 40 km away (verify).",
+  "road": "On NH44 (Hyderabad-Bengaluru highway); about 220 km south of Hyderabad; regular buses from Kurnool and Gadwal."
+ },
+ "video": {
+  "audio": "",
+  "script": "",
+  "video_file": ""
+ },
+ "visitor_information": {
+  "best_time": "October to March.",
+  "opening_hours": "Reported 7:00 AM-1:00 PM and 2:00/2:30 PM-8:30 PM daily (sources agree on mornings, differ slightly on afternoon opening - verify before visiting)."
+ }
+}

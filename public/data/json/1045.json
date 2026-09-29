@@ -1,0 +1,49 @@
+{
+  "alternate_names": [
+    "Jagannath Temple, Agartala"
+  ],
+  "deities": [
+    "Jagannath",
+    "Balabhadra",
+    "Subhadra"
+  ],
+  "district": "West Tripura",
+  "festivals": [
+    "Rath Yatra"
+  ],
+  "history": {
+    "dynasty": "Manikya dynasty",
+    "period": "1661 AD (disputed — some sources say 19th century; verify)",
+    "summary": "CSV town 'Ambassa' is wrong and has been corrected: no Jagannath Bari is documented at Ambassa (Dhalai district) despite genuine searching. The best-supported referent for the name 'Jagannath Bari' in Tripura is the famous Vaishnava temple at Palace Compound, Krishna Nagar, Agartala (23.836318, 91.280536), near Ujjayanta Palace — documented with identity uncertainty flagged. It enshrines Jagannath with Balabhadra and Subhadra and is known for its annual Rath Yatra; the structure has an octagonal base with pillars crowned by square and pyramidal cones. FOUNDING-DATE CONFLICT: Odisha Sun Times reports it was built in 1661 AD by Maharaja Govinda Manikya, while Wanderlog and travel guides attribute it to the 19th century under Maharaja Radha Kishore Manikya — unresolved, needs verification. Generic travel blogs list a 'Jagannath Temple' among Ambassa attractions but describe it generically (four-storey shrine of Jagannath-Balabhadra-Subhadra) and appear to conflate it with the Agartala temple; no Ambassa-specific Jagannath temple could be verified."
+  },
+  "id": "jagannath-bari-agartala",
+  "latitude": 23.836318,
+  "longitude": 91.280536,
+  "media": [
+    "https://www.gosahin.com/go/p/d/1522822535_Jagannath-Temple-Agartala1.jpg"
+  ],
+  "name": "Jagannath Bari",
+  "sources": [
+    "https://sambadenglish.com/exclusive-the-temples-home-to-odishas-lord-jagannath-in-north-east-india/amp",
+    "https://Wanderlog.com/place/details/11712849/jagannath-temple",
+    "http://onefivenine.com/india/Listing/Town/temples/West-Tripura/Agartala"
+  ],
+  "state": "Tripura",
+  "town": "Agartala",
+  "town_description": "Agartala is the capital city of Tripura in West Tripura district; Jagannath Bari stands at Palace Compound, Krishna Nagar, near Ujjayanta Palace.",
+  "tradition": "Vaishnavism",
+  "travel": {
+    "airport": "Maharaja Bir Bikram Airport, Agartala (~12 km)",
+    "railway": "Agartala railway station (~10 km, verify)",
+    "road": "Palace Compound, Krishna Nagar, Agartala"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October-March; Rath Yatra (June-July) is the main festival",
+    "opening_hours": "4:30 AM - 9:00 PM daily (per place listing)"
+  }
+}

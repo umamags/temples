@@ -1,0 +1,44 @@
+{
+  "alternate_names": [
+    "Durga Mandir, Warima Market, Williamnagar"
+  ],
+  "deities": [
+    "Goddess Durga (verify - presumed from the CSV name; no published description of the shrine's murti found)"
+  ],
+  "district": "East Garo Hills",
+  "festivals": [
+    "Durga Puja / Navratri (September-October; verify - presumed for a Durga shrine; no published record of this shrine's specific observances found)"
+  ],
+  "history": {
+    "dynasty": "",
+    "period": "",
+    "summary": "The CSV row 'Durga Mandir, Williamnagar' corresponds to the Durga temple in the Warima market area of Williamnagar, the district headquarters of East Garo Hills, documented in a 30 October 2010 IANS news report: suspected Garo National Liberation Army (GNLA) rebels hurled a grenade at the temple, partially damaging the floor and blackening the walls while the idols inside remained intact. No other published travel, tourism, or temple source gives this shrine's age, founder, or architectural details, so this entry is thinly sourced (verify the shrine's present condition and exact address locally). The CSV town is retained as Williamnagar (the Warima market area lies within the town); no district or state correction is needed. Like other Hindu shrines in the overwhelmingly Christian Garo Hills, it is presumably a small community-serving temple of the non-tribal population rather than a historic pilgrimage site; do not conflate it with the Durga temple at Baghmara (South Garo Hills) or the Nartiang Durga Temple (Jaintia Hills) that surfaced in web searches."
+  },
+  "id": "durga-mandir-williamnagar",
+  "latitude": 25.51184,
+  "longitude": 90.62975,
+  "media": [],
+  "name": "Durga Mandir",
+  "sources": [
+    "https://www.indiaforums.com/article/grenade-hurled-at-temple-in-meghalaya_21555",
+    "http://www.onefivenine.com/india/Travel/Place/Williamnagar"
+  ],
+  "state": "Meghalaya",
+  "town": "Williamnagar",
+  "town_description": "Williamnagar is the headquarters of East Garo Hills district, Meghalaya, a planned town on the Simsang (Simsanggre) plain named after Captain Williamson A. Sangma, the state's first chief minister. It stands about 313 km from Shillong and 76 km from Tura, in historically significant country where the Garos made their last major resistance to British intrusion in 1837 (legendary leader Pa Togan Nengminja Sangma fell at Chisobibra, 12 December 1837). Nearby attractions include the Simsang river, Rongbang Dare waterfall and the Nokrek and Balphakram national parks further afield.",
+  "tradition": "Shaktism (presumed; verify)",
+  "travel": {
+    "airport": "",
+    "railway": "",
+    "road": ""
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "",
+    "opening_hours": ""
+  }
+}

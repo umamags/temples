@@ -1,0 +1,47 @@
+{
+  "alternate_names": [
+    "Trishuldhari Shiva Temple",
+    "Trisuldhari Shiv Mandir"
+  ],
+  "deities": [
+    "Shiva"
+  ],
+  "district": "Nagaon",
+  "festivals": [
+    "Ashok Ashtami Mela (held at the adjacent Maa Kamakhya temple, first week of April)"
+  ],
+  "history": {
+    "dynasty": "Unknown",
+    "period": "Claimed about 2000 years old (unverified)",
+    "summary": "Shiva temple on the southern bank of the Brahmaputra at Silghat, Kaliabor (Nagaon district). The Assam government tourism page claims it is 2000 years old, but this antiquity claim is unverified and appears nowhere else with evidence, so it is flagged. The temple commands a panoramic view of the Brahmaputra and is a popular picnic spot; devotees also visit the adjacent Maa Kamakhya temple. The week-long Ashok Ashtami Mela is held near the Maa Kamakhya temple in the first week of April each year (Chaitra Shukla Ashtami). No reliable on-topic image was found after genuine searching, so media is empty. Coordinates are a geocoded POI match ('Trisuldhari Shiv Mandir, Kaliabor 782143'), corroborated within ~3 km by a second geocoder source. Town corrected from CSV 'Nagaon' to 'Silghat'."
+  },
+  "id": "silghat-trishuldhari-temple",
+  "latitude": 26.60289,
+  "longitude": 92.92837,
+  "media": [],
+  "name": "Silghat Trishuldhari Temple",
+  "sources": [
+    "https://nagaon.assam.gov.in/tourist-place-detail/225",
+    "https://assamtourism.gov.in/Temple.php",
+    "https://www.hindu-blog.com/2024/05/silghat-trishuldhari-temple-and-ashok.html?m=0",
+    "https://tezpuronline.in/silghat-trishuldhari/"
+  ],
+  "state": "Assam",
+  "town": "Silghat",
+  "town_description": "Silghat is a historic river-port town in the Kaliabor subdivision of Nagaon district, on the southern bank of the Brahmaputra. It is known for its cluster of old temples — the Kamakhya temple (called the second Kamakhya of Assam), the Trishuldhari Shiva temple and the Hatimura Shakti temple — and as a popular picnic spot with views of the Silghat hills.",
+  "tradition": "Shaivism",
+  "travel": {
+    "airport": "Lokpriya Gopinath Bordoloi International Airport, Guwahati (verify distance)",
+    "railway": "Jakhalabandha railway station, the nearest railhead for the Silghat area (verify distance)",
+    "road": "About 46 km from Nagaon town via Kaliabor; taxi or local tempo services"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to April (per Assam government tourism page)",
+    "opening_hours": "Not published (verify)"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "alternate_names": [
+    "Pracheen Shri Panchmukhi Hanuman Mandir",
+    "Prachin Sri Bajrang Temple"
+  ],
+  "deities": [
+    "Hanuman (Panchmukhi Hanuman)"
+  ],
+  "district": "Durg",
+  "festivals": [
+    "Hanuman Jayanti (Anjani Kumar Janm Utsav)"
+  ],
+  "history": {
+    "dynasty": "Unknown",
+    "period": "Unknown (a local video claims 600 years — unverified)",
+    "summary": "IDENTITY AMBIGUOUS: the CSV gives only 'Hanuman Temple, Durg', and several Hanuman temples exist across the Durg-Bhilai agglomeration (Hanuman Mandir Sector 9 Bhilai, Hanuman Mandir HUDCO Bhilai, Hanuman Temple near Road 8 Katulbod, a Station Road Hanuman temple, and others). This file documents the best-documented Hanuman temple in Durg city proper: the Pracheen Shri Panchmukhi Hanuman Mandir at Kasaridih/Subhash Nagar, maintained by the Prachin Sri Bajrang Temple Seva Dal (registered), whose listings report daily morning and evening aarti. A circulating YouTube short calls it 600 years old (unverified). If the CSV intends a different Hanuman temple, this entry should be replaced."
+  },
+  "id": "hanuman-temple-durg",
+  "latitude": 21.2002,
+  "longitude": 81.2997,
+  "media": [],
+  "name": "Hanuman Temple, Durg",
+  "sources": [
+    "https://www.bizlaza.com/IN/Durg/162862037717724/Pracheen-Shri-Panchmukhi-Hanuman-Mandir%2C-Kasaridih-Durg%2C-Chhattisgarh-India",
+    "https://www.enbizopedia.com/IN/Durg/162862037717724/Pracheen-Shri-Panchmukhi-Hanuman-Mandir%2C-Kasaridih-Durg%2C-Chhattisgarh-India",
+    "https://www.prayers1.com/IN/Durg/162862037717724/Pracheen-Shri-Panchmukhi-Hanuman-Mandir%2C-Kasaridih-Durg%2C-Chhattisgarh-India",
+    "https://www.justdial.com/Durg/Panchmukhi-hanuman-temple-Subhash-Nagar/9999PX788-X788-200627234540-C1C6_BZDET",
+    "https://covistan.com/center/957750/Hanuman-Temple-Near-Road-8",
+    "https://www.top-rated.online/countries/India/cities/Durg/~Religion/our-rank"
+  ],
+  "state": "Chhattisgarh",
+  "town": "Durg",
+  "town_description": "Durg is a city in central Chhattisgarh on the banks of the Shivnath river, and the district headquarters of Durg district. Its name is said to derive from Shivadurga, the fort built by 8th-century king Shivadeva, and it was later ruled by the Kalachuris of Tripuri until 1742, then the Marathas and the British. Together with Bhilai it forms the Durg-Bhilai urban agglomeration, one of the largest urban areas in the state.",
+  "tradition": "Hinduism (Vaishnavism)",
+  "travel": {
+    "airport": "Swami Vivekananda Airport, Raipur, about 40-45 km (verify)",
+    "railway": "Durg Junction, about 2-4 km from Kasaridih (verify)",
+    "road": "Kasaridih Borsi Road, Subhash Nagar, Durg 491001; city auto and taxi (verify)"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March; Hanuman Jayanti (Chaitra) is the main festival (verify)",
+    "opening_hours": "6:00 AM-1:00 PM and 3:00 PM-9:00 PM daily, per online business listings (verify)"
+  }
+}

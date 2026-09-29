@@ -1,0 +1,51 @@
+{
+  "alternate_names": [
+    "Baba Garibnath Dham",
+    "Garibnath Temple",
+    "Baba Garib Sthan Mandir"
+  ],
+  "deities": [
+    "Lord Shiva (as Garibnath/Garibeshwara)"
+  ],
+  "district": "Muzaffarpur",
+  "festivals": [
+    "Maha Shivaratri",
+    "Shravani Mela",
+    "Nag Panchami"
+  ],
+  "history": {
+    "dynasty": "",
+    "period": "c. 18th century (about 300 years old)",
+    "summary": "One of the oldest Shiva temples of Muzaffarpur, known as the 'Deoghar of Bihar'; the presiding deity is Garibnath ('Lord of the poor'). Belief: a dense forest with seven peepal trees stood here; when the trees were cut, a blood-red substance appeared and a huge lingam was found, after which Baba appeared in the landowner's dream - worship began. Wikipedia credits creator Mahavir Chachan and lists Nagara architecture; governed by the Bihar State Board of Religious Trusts. Some tourism sites claim Mahabharata-era origins, which conflicts with the documented ~300-year history (flagged as legend). DUPLICATE NOTE: this temple is the same as CSV seq 139 (same Baba Garibnath temple, Muzaffarpur); the two CSV rows are duplicates with distinct file ids."
+  },
+  "id": "baba-garibnath-dham-muzaffarpur",
+  "latitude": 26.12444,
+  "longitude": 85.39028,
+  "media": [
+    "https://files.yappe.in/place/full/garib-nath-mandir-1846898.webp"
+  ],
+  "name": "Baba Garib Nath Temple",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Garibnath_Temple",
+    "https://templedarshan.live/bihar-temple-darshan/baba-garib-nath-temple-ancient-shiva-temple-located-in-the-heart-of-muzaffarpur/",
+    "https://travelsetu.com/guide/baba-garib-nath-temple-tourism"
+  ],
+  "state": "Bihar",
+  "town": "Muzaffarpur",
+  "town_description": "Muzaffarpur is a major city in North Bihar and the commercial capital of the Tirhut region, famous worldwide for its Shahi litchi. It is a large railway junction about 70 km north of Patna.",
+  "tradition": "Shaivism",
+  "travel": {
+    "airport": "Jay Prakash Narayan International Airport, Patna (about 70 km)",
+    "railway": "Muzaffarpur Junction (nearest major station)",
+    "road": "In the heart of the city on Garib Asthan Road (Reva Road), near Chhata Bazaar/Makhan Sah Chowk; easily reached by city road"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "Shravan month (July-August) and Maha Shivaratri, when the temple is most crowded and decorated",
+    "opening_hours": "Sources conflict: travelsetu.com lists 5:00 AM-10:00 PM daily; templedarshan.live lists 4:00 AM-12:00 PM and 4:00-9:00 PM (verify before visiting)"
+  }
+}

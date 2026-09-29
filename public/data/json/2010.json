@@ -1,0 +1,57 @@
+{
+  "alternate_names": [
+    "Mata Lal Devi Mandir",
+    "Lal Devi Mandir",
+    "Pujya Mata Ji Mandir",
+    "Sheesh Mahal of Amritsar",
+    "Mini Vaishno Devi"
+  ],
+  "deities": [
+    "Lal Devi (samadhi of the 20th-century saint)",
+    "Vaishno Devi",
+    "Durga and other Hindu deities (multi-deity complex)"
+  ],
+  "district": "Amritsar",
+  "festivals": [
+    "Navratri",
+    "Diwali",
+    "Durga Ashtami",
+    "Annual function / birthday of Pujya Mata Ji (21 February)"
+  ],
+  "history": {
+    "dynasty": "Modern (post-Independence)",
+    "period": "Temple built 1989; Mata Lal Devi attained nirvana 1994 (UNVERIFIED exact dates; a built-date CONFLICT of 1957 vs 1989 is on record for this shrine — verify)",
+    "summary": "POSSIBLE DUPLICATE of seq 808 (Mata Lal Devi Mandir, same Rani Ka Bagh shrine). Dedicated to Lal Devi, a 20th-century female saint born in 1923 at Kasoor (Lahore district, Pakistan), who lived on milk and fruits, moved to Amritsar after Partition, and attained nirvana in 1994. Devotees built the temple in 1989 around the room where she meditated; her samadhi is preserved inside. Modelled as a replica of the Vaishno Devi shrine at Katra, it is called the 'Mini Vaishno Devi' and the 'Sheesh Mahal' for its mirrored, cave-like passages, tunnels and grottoes. It is especially visited by women praying for children."
+  },
+  "id": "mata-lal-devi-temple-amritsar",
+  "latitude": 31.64041,
+  "longitude": 74.85923,
+  "media": [
+    "https://dimg04.c-ctrip.com/images/02Y0712000aedf2228019_R_1080_808_Q90.jpg"
+  ],
+  "name": "Mata Lal Devi Temple",
+  "sources": [
+    "https://evendo.com/locations/india/amritsar/landmark/mata-lal-devi-mandir",
+    "https://www.trawell.in/punjab/amritsar/mata-lal-devi-mandir",
+    "https://temple.yatradham.org/temple/mata-lal-devi-temple",
+    "https://www.4waydial.com/php/search_id.php?query=3120"
+  ],
+  "state": "Punjab",
+  "town": "Amritsar",
+  "town_description": "Amritsar is the spiritual and cultural capital of Sikhism in Punjab, home to the Harmandir Sahib (Golden Temple), the holiest shrine of the Sikh faith. Founded by Guru Ram Das in the 16th century, it draws millions of pilgrims and tourists every year. The city is also known for its historic bazaars, the Jallianwala Bagh memorial, and vibrant Punjabi food culture.",
+  "tradition": "Hinduism (Shaktism, folk tradition)",
+  "travel": {
+    "airport": "Sri Guru Ram Dass Jee International Airport, Amritsar — ~10.1 km (verify)",
+    "railway": "Amritsar Junction — ~1-1.2 km (verify)",
+    "road": "Amritsar bus stand — ~3.1 km (verify); taxis and autos available"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March (winter season)",
+    "opening_hours": "5:00 AM to 11:00 PM (verify — trawell.in, evendo)"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "alternate_names": [
+    "Baba Garibnath Temple",
+    "Baba Garibnath Dham",
+    "Garib Sthan Mandir",
+    "Garibeshwar Mandir"
+  ],
+  "deities": [
+    "Lord Shiva (as Baba Garibnath / Garibeshwara)",
+    "Goddess Parvati",
+    "Lord Ganesha"
+  ],
+  "district": "Muzaffarpur",
+  "festivals": [
+    "Maha Shivaratri",
+    "Shravani Mela (Shravan month)",
+    "Naag Panchami"
+  ],
+  "history": {
+    "dynasty": "N/A (folk legend; ~300 years per local belief)",
+    "period": "18th century (per local belief; legendary origin)",
+    "summary": "LIKELY DUPLICATE of seq 139 ('Garib Sthan Mandir (Baba Garibnath Temple)') and seq 142 ('Baba Garib Nath Temple') — the same Baba Garibnath Shiva temple of Muzaffarpur city; keep-or-drop decision needed. One of Muzaffarpur's oldest Shiva temples, known as the 'Deoghar of Bihar' / second Baidyanath; the presiding deity Garibnath ('lord of the poor') is believed to relieve devotees' problems. Legend: the site was a dense forest with seven peepal/banyan trees; when the landowner cut them, a blood-red substance flowed and a hidden Shivalinga was found, and Shiva appeared in his dream that night ordering a temple to be built, with his devotee Shivdhari Pathak of Chapra appointed as priest. Believed ~300 years old; Wikipedia credits creator Mahavir Chachan, Nagara architecture, and notes governance by the Bihar State Board of Religious Trusts. CAUTION: one tourism scraper page (seawatersports.com) misdescribes it as a 900-year-old Sufi shrine — that content appears unreliable and is contradicted by all other sources."
+  },
+  "id": "garib-nath-mandir-muzaffarpur",
+  "latitude": 26.12444,
+  "longitude": 85.39028,
+  "media": [
+    "https://files.yappe.in/place/full/garib-nath-mandir-1846898.webp"
+  ],
+  "name": "Garib Nath Mandir",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Garibnath_Temple",
+    "https://www.ishtadevata.com/temple/baba-garibnath-temple-musahri-muzaffarpur/",
+    "https://templeyatri.in/garibnath-temple-muzaffarpur/",
+    "https://www.holidify.com/places/muzaffarpur/baba-garibnath-temple-sightseeing-1253386.html"
+  ],
+  "state": "Bihar",
+  "town": "Muzaffarpur",
+  "town_description": "Muzaffarpur is a major city of north Bihar and the headquarters of Muzaffarpur district in the Tirhut division, famous across India for its Shahi litchis. Situated on the Burhi Gandak river, it is an important commercial hub and railway junction of the region. The city also has historical associations with Jubba Sahni and the freedom fighter Khudiram Bose, and hosts Bihar's only planetarium and the L. S. College campus.",
+  "tradition": "Hinduism (Shaivism)",
+  "travel": {
+    "airport": "Patna (Jay Prakash Narayan International Airport), ~75 km away (verify); Muzaffarpur's own airstrip is non-functional.",
+    "railway": "Muzaffarpur Junction, in the city, ~2-3 km from the temple (verify).",
+    "road": "In the heart of Muzaffarpur city near Purani Bazar / Chhata Bazar Road; reachable by city roads, with NH-27/NH-28 passing the city (verify)."
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "Shravan month (July-August) and Maha Shivaratri are the most significant, though extremely crowded; October-February is comfortable.",
+    "opening_hours": "5:00 AM - 10:00 PM daily (verify; one source lists Monday from 1:00 AM)."
+  }
+}

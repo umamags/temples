@@ -1,0 +1,53 @@
+{
+  "alternate_names": [
+    "Jagannath Mandir Sector 4",
+    "Jagannath Mandir Bhilai"
+  ],
+  "deities": [
+    "Jagannath (form of Vishnu)",
+    "Balabhadra",
+    "Subhadra",
+    "Shiva (separate Shiva shrine within the complex)"
+  ],
+  "district": "Durg",
+  "festivals": [
+    "Rath Yatra (Bhilai's first Rath Yatra is held here)",
+    "Kartik Purnima (Asta Prahari 24-hour chanting)"
+  ],
+  "history": {
+    "dynasty": "None (20th-century community temple)",
+    "period": "1970s (relocated from Boria village; described by visitors as ~50 years old)",
+    "summary": "The temple was originally in Boria village, which was displaced when the Bhilai Steel Plant expanded. Plant employees living there were resettled, and the management allotted an alternative site in Sector 4, where the deities (Balabhadra, Jagannath, Subhadra) were kept in a makeshift arrangement while the temple was slowly built through small devotee contributions. Built as a replica of the Puri Jagannath Temple, it serves Bhilai's Odia community; the complex contains two temples, one for Jagannath and one for Shiva. Exact founding year is not documented (verify). Coordinates below are from a place listing and are approximate."
+  },
+  "id": "jagannath-temple-sector-four-bhilai",
+  "latitude": 21.1918,
+  "longitude": 81.3674,
+  "media": [
+    "https://cgwebs.com/image/jagannath-temple-3006035.jpg"
+  ],
+  "name": "Jagannath Temple",
+  "sources": [
+    "https://www.tripadvisor.in/ShowUserReviews-g1162217-d9740667-r382305915-Jagannath_Mandir-Bhilai_Durg_District_Chhattisgarh.html",
+    "https://in.worldorgs.com/catalog/bhilai/art-museum/jagannath-temple",
+    "https://cgwebs.com/bhilai/tourist-spots/jagannath-temple",
+    "https://promallu.com/toprated/india/jagannath-temple-5dlow/"
+  ],
+  "state": "Chhattisgarh",
+  "town": "Bhilai",
+  "town_description": "Bhilai is Chhattisgarh's major industrial city in Durg district, built around the Bhilai Steel Plant set up in 1955 with Soviet assistance. Sector 4 is a residential township sector near the plant, about 1 km from Bhilai railway station.",
+  "tradition": "Vaishnavism",
+  "travel": {
+    "airport": "Swami Vivekananda Airport, Raipur, about 42 km away",
+    "railway": "Bhilai railway station, about 1 km away",
+    "road": "Sector 4, Bhilai 490001; reachable by bus or auto-rickshaw within the city"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March; Rath Yatra (June-July) is the main festival",
+    "opening_hours": "6:00 AM - 12:00 PM and 5:00 PM - 9:00 PM daily (listings vary; verify on visit)"
+  }
+}

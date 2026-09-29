@@ -1,0 +1,47 @@
+{
+ "alternate_names": [
+  "Gauri Shankar Temple, Khatu"
+ ],
+ "deities": [
+  "Shiva (as Gaurishankar)",
+  "Parvati (Gauri)"
+ ],
+ "district": "Sikar",
+ "festivals": [
+  "Mahashivratri",
+  "Falgun Mela of Khatu Shyamji (townwide pilgrimage season, February-March)"
+ ],
+ "history": {
+  "dynasty": "No documented builder or patron",
+  "period": "Unverified - the temple is a small shrine near the Khatu Shyamji temple; age and builder are undocumented",
+  "summary": "Identity verified: the Gaurishankar Temple is a Shiva temple near the famous Khatu Shyamji temple in Khatu town, Sikar district (per jaipurtaxiservice.com, which lists it among the sights near the Khatu Shyam temple along with Shyam Kund and Shyam Bagicha). It is a small, locally visited shrine, distinct from the Gauri Shankar temples of Delhi and elsewhere. No reliable history, built date, or patron is documented; opening hours and detailed festival calendar are unverified. Coordinates are approximate: geocoding could not resolve the specific shrine, so the nearby Khatu Shyam Ji temple coordinates are used - verify."
+ },
+ "id": "gaurishankar-temple-khatu-shyamji",
+ "latitude": 27.36424,
+ "longitude": 75.40314,
+ "media": [],
+ "name": "Gaurishankar Temple, Khatu",
+ "sources": [
+  "https://www.jaipurtaxiservice.com/jaipur/outstation-cab/jaipur-to-khatu-shyamji",
+  "https://www.sikaronline.in/guide/khatu-shyam-temple",
+  "https://en.wikipedia.org/wiki/Khatu_Shyam_Temple"
+ ],
+ "state": "Rajasthan",
+ "town": "Khatu Shyamji",
+ "town_description": "Khatu Shyamji (Khatu) is a pilgrimage town in Sikar district (Danta Ramgarh area), about 80 km from Jaipur, dominated by the white-marble Khatu Shyam Temple dedicated to Barbarika/Shyam Baba. It draws millions of pilgrims, especially during the Falgun Mela, and is ringed by smaller shrines, sacred kunds, and dharamshalas.",
+ "tradition": "Hindu (Shaivism)",
+ "travel": {
+  "airport": "Jaipur International Airport, about 80 km away (2-3 hours by taxi).",
+  "railway": "Ringas Junction, about 18 km away; taxis and buses connect to Khatu.",
+  "road": "About 80 km from Jaipur via NH-52; well connected by bus and taxi."
+ },
+ "video": {
+  "audio": "",
+  "script": "",
+  "video_file": ""
+ },
+ "visitor_information": {
+  "best_time": "October to March; February-March for the Falgun Mela (expect extreme crowds).",
+  "opening_hours": "Not documented for this shrine specifically (verify); small Shiva shrines in the town typically observe daytime hours. FLAG: no reliable image of this specific temple was found despite searching - media left empty."
+ }
+}

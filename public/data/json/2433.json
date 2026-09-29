@@ -1,0 +1,53 @@
+{
+    "alternate_names": [
+        "Badrinarayan Temple",
+        "Badarinath Temple"
+    ],
+    "deities": [
+        "Lord Vishnu as Badrinarayan (Badrinath) - the 1 m black-granite deity, considered one of eight svayam vyakta kshetras (self-manifested deities of Vishnu)",
+        "Garuda (divine vehicle, seated opposite the deity with folded hands)",
+        "Kubera, Narada, Uddhava, Nar-Narayan and Ganesha (idols installed in the sanctum alongside the main deity)"
+    ],
+    "district": "Chamoli",
+    "festivals": [
+        "Mata Murti Ka Mela (Shravan/Bhadrapada Dwadashi; commemorates the descent of the Ganges on earth)",
+        "Krishna Janmashtami",
+        "Badri-Kedar Utsav"
+    ],
+    "history": {
+        "dynasty": "Tradition credits Adi Shankaracharya (8th century); present structure associated with the Garhwal kings (exact construction history unverified)",
+        "period": "Ancient - mentioned in the Vishnu Purana and Skanda Purana, and glorified in the Naalayira Divya Prabandham (6th-9th c. Alvar saints); popularly dated to Adi Shankaracharya's 8th century revival",
+        "summary": "Badrinath is one of the four Chota Char Dham pilgrimage sites and one of the 108 Divya Desams sacred to Vaishnavism. It stands at 3,133 m on the right bank of the Alaknanda, between the Nar and Narayan mountain ranges with Neelkanth peak as backdrop, in a blend of Garhwali and Buddhist architectural styles (~50 ft tall). Legend says Vishnu meditated here for thousands of years as Nar and Narayan; another legend says the site belonged to Shiva and Parvati until Vishnu claimed it (Shiva then moving to Kedarnath). The chief priest (Rawal) is always a Nambudiri Brahmin from Kerala, a tradition attributed to Adi Shankaracharya. The temple is open only ~6 months a year (late April to early November); in winter the deity's worship moves to Joshimath. Administered under the Shri Badarinath and Shri Kedarnath Mandir Act (UP Act No. 16/1939, Act No. 30/1948) with a 17-member board. Nearby: Tapt Kund hot spring (ritual bath before darshan), and the Panch Badri group of smaller shrines."
+    },
+    "id": "badrinath-badrinath",
+    "latitude": 30.74483,
+    "longitude": 79.49116,
+    "media": [
+        "https://media.easemytrip.com/media/Blog/India/639117638495166111/639117638495166111m8MquR.png"
+    ],
+    "name": "Badrinath Temple",
+    "sources": [
+        "http://en.wikipedia.org/wiki/Badrinath_Temple",
+        "https://www.bhaskarenglish.in/local/uttarakhand/news/badarinath-dham-himalayan-shrine-spirituality-history-peace-uttarakhand-138014787.html",
+        "https://www.hindudevotionalblog.com/2009/04/badrinath-temple-uttarakhand-char-dham.html",
+        "https://www.thetemples.in/2024/06/badrinath-temple.html?m=1"
+    ],
+    "state": "Uttarakhand",
+    "town": "Badrinath",
+    "town_description": "Badrinath is a holy temple town in Chamoli district at 3,133 m on the right bank of the Alaknanda river, flanked by the Nar and Narayan peaks with Neelkanth behind it. One of Hinduism's most visited pilgrimage centres (28 lakh visits recorded in two months in 2022), it exists almost entirely around the Char Dham yatra season, closing under snow each winter.",
+    "tradition": "Hinduism (Vaishnavism)",
+    "travel": {
+        "airport": "Jolly Grant Airport, Dehradun (~317 km)",
+        "railway": "Haridwar (~310 km) and Rishikesh (~297 km) are the nearest railheads; Kotdwar ~327 km",
+        "road": "Well connected by road (NH-7) from Haridwar, Rishikesh and Delhi; Char Dham registration is required for the yatra (verify current rules)"
+    },
+    "video": {
+        "audio": "",
+        "script": "",
+        "video_file": ""
+    },
+    "visitor_information": {
+        "best_time": "May to June and September to October; avoid the monsoon (July-August, landslide risk)",
+        "opening_hours": "Darshan from ~4:00 AM; temple opens late April/early May (date fixed on Basant Panchami) and closes in October/November (Vijayadashmi) - verify the current year's dates"
+    }
+}

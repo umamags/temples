@@ -1,0 +1,48 @@
+{
+  "alternate_names": [
+    "Shila Mata Mandir",
+    "Sheela Devi Temple"
+  ],
+  "deities": [
+    "Durga (as Shila Devi / Shila Mata)"
+  ],
+  "district": "Jaipur",
+  "festivals": [
+    "Navratri (Chaitra and Sharad)"
+  ],
+  "history": {
+    "dynasty": "Kachwaha (Raja Man Singh I)",
+    "period": "17th century (1604)",
+    "summary": "The temple stands in the first courtyard of Amer Fort and enshrines Durga as Shila Devi, the kuldevi of the Kachwaha royal family. Raja Man Singh I brought the idol from Jessore (now in Bangladesh) in 1604 CE. Legend says the goddess appeared in the Raja's dream and instructed him to retrieve her from the sea near Jessore; the idol was recovered in the form of a shila (slab), and when cleaned the present idol appeared — hence the name Shila Mata. One source says the temple took ten years to build. Special prayers are offered on the sixth day of the winter Navratris, drawing hundreds of thousands of devotees. (Note: coordinates are approximate — geocoded to a point near Amer Fort, Amer; the temple lies inside the fort complex itself.) (CSV correction: town listed as 'Jaipur' corrected to 'Amer', the actual town.)"
+  },
+  "id": "shila-devi-temple-amer",
+  "latitude": 26.98656,
+  "longitude": 75.85429,
+  "media": [
+    "https://temple.yatradham.org/public/Product/temple/temple_tvGr6vAh_202507111412250.jpg"
+  ],
+  "name": "Shila Devi Temple",
+  "sources": [
+    "https://99pandit.com/blog/shila-devi-temple/",
+    "https://jaipurtourism.co.in/shila-devi-temple-jaipur",
+    "https://tripnetra.com/blog/shila-devi-temple-jaipur"
+  ],
+  "state": "Rajasthan",
+  "town": "Amer",
+  "town_description": "Amer (also spelled Amber) was the capital of the Kachwaha Rajputs before the founding of Jaipur, about 11 km northeast of the Pink City. It is dominated by the Amer Fort, a UNESCO World Heritage hill fort, and retains an old walled town of palaces, havelis and temples around Maota Lake.",
+  "tradition": "Hinduism",
+  "travel": {
+    "airport": "Jaipur International Airport, about 25-30 km away (one source claims 11 km — likely understated; verify).",
+    "railway": "Jaipur Junction railway station, about 11 km away (verify).",
+    "road": "On Amer Road, about 11 km northeast of Jaipur; reachable by taxi, auto-rickshaw and Rajasthan roadways buses."
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March; Navratri is the grandest time to visit.",
+    "opening_hours": "Morning 6:00 AM-12:00 PM and evening 4:00 PM-8:00 PM with a midday break (sources vary — verify)."
+  }
+}

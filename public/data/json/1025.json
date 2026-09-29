@@ -1,0 +1,50 @@
+{
+ "alternate_names": [
+  "Uma Maheshwar Temple",
+  "Ummaheshwar Temple",
+  "Ummaneshwar Temple",
+  "Uma Maheshwari Kali Temple (per one business listing - verify)"
+ ],
+ "deities": [
+  "Uma (Parvati) and Maheshwara (Shiva)"
+ ],
+ "district": "West Tripura",
+ "festivals": [
+  "Maha Shivaratri, Durga Puja and Kali Puja are the usual major observances (weakly sourced - verify)"
+ ],
+ "history": {
+  "dynasty": "Not documented (Manikya attribution unverified)",
+  "period": "Antiquity not reliably documented (verify)",
+  "summary": "CSV town 'Agartala' is CORRECT. This is the documented Uma Maheshwari (Uma Maheshwar / Ummaheshwar) temple at the Palace Compound, Agartala, beside the Ujjayanta Palace - a Shaivite shrine to Uma (Parvati) and Maheshwara (Shiva). It is NOT at Udaipur: no Uma Maheshwari temple at Udaipur is documented; the closest Udaipur link is the Uma-Maheshvara image found near the old Jagannath temple there (per 'Temples of Tripura', ASI). IDENTITY FLAG: one AI-generated travel blog claims 16th-century Manikya construction with Nagara brick/terracotta work, but no reliable source confirms the temple's age or builders - treat the 16th-century claim as unverified. A business listing also styles it 'Uma Maheshwari Kali Temple' (verify). Coordinates are from the OpenStreetMap node for Ummaheshwar Temple beside Ujjayanta Palace; a Google listing places it slightly differently within the same Palace Compound (verify)."
+ },
+ "id": "uma-maheshwari-temple-agartala-palace-compound",
+ "latitude": 23.83762,
+ "longitude": 91.2819,
+ "media": [
+  "https://synctrip.gumlet.io/compressed/Location/Agartala/placesToVisit/Ummaneshwar_Temple/Top_1_Place_to_visit_in_Agartala_Ummaneshwar_Temple.jpg"
+ ],
+ "name": "Uma Maheshwari Temple",
+ "sources": [
+  "https://mapcarta.com/N9901033681",
+  "https://www.inheritage.foundation/heritage/uma-maheshwari-temple-agartala",
+  "https://www.justdial.com/Agartala/Uma-Maheshwari-Kali-Temple-Indranagar/9999PX381-X381-220320204614-X4H9_BZDET"
+ ],
+ "state": "Tripura",
+ "town": "Agartala",
+ "town_description": "Agartala, the capital city of Tripura in West Tripura district, on the banks of the Haora river near the Bangladesh border, about 90 km east of Dhaka. It holds the Manikya royal seat - Ujjayanta Palace (now a museum) - and the cluster of royal-family temples in the palace compound (Lakshmi Narayan, Uma Maheshwar, Jagannath).",
+ "tradition": "Hinduism (Shaivism)",
+ "travel": {
+  "airport": "Maharaja Bir Bikram Airport, Agartala - within the city, a few km away (verify).",
+  "railway": "Agartala Railway Station - a few km away (verify).",
+  "road": "Palace Compound, Agartala (beside Ujjayanta Palace), on the Lakshmi Narayan Bari Rd side."
+ },
+ "video": {
+  "audio": "",
+  "script": "",
+  "video_file": ""
+ },
+ "visitor_information": {
+  "best_time": "October to March; Maha Shivaratri, Durga Puja and Kali Puja for special celebrations.",
+  "opening_hours": "Hours not published consistently - listings report 6:00 AM to 8:00 PM daily; another source says 6 AM-12 PM and 4-9 PM (verify on site)."
+ }
+}

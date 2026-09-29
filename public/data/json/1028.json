@@ -1,0 +1,50 @@
+{
+ "alternate_names": [
+  "Gunabati Mandir Gucchha",
+  "Gunavati Group of Temples",
+  "Gunabati Mandir"
+ ],
+ "deities": [
+  "Vishnu (north temple, per the 1668 inscription - dedicated to God Vishnu)",
+  "Deities of the other two temples not established (no surviving inscriptions)"
+ ],
+ "district": "Gomati",
+ "festivals": [
+  "No temple-specific festivals published (verify)"
+ ],
+ "history": {
+  "dynasty": "Manikya (Tripura Kingdom)",
+  "period": "1668 CE (Saka 1590) for the north temple; the other two ascribed to the same 17th century on stylistic grounds",
+  "summary": "CSV town 'Udaipur' is CORRECT. The Gunabati group is a set of THREE brick temples adjacent to each other, east of Udaipur town - not a 'Pancharatna complex at Radhakishorepur' (that description is unsupported by the sources found and is flagged as a possible conflation). The north temple was built in the name of Maharani Gunabati, wife of Maharaja Govinda Manikya (r. 1660-1676), in 1668 CE (Saka 1590) and dedicated to God Vishnu per its stone inscription; the other two temples bear no inscriptions now but are ascribed to the same period on stylistic grounds (ASI, 'Temples of Tripura'). Architecture resembles other contemporary Tripura temples except the topmost parts are without stupas; charchala roofs (the Gunabati temple's eaves droop more than most Tripura temples), terracotta ornament, and a distinctive amalaka disc with a solid spherical cube over the anda. Nearby stands the Chaturdasadevata temple (1650-51, dedicated to Gopinatha) with its Lakshmi-Narayana shrine - a distinct, separate complex. This group is a distinct site from the Tripura Sundari and Jagannath temples - do not conflate."
+ },
+ "id": "gunabati-group-of-temples-udaipur",
+ "latitude": 23.538245701456837,
+ "longitude": 91.5027317673969,
+ "media": [
+  "https://www.tusktravel.com/blog/wp-content/uploads/2021/02/Gunabati-Group-of-Temples-Udaipur-Tripura-1024x612.jpg"
+ ],
+ "name": "Gunabati Group of Temples",
+ "sources": [
+  "https://tripuratourism.gov.in/single-tour.php?id=17",
+  "https://en.wikipedia.org/wiki/Gomati_district",
+  "https://ia902902.us.archive.org/16/items/templesoftripura00adri/templesoftripura00adri.pdf"
+ ],
+ "state": "Tripura",
+ "town": "Udaipur (east of Udaipur town)",
+ "town_description": "Udaipur, in Gomati district on the Gomati river about 55 km from Agartala, was the capital of the Tripura kingdom under the Manikya dynasty before the capital shifted to Agartala. It is a cluster of 16th-17th century Manikya temples: the Shakti Peetha of Tripura Sundari at Matabari, the Bhuvaneswari temple by the Gomati, the Gunabati group of brick temples, and the old stone Jagannath temple by Jagannath Dighi.",
+ "tradition": "Hinduism",
+ "travel": {
+  "airport": "Maharaja Bir Bikram Airport, Agartala - about 55 km.",
+  "railway": "Udaipur Railway Station - about 5 km (per travel guides; verify).",
+  "road": "About 55 km from Agartala, east of Udaipur town."
+ },
+ "video": {
+  "audio": "",
+  "script": "",
+  "video_file": ""
+ },
+ "visitor_information": {
+  "best_time": "October to March for pleasant weather.",
+  "opening_hours": "Not published; a travel guide suggests 6:00 AM to 6:00 PM (verify on site)."
+ }
+}

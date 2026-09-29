@@ -1,0 +1,51 @@
+{
+ "alternate_names": [
+  "Lingdum Monastery",
+  "Pal Zurmang Kagyud Monastery",
+  "Pal Karma Zurmang Shedup Chokhor Ling Lingdum Monastery"
+ ],
+ "deities": [
+  "Shakyamuni Buddha (large golden statue in the sanctum)",
+  "Bodhisattvas (hundreds of smaller statues)"
+ ],
+ "district": "Gangtok",
+ "festivals": [
+  "Gutor (per Wikipedia - verify)"
+ ],
+ "history": {
+  "dynasty": "Zurmang Kagyu lineage; H.E. Zurmang Gharwang Rinpoche (12th incarnation)",
+  "period": "Established 1992-1999, completed 1999 per Wikipedia (some travel sources say 1998 - minor conflict)",
+  "summary": "CORRECTION TO BRIEF: this is NOT a duplicate of seq 914 - row 914 in this dataset is the Tashiding Monastery of West Sikkim (Gyalshing district), not Ranka. The Ranka Monastery (Lingdum Monastery, officially Pal Karma Zurmang Shedup Chokhor Ling) has NO existing duplicate in this dataset and is documented here as its own entry. It is a Tibetan Buddhist monastery of the Zurmang Kagyu tradition near Ranka village, about 16-20 km from Gangtok in East Sikkim, surrounded by forested mountains on three sides with the Re Khola stream nearby. Completed in 1999, it is the seat of the 12th Zurmang Gharwang (Charwang) Rinpoche; the monastery is run mainly by young monks (200+) studying Buddhist philosophy, rituals and meditation, and is known for its multi-tiered Tibetan architecture, golden roofs, thangka murals, a large gold-plated ~40-ft Buddha statue, and the Tibetan New Year lama dance. THIS IS A BUDDHIST MONASTERY (ZURMANG KAGYU), NOT A HINDU TEMPLE - keep-or-drop decision needed."
+ },
+ "id": "ranka-monastery-lingdum-gangtok",
+ "latitude": 27.330805,
+ "longitude": 88.579484,
+ "media": [
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Lingdum_Zurmang_Kharwang_Gonpa_or_Ranka_Monastery%2C_East_Sikkim._05.jpg/1280px-Lingdum_Zurmang_Kharwang_Gonpa_or_Ranka_Monastery%2C_East_Sikkim._05.jpg"
+ ],
+ "name": "Ranka Monastery",
+ "sources": [
+  "https://en.wikipedia.org/wiki/Lingdum_Monastery",
+  "https://gangtoktourism.in/ranka-monastery-pal-karma-zurmang-shedup-chokhor-ling-lingdum-monastery-gangtok",
+  "https://www.trawell.in/sikkim/gangtok/ranka-monastery",
+  "https://indiano.travel/place/pal-karma-zurmang-shedup-chokhor-ling-lingdum-monastery-ranka-monastery/"
+ ],
+ "state": "Sikkim",
+ "town": "Ranka, near Gangtok (CSV town 'Gangtok' is APPROXIMATE - the monastery is ~16-20 km from the city, in Gangtok district)",
+ "town_description": "Ranka is a quiet valley in Gangtok district, East Sikkim, about 16-20 km from Gangtok town on the road toward the eastern hills. The monastery sits amid forested mountains with Himalayan views, away from the tourist crowds of the city monasteries.",
+ "tradition": "Buddhism (Tibetan, Zurmang Kagyu) - NOT a Hindu temple",
+ "travel": {
+  "airport": "Pakyong Airport - about 40 km (verify).",
+  "railway": "New Jalpaiguri (NJP) - about 125 km (verify).",
+  "road": "About 16-20 km by road from Gangtok (an hour's drive per Wikipedia); 8 km from Banjhakri Falls per trawell.in (verify)."
+ },
+ "video": {
+  "audio": "",
+  "script": "",
+  "video_file": ""
+ },
+ "visitor_information": {
+  "best_time": "October to March; Tibetan New Year (Gutor) lama dance is the highlight (verify).",
+  "opening_hours": "Listed as 6 AM-6 PM daily with no entry fee (verify - trawell.in gives 6 AM-5 PM; conflict unresolved; confirm locally)."
+ }
+}

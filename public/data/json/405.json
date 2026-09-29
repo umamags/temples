@@ -1,0 +1,52 @@
+{
+  "alternate_names": [
+    "Kapadgadi Ghat Rankini Mandir",
+    "Rankini Mata Temple",
+    "Maa Rankini Mandir"
+  ],
+  "deities": [
+    "Goddess Rankini (stone murti; worshipped as a form of Kali/Durga)",
+    "Lord Ganesha (flanking shrine)",
+    "Lord Shiva (flanking shrine)"
+  ],
+  "district": "East Singhbhum",
+  "festivals": [
+    "Durga Puja (Navratri)",
+    "Kali Puja"
+  ],
+  "history": {
+    "dynasty": "Not applicable — mid-20th-century establishment on an older folk-worship site; local Bhumij tribal and later Dhalbhum royal patronage per legend",
+    "period": "Current structure established 1947-50; managing trust formed 1954",
+    "summary": "Rankini Mandir is the famous shrine of Goddess Rankini at Rohinibera village (Bansila Gram Panchayat, Potka block), about 3 km from Jadugoda and 35 km from Tatanagar. CSV CORRECTION: the CSV town 'Jamshedpur' is wrong — the temple is at Jadugoda/Jadugora in East Singhbhum, not in Jamshedpur town. Rankini is a regional guardian goddess (a form of Kali/Durga) worshipped as a 'living stone' whose size devotees say grows year by year. Legend says the goddess appeared in a dream to Dinbandhu Singh, directing him to worship the stone in Kapadgadi valley and later to build the present temple; his descendants still run it. Folk memory holds that human sacrifice (narabali) was practised here until the British stopped it around 1865. Priests are traditionally from the Bhumij tribal community, and tribal and non-tribal devotees worship together. The main shrine is flanked by Ganesha and Shiva temples; an old Rankini shrine also stands at the Ghatshila police station complex. Bibhutibhushan Bandyopadhyay mentioned Rankini Devi in his story 'Rankini Debir Khadga'. Coordinates are approximate (area-level geocoding; no POI-level coordinate source found)."
+  },
+  "id": "rankini-mandir-jadugora",
+  "latitude": 22.63992,
+  "longitude": 86.36667,
+  "media": [
+    "https://media.tripinvites.com/places/jamshedpur/rankini-mandir/rankini-mandir-featured.jpg"
+  ],
+  "name": "Rankini Mandir",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Rankini_Temple,_Jadugora",
+    "https://orangenews9.com/rankini-temple-jadugora/",
+    "https://www.internationalkhabar.com/rankini-mandir-a-divine-temple-in-jamshedpur/"
+  ],
+  "state": "Jharkhand",
+  "town": "Jadugoda",
+  "town_description": "Jadugoda (also spelt Jadugora) is a mining town in East Singhbhum district, Jharkhand, known for the Uranium Corporation of India mines that made it India's first uranium-mining centre. It lies about 35 km from Jamshedpur on the Hata-Musabani road.",
+  "tradition": "Shaktism (tribal-Hindu syncretic; Bhumij tribal worship tradition)",
+  "travel": {
+    "airport": "Birsa Munda Airport, Ranchi — nearest major airport (verify distance); Sonari Airport, Jamshedpur has limited services",
+    "railway": "Tatanagar Junction — about 35 km away",
+    "road": "On the Hata-Jadugora State Highway, about 3 km from Jadugoda; reachable by taxi/bus from Jamshedpur"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October-March; Navratri and Kali Puja draw the largest crowds",
+    "opening_hours": "Not published; typically dawn to dusk daily (verify)"
+  }
+}

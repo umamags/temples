@@ -1,0 +1,60 @@
+{
+  "alternate_names": [
+    "Shri Radha Ramana Temple, Junagadh",
+    "Shree Swaminarayan Mukhya Temple"
+  ],
+  "deities": [
+    "Ranchhodrai",
+    "Trikamrai",
+    "Radha Raman Dev",
+    "Harikrishna Maharaj",
+    "Siddheshwar Mahadev",
+    "Parvati",
+    "Ganesha",
+    "Nandishwar"
+  ],
+  "district": "Junagadh",
+  "festivals": [
+    "Janmashtami",
+    "Radhashtami",
+    "Holi",
+    "Diwali",
+    "Annakut"
+  ],
+  "history": {
+    "dynasty": "Swaminarayan Sampradaya",
+    "period": "1826-1828 (early 19th century)",
+    "summary": "POSSIBLE DUPLICATE of seq 292 ('Shri Swaminarayan Mandir, Junagadh') - both rows appear to describe the same 1828 Swaminarayan temple in Junagadh. Built at the order of Swaminarayan himself, founder of the Swaminarayan Sampradaya, on land donated by King Hemantsinh (Jinabhai, Darbar of Panchala). The foundation stone was laid on 10 May 1826 by Gunatitanand Swami and construction was supervised by Brahmanand Swami; on 1 May 1828 Swaminarayan installed Ranchhodrai and Trikamrai in the sanctum, Radharaman Dev and Harikrishna Maharaj in the eastern wing, and Siddheshwar Mahadev with Parvati, Ganesha and Nandishwar on the western side. The five-spired temple (278 ft in circumference) is one of the oldest Swaminarayan temples; Gunatitanand Swami served as its first mahant for over 40 years."
+  },
+  "id": "shri-swaminarayan-radha-ramana-temple-junagadh",
+  "latitude": 21.51667,
+  "longitude": 70.465209,
+  "media": [
+    "https://temple.yatradham.org/public/Product/temple/temple_zuOj0Nrb_202507011639070.jpg"
+  ],
+  "name": "Shri Swaminarayan Mandir (Radha Ramana Temple)",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Shri_Swaminarayan_Mandir,_Junagadh",
+    "https://temple.yatradham.org/temple/shree-swaminarayan-mukhya-temple",
+    "https://www.issousa.org/Home/temples?sub=asia&sec=4",
+    "https://www.justdial.com/Junagadh/Shree-Swaminarayan-Mandir-Jawahar-Road/9999PX285-X285-170725182741-P9Q7_BZDET"
+  ],
+  "state": "Gujarat",
+  "town": "Junagadh",
+  "town_description": "Junagadh is a city at the foot of the Girnar hills in the Saurashtra region of Gujarat, once the capital of the former princely state of Junagadh. It is known for the Ashokan rock edicts (c. 250 BCE), the Uparkot fort and the Mahabat Maqbara, and is the gateway for pilgrims climbing Mount Girnar and visitors to Sasan Gir. The district headquarters is a major religious-tourism hub of western Gujarat.",
+  "tradition": "Hinduism (Swaminarayan Sampradaya, Vaishnavism)",
+  "travel": {
+    "airport": "Keshod Airport, ~40 km (verify); Rajkot Airport ~110 km (verify)",
+    "railway": "Junagadh Junction, ~2.4 km",
+    "road": "Junagadh city centre (Jawahar Rd), ~2 km from the Junagadh bus stand; well connected by road"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March",
+    "opening_hours": "5:00 AM - 9:00 PM (verify)"
+  }
+}

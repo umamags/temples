@@ -1,0 +1,40 @@
+{
+  "alternate_names": [
+    "Nepali Temple, Kohima"
+  ],
+  "deities": [],
+  "district": "Kohima",
+  "festivals": [],
+  "history": {
+    "dynasty": "",
+    "period": "20th century (exact date unverified)",
+    "summary": "The Nepali Mandir on P.R. Hill in Kohima is a Hindu temple built in the Nepali pagoda style with multi-tiered timber roofs, serving the Nepali/Gorkha community of Kohima. Sources describe it as dedicated to various deities with carved wooden idols, but no source names the specific deities, gives a founding date, or lists festivals (all UNVERIFIED). Documentation is thin: the main descriptive source is an AI-generated heritage page (inheritage.foundation) plus a place listing; treat architectural and historical claims as unverified. Coordinates below come from a place listing and are approximate (verify). No verified photo of the actual temple was found, so media is empty."
+  },
+  "id": "nepali-mandir-kohima",
+  "latitude": 25.6594,
+  "longitude": 94.104378,
+  "media": [],
+  "name": "Nepali Mandir, Kohima",
+  "sources": [
+    "https://www.inheritage.foundation/explore/lead-temples-in-nagaland",
+    "https://meta.ai?place_id=880890496211485"
+  ],
+  "state": "Nagaland",
+  "town": "Kohima",
+  "town_description": "Kohima is the capital of Nagaland, a hill city at about 1,444 m above sea level. It is famous for the 1944 Battle of Kohima and the Kohima War Cemetery, and hosts the annual Hornbill Festival at nearby Kisama. P.R. Hill is a locality within Kohima town where this Nepali-community temple stands.",
+  "tradition": "Hinduism",
+  "travel": {
+    "airport": "Dimapur Airport, ~74 km by road (NH-29) (verify)",
+    "railway": "Dimapur Railway Station, ~74 km by road; Kohima has no railway station (verify)",
+    "road": "Within Kohima town by taxi to P.R. Hill (verify)"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "Not documented (verify)",
+    "opening_hours": "Not documented (verify)"
+  }
+}

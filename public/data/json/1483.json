@@ -1,0 +1,39 @@
+{
+  "alternate_names": [],
+  "deities": [],
+  "district": "Junagadh",
+  "festivals": [
+    "Unknown (verify)"
+  ],
+  "history": {
+    "dynasty": "Unknown",
+    "period": "Modern (unconfirmed)",
+    "summary": "IDENTITY UNVERIFIED - repeated web searches found no dedicated ISKCON (International Society for Krishna Consciousness) temple or preaching centre in Junagadh; the nearest documented ISKCON temples are in Rajkot, Vadodara and Dwarka (Dwarkadhish Dham). This CSV row may refer to a small congregation centre, a planned project, or a mislabelled/duplicate entry - no name of the presiding deities, address, or history could be confirmed. Coordinates below are simply the Junagadh city centre (approximate, verify). media is empty because no verified image of an ISKCON Junagadh temple could be found."
+  },
+  "id": "iskcon-junagadh",
+  "latitude": 21.5167,
+  "longitude": 70.4667,
+  "media": [],
+  "name": "ISKCON Junagadh",
+  "sources": [
+    "Multiple web searches (browser.search) for 'ISKCON Junagadh', 'Hare Krishna temple Junagadh' - no dedicated temple found; nearest documented ISKCON temples at Rajkot (https://iskconrajkot.com/) and Dwarka (https://iskcondwarkadham.com/)"
+  ],
+  "state": "Gujarat",
+  "town": "Junagadh",
+  "town_description": "Junagadh is a city at the foot of the Girnar hills in the Saurashtra region of Gujarat, once the capital of the former princely state of Junagadh. It is known for the Ashokan rock edicts (c. 250 BCE), the Uparkot fort and the Mahabat Maqbara, and is the gateway for pilgrims climbing Mount Girnar and visitors to Sasan Gir. The district headquarters is a major religious-tourism hub of western Gujarat.",
+  "tradition": "Hinduism (Gaudiya Vaishnavism)",
+  "travel": {
+    "airport": "Unknown (verify)",
+    "railway": "Unknown (verify)",
+    "road": "Unknown (verify)"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "Unknown (verify)",
+    "opening_hours": "Unknown (verify)"
+  }
+}

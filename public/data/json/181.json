@@ -1,0 +1,40 @@
+{
+  "alternate_names": [],
+  "deities": [
+    "Shiva (generic name; no specific shrine identified)"
+  ],
+  "district": "Durg",
+  "festivals": [],
+  "history": {
+    "dynasty": "Unknown",
+    "period": "Unknown",
+    "summary": "FLAG - UNCERTAIN IDENTITY: 'Shiv Mandir Maroda' is a generic name with no documented referent. No web source, listing, or article describes a specific shrine under this name in Maroda (a locality in Bhilai that also houses Maitri Bagh Zoo). Multiple generic 'Shiv Mandir' place pins exist in the Bhilai-Maroda area, but none is verified as the CSV's intended shrine. This is a clearly-flagged placeholder: no deities beyond Shiva can be confirmed, no history, festivals, or opening hours are known, media is intentionally left empty, and the coordinates are the Maroda-locality pin (approximate). Research needed - the row may refer to any one of several small neighbourhood Shiva shrines in Maroda Sector, Bhilai."
+  },
+  "id": "shiv-mandir-maroda-bhilai",
+  "latitude": 21.1573,
+  "longitude": 81.3602,
+  "media": [],
+  "name": "Shiv Mandir, Maroda",
+  "sources": [
+    "https://meta.ai?place_id=1267977887563409",
+    "https://www.instagram.com/explore/locations/117908355422713"
+  ],
+  "state": "Chhattisgarh",
+  "town": "Bhilai",
+  "town_description": "Bhilai is Chhattisgarh's major industrial city in Durg district, built around the Bhilai Steel Plant set up in 1955 with Soviet assistance. Maroda is a locality in Bhilai (Maitri Bagh Zoo sits in Maroda Sector) with many small neighbourhood shrines.",
+  "tradition": "Shaivism (assumed from name; unverified)",
+  "travel": {
+    "airport": "Swami Vivekananda Airport, Raipur, about 40-45 km away",
+    "railway": "Bhilai railway station (nearest)",
+    "road": "Maroda Sector, Bhilai; reachable by auto-rickshaw or taxi within the city"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "",
+    "opening_hours": ""
+  }
+}

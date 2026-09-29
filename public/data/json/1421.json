@@ -1,0 +1,54 @@
+{
+  "alternate_names": [
+    "Maa Chandrahasini Temple",
+    "Chandrahasini Shakti Peetha",
+    "Chandraseni Maa Mandir"
+  ],
+  "deities": [
+    "Goddess Chandrahasini (a form of Goddess Durga)",
+    "Goddess Nathaldai (younger sister; shrine on a Mahanadi island nearby)"
+  ],
+  "district": "Sakti (carved out of Janjgir-Champa in 2021; older sources list Janjgir-Champa)",
+  "festivals": [
+    "Navratri (Sharad and Chaitra)",
+    "Diwali"
+  ],
+  "history": {
+    "dynasty": "CONFLICT (verify): Kalachuri of Ratnapura (~1050 CE per some sources; 12th c. per others) vs 16th-c. Gond king Dhundhya Ram Shah",
+    "period": "Ancient; age disputed (1050 CE / 12th century / ~1500 years old per different sources)",
+    "summary": "A major Shakti Peetha at Chandrapur (Chandkhuri), on a hill at the confluence of the Mand and Mahanadi rivers - legend says the left cheek of Goddess Sati fell here, and the goddess appeared in King Chandrahas's dream ordering him to build the temple; a companion shrine to her younger sister Nathaldai stands on an island in the Mahanadi that, devotees say, never submerges even in flood. The shrine has a black-stone murti of the goddess (named for her moon-like radiance, 'Chandrahasini'), a saffron entrance arch and a mirror hall, with tableau shrines depicting the Samudra Manthan, Krishna Leela, Mahishasura vadha and the Char Dham. Construction claims CONFLICT across sources: Kalachuri ~1050 CE (heritage portals), 12th-century Kalchuri with 19th-century reconstruction (templeyatri), ~1500 years old (velpu), and 16th-century Gond king Dhundhya Ram Shah (a YouTube account of the legend). CSV TOWN CORRECTION: 'Rajnandgaon' is WRONG - the temple is at Chandrapur/Chandkhuri, Sakti district (formerly Janjgir-Champa). Coordinates are the Chandrapur village geocode (approximate; the temple stands on a hill by the river confluence)."
+  },
+  "id": "chandrahasini-devi-temple-chandrapur",
+  "latitude": 21.2833,
+  "longitude": 83.1167,
+  "media": [
+    "https://hindi.cdn.zeenews.com/hindi/sites/default/files/2024/09/21/3250965-chandrahasini-devi-temple.png"
+  ],
+  "name": "Chandrahasini Devi Temple, Chandkhuri",
+  "sources": [
+    "https://velpu.com/temple/CHANDRAHASINI-DEVI-TEMPLE/MTU0Ng==",
+    "https://english.dainikjagranmpcg.com/states/chhattisgarh/divine-presence-of-mother-chandrahasini-on-mahanadis-banks/article-5336",
+    "https://templeyatri.in/chandrahasini-devi-temple-chhatishgarh/",
+    "https://www.inheritage.foundation/explore/bronze-temples-in-chhattisgarh",
+    "https://testbook.com/question-answer/which-religious-place-is-situated-on-confluence-of--601e97a88bee6e7df2b64c01/amp",
+    "https://yappe.in/chhattisgarh/chandrapur/fitness-line/90725"
+  ],
+  "state": "Chhattisgarh",
+  "town": "Chandrapur (Chandkhuri)",
+  "town_description": "Chandrapur (also called Chandkhuri) is a small town on the banks of the Mahanadi at the confluence of the Mand river, now in Sakti district of Chhattisgarh. It is best known as a major Shakti pilgrimage centre, home to the Chandrahasini Temple on its riverside hill and the Nathaldai island shrine. Devotees come from across Chhattisgarh and neighbouring Odisha, especially during Navratri.",
+  "tradition": "Hinduism (Shaktism)",
+  "travel": {
+    "airport": "Swami Vivekananda Airport, Raipur (~200 km, verify)",
+    "railway": "Nearest major station Janjgir-Naila / Sakti (~59 km to Janjgir, verify)",
+    "road": "Chandrapur lies ~59 km east of Janjgir on the Mahanadi; approachable by road from Janjgir, Sakti or Sambalpur (~128 km, verify)"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March; Navratri is the peak pilgrimage season",
+    "opening_hours": "CONFLICT (verify): 6:00 AM - 8:00 PM daily (velpu) vs 4:00 AM - 9:00 PM on Mondays (a travel listing)"
+  }
+}

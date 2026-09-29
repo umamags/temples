@@ -1,0 +1,49 @@
+{
+  "alternate_names": [
+    "Varahi Deula",
+    "Barahi Temple",
+    "Matsya Varahi Temple"
+  ],
+  "deities": [
+    "Goddess Varahi (Matsya Varahi)"
+  ],
+  "district": "Puri",
+  "festivals": [],
+  "history": {
+    "dynasty": "Somavamsi",
+    "period": "First quarter of 10th century AD",
+    "summary": "NOTE: CSV town 'Puri' is approximate - the temple is at Chaurasi village, Puri district, on the right bank of the Prachi river (~27-30 km from Konark, ~14 km from Kakatpur). East-facing sandstone shrine (approx 15.84 m x 8.23 m x 8.40 m) built in the rare Khakhara (Kharkhara) style used for goddess temples, maintained by the Archaeological Survey of India. The presiding deity is Matsya Varahi - pot-bellied, boar-faced, holding a fish in her right hand and a kapala in her left, with a third eye. She is worshipped with tantric rites and offered fish daily; erotic sculptures and Tantric/Vaishnav fusion imagery make it a key Kaula/Vamacara site. Chaurasi also has the Amareswar and Laxminarayan temples. Coordinates (20.0586, 86.1186) are from shreekhetra.com (20 deg 03'31\"N 86 deg 07'07\"E) - approximate, geocoder could not resolve Chaurasi precisely."
+  },
+  "id": "varahi-temple",
+  "latitude": 20.0586,
+  "longitude": 86.1186,
+  "media": [
+    "https://www.trawell.in/admin/images/upload/403298523Konark_Varahi_Temple.jpg"
+  ],
+  "name": "Varahi Temple",
+  "sources": [
+    "https://www.incredibleindia.gov.in/en/odisha/puri/chaurasi",
+    "http://en.wikipedia.org/wiki/Varahi_Deula,_Chaurasi",
+    "https://www.trawell.in/orissa/konark/varahi-devi-temple-chaurasi",
+    "https://Shreekhetra.com/chaurasi.html",
+    "https://www.odishalifestyle.com/maa-varahi-temple-of-chaurasi/"
+  ],
+  "state": "Odisha",
+  "town": "Chaurasi",
+  "town_description": "Chaurasi is a small village in Puri district on the right bank of the Prachi river, between Nimapada and Kakatpur. It is famous for the 10th-century Varahi (Barahi) Deula, a Tantric goddess shrine, and also hosts the Amareswar and Laxminarayan temples. Chaurasi sits within the Prachi Valley temple circuit, roughly 27-30 km from Konark.",
+  "tradition": "Hinduism (Shaktism/Tantrism)",
+  "travel": {
+    "airport": "Biju Patnaik International Airport, Bhubaneswar, ~65-75 km (verify)",
+    "railway": "Nearest stations at Puri or Bhubaneswar (verify)",
+    "road": "On the Nimapada-Kakatpur road; ~27 km from Konark, ~14 km from Kakatpur; reachable by bus/taxi from Puri or Konark"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October-March",
+    "opening_hours": "Specific timings not published; daylight hours typical (verify). Note: no annual festival is documented by the sources consulted - worship is daily tantric ritual with fish offering."
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "alternate_names": [
+    "Jagadguru Shri Sant Tukaram Maharaj Mandir",
+    "Shri Kshetra Dehu temple",
+    "Dehu Sansthan Mandir"
+  ],
+  "deities": [
+    "Sant Tukaram Maharaj (venerated Warkari saint)",
+    "Vitthal",
+    "Rakhumai (Rukmini)"
+  ],
+  "district": "Pune",
+  "festivals": [
+    "Ashadhi Ekadashi (Palkhi procession to Pandharpur departs from Dehu)",
+    "Kartiki Ekadashi",
+    "Tukaram Beej (verify)"
+  ],
+  "history": {
+    "dynasty": "Maratha era / modern",
+    "period": "1723 (main Sansthan temple built by Tukaram's younger son Narayanbaba); Shila Mandir rebuilt in stone, formally consecrated 14 June 2022",
+    "summary": "The main Dehu temple complex of Sant Tukaram Maharaj (c. 1598/1608–1650, Warkari saint-poet of the Bhakti movement famed for his abhanga devotional poetry to Vitthal), on the banks of the Indrayani river. The main Sansthan temple was built in 1723 by his younger son Narayanbaba; the complex holds the idol of Sant Tukaram along with shrines of Vitthal, Rukmini and Ganesha, and the Dehu region holds swayambhu (self-manifested) idols of Vitthal and Rakhumai. The Janm Sthan (birthplace) within Dehu village is where Tukaram was born, around which a temple was later built. The Shila Mandir — built around the rock (pashan) where Tukaram sat on a 13-day fast — was originally informal, later rebuilt in stone with 36 peaks, and was formally inaugurated on 14 June 2022. The Tukaram Palakhi to Pandharpur originates from Dehu in Ashadh. Note: the CSV name merges the Janm Sthan (birthplace shrine) and the Sansthan (main) mandir; this file covers the main Sansthan complex as the principal record. Exact birth/death years of Tukaram are disputed (1598 vs 1608)."
+  },
+  "id": "sant-tukaram-maharaj-janm-sthan-sansthan-mandir",
+  "latitude": 18.719,
+  "longitude": 73.765,
+  "media": [
+    "https://www.discovermh.com/wp-content/uploads/2019/09/51611137_778588392513447_1789721243134459904_n-1.jpg"
+  ],
+  "name": "Sant Tukaram Maharaj Janm Sthan / Sansthan Mandir",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Dehu",
+    "https://www.gktoday.in/shrisant-tukaram-maharaj-temple/",
+    "https://www.tripadvisor.co.za/Attraction_Review-g27463089-d33876951-Reviews-Sant_Tukaram_Maharaj_Sansthan_Mandir-Dehu_Pune_District_Maharashtra.html",
+    "https://www.punekarnews.in/pune-know-all-about-shila-mandir-at-dehu/"
+  ],
+  "state": "Maharashtra",
+  "town": "Dehu (Dehugaon), Haveli taluka",
+  "town_description": "Dehu is a town in Pune district on the banks of the Indrayani river, about 30 km northwest of Pune. It is best known as the birthplace and home of Sant Tukaram, one of Maharashtra's most revered Warkari saints, and is a major pilgrimage centre for the Varkari tradition. The town's annual Ashadhi Palkhi procession to Pandharpur begins here.",
+  "tradition": "Hinduism (Varkari / Bhakti)",
+  "travel": {
+    "airport": "Pune International Airport, ~35 km (verify)",
+    "railway": "Dehu Road station, ~3 km (verify); Pune Junction, ~30 km",
+    "road": "On the old Mumbai-Pune highway (NH-48), ~30 km from Pune (verify)"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March; Ashadhi Ekadashi (June-July) is the grand Palkhi season but very crowded",
+    "opening_hours": "6:00 AM to 9:00 PM daily (verify — per map listings); main Sansthan temple hours may differ for the Janm Sthan shrine"
+  }
+}

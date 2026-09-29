@@ -1,0 +1,50 @@
+{
+  "alternate_names": [
+    "Gentse Gaden Rabgyel Ling Monastery",
+    "GRL Monastery",
+    "Bomdila Gompa"
+  ],
+  "deities": [
+    "Gautama Buddha"
+  ],
+  "district": "West Kameng",
+  "festivals": [
+    "Losar",
+    "Saka Dawa",
+    "Lhabab Duechen"
+  ],
+  "history": {
+    "dynasty": "Gelugpa school of Tibetan Buddhism",
+    "period": "1965 (present structure renovated 1997)",
+    "summary": "NOT A HINDU TEMPLE — Buddhist monastery (Gelugpa/Yellow Hat school); keep-or-drop decision needed. Bomdila Monastery, properly Gentse Gaden Rabgyel Ling (GRL), was founded in 1965 by the 12th reincarnate of Tsona Gontse Rinpoche (born in Morshing, West Kameng; died 1966) as a replica of the Tsona Gontse monastery of southern Tibet; the 13th reincarnation later enlarged it with a large prayer hall, which was blessed by the 14th Dalai Lama in 1997. The complex comprises a prayer hall, a Buddha temple, and monks' quarters; senior lamas teach young monks Buddhist philosophy and tantrayana practices. Note the overlap with CSV row 67 (Lower Gompa): travel guides and the West Kameng district site describe Lower Gompa as the market-side division of this same GRL monastery — rows 66 and 67 are not fully independent entries."
+  },
+  "id": "bomdila-monastery",
+  "latitude": 27.27056,
+  "longitude": 92.41873,
+  "media": [
+    "https://www.indianholiday.com/wordpress/wp-content/uploads/2025/09/bomdila.jpg"
+  ],
+  "name": "Bomdila Monastery",
+  "sources": [
+    "https://www.east-himalaya.com/bomdila.php",
+    "https://www.rajasthantourplanner.com/northeast-india/bomdila-monastery-arunachal-pradesh.html"
+  ],
+  "state": "Arunachal Pradesh",
+  "town": "Bomdila",
+  "town_description": "Bomdila is the headquarters of West Kameng district, a hill town at about 2,500-3,000 m in the eastern Himalayas on the Tezpur-Tawang road. It is the gateway to Tawang and is noted for its gompas, apple orchards, and Himalayan views.",
+  "tradition": "Tibetan Buddhism (Gelugpa school)",
+  "travel": {
+    "airport": "Tezpur / Guwahati (Assam)",
+    "railway": "Bhalukpong / Tezpur / Guwahati (Assam)",
+    "road": "Daily buses/taxis from Tezpur, Guwahati and Itanagar"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to April",
+    "opening_hours": "Daylight hours; no published official timings"
+  }
+}

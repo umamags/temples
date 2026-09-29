@@ -1,0 +1,50 @@
+{
+  "alternate_names": [
+    "Shiva Mandir, Line Bazar"
+  ],
+  "deities": [
+    "Shiva",
+    "Durga",
+    "Hanuman",
+    "Radha",
+    "Krishna"
+  ],
+  "district": "Purnia",
+  "festivals": [
+    "Mahashivratri",
+    "Navratri",
+    "Durga Puja"
+  ],
+  "history": {
+    "dynasty": "Not documented",
+    "period": "Modern; date of construction undocumented",
+    "summary": "CSV row 150 ('Shiv Mandir') is a generic name shared by several shrines in Purnia, so this identification is provisional. It is documented here as the Shiv Mandir at Khajanchi Hat-Line Bazar, Madhopara, Purnia (geocoder POI match at the given coordinates; listed on onefivenine and yappe.in). One visitor review describes this Line Bazar complex as a city temple whose main shrine is to Goddess Durga, with additional shrines to Shiva, Hanuman and Radha-Krishna. No reliable source gives its founding date or builder. Nearby shrines carrying the same generic name include Baba Purneshwar Mahadev Mandir (Pratap Colony) and Ugna Shiv Mandir (Maithil Tola)."
+  },
+  "id": "shiv-mandir-line-bazar-purnia",
+  "latitude": 25.79014,
+  "longitude": 87.49093,
+  "media": [],
+  "name": "Shiv Mandir",
+  "sources": [
+    "https://yappe.in/bihar/purnia/shiva-mandir/120810",
+    "http://www.onefivenine.com/india/Listing/Locality/temples/Purnia/Purnia/Ashiyana-Colony"
+  ],
+  "state": "Bihar",
+  "town": "Purnia",
+  "town_description": "Purnia (also Purnea) is a city in northeastern Bihar and the headquarters of Purnia district and division. An educational and commercial hub of the Seemanchal-Kosi region, it is nicknamed 'Mini Darjeeling' and takes its name from goddess Puran Devi (Puran Aranya).",
+  "tradition": "Shaivism",
+  "travel": {
+    "airport": "Nearest commercial airport: Bagdogra (IXB), about 160-170 km by road; Purnia's own airport is under development.",
+    "railway": "Purnea Junction, a major railhead on the Katihar-Samastipur section, lies within the city.",
+    "road": "NH 27 and NH 31 pass through Purnia; well connected by bus, auto-rickshaw and taxi."
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October-March; Mahashivratri (Feb/Mar) and Navratri (Sep/Oct)",
+    "opening_hours": "Exact timings not published; typical small-city temple hours (morning and evening) - verify locally."
+  }
+}

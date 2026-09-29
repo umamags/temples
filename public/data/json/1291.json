@@ -1,0 +1,53 @@
+{
+  "alternate_names": [
+    "Hayagriva Madhava Mandir",
+    "Hayagriva Madhav Temple"
+  ],
+  "deities": [
+    "Vishnu as Hayagriva Madhava (black stone idol)",
+    "Sub-shrines to Durga, Ganesh and other deities"
+  ],
+  "district": "Kamrup",
+  "festivals": [
+    "Doul Utsav",
+    "Janmastami",
+    "Bihu",
+    "Ratha Yatra"
+  ],
+  "history": {
+    "dynasty": "Koch dynasty (some historians claim an earlier Pala-era origin)",
+    "period": "1583 CE (present stone structure)",
+    "summary": "FLAG: DUPLICATE ROW: same temple as seq 99 (\"Hayagriva Madhava Temple\", id hayagriva-madhava-temple-hajo) — the Hayagriva Madhava Temple on Manikut Hill, Hajo. One file per CSV row; keep-or-dedup decision needed.\n\nVishnu temple on Manikut (Monikut) Hill, about 30 km west of Guwahati, enshrining Vishnu as Hayagriva Madhava - the horse-headed form said to restore the Vedas. The Kalika Purana (11th century CE) describes the origin of this form and its establishment on Monikut Hill. The present stone temple was built by Koch King Raghudeva Narayan in 1583; some historians attribute an earlier structure to the Pala dynasty (10th-century and even 6th-century claims appear - conflicting, flag). Notable for a continuous row of elephants carved on the lowest level of the temple walls and reliefs of the ten avatars of Vishnu plus Ramayana/Mahabharata scenes. A large pond, Madhab Pukhuri, lies nearby. Buddhists also revere the site (some believe Buddha attained Nirvana here), attracting monks from afar. Sayani, wife of Kalia Bhomora Borphukan, donated paiks and land for the temple's upkeep during Ahom king Kamaleswar Singha's reign. The sanctum's akhanda deep (eternal lamp) is never extinguished."
+  },
+  "id": "hayagriva-madhava-temple-hajo-duplicate",
+  "latitude": 26.24363,
+  "longitude": 91.5262,
+  "media": [
+    "https://4kerala.in/wp-content/uploads/2025/09/hayagriva-madhava-temple-assam-1.jpg"
+  ],
+  "name": "Hayagriva Madhava Temple",
+  "sources": [
+    "https://www.sanatanavibes.in/2025/11/hayagriva-madhava-temple-hajo-history.html",
+    "http://en.wikipedia.org/wiki/Hayagriva_Madhava_Temple",
+    "https://www.aartigyan.com/temple/hayagriva-madhava-temple",
+    "https://tripnetra.com/blog/hayagriva-madhava-temple"
+  ],
+  "state": "Assam",
+  "town": "Hajo",
+  "town_description": "Hajo is an ancient pilgrimage town about 30 km west of Guwahati, revered by Hindus, Buddhists and Muslims alike - the Hayagriva Madhava temple, the Powa Mecca dargah and several old Shiva shrines make it one of Assam's Pancha Tirthas (five sacred sites). The town blends Koch, Ahom and Pala-era heritage and is a major day-trip destination from Guwahati.",
+  "tradition": "Vaishnavism (also revered in Buddhist tradition)",
+  "travel": {
+    "airport": "Lokpriya Gopinath Bordoloi International Airport, Guwahati (~35.7 km) is the nearest airport.",
+    "railway": "Guwahati Railway Station (~32.3 km) is the nearest major railway station.",
+    "road": "About 30 km west of Guwahati by road; nearest bus point Adabari Bus Stand, Guwahati (~25 km). The temple sits on Manikut Hill with a climb from the base."
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March; Doul Utsav (Holi) and Janmastami draw the largest crowds.",
+    "opening_hours": "6:00 AM to 9:00 PM daily (per aartigyan.com - verify locally)."
+  }
+}

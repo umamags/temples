@@ -1,0 +1,45 @@
+{
+  "alternate_names": [
+    "Kanki Durga Temple"
+  ],
+  "deities": [
+    "Durga"
+  ],
+  "district": "Korba",
+  "festivals": [
+    "Navratri",
+    "Dussehra"
+  ],
+  "history": {
+    "dynasty": "Unknown",
+    "period": "Ancient (undocumented)",
+    "summary": "Identity flag: no web source documents a 'Kankeshwari Devi Temple' in Chhattisgarh, so this file records the most likely referent and is provisional. In Kanki village near Korba (about 20 km from Korba town, on the banks of the Hasdeo near Urga) stands the historic Kankeshwar Mahadev temple, believed built around 1857 by the Zamindars of Korba with fine stone carvings of Shiva and Parvati; a 99mustsee travel account notes that 'besides this, there is another ancient temple of goddess Durga' in the same village. The CSV's 'Kankeshwari Devi Temple' is mapped to this Durga shrine, but its independent identity, history, and exact location are unverified. Coordinates are approximate for Kanki village and should be verified on the ground. CSV town correction: the site is at Kanki village, not in Korba town."
+  },
+  "id": "kankeshwari-devi-kanki",
+  "latitude": 22.24,
+  "longitude": 82.62,
+  "media": [],
+  "name": "Kankeshwari Devi Temple (Kanki)",
+  "sources": [
+    "http://www.99mustsee.com/India/Kanki-Temple-Korba-Chhattisgarh-Attractions-4743",
+    "https://www.youtube.com/watch?v=Ino032Pizzc"
+  ],
+  "state": "Chhattisgarh",
+  "town": "Kanki",
+  "town_description": "Kanki is a village on the Hasdeo river near Urga in Korba district, surrounded by dense forest and ponds, known for the historic Kankeshwar Mahadev temple and an adjacent ancient Durga shrine.",
+  "tradition": "Shaktism",
+  "travel": {
+    "airport": "Bilasa Devi Kevat Airport, Bilaspur, about 80 km away",
+    "railway": "Korba Junction, about 20 km away",
+    "road": "About 20 km from Korba town, 12 km from Urga, via NH-130A corridor"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March; Navratri",
+    "opening_hours": "Not documented"
+  }
+}

@@ -1,0 +1,49 @@
+{
+ "alternate_names": [
+  "Hidimbeswara Temple",
+  "Ancient Hoysal Sri Hidambeswara Temple",
+  "Hidambeshwara Temple"
+ ],
+ "deities": [
+  "Lord Shiva (lingam with Nandi - one of the oldest temples of the fort; the Hidimba/Hidimbi legend is its namesake)"
+ ],
+ "district": "Chitradurga",
+ "festivals": [],
+ "history": {
+  "dynasty": "Hoysala (12th-century inscription recorded on the temple); fort itself built in stages by Rashtrakutas, Kalyana Chalukyas, Hoysalas, Vijayanagara and the Nayakas of Chitradurga, finished by Hyder Ali and Tipu Sultan",
+  "period": "12th century inscription (Hoysala era); among the oldest of the 18 temples of the upper fort",
+  "summary": "One of the 18 temples in the upper fort of Chitradurga (Elusuttina Kote / Kallina Kote), on the hilltop reached by steps; described as the oldest and most interesting of the fort's temples. Mahabharata legend: the rakshasa Hidimba and his sister Hidimbi lived on this hill; during the Pandavas' exile Bhima fought and slew Hidimba and married Hidimbi - their son was Ghatotkacha; the boulders around are said to have been the arsenal in the duel. The temple displays the tooth of Hidimba, a large iron-plate cylinder (~3 m circumference, ~2 m high) called the Bheri or Drum of Bhima, a monolithic pillar and two swing frames at its gate. A 12th-century Hoysala inscription carved on the temple explicitly records this as the site of Bhima's marriage to Hidimbi (per a 2025 documentary travel report citing ASI examination - verify), which would predate the famous Hidimbi temple at Manali (c. 1500 AD). Note: one traveller report says the temple is 'built in stone but not used for worship any more' - active worship status unverified (verify)."
+ },
+ "id": "hidimbeshwar-temple-chitradurga-fort",
+ "latitude": 14.215635,
+ "longitude": 76.39571,
+ "media": [
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Chitradurga_-_Hidimbeshwara_Temple.JPG/1920px-Chitradurga_-_Hidimbeshwara_Temple.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+ ],
+ "name": "Hidimbeshwar Temple",
+ "sources": [
+  "https://en.wikipedia.org/wiki/Chitradurga_Fort",
+  "https://indiamap.com/places/monuments/chitradurga-fort",
+  "https://www.oyorooms.com/travel-guide/travel-guide/chitradurga-fort-travel-guide/",
+  "https://seawatersports.com/places/Sws/chitradurga-fort-in-karnataka",
+  "https://www.tripadvisor.co.za/Attraction_Review-g1676032-d5782208-Reviews-Hidimbeshwar_Temple-Chitradurga_Chitradurga_District_Karnataka.html"
+ ],
+ "state": "Karnataka",
+ "town": "Inside Chitradurga Fort, Chitradurga (CSV town 'Chitradurga' correct)",
+ "town_description": "The temple stands in the upper fort of Chitradurga (Elusuttina Kote - the fort of seven circular walls, also called Kallina Kote), on the rocky hill ~1 km from Chitradurga city, reached via the zigzag seven concentric fortifications and 19 gateways. The fort covers ~1500 acres and is famed for its rainwater-harvesting tanks and the Onake Obavva Kindi legend.",
+ "tradition": "Hinduism (Shaivism)",
+ "travel": {
+  "airport": "Hubli - about 186 km; Bengaluru (Kempegowda International) - about 197 km (both domestic/international options per travel guides).",
+  "railway": "Chitradurga railway station - buses and taxis available to the fort.",
+  "road": "Chitradurga city lies on NH-4/NH-48, ~200 km from Bengaluru (3-4 hrs by KSRTC bus incl. Airavat coaches); autos/taxis from Chitradurga bus stand to the fort."
+ },
+ "video": {
+  "audio": "",
+  "script": "",
+  "video_file": ""
+ },
+ "visitor_information": {
+  "best_time": "October to March.",
+  "opening_hours": "Fort open 10:00 AM-5:30 PM daily (verify); entry fee reported INR 20 (e-ticket)/25 (cash) for Indian/SAARC/BIMSTEC visitors and INR 250/300 for other foreign nationals, free for children below 15 (verify); no separate entry fee for the temple."
+ }
+}

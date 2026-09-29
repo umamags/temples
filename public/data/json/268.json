@@ -1,0 +1,50 @@
+{
+ "alternate_names": [
+  "Shri Maa Vaishnodevi Temple, Ahmedabad",
+  "Vaishnodevi Tirth Dham"
+ ],
+ "deities": [
+  "Goddess Vaishno Devi as the three pindis (Maha Kali, Maha Lakshmi and Maha Saraswati)",
+  "Bhairav Nath (small shrine in the complex, completing the darshan loop)"
+ ],
+ "district": "Ahmedabad",
+ "festivals": [
+  "Navratri (the nine days -- the temple's most crowded period)",
+  "Diwali"
+ ],
+ "history": {
+  "dynasty": "Modern temple -- built by local trusts with Rajasthani and Gujarati artisans",
+  "period": "Opened to devotees in 2007 per a Wanderlog listing; one travel directory (Adequate Travel) claims an original 1963 temple built by Late Shri Ramanlal Maneklal Patel / founded by Maharani Padmavati Baiji -- uncorroborated and conflicting (verify)",
+  "summary": "The Ahmedabad Vaishno Devi Temple is a modern replica of the Trikuta-mountain shrine of Jammu and Kashmir, standing on the Sarkhej-Gandhinagar (SG) Highway at the Vaishno Devi Circle landmark, near Nirma Institute. A 50-foot artificial hill of yellow sandstone simulates the Trikuta terrain, and devotees crawl through narrow artificial rocky caves to reach the sanctum with the three pindis; the complex includes a 1,350-square-foot multi-level hall said to hold up to 5,000 pilgrims at peak times and a small Bhairav Nath shrine. IDENTITY NOTE: the CSV's generic 'Vaishno Devi Temple, Ahmedabad' is documented here as the well-known SG Highway replica (street-level geocode match at Vaishno Devi Circle). The 1963 founding claim and 9 km-from-station details in one directory appear to describe a different or earlier city shrine and could not be corroborated -- flagged as uncertain."
+ },
+ "id": "vaishnodevi-temple-ahmedabad",
+ "latitude": 23.13801,
+ "longitude": 72.54337,
+ "media": [
+  "https://temple.yatradham.org/public/Product/temple/temple_52Vjoi55_202506091418320.jpg"
+ ],
+ "name": "Vaishnodevi Tirth Dham Mandir",
+ "sources": [
+  "https://wanderlog.com/place/details/127634/shri-maa-vaishnodevi-temple-ahmedabad",
+  "https://www.justdial.com/Ahmedabad/Vaishnodevi-Tirth-Dham-Mandir/079P250740_BZDET",
+  "https://temple.yatradham.org/temple/shri-maa-vaishnodevi-temple-ahmedabad"
+ ],
+ "state": "Gujarat",
+ "town": "Ahmedabad",
+ "town_description": "Ahmedabad, on the banks of the Sabarmati, is Gujarat's largest city, founded in 1411 by Sultan Ahmad Shah I. Its historic walled old city is a UNESCO World Heritage site, and it remains a major centre of textiles, commerce and education.",
+ "tradition": "Shaktism (replica shrine of the Jammu and Kashmir original)",
+ "travel": {
+  "airport": "Sardar Vallabhbhai Patel International Airport, Ahmedabad (verify distance).",
+  "railway": "Ahmedabad Junction (Kalupur) -- the temple is well outside the centre on the SG Highway (verify distance).",
+  "road": "On the Sarkhej-Gandhinagar (SG) Highway at Vaishno Devi Circle, Khoraj Cross Road area; the great majority of visitors arrive by car."
+ },
+ "video": {
+  "audio": "",
+  "script": "",
+  "video_file": ""
+ },
+ "visitor_information": {
+  "best_time": "October to March; Navratri is the most vibrant but most crowded period.",
+  "opening_hours": "Conflicting reports: Justdial says 6:00 AM-7:00 PM daily; Wanderlog says premises open noon-6 PM; TripHobo says 6:00 AM-9:00 PM -- verify before visiting."
+ }
+}

@@ -1,0 +1,53 @@
+{
+  "alternate_names": [
+    "Ananta Basudev Temple",
+    "Ananta Vasudeva Mandir"
+  ],
+  "deities": [
+    "Lord Krishna (Vasudeva)",
+    "Lord Balarama (Ananta)",
+    "Goddess Subhadra"
+  ],
+  "district": "Khurda",
+  "festivals": [
+    "Janmashtami",
+    "Diwali (verify)",
+    "Rakshabandhan (verify)"
+  ],
+  "history": {
+    "dynasty": "Eastern Ganga",
+    "period": "13th century CE (1278 CE per some sources — verify)",
+    "summary": "The Ananta Vasudeva Temple on the eastern bank of the Bindu Sagar tank in Old Town Bhubaneswar is the city's only major ancient Vaishnavite shrine, standing out in a Shaivite stronghold. It was commissioned by Queen Chandrika Devi, daughter of Eastern Ganga king Anangabhima III, during the reign of her nephew King Bhanudeva in the 13th century; a commemorative foundation inscription is reportedly held in the British Museum's collection. The sanctum holds complete black-granite murtis of Krishna (mace, chakra, lotus, conch), Balarama standing under a seven-hooded serpent, and Subhadra holding a jewel pot and lotus — unlike the wooden idols of Puri's Jagannath Temple. The temple mirrors Lingaraja's Kalinga layout at smaller scale (vimana, jagamohana, natamandira, bhoga-mandapa) with Vaishnavite sculpture. The Marathas renovated it in the late 17th century when their rule extended to the Mahanadi. Its large temple kitchen cooks Abhada (mahaprasad) in earthen pots over wood fires, served at the adjoining Bhoga Bazaar. CSV town and state (Bhubaneswar, Odisha) are correct; district is Khurda."
+  },
+  "id": "ananta-vasudeva-temple-bhubaneswar",
+  "latitude": 20.24071,
+  "longitude": 85.83553,
+  "media": [
+    "https://www.godigit.com/content/dam/godigit/directportal/en/ananta-vasudeva-temple.jpg"
+  ],
+  "name": "Ananta Vasudeva Temple",
+  "sources": [
+    "http://en.wikipedia.org/wiki/Ananta_Vasudeva_Temple",
+    "https://thetempleguru.com/listing/ananta-vasudeva-temple-bhubaneswar/",
+    "http://evendo.com/locations/india/bhubaneswar/attraction/ananta-vasudeva-temple-bhubaneswar",
+    "https://101bhubaneswar.com/017-ananta-vasudeva-bhubaneswars-sole-tribute-to-lord-vishnu/"
+  ],
+  "state": "Odisha",
+  "town": "Bhubaneswar",
+  "town_description": "Bhubaneswar, the capital of Odisha, is called the 'City of Temples' and Ekamra Kshetra, with a temple-building history stretching back over two millennia. The Old Town clusters the great Kalinga temples — Lingaraja, Ananta Vasudeva, Brahmeswara, Mukteswara, Rajarani — around the sacred Bindu Sagar tank; the modern city also hosts the Dhauli Shanti Stupa and the Udayagiri-Khandagiri Jain caves nearby.",
+  "tradition": "Vaishnavism",
+  "travel": {
+    "airport": "",
+    "railway": "",
+    "road": ""
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "",
+    "opening_hours": ""
+  }
+}

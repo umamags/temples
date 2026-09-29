@@ -1,0 +1,51 @@
+{
+  "alternate_names": [
+    "Kailash Mahadev Mandir",
+    "Shri Kailash Mahadev Mandir"
+  ],
+  "deities": [
+    "Shiva (twin shivlings, said to have been gifted by Shiva himself)"
+  ],
+  "district": "Agra",
+  "festivals": [
+    "Kailash Fair (August-September)",
+    "Maha Shivratri",
+    "Sawan"
+  ],
+  "history": {
+    "dynasty": "Unknown (legendary)",
+    "period": "Treta Yuga per legend",
+    "summary": "Shiva temple on the banks of the Yamuna at Sikandra, about 8-12 km from central Agra (CSV town 'Agra' is approximate; actual locality is Sikandra). Its fame rests on the twin shivlings: legend says that in the Treta Yuga, Parashurama and his father Rishi Jamadagni performed severe penance on Mount Kailash, and Shiva gifted each of them a shivling. Resting for the night before reaching their ashram, they found the lingams rooted immovably to the earth in the morning — taken as a sign that the place was Kailash itself, hence the name. It is the only temple in Agra with two shivlings together and is one of the four Shiva temples at the city's corners. The annual Kailash Fair (August-September) celebrates Shiva's appearance here as a stone lingam. Coordinates are for Kailash Road, Sikandra (street-level geocode; no exact POI pin confirmed — verify on the ground)."
+  },
+  "id": "kailash-temple-agra",
+  "latitude": 27.22762,
+  "longitude": 77.94227,
+  "media": [
+    "https://hindi.cdn.zeenews.com/hindi/sites/default/files/2025/02/17/3688834-agra-kailash.jpg"
+  ],
+  "name": "Kailash Temple",
+  "sources": [
+    "https://in.worldorgs.com/catalog/agra/night-club/kailash-temple",
+    "https://www.hindudevotionalblog.com/2012/07/kailash-temple-agra-uttar-pradesh.html",
+    "https://kailashmahadev.in/",
+    "https://testbook.com/question-answer/the-kailash-fair-is-celebrated-in-honour-of-lord-s--6957d00c047835ef2b8ec9dd"
+  ],
+  "state": "Uttar Pradesh",
+  "town": "Agra",
+  "town_description": "Agra, on the banks of the Yamuna in western Uttar Pradesh, was the capital of the Mughal Empire under Akbar, Jahangir and Shah Jahan, and is home to the Taj Mahal, Agra Fort and Fatehpur Sikri. Alongside its Mughal monuments it is an old Hindu pilgrimage centre, guarded — in local belief — by four ancient Shiva temples set at the four corners of the city.",
+  "tradition": "Shaivism",
+  "travel": {
+    "airport": "Pandit Deen Dayal Upadhyay Airport, Agra",
+    "railway": "Agra Cantt / Agra Fort railway stations",
+    "road": "Sikandra on NH-19 (Mathura Road), on the Yamuna bank; about 8 km from Agra city centre"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March; the Kailash Fair month (August-September) is the most festive",
+    "opening_hours": "6:00 AM - 9:00 PM daily (per hindudevotionalblog/worldorgs); a place listing gives 5:00 AM - 10:00 PM — verify"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "alternate_names": [
+    "Nandan Pahar Nandi Mandir"
+  ],
+  "deities": [
+    "Nandi (the sacred bull, Shiva's vehicle)",
+    "Lord Shiva",
+    "Goddess Parvati",
+    "Ganesh",
+    "Kartikeya"
+  ],
+  "district": "Deoghar",
+  "festivals": [
+    "Maha Shivratri",
+    "Shravan Mondays (verify)"
+  ],
+  "history": {
+    "dynasty": "None recorded - UNVERIFIED; temple age undocumented",
+    "period": "Legendary associations; no verifiable construction date",
+    "summary": "The Nandi Temple stands atop Nandan Pahar, a small hill on the eastern outskirts of Deoghar, about 3-4.3 km from Baidyanath Dham. According to folklore, when Ravana tried to force his way into Shiva's abode in Kailasa, Nandi - as Shiva's doorkeeper - stopped him; enraged, Ravana seized Nandi and hurled him to this spot, giving the hill its name (the narrative appears in Rajendralala Mitra's 1883 'On the Temples of Deoghar', after the Shiva Purana). The hill's temples hold idols of Shiva, Parvati, Ganesh and Kartik, and the site offers panoramic sunrise and sunset views of Deoghar. Nandan Pahar is also a recreation spot with the Nandan Hill Entertainment Park (rides, boating, restaurant). The founding date of the Nandi temple itself is UNVERIFIED."
+  },
+  "id": "nandi-temple-nandan-pahar",
+  "latitude": 24.48949,
+  "longitude": 86.69294,
+  "media": [
+    "https://ak-d.tripcdn.com/images/0HJ3212000ixwvf5oDCF7_D_500_500_R5_Q70.webp?proc=source/trip&_fr=wc"
+  ],
+  "name": "Nandi Temple, Nandan Pahar",
+  "sources": [
+    "http://cm.jharkhand.gov.in/nandanpahar",
+    "https://www.jharkhand.me/nandan-pahar-deoghar/",
+    "http://blog.jharkhand.org.in/2009/05/baidyanathdham-temple-deoghar-jharkhand.html",
+    "https://www.biodiversitylibrary.org/partpdf/368230"
+  ],
+  "state": "Jharkhand",
+  "town": "Deoghar",
+  "town_description": "Deoghar, the 'Abode of Gods', is the cultural capital of Jharkhand and headquarters of Deoghar district in the Santhal Parganas division. It is primarily known for the Baidyanath Jyotirlinga, one of the twelve Jyotirlingas of Shiva, which makes it one of eastern India's busiest pilgrimage centres, especially during the Shravan month Kanwar Yatra. The city became a municipality in 1869 and is surrounded by small hills including Nandan Pahar, Trikut Pahar and Tapovan Pahar, with the Ajay river flowing nearby.",
+  "tradition": "Hinduism (Shaivism)",
+  "travel": {
+    "airport": "Deoghar Airport, approx. 10-12 km (verify)",
+    "railway": "Deoghar Railway Station approx. 3 km; Jasidih Junction approx. 7-8 km (verify)",
+    "road": "About 3 km east of Deoghar Clock Tower, reachable by road; hilltop has an amusement park and walking paths"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March; sunrise and sunset views are a highlight",
+    "opening_hours": "No fixed temple timings reported (verify); the amusement park on the hill was reported open 8 AM-8 PM (older source - verify)"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "alternate_names": [
+    "Pakhangba Laishang",
+    "Ibudhou Pakhangba Shrine",
+    "Pakhangba Temple, Uyal Cheirao Ching"
+  ],
+  "deities": [
+    "Ibudhou Pakhangba (primordial deity of the Meitei pantheon, depicted in dragon form)",
+    "Ibendhou Leisana (consort deity; separate shrine in the same complex)"
+  ],
+  "district": "Thoubal",
+  "festivals": [
+    "Annual ritual ceremony performed by the Lai Committee (details not published - verify)",
+    "Pakhangba Cheng Hongba and Mera Chaorel Houba are major Pakhangba-worship festivals at Kangla, Imphal (verify whether also observed at this hill shrine)"
+  ],
+  "history": {
+    "dynasty": "None - a folk/indigenous shrine; the present structure is of recent origin",
+    "period": "Unknown antiquity; modern structure",
+    "summary": "THIS IS A SANAMAHI SHRINE (TRADITIONAL MEITEI RELIGION), NOT A HINDU TEMPLE - keep-or-drop decision needed. The Pakhangba Temple (Pakhangba Laishang) stands on the hilltop of Uyal Cheirao Ching (also called Uyal Mamang Ching), a hill inside the Gwarok Reserved Forest in Thoubal district, Manipur; the CSV town 'Thoubal' is the district headquarters, corrected here to the nearest village, Uyal. It is dedicated to Ibudhou Pakhangba, a primordial deity of the Meitei pantheon, and also houses the shrine of Ibendhou Leisana. It is an important place of worship for followers of Sanamahism: rituals and ceremonies are performed annually by the Lai Committee, and devotees from nearby villages (Uyal, Wangbal, Kairembikhok, Wangjing, Salungpham, Heirok, Langmeithet, Icham Khunou) climb the hill to offer prayers; sacred clothes, ritual items and boulders inside the shrine hold special significance. The shrine has been vandalized more than once: in 2015 unknown miscreants dug through the temple walls and stole money, and on the night of 21 May 2024 the shrine was desecrated - the door broken, sacred garments and ritual items of Ibudhou and Ibendhou burnt, and two sacred boulders dented - an incident condemned by titular king Leishemba Sanajaoba and the Federation of Indigenous People's Democratic Movement. Hilltop coordinates are not published by any source; the coordinates below are approximate (verify). No verified photograph of this specific hilltop shrine was found after genuine searching; media left empty (flagged)."
+  },
+  "id": "pakhangba-temple",
+  "latitude": 24.66,
+  "longitude": 93.97,
+  "media": [],
+  "name": "Pakhangba Temple, Thoubal",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pakhangba_Temple,_Uyal_Cheirao_Ching",
+    "https://www.krctimes.com/news/pakhangba-temple-vandalized-titular-king-of-manipur-demands-arrest-of-miscreants/"
+  ],
+  "state": "Manipur",
+  "town": "Uyal (Thoubal district; CSV town 'Thoubal' is the district headquarters)",
+  "town_description": "Uyal is a village in Thoubal district of Manipur, set in the Imphal valley at the foot of the Uyal Cheirao Ching hill, which lies inside the Gwarok Reserved Forest. The surrounding villages - Wangbal, Kairembikhok, Wangjing, Salungpham, Heirok - are agrarian Meitei settlements whose residents climb the hill to the Pakhangba shrine. The nearest town is Thoubal, the district headquarters, and Imphal is about 22 km to the northwest.",
+  "tradition": "Sanamahism (traditional Meitei religion)",
+  "travel": {
+    "airport": "Imphal International Airport is the nearest airport, approx. 25-35 km away (verify).",
+    "railway": "No railway line reaches Thoubal district; nearest railheads are Jiribam or Dimapur (Nagaland) (verify).",
+    "road": "The shrine is on a hilltop inside the Gwarok Reserved Forest near Uyal village; reached by road from Thoubal town or Imphal, then a climb on foot to the summit (verify)."
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March for dry weather; early morning climbs are preferred (verify).",
+    "opening_hours": "No published opening hours - it is a hilltop shrine maintained by a Lai Committee; daytime visits only (verify)."
+  }
+}

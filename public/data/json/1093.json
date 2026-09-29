@@ -1,0 +1,51 @@
+{
+  "alternate_names": [
+    "Shri Jagannath Mandir Noida",
+    "Jagannath Temple Sector 34 Noida"
+  ],
+  "deities": [
+    "Jagannath",
+    "Balabhadra",
+    "Subhadra",
+    "Sudarshan Chakra"
+  ],
+  "district": "Gautam Buddha Nagar",
+  "festivals": [
+    "Rath Yatra",
+    "Snana Purnima",
+    "Akshaya Tritiya"
+  ],
+  "history": {
+    "dynasty": "Modern",
+    "period": "Early 21st century",
+    "summary": "A modern Odia-style Jagannath temple at B10, Jagannath Mandir Marg, Udaigiri 2, Sector 34, Noida. The idea of a Jagannath shrine for the city's devotees was proposed in 2004, and the idols of Lord Jagannath, Balabhadra, Subhadra, and Sudarshan were installed on the holy day of Akshaya Tritiya in 2006. The temple follows the Utkala (Odia) tradition and is best known for its annual Rath Yatra. Entry is free. Opening hours conflict between sources: 6:00 AM-12:00 PM and 4:00-7:00 PM per one guide; temple-listing sources say 4:00-9:00 PM for the evening session (verify)."
+  },
+  "id": "shree-jagannath-temple-noida",
+  "latitude": 28.58255,
+  "longitude": 77.35721,
+  "media": [
+    "https://dimg04.c-ctrip.com/images/02Y1812000ahma4655A8A_R_1080_808_Q90.jpg"
+  ],
+  "name": "Shree Jagannath Temple Noida",
+  "sources": [
+    "https://www.makemytrip.com/tripideas/attractions/shree-jagannath-temple-near-noida?pdtCtx=eyJqaWQiOiJqb3VybmV5XzE3ODcyNTE0MTY1MDJfZXJydHdwZTJnIiwic2MiOm51bGwsInBwIjoidHRkX3NlZWFsbCJ9"
+  ],
+  "state": "Uttar Pradesh",
+  "town": "Noida",
+  "town_description": "Noida (New Okhla Industrial Development Authority) is a planned city in Gautam Buddha Nagar district, Uttar Pradesh, on the eastern edge of the National Capital Region. Developed from the late 1970s as an industrial township across the Yamuna from Delhi, it is now a major hub for IT, media, and manufacturing, with wide avenues, metro connectivity, and a large Bengali, south Indian, and pan-Indian migrant population that sustains many community temples.",
+  "tradition": "Vaishnavism (Jagannath/Utkala tradition)",
+  "travel": {
+    "airport": "Indira Gandhi International Airport, Delhi (~28 km)",
+    "railway": "Noida has no mainline station; nearest: New Delhi / Hazrat Nizamuddin",
+    "road": "Jagannath Mandir Marg, Sector 34; nearest metro: Noida Sector 34 (Blue Line), walking distance"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March; Rath Yatra (June/July) is the major festival",
+    "opening_hours": "6:00 AM-12:00 PM and 4:00-7:00 PM (evening closing reported as 9:00 PM by some sources; verify)"
+  }
+}

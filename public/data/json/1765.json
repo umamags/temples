@@ -1,0 +1,50 @@
+{
+  "alternate_names": [
+    "Arattupuzha Sree Sastha Temple",
+    "Arattupuzha Dharmasastha Temple",
+    "Arattupuzha Shree Dharma Sastha Temple"
+  ],
+  "deities": [
+    "Dharmasastha (Ayyappa)"
+  ],
+  "district": "Thrissur",
+  "festivals": [
+    "Arattupuzha Pooram (Devamela, 'Mother of all Poorams', 7 days, Meenam/March-April)"
+  ],
+  "history": {
+    "dynasty": "Unknown (legendary; no documented founder)",
+    "period": "Legend claims 3000 years (UNVERIFIED); one source says the present structure dates to 1790 (UNVERIFIED, verify)",
+    "summary": "HINDU temple (Sastha/Ayyappa) at Arattupuzha, Thrissur, administered by the Cochin Devaswom Board. Legend dates it 3000 years back (famoustemplesofindia says 1000+ years; CONFLICT, verify); the deity is believed to embody the divine force of Guru Vasishta, kulaguru of the Raghu vamsha. It hosts the Arattupuzha Pooram, called the Devamela ('conclave of gods'), considered the oldest pooram in Kerala - deities of around 23 (historically up to 101-108) neighbouring temples are carried in procession to pay homage to Lord Sastha. The festival closes with the Arattu (holy bath) at Mandaram Kadavu on the Karuvannur River."
+  },
+  "id": "arattupuzha-temple",
+  "latitude": 10.41343,
+  "longitude": 76.22528,
+  "media": [
+    "https://upload.wikimedia.org/wikipedia/commons/4/47/Aarattupuzha_shree_dharma_sastha_temple.JPG"
+  ],
+  "name": "Arattupuzha Temple",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Arattupuzha_Temple",
+    "https://templesofkerala.org/thrissur/arattupuzhasasthatemple.html",
+    "https://www.festivalsofindia.in/arattupuzha-pooram//?????????-????-?????",
+    "https://tripinic.com/place/arattupuzha-sree-sastha-temple/"
+  ],
+  "state": "Kerala",
+  "town": "Arattupuzha",
+  "town_description": "Arattupuzha is a village in Thrissur district of Kerala, about 12-14 km south of Thrissur town, set on the banks of the Karuvannur River. It is best known for the Arattupuzha Pooram, the 'Mother of all Poorams', which draws lakhs of devotees each year. The village is a quiet agrarian settlement that comes alive during the seven-day festival in March-April.",
+  "tradition": "Hinduism",
+  "travel": {
+    "airport": "Cochin International Airport, about 44 km via NH-47 (templesofkerala.org; verify)",
+    "railway": "Thrissur Junction (nearest major station), about 14 km (verify)",
+    "road": "About 12 km from Thrissur town by road"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "During Arattupuzha Pooram (March-April); otherwise October-March",
+    "opening_hours": "No published hours found in sources (verify). Typical Kerala temple hours are 4:00 AM-12:00 PM and 5:00-8:00 PM (verify)."
+  }
+}

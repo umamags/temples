@@ -1,0 +1,48 @@
+{
+  "alternate_names": [
+    "Bhuvaneswari Temple",
+    "Bhubaneswari Temple"
+  ],
+  "deities": [
+    "Bhubaneshwari (Bhuvaneswari, goddess; patron deity of the royal family - one architectural account reports the shrine currently has no idol; verify)"
+  ],
+  "district": "Gomati",
+  "festivals": [],
+  "history": {
+    "dynasty": "Manikya dynasty (Maharaja Govinda Manikya)",
+    "period": "1660-1676 CE (sources vary: 1660-1675 / 1667-1676 - verify)",
+    "summary": "DUPLICATE FLAG: seq 2353 is the SAME temple already documented as seq 1027 (id bhubaneswari-temple-gomati-udaipur) - recommend merging into one canonical record. Identity confirmed: the famous Bhubaneshwari Temple on the eastern fringe of Udaipur town by the bank of the Gomati river (one crosses the river to reach it), near the ruins of Maharaja Govinda Manikya's old royal palace (Rajarshi). Built by Govinda Manikya after his second accession to the throne, in the 17th-century Bengali char-chala (hut) style on a 3-ft raised platform, with stupa-like crowns on the shrine and vestibule and carved floral motifs. Immortalised by Rabindranath Tagore in his novel 'Rajarshi' and play 'Bisharjan' (1890), with Govinda Manikya himself as a character. Now under the control and supervision of the Archaeological Survey of India. A 2023 report noted the premises in dilapidated condition needing urgent maintenance; one source reports the temple currently has no idol and no living worship tradition (verify). A local report also claims it was the backdrop of Satyajit Ray's 'The World of Apu' (verify)."
+  },
+  "id": "bhubaneshwari-temple-udaipur-duplicate",
+  "latitude": 23.55223,
+  "longitude": 91.46471,
+  "media": [
+    "https://upload.wikimedia.org/wikipedia/commons/5/54/BHUBANESWARI_TEMPLE.jpg"
+  ],
+  "name": "Bhubaneshwari Temple, Udaipur",
+  "sources": [
+    "https://tripuratourism.gov.in/single-tour.php?id=42",
+    "https://indiano.travel/place/bhubaneshwari-temple/",
+    "http://sahasa.in/2023/03/02/bhuvaneshwari-temple-udaipur-gomati-district-tripura/",
+    "https://tripurachronicle.in/local-news/bhubaneswari-temple-in-udaipur-needs-urgent-maintenance-and-cleanliness/",
+    "https://www.scribd.com/document/413564815/Bhuvaneshwari-Temple"
+  ],
+  "state": "Tripura",
+  "town": "Udaipur (CSV town correct; temple on the eastern fringe of town at Rajnagar, by the Gomati river)",
+  "town_description": "Udaipur (ancient Rangamati) in Gomati district was the capital of the Tripura kingdom under the Manikya dynasty before the capital shifted to Agartala. The Bhubaneshwari Temple stands on the eastern fringe of Udaipur town by the bank of the Gomati river, about 1.5 km from the town and 55 km from Agartala, beside the ruins of the old royal palace.",
+  "tradition": "Hinduism (Shaktism; current worship status uncertain - verify)",
+  "travel": {
+    "airport": "Maharaja Bir Bikram Airport, Agartala, about 55 km by road.",
+    "railway": "Udaipur (Tripura) railway station is the nearest railhead (verify).",
+    "road": "About 1.5 km from Udaipur town on its eastern fringe; cross the Gomati river to reach the temple; about 55 km from Agartala."
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March, the dry season in Tripura (verify).",
+    "opening_hours": "Not published by ASI or Tripura Tourism; visit during daylight hours (verify)."
+  }
+}

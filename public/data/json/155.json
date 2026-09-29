@@ -1,0 +1,43 @@
+{
+  "alternate_names": [],
+  "deities": [
+    "Unknown"
+  ],
+  "district": "Bhojpur",
+  "festivals": [
+    "Unknown"
+  ],
+  "history": {
+    "dynasty": "Unknown",
+    "period": "Unknown",
+    "summary": "IDENTITY UNCONFIRMED - placeholder file. No temple by the name 'Maharaja Temple' is documented in Arrah (Bhojpur district) after searches in English and Hindi. Possibilities checked: a onefivenine locality listing 'Ara Maharaja Hata Katira' shows a locality named Maharaja Hata but no temple by that name; the 'Maa Deviji Mandir' on Maharaja College Road, Arrah is a Devi temple, not a 'Maharaja Temple'; the city's prominent shrines (Aranya Devi Mandir, Mahabir Mandir at Ramna Maidan, Chaturbhuj Narayan Mandir) do not match this name. Coordinates are approximate - Arrah town centre, not a temple location. Keep-or-drop / rename decision needed."
+  },
+  "id": "maharaja-temple-arrah",
+  "latitude": 25.5582,
+  "longitude": 84.67778,
+  "media": [],
+  "name": "Maharaja Temple",
+  "sources": [
+    "https://www.onefivenine.com/india/Listing/Locality/temples/Bhojpur/Ara/Maharaja-Hata-Katira",
+    "https://www.justdial.com/Arrah/Temples-in-Arrah-Chowk/nct-10475644",
+    "https://hi.wikipedia.org/wiki/%E0%A4%86%E0%A4%B0%E0%A4%A3%E0%A5%8D%E0%A4%AF_%E0%A4%A6%E0%A5%87%E0%A4%B5%E0%A5%80_%E0%A4%AE%E0%A4%82%E0%A4%A6%E0%A4%BF%E0%A4%B0,_%E0%A4%86%E0%A4%B0%E0%A4%BE"
+  ],
+  "state": "Bihar",
+  "town": "Arrah",
+  "town_description": "Arrah (officially Ara) is the headquarters of Bhojpur district in western Bihar, near the Son river. It is famed as the home of 1857-revolt hero Veer Kunwar Singh, and its name derives from goddess Aranya Devi.",
+  "tradition": "Unknown",
+  "travel": {
+    "airport": "Nearest commercial airport: Patna (Jay Prakash Narayan International, PAT), about 55-60 km by road.",
+    "railway": "Ara Junction, on the Patna-Mughalsarai main line, lies within the city.",
+    "road": "Connected to Patna via NH 30/NH 922 (Veer Kunwar Singh Setu over the Son); regular bus and taxi services."
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October-March",
+    "opening_hours": "Unknown - verify locally."
+  }
+}

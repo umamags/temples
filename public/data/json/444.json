@@ -1,0 +1,55 @@
+{
+  "alternate_names": [
+    "ISKCON Temple Bangalore",
+    "Sri Radha Krishna Temple",
+    "Hare Krishna Hill Temple"
+  ],
+  "deities": [
+    "Radha",
+    "Krishna",
+    "Balarama",
+    "Nityananda",
+    "Chaitanya Mahaprabhu",
+    "Srinivasa Govinda (Venkateswara)",
+    "Prahlada Narasimha"
+  ],
+  "district": "Bengaluru Urban",
+  "festivals": [
+    "Janmashtami"
+  ],
+  "history": {
+    "dynasty": "",
+    "period": "1997 (inaugurated)",
+    "summary": "Official proper name: Sri Radha Krishna Chandra Temple (Sri Sri Radha Krishnachandra). ISKCON Bangalore was registered in 1978; land on Hare Krishna Hill was allotted in 1988; construction ran 1990-1997; inaugurated in 1997 by then President of India Shankar Dayal Sharma, conceived and executed by Madhu Pandit Dasa per the wishes of A. C. Bhaktivedanta Swami Prabhupada. One of the largest ISKCON temples in the world — a seven-acre cultural complex in a 'glass and gopuram' neo-classical style with a 17-metre gold-plated dhwaja-stambha and 8.5-metre gold-plated kalash shikhara. Six shrines: Radha Krishnachandra, Krishna Balarama, Nitai Gauranga, Srinivasa Govinda, Prahlada Narasimha, Srila Prabhupada. A second, newer ISKCON temple (Vaikuntha Hill, Kanakapura Road) exists — this file covers only the Rajajinagar temple. Coordinates from geocoding (13.01116, 77.55006), consistent with the temple's official listing (13.0098, 77.5511) and Wikipedia (13.00944, 77.55083)."
+  },
+  "id": "iskcon-temple-rajajinagar",
+  "latitude": 13.01116,
+  "longitude": 77.55006,
+  "media": [
+    "https://www.holidaylandmark.com/blog/wp-content/uploads/2022/02/ISKCON-Temple-Bangalore1.jpg"
+  ],
+  "name": "ISKCON Sri Radha Krishna Chandra Temple",
+  "sources": [
+    "https://www.iskconbangalore.org/",
+    "https://ipfs.io/ipfs/QmXoypizjW3WknFiJnKLwHCnL72vedxjQkDDP1mXWo6uco/wiki/ISKCON_Temple_Bangalore.html",
+    "https://evendo.com/locations/india/bengaluru/malleswaram/attraction/iskcon-temple-bangalore"
+  ],
+  "state": "Karnataka",
+  "town": "Bengaluru",
+  "town_description": "Bengaluru is the capital of Karnataka and India's technology hub, often called the Garden City. It is one of India's largest cities, with temples ranging from 16th-century Vijayanagara shrines to modern complexes.",
+  "tradition": "Gaudiya Vaishnavism (ISKCON)",
+  "travel": {
+    "airport": "Kempegowda International Airport (~35 km)",
+    "railway": "Bengaluru City (KSR) railway station",
+    "road": "Hare Krishna Hill, Chord Rd, 1st R Block, Rajajinagar, Bengaluru 560010; city buses and metro connect Rajajinagar"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October-February; Janmashtami is the major festival",
+    "opening_hours": "7:15 AM - 8:20 PM daily per official listing; darshan schedules vary - verify before visiting"
+  }
+}

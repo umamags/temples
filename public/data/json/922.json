@@ -1,0 +1,37 @@
+{
+  "alternate_names": [],
+  "deities": [],
+  "district": "Gangtok",
+  "festivals": [],
+  "history": {
+    "dynasty": "None documented",
+    "period": "Unknown - no published information",
+    "summary": "IDENTITY UNCONFIRMED: no web source could be located for a 'Hanuman Temple' at Tadong despite targeted searches across place listings and temple directories - the generic name turns up unrelated shrines in West Bengal, Assam and elsewhere, none at Tadong. The best-known Hanuman shrine in the Gangtok area is Hanuman Tok (established 1952, maintained by the Indian Army, on the Gangtok-Nathula road ~11 km from Gangtok), a wish-fulfilling temple tied to the Sanjeevani legend - but that is a distinct, well-known site and NOT this row, so do not conflate them. This entry is a placeholder at Tadong town-centre coordinates (provisional, verify) pending local confirmation; content fields are deliberately minimal rather than invented. NOTE (2026-09-29): Sikkim temple listings (e.g. travalour.com's Sikkim Hindu-temples page, which covers Hanuman Tok near Gangtok) were consulted; no source documents a \"Hanuman Temple\" at Tadong - identity remains unconfirmed."
+  },
+  "id": "hanuman-temple-tadong-provisional",
+  "latitude": 27.31622,
+  "longitude": 88.60101,
+  "media": [],
+  "name": "Hanuman Temple",
+  "sources": [
+    "https://www.travalour.com/destination/1062-sikkim/46-hindu-temples-in-sikkim"
+  ],
+  "state": "Sikkim",
+  "town": "Tadong (CSV town as given; identity of the shrine itself is UNCONFIRMED - see history.summary)",
+  "town_description": "Tadong is a town just east of Gangtok on NH-10 (the Gangtok-Rangpo road) in Gangtok district, Sikkim, about 5 km from central Gangtok. It is a growing residential and commercial suburb of the capital with no widely documented Hanuman temple of its own in public sources.",
+  "tradition": "Unconfirmed (presumed Hindu - verify)",
+  "travel": {
+    "airport": "Pakyong Airport (~18 km) or Bagdogra (~120 km, verify).",
+    "railway": "New Jalpaiguri (NJP) - about 115 km (verify).",
+    "road": "On NH-10, the Gangtok-Rangpo road; taxis from Gangtok town (verify)."
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March for pleasant weather.",
+    "opening_hours": "Not published (verify - confirm the site's existence and timings locally before visiting). Visit the well-documented Hanuman Tok near Gangtok (6:00 AM-7:00 PM per travel guides) instead."
+  }
+}

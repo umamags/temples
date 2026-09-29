@@ -1,0 +1,49 @@
+{
+  "alternate_names": [
+    "Dwarakadheesh Temple",
+    "Jagat Mandir",
+    "Nija Mandir"
+  ],
+  "deities": [
+    "Krishna (as Dwarkadhish)"
+  ],
+  "district": "Devbhumi Dwarka",
+  "festivals": [
+    "Krishna Janmashtami"
+  ],
+  "history": {
+    "dynasty": "Multiple (present structure 15th-16th century; patronage uncertain)",
+    "period": "200 BCE (original, archaeological); present structure 15th-16th century",
+    "summary": "CSV TOWN CORRECTION: this row says Jamnagar, but the Dwarkadhish Temple stands at Dwarka in Devbhumi Dwarka district, about 130 km west of Jamnagar; the town has been corrected. Archaeological findings suggest an original temple as early as 200 BCE (tradition credits Vajranabha, Krishna's great-grandson); the structure was destroyed by Mahmud Begada in 1473 and the present five-storied temple, supported by 72 pillars with a spire of about 78 m, was rebuilt and enlarged in the 15th-16th century in Maru-Gurjara (Chalukyan) style. It is one of the four Char Dham pilgrimage sites, the 98th Divya Desam, and the seat of the Dwarka Sharada Matha, one of the four peeths established by Adi Shankaracharya, who visited the shrine (a memorial inside commemorates his visit). Sources: Wikipedia, dwarkadhish.org, templetimings.in."
+  },
+  "id": "dwarkadhish-temple-dwarka",
+  "latitude": 22.23789,
+  "longitude": 68.96756,
+  "media": [
+    "https://cdn.yatrigo.com/tpa9d1fdwy.jpg"
+  ],
+  "name": "Dwarkadhish Temple",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Dwarkadhish_Temple",
+    "https://www.dwarkadhish.org/",
+    "https://templetimings.in/dwarkadhish-temple-darshan-timings-guide-2026/"
+  ],
+  "state": "Gujarat",
+  "town": "Dwarka",
+  "town_description": "Dwarka is an ancient coastal city on the Okhamandal peninsula at the mouth of the Gomti river, counted among the Sapta Puri (seven most sacred Hindu cities) and the Char Dham. Legend holds it was Krishna's capital, said to have been reclaimed from the sea.",
+  "tradition": "Hinduism (Vaishnavism)",
+  "travel": {
+    "airport": "Jamnagar Airport (~137 km); Porbandar is an alternative",
+    "railway": "Dwarka railway station (DWK), on the Okha-Ahmedabad line",
+    "road": "Roads from Jamnagar (~137 km), Rajkot and Ahmedabad; entry via Moksha Dwar, exit toward Gomti Ghat via Swarga Dwar"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October-March; Janmashtami draws lakhs of pilgrims",
+    "opening_hours": "6:30 AM - 1:00 PM and 5:00 PM - 9:30 PM daily; closed 1:00-5:00 PM for Anosar (the deity's afternoon rest)"
+  }
+}

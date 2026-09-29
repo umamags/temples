@@ -1,0 +1,40 @@
+{
+  "alternate_names": [],
+  "deities": [],
+  "district": "Rohtak",
+  "festivals": [],
+  "history": {
+    "dynasty": "",
+    "period": "Not applicable (identity unconfirmed)",
+    "summary": "No temple named 'Tilyar Lake Temple' could be found on the web: Tilyar Lake is a 132-acre Haryana Tourism resort near Rohtak known for its lake, boating, toy train and the Rohtak Zoo (mini zoo) inside the complex — none of the travel guides or listings mention a temple at the lake. Likely CSV error; recommend verifying or removing this row. The closest documented shrine is the Prem Mandir at Friend's Colony, opposite Tilyar Lake (approx. 28.8732, 76.6337), which may be the intended referent but this is unconfirmed. Coordinates given are for Tilyar Lake itself and are approximate; the image is of Tilyar Lake, not a temple."
+  },
+  "id": "tilyar-lake-temple-rohtak",
+  "latitude": 28.88023,
+  "longitude": 76.63585,
+  "media": [
+    "https://www.earthtrip.in/gallery/cityImage/1481018234_tiyl%201.jpg"
+  ],
+  "name": "Tilyar Lake Temple",
+  "sources": [
+    "https://www.earthtrip.in/haryana/rohtak/",
+    "https://testbook.com/question-answer/which-among-the-following-lakes-is-located-in-roht--69ab5859ed5e7a886c778ff1"
+  ],
+  "state": "Haryana",
+  "town": "Rohtak",
+  "town_description": "Rohtak is a city in southeastern Haryana, about 70 km northwest of Delhi on NH-9. It is an educational and commercial hub, known for Tilyar Lake and its rewari and gajak sweets.",
+  "tradition": "Unknown (placeholder — no temple confirmed)",
+  "travel": {
+    "airport": "Indira Gandhi International Airport, Delhi (approx. 70 km)",
+    "railway": "Rohtak Junction",
+    "road": "On the Delhi–Rohtak highway (NH-9)"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March",
+    "opening_hours": "Tilyar Lake complex: entry free; no temple timings applicable"
+  }
+}

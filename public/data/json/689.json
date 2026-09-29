@@ -1,0 +1,55 @@
+{
+  "alternate_names": [
+    "Cathedral of St. Peter the Apostle, Nongstoin",
+    "St. Peter the Apostle Cathedral Parish, Pyndengrei",
+    "Nongstoin Catholic Church (CSV row 687 — likely the same church; dedup candidate)"
+  ],
+  "deities": [
+    "Jesus Christ (worshipped as Lord and Saviour)",
+    "God the Father and the Holy Spirit (Trinitarian Christian worship)"
+  ],
+  "district": "West Khasi Hills",
+  "festivals": [
+    "Christmas",
+    "Good Friday",
+    "Easter Sunday",
+    "Palm Sunday",
+    "Feast of St. Peter the Apostle (29 June) (verify observance)",
+    "Diocesan Eucharistic processions (verify)"
+  ],
+  "history": {
+    "dynasty": "Roman Catholic Diocese of Nongstoin (Latin rite; suffragan of the Archdiocese of Shillong)",
+    "period": "Parish of St. Peter the Apostle established 12 May 1966 at Pyndengrei, Nongstoin; became the cathedral when the Diocese of Nongstoin was erected 28 January 2006",
+    "summary": "NOT A HINDU TEMPLE — keep-or-drop decision needed. This is the Cathedral of St. Peter the Apostle at Pyndengrei, Nongstoin, the seat of the Roman Catholic Diocese of Nongstoin. The parish was established on 12 May 1966 with Fr. Emmanuel Albizuri SDB as the first parish priest. Pope Benedict XVI created the Diocese of Nongstoin on 28 January 2006, bifurcated from the Archdiocese of Shillong; Bishop Victor Lyngdoh was ordained on 2 April 2006 and installed on 4 April 2006 as the first bishop (current bishop: Wilbert Marwein). The diocese covers West Khasi Hills, Eastern West Khasi Hills and South West Khasi Hills districts and had 164,334 Catholics in 2020. CSV DUPLICATE FLAG: this is almost certainly the same church as CSV row 687 'Nongstoin Catholic Church' — there is only one Catholic cathedral in Nongstoin; recommend merging or removing one of the two rows."
+  },
+  "id": "st-peters-catholic-church-nongstoin",
+  "latitude": 25.53544,
+  "longitude": 91.25999,
+  "media": [
+    "https://donboscoguwahati.org/wp-content/uploads/2026/01/Nongstoin-Diocese.jpg"
+  ],
+  "name": "St. Peter's Catholic Church",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Diocese_of_Nongstoin",
+    "https://GCatholic.org/churches/asia/3690.htm",
+    "https://www.fmashillong.org/houses/nongstoin-diocese/nongstoin/"
+  ],
+  "state": "Meghalaya",
+  "town": "Nongstoin (Pyndengrei)",
+  "town_description": "Nongstoin is the headquarters town of West Khasi Hills district, Meghalaya (PIN 793119), set in the Khasi Hills with an overwhelmingly Christian population. It is the seat of the Roman Catholic Diocese of Nongstoin (erected January 2006). Nearby attractions include Nongkhnum River Island and Beach, Weinia Falls, Langshiang Falls and Mawthadraishan Peak.",
+  "tradition": "Christianity (Roman Catholic)",
+  "travel": {
+    "airport": "Shillong Airport (SHL), Umroi, about 100 km by road (verify); Guwahati Airport (GAU) about 140 km (verify). Taxis available from both.",
+    "railway": "Guwahati railway station (GHY), the nearest major railhead, about 140 km (verify).",
+    "road": "On NH 44E (Shillong–Nongstoin–Tura highway), about 93 km west of Shillong; connected by state buses, shared sumos and taxis (verify)."
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March for cool, dry weather; Christmas season is the most festive time in the Khasi Hills.",
+    "opening_hours": "Open for Sunday Mass and weekday services; published tourist visiting hours not found (verify). The media image is a 'Nongstoin Diocese' photo from the Don Bosco Guwahati site whose exact depiction is unverified."
+  }
+}

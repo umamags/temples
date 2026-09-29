@@ -1,0 +1,51 @@
+{
+  "alternate_names": [
+    "Sri Yaganti Uma Maheswara Temple",
+    "Uma Maheswara Temple, Yaganti"
+  ],
+  "deities": [
+    "Lord Shiva and Goddess Parvati together as Sri Uma Maheswara (a single-stone idol, Ardhanareswara form)",
+    "Nandi (the monolithic Nandi of the famous legend)",
+    "Sri Venkateswara (the original, uninstalled idol kept in the Venkateswara Cave)"
+  ],
+  "district": "Nandyal",
+  "festivals": [
+    "Maha Shivaratri (the biggest festival; large numbers of devotees from across Andhra Pradesh)"
+  ],
+  "history": {
+    "dynasty": "Sangama dynasty of the Vijayanagara Empire (Harihara and Bukka Raya); some sources attribute earlier origins to the Pallava/Chola/Chalukya periods (5th-6th century - verify)",
+    "period": "15th century (Vijayanagara expansion by Harihara Bukka Raya); shrine traditions claimed to be much older",
+    "summary": "NOTE: CSV town and district are imprecise - the temple is at Yaganti village in Nandyal district (carved out of Kurnool in 2022), about 14 km from Banaganapalle; the CSV gives only 'Kurnool'. This is one of the rare Shiva temples where Shiva and Parvati are worshipped together as Uma Maheswara, carved from a single stone, in idol form rather than as a linga. Legend: sage Agastya wanted to build a Venkateswara temple here, but the idol's toenail broke before installation; his penance to Shiva brought the answer that the site suited Shiva (it resembles Kailash), and Shiva appeared with Parvati as Uma Maheswara at Agastya's request. The name comes from the devotee Chitteppa, who shouted 'Neganti Shivanu ne kanti' ('I saw Shiva!') after Shiva appeared to him as a tiger - Neganti became Yaganti. The Pushkarini tank is fed year-round from the hills through a Nandi's mouth. The complex has three caves: Agastya Cave (120 steep steps), Venkateswara Cave (holding the original chipped idol) and the cave where saint Potuluri Veerabrahmendra Swamy stayed and wrote his Telugu prophecies, Kalagnanam. A popular legend says the stone Nandi grows - about an inch in 20 years - and will come alive and shout at the end of Kali Yuga (per Kalagnanam)."
+  },
+  "id": "yaganti-temple",
+  "latitude": 15.3505,
+  "longitude": 78.13967,
+  "media": [
+    "https://famoustemplesofindia.com/wp-content/uploads/2023/12/Yaganti-Temple-1.jpg"
+  ],
+  "name": "Yaganti Temple",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Yaganti_temple",
+    "https://velpu.com/temple/SRI-UMA-MAHESWARA-TEMPLE/NzYw",
+    "https://lightuptemples.com/en/Yaganti-Uma-Maheswara-Temple-Andhra-Pradesh/",
+    "http://www.milesandtrails.com/2021/02/sri-yaganti-uma-maheshwara-temple-and.html"
+  ],
+  "state": "Andhra Pradesh",
+  "town": "Yaganti",
+  "town_description": "Yaganti is a village in Nandyal district of Andhra Pradesh, about 14 km from Banaganapalle and roughly 70-80 km from Kurnool/Nandyal. Set among rugged rocky hills, it is known almost entirely for the Uma Maheswara temple and its caves; the region's economy is agrarian with the temple drawing steady pilgrim traffic, especially at Maha Shivaratri.",
+  "tradition": "Shaivism (built according to Vaishnavaite traditions, per temple sources)",
+  "travel": {
+    "airport": "Nearest major airports are Hyderabad (~300 km) and Tirupati (~230 km) (verify distances).",
+    "railway": "Nearest railheads are Nandyal and Kurnool, roughly 70-80 km away (verify).",
+    "road": "Yaganti is 14 km from Banaganapalle on the Yaganti Road; buses and taxis connect from Banaganapalle, Nandyal and Kurnool (verify timings)."
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March; Maha Shivaratri (Feb-Mar) is the grandest but crowded.",
+    "opening_hours": "Listed as 5:00 AM-1:00 PM and 3:00 PM-9:00 PM daily (single travel listing - verify)."
+  }
+}

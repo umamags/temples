@@ -1,0 +1,46 @@
+{
+  "alternate_names": [
+    "Sri Kanaka Durga Mandir",
+    "Durga Mandir, Station Road"
+  ],
+  "deities": [
+    "Goddess Kanaka Durga (Durga)"
+  ],
+  "district": "Jharsuguda",
+  "festivals": [
+    "Navratri",
+    "Dussehra (Durga Puja season)"
+  ],
+  "history": {
+    "dynasty": "Unknown (UNVERIFIED)",
+    "period": "Unknown - no documented history found",
+    "summary": "A small urban Durga temple at Marwari Para / Station Road, Jharsuguda town. It has a thin web footprint (mainly business listings) and no documented founding date, builder, or history - UNVERIFIED. Do NOT conflate with the famous Kanak Durga temples: the ~500-year-old Kanakdurga Temple at Chilkigarh, Jhargram (West Bengal), or the Kanaka Durga Temple of Vijayawada (Andhra Pradesh); this is a separate, small local shrine."
+  },
+  "id": "kanak-durga-mandir",
+  "latitude": 21.86105,
+  "longitude": 84.01862,
+  "media": [],
+  "name": "Kanak Durga Mandir",
+  "sources": [
+    "https://meta.ai?place_id=1918538125338971",
+    "https://www.justdial.com/Jharsuguda/Temples/nct-10475644?undefined=&redirect=301"
+  ],
+  "state": "Odisha",
+  "town": "Jharsuguda",
+  "town_description": "Jharsuguda is an industrial city in western Odisha, often called the 'Powerhouse of Odisha' for its coal, steel, and power plants. It is the district headquarters and a major rail junction on the Howrah-Mumbai route, served by its own airport (Veer Surendra Sai Airport). The town grew rapidly around mining and industry but retains several older shrines such as Jhadeswar and Pahadi Mandir on its hillocks.",
+  "tradition": "Hinduism (Shaktism)",
+  "travel": {
+    "airport": "Veer Surendra Sai Airport, Jharsuguda (~9 km, verify)",
+    "railway": "Jharsuguda Junction (~1-2 km; the temple is on Station Road, verify)",
+    "road": "Within Jharsuguda town, on Main Road / Station Road, Marwari Para"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March; Navratri / Durga Puja season",
+    "opening_hours": "4:30 AM - 9:45 PM daily (verify) - single listing source (meta.ai), unconfirmed"
+  }
+}

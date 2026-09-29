@@ -1,0 +1,45 @@
+{
+  "alternate_names": [
+    "Durga Temple, NTPC Township Ramagundam"
+  ],
+  "deities": [
+    "Goddess Durga (worshipped as Kanaka Durga per the CSV name - verify; no source found using the 'Kanaka Durga' name)"
+  ],
+  "district": "Peddapalli",
+  "festivals": [
+    "Dasara / Durgashtami (verify - typical for a Durga temple)"
+  ],
+  "history": {
+    "dynasty": "Modern (no published antiquity found)",
+    "period": "Contemporary local shrine; no dated inscriptions or published history located",
+    "summary": "DISTRICT CORRECTION: Ramagundam is in Peddapalli district (created 2016 from Karimnagar), not Karimnagar as older listings say. IDENTITY UNCERTAIN: no web source could be located for a shrine specifically named 'Sri Kanaka Durga Temple' in Ramagundam despite searches across place listings and temple directories - identity certainty LOW. The best-supported provisional referent is the 'Durga Temple' listed at Ramagundam (meta.ai place listing gives the coordinates below, ~1.1 miles from the NTPC township, which matches the 'Durga Temple, NTPC Twp' in local directory listings); a separate 'Durga Mata Temple' is listed on SH1 at Janagaon, Godavarikhani (Justdial, 4.6 rating, 53 ratings). No source names either shrine 'Kanaka Durga'. Do not treat the coordinates/deity details below as confirmed for the CSV row; they describe the provisional referent only. No published history, founding date or management details could be located."
+  },
+  "id": "sri-kanaka-durga-temple-ramagundam",
+  "latitude": 18.752516,
+  "longitude": 79.493967,
+  "media": [],
+  "name": "Sri Kanaka Durga Temple",
+  "sources": [
+    "https://meta.ai?place_id=887178000061436",
+    "http://www.onefivenine.com/india/villages/Karimnagar/Ramagundam/Temple-Road-TTS-Township",
+    "https://www.justdial.com/Ramagundam/Temples-in-Ramagundam/nct-10475644"
+  ],
+  "state": "Telangana",
+  "town": "Ramagundam (industrial town in Peddapalli district; district corrected from older Karimnagar listings)",
+  "town_description": "Ramagundam is an industrial town in Peddapalli district on the Godavari, built around the NTPC thermal power station, the FCI fertilizer plant and Singareni coal mines. The NTPC township is one of its main residential zones.",
+  "tradition": "Hinduism",
+  "travel": {
+    "airport": "Rajiv Gandhi International Airport, Hyderabad - about 235 km (verify).",
+    "railway": "Ramagundam railway station - about 3-4 km (verify).",
+    "road": "NTPC township area, Ramagundam (verify)."
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to February (verify).",
+    "opening_hours": "Not published (verify)."
+  }
+}

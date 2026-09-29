@@ -1,0 +1,46 @@
+{
+  "alternate_names": [],
+  "deities": [
+    "Goddess Sita",
+    "Lord Rama"
+  ],
+  "district": "East Champaran",
+  "festivals": [
+    "Ram Navami",
+    "Sita Navami"
+  ],
+  "history": {
+    "dynasty": "Treta Yuga (legendary; Ramayana tradition)",
+    "period": "Treta Yuga (legendary)",
+    "summary": "Sita Kund is a legendary sacred pond at Bedivan Madhuban Panchayat in Chakiya block, ~20 km south of Motihari town, East Champaran district (CSV town 'Motihari' is the nearest city; the site is on Motihari's outskirts — nearest town corrected to Motihari with exact village noted). Per Ramayana tradition, Lord Rama's wedding procession (Ram Baraat) halted here for a night en route to Janakpur; Sita is believed to have bathed in this pond, and her bangle is said to have fallen into the kund, which is fed by a natural water source. Temples of Sita Ram ji and Girija Nath ji stand nearby. It is part of the Government of Bihar's Ramayana circuit. NOTE: this is distinct from the Sitamarhi (Punaura Dham) Sita Kund and the Munger hot-spring Sita Kund. Wikipedia notes an ancient Shivalinga was excavated from underground here on 2 December 2025."
+  },
+  "id": "sita-kund",
+  "latitude": 26.5145506,
+  "longitude": 84.9860146,
+  "media": [
+    "https://tourism.bihar.gov.in/content/dam/bihar-tourism-aem/destination-detail/sita-kund/Photo%20gallery%20(1).jpg/jcr:content/renditions/cq5dam.web.480.480.webp"
+  ],
+  "name": "Sita Kund",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Sita_Kund,_Motihari",
+    "https://www.ramyatra.com/Detail-Yatra/5njo375fkc/Sita-Kund"
+  ],
+  "state": "Bihar",
+  "town": "Motihari",
+  "town_description": "Motihari is the headquarters town of East Champaran district in northern Bihar, in the Terai belt near the Nepal border. It is the birthplace of author George Orwell and sits on the route between Patna and the Indo-Nepal frontier. The surrounding region holds Ramayana-linked sites, Buddhist remains (Kesariya stupa), and the Lauriya Areraj Ashokan pillar.",
+  "tradition": "Hinduism (Vaishnavism — Ramayana tradition)",
+  "travel": {
+    "airport": "Darbhanga Airport, ~65-70 km (verify)",
+    "railway": "Chakia Railway Station, ~8-10 km (verify); Motihari station ~20 km",
+    "road": "Via Motihari-Chakia road to Bedivan Madhuban, Chakiya block"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March; Ram Navami and Sita Navami for festivals",
+    "opening_hours": "Daylight hours; no published timings (verify)"
+  }
+}

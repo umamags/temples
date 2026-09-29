@@ -1,0 +1,40 @@
+{
+  "alternate_names": [],
+  "deities": [
+    "Not documented"
+  ],
+  "district": "Bilaspur",
+  "festivals": "Not documented",
+  "history": {
+    "dynasty": "Unknown — no documented temple found",
+    "period": "Unknown",
+    "summary": "No temple or shrine named 'Kandrour Bridge Temple' is documented in web sources after genuine searching. Kandrour Bridge itself is well documented: an 80-m-high, ~280-m-long (sources vary between 255 m and 280 m) road bridge over the Sutlej on NH-88 (some sources say NH-103) at Kandrour village, ~8 km from Bilaspur town; construction began 1959 and finished in 1964/65, and it was once claimed to be Asia's highest bridge. If a small roadside shrine exists near the bridge, it has no web footprint. Coordinates given are those of the Kandrour Bridge itself (approximate) — the shrine's existence and identity need on-the-ground verification. Treat this file as a clearly-flagged placeholder. CSV town 'Bilaspur' corrected to Kandrour (the bridge's village); district remains Bilaspur."
+  },
+  "id": "kandrour-bridge-temple-bilaspur",
+  "latitude": 31.35034,
+  "longitude": 76.76295,
+  "media": [],
+  "name": "Kandrour Bridge Temple",
+  "sources": [
+    "https://travelwithanki.com/kandrour-bridge/",
+    "https://Wanderlog.com/place/details/171124/kandrour-bridge"
+  ],
+  "state": "Himachal Pradesh",
+  "town": "Kandrour",
+  "town_description": "Kandrour is a village on the Sutlej about 8 km from Bilaspur town, known for the 1965 Kandrour Bridge — once among Asia's highest bridges — and views of Gobind Sagar Lake.",
+  "tradition": "Hindu (presumed; identity unverified)",
+  "travel": {
+    "airport": "Chandigarh (nearest major airport)",
+    "railway": "Kiratpur Sahib (nearest station)",
+    "road": "On NH-88, ~8 km from Bilaspur bus stand"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "March–June, September–November (bridge viewpoint; temple hours unknown)",
+    "opening_hours": "Not documented — verify locally"
+  }
+}

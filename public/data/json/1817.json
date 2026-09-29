@@ -1,0 +1,49 @@
+{
+  "alternate_names": [
+    "Kalka Mata Temple"
+  ],
+  "deities": [
+    "Kalika Mata (Goddess Kali)"
+  ],
+  "district": "Ratlam",
+  "festivals": [
+    "Navratri",
+    "Durga Puja/Dussehra"
+  ],
+  "history": {
+    "dynasty": "UNVERIFIED",
+    "period": "Founding date not documented in any source found",
+    "summary": "A popular Devi temple in Shastri Nagar, Anand Colony, in the heart of Ratlam city, presided over by images of the goddess and noted for its carved walls and sculpture. Thrillophilia lists it among Ratlam's most popular temples. No source found gives a founding date, founder, or dynasty, so its antiquity is UNVERIFIED. Note: a 'Kalka Mata Temple' listing near the Ratlam Collectorate appears to refer to this same temple, but the match is not certain."
+  },
+  "id": "kalika-mata-mandir-ratlam",
+  "latitude": 23.32693,
+  "longitude": 75.047888,
+  "media": [
+    "https://nation-press.s3.ap-south-1.amazonaws.com/cm_mohan_yadav_seeks_blessings_at_ratlam_kalika_mata_temple_907a1392_4436_460d_9d9f_86c4178fcf8e_8170f15f39.webp"
+  ],
+  "name": "Kalika Mata Mandir",
+  "sources": [
+    "https://www.thrillophilia.com/attractions/kalika-mata-mandir",
+    "http://www.kalikamata.com/",
+    "https://opencorpdata.com/place/ChIJw-9RR6b-YzkRTNF2ngEzdco",
+    "https://www.justdial.com/Ratlam/Kalka-Mata-Temple-Near-Collectorate-Ratlam-Collectorate/9999P7412-7412-141218110658-M7B8_BZDET"
+  ],
+  "state": "Madhya Pradesh",
+  "town": "Ratlam",
+  "town_description": "Ratlam is a city in the Malwa region of northwestern Madhya Pradesh and the headquarters of Ratlam district. It was historically one of central India's first commercial towns, trading in opium, tobacco and salt. Ratlam Junction is a major railway junction, and the city is known for its sweets, sarafa markets, and old temples.",
+  "tradition": "Hinduism (Shaktism)",
+  "travel": {
+    "airport": "Nearest airport is Indore, about 135-140 km away (verify)",
+    "railway": "Ratlam Junction is in the city itself, about 2 km from the temple (verify)",
+    "road": "In Shastri Nagar, Anand Colony, about 1.7 km from central Ratlam; easily reached by auto/cab within the city"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March; Navratri (September-October) is the main festival season",
+    "opening_hours": "CONFLICT (verify): one travel guide lists 5:00 AM to 9:00 PM; a directory listing for the likely same temple lists 6:00 AM to 1:00 PM with evening hours to 9:30 PM"
+  }
+}

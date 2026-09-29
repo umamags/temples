@@ -1,0 +1,49 @@
+{
+  "alternate_names": [
+    "Gurdwara Sri Arisar Sahib",
+    "Gurudwara Arrisar Sahib"
+  ],
+  "deities": [],
+  "district": "Barnala",
+  "festivals": [
+    "Prakash Divas of Guru Tegh Bahadur (verify)",
+    "Baisakhi",
+    "Gurpurabs"
+  ],
+  "history": {
+    "dynasty": "Mughal era (association)",
+    "period": "17th century (visit of Guru Tegh Bahadur); present gurdwara building later (UNVERIFIED exact date)",
+    "summary": "THIS IS A SIKH GURDWARA (historic, Patshahi Nauvin = the Ninth Guru), NOT A HINDU TEMPLE — keep-or-drop decision needed. Town corrected: the CSV town 'Barnala' is approximate — the gurdwara is at Handiaya, ~11 km from Barnala on the Mansa-Barnala Road, per the district tourism page. 'Arrisar' is listed among the historic gurdwaras of Barnala district and is sanctified by the visit of Guru Tegh Bahadur Ji (1621-1675), the ninth Sikh Guru, during his Malwa travels. It venerates the Guru Granth Sahib; there are no deity idols. Coordinates are the Handiaya town location and are approximate — verify on the ground."
+  },
+  "id": "gurdwara-arrisari-patshahi-nouvin",
+  "latitude": 30.32699,
+  "longitude": 75.50241,
+  "media": [
+    "https://lh5.googleusercontent.com/p/AF1QipPZUsMq5CjTYD5uAOzWResUm12ZsKjojhBq8JBE=w1080-k-no"
+  ],
+  "name": "Gurudwara Sahib Arrisar Patshahi Nouvin",
+  "sources": [
+    "https://barnala.gov.in/tourism/",
+    "https://www.barnalaonline.in/guide/tourism-in-barnala",
+    "https://in.worldorgs.com/catalog/barnala/gurudwara/gurdwara-sri-arisar-sahib-handiaya",
+    "https://alchetron.com/List-of-gurdwaras"
+  ],
+  "state": "Punjab",
+  "town": "Handiaya",
+  "town_description": "Barnala is a centrally located city in the Malwa region of Punjab and the headquarters of Barnala district, formed in 2006. It has a history said to reach back before the 18th century, with older quarters like Quilla Mahal still showing traces of the past. The city and district are known for their handloom and textile industry, and for several historic gurdwaras in and around the town.",
+  "tradition": "Sikhism",
+  "travel": {
+    "airport": "Nearest domestic airports at Ludhiana / Bathinda / Chandigarh (verify)",
+    "railway": "Barnala — ~11 km (per barnala.gov.in)",
+    "road": "Handiaya on the Mansa-Barnala Road, ~11 km from Barnala city"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March",
+    "opening_hours": "Typical gurdwara hours, e.g. 4:00 AM to 8:00 PM (verify)"
+  }
+}

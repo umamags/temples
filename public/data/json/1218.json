@@ -1,0 +1,44 @@
+{
+  "alternate_names": [
+    "Shri Saraswati Devi Temple"
+  ],
+  "deities": [
+    "Goddess Saraswati"
+  ],
+  "district": "Kurnool",
+  "festivals": [
+    "Vasant Panchami"
+  ],
+  "history": {
+    "dynasty": "Unknown",
+    "period": "Unknown (modern, undocumented)",
+    "summary": "PROVISIONAL IDENTITY: the CSV lists only 'Saraswati Temple, Kurnool'. This file documents the Shri Saraswati Devi Temple in Asta Lakshmi Colony, Kurnool city, the POI matching the CSV town. No history, founding date, festival, or hour documentation found for it on the web — all details here are minimal and should be verified. NOTE: the district's famous Saraswathi shrine is the Kolanu Bharathi Saraswathi Temple at Sivapuram, Atmakur taluk (Nallamala forest), ~2 hours from Kurnool city and renowned for Aksharabyasam — verify whether the CSV intends that shrine instead."
+  },
+  "id": "saraswati-devi-temple-kurnool",
+  "latitude": 15.83529,
+  "longitude": 78.01037,
+  "media": [],
+  "name": "Saraswati Temple",
+  "sources": [
+    "https://meta.ai?place_id=2095086974761839",
+    "https://www.tripadvisor.ca/ShowUserReviews-g1155904-d12930178-r704995729-Kolanu_Bharahti_Saraswathi_Temple-Kurnool_Kurnool_District_Andhra_Pradesh.html"
+  ],
+  "state": "Andhra Pradesh",
+  "town": "Kurnool",
+  "town_description": "Kurnool, on the banks of the Tungabhadra in western Andhra Pradesh, is one of the oldest cities of the region — a former capital of Andhra State (1953-1956). It is a pilgrimage hub ringed by major shrines: the Jagannatha Gattu hill temples, Mahanandi, Ahobilam, Srisailam and Mantralayam are all within reach, and the Kondareddy Buruju fort tower stands in the old town.",
+  "tradition": "Shaktism (Saraswati worship)",
+  "travel": {
+    "airport": "Kurnool (Orvakal) Airport",
+    "railway": "Kurnool City railway station (nearest major railhead)",
+    "road": "Asta Lakshmi Colony, Kurnool city (verify exact location on arrival)"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "Vasant Panchami (January-February)",
+    "opening_hours": "Not published (verify)"
+  }
+}

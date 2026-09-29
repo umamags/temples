@@ -1,0 +1,52 @@
+{
+  "alternate_names": [
+    "Shakti Mandir, Joraphatak"
+  ],
+  "deities": [
+    "Goddess Durga (Shakti)",
+    "Lord Shiva",
+    "Lord Krishna"
+  ],
+  "district": "Dhanbad",
+  "festivals": [
+    "Durga Puja",
+    "Navratri (Chaitra and Ashwin)",
+    "Jagran"
+  ],
+  "history": {
+    "dynasty": "Modern (20th century)",
+    "period": "Late 20th century",
+    "summary": "POSSIBLE DUPLICATE of seq 409 (\"Shakti Mandir\", Dhanbad) — same real temple. CONFLICTING accounts of origin: jharkhand.me and a hotel travel blog say the temple was built by local residents, construction beginning in 1974 and doors opening in 1982; velpu.com claims it was built in the 15th century A.D.; a visitor review claims construction on 19 February 1997. No authoritative founding record found. The temple houses an akhand jyoti (eternal flame) said to have been brought from Vaishno Devi (some reviews say Jwala Devi, Himachal Pradesh — CONFLICT). White-marble structure with a three-tiered tower and golden spire; the main sanctum holds the Durga idol, with images of Shiva (noted as unusual given the preponderance of linga worship in Jharkhand), Krishna and other deities also present."
+  },
+  "id": "shakti-mandir-dhanbad-joraphatak",
+  "latitude": 23.78242,
+  "longitude": 86.42044,
+  "media": [
+    "https://hblimg.mmtcdn.com/content/hubble/img/ttd_images/mmt/activities/t_trp/m_Dhanbad_Shakti_mandir_2_l_480_640.jpg?im=Resize=(1600,760)"
+  ],
+  "name": "Shakti Mandir, Dhanbad",
+  "sources": [
+    "https://www.jharkhand.me/shakti-mandir-dhanbad/",
+    "https://velpu.com/temple/DHANBAD-SHAKTI-MANDIR/MTU1Mw==",
+    "https://www.wedlockgreens.com/blogs/shakti-mandir-dhanbad.html",
+    "https://www.searchincity.in/business/jh-3646-shakti-mandir.html"
+  ],
+  "state": "Jharkhand",
+  "town": "Dhanbad",
+  "town_description": "Dhanbad is the second-largest city in Jharkhand and is widely known as the Coal Capital of India, home to extensive coal mines and the headquarters of Bharat Coking Coal Limited. It is a major railway junction on the Grand Chord line and hosts the Indian Institute of Technology (Indian School of Mines), established in 1926. The city mixes an industrial character with green belts and serves as a gateway to nearby attractions like the Maithon and Panchet dams, Topchanchi Lake and the Parasnath Hills.",
+  "tradition": "Hinduism (Shaktism)",
+  "travel": {
+    "airport": "Kazi Nazrul Islam Airport, Durgapur (Andal), approx. 75-80 km (verify)",
+    "railway": "Dhanbad Junction (DHN), approx. 1.2-2 km",
+    "road": "NH-19 (Grand Trunk Road) passes through Dhanbad; Joraphatak Road is in the city centre, reachable by auto/cab (verify distances)"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to February; Navratri periods are the busiest",
+    "opening_hours": "CONFLICT (verify): jharkhand.me says open throughout the day with aartis at 5:30 AM, 7:00 AM, 12:00 PM and 7:00 PM; a business listing says 6 AM-10 PM; a visitor review says closed 11 AM-4 PM"
+  }
+}

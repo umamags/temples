@@ -1,0 +1,48 @@
+{
+  "alternate_names": [
+    "Bilai Mata Mandir",
+    "Bhilai Mata Temple"
+  ],
+  "deities": [
+    "Goddess Bilai Mata (form of Vindhyavasini/Durga)"
+  ],
+  "district": "Dhamtari",
+  "festivals": [
+    "Navratri",
+    "Diwali"
+  ],
+  "history": {
+    "dynasty": "Unknown",
+    "period": "Idol believed ~500-600 years old (unverified)",
+    "summary": "TOWN/DISTRICT CORRECTED: the documented referent is the Shri Bilai Mata Temple on Gangrel Road, Dhamtari (Dhamtari district) - the CSV's town 'Durg' and spelling 'Bhilai Mata' are corrected here; no 'Bhilai Mata Temple' is documented in Durg city. The black idol, surrounded by cats, gave the goddess the name 'Bilai Mata' and is regarded as a form of Vindhyavasini. Local tradition says 108 goats were sacrificed here during Navratri in ancient times; the practice has ended and only offerings and puja materials are made now. The temple draws devotees from across Chhattisgarh and abroad during Navratri, when wishes are believed to be fulfilled; lamps have been lit here in the names of national leaders."
+  },
+  "id": "bilai-mata-temple-dhamtari",
+  "latitude": 20.69555,
+  "longitude": 81.55472,
+  "media": [
+    "https://www.dhamtaritourism.com/wp-content/uploads/2025/07/bilai-1024x762.png"
+  ],
+  "name": "Shri Bilai Mata Temple",
+  "sources": [
+    "https://english.dainikjagranmpcg.com/states/chhattisgarh/bilai-mata-temple-500-year-old-idol-of-vindhyavasini-in-chhattisgarh/article-5394",
+    "https://www.dhamtaritourism.com/trip/bilai-mata-mandir/"
+  ],
+  "state": "Chhattisgarh",
+  "town": "Dhamtari",
+  "town_description": "Dhamtari is a city in Chhattisgarh on the banks of the Mahanadi, known as a rice-mill hub and the gateway to the Gangrel dam; it lies about 80 km from Raipur.",
+  "tradition": "Hindu (Shakta)",
+  "travel": {
+    "airport": "Swami Vivekananda Airport, Raipur (~80 km)",
+    "railway": "Dhamtari / Raipur Junction",
+    "road": "Gangrel Road, Dhamtari"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October-March; Navratri (peak crowds)",
+    "opening_hours": "5:00 AM - 10:00 PM daily (per directory listing; confirm locally)"
+  }
+}

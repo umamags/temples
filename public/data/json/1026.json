@@ -1,0 +1,55 @@
+{
+ "alternate_names": [
+  "Matabari",
+  "Devi Tripureshwari Temple",
+  "Kurma Pitha",
+  "Tripureshwari Mandir"
+ ],
+ "deities": [
+  "Tripura Sundari (Lalita Tripurasundari, third Mahavidya, form of Parvati)",
+  "Chhoto-Ma (Goddess Chandi, smaller 2-ft idol in the sanctum)",
+  "Tripuresh (accompanying Bhairava)"
+ ],
+ "district": "Gomati",
+ "festivals": [
+  "Diwali (famous Diwali Mela drawing over 0.2 million pilgrims)",
+  "Durga Puja / Navaratri",
+  "Lalita Jayanti on Magha Purnima",
+  "Lalita Panchami (per Wikipedia infobox - verify)"
+ ],
+ "history": {
+  "dynasty": "Manikya (Tripura Kingdom)",
+  "period": "Established 1501 CE by Maharaja Dhanya Manikya (r. 1490-1520)",
+  "summary": "CSV town 'Udaipur' accepted with refinement: the shrine stands at Matabari on the south-western outskirts of Udaipur town, Gomati district. This is the famous Matabari Shakti Peetha, one of the 51 Shakti Peethas (legend: Sati's right foot / Dakshin Charan with the big toe fell here). Built in 1501 CE by Maharaja Dhanya Manikya in the Bengali Ek-ratna style - a small cubical edifice (24 sq ft base, 75 ft high) on a hillock shaped like a tortoise hump (Kurma Pitha / Kurmaprishthakriti). The state of Tripura is named after this temple. The sanctum holds two black-stone idols: the 5-ft Tripura Sundari and the 2-ft Chhoto-Ma (Chandi), which the kings carried to battlefields and hunts; Kalyan Sagar lake (east) shelters rare bostami turtles. Legend: the king had a dream of the Goddess directing worship on the hillock where a Vishnu temple already stood - hence its syncretic Shakta-Vaishnava character. The famous Diwali Mela draws lakhs of pilgrims. Animal sacrifice was banned Oct 2019 and resumed Dec 2019 after a 57-day ban (per Wikipedia - verify current status). The complex was redeveloped under the PRASHAD scheme and a 51-Shakti Peethas Park is coming up at Banduar ~4 km away. DUPLICATE CROSS-REF: CSV seq 1021 ('Tripura Sundari', town 'Agartala') is a DUPLICATE row of this same shrine - the temple is at Udaipur, not Agartala; 1021.json documents the same shrine under id 'tripura-sundari-temple-matabari-udaipur' and recommends merging the two rows into one record. This file deliberately uses a distinct id ('tripureshwari-temple-matabari-udaipur') to satisfy id uniqueness pending the coordinator's merge."
+ },
+ "id": "tripureshwari-temple-matabari-udaipur",
+ "latitude": 23.509064,
+ "longitude": 91.498254,
+ "media": [
+  "https://i0.wp.com/tripuratoday.in/wp-content/uploads/2025/02/tripura-sundari-devi-temple-2.jpeg?w=1200&ssl=1"
+ ],
+ "name": "Tripura Sundari Temple",
+ "sources": [
+  "https://en.wikipedia.org/wiki/Tripura_Sundari_Temple",
+  "https://tripurasundari.tripura.gov.in/contact-us",
+  "https://templesofindia.org/temple-view/matabari-maata-tripura-sundari-temple-gomati-tripura-332hqu"
+ ],
+ "state": "Tripura",
+ "town": "Matabari, Udaipur (CSV town 'Udaipur' is the broader ancient city; the temple is at Matabari on the south-western outskirts of Udaipur town)",
+ "town_description": "Udaipur, in Gomati district on the Gomati river about 55 km from Agartala, was the capital of the Tripura kingdom under the Manikya dynasty before the capital shifted to Agartala. It is a cluster of 16th-17th century Manikya temples: the Shakti Peetha of Tripura Sundari at Matabari, the Bhuvaneswari temple by the Gomati, the Gunabati group of brick temples, and the old stone Jagannath temple by Jagannath Dighi.",
+ "tradition": "Hinduism (Shaktism)",
+ "travel": {
+  "airport": "Maharaja Bir Bikram Airport, Agartala - about 55 km.",
+  "railway": "Udaipur Railway Station - about 3 km (per travel guides; verify).",
+  "road": "About 55 km by road from Agartala (Agartala-Sabroom Rd); regular buses and taxis."
+ },
+ "video": {
+  "audio": "",
+  "script": "",
+  "video_file": ""
+ },
+ "visitor_information": {
+  "best_time": "October to March for pleasant weather; Diwali for the famous Mela.",
+  "opening_hours": "Hours not published consistently - the official temple listing shows 4:00 AM to 10:00 PM daily; travel guides say 6:00 AM to 9:30 PM (verify on site)."
+ }
+}

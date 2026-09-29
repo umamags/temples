@@ -1,0 +1,43 @@
+{
+  "alternate_names": [
+    "Ambalapuzha Ayyappa shrine"
+  ],
+  "deities": [
+    "Sastha (Ayyappa)"
+  ],
+  "district": "Alappuzha",
+  "festivals": [
+    "Same as the main Ambalapuzha temple complex (UNVERIFIED whether separately observed)"
+  ],
+  "history": {
+    "dynasty": "Unknown (sub-shrine; no independent founder recorded)",
+    "period": "UNVERIFIED - no independent sources found for this shrine",
+    "summary": "RELATED TO seq 1766 (Ambalapuzha Sri Krishna Temple), NOT a duplicate: this CSV row refers to the Sastha (Ayyappa) sub-shrine (upadevata) within the Ambalappuzha Sree Krishna Swamy Temple complex. Sastha is a standard upadevata in Kerala temple complexes. No independent web sources describe this specific shrine's age, installation or rituals; location, coordinates, hours and history are inherited from the parent complex (seq 1766) and should be verified on the ground."
+  },
+  "id": "ambalapuzha-sastha-shrine",
+  "latitude": 9.38418,
+  "longitude": 76.36944,
+  "media": [],
+  "name": "Sastha (Ayyappa) shrine, Ambalapuzha temple complex",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Ambalappuzha_Sree_Krishna_Swamy_Temple"
+  ],
+  "state": "Kerala",
+  "town": "Ambalapuzha",
+  "town_description": "Ambalapuzha is a town in Alappuzha district, about 14 km south of Alappuzha city on the Kollam-Alappuzha highway, close to Kerala's backwaters. Its name came into existence only after the Sri Krishna temple was built (16th century tradition), and it remains a major pilgrim centre of central Kerala. The town is also known for the Champakkulam Moolam water festival on the nearby Pamba river system.",
+  "tradition": "Hinduism",
+  "travel": {
+    "airport": "Cochin International Airport - 64-98 km per conflicting sources; CONFLICT (verify)",
+    "railway": "Ambalapuzha Railway Station, about 1 km (verify)",
+    "road": "14 km south of Alappuzha on the Kollam-Alappuzha highway"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March (inherited from parent complex; verify)",
+    "opening_hours": "No independent hours published; assumed to follow the parent temple's hours 4:00 AM-12:30 PM, 5:00-8:00 PM (verify)"
+  }
+}

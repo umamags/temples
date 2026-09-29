@@ -1,0 +1,57 @@
+{
+  "alternate_names": [
+    "Bhubaneshwar Temple",
+    "Bhuvan Pahar Shiva Temple",
+    "Bhuban Tirtha"
+  ],
+  "deities": [
+    "Shiva (Bhuban Mahadev)",
+    "Parvati"
+  ],
+  "district": "Cachar",
+  "festivals": [
+    "Mahashivratri (major mela)",
+    "Dhul Yatra (Holi)",
+    "Baruni Mela",
+    "Naga Mela",
+    "Shravan month gatherings"
+  ],
+  "history": {
+    "dynasty": "Dimasa Kachari association (per Airports Authority of India)",
+    "period": "Described as 500 years old in local coverage (verify)",
+    "summary": "The Bhuban Mahadev Temple sits atop Bhuban Pahar (Bhuban Hill), about 40-50 km from Silchar town (sources vary: 37-50 km, verify). The Airports Authority of India's tourist guide says it was established by the Dimasa warrior Veer Shambudhan Phonglo and is the most celebrated Shiva temple in South Assam. Nearby attractions include the Maniharan Tunnel (about 5 km away, linked in legend to Krishna) and the Tribeni River. During Mahashivratri thousands of devotees march to the hilltop; the trek from the plains is reported as 9-17 km depending on route (conflicting reports, verify). NOTE: geocode is of Bhuban Pahar hill itself (Sonai area, Cachar) since no exact temple POI was found; treat coordinates as approximate."
+  },
+  "id": "bhuban-mahadev-temple-bhuban-pahar",
+  "latitude": 24.69977,
+  "longitude": 92.91884,
+  "media": [
+    "https://i.ytimg.com/vi/GBNKaUpIV-U/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLA1pIJN-9EpAZlLtV48562Q3Xw6jA&usqp=CCk"
+  ],
+  "name": "Bhuban Mahadev Temple",
+  "sources": [
+    "https://www.aai.aero/en/airports/city-info/Silchar/Tourist-Place",
+    "https://www.makemytrip.com/tripideas/attractions/bhuban-mahadev-temple?pdtCtx=eyJqaWQiOiJqb3VybmV5XzE3ODU5MjgyNzcxNjZfYmNrOGgxaWIwIiwic2MiOm51bGwsInBwIjoiZ2VuZXJpYyJ9",
+    "https://www.youtube.com/shorts/K-BmciaDvTs",
+    "https://www.youtube.com/watch?v=HSgIS8etZG0",
+    "https://justdial.com/Silchar/Bhuban-Pahar-Sonaimukh/9999P3842-3842-171205021125-S2T6_BZDET",
+    "http://www.onefivenine.com/india/Travel/Place/Silchar"
+  ],
+  "state": "Assam",
+  "town": "Motinagar (Bhuban Pahar; CSV town 'Silchar' is the nearest city, ~40-50 km away)",
+  "town_description": "Motinagar is a settlement in Cachar district on the approach to Bhuban Pahar, about 40 km from Silchar. The area around Amraghat Bazar and Sonaimukh is the staging point for the trek up Bhuban Hill, one of South Assam's main pilgrimage hills.",
+  "tradition": "Shaivism",
+  "travel": {
+    "airport": "Silchar Airport (Kumbhirgram, IXS) - reach Silchar town first, then 40-50 km by road to the foothills.",
+    "railway": "Silchar Junction - then 40-50 km by road via Sonai toward Motinagar.",
+    "road": "Road from Silchar to Motinagar (about 40 km per local coverage); final ascent is a trek from the plains (reported 9-17 km depending on route, verify); no motor road to the hilltop."
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "Mahashivratri for the major mela; otherwise October to March. Trekking during monsoon is difficult (verify).",
+    "opening_hours": "Listed as 6:00 AM - 9:00 PM daily on Justdial (verify). Large crowds during Mahashivratri."
+  }
+}

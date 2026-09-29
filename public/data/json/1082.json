@@ -1,0 +1,53 @@
+{
+  "alternate_names": [
+    "Balkeshwar Mahadev Temple",
+    "Bilvakeshwar Mahadev Temple"
+  ],
+  "deities": [
+    "Shiva (Balkeshwar Mahadev; ancient shivling about 4-5 feet below ground level)"
+  ],
+  "district": "Agra",
+  "festivals": [
+    "Maha Shivratri (shivling decorated with Rudraksha)",
+    "Sawan fair",
+    "Kailash fair",
+    "Ram Barat",
+    "Bateshwar fair",
+    "Taj Mahotsav"
+  ],
+  "history": {
+    "dynasty": "Unknown (local belief)",
+    "period": "Believed about 700 years old; no definite historical record of establishment",
+    "summary": "DUPLICATE ROW: this is the same temple as the already-researched 'Balkeshwar Mahadev Temple' (Mac-only file 3.json, id balkeshwar-mahadev-agra) — keep-or-merge decision needed. One of the four ancient Shiva temples at the four corners of Agra, on the banks of the Yamuna in Balkeshwar Colony. The ancient name is Bilvakeshwar Mahadev: the area was once dense Bael (Bilva) forest, and legend says a shepherd discovered the shivling while grazing goats; a temple grew up around it. The shivling lies 4-5 feet below ground level and is never fully submerged even in floods, which locals treat as an auspicious sign. Bael leaves are the principal offering."
+  },
+  "id": "balkeshwar-temple-agra",
+  "latitude": 27.21484,
+  "longitude": 78.03039,
+  "media": [
+    "https://hindi.cdn.zeenews.com/hindi/sites/default/files/2024/07/29/3091493-balkeshwar-mahadev-temple-agra-1.jpg"
+  ],
+  "name": "Balkeshwar Temple",
+  "sources": [
+    "https://www.thedivineindia.com/balkeshwar-mandir/6118",
+    "https://www.srimandir.com/en/articles/temple/balkeshwar-mahadev-temple-agra",
+    "https://www.tourmyindia.com/states/uttarpradesh/balkeshwar-mandir-agra.html"
+  ],
+  "state": "Uttar Pradesh",
+  "town": "Agra",
+  "town_description": "Agra, on the banks of the Yamuna in western Uttar Pradesh, was the capital of the Mughal Empire under Akbar, Jahangir and Shah Jahan, and is home to the Taj Mahal, Agra Fort and Fatehpur Sikri. Alongside its Mughal monuments it is an old Hindu pilgrimage centre, guarded — in local belief — by four ancient Shiva temples set at the four corners of the city.",
+  "tradition": "Shaivism",
+  "travel": {
+    "airport": "Pandit Deen Dayal Upadhyay Airport, Agra (about 17 km, per thedivineindia)",
+    "railway": "Agra Cantt railway station (about 10.6 km, per thedivineindia)",
+    "road": "Balkeshwar Ghat Road, Kailash Nagar, Kamla Nagar, Agra; on the Yamuna bank"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March (pleasant weather); one travel source suggests March to October — verify",
+    "opening_hours": "Open all days, morning to evening; exact published hours not found (verify)"
+  }
+}

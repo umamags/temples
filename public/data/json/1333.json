@@ -1,0 +1,49 @@
+{
+  "alternate_names": [
+    "Sri Sri Radha Krishna Baldev Ji Mandir",
+    "ISKCON Darbhanga"
+  ],
+  "deities": [
+    "Radha Krishna",
+    "Balaram (Baldev Ji)"
+  ],
+  "district": "Darbhanga",
+  "festivals": [
+    "Janmashtami",
+    "Gaura Purnima",
+    "Ratha Yatra (typical ISKCON festivals)"
+  ],
+  "history": {
+    "dynasty": "None (modern ISKCON centre)",
+    "period": "Modern (exact founding/consecration year not published)",
+    "summary": "ISKCON (Hare Krishna) temple at Deorhi, Shubhankarpur, Darbhanga, dedicated to Sri Sri Radha Krishna and Baldev Ji (Balaram). It follows standard ISKCON daily worship with Mangala arati and evening arati; the centre's own website is iskcondarbhanga.com. NOTE: the founding/consecration year is not published in any source found - flag. Coordinates are a POI-level match corroborated by the temple's own site (26.16144, 85.887547). No reliable on-topic photograph was found after genuine image searching, so media is left empty."
+  },
+  "id": "iskcon-temple-darbhanga",
+  "latitude": 26.1614,
+  "longitude": 85.8875,
+  "media": [],
+  "name": "ISKCON Temple, Darbhanga",
+  "sources": [
+    "https://iskcondarbhanga.com/",
+    "https://www.top-rated.online/cities/Darbhanga/place/p/16673601/ISKCON%2C+Darbhanga",
+    "https://www.justdial.com/Darbhanga/Temples/nct-10475644"
+  ],
+  "state": "Bihar",
+  "town": "Darbhanga",
+  "town_description": "Darbhanga is a major city in north Bihar's Mithila region and the former seat of the Darbhanga Raj, whose palaces, forts, temples and ponds (such as Harahi and Dighi) dot the city. It hosts Lalit Narain Mithila University and Kameshwar Singh Darbhanga Sanskrit University, and its many Kali and Durga temples - including the famous Shyama Mai temple - make it a noted centre of Shakti worship.",
+  "tradition": "Hinduism (Gaudiya Vaishnavism - ISKCON)",
+  "travel": {
+    "airport": "Darbhanga Airport (nearest)",
+    "railway": "Darbhanga Junction",
+    "road": "Shubhankarpur (Deorhi), Darbhanga city; reachable by local auto and bus"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March (general)",
+    "opening_hours": "4:30 AM-9:00 PM daily (per iskcondarbhanga.com)"
+  }
+}

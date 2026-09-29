@@ -1,0 +1,53 @@
+{
+  "alternate_names": [
+    "Kodi Someswara Temple",
+    "Sri Someshwara Swamy Temple",
+    "Someshwara Temple, Mysore Palace"
+  ],
+  "deities": [
+    "Someshwara (Shiva)",
+    "Somasundari (Parvati)",
+    "Narayana (Vishnu)"
+  ],
+  "district": "Mysuru",
+  "festivals": [
+    "Maha Shivaratri (verify)",
+    "Dussehra/Dussera (the temple played a role in the Wodeyar-era Mysore Dasara festivities - verify)"
+  ],
+  "history": {
+    "dynasty": "Wodeyar / Chola (origins disputed)",
+    "period": "13th century per popular accounts (UNVERIFIED - conflicting claims)",
+    "summary": "CSV town 'Mysore' is correct (the city; temple at Agrahara, north of Mysore Palace). Also called Kodi Someswara Temple, this is a Shiva temple with three shrines in three chambers: Someshwara (Shiva) in the middle, Goddess Somasundari (Parvati) and Lord Narayana on the sides; navagrahas are also installed. CONFLICT: popular travel sources variously credit a 13th-century Wodeyar builder or a Chola origin with Wodeyar-era patronage - the Wodeyar dynasty began in 1399 CE, so a 13th-century Wodeyar attribution is implausible and requires verification. Maharani Vani Vilasa Sannidhana contributed to the temple's expansion. It played an important role in the Dussera festivities during the reign of Jayachamaraja Wodeyar. Coordinates are geocoder-level approximations for the Mysore Palace north area."
+  },
+  "id": "someswara-temple",
+  "latitude": 12.30224,
+  "longitude": 76.65383,
+  "media": [
+    "https://www.transindiatravels.com/wp-content/uploads/someswara-temple.jpg"
+  ],
+  "name": "Someswara Temple",
+  "sources": [
+    "https://www.trawell.in/karnataka/mysore/someswara-temple-mysore-palace",
+    "https://traveltriangle.com/blog/temples-in-mysore/",
+    "https://www.transindiatravels.com/karnataka/mysore/temples-in-mysore/",
+    "http://templestovisitinmaysore.blogspot.com/2020/05/10-amazing-temples-in-mysore-to-visit.html"
+  ],
+  "state": "Karnataka",
+  "town": "Mysuru",
+  "town_description": "Mysuru (Mysore), Karnataka's 'City of Palaces', was the historic capital of the Wodeyar dynasty and remains one of South India's major heritage destinations, anchored by the Mysore Palace and Chamundi Hills. The city is renowned for its Dussehra festival, silk, sandalwood, and its concentration of temples within and around the palace complex. The Someswara temple sits just north of the palace in the Agrahara quarter, about 2-3 km from the city railway station.",
+  "tradition": "Hinduism (Shaivism)",
+  "travel": {
+    "airport": "Mysuru Airport (~12 km - verify); Kempegowda International Airport, Bengaluru (~170 km) is the main gateway.",
+    "railway": "Mysuru Junction (~3 km - per trawell.in, verify); the temple is ~2 km from the KSRTC bus station (verify).",
+    "road": "Located north of Mysore Palace at Agrahara, Chamrajpura, Mysuru 570004; easily reached by city bus, auto-rickshaw or taxi within the city."
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March; during Maha Shivaratri or Dussehra the temple is at its liveliest (per traveltriangle.com).",
+    "opening_hours": "6:00 AM - 9:00 PM (per traveltriangle.com - verify)."
+  }
+}

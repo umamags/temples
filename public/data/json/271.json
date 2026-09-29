@@ -1,0 +1,47 @@
+{
+ "alternate_names": [
+  "BAPS Swaminarayan Temple Surat",
+  "Swaminarayan Mandir Adajan"
+ ],
+ "deities": [
+  "Bhagwan Swaminarayan (presiding deity)",
+  "Per one visitor account: shrines of Radha-Krishna, Ganesha and other deities in the multi-level complex -- full deity roster not published (verify)"
+ ],
+ "district": "Surat",
+ "festivals": [],
+ "history": {
+  "dynasty": "Modern -- BAPS Swaminarayan Sanstha",
+  "period": "Modern temple; founding/consecration date not published in the sources consulted (verify)",
+  "summary": "The CSV's generic 'Swaminarayan Temple, Surat' is documented here as the best-documented and geocoded candidate: BAPS Shri Swaminarayan Mandir at Lalji Nagar Society, Adajan Gam, near Sardar Bridge, Adajan, Surat 395009 (full-address geocode match). It is a modern multi-level temple with a lift, described by visitors as serene and well maintained, with a Thursday 9:30 PM satsang sabha. IDENTITY CAUTION: Surat has multiple Swaminarayan temples and the CSV gives no qualifier, so this match is provisional. One directory (5BestInCity) claims 'built in the 19th century' with nine domes ('Nau Gaz Pir'), but this is uncorroborated and inconsistent with the modern BAPS Adajan mandir -- flagged as unverified. No festival calendar specific to this mandir was found in consulted sources."
+ },
+ "id": "swaminarayan-temple-adajan-surat",
+ "latitude": 21.19112,
+ "longitude": 72.78314,
+ "media": [
+  "https://images.jdmagicbox.com/surat/43/0261p261std9043/catalogue/baps-swaminarayan-mandir-adajan-road-surat-temples-e1qpt.jpg"
+ ],
+ "name": "BAPS Shri Swaminarayan Mandir, Adajan",
+ "sources": [
+  "https://5bestincity.com/india/baps-shri-swaminarayan-mandir-temples-surat-gujarat/profileid=be7844a5a0",
+  "https://wanderlog.com/place/details/11232156/swami-narayan-temple",
+  "https://www.youtube.com/watch?v=jK8v-TfF1TQ"
+ ],
+ "state": "Gujarat",
+ "town": "Surat",
+ "town_description": "Surat, on the banks of the Tapi in south Gujarat, is a historic port city and one of India's great diamond-polishing and textile hubs. A trading centre since the Mughal era, it is among the country's fastest-growing cities.",
+ "tradition": "Swaminarayan Sampradaya (BAPS)",
+ "travel": {
+  "airport": "Surat International Airport (verify distance).",
+  "railway": "Surat railway station; the temple is in the Adajan area (verify distance).",
+  "road": "Veer Supremus Road / Lalji Nagar Society, Adajan Gam, near Sardar Bridge, Adajan."
+ },
+ "video": {
+  "audio": "",
+  "script": "",
+  "video_file": ""
+ },
+ "visitor_information": {
+  "best_time": "October to March; Thursday evening satsang at 9:30 PM (per visitor reviews).",
+  "opening_hours": "One directory lists 'Open 24 hours' (unverified -- likely a generic placeholder); Thursday satsang 9:30 PM per reviews -- verify locally."
+ }
+}

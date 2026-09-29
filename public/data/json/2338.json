@@ -1,0 +1,52 @@
+{
+  "alternate_names": [
+    "Agartala Jagannath Mandir",
+    "Jagannath Bari"
+  ],
+  "deities": [
+    "Lord Jagannath",
+    "Balabhadra",
+    "Subhadra"
+  ],
+  "district": "West Tripura",
+  "festivals": [
+    "Ratha Yatra (annual, celebrated with great fervour)"
+  ],
+  "history": {
+    "dynasty": "Manikya dynasty",
+    "period": "19th century (built by Maharaja Radha Kishore Manikya, r. 1896-1909)",
+    "summary": "DUPLICATE FLAG: CSV row seq 2338 duplicates the already-researched record = seq 1022 (id agartala-jagannath-mandir-jagannath-bari); no separate shrine exists under this CSV name. TOWN NOTE: the CSV town 'Agartala' is CORRECT. The task brief suggested the famous Jagannath temple is at Udaipur, Tripura, but all sources place Tripura's famous Jagannath shrine at AGARTALA, within the Ujjayanta Palace grounds (the Udaipur claim appears to be a confusion with the Tripura Sundari temple; no evidence of a major Jagannath temple at Udaipur, Tripura was found). Built in the 19th century by Maharaja Radha Kishore Manikya. Octagonal base with a four-storey tower and bright-orange stepped shikharas; a fusion of Hindu, Islamic and Buddhist elements described as 'Tripura style'. Folk belief (verify): the Neelmadhav idol consecrated at Puri was donated from this shrine. CONFLICT: one source (inheritage.foundation) dates construction to 1909 under Birendra Kishore Manikya, against the mainstream 19th-century Radha Kishore attribution - verify."
+  },
+  "id": "agartala-jagannath-mandir-jagannath-bari-duplicate",
+  "latitude": 23.8362757,
+  "longitude": 91.2798885,
+  "media": [
+    "https://www.gosahin.com/go/p/d/1522822535_Jagannath-Temple-Agartala1.jpg"
+  ],
+  "name": "Jagannath Temple, Agartala",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Agartala_Jagannath_Mandir",
+    "https://www.rvatemples.com/listings/agartala-jagannath-mandir/",
+    "https://www.theindiatourism.com/india-tourism/jagannath-temple.html",
+    "https://www.nayatrip.com/places/agartala/jagannath-temple-sightseeing-5651/",
+    "https://www.bharattemples.com/agartala-jagannath-mandir-agartala-tripura/"
+  ],
+  "state": "Tripura",
+  "town": "Agartala (Ujjayanta Palace grounds)",
+  "town_description": "Agartala is the capital of Tripura in West Tripura district, on the Haora river near the Bangladesh border; it was the capital of the Manikya kingdom and hosts the Ujjayanta Palace, Kunjaban Palace and several historic shrines.",
+  "tradition": "Vaishnavism",
+  "travel": {
+    "airport": "Maharaja Bir Bikram Airport, Agartala - about 12 km (verify).",
+    "railway": "Agartala railway station (verify).",
+    "road": "In the city centre within the Ujjayanta Palace grounds; auto-rickshaws (verify)."
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "June for Rath Yatra; October-March generally pleasant.",
+    "opening_hours": "Reported daily schedule 7:00 AM-11:00 AM, 2:00 PM-4:30 PM, 5:30 PM-8:00 PM (verify - from a single site's 2026 schedule)."
+  }
+}

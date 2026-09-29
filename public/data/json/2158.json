@@ -1,0 +1,53 @@
+{
+  "alternate_names": [
+    "Chaumukha Temple",
+    "Ranakpur Jain Temple",
+    "Adinath Temple"
+  ],
+  "deities": [
+    "Rishabhdev/Adinath (first Tirthankara), as a four-faced (chaumukha) white-marble idol facing the four directions",
+    "Subsidiary shrines to other Tirthankaras (Parshvanath, Neminatha, Suparshvanatha) in the same complex"
+  ],
+  "district": "Pali",
+  "festivals": [
+    "Mahavir Jayanti (Jain observance; specific celebrations at Ranakpur - verify)",
+    "Paryushana (verify)"
+  ],
+  "history": {
+    "dynasty": "Mewar (Sisodia, Rana Kumbha period); commissioned by the Porwal Jain minister Dharna Shah (Dhanna Shah)",
+    "period": "15th century (construction began 1439 AD under Rana Kumbha; took about 65 years to complete)",
+    "summary": "TRADITION FLAG: this is a JAIN temple (Śvetāmbara), not a Hindu one. The 'Adishwar Temple, Pali' of the CSV is the famous Chaumukha (four-faced) Temple at Ranakpur: every detail in the sources (15th century, 65 years' construction, 3 storeys, 80 domes, 29 halls, 1444 pillars, Nalinigulm Vimana, four-faced Adinath/Rishabhdev) matches Ranakpur, not a separate site. Legend holds that Dharna Shah, a Porwal Jain minister, dreamed of a celestial palace (Nalinigulm Vimana) and commissioned the temple with Rana Kumbha's patronage (condition: it be named after the king). The 6-ft chaumukha idol of Adinath sits in the garbhagriha; the 1444 carved marble pillars are all unique, the complex has 84 underground bhonyra chambers, and the Parshvanatha shrine's 1008-snake-head idol is famed. One of the five major Jain pilgrimage centres of India; ASI-protected. CSV TOWN FLAG: it is NOT in Pali city - it stands at Ranakpur in Desuri tehsil, about 90 km from Pali city. DUPLICATE FLAG: this CSV row describes the same temple as CSV row 2108; kept as a separate file per the one-file-per-row rule."
+  },
+  "id": "ranakpur-chaumukha-temple-duplicate",
+  "latitude": 25.11587,
+  "longitude": 73.4715,
+  "media": [
+    "https://www.tourism-rajasthan.com/wp-content/uploads/2019/05/rankpur-jain-temple01-768x370.jpg.webp"
+  ],
+  "name": "Adishwar Temple (Ranakpur Chaumukha Temple)",
+  "sources": [
+    "https://www.rajasthandirect.com/tourism/temples/adishwar-temple-pali",
+    "https://malayalam.nativeplanet.com/pali/adishwar-temple/",
+    "https://www.mashahur.com/blog/the-magnificent-ranakpur-jain-temple-rajasthan/",
+    "https://religions.iloveindia.com/jain-shrines/ranakpur-temple.html",
+    "https://hinduscriptures.com/ranakpur-jain-temples-rajasthan/"
+  ],
+  "state": "Rajasthan",
+  "town": "Ranakpur, Desuri tehsil (CSV town 'Pali' is wrong - the temple is at Ranakpur, ~90 km from Pali city)",
+  "town_description": "Ranakpur is a small village in Desuri tehsil of Pali district, nestled in a quiet valley of the Aravalli Range on the banks of the Maghai (Mavi) river. It is one of India's great Jain pilgrimage centres, surrounded by forested hills; the nearest railhead is Falna and the nearest airports are Udaipur and Jodhpur.",
+  "tradition": "Jainism (Śvetāmbara)",
+  "travel": {
+    "airport": "Udaipur Airport - about 90-100 km; Jodhpur Airport - about 150 km (verify).",
+    "railway": "Falna railway station - about 35 km; taxi/bus onward.",
+    "road": "On the Jodhpur-Udaipur highway via Sadri/Desuri; buses and taxis from Falna, Udaipur, and Jodhpur."
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March.",
+    "opening_hours": "Jain temple: typically 12:00 noon - 5:00 pm for non-Jain visitors (verify - confirm locally); photography fees and leather/mobile restrictions apply inside the complex."
+  }
+}

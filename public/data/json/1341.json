@@ -1,0 +1,53 @@
+{
+  "alternate_names": [
+    "Kapileswarsthan",
+    "Baba Kapileshwar Sthan",
+    "Kapileshwar Nath Mandir"
+  ],
+  "deities": [
+    "Lord Shiva",
+    "Parvati",
+    "Hanuman"
+  ],
+  "district": "Madhubani",
+  "festivals": [
+    "Mahashivratri",
+    "Shravan month (Shrawani Mela — Jalabhishek by devotees from across Bihar)"
+  ],
+  "history": {
+    "dynasty": "Legendary — associated with the Vedic sage Kapila; the linked Kapila Ashram is claimed by one source to date to the 8th–7th century BCE (UNVERIFIED)",
+    "period": "Ancient (legendary; no documented founding date)",
+    "summary": "Kapileshwar Temple is a Shiva temple at Kapileshwar Sthan in Kakraul village, Rahika block, Madhubani district (CSV town 'Madhubani' corrected to Kakraul/Rahika). Per local belief, the Vedic sage Kapila established the Shiva lingam here; the nearby Kapila Ashram at Kakraul is said to be where Kapila composed and taught the Sankhya Shastra, visited by King Janaka of Mithila. A large pond outside the temple was dug with the help of Raj Darbhanga, and its water is used for Jalabhishek. The walled complex holds the central Shiva temple plus Parvati and Hanuman shrines and old sculptures. NOTE: a separate 'Kapileshwar Mahadev Mandir' exists at Garhbaruari in Supaul district (also 'Kapileshwar Sthan') — distinct site; and one image result for 'Kapileshwar Temple' shows the Odisha shrine, so visual identity should be treated cautiously."
+  },
+  "id": "kapileshwar-temple-kapileswarsthan",
+  "latitude": 26.35061,
+  "longitude": 86.00053,
+  "media": [
+    "https://pilgrimdata.in/wp-content/uploads/2025/09/0-4.jpg"
+  ],
+  "name": "Kapileshwar Temple (Kapileswarsthan)",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Kapileshwar_Temple,_Bihar",
+    "https://en.wikipedia.org/wiki/Kapila_Ashram",
+    "https://mapcarta.com/N5224210522",
+    "http://onefivenine.com/india/villages/Madhubani/Madhubani/Rahika"
+  ],
+  "state": "Bihar",
+  "town": "Kakraul (Rahika)",
+  "town_description": "Rahika is a block and small town in Madhubani district in the Mithila region of northern Bihar, adjoining the district headquarters town of Madhubani. It is known for the Kapileshwar Sthan temple complex and the legendary Kapila Ashram at Kakraul village. Madhubani district is famous for Madhubani (Mithila) painting and its dense network of Shiva shrines.",
+  "tradition": "Hinduism (Shaivism)",
+  "travel": {
+    "airport": "Darbhanga Airport, ~35-40 km (verify)",
+    "railway": "Madhubani Railway Station, ~8-10 km (verify)",
+    "road": "Road from Madhubani town to Rahika/Kakraul (~8-10 km, verify)"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March; Shravan month and Mahashivratri for festivals",
+    "opening_hours": "No published timings; typical Shiva-temple hours ~5 AM-9 PM (verify)"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "alternate_names": [
+    "Gayatri Mandir",
+    "Maa Gayatri Temple",
+    "Gayatri Devi Temple"
+  ],
+  "deities": [
+    "Goddess Gayatri"
+  ],
+  "district": "Durg",
+  "festivals": [
+    "Gayatri Jayanti",
+    "Navratri",
+    "Diwali"
+  ],
+  "history": {
+    "dynasty": "None (modern)",
+    "period": "Late 20th century (verify)",
+    "summary": "A Gayatri Shaktipeeth of the All World Gayatri Pariwar (AWGP, founded by Pandit Shriram Sharma Acharya of Shantikunj, Haridwar), located at Sector 6, State Bank Colony, Bhilai, with daily havan and Gayatri-mantra sadhana. Bhilai has several Gayatri shrines (Sector 6 Shaktipeeth, Shanti Nagar/Katulbod, Sector 1); the generic CSV name 'Gayatri Mandir' most likely denotes this best-documented Sector 6 Shaktipeeth — identity flagged as probable, not certain. Coordinates are for the Sector 6 shrine (approximate)."
+  },
+  "id": "gayatri-shaktipeeth-sector-six-bhilai",
+  "latitude": 21.1834,
+  "longitude": 81.3363,
+  "media": [
+    "https://content.jdmagicbox.com/v2/comp/bhilai/f3/9999px788.x788.200929211345.x6f3/catalogue/gayatri-devi-temple-state-bank-colony-bhilai-temples-T90cRvoGQH-250.jpg"
+  ],
+  "name": "Gayatri Shaktipeeth",
+  "sources": [
+    "https://in.worldorgs.com/catalog/bhilai/tourist-attraction/gayatri-devi-temple-bhilai",
+    "http://www.Onefivenine.com/india/Listing/Locality/temples/Durg/Bhilai/Russian-Complex",
+    "https://www.justdial.com/Bhilai/Temples-in-Bhilai-3/nct-10475644"
+  ],
+  "state": "Chhattisgarh",
+  "town": "Bhilai",
+  "town_description": "Bhilai is an industrial city in Durg district, Chhattisgarh, built around the Bhilai Steel Plant (commissioned 1959 with Soviet collaboration); its planned sectors and township host numerous temples serving the steel-town population.",
+  "tradition": "Hindu (Gayatri Parivar / All World Gayatri Pariwar)",
+  "travel": {
+    "airport": "Swami Vivekananda Airport, Raipur (~35 km)",
+    "railway": "Bhilai Power House / Durg Junction",
+    "road": "Sector 6, State Bank Colony, Bhilai"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October-March",
+    "opening_hours": "4:30 AM - 8:30 PM daily (per AWGP directory listing; confirm locally)"
+  }
+}

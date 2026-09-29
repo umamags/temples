@@ -1,0 +1,47 @@
+{
+  "alternate_names": [
+    "Radhakrishna Mandir"
+  ],
+  "deities": [
+    "Radha",
+    "Krishna"
+  ],
+  "district": "Koderma",
+  "festivals": [
+    "Janmashtami"
+  ],
+  "history": {
+    "dynasty": "",
+    "period": "not documented",
+    "summary": "Listed as a tourist place on the official Koderma district website (koderma.nic.in): a Radha Krishna temple 'in the midst of beautiful lake connected with a long pathway to enter the temple for prayer', 'situated in the centre of the city on the national highway', 3 km from Koderma Railway station and 4 km from the DC Office. No built date, founder, or architecture documented on that page. A SEPARATE, distinct shrine: Dainik Bhaskar (30 Apr 2026) reported a three-day pran pratishtha of Radha-Krishna idols at the Sankat Mochan Mandir premises, Jhumri Telaiya — not necessarily this lake temple; the two should not be conflated. Coordinates are Koderma town-centre approximation."
+  },
+  "id": "radha-krishna-mandir-koderma",
+  "latitude": 24.43352,
+  "longitude": 85.53104,
+  "media": [
+    "https://images.bhaskarassets.com/webp/thumb/360x0/web2images/521/2026/04/30/app_177746160869f1e968c575e_437282.jpg"
+  ],
+  "name": "Radha Krishna Mandir",
+  "sources": [
+    "https://koderma.nic.in/tourist-place/radhakrishna-mandir/",
+    "https://www.bhaskar.com/local/jharkhand/koderma/jhumritilaiya/news/radha-krishna39s-pran-pratishtha-was-completed-amidst-vedic-chanting-a-ritual-that-lasted-for-three-days-dbp-137819310.html"
+  ],
+  "state": "Jharkhand",
+  "town": "Koderma",
+  "town_description": "Koderma, often referred to as Jhumri Telaiya, is a town in Jharkhand and the headquarters of Koderma district. Once known as the mica capital of India, it lies along National Highway 31 between Patna and Ranchi.",
+  "tradition": "Vaishnavite",
+  "travel": {
+    "airport": "Lok Nayak Jayaprakash Airport, Patna (~165 km)",
+    "railway": "Koderma Junction railway station (~3 km per district tourism site)",
+    "road": "Centre of the city on the national highway; 4 km from DC Office (koderma.nic.in)"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October-March; Janmashtami is the main festival",
+    "opening_hours": "Open daily; official hours not published - verify locally"
+  }
+}

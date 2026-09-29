@@ -1,0 +1,50 @@
+{
+  "alternate_names": [
+    "Maitri Bagh Zoo",
+    "Garden of Friendship",
+    "Matri Baag Zoo"
+  ],
+  "deities": [
+    "None (zoo and garden; no Hindu deity)"
+  ],
+  "district": "Durg",
+  "festivals": [
+    "Annual flower show (first Sunday of February)"
+  ],
+  "history": {
+    "dynasty": "None (20th-century civic project)",
+    "period": "Established 1972",
+    "summary": "FLAG - NOT A HINDU TEMPLE: Maitri Bagh ('Garden of Friendship') is a zoo and garden in Maroda Sector, Bhilai, established in 1972 by the Bhilai Steel Plant as a symbol of India-Soviet Union friendship; it is the largest and oldest zoo in Chhattisgarh (111 acres), with a musical fountain, toy train, artificial lake and Pragati Minar. No Hindu temple or shrine inside the premises is documented in any source found after genuine searching, so the 'Maitri Bagh Temple' CSV name does not correspond to any shrine - keep-or-drop decision needed for a Hindu-temples dataset. Probable CSV duplication: row 179 (Bhilai) and row 184 (Durg) describe the same place, since Bhilai lies in Durg district; the CSV also contains a third related row, 1390 'Maitri Bagh Shiv Mandir, Durg', for which no separate shrine could be found either. Coordinates below are for the Maitri Bagh zoo and are approximate."
+  },
+  "id": "maitri-bagh-bhilai",
+  "latitude": 21.1697,
+  "longitude": 81.3539,
+  "media": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Maitri_bagh4_%28cropped%29.JPG/1280px-Maitri_bagh4_%28cropped%29.JPG"
+  ],
+  "name": "Maitri Bagh",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Maitri_Bagh",
+    "https://www.triphobo.com/places/bhilai-india/maitri-bagh",
+    "https://peopleplaces.in/bhilai-best-places-to-visit/",
+    "https://edir24.com/b/v/in/bhilai/places-to-visit/ChIJm6tKsEUjKToRAo_Xjf3ZR_0"
+  ],
+  "state": "Chhattisgarh",
+  "town": "Bhilai",
+  "town_description": "Bhilai is Chhattisgarh's major industrial city in Durg district, built around the Bhilai Steel Plant set up in 1955 with Soviet assistance. Maitri Bagh ('Friendship Garden') commemorates that India-USSR accord and is Bhilai's most visited family attraction.",
+  "tradition": "None - not a Hindu temple (zoological park and garden)",
+  "travel": {
+    "airport": "Swami Vivekananda Airport, Raipur, about 42 km away",
+    "railway": "Bhilai railway station (nearest); Durg Junction is also close",
+    "road": "Maroda Sector, Bhilai 490006; reachable by city bus, auto-rickshaw or taxi"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March (mornings preferred)",
+    "opening_hours": "10:00 AM - 5:00 PM per travel listings (other sources list a nominal entry fee of Rs 10-20; verify on visit)"
+  }
+}

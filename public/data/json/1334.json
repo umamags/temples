@@ -1,0 +1,56 @@
+{
+  "alternate_names": [
+    "Deo Surya Mandir",
+    "Dev Surya Mandir",
+    "Deo Sun Temple",
+    "Devark",
+    "Dewark"
+  ],
+  "deities": [
+    "Surya (Sun God)",
+    "Vishnu (idol in the sanctum, not the original presiding deity)",
+    "Avalokiteshvara (idol in the sanctum, not the original presiding deity)"
+  ],
+  "district": "Aurangabad",
+  "festivals": [
+    "Chhath Puja (celebrated twice a year, in Chaitra and Kartika)",
+    "Durga Puja/Navaratri (per one source)"
+  ],
+  "history": {
+    "dynasty": "Chandravanshi King Bhairavendra Singh of Umga (1437 CE inscription); recovered by local Hindu chieftains after the Khalji-era invasions",
+    "period": "Present structure about 7th-8th century CE (see summary)",
+    "summary": "Ancient Sun temple in Deo town, Aurangabad district - the CSV town 'Deo (Sun Temple)' is corrected to 'Deo'. Oral tradition credits Vishwakarma with building it in one night; a Gupta-era inscription of 642 CE attests sun worship in the area but does not name this temple. Inscriptions and local tradition point to a structure of the 7th-8th century CE (ASI suggests 8th century), with a written history from the Pala/Sena periods: a 1437 CE inscription documents the dedication by King Bhairavendra, lists twelve of his ancestors, and credits local Hindu chieftains with recovering the temple after Muhammad bin Bakhtiyar Khalji's invasion. Uniquely among sun temples it faces WEST (the setting sun). The architecture mixes Nagara, Dravidian and Vesara forms under a tall shikhara; it is regarded as a birthplace of the Chhath tradition and was immortalised in the Daniell paintings (c. 1790). The Rudra Kund and Surya Kund tanks beside the road are reputed to cure leprosy and other ailments. NOTE: some scholars hypothesise a Buddhist origin (destroyed and converted by Bhairavendra) - this is a scholarly hypothesis, not established fact; the present sanctum's Vishnu and Avalokiteshvara idols are not the original presiding deity."
+  },
+  "id": "deo-sun-temple-deo-aurangabad",
+  "latitude": 24.658791,
+  "longitude": 84.437026,
+  "media": [
+    "https://mytempletrips.in/wp-content/uploads/2022/01/Sun-temple-Deo-Aurangabad-Bihar.jpg"
+  ],
+  "name": "Deo Sun Temple (Deo Surya Mandir)",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Deo_Surya_Mandir",
+    "https://mytempletrips.in/dev-surya-mandir-aurangabad-bihar-the-sun-temple-of-deo/",
+    "https://thetempleguru.com/listing/deo-sun-temple-aurangabad/",
+    "http://www.templetravel.info/2018/07/deo-sun-temple-at-aurangabad-in-bihar.html",
+    "https://velpu.com/temple/-DEO-KUND-SUN-TEMPLE/MTM5Mg=="
+  ],
+  "state": "Bihar",
+  "town": "Deo",
+  "town_description": "Deo is a small historic town in Aurangabad district, Bihar, about 20-22 km from Aurangabad city on the road towards Gaya. It is famed for the Deo Sun Temple and its Chhath fair, and holds the ruins of ancient forts from the period of Raja Jagannath Singh, when Deo was a flourishing administrative centre.",
+  "tradition": "Hinduism (Surya/Saura worship)",
+  "travel": {
+    "airport": "Gaya International Airport, about 63-81 km (sources differ: 63 km per onefivenine.com, 81 km per thetempleguru.com); Patna airport about 150-170 km",
+    "railway": "Anugraha Narayan Road railway station, about 16 km (per thetempleguru.com); Aurangabad Junction about 20 km (per tourtravelworld.com)",
+    "road": "Deo town, about 20-22 km from Aurangabad city; buses and taxis from Gaya, Patna and Aurangabad"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to February (per templetravel.info)",
+    "opening_hours": "6:00 AM to 9:00 PM (per templetravel.info)"
+  }
+}

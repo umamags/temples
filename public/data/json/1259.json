@@ -1,0 +1,50 @@
+{
+  "alternate_names": [
+    "Malini Than",
+    "Malinithan Temple"
+  ],
+  "deities": [
+    "Durga (Kechai-Khaiti)",
+    "Shiva"
+  ],
+  "district": "Lower Siang",
+  "festivals": [],
+  "history": {
+    "dynasty": "Chutia kingdom",
+    "period": "13th-14th century (art-historical span 10th-14th century)",
+    "summary": "An archaeological ruin site, not an active full temple (though it draws pilgrims and worship continues at the site); a Hindu/Shakta temple complex generally attributed to the Chutia kings of the 13th-14th century, with the cultural period of the remains placed between the 10th and 14th centuries. Excavations in 1968-1971 unearthed a granite (Asmamayai) temple plinth with sculptures of Indra on Airavata, Surya on a chariot, Kartikeya, Ganesha and a huge Nandi bull; the chief deity is identified with Durga in her Shakti form (Kechai-Khaiti, a tribal goddess served by Deori priests). The Krishna-Rukmini 'Malini' garland legend was implanted on the site by Srimanta Sankardev in the 16th century. Dating conflict: most sources say 13th-14th century; some travel sources say 14th-15th. CSV town 'Malinithan' is the site name, not a town; corrected to the nearest town, Likabali (about 1 km west)."
+  },
+  "id": "malinithan-temple-ruins",
+  "latitude": 27.6604,
+  "longitude": 94.71373,
+  "media": [
+    "https://upload.wikimedia.org/wikipedia/commons/b/b8/Malini_Than_temple_complex.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  ],
+  "name": "Malinithan Temple Ruins",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Malinithan",
+    "https://www.exploreourindia.com/malinithan-temple",
+    "https://holyshrines.in/malinithan-temple-likabali/",
+    "https://travel.siliconindia.com/travel-article/Malinithan--aid-941.html",
+    "http://www.99mustsee.com/India/Malinithan/How-to-Reach-Malinithan-Temple-5999",
+    "https://www.tourtravelworld.com/india/malinithan/"
+  ],
+  "state": "Arunachal Pradesh",
+  "town": "Likabali",
+  "town_description": "Likabali is a small town in Lower Siang district on the Assam-Arunachal border, about 1 km west of the Malinithan archaeological site and its nearest administrative centre. A gateway between the Assam plains and the Siang hills, it serves pilgrims and visitors heading to the Malinithan ruins and the nearby Akashiganga stream.",
+  "tradition": "Shaktism (Kechai-Khaiti tradition; early medieval)",
+  "travel": {
+    "airport": "Lilabari Airport (North Lakhimpur, Assam) or Dibrugarh Airport, Assam",
+    "railway": "Silapathar railway station, Assam",
+    "road": "By bus or car from Guwahati (Assam) or Itanagar; about 1 km east of Likabali"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March",
+    "opening_hours": "No published timings; visit during daylight hours"
+  }
+}

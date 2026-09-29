@@ -1,0 +1,56 @@
+{
+  "alternate_names": [
+    "Patal Bhairavi Temple",
+    "Barfani Ashram",
+    "Patal Bhairvi Dham"
+  ],
+  "deities": [
+    "Lord Shiva (large Shiva linga on the top level)",
+    "Goddess Patal Bhairavi (bottom level shrine)",
+    "Goddess Navadurga / Tripura Sundari (middle level shrine)",
+    "Nandi (large statue in front)"
+  ],
+  "district": "Rajnandgaon (CSV town 'Raigarh' is WRONG - see history summary)",
+  "festivals": [
+    "Maha Shivaratri (verify)",
+    "Navratri (verify)"
+  ],
+  "history": {
+    "dynasty": "None (modern, newly-built temple)",
+    "period": "Modern (exact construction year not published)",
+    "summary": "CSV TOWN FLAG: there is no known Barfani Dham in Raigarh. The famous Barfani Dham (Patal Bhairavi) is in the town of Rajnandgaon in Rajnandgaon district, about 40 km from Durg towards Nagpur. Documented here with the corrected location; correct or drop the CSV row. The temple is a modern, newly-built three-level structure: the bottom level houses the Patal Bhairavi shrine, the middle level the Navadurga/Tripura Sundari shrine, and the top level a large Shiva linga (one Chhattisgarh Tourism video describes it as 108 ft - verify) with a large Nandi statue in front. Wikipedia coordinates: 21.09278 N, 81.00611 E. Also known as Barfani Ashram, it is a significant Shaivite pilgrimage site in the region."
+  },
+  "id": "barfani-dham-rajnandgaon",
+  "latitude": 21.09278,
+  "longitude": 81.00611,
+  "media": [
+    "https://cgwebs.com/image/maa-patal-bhairvi-mandir-3005689.jpg"
+  ],
+  "name": "Barfani Dham, Raigarh",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Barfani_Dham",
+    "https://tripxl.com/blog/chhattisgarh-temples/",
+    "https://www.nativeplanet.com/travel-guide/travel-to-these-top-5-temples-in-chhattisgarh-004835.html",
+    "https://www.touristplaces.net.in/chhattisgarh/barfani-dham/",
+    "https://trek.zone/en/india/places/698800/barfani-dham",
+    "https://www.youtube.com/watch?v=7nIH2RcqtV0"
+  ],
+  "state": "Chhattisgarh",
+  "town": "Rajnandgaon (CSV town 'Raigarh' is WRONG - no Barfani Dham is known at Raigarh)",
+  "town_description": "Rajnandgaon is a city in Chhattisgarh on the Durg-Nagpur corridor, headquarters of Rajnandgaon district (carved out of Durg district in 1973). It was once a princely state and is known today for the Barfani Dham temple and the nearby Dongargarh Bamleshwari temple.",
+  "tradition": "Hinduism (Shaivism and Shaktism)",
+  "travel": {
+    "airport": "Swami Vivekananda International Airport, Raipur - about 70 km (verify).",
+    "railway": "Rajnandgaon Railway Station, close to the temple (verify).",
+    "road": "On G.E. Road in Rajnandgaon, on the Durg-Nagpur highway; buses and taxis from Durg and Raipur (verify)."
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March, when the weather is cooler (per touristplaces.net.in).",
+    "opening_hours": "5 AM - 9 PM (verify - reported by tripxl.com; not independently confirmed)."
+  }
+}

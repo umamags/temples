@@ -1,0 +1,56 @@
+{
+  "alternate_names": [
+    "Markandeshwara Mahadeva Temple",
+    "Markandeya Shiva Temple",
+    "Markandeswar Temple"
+  ],
+  "deities": [
+    "Shiva"
+  ],
+  "district": "Puri",
+  "festivals": [
+    "Maha Shivaratri",
+    "Rishi Panchami",
+    "Sankranti",
+    "Janmashtami",
+    "Sital Sasthi",
+    "Chandan Yatra",
+    "Balabhadra Janma"
+  ],
+  "history": {
+    "dynasty": "Ganga Dynasty",
+    "period": "12th century AD",
+    "summary": "Shiva shrine on the northern side of the Jagannath Temple, by the Markandeya Tank. Tradition says sage Markandeya meditated and installed a Shivalinga here after Shiva saved him from the sea; the present temple was built under the Ganga dynasty around the 12th century. It is counted among the Pancha Tirthas (five pilgrimage sites) of Puri and the Pancha Pandava Shiva temples of Puri (associated with Arjuna). The large Markandeya Tank beside it is used for ritual bathing, Pinda Dana and Mundan ceremonies."
+  },
+  "id": "markandeshwar-temple",
+  "latitude": 19.81012,
+  "longitude": 85.81564,
+  "media": [
+    "https://www.treebo.com/blog/wp-content/uploads/2020/01/Markandeshwar-Temple-Puri-768x1152.jpg"
+  ],
+  "name": "Markandeshwar Temple",
+  "sources": [
+    "https://bhubaneswartourism.in/markandeshwar-temple-puri",
+    "http://en.wikipedia.org/wiki/Markandeshwar_Temple",
+    "https://Shreekhetra.com/markandeswara.html",
+    "https://www.outlooktraveller.com/experiences/places-of-interest/beyond-jagannath-temple-a-spiritual-trail-through-puris-sacred-sites"
+  ],
+  "state": "Odisha",
+  "town": "Puri",
+  "town_description": "Puri is a coastal pilgrim city in Odisha, famed for the Jagannath Temple, one of the four Char Dham of Hinduism. It draws millions of pilgrims and tourists each year, especially during the annual Rath Yatra, and is known for its long golden beach. Puri lies about 60 km south of Bhubaneswar and is well connected by rail and road.",
+  "tradition": "Hinduism (Shaivism)",
+  "travel": {
+    "airport": "Biju Patnaik International Airport, Bhubaneswar, ~60 km (verify)",
+    "railway": "Puri railway station, ~2-3 km (verify)",
+    "road": "Markandeswar Sahi, off the Puri-Brahmagiri road; auto-rickshaws available from town centre"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October-March; Maha Shivaratri draws the largest crowds",
+    "opening_hours": "Reported 5:00 AM-12:00 PM and 4:00 PM-9:00 PM daily (verify)"
+  }
+}

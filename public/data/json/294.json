@@ -1,0 +1,50 @@
+{
+  "alternate_names": [
+    "Shree Takhteshwar Temple",
+    "Shri Takhteshwar Mahadev Mandir"
+  ],
+  "deities": [
+    "Lord Shiva"
+  ],
+  "district": "Bhavnagar",
+  "festivals": [
+    "Mahashivratri",
+    "Shravan month Mondays"
+  ],
+  "history": {
+    "dynasty": "Bhavnagar princely state (Gohil Rajput)",
+    "period": "1893 AD",
+    "summary": "Commissioned by Maharaja Takhtsinhji of Bhavnagar (Gohil clan) and completed in 1893; named after him. An all-white-marble temple in Gujarati style on a hillock in central Bhavnagar, supported on 18 ornately carved pillars, housing a three-eyed Shiva idol and a small Nandi statue; reached by a steep marble-stepped path. It commands a panoramic view of the city and the Gulf of Cambay and is one of the oldest and most prominent Shiva temples of Gujarat."
+  },
+  "id": "takhteshwar-temple-bhavnagar",
+  "latitude": 21.76617,
+  "longitude": 72.14591,
+  "media": [
+    "https://hblimg.mmtcdn.com/content/hubble/img/ttd_images/mmt/activities/t_trp/m_Bhavnagar_Takhteshwar_temple_1_l_424_640.jpg?im=Resize=(800,380)"
+  ],
+  "name": "Shree Takhteshwar Temple",
+  "sources": [
+    "https://www.trawell.in/gujarat/bhavnagar/takhteshwar-temple",
+    "https://www.tripadvisor.in/Attraction_Review-g679050-d3705509-Reviews-or50-Shree_Takhteshwar_Temple-Bhavnagar_Bhavnagar_District_Gujarat.html",
+    "https://myadhyatm.com/shree-takhteshwar-temple-panwadi-bhavnagar-gujarat/9-570/",
+    "https://velpu.com/temple/SHREE-TAKHTESHWAR-TEMPLE/MTI3OA=="
+  ],
+  "state": "Gujarat",
+  "town": "Bhavnagar",
+  "town_description": "Bhavnagar is a port city on the Gulf of Cambay in Saurashtra, Gujarat, and was the capital of the former Bhavnagar princely state founded in 1723 by Bhavsinhji Gohil.",
+  "tradition": "Hinduism (Shaivism)",
+  "travel": {
+    "airport": "Bhavnagar Airport, ~10 km",
+    "railway": "Bhavnagar Terminus, ~3 km",
+    "road": "~3 km from Bhavnagar railway station; road access to the hillock base"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March",
+    "opening_hours": "5:30 AM - 7:00 PM daily"
+  }
+}

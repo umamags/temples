@@ -1,0 +1,48 @@
+{
+    "alternate_names": [
+        "Kasar Devi Mandir",
+        "Kasardevi Temple"
+    ],
+    "deities": [
+        "Goddess Kasar Devi (a local form of Durga/Katyayani); a second group of shrines is dedicated to Shiva and Bhairav"
+    ],
+    "district": "Almora",
+    "festivals": [
+        "Kasar Fair (Kartik Purnima; thousands of devotees attend)"
+    ],
+    "history": {
+        "dynasty": "None documented (ancient shrine; local legend credits later patronage by the Katyuri kings)",
+        "period": "2nd century CE (widely repeated in tourism sources; archaeological backing is weak - verify)",
+        "summary": "DUPLICATE FLAG: this CSV row (seq 2432, 'Kasar Devi Temple | Almora | Uttarakhand') is the SAME temple already documented as seq 1130 (id kasar-devi-temple-kasar-devi) - the famous Kasar Devi Temple on the Kaashay Hills ~8 km from Almora town on the Binsar Road. No separate shrine named 'Kasar Devi Temple' in Almora town exists; this row duplicates the earlier record and should be merged or dropped. For the temple itself: dedicated to Goddess Kasar Devi; tradition from the Skanda Purana and Devi Bhagavata says goddess Kaushiki defeated the demons Shumbh and Nishumbh here. In 1890 Swami Vivekananda meditated here; in the 1960s-70s it became a hippie-movement focal point (Allen Ginsberg, Timothy Leary, Bob Dylan at nearby Crank's Ridge). Popular sources repeat a 'Van Allen Belt' geomagnetic-zone claim alongside Machu Picchu and Stonehenge without scientific consensus. The complex holds two groups of shrines (Devi; Shiva-Bhairav) with an Akhand Jyoti burning around the clock."
+    },
+    "id": "kasar-devi-almora-duplicate",
+    "latitude": 29.64174,
+    "longitude": 79.66192,
+    "media": [
+        "https://thetravelcurry.com/wp-content/uploads/2025/02/hilltop-temple-kasar-devi.jpg"
+    ],
+    "name": "Kasar Devi Temple",
+    "sources": [
+        "https://www.chardhamtours.in/uttarakhand/almora/kasar-devi-temple_89.html",
+        "https://www.chardhamtour.in/blog/kasar-devi/",
+        "https://discoverwithdheeraj.com/kasar-devi-the-most-complete-travel-guide/"
+    ],
+    "state": "Uttarakhand",
+    "town": "Kasar Devi, Almora district (CSV town 'Almora' is imprecise - the temple is ~8 km from Almora town on the Binsar Road)",
+    "town_description": "Kasar Devi is a small ridge village on the pine-covered Kaashay Hills at ~2,116 m, about 8 km from Almora. Named for its temple, it is famed for 360-degree views of the Nanda Devi and Trishul ranges, the Crank's Ridge hippie-era settlement, and its calm atmosphere that has drawn meditators and artists for over a century.",
+    "tradition": "Shaktism (Devi worship)",
+    "travel": {
+        "airport": "Pantnagar Airport (~124 km per travel guide); road onward via Almora",
+        "railway": "Kathgodam railway station (~88 km per one guide; ~83 km per another - verify), then road to Almora and on to Kasar Devi",
+        "road": "8 km from Almora town on the Binsar Road by taxi or local bus; the final approach is a steep ~500 m climb of 100-150 stone steps"
+    },
+    "video": {
+        "audio": "",
+        "script": "",
+        "video_file": ""
+    },
+    "visitor_information": {
+        "best_time": "March to June and October to December; the Kasar Fair at Kartik Purnima (Oct-Nov) draws the largest crowds",
+        "opening_hours": "No official published timings (verify locally)"
+    }
+}

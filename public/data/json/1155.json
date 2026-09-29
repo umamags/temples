@@ -1,0 +1,39 @@
+{
+  "alternate_names": [],
+  "deities": [],
+  "district": "Howrah",
+  "festivals": [],
+  "history": {
+    "dynasty": "unknown",
+    "period": "unknown",
+    "summary": "IDENTITY UNVERIFIED: no temple named 'Gadiara Temple' could be identified in Gadiara, Howrah, after multiple web searches, and the geocoder holds no such POI. Gadiara is known as a riverside picnic spot at the Hooghly-Rupnarayan confluence, whose attractions are Fort Mornington (built by Robert Clive after the 1757 Plassey victory to guard against river pirates; ruined in the 1942 flood), an old lighthouse, a West Bengal Tourism Development Corporation tourist lodge, the Ramkrishna Mission Ashrama, and the Mahaprabhu Temple at nearby Pichhaldaha village - none of which matches this CSV name. This entry therefore documents the Gadiara locality itself; coordinates are the town's (ferry ghat area, Shyampur-I, PIN 711314). MEDIA LEFT EMPTY: no reliable temple photograph exists for an unverified identity. CSV needs correction or redefinition of this row (e.g. to Ramkrishna Mission Ashrama, Gadiara)."
+  },
+  "id": "gadiara-temple-howrah",
+  "latitude": 22.2153,
+  "longitude": 88.0521,
+  "media": [],
+  "name": "Gadiara Temple",
+  "sources": [
+    "https://getbengal.com/gadiara-where-the-rivers-meet/",
+    "https://www.myhmc.in/gadiara/",
+    "https://wikitravel.org/en/Gadiara"
+  ],
+  "state": "West Bengal",
+  "town": "Gadiara",
+  "town_description": "Gadiara is a riverside town in Shyampur block, Howrah district, at the confluence of the Hooghly and Rupnarayan rivers (the Damodar joins nearby) before they flow on to the sea. A British-era fort (Fort Mornington, built by Robert Clive after Plassey in 1757 against river pirates) stands in ruins here after the 1942 flood; there is also an old lighthouse and a state tourist lodge. About 80-85 km from Kolkata, it is a popular picnic and day-trip spot, with a ferry across the river to Geonkhali in Purba Medinipur.",
+  "tradition": "unknown",
+  "travel": {
+    "airport": "Netaji Subhas Chandra Bose International Airport, Kolkata (~100 km via Kolkata) (verify)",
+    "railway": "Bagnan station (Howrah-Kharagpur line); then bus/auto via Shyampur to Gadiara",
+    "road": "~80-85 km from Kolkata; regular buses from Esplanade; drive NH-16 to Bagnan, then via Shyampur"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March",
+    "opening_hours": "Not applicable - no temple identified; the riverside picnic area is open through the day"
+  }
+}

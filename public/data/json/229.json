@@ -1,0 +1,63 @@
+{
+  "alternate_names": [
+    "Shree Ramnath Damodar Sansthaan",
+    "Damodar Sansthaan",
+    "Shree Dambab (popular name of the deity)"
+  ],
+  "deities": [
+    "Lord Damodar (form of Shiva; fondly called 'Dambab')",
+    "Shree Ramnath",
+    "Shree Lakshmi Narayan",
+    "Shree Chamundeshwari",
+    "Shree Mahakali",
+    "Shree Mahesh",
+    "Shree Mulveer",
+    "Shree Nirakar"
+  ],
+  "district": "South Goa",
+  "festivals": [
+    "Shigmo (week-long spring festival of colours, culminating in the Gulalotsav on Phalgun pournima)",
+    "Kartik Poornima",
+    "Ashwin Poornima",
+    "Mahashivratri",
+    "Panair folk festival",
+    "Rathotsava",
+    "Vanabhojan",
+    "Pindika Jirmoddhar Day"
+  ],
+  "history": {
+    "dynasty": "Portuguese colonial period (relocated 1565-1567); sansthaan claims ~447 years of history",
+    "period": "16th century to present",
+    "summary": "CSV town is WRONG: the present temple is at Zambaulim, Quepem taluka, South Goa - not Margao. Margao (Mathagram/Madgaon) is the temple's ORIGINAL site: the Jesuits erected the Church of the Holy Ghost on the temple's ruins in 1565 and the idol of Damodar was removed to Zambaulim; the 1567 destructions in the Sashti taluk forced the mahajans to shift the deities (Ramnath, Damodar, Lakshmi Narayan, Chamundeshwari, Mahakali, Mahesh) to the forests of Zambaulim. Local legend says the sacred Shiva linga could not be moved whole, so the upper portion was carried to Zambaulim and installed in the garbhagriha. The temple stands on the banks of the sacred Kushavati river (believed to have healing powers) and belongs to the Gowda Saraswat Brahmin (GSB) community, administered under the Gokarna Partagali Jeevottam Math; accommodation is available for community members. The week-long Shigmo festival (over 500 years old per local tradition) is handed over to the locals of Margao each year. Timings conflict between sources: itsgoa.com reports 5:30 AM-9:45 PM, while the sansthaan's own listing shows 6:00 AM-8:30 PM (Mondays till 10:30 PM)."
+  },
+  "id": "damodar-temple-zambaulim-quepem",
+  "latitude": 15.186599,
+  "longitude": 74.094645,
+  "media": [
+    "https://lightuptemples.com/wp-content/uploads/2024/05/2022-09-13-1.jpg"
+  ],
+  "name": "Shree Ramnath Damodar Temple (Damodar Sansthaan)",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Damodar_Sansthaan",
+    "https://swarajyamag.com/amp/story/magazine/goas-gulalotsav-when-the-lord-of-zambaulim-vacations-and-paints-the-town-pink-quite-literally",
+    "https://itsgoa.com/damodar-temple-zambaulim-goa"
+  ],
+  "state": "Goa",
+  "town": "Zambaulim",
+  "town_description": "Zambaulim is a village in Quepem taluka, South Goa, on the banks of the sacred Kushavati river. It is a major Hindu pilgrimage centre, best known as the home of the Damodar temple and its week-long Shigmo (Gulal) festival that draws the people of Margao every Phalgun.",
+  "tradition": "Hindu, Shaivite (GSB community)",
+  "travel": {
+    "airport": "Goa International Airport, Dabolim (~40 km) or Manohar International Airport, Mopa",
+    "railway": "Madgaon Junction (~15-20 km)",
+    "road": "Accessible by road via Quepem and Margao; buses and taxis run from Margao and Ponda."
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March; Shigmo (Phalgun, Feb-March) for the Gulalotsav.",
+    "opening_hours": "Reported as 5:30 AM-9:45 PM by one source; the sansthaan's own listing shows 6:00 AM-8:30 PM (Monday till 10:30 PM). Verify before visiting."
+  }
+}

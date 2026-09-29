@@ -1,0 +1,60 @@
+{
+  "alternate_names": [
+    "Mahaprabhu Vasudev Rai Temple",
+    "Mahamaya Temple, Korambe"
+  ],
+  "deities": [
+    "Krishna (as Mahaprabhu Vasudev Rai)",
+    "Lakshmi-Narayana",
+    "Suryanarayan",
+    "Radha-Krishna",
+    "Shiva",
+    "Parvati",
+    "Ganesha",
+    "Hanuman"
+  ],
+  "district": "Lohardaga",
+  "festivals": [
+    "Kartik Purnima (1008-diya aarti)",
+    "Vaishakh Purnima (Manda Mela with fire-walking)",
+    "Ram Navami",
+    "Holi",
+    "Rath Yatra",
+    "Krishna Janmashtami"
+  ],
+  "history": {
+    "dynasty": "Nagvanshi (original structure, 1463); present temple built 1969",
+    "period": "1463 (original mud temple by a Nagvanshi ruler of Chet Karna); present structure 1969",
+    "summary": "The only 'Mahamaya' temple documented in Lohardaga district is the Korambe Mahamaya Prabhu Mandir at Korambe, ~25 km from Lohardaga town (CSV town 'Lohardaga' is the district HQ, not the actual location; corrected here). IMPORTANT: despite 'Mahamaya' in its name, the main deity is NOT the goddess Mahamaya - it is a Vaishnava shrine of Sri Krishna as Mahaprabhu Vasudev Rai, with a beautiful black Ashtadhatu murti; 'Mahamaya Prabhu' appears to be the shrine's epithet. History: the Ashtadhatu murti was worshipped after Ratu Maharaj received a dream-command; the original mud structure was built by a Nagvanshi ruler of Chet Karna in 1463; the murti was earlier at Math Tangra Gulaichi on the Koel river; the present temple dates to 1969. Unique: the murti is carved from Neelmani granite with clay-drawn swastika designs. Do not confuse with the Mahamaya Devi temple at Hapamuni in Gumla district. Coordinates are for Korambe village (Senha block), approximate within the village."
+  },
+  "id": "korambe-mahamaya-prabhu-mandir",
+  "latitude": 23.31627,
+  "longitude": 84.64472,
+  "media": [
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoByOzunbwT9mrxd8QW-kRthcYiZOosDfkrc5_56db2Yhx3TFB1Zl4wm_sBlJVqHnrWO8Wgv5GzY0lc7gak0-Vx2imj47w-E4193N2v2xzP0SMN1DQf8gb7_Gg1_xAJXdXOyqL1fdFy9A/s400/Korambe-Mahamaya-Prabhu-Man.jpg"
+  ],
+  "name": "Korambe Mahamaya Prabhu Mandir",
+  "sources": [
+    "https://www.hindu-blog.com/2018/05/korambe-mahamaya-prabhu-mandir-at.html",
+    "https://www.indiastatdistricts.com/jharkhand/lohardaga-district",
+    "https://www.travely.co.in/2015/02/travel-jharkhand.html"
+  ],
+  "state": "Jharkhand",
+  "town": "Korambe",
+  "town_description": "Korambe is a village in Senha block of Lohardaga district, about 25 km from Lohardaga town, known for the Mahamaya Prabhu Krishna shrine and old fort ruins. Lohardaga itself is the district headquarters town.",
+  "tradition": "Vaishnava",
+  "travel": {
+    "airport": "Birsa Munda Airport, Ranchi (~80 km)",
+    "railway": "Lohardaga (LAD) station",
+    "road": "~25 km from Lohardaga town by road"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October-March; Kartik Purnima and Vaishakh Purnima (Manda Mela) are the major festivals",
+    "opening_hours": "Not published online (verify locally)"
+  }
+}

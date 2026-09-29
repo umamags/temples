@@ -1,0 +1,52 @@
+{
+  "alternate_names": [
+    "Mudukuthore Mallikarjuna Swamy Temple",
+    "Mallikarjuneshwara Temple",
+    "Sri Mudukuthore Mallikarjuneshwara Temple"
+  ],
+  "deities": [
+    "Mallikarjuna (Shiva)",
+    "Bhramarambika (Parvati)"
+  ],
+  "district": "Mysuru",
+  "festivals": [
+    "Panchalinga Darshana (once every 12 years, alongside four other temples at Talakadu: Vaidhyanatheshwara, Pathaleshwara, Maraleshwara, Arakeshwara)",
+    "Maha Shivaratri (verify)"
+  ],
+  "history": {
+    "dynasty": "Legendary / antiquity uncertain",
+    "period": "Claimed 1500+ years old (UNVERIFIED - no inscriptional evidence cited in sources)",
+    "summary": "CSV town 'Mysore' corrected: this is the Mudukuthore Mallikarjuna Temple at Mudukuthore (officially Thirumalakudu Bettahalli), Tirumakudal Narsipur taluk, Mysuru district, on the banks of the Kaveri (~30 km southeast of Mysuru). IDENTITY WARNING: this is distinct from the famous Hoysala Mallikarjuna Temple at Basaralu (built 1234 CE, Mandya district, ASI monument) - do not conflate. The temple stands on Somagiri Hill; local legend says Arjuna sculpted the Shiva idol here during the Mahabharata period and worshipped it with mallika flowers, giving the name Mallikarjuna. Popular sources claim the temple is over 1500 years old, but no inscriptional or scholarly evidence was found to support a founding date (UNVERIFIED). It is one of the five Panchalinga temples of the region (the other four at Talakadu), jointly visited once every 12 years during the Panchalinga Darshana. Consort deity: Sri Bhramarambika. Coordinates are geocoder-level approximations."
+  },
+  "id": "mallikarjuna-temple-mudukuthore",
+  "latitude": 12.22538,
+  "longitude": 77.0436,
+  "media": [
+    "https://mysoretourpackage.co.in/images/sightseeing-places/mudukuthore-mallikarjuna-temple-mysore-sightseeing-tour-package-entryfee-timings-header.jpg"
+  ],
+  "name": "Mallikarjuna Temple",
+  "sources": [
+    "https://www.mysoretourism.org.in/mudukuthore-mallikarjuna-temple-mysore",
+    "http://lightuptemples.com/mysore-mudukuthore-mallikarjuna-temple/",
+    "https://www.mysorecitytour.in/mudukuthore-mallikarjuna-temple.html",
+    "https://en.wikipedia.org/wiki/Mallikarjuna_Temple,_Basaralu"
+  ],
+  "state": "Karnataka",
+  "town": "Mudukuthore",
+  "town_description": "Mudukuthore (officially Thirumalakudu Bettahalli) is a village in Tirumakudal Narsipur taluk of Mysuru district, on the banks of the River Kaveri, close to the pilgrimage town of Talakadu. Its name comes from the river's diversion here: 'muduku' (diversion) and 'thore' (flows forward). The village is known for the Mallikarjuna temple on Somagiri Hill, a scenic Kaveri-side pilgrimage centre, and is visited together with the Panchalinga temples of Talakadu.",
+  "tradition": "Hinduism (Shaivism)",
+  "travel": {
+    "airport": "Mysuru Airport (~35 km - verify); Kempegowda International Airport, Bengaluru (~180 km - verify).",
+    "railway": "Mysuru Junction (~30 km - verify); onward by road/taxi.",
+    "road": "On the banks of the Kaveri near Talakadu, Tirumakudal Narsipur taluk; reached by road from Mysuru via the Talakadu route (verify distances)."
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March; the Panchalinga Darshana (once every 12 years) is the major event.",
+    "opening_hours": "UNVERIFIED - no published timings found; assume daytime temple hours (verify before visiting)."
+  }
+}

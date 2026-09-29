@@ -1,0 +1,53 @@
+{
+  "alternate_names": [
+    "Shree Shantadurga Fatarpekarin Prassan",
+    "Shree Shantadurga Fatarpekarin Sausthan"
+  ],
+  "deities": [
+    "Goddess Shantadurga (Fatarpekarin)",
+    "Shree Panchpurush (surrounding math)",
+    "Shree Paikdev (surrounding math)",
+    "Shree Bhumipurush (surrounding math)",
+    "Shree Saptakoteshwar (surrounding math)",
+    "Shree Kalbhairav Sidhmadhavnath (surrounding math)"
+  ],
+  "district": "South Goa",
+  "festivals": [
+    "Navratri (typical for Shantadurga temples; specific festival calendar not published on the temple's official site)"
+  ],
+  "history": {
+    "dynasty": "14th century origins per temple tradition",
+    "period": "1365-1370 (per temple's official history)",
+    "summary": "CSV town is WRONG: this temple is at Fatorpa, Quepem taluka, South Goa - not Margao. DISTINCT FROM the neighbouring Shree Shantadurga Kunkallikarin Devasthan at the same village (the famous Fatorpa zatra with its Hathi Ambari, Fulancho Rath, Vijayrath and Maharath chariot processions belongs to the Kunkallikarin temple, not this one); official sources treat the two as separate temples and list them as separate entries among Goa's Shantadurga shrines. Per the temple's own official history (shreeshantai.weebly.com), Kshatriya people of Narve Diwadi, fleeing violence, migrated to Fatorpa with all their deities in 1365-1370, and from then the shrine has been known as 'Shree Shantadurga Fatarpekarin Prassan'. The complex is surrounded by small maths: Shree Panchpurush, Shree Paikdev (protector of the village and its deities), Shree Bhumipurush, Shree Saptakoteshwar and Shree Kalbhairav Sidhmadhavnath. The temple's official website also lists www.shantadurgafatarpekarin.com; contact +91 832 267 0864. CAUTION: coordinates are approximate (Fatorpa village centre) - no POI-level coordinates found; geocoders resolve the name to the neighbouring Kunkallikarin temple. The temple's festival calendar was not found in consulted sources - do not import the Kunkallikarin zatra dates."
+  },
+  "id": "shree-shantadurga-fatarpekarin-temple-fatorpa-quepem",
+  "latitude": 15.14925,
+  "longitude": 74.00354,
+  "media": [
+    "https://shreeshantai.weebly.com/uploads/2/6/8/7/26874141/1852161_orig.jpg"
+  ],
+  "name": "Shree Shantadurga Fatarpekarin Temple",
+  "sources": [
+    "http://shreeshantai.weebly.com/history-of-temple.html",
+    "https://en.wikipedia.org/wiki/Shantadurga",
+    "https://www.justdial.com/Goa/Shri-Shantadurga-Fatarpekarin-Temple-Fatorpa/0832PX832-X832-180827114418-P4W5_BZDET"
+  ],
+  "state": "Goa",
+  "town": "Fatorpa",
+  "town_description": "Fatorpa (also Fatarpa) is a village in Quepem taluka, South Goa, about 19 km from Margao; its name derives from 'fator' (stone). It is notable for housing two major Shantadurga temples side by side - the Fatarpekarin and the Kunkallikarin Devasthan.",
+  "tradition": "Hindu, Shakta",
+  "travel": {
+    "airport": "Goa International Airport, Dabolim (~45 km) or Manohar International Airport, Mopa",
+    "railway": "Madgaon Junction (~20 km)",
+    "road": "Accessible by road via Cuncolim and Quepem; buses and taxis from Margao."
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March.",
+    "opening_hours": "7:00 AM to 7:30 PM daily (Sunday till 8:00 PM), per Justdial listing."
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "alternate_names": [
+    "Lingaraja Temple",
+    "Tribhuvaneswara Temple"
+  ],
+  "deities": [
+    "Lingaraja (Shiva, worshipped as Harihara)",
+    "Parvati (as Annapurna/Girija)"
+  ],
+  "district": "Khordha",
+  "festivals": [
+    "Maha Shivaratri",
+    "Ashokashtami (Rukuna Rath)"
+  ],
+  "history": {
+    "dynasty": "Somavamshi (with later Eastern Ganga additions)",
+    "period": "11th century CE (main structure); references to the shrine go back to the 7th century",
+    "summary": "The largest and most prominent temple of Bhubaneswar, dedicated to Shiva as Lingaraja (\"King of Lingas\"), worshipped as Harihara — a syncretic Shiva-Vishnu form reflecting Odisha's combined Shaiva-Vaishnava tradition. The existing Kalinga-style structure was built in the 11th century by the Somavamshi king Jajati Keshari, with later additions by the Eastern Gangas; the region, Ekamra Kshetra, is celebrated in the Ekamra Purana (13th c.). The central 55 m vimana is the tallest structure in Bhubaneswar. Unlike most old temples here, it is fully active in worship; non-Hindus are not admitted inside the sanctum."
+  },
+  "id": "lingaraj-temple",
+  "latitude": 20.24108,
+  "longitude": 85.83586,
+  "media": [
+    "https://holxo-web-s3.s3.amazonaws.com/media/holidays/coverimages/hol_cvimg_land_1587736170_9562018__Lingraj_Temple.jpg"
+  ],
+  "name": "Lingaraj Temple",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Lingaraja_Temple",
+    "https://utsavapp.in/gyan/temples-of-bharat/lingaraj-temple-bhubaneshwar-history-and-significance",
+    "https://www.astroved.com/astropedia/en/temples/east-india/lingaraj-temple",
+    "https://vajiramandravi.com/upsc-exam/wp-admin/admin-ajax.php?action=vjrm_pdf_download&post_id=5986"
+  ],
+  "state": "Odisha",
+  "town": "Bhubaneswar",
+  "town_description": "Bhubaneswar, the capital of Odisha, is known as the \"Temple City of India\" for its hundreds of ancient temples from the 7th to 13th centuries, the greatest concentration of Kalinga-style architecture anywhere. Once called Ekamra Kshetra (the mango-forest shrine), it sits on the coastal plain between the Mahanadi delta and the Eastern Ghats. Modern Bhubaneswar is a planned administrative and IT hub built around its ancient old town, home to Lingaraj, Puri's Jagannath pilgrims' transit stop, and Biju Patnaik International Airport.",
+  "tradition": "Hinduism (Shaivism, with Vaishnava syncretism)",
+  "travel": {
+    "airport": "Biju Patnaik International Airport, Bhubaneswar, ~5 km (verify)",
+    "railway": "Bhubaneswar Junction ~3 km (verify); city buses and autos serve Old Town",
+    "road": "In Old Town; NH-16 passes through the city; well connected by road to Puri (~60 km) and Konark (~65 km)"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March; festival periods (Shivaratri, Ashokashtami) are very crowded",
+    "opening_hours": "Around 5:30 am to 9:00 pm daily (verify); non-Hindus restricted to the viewing platform outside"
+  }
+}

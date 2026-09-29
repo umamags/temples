@@ -1,0 +1,51 @@
+{
+  "alternate_names": [
+    "Pahad Mandir",
+    "Shri Sankat Mochan Bajrang Bali Mandir",
+    "Gajmar Pahadi Hanuman Mandir"
+  ],
+  "deities": [
+    "Hanuman (Bajrangbali, Sankat Mochan)"
+  ],
+  "district": "Raigarh",
+  "festivals": [
+    "Hanuman Jayanti",
+    "Tuesdays and Saturdays (special Hanuman worship days)"
+  ],
+  "history": {
+    "dynasty": "None (modern; built 1980 with public contribution)",
+    "period": "1980 CE",
+    "summary": "Hanuman temple on Gajmar Pahadi in Raigarh, locally called the Pahad (hill) Mandir. Built in 1980 with public contribution (jan-sahyog), it is run by the Pahad Mandir Seva Samiti (Regd.). It is famous across the region as the Sankat Mochan Bajrang Bali Mandir. A major renovation was announced in 2026 with plans for a 51-ft bronze Hanuman statue; the bhoomi-poojan for the works was scheduled for 7 May 2026 by the state's finance minister (per a Kelo Pravah report of April 2026). OPENING-HOURS CONFLICT: the temple's official Facebook listing gives Mon 7am-7pm, Tue & Sat 7am-8pm, rest 7am-7pm, while Meta AI place data shows 6am-9pm daily - verify locally."
+  },
+  "id": "pahadi-mandir-raigarh",
+  "latitude": 21.889245,
+  "longitude": 83.421212,
+  "media": [
+    "https://kelopravah.news/wp-content/uploads/2026/04/PahadMandirRaigarhKelopravah.webp"
+  ],
+  "name": "Pahadi Mandir, Raigarh",
+  "sources": [
+    "https://kelopravah.news/pahar-mandir-raigarh-hanuman-statue-op-choudhary/",
+    "https://www.bizlaza.com/IN/Raigarh/964515350339023/Shri-Sankat-Mochan-Bajrang-Bali-Mandir%2C-Gajmar-Pahadi%2C-Raigarh-Chhattisgarh",
+    "https://www.justdial.com/Raigarh-Chhattisgarh/Temples-in-Garh-Umariya/nct-10475644",
+    "https://www.youtube.com/shorts/6QJ7fnO2CoE"
+  ],
+  "state": "Chhattisgarh",
+  "town": "Raigarh",
+  "town_description": "Raigarh is an industrial city in northern Chhattisgarh on the Kelo river, once the seat of a Gond princely state. It is known for its kosa silk, Gond tribal culture and Dhokra craft. Nearby attractions include Ram Jharna waterfall, the Gomarda wildlife sanctuary and the Chandrahasini Devi temple at Chandrapur.",
+  "tradition": "Hinduism (Vaishnavism-adjacent; Hanuman devotion)",
+  "travel": {
+    "airport": "Swami Vivekananda International Airport, Raipur - about 230 km by road (roughly 5 hours' drive) (verify).",
+    "railway": "Raigarh Railway Station, in the city (verify).",
+    "road": "On Gajmar Pahadi within Raigarh city (Collectorate Marg / Chakradhar Nagar side); reachable by local auto-rickshaw and taxi (verify)."
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March; Hanuman Jayanti and Tuesdays/Saturdays draw the largest crowds.",
+    "opening_hours": "CONFLICT: official listing - Mon, Wed, Thu, Fri, Sun 7am-7pm; Tue & Sat 7am-8pm. Another listing shows 6am-9pm daily. Verify locally."
+  }
+}

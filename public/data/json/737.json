@@ -1,0 +1,41 @@
+{
+  "alternate_names": [],
+  "deities": [
+    "Shirdi Sai Baba (presumed - identity unconfirmed; no verified Sai Baba shrine found in Kohima)"
+  ],
+  "district": "Kohima",
+  "festivals": [],
+  "history": {
+    "dynasty": "Not documented (identity unconfirmed)",
+    "period": "Not documented (identity unconfirmed)",
+    "summary": "IDENTITY UNCONFIRMED — keep-or-verify decision needed. No verified 'Shirdi Sai Baba Mandir' (or any Sai Baba temple) in Kohima, Nagaland was found in any source consulted after genuine searching (web searches for the exact name, quoted variants, Justdial's 'Famous Temples in Kohima' listing, and the onefivenine Hindu-temples-in-Kohima directory). Kohima's documented Hindu temples are Durgabari Kohima (PWD Colony), the Nepali Mandir (P.R. Hill), Kohima Hindu Mandir, the Gorkha Singhadevi/Singh Devi Mandir (Upper Chandmari), the Radha Krishna Temple (Phesama), and the kohima satsang — no Sai Baba shrine appears in any of these listings. The CSV row may name a small unlisted prayer hall, or it may be an error. Coordinates are the Kohima city pin and are NOT the shrine's location; media is empty because no reliable image exists. Verify on the ground before publishing."
+  },
+  "id": "shirdi-sai-baba-mandir-kohima-unconfirmed",
+  "latitude": 25.66288,
+  "longitude": 94.09311,
+  "media": [],
+  "name": "Nagaland Shree Shirdi Sai Baba Mandir (identity unconfirmed)",
+  "sources": [
+    "https://www.justdial.com/Kohima/Temples/nct-10475644",
+    "http://www.onefivenine.com/india/Listing/Town/temples/Kohima/Kohima",
+    "https://wanderon.in/blogs/temples-in-kohima"
+  ],
+  "state": "Nagaland",
+  "town": "Kohima (identity unconfirmed - coordinates are the city pin, not the shrine)",
+  "town_description": "Kohima is the capital of Nagaland in the Naga Hills of north-east India, known for the Kohima War Cemetery, the Naga Heritage Village at Kisama, and the Hornbill Festival (1-10 December). The population is overwhelmingly Naga and Christian; Hindu temples are few and serve the non-Naga community - Durgabari, the Nepali Mandir on P.R. Hill, Kohima Hindu Mandir and the Gorkha Singhadevi Mandir are the documented ones.",
+  "tradition": "Hinduism (Sai Baba devotion - presumed, unconfirmed)",
+  "travel": {
+    "airport": "Dimapur Airport, about 70-75 km by road (verify).",
+    "railway": "Dimapur railway station, about 70-75 km (verify).",
+    "road": "Kohima is on NH-2 (Imphal-Dimapur highway) and NH-29; taxis and buses run from Dimapur (verify)."
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March for cool, clear weather; the Hornbill Festival (1-10 December) is the most vibrant period (verify).",
+    "opening_hours": "Not documented - verify locally; no confirmed shrine to visit."
+  }
+}

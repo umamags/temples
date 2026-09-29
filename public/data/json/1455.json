@@ -1,0 +1,48 @@
+{
+ "alternate_names": [],
+ "deities": [
+  "Lord Swaminarayan"
+ ],
+ "district": "Anand",
+ "festivals": [
+  "Janmashtami (verify)",
+  "Diwali (verify)",
+  "Holi (verify)"
+ ],
+ "history": {
+  "dynasty": "Modern (UNVERIFIED)",
+  "period": "UNVERIFIED",
+  "summary": "IDENTITY AMBIGUITY: the CSV row 'Swaminarayan Temple, Anand' is a generic listing with no address or sect, and no single temple could be conclusively matched to it. Anand town and its surroundings host several Swaminarayan temples of different sects: the BAPS Shri Swaminarayan Mandir at Goya Talav (documented in seq 299) and the six-storey BAPS mandir in the heart of Anand town (seq 1457), Vadtal Sansthan temples in nearby villages (e.g. Palaj, Sojitra, Umreth), and the historic Vadtal Dham headquarters ~13 km away in Kheda district (not Anand district). This file documents the generic in-town Swaminarayan mandir per Gujarat Tourism / Holidify listings, dedicated to Lord Swaminarayan; it may duplicate seq 299 and seq 1457, which may all refer to the same BAPS mandir. Founding date, sect and exact address are UNVERIFIED. Coordinates are a town-level approximation for Anand."
+ },
+ "id": "swaminarayan-temple-anand",
+ "latitude": 22.5645,
+ "longitude": 72.9289,
+ "media": [
+  "https://www.holidify.com/images/cmsuploads/compressed/2568_20200406150122.jpg"
+ ],
+ "name": "Swaminarayan Temple, Anand",
+ "sources": [
+  "https://gtbooking.gujarattourism.com/central-zone/anand/baps-shri-swaminarayan-mandir--anand.html",
+  "https://www.holidify.com/places/anand/swami-narayan-mandir-sightseeing-4059.html",
+  "https://www.travalour.com/destination/873-anand/46-hindu-temples-in-anand",
+  "https://anand.nic.in/tourist-place/swaminarayan-temple-bochasan/"
+ ],
+ "state": "Gujarat",
+ "town": "Anand",
+ "town_description": "Anand is a city in central Gujarat known as the Milk Capital of India, home of Amul and the birthplace of India's White Revolution. It is a major rail junction on the Mumbai-Ahmedabad line and adjoins the Vallabh Vidyanagar educational hub. The Charotar region around it is known for its prosperous farming communities and many temples.",
+ "tradition": "Hinduism (Swaminarayan Sampradaya)",
+ "travel": {
+  "airport": "Vadodara Airport, ~40 km (verify)",
+  "railway": "Anand Junction, ~2-3 km (verify)",
+  "road": "Anand town; on NH-48 corridor, well connected by road (verify)"
+ },
+ "video": {
+  "audio": "",
+  "script": "",
+  "video_file": ""
+ },
+ "visitor_information": {
+  "best_time": "October to March (verify)",
+  "opening_hours": "UNVERIFIED (verify)"
+ }
+}

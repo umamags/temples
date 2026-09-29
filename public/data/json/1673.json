@@ -1,0 +1,56 @@
+{
+  "alternate_names": [
+    "Kedaresvara Temple",
+    "Kedareshvara Temple",
+    "Kedareshwara Temple, Halebid"
+  ],
+  "deities": [
+    "Shiva (as Kedareshwara)"
+  ],
+  "district": "Hassan",
+  "festivals": [
+    "Shivaratri (verify - sources conflict on whether worship is permitted)"
+  ],
+  "history": {
+    "dynasty": "Hoysala (King Veera Ballala II, r. 1173-1220, and queen Ketaladevi / Abhinava Ketala Devi)",
+    "period": "c. 1219 CE (before 1219 per art historian Adam Hardy; 1221 CE inscription, reign of Narasimha II)",
+    "summary": "Early-13th-century trikuta (three-shrined) Shaiva temple about 1 km from the Hoysaleswara Temple, built by Hoysala king Veera Ballala II (r. 1173-1220) and his queen Ketaladevi (Abhinava Ketala Devi); a 1221 CE inscription of Narasimha II's reign records its construction, and art historian Adam Hardy dates it before 1219. The star-shaped main shrine stands on a raised jagati (five to six feet) with two smaller side shrines; eight tiers of soapstone friezes depict elephants, cavalry, creepers, the Hoysala lion emblem (Simha Lanchana) and epic scenes from both Shaiva and Vaishnava legends. NOTE: the deity images are missing from all three sanctums and the towers are lost - though some recent sources claim a Shiva Lingam is now installed (CONFLICT, verify) - and parts of the temple collapsed and were never restored; surviving highlights include a dancing Bhairava, Govardhana-Krishna, Vishnu as Varadaraja, a huntress and a lying Nandi. Protected by the ASI as a monument of national importance. NOTE: sources conflict on whether worship is currently permitted and on opening hours - flagged in visitor_information."
+  },
+  "id": "kedareshwara-temple",
+  "latitude": 13.20903,
+  "longitude": 75.99858,
+  "media": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/A_view_of_Kedareshwara_Temple_in_Halebidu.jpg/1280px-A_view_of_Kedareshwara_Temple_in_Halebidu.jpg"
+  ],
+  "name": "Kedareshwara Temple",
+  "sources": [
+    "https://karnatakaexplore.com/district/hassan/kedareshwara-temple-halebidu/",
+    "https://thetempleguru.com/listing/kedareshwara-temple-halebidu/",
+    "http://lightuptemples.com/en/kedareshwara-temple-karnataka/",
+    "http://mycameralog.com/2024/05/31/the-kedareshwara-temple/",
+    "https://www.agatetravel.com/kedareshwara-temple-halebidu-india.html",
+    "https://www.trawell.in/karnataka/halebid/kedareshwara-temple",
+    "https://hindutone.com/temples/the-magnificent-kedareshwara-temple-a-hoysala-legacy-in-halebidu/",
+    "https://www.pilgrimaide.com/temple-details.php?tlid=kedareshwara-temple-halebeedu",
+    "https://temple.yatradham.org/temple/kedareshwara-temple",
+    "https://gotirupati.com/kedareshwara-temple-halebidu/"
+  ],
+  "state": "Karnataka",
+  "town": "Halebidu",
+  "town_description": "Halebidu is a historic town in Hassan district, Karnataka, once Dorasamudra (Dwarasamudra), the capital of the Hoysala Empire for nearly three centuries. Sacked by Delhi Sultanate armies in the early 14th century, it became the 'old ruined city' (Hale-bidu) whose Hoysala temples - the Hoysaleswara, Kedareshwara and Jain basadis - survive as a UNESCO World Heritage group with Belur. Today it is a quiet agricultural town built around that heritage, with the Hoysala Archaeological Museum and the Dwarasamudra lake anchoring its visitor circuit.",
+  "tradition": "Hinduism (Shaivism)",
+  "travel": {
+    "airport": "Kempegowda International Airport, Bengaluru - ~210-230 km; Mangalore ~185-190 km (verify)",
+    "railway": "Hassan - ~30-32 km",
+    "road": "~1 km from Hoysaleswara Temple (400 m-1 km by different accounts, walkable) (verify); ~30 km from Hassan, ~150 km from Mysore, ~210 km from Bengaluru; buses from Hassan"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March (cool season); early morning or late afternoon for the carvings",
+    "opening_hours": "CONFLICT (verify locally): sources cite 6:30 AM-6:30 PM, 8:00 AM-5:30 PM, 9:00 AM-8:00 PM, 6:00 AM-6:00 PM and 10:00 AM-5:00 PM; entry generally free (ASI monument)"
+  }
+}

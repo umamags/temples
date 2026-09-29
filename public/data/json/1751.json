@@ -1,0 +1,50 @@
+{
+  "alternate_names": [
+    "Keraladheeswarapuram Temple",
+    "Keraladeshwarapuram Temple"
+  ],
+  "deities": [
+    "Lord Vishnu"
+  ],
+  "district": "Malappuram",
+  "festivals": [
+    "Annual festival in the Malayalam month of Vrishchikam (November-December)",
+    "Seven-day festival in Thulam (October-November) per Kerala Tourism"
+  ],
+  "history": {
+    "dynasty": "Vettattnad (Vettathu Rajas)",
+    "period": "Claimed ancient origins (3000-5000 years per tradition — UNVERIFIED); present structure rebuilt after Tipu Sultan's destruction (late 18th century)",
+    "summary": "Ancient Vishnu temple about 3 km south of Tanur town on the Malabar coast. Tradition claims the idol was installed by Parasurama and dates the temple to 3000-5000 years; the site was part of the medieval Vettattnad kingdom, and tradition holds that St. Francis Xavier visited in 1546. The temple was destroyed by Tipu Sultan of Mysore and has since been rebuilt; it is now administered by the Malabar Devaswom Board and is noted for its mural paintings. COORDINATES APPROXIMATE — geocoded to ~3 km south of Tanur town, not verified at street level."
+  },
+  "id": "keraladeshpuram-temple",
+  "latitude": 10.952,
+  "longitude": 75.88,
+  "media": [
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhpEws81zlfbl1HzO_KM3Y5DCa8WZxDqxEnpjPANT8Mqw7RBe0z_dDsg7Or_bro1OWGKlKgbA0OnZQ7oEXyeDSJxjV4b4CK4A2MhKcQcLSNFOOR1aRkqso2iNgPlB5X9UkEdN07K6uSVA/w1200-h630-p-k-no-nu/Keraladheeswarapuram+Temple+At+Thanur.jpg"
+  ],
+  "name": "Keraladeshpuram Temple",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Keraladeshpuram_Temple",
+    "https://www.nativeplanet.com/malappuram/attractions/keraladeshpuram-temple/",
+    "https://www.holidify.com/places/malappuram/keraladeshpuram-temple-sightseeing-2730.html",
+    "https://keralatourism.org/1000festivals//assets/uploads/pdf/1507874438-0.pdf"
+  ],
+  "state": "Kerala",
+  "town": "Tanur",
+  "town_description": "Tanur is a coastal town on the Malabar Coast in Malappuram district, noted as one of the oldest Portuguese settlements in India. It is an active fishing port with a small beach and a laid-back seaside character. The Keraladeshpuram Temple lies about 3 km south of the town, close to Tanur Beach. (CSV town 'Malappuram' is the district, corrected to Tanur.)",
+  "tradition": "Hinduism (Vaishnavism)",
+  "travel": {
+    "airport": "Calicut International Airport, ~35 km (verify)",
+    "railway": "Tanur Railway Station, ~3 km (verify)",
+    "road": "Via Tanur town off NH-66; auto-rickshaw or taxi to the temple, about 3 km south of Tanur"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October-March (verify)",
+    "opening_hours": "UNVERIFIED (verify) — no reliable published darshan timings found"
+  }
+}

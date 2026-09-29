@@ -1,0 +1,53 @@
+{
+  "alternate_names": [
+    "Patal Bhuvneshwar",
+    "Patal Bhubaneshwar",
+    "Patal Bhuvaneshwar Cave Temple"
+  ],
+  "deities": [
+    "Lord Shiva (subterranean shrine)",
+    "Sheshnag",
+    "Kaal Bhairav",
+    "Ganesha",
+    "33 crore deities (stalactite/stalagmite rock formations)"
+  ],
+  "district": "Pithoragarh",
+  "festivals": [],
+  "history": {
+    "dynasty": "None (mythological origin; Adi Shankaracharya said to have visited in 1191 AD)",
+    "period": "Skanda Purana attributes its discovery to King Rituparna of the Solar dynasty in Treta Yuga (mythological); 1191 AD visit by Adi Shankaracharya is local tradition (verify)",
+    "summary": "TOWN CORRECTION: the CSV lists Pithoragarh, but Patal Bhuvaneshwar is a limestone cave shrine in Bhuvneshwar village (Tehsil Didihat), about 13-14 km from Gangolihat, Pithoragarh district; the town field has been corrected to Gangolihat (nearest town). The cave, at ~1,350 m elevation, is 160 m long and 90 ft deep, entered through a narrow tunnel with about 82 steps down, sometimes using iron chains; limestone stalactite/stalagmite formations are worshipped as Shiva, Sheshnag, Kaal Bhairav, Ganesha and other deities, and the cave is held to be the abode of 33 crore gods and goddesses. Inside are four symbolic doors - Randwar, Paapdwar, Dharamdwar, Mokshadwar - of which Paapdwar is said to have closed after Ravana's death and Randwar after the Mahabharata war, leaving two open; a passage to Mount Kailash is also believed to exist. Per Skanda Purana it was discovered by King Rituparna in Treta Yuga; Adi Shankaracharya is said to have visited in 1191 AD, and Bhandari-family priests have served the shrine for 20 generations. Entry is in batches of 20-30. FLAG - conflicting opening hours across sources: 7 AM-6 PM daily (travelsetu), 9 AM-5 PM (Tripadvisor), 10 AM-4 PM (nainitaltourism), summer 8 AM-6 PM / winter 9 AM-5 PM (Wanderlog) - verify locally. Entry ticket INR 50 adult / INR 25 child per travelsetu (verify)."
+  },
+  "id": "patal-bhuvaneshwar-temple-pithoragarh",
+  "latitude": 29.68757,
+  "longitude": 80.09396,
+  "media": [
+    "https://www.tusktravel.com/blog/wp-content/uploads/2025/02/Patal-Bhuvaneshwar-Cave-Temple-Gangolihat-Uttarakhand.jpg"
+  ],
+  "name": "Patal Bhuvaneshwar Temple",
+  "sources": [
+    "https://travelsetu.com/guide/patal-bhuvaneshwar-cave-temple-tourism",
+    "http://www.99mustsee.com/India/Patal-Bhuvaneshwar-Pithoragarh-Uttarakhand-Attractions-370",
+    "https://www.tripadvisor.ca/Attraction_Review-g1933213-d3547105-Reviews-Patal_Bhuvaneshwar_Cave_Temple-Gangolihat_Pithoragarh_District_Uttarakhand.html",
+    "http://nainitaltourism.com/patal_bhuvaneshwar.html",
+    "https://Wanderlog.com/place/details/309321/patal-bhuvaneshwar-cave-temple"
+  ],
+  "state": "Uttarakhand",
+  "town": "Gangolihat",
+  "town_description": "Gangolihat is a small hill town in Pithoragarh district and a tehsil and sub-divisional headquarters, known for the Hat Kalika Shakti Peetha. It is the base for Patal Bhuvaneshwar (about 13-14 km away) and for the nearby hill stations of Chaukori and Berinag; the cave itself lies in Bhuvneshwar village, Tehsil Didihat.",
+  "tradition": "Shaivism",
+  "travel": {
+    "airport": "Pantnagar Airport is the nearest airport (exact distance not sourced - verify)",
+    "railway": "Kathgodam is the nearest major railhead for this region (verify)",
+    "road": "The cave is about 13-14 km from Gangolihat via Patal Bhuvaneshwar Road; Gangolihat is well connected by road to Pithoragarh, Berinag and Almora"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "March-June and September-November (typical Kumaon hill season - verify)",
+    "opening_hours": "CONFLICTING across sources: 7 AM-6 PM daily (travelsetu) vs 9 AM-5 PM (Tripadvisor) vs 10 AM-4 PM (nainitaltourism) vs summer 8 AM-6 PM / winter 9 AM-5 PM (Wanderlog) - verify locally"
+  }
+}

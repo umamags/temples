@@ -1,0 +1,47 @@
+{
+  "alternate_names": [
+    "Pashupatinath Mandir, Unchehara",
+    "Pashupatinath Temple, Unchehra"
+  ],
+  "deities": [
+    "Lord Shiva as Pashupatinath (lord of beings)"
+  ],
+  "district": "Satna",
+  "festivals": [
+    "Mahashivratri",
+    "Mondays of Shravan"
+  ],
+  "history": {
+    "dynasty": "Not documented in available sources",
+    "period": "Not documented",
+    "summary": "The Pashupatinath Temple is a Shiva shrine at Unchehara (also spelled Unchehra), Satna district, about 20-25 km south of Satna city. It is listed on templesofindia.org, but with no data on foundation year, architecture, or festivals - documentation is thin. It is a distinct local shrine and must not be confused with the famous Pashupatinath Temple at Kathmandu, Nepal, or the Ashtamukhi Pashupatinath at Mandsaur, Madhya Pradesh. CSV CORRECTION: the CSV town 'Satna' is approximate - the temple is at Unchehara (postal code 485661), a separate town in Satna district."
+  },
+  "id": "pashupatinath-temple-unchehra",
+  "latitude": 24.38502,
+  "longitude": 80.77867,
+  "media": [
+    "https://lh5.googleusercontent.com/p/AF1QipO4jsvyqdfUHr6-esPnNIk_Ji2NXiE92jxB2BqO=w300-k-no"
+  ],
+  "name": "Pashupatinath Temple",
+  "sources": [
+    "https://templesofindia.org/temple-view/pashupatinath-temple-unchehra-satna-madhya-pradesh-2vvp"
+  ],
+  "state": "Madhya Pradesh",
+  "town": "Unchehara",
+  "town_description": "Unchehara (Unchehra) is a town in Satna district about 20-25 km south of Satna city on the road toward Jabalpur, with its own railway station.",
+  "tradition": "Shaivism",
+  "travel": {
+    "airport": "Jabalpur Airport (about 150 km)",
+    "railway": "Unchehra railway station (local); Satna Junction (about 25 km)",
+    "road": "On the Satna-Jabalpur road (NH-30), Unchehara 485661"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March; Mahashivratri",
+    "opening_hours": "Temples of India lists no timing data (verify)"
+  }
+}

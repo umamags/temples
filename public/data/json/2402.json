@@ -1,0 +1,54 @@
+{
+  "alternate_names": [
+    "Sri Sri Radha Govind Mandir",
+    "Sri Radha Govind Dev Ji Temple",
+    "ISKCON Noida"
+  ],
+  "deities": [
+    "Sri Sri Radha Govind (Radha and Krishna)"
+  ],
+  "district": "Gautam Buddha Nagar",
+  "festivals": [
+    "Janmashtami",
+    "Gaur Purnima",
+    "Radhashtami",
+    "Ratha Yatra"
+  ],
+  "history": {
+    "dynasty": "",
+    "period": "modern era (inauguration date undocumented - verify)",
+    "summary": "DUPLICATE FLAG: this CSV row (seq 2402) is the same temple as seq 1091 (id iskcon-temple-noida). Kept as a separate file per the duplicate-handling rule. The ISKCON centre of Noida at A-5, Sector 33 (opposite the NTPC office, on Maharaja Agrasen Marg). IDENTITY CONFIRMED. Founded in the Gaudiya Vaishnava lineage of A.C. Bhaktivedanta Swami Prabhupada (ISKCON founder acharya). The complex houses a large temple room, auditorium, guesthouse, educational wing, a museum (ticketed), and Govinda's pure-vegetarian restaurant; free lunch prasadam is served daily 11:30 AM-2:00 PM. A weekly Harinam Sankirtan goes through Noida every Saturday. INAUGURATION DATE UNVERIFIED - flag for confirmation."
+  },
+  "id": "iskcon-temple-noida-duplicate",
+  "latitude": 28.58971,
+  "longitude": 77.35516,
+  "media": [
+    "https://img.metrofare.in/ChIJlX3uL6HlDDkRKxeNPcUXtIs/iskcon-temple-noida-02.jpg"
+  ],
+  "name": "ISKCON Temple, Sector 33",
+  "sources": [
+    "https://www.tripoto.com/india/trips/iskcon-temple-noida",
+    "https://so.city/delhi/article/6-compelling-reasons-that-make-the-breathtaking-iskcon-temple-in-noida-worth-a-visit",
+    "https://iskconnoida.org/",
+    "https://airial.travel/attractions/india/noida/iskcon-noida-bytcLSIf",
+    "https://www.piramalvaikunth.com/iskcon/"
+  ],
+  "state": "Uttar Pradesh",
+  "town": "Noida",
+  "town_description": "Noida (New Okhla Industrial Development Authority) is a planned industrial city in Gautam Buddha Nagar district, Uttar Pradesh, part of the Delhi NCR. Known for its wide roads, corporate offices and film city, it has a large resident migrant population including Odia, Bengali and Keralite communities, each with its own community temples.",
+  "tradition": "Hinduism (Gaudiya Vaishnavism, ISKCON)",
+  "travel": {
+    "airport": "Indira Gandhi International Airport, Delhi, about 35 km (verify)",
+    "railway": "New Delhi railway station about 30 km; Ghaziabad about 15 km (verify)",
+    "road": "Sector 33 on Maharaja Agrasen Marg; nearest metro is Noida City Centre (Blue Line); auto-rickshaws readily available"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March; Janmashtami and Gaur Purnima draw large crowds",
+    "opening_hours": "CONFLICT - verify before use: Tripoto lists darshan 4:30-5:00 AM, 7:00-11:00 AM, 12:30-1:00 PM, 4:00-6:30 PM, 7:00-7:30 PM, 9:00-9:30 PM; so.city lists 10:00 AM-1:00 PM and 4:30-8:30 PM"
+  }
+}

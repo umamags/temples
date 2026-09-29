@@ -1,0 +1,49 @@
+{
+  "alternate_names": [
+    "Jagannath Temple (Dharmanagar)",
+    "ISKCON Dharmanagar (provisional referent)"
+  ],
+  "deities": [
+    "Jagannath",
+    "Balabhadra",
+    "Subhadra"
+  ],
+  "district": "North Tripura",
+  "festivals": [
+    "Rath Yatra (celebrated at the ISKCON temple, Dharmanagar Rajbari premises)"
+  ],
+  "history": {
+    "dynasty": "None documented",
+    "period": "Unknown (no published history found)",
+    "summary": "IDENTITY FLAG - generic CSV name; NO published source documents a standalone shrine called 'Jagannath Bari' in Dharmanagar. Best-supported Jagannath referent in Dharmanagar: the ISKCON temple located in the Dharmanagar Rajbari premises, whose annual Rath Yatra of Lord Jagannath, Lord Balabhadra and Goddess Subhadra was reported by Tripura Star News (July 2026) and is covered yearly on video ('Ratha Yatra 2026 - ISKCON Dharmanagar'). The CSV row may intend this temple or a small local Jagannath Bari without a web footprint. NOT to be confused with the famous Jagannath Bari of Agartala (built 1661 by Manikyas, Maharaja Govinda Manikya and Jagannath Deva), which is a separate, well-documented shrine and a different row family (per coordinator note, this row is separate from the Agartala Baris - do not merge). Coordinates are a town-level approximation for Dharmanagar - the exact location of the intended shrine is unverified. CSV town (Dharmanagar) and state (Tripura) are correct; district recorded as North Tripura. Media: no reliably identified photograph of a Dharmanagar Jagannath Bari was found - media left empty."
+  },
+  "id": "jagannath-bari-dharmanagar",
+  "latitude": 24.37,
+  "longitude": 92.163,
+  "media": [],
+  "name": "Jagannath Bari",
+  "sources": [
+    "https://www.tripurastarnews.com/press-conference-at-dharmanagar-iskcon-temple-ahead-of-ratha-yatra/",
+    "https://www.youtube.com/watch?v=vf5c3Iy6cXY",
+    "https://www.youtube.com/watch?v=TvkxkZKhrsA",
+    "https://sambadenglish.com/exclusive-the-temples-home-to-odishas-lord-jagannath-in-north-east-india/amp"
+  ],
+  "state": "Tripura",
+  "town": "Dharmanagar",
+  "town_description": "Dharmanagar is the second-largest town in Tripura and the headquarters of North Tripura district, on NH 8 near the Assam border - a commercial and cultural hub of the northern part of the state.",
+  "tradition": "Vaishnavism (ISKCON, per provisional referent - verify)",
+  "travel": {
+    "airport": "Maharaja Bir Bikram Airport, Agartala (~175 km by road - verify); Silchar Airport, Assam (~145 km - verify).",
+    "railway": "Dharmanagar Railway Station (on the Lumding-Sabroom broad-gauge section - verify) connects north to Silchar/Guwahati and south to Agartala.",
+    "road": "Dharmanagar lies on NH 8, with regular bus and shared-vehicle connections to Agartala (~175 km), Kailashahar, and Karimganj (Assam)."
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March; Rath Yatra (June-July) for the festival.",
+    "opening_hours": "Not published (verify)."
+  }
+}

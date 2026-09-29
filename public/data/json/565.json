@@ -1,0 +1,46 @@
+{
+  "alternate_names": [
+    "Hanuman Temple, Bada Bazar",
+    "Sagar Hanuman Mandir"
+  ],
+  "deities": [
+    "Hanuman"
+  ],
+  "district": "Sagar",
+  "festivals": [
+    "Hanuman Jayanti"
+  ],
+  "history": {
+    "dynasty": "",
+    "period": "",
+    "summary": "IDENTITY UNCERTAIN (generic name): this file documents the in-city Hanuman temple geocoded at Kabarstangir, Bada Bazar, Sagar 470002, the best exact-name match inside Sagar town (other map listings include Shri Hanuman Ji at Baisa Muhalla near Nageshwar Mandir and Shri Manokmana Hanuman Mandir on Gopal Ganj Rd). The most documented Hanuman shrine associated with Sagar is the Gadpehra (Gadpahra) Hanuman Temple, an ancient hilltop Siddh Kshetra about 12 km from Sagar on the Bhainsha hill along Jhansi Road (NH 26 to Lalitpur), where the Hanuman shrine stands in front of the old Gadpahra fort and is reached by roughly 400-450 steps; the 6-ft murti is described as self-manifested and coated with saffron and vermilion. Gadpahra was the older capital before present-day Sagar was founded, with Goud-dynasty and later Dangi associations. If the CSV row intends the famous hilltop shrine, its town should read 'Gadpahra' rather than 'Sagar'; no builder/dynasty or antiquity date is published for the in-city Bada Bazar shrine."
+  },
+  "id": "shri-hanuman-mandir-sagar-bada-bazar",
+  "latitude": 23.84216,
+  "longitude": 78.73066,
+  "media": [],
+  "name": "Shri Hanuman Mandir",
+  "sources": [
+    "http://www.99mustsee.com/India/Lord-Hanuman-of-Gadpahra-Sagar-Madhya-Pradesh-Attractions-7293",
+    "https://velpu.com/temple/GADPEHRA-HANUMAN-TEMPLE/MTUwOQ==&map=yes",
+    "http://vayusutha.in/vs4/temple63.html"
+  ],
+  "state": "Madhya Pradesh",
+  "town": "Sagar",
+  "town_description": "Sagar is a city in Madhya Pradesh on a spur of the Vindhya Range, known as the 'city of lakes' after the historic Lakha Banjara lake in its heart. It is home to Dr. Hari Singh Gour Central University and, with its temples, lakes and waterfalls, is an established stop on the Bundelkhand tourist circuit.",
+  "tradition": "Hindu",
+  "travel": {
+    "airport": "Jabalpur is the nearest major airport (about 175-180 km, per temple-directory listings)",
+    "railway": "Saugor (Sagar) railway station",
+    "road": "Sagar is connected by road via NH 26 and NH 86"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "September to February (winter)",
+    "opening_hours": ""
+  }
+}

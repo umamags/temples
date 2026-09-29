@@ -1,0 +1,55 @@
+{
+  "alternate_names": [
+    "Baba Baidyanath Temple",
+    "Baba Dham",
+    "Vaidyanath Dham"
+  ],
+  "deities": [
+    "Shiva (as Vaidyanath/Baijnath; one of the 12 Jyotirlingas)",
+    "Parvati (Jayadurga; Shakti Peetha - Sati's heart)"
+  ],
+  "district": "Deoghar",
+  "festivals": [
+    "Shravan month (Shravani Mela / Kanwar Yatra - lakhs of pilgrims)",
+    "Mahashivratri"
+  ],
+  "history": {
+    "dynasty": "Uncertain (Jyotirlinga legend is ancient; present complex reported as 1596 CE)",
+    "period": "1596 CE (reported; verify)",
+    "summary": "LIKELY DUPLICATE of seq 429 (id baidyanath-temple-deoghar) — the same Deoghar temple already documented in this project. CSV town/state (Siwan, Bihar) is WRONG: this is the Deoghar, Jharkhand Jyotirlinga, and 'Baba Baijnath Dham' is a documented alternate name of Deoghar's Baidyanath Temple (deoghar.co). Probable cause of the CSV error: the Siwan district government's religious-tourism page mentions 'Baba Baijnath Dham situated in Devgarh' in its Sohagra Dham entry, from which it could have been misattributed to Siwan; a cab-route site also lists a 'Baba Baijnath Dham' under Daraundha in Siwan district, but no other source corroborates a distinct Siwan shrine (treat as unverified). The Deoghar temple is one of the 12 Jyotirlingas — legend says Ravana carried the lingam here and it became fixed when set down — and also a Shakti Peetha (Sati's heart). The complex has the main Shiva shrine plus about 21 other temples (Parvati, Ganesha, Brahma, Kalabhairav, Hanuman, Saraswati, Surya, Ram-Lakshman-Janaki, Ganga, Kali, Annapurna, Lakshmi-Narayan), with the Maa Parvati temple tied to the Shiva temple by red sacred threads. Note: the Vaidyanath Jyotirlinga is also claimed by Parli (Maharashtra) and Baijnath (Himachal Pradesh)."
+  },
+  "id": "baba-baijnath-dham-deoghar",
+  "latitude": 24.492735,
+  "longitude": 86.7002,
+  "media": [
+    "https://www.pilgrimaide.com/image/cache/catalog/Blogs/Baba%20Baidyanath%20Temple-600x315h.jpg"
+  ],
+  "name": "Baba Baijnath Dham",
+  "sources": [
+    "https://deoghar.co/babadham-baidyanath-dham-baijnath-dham-deoghar-jharkhand/",
+    "https://99pandit.com/blog/baba-baidyanath-temple/",
+    "https://siwan.nic.in/tourist-place-category/religious/",
+    "https://siwan.nic.in/tourist-place/sohagra-dham/",
+    "https://chikucab.com/varanasi/varanasi-to-daraundha-taxi.html",
+    "https://wikitravel.org/en/Deoghar",
+    "https://www.pilgrimaide.com/blog/traveling/Baba-Baidyanath-Temple"
+  ],
+  "state": "Jharkhand",
+  "town": "Deoghar",
+  "town_description": "Deoghar, literally 'abode of the gods', is a major pilgrimage city in the Santhal Parganas region of Jharkhand. It is famed for the Baba Baidyanath Jyotirlinga temple and the annual Shravani Mela, when lakhs of Kanwariyas carry Ganga water on foot from Sultanganj, about 100 km away. The city has its own airport and is served by Jasidih railway junction.",
+  "tradition": "Hinduism (Shaivism)",
+  "travel": {
+    "airport": "Deoghar Airport (DGH), ~10 km (verify)",
+    "railway": "Jasidih Junction, ~7 km (verify)",
+    "road": "Well connected by road to Jasidih, Dumka, Patna and Ranchi"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March; Shravan (June-July) is the peak pilgrimage season but very crowded",
+    "opening_hours": "4:00 AM - 3:30 PM and 6:00 PM - 9:00 PM per 99pandit.com (verify)"
+  }
+}

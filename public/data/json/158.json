@@ -1,0 +1,42 @@
+{
+  "alternate_names": [],
+  "deities": [
+    "Shiva"
+  ],
+  "district": "Bhojpur",
+  "festivals": [
+    "Mahashivratri (typical for Shiva shrines - unconfirmed for this site)"
+  ],
+  "history": {
+    "dynasty": "None documented",
+    "period": "Unknown",
+    "summary": "IDENTITY UNCONFIRMED - clearly-flagged placeholder. No reliable web source documents a specific temple named 'Shiv Temple' in Bihia (officially Behea), Bhojpur district; several generic, undocumented 'Shiv Temple' map pins exist in and around the town, so the CSV row cannot be tied to a documented referent. It most likely denotes a local neighbourhood Shiva shrine. Coordinates below are Bihia town centre (approximate); festivals, hours and history are undocumented. CSV town 'Arrah' is corrected to Bihia, which is its own town ~20 km east of Arrah."
+  },
+  "id": "shiv-temple-bihia-bhojpur",
+  "latitude": 25.55951,
+  "longitude": 84.45469,
+  "media": [],
+  "name": "Shiv Temple, Bihia",
+  "sources": [
+    "https://meta.ai?place_id=565506239416205",
+    "http://www.onefivenine.com/india/villages/Bhojpur/Ara/Amna"
+  ],
+  "state": "Bihar",
+  "town": "Bihia",
+  "town_description": "Bihia (officially Behea) is a nagar panchayat town in Bhojpur district, Bihar, about 20 km east of Arrah; it has a railway station on the Patna-Mughalsarai main line and serves the surrounding agricultural belt.",
+  "tradition": "Hinduism (Shaivism - presumed)",
+  "travel": {
+    "airport": "Jay Prakash Narayan International Airport, Patna (~75 km).",
+    "railway": "Bihia (BEA) station on the Patna-Mughalsarai main line.",
+    "road": "On the Grand Trunk Road corridor; about 20 km east of Arrah by road."
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March.",
+    "opening_hours": "Not documented."
+  }
+}

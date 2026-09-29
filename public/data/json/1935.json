@@ -1,0 +1,49 @@
+{
+  "alternate_names": [
+    "Charantala Temple"
+  ],
+  "deities": [
+    "Goddess Kali"
+  ],
+  "district": "West Garo Hills",
+  "festivals": [
+    "Kali Puja (verify)",
+    "Durga Puja (verify)",
+    "Diwali (verify)"
+  ],
+  "history": {
+    "dynasty": "Unknown",
+    "period": "c. 1850 CE — British colonial era (per one heritage directory, UNVERIFIED)",
+    "summary": "Kali temple in the Tura Division (pin 794105), West Garo Hills, said by one heritage directory to have been built around 1850 CE during the British colonial period, blending indigenous and colonial-era vernacular building styles with locally sourced materials (UNVERIFIED — the same source garbles the location as 'the rolling hills of Shillong', 300+ km away). The founding date, builder and architectural claims all need independent verification. One directory lists it under Bhaitbari (verify). Coordinates below are for Tura town and are approximate; the temple's exact position is unverified."
+  },
+  "id": "charantala-kali-temple",
+  "latitude": 25.5141,
+  "longitude": 90.1894,
+  "media": [
+    "https://lh3.googleusercontent.com/p/AF1QipNwMfMHbhv70FsCWsvnU8nH7Mc92ivyGqns1Bs=s1600-w400"
+  ],
+  "name": "Charantala Kali Temple",
+  "sources": [
+    "https://www.inheritage.foundation/explore/heritage-sites-in-meghalaya",
+    "https://xxmaps.com/IN/629830/charantala-temple",
+    "https://www.top-rated.online/cities/Bhaitbari/place/p/4933507/Charantala+Temple"
+  ],
+  "state": "Meghalaya",
+  "town": "Tura",
+  "town_description": "Tura is the second-largest town of Meghalaya and the headquarters of West Garo Hills district, set at the foot of the Tura (Nokrek) range in the Garo Hills. It is the commercial and administrative hub of the Garo Hills, home mainly to the Garo (A'chik) tribal community, and a gateway to Nokrek National Park and the Siju caves. Though Meghalaya is Christian-majority, Tura has a longstanding Hindu minority community dating to the colonial period.",
+  "tradition": "Hinduism (Shaktism)",
+  "travel": {
+    "airport": "Baljek Airport (Tura) has no scheduled commercial flights (verify); nearest operational airport is Guwahati (LGBI), ~220 km by road (verify).",
+    "railway": "Nearest railhead Mendipathar (North Garo Hills), ~50 km; major railhead Guwahati (verify).",
+    "road": "Tura is connected by road from Guwahati via NH-217 (~220 km, 5-6 hours by taxi/bus) (verify)."
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March (cool, dry season) (verify).",
+    "opening_hours": "Daylight hours typical of small town temples (verify — no published timings found)."
+  }
+}

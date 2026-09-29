@@ -1,0 +1,61 @@
+{
+  "alternate_names": [
+    "Thripangode Maha Siva Temple",
+    "Triprangottappan"
+  ],
+  "deities": [
+    "Maha Sivan (swayambhu west-facing Shiva lingam)",
+    "Goddess Parvati (Ardhanari concept shrine)",
+    "Ganapathy",
+    "Karanthil Shivan",
+    "Oroadivacha Shivan",
+    "Navamukundan",
+    "Goddess Durga",
+    "Rishabha/Nandi",
+    "Sastha",
+    "Gosala Krishnan",
+    "Bhadrakali",
+    "Vettakkorumakan"
+  ],
+  "district": "Malappuram",
+  "festivals": [
+    "Kodiyettu Utsavam — 8-day annual festival ending on Thiruvathira in Dhanu (December–January)",
+    "Maha Shivaratri",
+    "Annual pratishta festival in Mithunam (June–July)"
+  ],
+  "history": {
+    "dynasty": "Later Chera (10th-c. inscriptions of Goda Ravi Varma); Kingdom of Tanur (Vettathunad), vassals of the Zamorin of Calicut",
+    "period": "10th century CE onwards; inscriptions of the Later Chera ruler Goda Ravi Varma",
+    "summary": "Ancient two-storied shrine (gaja-prishta kovil — shaped like an elephant's back) at Triprangode village, noted in the 15th-century Kokila Sandesa as a major destination of northern Kerala. Legend says Shiva killed Yama here in seven steps to save the boy Markandeya, with a pratishta at each step — the moolasthanam 'Karanayil' plus three further Shiva shrines. Inscriptions of Later Chera ruler Goda Ravi Varma (10th c.) were found here; later the area was in Vettathunad (Tanur), and the Zamorin's army camped at Triprangode during the Thirunavaya Wars of the 14th century. The famous offering is Sayanapradakshinam (rolling circumambulation). Managed by the Malabar Devaswom Board. CSV town/state (Malappuram, Kerala) are correct; the town is Triprangode, near Tirur."
+  },
+  "id": "triprangode-siva-temple",
+  "latitude": 10.855549,
+  "longitude": 75.947727,
+  "media": [
+    "https://www.tusktravel.com/blog/wp-content/uploads/2025/05/Triprangode-Siva-Temple-Malappuram.jpg"
+  ],
+  "name": "Triprangode Siva Temple",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Triprangode_Siva_Temple",
+    "https://www.keralatourism.org/temples/malappuram/triprangode-siva",
+    "https://www.pilgrimaide.com/blog/Triprangode-Siva-Temple"
+  ],
+  "state": "Kerala",
+  "town": "Triprangode",
+  "town_description": "Triprangode is a temple village near Tirur in the Malappuram coast belt, spread over ~6 acres of temple grounds with ponds and sub-shrines, known across northern Kerala for its Markandeya legend.",
+  "tradition": "Shaivism; Kerala tantra",
+  "travel": {
+    "airport": "Calicut International Airport",
+    "railway": "Tirur railway station (~8–10 km); Thirunavaya station (~5 km)",
+    "road": "On the Tirur–Ponnani road at Triprangode village"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "December–January (Kodiyettu Utsavam); Maha Shivaratri",
+    "opening_hours": "4:30 AM–11:45 AM and 4:30 PM–8:00 PM"
+  }
+}

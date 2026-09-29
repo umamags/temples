@@ -1,0 +1,52 @@
+{
+  "alternate_names": [
+    "Gitopadesh Sthal",
+    "Geetopadesh Sthal"
+  ],
+  "deities": [
+    "Krishna",
+    "Arjuna",
+    "Shiva"
+  ],
+  "district": "Kurukshetra",
+  "festivals": [
+    "Gita Jayanti",
+    "International Gita Mahotsav"
+  ],
+  "history": {
+    "dynasty": "Maratha-era additions; modern additions by regional patrons",
+    "period": "Ancient (legendary); existing structures 19th-20th century",
+    "summary": "Jyotisar is the tirtha on the bank of Jyotisar Sarovar where, per Hindu tradition, Krishna delivered the Bhagavad Gita to Arjuna beneath a banyan tree; the surviving banyan is held by devotees to be an offshoot of the original and stands on a raised plinth (platform built 1924 by the King of Darbhanga). Adi Shankara is traditionally credited with identifying this spot (sources say 8th-9th century CE). A Shiva temple was built here in 1850 by the King of Kashmir; in 1967 the Shankaracharya of Kanchi Kamakoti Peetha installed the marble chariot depicting the Gita Updesha. Medieval temples at the site were destroyed by invaders; a 9th-10th century architectural fragment is kept on the main platform. A light-and-sound show on the Gita is held every evening. Coordinates from Wikipedia's published location; the map-geocoder instead returned a city 'Shri Krishna Mandir' at Jyoti Nagar, Thanesar (a different site), so the geocoder value was not used."
+  },
+  "id": "jyotisar-krishna-temple",
+  "latitude": 29.96139,
+  "longitude": 76.77111,
+  "media": [
+    "https://static2.tripoto.com/media/filter/nl/img/838133/TripDocument/1623499145_geeta_jyotisar_1.jpg.webp"
+  ],
+  "name": "Jyotisar Krishna Temple",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Jyotisar",
+    "https://www.theindianpanorama.news/other-stories/religion/gita-jayanti-2/",
+    "https://velpu.com/temple/JYOTISAR-TEMPLE/MTE2Nw==",
+    "https://www.radha.name/news/india/%E2%80%9Cjyotisar%E2%80%9D-kurukshetra"
+  ],
+  "state": "Haryana",
+  "town": "Jyotisar",
+  "town_description": "Jyotisar is a pilgrimage locality about 5 km west of Kurukshetra city on Pehowa Road, centred on the Jyotisar Sarovar and the banyan tree marking the Gita Updesha site. It is administered within Kurukshetra urban area and forms the spiritual core of the city's religious tourism, hosting the daily light-and-sound show and the annual Gita Mahotsav. Note: the CSV town 'Kurukshetra' names the broader city; the precise locality is Jyotisar.",
+  "tradition": "Hinduism (Vaishnavism, with a Shiva shrine on the premises)",
+  "travel": {
+    "airport": "Chandigarh International Airport, approx 90-95 km (verify)",
+    "railway": "Kurukshetra Junction, approx 6-7 km (verify)",
+    "road": "On Pehowa Road, about 5 km from Kurukshetra city; reachable by auto/taxi and local buses"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March; Gita Jayanti (Margashirsha, November-December) is the peak",
+    "opening_hours": "5:00 AM - 8:00 PM daily (source: velpu.com temple listing; verify)"
+  }
+}

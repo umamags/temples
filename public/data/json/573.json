@@ -1,0 +1,48 @@
+{
+  "alternate_names": [
+    "Kalika Mata Mandir, Dewas Tekri",
+    "Maa Kalika Temple, Dewas"
+  ],
+  "deities": [
+    "Goddess Kalika (form of Goddess Kali)"
+  ],
+  "district": "Dewas",
+  "festivals": [
+    "Navratri (the main festival of the Tekri hill complex)"
+  ],
+  "history": {
+    "dynasty": "Not documented in available sources",
+    "period": "Not documented; part of the historic Tekri hill shrine cluster",
+    "summary": "The Kalika Mata temple is one of several shrines on Dewas Tekri (Maa Chamunda Tekri), the sacred 300-foot hill in the middle of Dewas city (22.97011 N, 76.05999 E). According to Wikipedia's Dewas Tekri article, the hilltop houses the Devi Chamunda Mata Temple and the Devi Tulja Bhavani Mata Temple, along with the Kalika Mata Temple, Hanuman Temple, Bhairav Baba Temple, Kho Kho Mata Temple, and Annapurna Mata Temple. The name 'Tekri' means hill; the hilltop shrines are reached by stairs, a sliding path, or a ropeway. The CSV town 'Dewas' is correct. No separate founding date or builder for the Kalika shrine itself is documented online; identity follows the Wikipedia listing and the geocoded 'Kalika Mata Mandir, Tekri Area' location, so the attribution is solid but the shrine's individual history is not documented (verify)."
+  },
+  "id": "kalika-mata-temple-dewas-tekri",
+  "latitude": 22.97011,
+  "longitude": 76.05999,
+  "media": [
+    "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/03/21/b311be92-2780-4667-8b3d-48ac7f7e35b0_1774070097825.jpg"
+  ],
+  "name": "Kalika Mata Temple",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Dewas_Tekri",
+    "http://WWW.onefivenine.com/india/Places/checkin/kalika-mata-mandir_dewas",
+    "https://www.bhaskar.com/local/mp/dewas/news/dewas-navratri-third-day-crowd-darshan-mata-tekri-137494990.html"
+  ],
+  "state": "Madhya Pradesh",
+  "town": "Dewas",
+  "town_description": "Dewas is a city in Madhya Pradesh about 35 km north of Indore, known for the Tekri hill topped by the Chamunda and Tulja Bhavani shrines, the Kailadevi temple, and its classical-music heritage (Kumar Gandharva).",
+  "tradition": "Shaktism",
+  "travel": {
+    "airport": "Devi Ahilya Bai Holkar Airport, Indore (about 53 km)",
+    "railway": "Dewas Junction railway station (a 5-minute walk from the Tekri base)",
+    "road": "In the middle of Dewas city; the hilltop is reached by stairs, sliding path, or ropeway"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to February; Navratri draws devotees from across the country",
+    "opening_hours": "Hilltop shrines are generally open through the day; exact hours not published (verify)"
+  }
+}

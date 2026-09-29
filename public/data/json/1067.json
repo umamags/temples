@@ -1,0 +1,42 @@
+{
+  "alternate_names": [
+    "Anand Bhawan"
+  ],
+  "deities": [],
+  "district": "Prayagraj",
+  "festivals": [],
+  "history": {
+    "dynasty": "British colonial period",
+    "period": "1927/1930 (sources conflict) to present",
+    "summary": "NOT A HINDU TEMPLE — keep-or-drop decision needed. Anand Bhavan is the historic mansion of the Nehru family in Prayagraj, built by Motilal Nehru after he donated the family's earlier home (Swaraj Bhavan) to the Indian National Congress. It was the hub of the Indian freedom movement, hosted Congress meetings and conferences, and is the birthplace of Indira Gandhi. It was converted into a museum and donated to the government in 1970 (one source says 1971). The complex also houses the Jawahar Planetarium. NOTE: build-year conflict — 1927 (prayagtourism.com) vs 1930 (Tripadvisor reviews); museum-conversion date conflict — 1970 vs 1971 (verify). CSV town 'Allahabad' updated to Prayagraj (renamed 2018)."
+  },
+  "id": "anand-bhavan-prayagraj",
+  "latitude": 25.47798,
+  "longitude": 81.86153,
+  "media": [
+    "https://www.avaniholidays.in/images/blog_image/1737181486_visit-anand-bhavan.webp"
+  ],
+  "name": "Anand Bhavan",
+  "sources": [
+    "https://prayagtourism.com/home/prayagraj/anand-bhawan-of-prayagraj/",
+    "https://eindiatourism.in/anand-bhavan-prayagraj/"
+  ],
+  "state": "Uttar Pradesh",
+  "town": "Prayagraj",
+  "town_description": "Prayagraj (formerly Allahabad) is a major city in Uttar Pradesh at the confluence of the Ganga and Yamuna. Among India's oldest cities, it is one of the four Kumbh Mela sites, home to the Allahabad Fort, Anand Bhavan and the University of Allahabad.",
+  "tradition": "Secular heritage (not a place of worship)",
+  "travel": {
+    "airport": "Prayagraj Airport (Bamrauli), ~12 km",
+    "railway": "Prayagraj Junction, ~4-5 km",
+    "road": "Central city location on Motilal Nehru Road (Elgin Road), Tagore Town"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March",
+    "opening_hours": "9:30 AM to 5:00 PM, Tuesday to Sunday; closed Mondays and government holidays (one source says 9:00 AM opening — verify). Entry tickets: ~INR 20 ground floor, ~INR 70 both floors (prices vary by source — verify)."
+  }
+}

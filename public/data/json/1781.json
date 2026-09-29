@@ -1,0 +1,49 @@
+{
+  "alternate_names": [
+    "Bhojpur Temple",
+    "Bhojeshwar Mahadev Temple",
+    "Somnath of the East"
+  ],
+  "deities": [
+    "Shiva (lingam)"
+  ],
+  "district": "Raisen",
+  "festivals": [
+    "Maha Shivaratri"
+  ],
+  "history": {
+    "dynasty": "Paramara",
+    "period": "11th century CE (reign of Raja Bhoja, c. 1010–1055 CE)",
+    "summary": "CSV town CORRECTED: this temple is NOT in Bhopal — it stands at Bhojpur village, Raisen district, about 28 km southeast of Bhopal. Commissioned by the Paramara king Raja Bhoja in the 11th century, Bhojeshwar is an incomplete Shiva temple whose construction was abandoned for unknown reasons (war, natural disaster or the king's death are suggested, none confirmed). It houses one of India's largest shivlingas — about 7.5 feet (2.3 m) high on a massive square yoni platform, carved from a single rock without mortar. Its unfinished state preserves rare evidence of medieval temple construction: quarried blocks, architectural drawings engraved on the rock face, masons' marks and a surviving earthen construction ramp. The temple is an ASI-designated Monument of National Importance."
+  },
+  "id": "bhojeshwar-temple-bhojpur",
+  "latitude": 23.1003,
+  "longitude": 77.5797,
+  "media": [
+    "https://upload.wikimedia.org/wikipedia/commons/a/ab/Temple_of_Bhojpur.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  ],
+  "name": "Bhojeshwar Temple (Bhojpur Temple)",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Bhojeshwar_Temple",
+    "https://www.einpresswire.com/article_pdf/917256944/monsoon-season-highlights-architectural-heritage-of-bhojeshwar-temple-in-madhya-pradesh",
+    "https://trek.zone/en/india/places/115003/bhojeshwar-temple-bhojpur"
+  ],
+  "state": "Madhya Pradesh",
+  "town": "Bhojpur",
+  "town_description": "Bhojpur is a historic town in Raisen district, Madhya Pradesh, on the Betwa river, named after the 11th-century Paramara king Raja Bhoja, who also founded Bhopal and built the great Bhojtal lake. Beyond the unfinished Bhojeshwar Temple, the town is known for its Jain temple complex and the cyclopean dam remains associated with Raja Bhoja. It lies about 28 km southeast of Bhopal and is a frequent day trip from the capital.",
+  "tradition": "Hinduism (Shaivism)",
+  "travel": {
+    "airport": "Raja Bhoj Airport, Bhopal — approx 32–35 km (verify)",
+    "railway": "Mandi Dip railway station approx 7 km (verify); Bhopal Junction approx 28 km",
+    "road": "Bhojpur Road from Bhopal (Obaidullaganj route); taxis and buses available from Bhopal"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March; early morning or before sunset (no electric lighting inside the sanctum reported)",
+    "opening_hours": "CONFLICT (verify) — trek.zone lists 6:00 AM–8:00 PM daily; meta.ai listing shows 6:00 AM–6:00 PM (5:00 AM Mondays); no entry fee reported"
+  }
+}

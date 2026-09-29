@@ -1,0 +1,50 @@
+{
+  "alternate_names": [
+    "Sri Sri Gaur Radha Krishna Temple"
+  ],
+  "deities": [
+    "Radha Krishna",
+    "Gaura Nitai",
+    "Lord Jagannath",
+    "Srila Prabhupada (acharya)"
+  ],
+  "district": "Amritsar",
+  "festivals": [
+    "Rath Yatra Maha Mahotsav of Lord Jagannath (December, 3 days)",
+    "Janmashtami (verify)",
+    "Sunday Love Feast (free vegetarian meal, chanting)"
+  ],
+  "history": {
+    "dynasty": "Modern",
+    "period": "Built 2011 (per amritsartourism.org.in)",
+    "summary": "The ISKCON (International Society for Krishna Consciousness) temple of Amritsar, also called Sri Sri Gaur Radha Krishna Temple, built in 2011 at Chowk Moni Bazar / Lakshmansar in central Amritsar, with Radha-Krishna as the principal deities. IDENTITY AMBIGUITY (verify): a second ISKCON listing exists at Vrindavan Gardens on Fatehgarh Churian Road (MVMF+53W, ~5.6 km from the city-centre listing); this record documents the city-centre centre. Roots in Gaudiya Vaishnavism; activities include Sunday Love Feast, Food for Life and Go-seva. Distinct from seq 802 (ISKCON Chandigarh). Coordinates are for the Lakshmansar listing and are approximate."
+  },
+  "id": "iskcon-temple-amritsar",
+  "latitude": 31.614126,
+  "longitude": 74.87669,
+  "media": [],
+  "name": "ISKCON Temple, Amritsar",
+  "sources": [
+    "https://amritsartourism.org.in/iskcon-temple-amritsar",
+    "http://www.iskconcenters.com/",
+    "https://www.justdial.com/Amritsar/Iskcon-Temple-Amritsar/0183PX183-X183-141220152639-J7Y7_BZDET?via=scode"
+  ],
+  "state": "Punjab",
+  "town": "Amritsar",
+  "town_description": "Amritsar is the spiritual and cultural capital of Sikhism in Punjab, home to the Harmandir Sahib (Golden Temple), the holiest shrine of the Sikh faith. Founded by Guru Ram Das in the 16th century, it draws millions of pilgrims and tourists every year. The city is also known for its historic bazaars, the Jallianwala Bagh memorial, and vibrant Punjabi food culture.",
+  "tradition": "Hinduism (Vaishnavism — Gaudiya / ISKCON)",
+  "travel": {
+    "airport": "Sri Guru Ram Dass Jee International Airport — ~13 km (verify)",
+    "railway": "Amritsar Junction — ~3 km (verify)",
+    "road": "Chowk Moni Bazar / Lakshmansar, central Amritsar; ~1 km from the Golden Temple (verify)"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March (winter; Rath Yatra Maha Mahotsav in December)",
+    "opening_hours": "4:30 AM to 12:30 PM and 4:30 PM to 8:45 PM (verify — aarti schedule lists Mangala 4:30 AM to Shayana 8:30 PM)"
+  }
+}

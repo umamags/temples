@@ -1,0 +1,53 @@
+{
+  "alternate_names": [
+    "Maa Kamakhya Devalaya",
+    "Kamakhya Devi Temple"
+  ],
+  "deities": [
+    "Goddess Kamakhya",
+    "Ten Mahavidyas (worshipped in the surrounding complex)"
+  ],
+  "district": "Kamrup Metropolitan",
+  "festivals": [
+    "Ambubachi Mela",
+    "Durga Puja",
+    "Manasa Puja"
+  ],
+  "history": {
+    "dynasty": "Koch (present structure), with later Ahom additions",
+    "period": "16th century (rebuilt 1565); worship traditions older",
+    "summary": "FLAG: DUPLICATE ROW: same temple as seq 1286 (\"Kamakhya Temple\", id kamakhya-temple). One file per CSV row; keep-or-dedup decision needed.\n\nPrincipal Shakti Peetha on Nilachal Hill, Guwahati, and centre of Tantric Shakta worship. The site is one of the 51 Shakti Peethas, where the yoni of Sati is believed to have fallen. The present temple was rebuilt in 1565 under the Koch king Nara Narayan (1540-1587), supervised by his brother Chilarai, reusing material from the earlier ruined temple; earlier destruction is now attributed to Hussein Shah's 1498 invasion rather than Kalapahar. The Ahom kings later patronised and added to the temple (e.g. the natamandapa by Rajeshwar Singha). The sanctum has no idol: a natural cleft in rock, kept filled with spring water, is worshipped as the goddess. CSV town 'Dispur' corrected to Guwahati (Dispur is within the Guwahati circuit area; the temple is at Kamakhya, Nilachal Hill)."
+  },
+  "id": "kamakhya-temple-guwahati",
+  "latitude": 26.16711,
+  "longitude": 91.70582,
+  "media": [
+    "https://travelinginfoworld.com/wp-content/uploads/2025/05/Kamakhya_Temple_-_DEV_8829.jpg"
+  ],
+  "name": "Kamakhya Temple",
+  "sources": [
+    "https://gotirupati.com/kamakhya-temple/",
+    "https://www.thetemples.in/2024/09/kamakhya-temple-assam.html?m=1",
+    "https://www.makemytrip.com/tripideas/attractions/kamakhya-temple-guwahati?pdtCtx=eyJqaWQiOiJqb3VybmV5XzE3ODQyNzMzNDA0NjlfNm10dDNjaWloIiwic2MiOm51bGwsInBwIjoiZ2VuZXJpYyJ9",
+    "https://www.maakamakhya.org/",
+    "http://en.wikipedia.org/wiki/Kamakhya_Temple"
+  ],
+  "state": "Assam",
+  "town": "Guwahati",
+  "town_description": "Guwahati is the largest city of Assam and the principal city of Northeast India, on the south bank of the Brahmaputra. Once the seat of the ancient kingdom of Pragjyotishpura/Kamarupa, it is the region's main commercial and transport hub and a centre of Shakti worship, with Kamakhya, Umananda and Ugratara shrines.",
+  "tradition": "Shaktism (Shakti Peetha; Tantric worship)",
+  "travel": {
+    "airport": "Lokpriya Gopinath Bordoloi International Airport, about 20 km from the temple",
+    "railway": "Kamakhya Junction, about 6 km away; Guwahati railway station about 8 km",
+    "road": "Well connected by city bus, auto-rickshaw and taxi from Guwahati station"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March (some sources say September to February); Ambubachi Mela held in June",
+    "opening_hours": "5:30 AM to 1:00 PM and 2:30 PM to 5:30 PM (per the temple's official site maakamakhya.org); other travel sources differ"
+  }
+}

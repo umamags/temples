@@ -1,0 +1,73 @@
+{
+  "alternate_names": [
+    "Ashtalakshmi Kovil",
+    "Shri Ashtalakshmi Temple",
+    "Besant Nagar Ashtalakshmi Temple"
+  ],
+  "deities": [
+    "Adi Lakshmi",
+    "Dhana Lakshmi",
+    "Dhanya Lakshmi",
+    "Gaja Lakshmi",
+    "Santana Lakshmi",
+    "Dhairya Lakshmi",
+    "Vijaya Lakshmi",
+    "Vidya Lakshmi",
+    "Mahavishnu with Mahalakshmi",
+    "Dasavatara",
+    "Guruvayurappan",
+    "Ganesha",
+    "Anjaneyar",
+    "Dhanvantari",
+    "Chakkarathalvar",
+    "Yoga Narasimhar"
+  ],
+  "district": "Chennai",
+  "festivals": [
+    "Navaratri (celebrated grandly; September-October)",
+    "Pavitra Ursavam",
+    "Markazhi month / Dhanur Masa pooja (December-January)",
+    "Deepavali",
+    "Kartigai",
+    "Gokulashtami",
+    "Pongal",
+    "Annual temple festival (March-April)",
+    "New Year (1 January)",
+    "Fridays of the Tamil months Thai and Aadi"
+  ],
+  "history": {
+    "dynasty": "None (built by public participation)",
+    "period": "20th century (modern)",
+    "summary": "CSV DUPLICATE FLAG: this row ('Ashtalakshmi Temple', Chennai) is almost certainly a DUPLICATE of Mahesh's existing Ashtalakshmi Temple (Besant Nagar) record (id 'ashtalakshmi-chennai', ~/workspace/temples/ashtalakshmi-chennai.json). There is exactly ONE famous Ashtalakshmi Temple in Chennai - the one at Besant Nagar on the shore near Elliot's Beach. Mahesh should dedupe or relabel this row. Details mirrored from the existing record: The Ashtalakshmi Kovil stands on the shorelines near Elliot's Beach, Besant Nagar, Chennai, and is one of the few temples in India dedicated exclusively to Goddess Lakshmi in her eight forms (Ashtalakshmi), givers of the eight forms of wealth: offspring, success, prosperity, wealth, courage, bravery, food, and knowledge. It was constructed on the wishes of Sri Chandrasekharendra Saraswati Swamigal of the Kanchi Kamakoti Peetham, who is said to have dreamt of Goddess Lakshmi showing him the site; Sri Mukkur Srinivasa Varadachariyar was the key figure who brought the vision to fruition. The foundation was laid in January 1974 through public participation and the consecration (kumbhabhishekam) took place on 5 April 1976. The temple is modeled on the Sundhararaja Perumal Temple at Uthiramerur and is built in a multi-tier Ashtanga vimana style across four levels with nine sanctums, arranged so devotees can visit every shrine without stepping over any sanctum. Worship begins at the level-two shrine of Lakshmi with her consort Vishnu, followed by the shrines on levels one, three and four. It was renovated in 2012 at a cost of about Rs. 7 million, including 32 new kalasams with a gold-plated kalasam atop the sanctum."
+  },
+  "id": "ashtalakshmi-temple-chennai-duplicate",
+  "latitude": 12.99278,
+  "longitude": 80.27041,
+  "media": [
+    "https://epuja.co.in/upload/Chennai-Besant-Nagar-Ashtalakshmi-Temple11.jpg"
+  ],
+  "name": "Ashtalakshmi Temple",
+  "sources": [
+    "https://www.hindudevotionalblog.com/2015/04/ashtalakshmi-temple-chennai-besant-nagar.html",
+    "https://epuja.co.in/product-details.php?puja_id=2592&page=Chennai-Besant-Nagar-Ashtalakshmi-Temple-Besant-Nagar",
+    "https://www.makemytrip.com/tripideas/attractions/ashtalakshmi-temple"
+  ],
+  "state": "Tamil Nadu",
+  "town": "Besant Nagar (CSV town 'Chennai' - the temple is in the Besant Nagar neighbourhood of Chennai; DUPLICATE row of the existing ashtalakshmi-chennai record)",
+  "town_description": "Besant Nagar is a seaside neighbourhood in south Chennai, named after the theosophist Annie Besant. Fringed by the popular Elliot's Beach (locally 'Bessie'), it is one of the city's most sought-after residential areas, known for its calm, leafy streets, beachfront eateries and a relaxed café culture.",
+  "tradition": "Vaishnavism",
+  "travel": {
+    "airport": "Chennai International Airport (approx. 16-17 km; pre-paid taxis and app cabs available).",
+    "railway": "Nearest suburban rail: Thiruvanmiyur MRTS station (approx. 3 km). Chennai Central and Chennai Egmore (approx. 12-14 km) connect to the rest of India.",
+    "road": "Well connected by MTC city buses via Besant Nagar bus stand (approx. 3 km), taxis and auto-rickshaws via LB Road / Beach Road from Adyar and Thiruvanmiyur. The temple is on Mahalakshmi Koil Street, a short walk from Elliot's Beach."
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March, when Chennai's weather is cooler. The festive season (October-January, especially Navaratri, Deepavali and Pongal) is the most vibrant time to visit; evenings are pleasant year-round with the sea breeze.",
+    "opening_hours": "Morning 6:30 AM to 12:00 noon; evening 4:00 PM to 9:00 PM. On Fridays, Saturdays and Sundays morning darshan is extended to 1:00 PM. No entry fee; footwear not allowed inside."
+  }
+}

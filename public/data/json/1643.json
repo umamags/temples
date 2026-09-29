@@ -1,0 +1,50 @@
+{
+  "alternate_names": [
+    "Jagannath Mandir, Dhurwa"
+  ],
+  "deities": [
+    "Lord Jagannath",
+    "Lord Balabhadra",
+    "Devi Subhadra"
+  ],
+  "district": "Ranchi",
+  "festivals": [
+    "Rath Yatra (Aashaadha, June–July — annual fair)"
+  ],
+  "history": {
+    "dynasty": "Nagvanshi (Barkagarh estate)",
+    "period": "1691 CE (completed 25 December 1691; collapsed 6 August 1990; rebuilt 1992)",
+    "summary": "17th-century Hindu temple built by Thakur Ani Nath Shahdeo, king of Barkagarh Jagannathpur, with construction completed on 25 December 1691, in the Kalinga architectural style resembling the Puri Jagannath Temple on a smaller scale. It stands atop a hillock at Jagannathpur near Dhurwa, ~10 km from Ranchi city, reached by stairs and a motorable road. The temple reportedly was desecrated by Aurangzeb in 1691 — CONFLICT (verify), since the completion and vandalism dates coincide. It collapsed on 6 August 1990 and was reconstructed from 8 February 1992 with Bihar state government support. The annual Rath Yatra and fair in Aashaadha draws lakhs of tribal and non-tribal devotees. Coordinates from Wikipedia (23.31694, 85.28167). CSV town 'Ranchi' refined to Jagannathpur/Dhurwa."
+  },
+  "id": "jagannath-temple-ranchi",
+  "latitude": 23.31694,
+  "longitude": 85.28167,
+  "media": [
+    "https://tripandtales.com/wp-content/uploads/2025/07/Jagannath-Temple.jpg"
+  ],
+  "name": "Jagannath Temple, Ranchi",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Jagannath_Temple,_Ranchi",
+    "https://cm.jharkhand.gov.in/jagannath-mandir-dhurwa-ranchi",
+    "http://www.99mustsee.com/India/Jagannath-Temple-Ranchi-Jharkhand-Attractions-3886",
+    "https://www.inheritage.foundation/heritage/jagannath-temple-ranchi"
+  ],
+  "state": "Jharkhand",
+  "town": "Jagannathpur",
+  "town_description": "Jagannathpur is a south-western suburb of Ranchi in Ranchi district, near Dhurwa and the HEC township. It is known for the 17th-century Jagannath Temple on its hillock, which offers panoramic views of the city including the Vidhan Sabha complex. The area is well connected by road to central Ranchi and hosts the annual Rath Yatra fair.",
+  "tradition": "Hinduism (Vaishnavism)",
+  "travel": {
+    "airport": "Birsa Munda Airport, Ranchi, ~6 km (verify)",
+    "railway": "Ranchi Junction, ~11 km (verify)",
+    "road": "Motorable road to the hilltop plus a ~100-step staircase; local buses/autos from Ranchi (verify)"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October–March; Rath Yatra (June–July) is the main festival",
+    "opening_hours": "Dawn to dusk, ~6:00 AM–6:00 PM (verify)"
+  }
+}

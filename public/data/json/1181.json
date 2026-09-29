@@ -1,0 +1,44 @@
+{
+  "alternate_names": [
+    "Adina Masjid",
+    "Adina Mosque, Pandua"
+  ],
+  "deities": [],
+  "district": "Malda",
+  "festivals": [],
+  "history": {
+    "dynasty": "Ilyas Shahi dynasty, Bengal Sultanate",
+    "period": "1373-1375 CE (inscription dated 770 AH / 1369 CE cited by some scholars)",
+    "summary": "NOT A HINDU TEMPLE - 14th-century Islamic mosque; keep-or-drop decision needed. Built by Sultan Sikandar Shah (r. 1358-1389), second ruler of the Ilyas Shahi dynasty, after his victories over the Delhi Sultanate, as an imperial statement of the new kingdom. Located at Pandua (then a Sultanate capital), it was the largest mosque of the Indian subcontinent in its time, with 260 stone pillars and 387 domed bays, a great vaulted central nave (now collapsed) and an enclosed courtyard modelled on the Great Mosque of Damascus. Its terracotta ornament fuses Persianate and local Pala-Sena motifs (lotus, kirtimukha on the stone minbar); carved stone from pre-Islamic structures was reused in doors, arches and facings. Inscriptions style Sikandar Shah 'the exalted Sultan' and 'Caliph of the faithful'; legend says Raja Ganesha later used it as a royal court. The Sultan was buried in a tomb chamber on the western wall. Damaged by 19th-century earthquakes and disused since; now an ASI Monument of National Importance. CSV town 'Malda' corrected to Pandua (Malda is the district / ~16-18 km-distant town)."
+  },
+  "id": "adina-mosque-malda",
+  "latitude": 25.15193,
+  "longitude": 88.16385,
+  "media": [
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEic0qBDUQ54bNUXXlo8qKujt2qbp8K25HRIoGdg5GbXqafjB6BNyAXe0SI0n9oZbmlaGFGcXcyhETPQ1kSR1s7EUI7eOZx9ibxyCOrf87m0s_hca6trrHEctrZS6zoNl2XKga4DihAvVK2k5DOvnGiC2qiauWD0Y2D3h6e2WIISKMBjfzPApcaRv5FJmkI/w640-h480/Malda_Adina_Mosque_5.jpeg"
+  ],
+  "name": "Adina Mosque",
+  "sources": [
+    "http://en.wikipedia.org/wiki/Adina_Mosque",
+    "https://d33gy59ovltp76.cloudfront.net/news/hindu-outfits-plan-to-install-shiva-lingam-near-adina-mosque-rekindles-mandir-masjid-debate-in-west-bengal",
+    "https://www.scribd.com/document/351081331/Mosque-Architecture"
+  ],
+  "state": "West Bengal",
+  "town": "Pandua",
+  "town_description": "Pandua (Hazrat Pandua) is a historic village in Malda district, about 18 km north of Malda town. It was a capital of the Bengal Sultanate in the 14th-15th centuries and holds ASI-protected monuments including the Adina Mosque and the Eklakhi Mausoleum.",
+  "tradition": "Islam",
+  "travel": {
+    "airport": "Bagdogra International Airport (IXB), roughly 230 km north, is the nearest major airport.",
+    "railway": "Malda Town Junction (MLDT), a major station, is about 16-18 km south.",
+    "road": "About 16-18 km north of Malda town on Pandua Road; buses run from Rathbari More to Golghor bus stand near the site."
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October-March, the cooler months.",
+    "opening_hours": "ASI monument; typically open sunrise to sunset with free entry (verify)."
+  }
+}

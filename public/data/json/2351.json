@@ -1,0 +1,40 @@
+{
+  "alternate_names": [],
+  "deities": [
+    "Buddha (Gautama Buddha; specific image/unverified sect - see identity note)"
+  ],
+  "district": "South Tripura",
+  "festivals": [],
+  "history": {
+    "dynasty": "Unknown",
+    "period": "Unknown",
+    "summary": "NON-HINDU: KEEP-OR-DROP DECISION NEEDED - Baishnab Pur Buddha Temple is a BUDDHIST temple (listed under 'Buddhist Temples' directories in Sabroom, South Tripura), not a Hindu temple. Identity is thin: Justdial's South Tripura Buddhist-temples listing shows 'Baishnab Pur Buddha Temple, Sabroom' (4.6 rating, 5 ratings); a place-directory entry gives its exact location as 23.048219, 91.768162 at Rupaichhari, Tripura, about 3.9 miles from Manubankul, Sabroom. The CSV town 'Sabroom' is therefore the broader area; the shrine itself stands at Baishnabpur, Rupaichhari. No founding date, builder, sect (likely Theravada/Burmese-tradition as in most South Tripura Buddhist viharas, but unverified), festival or hour information could be found. Coordinates are from the place-directory exact-location listing (the map geocoder only resolved district level), so verify on site. No verified image of this specific temple exists - media left empty."
+  },
+  "id": "baishnab-pur-buddha-temple-sabroom",
+  "latitude": 23.048219,
+  "longitude": 91.768162,
+  "media": [],
+  "name": "Baishnab Pur Buddha Temple (Manubankul)",
+  "sources": [
+    "https://www.justdial.com/South-tripura/Buddhist-Temples/nct-11195764",
+    "https://meta.ai?place_id=1100020201469391"
+  ],
+  "state": "Tripura",
+  "town": "Baishnabpur, Rupaichhari, near Sabroom (CSV town 'Sabroom' is the broader area)",
+  "town_description": "Sabroom is a town in South Tripura district on the Bangladesh border, at the southern end of the Agartala-Sabroom highway and rail corridor. Rupaichhari and Manubankul (Manu Bankul) are nearby settlements in the Sabroom subdivision; the area hosts a large Buddhist (Mog/Marma community) population with many viharas and pagodas, including the upcoming Dhamma Dipa International Buddhist University at Manu Bankul.",
+  "tradition": "Buddhism (NON-HINDU; sect unverified)",
+  "travel": {
+    "airport": "Maharaja Bir Bikram Airport, Agartala, roughly 110 km north by road (verify).",
+    "railway": "Sabroom railway station, the southern terminus of the Agartala-Sabroom line, is the nearest railhead (verify distance).",
+    "road": "On the Agartala-Sabroom highway (NH-8) corridor; Baishnabpur/Rupaichhari is about 3.9 miles from Manubankul per the place listing (verify)."
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March, the dry, cooler season in Tripura.",
+    "opening_hours": "Not documented; confirm locally."
+  }
+}

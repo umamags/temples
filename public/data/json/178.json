@@ -1,0 +1,51 @@
+{
+  "alternate_names": [
+    "Hatkeshwar Mahadev Temple",
+    "Shree Hatkeshwar Mahadev",
+    "Mahadev Ghat Temple"
+  ],
+  "deities": [
+    "Shiva (as Hatkeshwar Mahadev; the lingam is believed swayambhu/self-emerged)"
+  ],
+  "district": "Raipur",
+  "festivals": [
+    "Maha Shivaratri",
+    "Shravan month rituals"
+  ],
+  "history": {
+    "dynasty": "Kalachuri (Ratanpur branch)",
+    "period": "Built 1402 CE (early 15th century)",
+    "summary": "NOTE: this CSV row describes the same site as row 176 (Mahadev Ghat Temple) - the temple stands at Mahadev Ghat on the Kharun River and is the ghat's centrepiece. Built in 1402 by Hajiraj Naik during the rule of Brahmadeo Rai, son of Kalachuri king Ramachandra; Brahmadeo Rai's monumental Sanskrit inscription is preserved at the Mahant Ghasidas Memorial Museum. Nagara-style sandstone temple with carved exteriors depicting the navagrahas, guardian deities and Ramayana/Mahabharata scenes; a protected monument under the Archaeological Survey of India. Devotees report an akhand dhuni said to have burned for 500+ years. Hatkeshwar is the family deity of the Nagar Brahmin community; the older, Skanda-Purana-referenced Hatkeshwar is at Vadnagar in Gujarat. Opening hours conflict: pilgrim listings say 6 AM-8 PM while Justdial lists 6 AM-1 PM (verify on visit). Coordinates below are from a place listing and are approximate."
+  },
+  "id": "hatkeshwar-mahadev-mandir-raipur",
+  "latitude": 21.2311,
+  "longitude": 81.6016,
+  "media": [
+    "https://qa.astroved.com/astropedia/assets/images/temples/Hatkeshwar-Mahadev-Temple.jpg"
+  ],
+  "name": "Hatkeshwar Mahadev Mandir",
+  "sources": [
+    "https://www.sanatanavibes.in/2025/10/raipurs-ancient-shiva-shrine-hatkeshwar.html",
+    "https://www.pilgrimaide.com/temple-details.php?tlid=hatkeshwar-mahadev-temple-raipur",
+    "https://yappe.in/chhattisgarh/raipur/hatkeshwar-mahadev-temple-raipur/22849",
+    "https://Wanderlog.com/place/details/10217587/shri-hatkeshwar-mahadev-mandir"
+  ],
+  "state": "Chhattisgarh",
+  "town": "Raipur",
+  "town_description": "Raipur is the capital of Chhattisgarh, a city rich in medieval heritage located on the banks of the Kharun River. Mahadev Ghat lies in the Raipura area of the city, about 5 km from the centre, and is one of its oldest pilgrimage spots.",
+  "tradition": "Shaivism",
+  "travel": {
+    "airport": "Swami Vivekananda Airport, Raipur (nearest airport)",
+    "railway": "Raipur Junction (Sarona railway station is about 3 km away)",
+    "road": "About 5 km from Raipur city centre via Mahadev Ghat Road / Patan-Raipur Road; reachable by cab or bus"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March; weekday mornings are quietest, evenings for the ghat aarti",
+    "opening_hours": "6:00 AM - 8:00 PM per pilgrim listings (Justdial lists 6:00 AM - 1:00 PM; conflict - verify on visit)"
+  }
+}

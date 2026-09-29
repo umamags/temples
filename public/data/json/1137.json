@@ -1,0 +1,62 @@
+{
+  "alternate_names": [
+    "Baijnath Temple Complex",
+    "Vaidyanath Temple",
+    "Baijanath Temple"
+  ],
+  "deities": [
+    "Vaidyanath (Shiva, Lord of Physicians)",
+    "Parvati",
+    "Nritya Ganapati",
+    "Karttikeya",
+    "Narsimha",
+    "Brahma",
+    "Mahishasurmardini",
+    "Surya",
+    "Garuda",
+    "Kubera"
+  ],
+  "district": "Bageshwar",
+  "festivals": [
+    "Maha Shivratri",
+    "Makar Sankranti (Uttarayani)"
+  ],
+  "history": {
+    "dynasty": "Katyuri dynasty",
+    "period": "Built c. 1150 AD (12th century); inscriptions in the complex dated 1202 CE",
+    "summary": "TOWN CORRECTION: the CSV lists Bageshwar, but the temple complex is in Baijnath town, about 22-26 km northwest of Bageshwar city; the town field has been corrected to Baijnath. The Baijnath Temple Complex is a cluster of 18 stone temples on the left bank of the Gomati river in the Katyur valley, dedicated to Vaidyanath (Shiva as the Lord of Physicians). Built by the Katyuri kings around 1150 AD when Baijnath (then Kartikeyapura) was their capital (7th-12th century), the complex holds 102 stone images and inscriptions dating to 1202 CE; it was restored under King Gyan Chand and its main shikhar was destroyed when the Rohillas plundered it in 1743-44. It is an ASI-protected monument of national importance. It is one of the few temples where Parvati is depicted together with her husband Shiva (a grey chloride schist image); a life-size Kal Bhairava stands outside the main shrine. Mythology says Shiva and Parvati married at the confluence of the Gomati and Garur Ganga; another legend credits a Brahmin woman with building it. A stone-stepped approach from the riverside was built on the orders of a Katyuri queen. An artificial lake was inaugurated in 2016 and a pond outside holds Golden Mahaseer fish (fishing prohibited)."
+  },
+  "id": "baijnath-temple-complex-bageshwar",
+  "latitude": 29.90779,
+  "longitude": 79.6141,
+  "media": [
+    "https://media2.thrillophilia.com/images/photos/000/143/933/original/1587531826_Baijnath_Temple.jpg?gravity=center&width=752&height=450&crop=fill&quality=auto&fetch_format=auto&flags=strip_profile&format=jpg&sign_url=true"
+  ],
+  "name": "Baijnath Temple",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Baijnath_Temple_Complex",
+    "https://en.wikipedia.org/wiki/Baijnath,_Uttarakhand",
+    "https://www.euttaranchal.com/tourism/baijnath.php",
+    "https://www.srimandir.com/temples/baijnathtemple-manaskhand",
+    "https://devdhamyatra.com/blog/baijnath-temple-an-ancient-pilgrimage-site-in-bageshwar",
+    "https://www.sacredyatra.com/baijnath-temple.html"
+  ],
+  "state": "Uttarakhand",
+  "town": "Baijnath",
+  "town_description": "Baijnath is a small historic town in Bageshwar district on the left bank of the Gomati river in the Katyur valley, about 22 km from Bageshwar. It was Kartikeyapura, the capital of the Katyuri kings who ruled Kumaon from the 7th to the 12th century, and the town is named after its famed temple complex.",
+  "tradition": "Shaivism",
+  "travel": {
+    "airport": "Pantnagar Airport is the nearest airport, about 175-189 km away (sacredyatra, devdhamyatra)",
+    "railway": "Kathgodam railway station is the nearest railhead, about 144-160 km away",
+    "road": "On the Bageshwar-Gwaldam and Almora-Gopeshwar road junction, about 22-26 km from Bageshwar; interstate buses run Delhi-Bageshwar with local buses/cabs onward"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "September to May (devdhamyatra, sacredyatra); avoid the monsoon due to landslides",
+    "opening_hours": "6:00 AM - 8:00 PM per devdhamyatra (single source - verify)"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "alternate_names": [
+    "Bauna Pokhar Temple (local pronunciation)"
+  ],
+  "deities": [
+    "Shiva (four-headed Shivalinga)",
+    "Vishnu",
+    "Lakshmi",
+    "Saraswati",
+    "Durga",
+    "Ganesha"
+  ],
+  "district": "Vaishali",
+  "festivals": [
+    "All major Hindu festivals celebrated with enthusiasm"
+  ],
+  "history": {
+    "dynasty": "Pala",
+    "period": "Pala period (8th-12th century CE)",
+    "summary": "Ancient Hindu temple on the northern bank of the Bawan Pokhar tank near Vaishali (Basarh), ~2 km from Basarh bus station. Built during the Pala period, it houses a rich collection of black basalt images dating to the Gupta and Pala periods — numerous Hindu deities enshrined in one place and worshipped collectively — including a four-headed Shiva linga that was found buried in the temple area. The temple is noted for welcoming devotees of all castes, religions and sects without discrimination, and for its fine early-medieval stone architecture. Coordinates approximate (temple not individually geocoded)."
+  },
+  "id": "bawan-pokhar-temple",
+  "latitude": 25.989,
+  "longitude": 85.135,
+  "media": [
+    "https://www.myindianproducts.com/images/travel/places/bawan-pokhar-temple-vaishali-bihar-india.webp"
+  ],
+  "name": "Bawan Pokhar Temple",
+  "sources": [
+    "https://www.trawell.in/bihar/vaishali/bawan-pokhar-temple",
+    "https://travelsetu.com/guide/bawan-pokhar-temple-tourism",
+    "https://www.indianetzone.com/bawan_pokhar_temple",
+    "https://www.outlooktraveller.com/amp/story/explore/features/bihar-quick-guide-vaishali",
+    "http://pilgrimage-india.com/buddhist-pilgrimage/vaishali.html",
+    "https://www.indiatourisminfo.net/locations/bawan-pokhar-temple-vaishali-bihar/"
+  ],
+  "state": "Bihar",
+  "town": "Vaishali",
+  "town_description": "Vaishali (modern Basarh) is an ancient city in Bihar, famed as the capital of the Licchavi republic — often described as one of the world's earliest republics — and traditionally as the birthplace of Lord Mahavira. Its archaeological landscape includes the Ashokan lion pillar at Kolhua, Buddhist stupas, and the Abhishek Pushkarni coronation tank. The modern town is a quiet agricultural settlement about 56 km from Patna.",
+  "tradition": "Hinduism (multi-deity)",
+  "travel": {
+    "airport": "Jay Prakash Narayan International Airport, Patna (~56 km)",
+    "railway": "Hajipur railway station (~35 km)",
+    "road": "~2 km from Basarh bus station; well connected by road to Patna (~56 km), Muzaffarpur (~36 km) and Hajipur (~35 km)"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March",
+    "opening_hours": "CONFLICT (verify): 6:00 AM - 6:00 PM per trawell.in; 6:00 AM - 7:00 PM per travelsetu"
+  }
+}

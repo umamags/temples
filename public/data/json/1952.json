@@ -1,0 +1,53 @@
+{
+  "alternate_names": [
+    "Durgabari Temple",
+    "Durgabari Kohima"
+  ],
+  "deities": [
+    "Durga",
+    "Kali",
+    "Shiva"
+  ],
+  "district": "Kohima",
+  "festivals": [
+    "Durga Puja",
+    "Kali Puja",
+    "Ganesh Puja",
+    "Jagannath Snan",
+    "Jagannath Rath Yatra"
+  ],
+  "history": {
+    "dynasty": "",
+    "period": "c.1940 CE per one AI-generated source (verify)",
+    "summary": "Durgabari Mandir in Upper PWD Colony, Kohima (on/near Aradura Hill), is the main Hindu temple of Kohima, dedicated to Goddess Durga with shrines for Ma Kali and Lord Shiva (one visitor review also mentions Jagannath and Ramakrishna shrines on the premises - unverified). It is described as the realization of the long-standing wish of Kohima's Hindu residents, built through the efforts of community members, and is maintained by a Temple Trust (durgabari.org). The c.1940 CE date for the current structure comes from a single AI-generated heritage page (inheritage.foundation) and should be treated as UNVERIFIED. Address: M464+C22, P.W.D. Colony, Kohima, Nagaland 797001. Coordinates below are approximate for the Upper PWD Colony area; the exact temple location is unverified."
+  },
+  "id": "durga-bari-mandir-kohima",
+  "latitude": 25.672,
+  "longitude": 94.105,
+  "media": [],
+  "name": "Durga Bari Mandir",
+  "sources": [
+    "https://www.pilgrimaide.com/blog/traveling/Durga-Bari-Mandir",
+    "https://vushii.com/place.php?name=Durgabari",
+    "https://in.worldorgs.com/catalog/kohima/tourist-attraction/durgabari-kohima",
+    "https://www.inheritage.foundation/explore/temple-in-nagaland"
+  ],
+  "state": "Nagaland",
+  "town": "Kohima",
+  "town_description": "Kohima is the capital of Nagaland, a hill city at about 1,444 m above sea level. It is famous for the 1944 Battle of Kohima and the Kohima War Cemetery, and hosts the annual Hornbill Festival at nearby Kisama. The population is predominantly Christian (Baptist), with Hindu, Muslim and Jain minorities; Durgabari is the principal Hindu place of worship in the town.",
+  "tradition": "Hinduism (Shaktism)",
+  "travel": {
+    "airport": "Dimapur Airport, ~74 km by road (NH-29) (verify)",
+    "railway": "Dimapur Railway Station, ~74 km by road; Kohima has no railway station (verify)",
+    "road": "By road from Dimapur on NH-29; within Kohima by taxi or auto-rickshaw to PWD Colony (verify)"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March; Durga Puja (Sept-Oct) is the grandest festival (verify)",
+    "opening_hours": "6:00 AM-9:00 PM daily (pilgrimaide.com, vushii.com); modest dress expected; photography not allowed inside the premises per one source (verify)"
+  }
+}

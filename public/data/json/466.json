@@ -1,0 +1,46 @@
+{
+  "alternate_names": [
+    "Shri Maruti Temple",
+    "Maruti Mandir, Maruti Galli"
+  ],
+  "deities": [
+    "Hanuman (Maruti)"
+  ],
+  "district": "Belagavi",
+  "festivals": [],
+  "history": {
+    "dynasty": "Unknown",
+    "period": "Age not documented",
+    "summary": "UNCERTAIN IDENTITY — the CSV entry 'Maruti Temple, Belgaum' is a generic name with no documented single referent. This record documents the most likely candidate: the Shri Maruti (Hanumantha) Temple at Maruti Galli, Raviwar Peth, Belagavi old city (~1 km from Belagavi railway station; listed hours 5 AM-10 PM; reviewers note 'many different avatars of Lord Hanuman'). A stronger alternative referent is the Mal Maruti Mandir (Shree Mala Maruthi Devasthana) in the Mal Maruti Extension/Mahantesh Nagar area, one of Belagavi's most famous Hanuman shrines (reviewers claim an 1854 founding or 200+ years of history, with a swayambhu idol on a hillock); other Maruti shrines exist on Kapileshwar Road and Ganeshpur Road. Identity should be confirmed against the CSV's intended referent."
+  },
+  "id": "maruti-temple-raviwar-peth-belagavi",
+  "latitude": 15.85781,
+  "longitude": 74.510595,
+  "media": [
+    "https://files.yappe.in/place/full/shree-maruti-temple-7230673.webp"
+  ],
+  "name": "Shri Maruti (Hanumantha) Temple",
+  "sources": [
+    "https://yappe.in/karnataka/belagavi/shree-maruti-temple/817166",
+    "https://www.justdial.com/Belgaum/Hindu-Shrine-in-Kapileshwar-Road-Belgaum/nct-12265868",
+    "http://eindiatourism.com/belgaum/"
+  ],
+  "state": "Karnataka",
+  "town": "Belagavi",
+  "town_description": "Belagavi (Belgaum) is a major city in northwestern Karnataka near the Maharashtra and Goa borders, known for the historic Belgaum Fort, the 1204 Kamala Basti, and its colleges; it sits on an important road and rail link between Mumbai and Bengaluru.",
+  "tradition": "Vaishnavism",
+  "travel": {
+    "airport": "Belagavi Airport, Sambra (~10-15 km)",
+    "railway": "Belagavi Railway Station (~1 km)",
+    "road": "Maruti Galli, Raviwar Peth, in the old city near the fort"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October-March.",
+    "opening_hours": "Listed as 5:00 AM - 10:00 PM daily (per listings; verify before visiting)."
+  }
+}

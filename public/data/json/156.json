@@ -1,0 +1,45 @@
+{
+  "alternate_names": [
+    "Chaturbhuj Narayan Mandir"
+  ],
+  "deities": [
+    "Vishnu (four-armed form; ancient Lakshmi-Narayan idol)"
+  ],
+  "district": "Bhojpur",
+  "festivals": [
+    "Kartik Purnima",
+    "Vaikuntha Ekadashi"
+  ],
+  "history": {
+    "dynasty": "None documented",
+    "period": "Antiquity uncertain; idol believed centuries old",
+    "summary": "The Chaturvuj Narayan Mandir in Piro, Bhojpur district, is a shrine to the four-armed form of Lord Vishnu, holding the Sudarshana Chakra, Panchajanya conch, Kaumodaki mace and Padma lotus. Its ancient stone idol of Lakshmi-Narayan is locally believed to have been discovered during an excavation centuries ago and then enshrined; the architecture is North Indian style with a prominent shikhara and pillars carved with Dashavatara scenes. It is the spiritual hub of the Piro block, with daily aarti/bhajans and its biggest gatherings on Kartik Purnima and Vaikuntha Ekadashi. NOTE: CSV town 'Arrah' is wrong - the temple is in Piro town, ~30 km southwest of Arrah (correct town given). The excavation/age claims come from a single tourism listing and are unverified. Coordinates are Piro town (approximate)."
+  },
+  "id": "chaturvuj-narayan-mandir-piro",
+  "latitude": 25.329,
+  "longitude": 84.40306,
+  "media": [],
+  "name": "Chaturvuj Narayan Mandir",
+  "sources": [
+    "https://www.optfind.com/Tourism/TourismDetails.php?tid=Chaturvuj-Narayan-Mandir-Bhojpur-Bihar-India",
+    "https://tourism.bihar.gov.in/en/destinations/bhojpur"
+  ],
+  "state": "Bihar",
+  "town": "Piro",
+  "town_description": "Piro is a town and nagar panchayat in Bhojpur district, Bihar, about 30 km southwest of Arrah; an agricultural market town serving the surrounding Piro block.",
+  "tradition": "Hinduism (Vaishnavism)",
+  "travel": {
+    "airport": "Jay Prakash Narayan International Airport, Patna (~90 km).",
+    "railway": "Piro railway station on the Ara-Sasaram line; Ara Junction (~30 km) is the nearest major railhead.",
+    "road": "About 30 km southwest of Arrah, reached by bus/taxi via the Ara-Sasaram road."
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March; Kartik Purnima for the main festival.",
+    "opening_hours": "5:30 AM to 8:30 PM daily; closed 1:00 PM to 4:00 PM (per tourism listing - verify)."
+  }
+}

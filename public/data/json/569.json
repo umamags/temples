@@ -1,0 +1,51 @@
+{
+  "alternate_names": [
+    "Chamunda Mata Tekri",
+    "Chhoti Mata Mandir",
+    "Dewas Mata Tekri"
+  ],
+  "deities": [
+    "Chamunda"
+  ],
+  "district": "Dewas",
+  "festivals": [
+    "Chaitra Navratri",
+    "Shardiya Navratri"
+  ],
+  "history": {
+    "dynasty": "",
+    "period": "",
+    "summary": "The Chamunda shrine (Chhoti Mata) on Mata Tekri, the 300-ft hill at Dewas. Legend holds Tekri to be a Rakt Peeth (Shakta pitha) where drops of Mata Sati's blood fell, and where goddess Raktvahini Chamunda and the self-manifested Tulja Bhavani appeared; the goddess's image is cut into the rocky wall of a cave (Devivasini, 'the goddess's residence'), from which the town's name (Dev-vas, 'abode of the deity') is believed to derive. The age is disputed: some sources say 9th century, others 1100-1200 years, others 'anaadi kaal' (timeless). E. M. Forster described the cave shrine in The Hill of Devi (1953). Local belief holds Chamunda and Tulja Bhavani to be sisters - Badi Mata (elder, Tulja Bhavani) faces south and Chhoti Mata (Chamunda) faces north after a legendary quarrel in which Hanuman and Bhairav intervened; pilgrims do parikrama starting at Tulja Bhavani and ending at Chamunda. A tunnel is said to connect Tekri to Bharthari Cave in Ujjain (45 km), used by King Bharthari, who is said to have done penance here. This shrine is one of the two main temples of the Tekri hilltop complex documented separately under CSV seq 570; both rows describe the same hill."
+  },
+  "id": "chamunda-mata-temple-dewas-tekri",
+  "latitude": 22.96896,
+  "longitude": 76.05507,
+  "media": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Maa_Chamunda_Mata_Temple%2C_Tekri_Dewas.jpg/960px-Maa_Chamunda_Mata_Temple%2C_Tekri_Dewas.jpg"
+  ],
+  "name": "Chamunda Mata Temple",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Dewas_Tekri",
+    "https://www.rvatemples.com/listings/dewas-maa-chamunda-temple/",
+    "https://velpu.com/temple/MAA-CHAMUNDA-TEMPLE/MTQ4Ng==&map=yes",
+    "https://www.bhasmarti.com/chamunda-mata-dewas.html"
+  ],
+  "state": "Madhya Pradesh",
+  "town": "Dewas",
+  "town_description": "Dewas is a city in the Malwa region of Madhya Pradesh, about 34-35 km from Indore; its name is believed to derive from 'Dev-vas' (abode of the deity), referring to the goddess shrines on the Tekri hill. It was formerly a 15-gun salute princely state.",
+  "tradition": "Hindu",
+  "travel": {
+    "airport": "Indore airport, about 34-35 km away",
+    "railway": "Dewas railway station",
+    "road": "Dewas lies on the Indore-Bhopal corridor; the hilltop is reached by a broad flight of stone steps, a sliding path, or a ropeway"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March (winter); Navratri draws lakhs of pilgrims but expect heavy crowds",
+    "opening_hours": "6:00 AM - 9:00 PM (as listed on temple-directory pages; verify locally)"
+  }
+}

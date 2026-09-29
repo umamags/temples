@@ -1,0 +1,38 @@
+{
+  "alternate_names": [],
+  "deities": [],
+  "district": "Lohit",
+  "festivals": [],
+  "history": {
+    "dynasty": "Unknown",
+    "period": "Unknown",
+    "summary": "PLACEHOLDER — IDENTITY UNVERIFIED. No temple, shrine, or place of worship named 'Mali Duniya' in Tezu (or anywhere else) could be found in any web source after two rounds of searching; the only web hits for \"Mali Duniya\" are Gujarati song lyrics ('Tu Mane Mali Duniya Mali Gai'). The CSV row may be a data-entry error or a garbled local name. Kept as a clearly-flagged placeholder with Tezu town coordinates; recommend correcting or removing this row."
+  },
+  "id": "mali-duniya-temple-tezu",
+  "latitude": 27.92732,
+  "longitude": 96.15465,
+  "media": [],
+  "name": "Mali Duniya Temple",
+  "sources": [
+    "https://www.jiosaavn.com/song/tu-mane-mali-duniya-mali-gai/KTsEeAVUZWU",
+    "https://www.tibetanlibrary.com/api/generate-pdf/dhargyeling-tibetan-settlement-tezu"
+  ],
+  "state": "Arunachal Pradesh",
+  "town": "Tezu",
+  "town_description": "Tezu is the headquarters town of Lohit district in eastern Arunachal Pradesh, on the banks of the Lohit river at about 185 m elevation. It is the Mishmi community's main town and home to the Dhargyeling Tibetan settlement.",
+  "tradition": "Unknown (identity unverified)",
+  "travel": {
+    "airport": "Mohanbari Airport, Dibrugarh (Assam)",
+    "railway": "Tinsukia (Assam)",
+    "road": "Road via Dibrugarh/Tinsukia, Assam"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "Unknown",
+    "opening_hours": "Unknown (identity unverified)"
+  }
+}

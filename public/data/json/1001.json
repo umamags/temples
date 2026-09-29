@@ -1,0 +1,46 @@
+{
+  "alternate_names": [
+    "Venkateshwara Temple, Ramagundam",
+    "FCI Venkateswara Temple"
+  ],
+  "deities": [
+    "Lord Venkateswara (form of Vishnu)"
+  ],
+  "district": "Peddapalli",
+  "festivals": [
+    "Vaikunta Ekadashi (verify - typical for a Venkateswara temple)",
+    "Brahmotsavam (verify)"
+  ],
+  "history": {
+    "dynasty": "Modern (no published antiquity found)",
+    "period": "Contemporary local temple; no dated inscriptions or published history located",
+    "summary": "DISTRICT CORRECTION: Ramagundam is in Peddapalli district (created 2016 from Karimnagar), not Karimnagar as older listings say. GENERIC-NAME NOTE: several Venkateswara shrines exist across Ramagundam's townships. The best-supported referent for the CSV's 'Ramagundam Sri Venkateswara Swamy Temple' is the place listed as 'Sri Venkateswara Swamy Temple' at the Fertilizer Corporation of India (FCI) township, Ramagundam (coordinates below from its public place listing) - identity certainty MEDIUM. Justdial separately lists a 'Venkateshwara Temple' at NTPC Twp Kundanpalli (4.6-4.7 rating) and a 'Sri Venkateshwara Mandir' on Vemulawada Road, Jyothinagar - these may be the same shrine under different names or three distinct shrines; the FCI one matches the CSV name best. No published history, founding date or management details could be located for this local temple; facts beyond the listing are unverified."
+  },
+  "id": "sri-venkateswara-swamy-temple-ramagundam",
+  "latitude": 18.728413,
+  "longitude": 79.500568,
+  "media": [],
+  "name": "Ramagundam Sri Venkateswara Swamy Temple",
+  "sources": [
+    "https://www.instagram.com/explore/locations/196860560945902",
+    "https://www.justdial.com/Ramagundam/Temples-in-Ramagundam/nct-10475644"
+  ],
+  "state": "Telangana",
+  "town": "Ramagundam (industrial town in Peddapalli district; district corrected from older Karimnagar listings)",
+  "town_description": "Ramagundam is an industrial town in Peddapalli district on the Godavari, built around the NTPC thermal power station, the FCI fertilizer plant and Singareni coal mines. The town is a cluster of company townships (NTPC, TTS, FCI, Godavarikhani); its temples are mostly township/community shrines serving plant and mine employees.",
+  "tradition": "Hinduism",
+  "travel": {
+    "airport": "Rajiv Gandhi International Airport, Hyderabad - about 235 km (verify).",
+    "railway": "Ramagundam railway station - about 4 km (verify).",
+    "road": "FCI township area, Ramagundam, off the Godavarikhani road (verify)."
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to February (verify).",
+    "opening_hours": "Not published (verify)."
+  }
+}

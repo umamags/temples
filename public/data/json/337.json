@@ -1,0 +1,53 @@
+{
+  "alternate_names": [
+    "Shree Devi Mandir",
+    "Devi Mandir, Panipat",
+    "Shri Devi Mandir"
+  ],
+  "deities": [
+    "Goddess Durga (Devi)"
+  ],
+  "district": "Panipat",
+  "festivals": [
+    "Navratri",
+    "Dussehra",
+    "Diwali",
+    "Makar Sankranti",
+    "Ramlila (held during Navratri)"
+  ],
+  "history": {
+    "dynasty": "Local accounts: 18th century; unverified claims of Maratha patronage and (per one AI-generated site) commissioning by Maratha Sardar Bhaskar Rao Pandit",
+    "period": "Claimed ~250 years old (18th century); one tourism blog asserts a Pandava-era legend — conflict noted in summary",
+    "summary": "Devi Mandir on Devi Mandir Road, Tehsil Camp, Panipat, is dedicated to Goddess Durga and is a major city shrine. Popular local accounts (testbook Q&A summaries) put its age at about 250 years (18th century) and note it stands by a former drought pond, now converted into a park used for morning/evening walks; an annual Ramlila has been staged in the park during Navratri for roughly 100 years. CONFLICT: a tourism blog (Wanderon) instead claims the Pandavas founded it in the Mahabharata era, with the idol found buried by a local farmer — treat as legend, not fact. An AI-generated heritage site (inheritage.foundation) additionally claims Maratha Sardar Bhaskar Rao Pandit commissioned it and that it is ASI-protected; neither claim is corroborated by any other source and should be treated as unverified. No inscription or archaeological record found; the 18th-century date is the only widely repeated figure."
+  },
+  "id": "shri-devi-mandir-panipat",
+  "latitude": 29.400018,
+  "longitude": 76.975174,
+  "media": [
+    "https://wanderon-images.gumlet.io/blogs/new/2024/08/devi-temple-panipat-haryana.jpg"
+  ],
+  "name": "Shri Devi Mandir, Panipat",
+  "sources": [
+    "https://wanderon.in/blogs/devi-temple-panipat-haryana",
+    "https://testbook.com/question-answer/devi-temple-located-in-the-panipat-city-of-haryana--5f4e0ecbbe31f8416febba86/amp",
+    "https://www.inheritage.foundation/heritage/shri-devi-mandir"
+  ],
+  "state": "Haryana",
+  "town": "Panipat",
+  "town_description": "Panipat, on the GT Road about 90 km north of Delhi, is famous as the site of three decisive battles (1526, 1556, 1761) and is today a major textile and handloom hub. It became a separate district from Karnal on 31 October 1989.",
+  "tradition": "Shaktism",
+  "travel": {
+    "airport": "Indira Gandhi International Airport, Delhi (~110 km)",
+    "railway": "Panipat Junction (closest railway station)",
+    "road": "Devi Mandir Road, Tehsil Camp, Panipat 132103 — on/near GT Road (NH-44)"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October–March; Navratri for the main festival season",
+    "opening_hours": "5:30 AM – 9:00 PM daily (map listing)"
+  }
+}

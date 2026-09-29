@@ -1,0 +1,49 @@
+{
+  "alternate_names": [
+    "Siju Caves",
+    "Siju Dobakhol (Dobkhakol, 'bat cave' in Garo)",
+    "Siju–Dobhakhol cave system"
+  ],
+  "deities": [
+    "None — Siju Cave is a natural limestone cave system, not a shrine"
+  ],
+  "district": "South Garo Hills",
+  "festivals": [
+    "None"
+  ],
+  "history": {
+    "dynasty": "None (natural formation)",
+    "period": "Natural limestone cave system; among India's longest known cave systems",
+    "summary": "NOT A HINDU TEMPLE — keep-or-drop decision needed. No web source shows an actual Hindu (or any) temple at Siju; the CSV name almost certainly refers to the Siju Caves area. Siju Cave (Siju Dobakhol, 'bat cave' in Garo) is a natural limestone cave system at Siju village in South Garo Hills district, about 4,772 m long (one of the longest cave systems in the Indian subcontinent), on the vertical bank of the Simsang river. It is famed for stalactites and stalagmites, the 'Princess Di's Chamber', underground streams and thousands of resident bats; it has been extensively researched by speleologists and is a protected eco-tourism site near Napak Lake and the Siju Wildlife Sanctuary. CSV town 'Baghmara' is approximate: Baghmara is the South Garo Hills district headquarters about 15–16 km away; the caves' actual locality is Siju village (address listings give Damra–Dambu–Baghmara–Barenggapara Road, PIN 794102). Recommendation: relabel this row as a natural attraction (Siju Caves) or drop it from the temples dataset. Local guides are essential for entry; the cave interior has flowing water and sections requiring crouching."
+  },
+  "id": "siju-caves-baghmara-non-temple",
+  "latitude": 25.35095,
+  "longitude": 90.68429,
+  "media": [
+    "https://vl-prod-static.b-cdn.net/system/images/000/369/542/f310c7f6f96f73829d5faa8cec20d5dd/x800gt/Siju-Cave-Meghalaya.jpg"
+  ],
+  "name": "Siju Temple (CSV name — no temple found; documented as Siju Caves)",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Caves_of_Meghalaya",
+    "https://travelsetu.com/guide/siju-cave-siju-dobkhakol-tourism/siju-cave-siju-dobkhakol-faqs",
+    "https://www.tripadvisor.in/ShowUserReviews-g1591396-d3705995-r426893599-Siju_Caves-Tura_West_Garo_Hills_District_Meghalaya.html"
+  ],
+  "state": "Meghalaya",
+  "town": "Siju (near Baghmara)",
+  "town_description": "Siju is a village in South Garo Hills district, Meghalaya, about 15–16 km from Baghmara, the district headquarters (PIN 794102). It is the gateway to the Siju Caves, set on the Simsang river amid dense forest near Napak Lake and the Siju Wildlife Sanctuary. It is a remote area with limited food and stay options; the nearest towns for supplies are Baghmara and Tura.",
+  "tradition": "None (natural attraction; not a place of worship)",
+  "travel": {
+    "airport": "Guwahati Airport (GAU), about 320–340 km (verify); Shillong is about 325 km / 8–9 hours by car per local listings (verify).",
+    "railway": "Mendipathar railway station (nearest railhead in the Garo Hills), about 90–110 km (verify); Guwahati (GHY) is the nearest major railhead (verify).",
+    "road": "About 15–16 km from Baghmara via the Damra–Dambu–Baghmara–Barenggapara road; about 132 km / 4–5 hours from Tura. Hire a taxi or rented vehicle to Siju village; a short hike leads to the cave entrance. Hire a local guide (essential); carry caving torch, spare clothes and waterproof footwear."
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March, when the weather is pleasant and the cave interiors are dry; avoid the June–September monsoon, when the cave can flood or become slippery.",
+    "opening_hours": "Typically open during daylight hours, about 8:00 AM–4:00 PM, per local listings (verify). Guided entry only; entry fees/parking charges may apply locally (verify)."
+  }
+}

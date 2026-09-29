@@ -1,0 +1,53 @@
+{
+ "alternate_names": [
+  "Yoganarasimha Temple, Devarayanadurga",
+  "Yoga Narasimha Swamy Temple",
+  "Devarayana Durga Yoga Narasimha Temple"
+ ],
+ "deities": [
+  "Lord Yoga Narasimha (meditative form of Narasimha - hilltop main deity)",
+  "Goddess Lakshmi (shrine beside Lord Yoga Narasimha)",
+  "Bhoga Narasimha (separate temple at the foot of the hill)"
+ ],
+ "district": "Tumakuru",
+ "festivals": [
+  "Bhoga Narasimhaswamy Ratha Jathre / Car festival (Phalguna shuddha poornima, March-April)",
+  "Narasimha Jayanthi (Chaitra shudha chathurdashi, May - thousands gather; panakam, buttermilk, free feeding)"
+ ],
+ "history": {
+  "dynasty": "Mysore Wodeyars (tradition credits the Bhoga Narasimha temple at the hill base to Kanthirava Narasaraja I, with 1858 repairs by Krishnaraja Wodeyar III; Yoga Narasimha legend predates - verify)",
+  "period": "Legendary/ancient (Brahma's penance tradition); existing structures 17th-19th century (verify)",
+  "summary": "CSV TOWN NOTE: CSV town 'Tumkur' is approximate - the temple is at Devarayanadurga, a hill station in Tumakuru district about 17-20 km from Tumkur city (65 km from Bengaluru). Documented with the corrected location. This is the famous hilltop Yoganarasimha temple of the Devarayanadurga group, at ~3940 ft among rocky hills and forests. Legend: Lord Brahma performed penance for thousands of years to please Vishnu, who manifested as Yoga Narasimha; the hill is also called Karigiri (Kari = elephant/black, Giri = hill - from its elephant-shaped silhouette, and the legend of the cursed Gandharva brothers Devadatta and Dhanunjaya turned into mountain and elephant) and Kusumadri (gods showered flowers/Pushpa on Vishnu after he slew the demon Pundarika). A Kalyani (sacred pond) and Shri Padha Theertha stand on the hilltop premises; a shrine of Lakshmi Devi stands next to the Lord. At the foot of the hill stands the Bhoga Narasimha temple (Dravidian style, east-facing, attributed to Kanthirava Narasaraja I, repaired 1858 by Krishnaraja Wodeyar III; tradition says sage Durvasa installed the idol; the deity is the family deity of the Mysore kings). NOTE: smaller shrines named Sri Yoganarasimha Swamy also exist at Dananayakanapura (~12 km from Tumkur) and Anupanahalli; if the CSV intended one of those, flag for correction."
+ },
+ "id": "sri-yoganarasimha-swamy-temple-devarayanadurga",
+ "latitude": 13.37766,
+ "longitude": 77.21288,
+ "media": [
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Yoga_Narasimha_Temple_Devarayanadurga.JPG/1280px-Yoga_Narasimha_Temple_Devarayanadurga.JPG"
+ ],
+ "name": "Sri Yoganarasimha Swamy Temple",
+ "sources": [
+  "https://en.wikipedia.org/wiki/Yoganarasimha_Temple,_Devarayanadurga",
+  "https://velpu.com/temple/DEVARAYANA-DURGA-GROUP-OF-TEMPLES/NDcw",
+  "https://in.worldorgs.com/catalog/devarayana-durga/golf-course/devarayanadurga-sri-bhoga-narasimha-swamy-temple",
+  "https://www.tripadvisor.co.za/ShowUserReviews-g858478-d3250712-r337749963-Yoganarasimha_Temple-Tumkur_Tumkur_District_Karnataka.html"
+ ],
+ "state": "Karnataka",
+ "town": "Devarayanadurga (CSV town 'Tumkur' is approximate - the temple hill is ~17-20 km from Tumkur city, in Tumakuru district)",
+ "town_description": "Devarayanadurga is a hill station in Tumakuru district at ~3940 ft, about 65 km from Bengaluru and 17-20 km from Tumkur, covered by rocky hills. The Yoganarasimha temple sits at the hilltop; the Bhoga Narasimha temple is at the hill base. Nearby: Namada Chilume (deer park) and a Forest Department medicinal-herb nursery; two springs Ane Done and Jaya Tirtha meet at the foot of Irukasandra hill.",
+ "tradition": "Hinduism (Vaishnavism)",
+ "travel": {
+  "airport": "Bengaluru (Kempegowda International) - about 75-90 km (verify).",
+  "railway": "Tumkur railway station - about 17-20 km (verify).",
+  "road": "Drive from Bengaluru via Dabbaspet (~65 km); drive partway up and climb the last steps, or climb the stairs from the base; beware of monkeys."
+ },
+ "video": {
+  "audio": "",
+  "script": "",
+  "video_file": ""
+ },
+ "visitor_information": {
+  "best_time": "October to March; Narasimha Jayanthi (May) is grand but hot and crowded.",
+  "opening_hours": "Daytime darshan (typical hilltop temple hours 6:00 AM-8:00 PM - verify; not published)."
+ }
+}

@@ -1,0 +1,51 @@
+{
+  "alternate_names": [
+    "Black Pagoda",
+    "Konaditya Temple"
+  ],
+  "deities": [
+    "Surya (the Sun God, as Konaditya)"
+  ],
+  "district": "Puri",
+  "festivals": [
+    "Konark Dance Festival (December)",
+    "Chandrabhaga Mela (Magha Saptami)",
+    "Kartik Purnima"
+  ],
+  "history": {
+    "dynasty": "Eastern Ganga dynasty",
+    "period": "c. 1250 CE (13th century)",
+    "summary": "The 13th-century Sun temple at Konark, a UNESCO World Heritage Site (1984), attributed to King Narasimhadeva I of the Eastern Ganga dynasty and built over about twelve years. Conceived as a colossal stone chariot for the Sun god - twelve pairs of elaborately carved wheels (~3.7 m, functioning as sundials) drawn by seven horses - it is the culminating work of Kalinga architecture, covered in thousands of sculptures of deities, court life, animals, and erotic figures. The original ~70 m vimana collapsed in stages between the 16th and 19th centuries (gone by 1837); the ~39 m jagamohana, the Nata Mandira, and the Bhoga Mandapa survive. European sailors called it the Black Pagoda. The name Konark comes from Kona (corner) + Arka (sun)."
+  },
+  "id": "konark-sun-temple",
+  "latitude": 19.88725,
+  "longitude": 86.0973,
+  "media": [
+    "https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2021/12/konark.jpg"
+  ],
+  "name": "Konark Sun Temple",
+  "sources": [
+    "https://hindutva.online/konark-sun-temple-unesco-world-heritage-site-complete-guide/",
+    "https://flic.kr/photos/asienman/9806257023/",
+    "https://github.com/theluckiestsoul/odiapedia/blob/HEAD/content/history/konark-sun-temple.mdx",
+    "https://www.civilsdaily.com/news/places-in-news-konark-sun-temple/"
+  ],
+  "state": "Odisha",
+  "town": "Konark",
+  "town_description": "Konark is a coastal town in Puri district, Odisha, on the Bay of Bengal, about 35 km northeast of Puri and 65 km from Bhubaneswar. Its identity is dominated by the 13th-century Sun Temple, but it also has the Chandrabhaga beach nearby and is the venue of the annual Konark Dance Festival. It was one of the five great religious zones (kshetras) of medieval Odisha.",
+  "tradition": "Hinduism (Saurism / Sun worship)",
+  "travel": {
+    "airport": "Biju Patnaik International Airport, Bhubaneswar (~65 km, verify)",
+    "railway": "Puri railway station (~35 km, verify)",
+    "road": "On NH-203, ~65 km from Bhubaneswar and ~35 km from Puri by road (verify)"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March; the Konark Dance Festival in December is a highlight",
+    "opening_hours": "6:00 AM - 8:00 PM daily; entry fee about Rs 40 for Indians and Rs 600 for foreigners (verify) - per a 2026 guide"
+  }
+}

@@ -1,0 +1,48 @@
+{
+ "alternate_names": [
+  "Surya Mandir (Galtaji)",
+  "Galta Surya Temple",
+  "Sun Temple, Galta"
+ ],
+ "deities": [
+  "Surya (Sun god)"
+ ],
+ "district": "Jaipur",
+ "festivals": [
+  "Makar Sankranti (bathing fair at the Galta kunds, mid-January)"
+ ],
+ "history": {
+  "dynasty": "Kachhwaha (Amber/Jaipur); the Galtaji complex was built by Diwan Rao Kriparam, courtier of Maharaja Sawai Jai Singh II",
+  "period": "18th century (with the main Galtaji complex)",
+  "summary": "DUPLICATE FLAG: this CSV row is the Surya shrine of seq 2073 'Galtaji Temple' (id galtaji-temple-jaipur) - the same complex's hilltop shrine is already documented there as a deity of that entry. Dedup needed; do not count separately. Documented here for completeness: the Surya Mandir is a small temple dedicated to Surya atop the highest peak behind the Galtaji temple complex (Galwar Bagh, the 'Monkey Temple'), about 10 km east of Jaipur on the Jaipur-Agra highway. Reached by climbing up the hill behind the complex, it offers panoramic views of the city and the Aravalli hills. It is visited mainly during the Makar Sankranti bathing fair at the sacred kunds below, and at sunrise/sunset for the view. Coordinates are the geocoded Galtaji complex coordinates (approximate for the hilltop shrine - verify)."
+ },
+ "id": "surya-mandir-galtaji-duplicate",
+ "latitude": 26.91712,
+ "longitude": 75.85812,
+ "media": [
+  "https://www.goldentriangletour.com/userfiles/galtaji-temple-jaipur.jpg"
+ ],
+ "name": "Surya Mandir, Galtaji",
+ "sources": [
+  "https://www.goldentriangletour.com/en/tourist-attractions/india/rajasthan/jaipur/galtaji-temple-jaipur.html",
+  "https://www.incredibleindia.gov.in/en/rajasthan/jaipur/galtaji-temple"
+ ],
+ "state": "Rajasthan",
+ "town": "Galtaji (Jaipur)",
+ "town_description": "Galtaji is a Hindu pilgrimage complex in the Aravalli hills about 10 km east of Jaipur, set in a narrow valley and famous for its natural water springs filling seven sacred kunds. The main complex (Balaji/Sita Ram temples) sits at the valley floor, with the Surya Mandir on the highest peak behind it.",
+ "tradition": "Hindu (Surya worship, Vaishnavite complex)",
+ "travel": {
+  "airport": "Jaipur International Airport, about 25 km away.",
+  "railway": "Jaipur Junction, about 15 km away; taxis and buses reach Galtaji.",
+  "road": "On the Jaipur-Agra highway (NH-21) about 10 km east of Jaipur; the hilltop shrine is reached on foot up the steps behind the complex."
+ },
+ "video": {
+  "audio": "",
+  "script": "",
+  "video_file": ""
+ },
+ "visitor_information": {
+  "best_time": "October to March; Makar Sankranti (mid-January) for the bathing fair.",
+  "opening_hours": "Daytime hours following the Galtaji complex (listed sunrise-sunset - verify). No entry fee; watch out for monkeys on the climb."
+ }
+}

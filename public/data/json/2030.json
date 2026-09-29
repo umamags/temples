@@ -1,0 +1,51 @@
+{
+  "alternate_names": [
+    "Kamakshi Devi Temple",
+    "Maa Kamakshi Devi Temple",
+    "Kamahi Mata Mandir"
+  ],
+  "deities": [
+    "Kamakshi Devi (Goddess Durga/Kamakshi)",
+    "Lord Shiva (small shrine within the premises)"
+  ],
+  "district": "Hoshiarpur",
+  "festivals": [
+    "Navratri (twice a year - the biggest celebrations)"
+  ],
+  "history": {
+    "dynasty": "Unknown (legendary)",
+    "period": "Legendary; Mahabharata-era attribution - UNVERIFIED",
+    "summary": "Per the Hoshiarpur district administration website, the temple dedicated to goddess Kamakshi (Kamahi Devi) stands in the village of Beh Nangal, about 40 km from Hoshiarpur in the Shivalik foothills (Kandi region); local belief says the Pandavas built it during their exile, and the complex includes a small Shiva temple and a sacred sarovar. No verifiable founding date or patron dynasty is documented, so the Pandava origin remains legend. Coordinates are approximate (geocoded to Mukerian area, exact temple pin not independently corroborated)."
+  },
+  "id": "kamahi-devi-temple",
+  "latitude": 31.86822,
+  "longitude": 75.8388,
+  "media": [
+    "https://seawatersports.com/images/places/kamahi-devi-temple.png"
+  ],
+  "name": "Kamahi Devi Temple",
+  "sources": [
+    "https://hoshiarpur.nic.in/tourist-place/kamahi-devi-temple/",
+    "https://www.justdial.com/Hoshiarpur/Kamahi-Devi-Temple-Beh-Nangal-Village-Jalandhar-Road/9999P1882-1882-141221150008-W6K9_BZDET",
+    "https://www.tripadvisor.co.uk/Attraction_Review-g1162271-d4088849-Reviews-Kamahi_Devi_Temple-Hoshiarpur_Hoshiarpurr_District_Punjab.html",
+    "https://www.youtube.com/watch?v=VcFm40wGtfM"
+  ],
+  "state": "Punjab",
+  "town": "Beh Nangal",
+  "town_description": "Beh Nangal is a village in Mukerian tehsil of Hoshiarpur district, Punjab, in the Kandi belt at the foothills of the Shivalik hills, on the Mukerian-Talwara road. The Kamahi Devi shrine draws devotees from across the region, especially during Navratri. The surrounding low hills and forest make it a quiet pilgrimage spot about 40 km from Hoshiarpur city.",
+  "tradition": "Hinduism (Shaktism)",
+  "travel": {
+    "airport": "Adampur (~60 km, limited service - verify); Chandigarh (~120 km - verify); Amritsar (~135 km - verify).",
+    "railway": "Hoshiarpur or Jalandhar railway station (verify) - per district administration.",
+    "road": "On the Mukerian-Talwara road; reachable via Hoshiarpur city bus stand and local transport to Mukerian/Dasuya (verify distances)."
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "Navratri periods for the main celebrations; October to March for pleasant weather.",
+    "opening_hours": "Listed as open daily 6:00 AM to 9:00 PM (verify - per Justdial listing)."
+  }
+}

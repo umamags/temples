@@ -1,0 +1,50 @@
+{
+ "alternate_names": [],
+ "deities": [
+  "Harikrishna Maharaj",
+  "Lakshmi Narayan",
+  "Akshar Purushottam Maharaj",
+  "Ghanshyam Maharaj"
+ ],
+ "district": "Anand",
+ "festivals": [
+  "Diwali",
+  "Annakut"
+ ],
+ "history": {
+  "dynasty": "Modern (BAPS Swaminarayan Sanstha)",
+  "period": "Modern (consecration date not found)",
+  "summary": "POSSIBLE DUPLICATE of seq 299 ('BAPS Shri Swaminarayan Mandir', Anand) — baps.org lists the Anand mandir at Goya Talav, Mathiya Chora, and the Gujarat Tourism listing describes this same BAPS Shri Swaminarayan Mandir in the heart of Anand town; both rows likely refer to the same temple. It is a six-storey BAPS mandir popular with tourists: the 1st shrine holds Harikrishna Maharaj and Narayan Lakshmi, the 2nd and 3rd shrines the Guruparampara, the 4th Shri Akshar Purushottam Maharaj, and the 5th Lord Ghanshyam Maharaj. Built on principles of Vedic Hinduism with grand carved architecture. The consecration/founding date was not found in sources — UNVERIFIED. Distinct from the historic first BAPS mandir at Bochasan (1907, built by Shastriji Maharaj, ~24 km from Anand). Diwali and Annakut are the notable celebrations. Coordinates are approximate (in-town Anand)."
+ },
+ "id": "baps-shri-swaminarayan-mandir-anand-town",
+ "latitude": 22.5534,
+ "longitude": 72.9544,
+ "media": [
+  "https://temple.yatradham.org/public/Product/temple/temple_utnYgs6T_202508042040410.webp"
+ ],
+ "name": "BAPS Shri Swaminarayan Mandir, Anand",
+ "sources": [
+  "https://gtbooking.gujarattourism.com/central-zone/anand/baps-shri-swaminarayan-mandir--anand.html",
+  "https://www.travalour.com/destination/873-anand/46-hindu-temples-in-anand",
+  "http://www.baps.org/Anand",
+  "https://temple.yatradham.org/temple/baps-shri-swaminarayan-mandir-anand"
+ ],
+ "state": "Gujarat",
+ "town": "Anand",
+ "town_description": "Anand is a city in central Gujarat known as the Milk Capital of India, home of Amul and the birthplace of India's White Revolution. It is a major rail junction on the Mumbai-Ahmedabad line and adjoins the Vallabh Vidyanagar educational hub. The Charotar region around it is known for its prosperous farming communities and many temples.",
+ "tradition": "Hinduism (Swaminarayan Sampradaya — BAPS)",
+ "travel": {
+  "airport": "Vadodara Airport, ~40 km (verify)",
+  "railway": "Anand Junction, ~3 km (verify)",
+  "road": "Heart of Anand town; well connected by road (verify)"
+ },
+ "video": {
+  "audio": "",
+  "script": "",
+  "video_file": ""
+ },
+ "visitor_information": {
+  "best_time": "November to February (cooler months, per Gujarat Tourism)",
+  "opening_hours": "6:00 AM-12:00 PM and 4:00-8:30 PM per Gujarat Tourism (verify; CONFLICT (verify): baps.org lists 7:00 AM-9:00 PM for the Goya Talav mandir)"
+ }
+}

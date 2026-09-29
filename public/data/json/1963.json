@@ -1,0 +1,52 @@
+{
+  "alternate_names": [
+    "Bhudara Chandi Shrine",
+    "Bhudhara Chandi Mandir"
+  ],
+  "deities": [
+    "Bhudhara Chandi (form of Goddess Chandi/Durga)"
+  ],
+  "district": "Balasore",
+  "festivals": [
+    "Durga Puja",
+    "Chandi Yatra"
+  ],
+  "history": {
+    "dynasty": "Unknown - Nilagiri royal family per local tradition (unverified)",
+    "period": "Uncertain - centuries old per tradition (unverified)",
+    "summary": "Local tradition holds that the shrine was established centuries ago by the royal family of Nilagiri, who were devotees of Goddess Chandi; one popular legend says a local king built it after divine instructions received in a dream. No verified founding date or dynasty is documented - all published accounts are thin and devotional, so treat antiquity claims as UNVERIFIED. LOCATION CONFLICT: eodisha.in and orissatours.com place it at Nilagiri; a local review (Wanderlog) and an odishatour.in image filename place it at Sajanagarh, ~30 km from Balasore, described as 'under the Nilagiri kingdom'; TripAdvisor lists it under Chandipur. Sajanagarh is used as the town here with Nilagiri noted - needs verification on the ground."
+  },
+  "id": "bhudhara-chandi-temple",
+  "latitude": 21.48371,
+  "longitude": 86.72508,
+  "media": [
+    "https://odishatour.in/wp-content/uploads/2020/10/Bhudhara-Chandi-SajanagarhNilagiri-Balasore.jpg"
+  ],
+  "name": "Bhudhara Chandi Temple",
+  "sources": [
+    "https://eodisha.in/bhudhara-chandi-temple-nilagiri-balasore/",
+    "https://orissatours.com/bhudhara-chandi-temple-nilagiri-balasore-odisha/",
+    "https://orissaguide.com/bhudhara-chandi-temple-nilagiri-balasore-odisha/",
+    "https://odishatour.in/temple/",
+    "https://www.tripadvisor.in/ShowUserReviews-g1162223-d2697591-r532499754-Bhudara_Chandi_Shrine-Chandipur_Balasore_District_Odisha.html",
+    "https://wanderlog.com/place/details/13240072/sajanagarh"
+  ],
+  "state": "Odisha",
+  "town": "Sajanagarh",
+  "town_description": "Sajanagarh is a small locality in the Nilagiri area of Balasore district, Odisha, about 30 km from Balasore. It was once associated with the Nilagiri state and is noted for its ancient Chandi shrine; the area is largely rural with a serene, forested setting.",
+  "tradition": "Hinduism (Shaktism)",
+  "travel": {
+    "airport": "Bhubaneswar airport ~200 km (verify)",
+    "railway": "Balasore railway station (~30 km) (verify)",
+    "road": "~30 km from Balasore in the Nilagiri area (verify exact location)"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March",
+    "opening_hours": "Not verified - no reliable published opening hours found (verify)"
+  }
+}

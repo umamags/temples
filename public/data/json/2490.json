@@ -1,0 +1,55 @@
+{
+ "alternate_names": [
+  "Laxminarayan Mandir",
+  "Ballygunge Birla Mandir"
+ ],
+ "deities": [
+  "Lakshmi Narayan (Radha-Krishna)",
+  "Shiva",
+  "Durga",
+  "Lakshmi",
+  "Saraswati"
+ ],
+ "district": "Kolkata",
+ "festivals": [
+  "Janmashtami",
+  "Radhastami",
+  "Diwali",
+  "Navratri"
+ ],
+ "history": {
+  "dynasty": "Modern (Birla family patronage)",
+  "period": "1970-1996 (construction); consecrated 21 February 1996",
+  "summary": "DUPLICATE FLAG: this CSV row is a confirmed duplicate of seq 1148 (id birla-mandir-kolkata) — same Ballygunge temple, same city. Kept as a separate file per spec with a -duplicate id. A Hindu temple in Ballygunge built by the industrialist Birla family over 26 years, supervised by the Sompura master builders. Pran pratishtha performed by Swami Chidananda Maharaj and inauguration by Dr Karan Singh on 21 February 1996. Designed by architect Nomi Bose in a blend of Rajasthani and modern styles, modelled on the Lingaraj Temple of Bhubaneswar; sandstone exterior, white marble interior, 160 ft tall on 44 kathas of land. Carved scenes and shlokas from the Bhagavad Gita adorn the walls; sculptors were brought from Agra, Mirzapur and Muzaffarpur. NOTE: this is the Kolkata (Ballygunge) Birla Mandir — distinct from Birla Mandir Hyderabad (seq 2291) and Gita Mandir/Birla Mandir Mathura (seq 2392/1103), as the brief requires; ids kept distinct accordingly."
+ },
+ "id": "birla-mandir-kolkata-duplicate",
+ "latitude": 22.52507,
+ "longitude": 88.36586,
+ "media": [
+  "https://temple.yatradham.org/public/Product/temple/temple_2CXXOJ6U_202507011438190.jpg"
+ ],
+ "name": "Birla Mandir, Kolkata",
+ "sources": [
+  "https://en.wikipedia.org/wiki/Birla_Mandir,_Kolkata",
+  "https://www.rvatemples.com/listings/ballygunge-laxmi-narayan-mandir/",
+  "https://medium.com/utsav-app/birla-mandir-kolkata-cf737ba98d86"
+ ],
+ "state": "West Bengal",
+ "town": "Kolkata",
+ "town_description": "Kolkata, capital of West Bengal on the east bank of the Hooghly river, is India's cultural capital and a major metropolis known for its colonial-era architecture, intellectual life and religious diversity. Ballygunge is a well-known South Kolkata neighbourhood where the temple stands on Ashutosh Chowdhury Avenue.",
+ "tradition": "Vaishnavism (Hinduism)",
+ "travel": {
+  "airport": "Netaji Subhas Chandra Bose International Airport, ~16 km",
+  "railway": "Sealdah ~5 km; Jatin Das Park metro station nearby",
+  "road": "29 Ashutosh Chowdhury Avenue, Ballygunge; buses, trams and taxis. Shoes must be removed before entering the sanctum."
+ },
+ "video": {
+  "audio": "",
+  "script": "",
+  "video_file": ""
+ },
+ "visitor_information": {
+  "best_time": "October to March; Janmashtami for the main festival crowds.",
+  "opening_hours": "5:30 AM-11:00 AM and 4:30 PM-9:00 PM daily."
+ }
+}

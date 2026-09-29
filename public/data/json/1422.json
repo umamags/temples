@@ -1,0 +1,53 @@
+{
+  "alternate_names": [
+    "Mahamaya Temple, Ratanpur",
+    "Shri Mahamaya Devi Mandir",
+    "Siddha Shaktipeeth Shri Mahamaya Devi Mandir"
+  ],
+  "deities": [
+    "Goddess Mahamaya (Durga/Mahalakshmi, worshipped as Kosaleswari - presiding deity of Dakshin Kosal)",
+    "Twin idols: Mahishasuramardini (front) and Saraswati (back)",
+    "Kalabhairava, the guardian deity (temple on the approach road)"
+  ],
+  "district": "Bilaspur",
+  "festivals": [
+    "Sharad (autumn) Navratri",
+    "Chaitra (spring) Navratri (Jyoti Kalash)",
+    "Diwali",
+    "Ram Navami"
+  ],
+  "history": {
+    "dynasty": "Kalachuris (Haihayas) of Ratnapura; present structure by King Bahar Sai, Vikram Samvat 1552 (1492 CE)",
+    "period": "Original shrine 11th-13th century CE (legend: 1045-1050 CE under King Ratnadeva I); present structure 1492 CE; later Maratha and ASI renovations",
+    "summary": "POSSIBLE DUPLICATE of seq 189 ('Mahamaya Temple', id 'ratanpur-mahamaya-temple') and seq 193 ('Mahamaya Temple', id 'mahamaya-temple-ratanpur') - this CSV row names the same shrine by its Kosaleswari epithet. One of the 52 Shakti Peethas (Siddh Shaktipeeth), at Ratanpur ~25 km from Bilaspur, the former Kalachuri capital. Legend: King Ratnadeva I, hunting in the village of Manipur, saw a miraculous light under a banyan tree and a gathering of Adi Shakti Mahamaya; he renamed Manipur as Ratnapura (Ratanpur) and built the temple in 1050 CE. Traditions say Sati's right shoulder (skanda) fell here (the Kaumari Shakti Peeth). Originally dedicated to Mahakali, Mahalakshmi and Mahasaraswati; the current 1492 CE structure enshrines Mahalakshmi (Mahishasuramardini) and Mahasaraswati. Mahamaya is worshipped as Kosaleswari, the Kuldevi presiding deity of the old Dakshin Kosal region (modern Chhattisgarh). Build dates conflict across sources (11th vs 12th-13th c.). CSV town 'Ratanpur' is correct (district Bilaspur)."
+  },
+  "id": "mahamaya-devi-temple-kosaleswari-ratanpur",
+  "latitude": 22.28845,
+  "longitude": 82.15977,
+  "media": [
+    "https://upload.wikimedia.org/wikipedia/commons/7/77/Mahamaya_Temple_%40_Ratanpur%2C_Bilaspur%2C_Chattisgarh.jpg"
+  ],
+  "name": "Mahamaya Devi Temple (Kosaleswari Devi Mandir)",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Ratanpur,_Chhattisgarh",
+    "https://www.top-rated.online/cities/Ratanpur/place/p/2153873/Ram+Tekri+Mandir"
+  ],
+  "state": "Chhattisgarh",
+  "town": "Ratanpur",
+  "town_description": "Ratanpur is an ancient town about 25 km from Bilaspur in the Bilaspur district, once the capital of the Kalachuri kings of Ratnapura. It is a major religious centre of Chhattisgarh, anchored by the Mahamaya Siddh Shaktipeeth and dotted with historic temples such as Ram Tekri, Budha Mahadev and old tanks. The town draws large pilgrim crowds, especially during Navratri.",
+  "tradition": "Hinduism (Shaktism)",
+  "travel": {
+    "airport": "Bilaspur Airport (~25 km, limited flights); Swami Vivekananda Airport, Raipur (~125 km) is the major airport",
+    "railway": "Bilaspur Junction (~25-30 km)",
+    "road": "On the Bilaspur-Katghora road (NH-130), ~25 km from Bilaspur"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March; both Navratris (Chaitra and Sharad) are the peak pilgrimage season",
+    "opening_hours": "Reported 6:00 AM - 9:00 PM daily (temple website and travel listings; minor variations reported)"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "alternate_names": [
+    "Sri Sri Radha Gopinath Mandir, Rourkela (name per task brief — not verified in online sources)"
+  ],
+  "deities": [
+    "Sri Sri Radha Gopinath (deity name supplied in the task brief; no online source confirming the Rourkela centre's altar deity was found)"
+  ],
+  "district": "Sundargarh",
+  "festivals": [
+    "Janmashtami (confirmed by a 2026 Janmashtami celebration video from ISKCON Rourkela)"
+  ],
+  "history": {
+    "dynasty": "Modern (ISKCON — Gaudiya Vaishnavism)",
+    "period": "Modern (20th–21st century movement; centre age not published)",
+    "summary": "ISKCON Rourkela is the modern Gaudiya Vaishnava (Hare Krishna) centre at KN-24, Kalyani Nagar Phase 1, Chhend Colony, Rourkela-769015. Directory listings (Justdial, meta.ai place data) confirm the Chhend Colony address and daily hours; a 2026 Janmashtami celebration video confirms active Janmashtami observance. FLAGS: (1) The altar-deity name 'Sri Sri Radha Gopinath' comes from the task brief only — no online source found naming the Rourkela centre's deities; treat as unverified. (2) Justdial also lists a separate 'New Iskcon Rourkela (Under Construction)' in Civil Township, suggesting there may be two ISKCON sites in Rourkela; the Chhend Colony centre is the best-supported referent for this CSV row. Coordinates are meta.ai place coordinates for 'ISKCON Rourkela'. No founder/history details were found online."
+  },
+  "id": "iskcon-rourkela-radha-gopinath",
+  "latitude": 22.23714,
+  "longitude": 84.82553,
+  "media": [],
+  "name": "ISKCON Rourkela",
+  "sources": [
+    "https://www.justdial.com/Rourkela/Iskcon-Rourkela-Chhend-Colony/9999PX661-X661-231222034750-Q4Q9_BZDET",
+    "https://meta.ai?place_id=384951994613291",
+    "https://www.youtube.com/shorts/RsV-EoAE8sA",
+    "https://www.justdial.com/Rourkela/New-Iskcon-Rourkela-Under-Construction-Civil-Township/9999PX661-X661-250320220255-R2C6_BZDET"
+  ],
+  "state": "Odisha",
+  "town": "Rourkela",
+  "town_description": "Chhend Colony is a residential neighbourhood of Rourkela in Sundargarh district, Odisha, around 3–4 km from the city centre. The ISKCON centre at Kalyani Nagar Phase 1 serves the Gaudiya Vaishnava community of the steel city.",
+  "tradition": "Gaudiya Vaishnavism (ISKCON)",
+  "travel": {
+    "airport": "Jharsuguda (Veer Surendra Sai Airport) is the nearest airport; Biju Patnaik International Airport, Bhubaneswar is the nearest major airport.",
+    "railway": "Rourkela Junction — major railhead on the Howrah–Mumbai line.",
+    "road": "Kalyani Nagar Phase 1, Chhend Colony, Rourkela — well connected by city roads."
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March; Janmashtami is the major annual celebration.",
+    "opening_hours": "Per Justdial: 4:00 AM–8:00 PM daily (4:00 AM–9:00 PM on Sundays) — verify locally."
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "alternate_names": [
+    "Trimbakeshwar Jyotirlinga Mandir",
+    "Trimbakeshwar Temple"
+  ],
+  "deities": [
+    "Lord Shiva as Triambakeshwar (Jyotirlinga; unique three-faced linga representing Brahma, Vishnu and Mahesh)",
+    "Goddess Ganga (Godavari) - worshipped at Kushavarta kund",
+    "Nandi (large Nandi before the temple; marble Nandi inside)"
+  ],
+  "district": "Nashik",
+  "festivals": [
+    "Maha Shivaratri (biggest annual festival)",
+    "Simhastha Kumbh Mela (every 12 years, Trimbakeshwar-Nashik)",
+    "Shravan Maas (heavy Monday rush)",
+    "Rath Yatra"
+  ],
+  "history": {
+    "dynasty": "Peshwa (Maratha confederacy); present temple commissioned by Peshwa Balaji Baji Rao (Nana Saheb)",
+    "period": "Present temple built 1755-1786 (31 years); earlier temple destroyed by Aurangzeb",
+    "summary": "POSSIBLE DUPLICATE of seq 604 ('Trimbakeshwar Temple', id trimbakeshwar-temple-nashik) - same shrine, same town; this CSV row is filed separately per project convention. Trimbakeshwar at Trimbak, ~28 km from Nashik city, is one of the twelve Jyotirlingas of Lord Shiva and the only one where the linga has three faces - Brahma, Vishnu and Mahesh - worshipped as one deity. Legend: the sage Gautama's penance brought the Ganga down from Brahmagiri as the Godavari; he trapped its first flow in the Kushavarta kund and asked Shiva to reside there. The present black-basalt Hemadpanthi/Nagara-style temple was built 1755-1786 by Peshwa Balaji Baji Rao; the deity was once adorned with the Nassak Diamond, taken by the British in the Third Anglo-Maratha War. Trimbakeshwar is the origin point of the Godavari and one of the four Simhastha Kumbh Mela sites, and a major centre for Narayan Nagbali and Kaal Sarp Dosh Shanti rituals."
+  },
+  "id": "trimbakeshwar-shiva-temple",
+  "latitude": 19.93289,
+  "longitude": 73.52571,
+  "media": [
+    "https://thetasteoftrip.com/wp-content/uploads/2024/06/triyam3-scaled.jpg"
+  ],
+  "name": "Trimbakeshwar Shiva Temple",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Trimbakeshwar_Temple",
+    "https://thetasteoftrip.com/trimbakeshwar-jyotirling-temple/",
+    "https://www.inheritage.foundation/heritage/trimbakeshwar-shiva-temple"
+  ],
+  "state": "Maharashtra",
+  "town": "Trimbak",
+  "town_description": "Trimbak (Trimbakeshwar) is an ancient pilgrim town in Nashik district at the foot of the Brahmagiri hills of the Sahyadris, about 28 km from Nashik city. It is dominated by the Jyotirlinga temple and the Kushavarta kund, believed to be the source of the Godavari river. The town is a major ritual centre - thousands come for ancestral rites like Narayan Nagbali - and it hosts the Simhastha Kumbh Mela every twelve years alongside Nashik.",
+  "tradition": "Hinduism (Shaivism)",
+  "travel": {
+    "airport": "Nashik Ozar Airport (approx. 37-55 km; limited flights - verify). Mumbai CSMI Airport (approx. 170-180 km) is the better-connected option.",
+    "railway": "Nashik Road Railway Station (approx. 36-40 km); taxis and buses run to Trimbak.",
+    "road": "Trimbak is approx. 28 km from Nashik city (NH160); frequent MSRTC buses from Nashik Central Bus Stand. Mumbai approx. 170-180 km."
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "September to March. Maha Shivaratri and Shravan Mondays are the most vibrant but most crowded.",
+    "opening_hours": "CONFLICT (verify): sources list 5:30 AM-9:00 PM, 5:00 AM opening, and 9:30 PM closing. Key pujas: Brahma Puja 7:00-8:30 AM, Mahadev Puja 10:45 AM-12:30 PM, evening aarti 7:00-8:30 PM. Men entering the garbhagriha for abhishek must wear dhoti without shirt; modest dress for general entry."
+  }
+}

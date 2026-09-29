@@ -1,0 +1,55 @@
+{
+  "alternate_names": [
+    "Shri Kapileshwara Swamy Temple",
+    "Kapileshwar Mandir",
+    "Dakshina Kashi"
+  ],
+  "deities": [
+    "Shiva (swayambhu lingam)",
+    "Ganesha",
+    "Hanuman",
+    "Dattatreya",
+    "Sai Baba",
+    "Navagraha"
+  ],
+  "district": "Belagavi",
+  "festivals": [
+    "Mahashivratri",
+    "Shravan month observances"
+  ],
+  "history": {
+    "dynasty": "Unknown / early medieval",
+    "period": "Origins traditionally placed around 1000 CE; chronology inconsistent across sources",
+    "summary": "One of the oldest Shiva shrines in Belagavi, revered as 'Dakshina Kashi' (Kashi of the South). Devotional tradition says Sage Kapila Muni established the lingam here, which is regarded as swayambhu (self-manifested); the temple's fire pit is said to have remained alive since the sage's time. Historical material associated with the site references Kapileshwar, and some accounts place origins around 1000 CE, though no single founding date is reliably documented. The complex also houses shrines of Ganesha, Hanuman, Datta, and Sai Baba plus a Navagraha shrine. Morning archana/naivedya and Maha Mangalarati with an afternoon break are recorded by the Karnataka Endowments Department; the exact afternoon closure window is unverified."
+  },
+  "id": "shri-kapileshwar-temple-belagavi",
+  "latitude": 15.85190205,
+  "longitude": 74.51597681,
+  "media": [
+    "https://d2r1gsa5d4zauq.cloudfront.net/images/article/36/6136_pictures1_4.jpg"
+  ],
+  "name": "Shri Kapileshwar Temple",
+  "sources": [
+    "https://urmitikaknowledge.com/kapileshwar-temple",
+    "https://Wanderlog.com/place/details/6143880/shri-kapileshwar-temple",
+    "https://www.justdial.com/Belgaum/Hindu-Shrine-in-Kapileshwar-Road-Belgaum/nct-12265868"
+  ],
+  "state": "Karnataka",
+  "town": "Belagavi",
+  "town_description": "Belagavi (Belgaum) is a major city in northwestern Karnataka near the Maharashtra and Goa borders, known for the historic Belgaum Fort, the 1204 Kamala Basti, and its colleges; it sits on an important road and rail link between Mumbai and Bengaluru.",
+  "tradition": "Shaivism",
+  "travel": {
+    "airport": "Belagavi Airport, Sambra (~10 km from the temple)",
+    "railway": "Belagavi Railway Station (~1 km)",
+    "road": "Kapileshwar Road, Shahapur; about 2 km from the central bus stand"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "Mahashivratri and the Shravan month for the festival atmosphere (recommended by the district tourism page); October-March for a quieter visit.",
+    "opening_hours": "Listed as 5:00 AM - 9:00 PM daily; the Karnataka Endowments Department notes a midday break — exact afternoon closure window unverified."
+  }
+}

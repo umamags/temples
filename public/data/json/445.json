@@ -1,0 +1,50 @@
+{
+  "alternate_names": [
+    "Dodda Basavanna Gudi",
+    "Nandi Temple",
+    "Bull Temple Bangalore"
+  ],
+  "deities": [
+    "Nandi (Basava)",
+    "Shiva"
+  ],
+  "district": "Bengaluru Urban",
+  "festivals": [
+    "Kadalekai Parishe"
+  ],
+  "history": {
+    "dynasty": "Vijayanagara Empire",
+    "period": "1537 CE",
+    "summary": "Built in 1537 by Kempe Gowda I, the Vijayanagara chieftain who founded Bengaluru, in the Vijayanagara architectural style. Dedicated to Nandi (Basava in Kannada), Lord Shiva's vahana; the garbhagriha holds a large granite Nandi monolith — approximately 15 ft (4.6 m) tall and 20 ft (6.1 m) long — blackened by years of being rubbed with charcoal and oil, said to be one of the largest Nandi idols in the world. The small shrine is fronted by a Vijayanagara-style porch; the current tower (vimana) over the shrine was built in the early 20th century and carries Saivite figures. Local legend: a bull was devouring the villagers' groundnut crop on full-moon days; Nandi appeared in Kempe Gowda's dream asking for a temple on the hill, which grew until a nail (soolam/trident) stopped it — origin of the annual Kadalekai Parishe (groundnut fair). Stands within the Bugle Rock garden area, adjacent to the Dodda Ganesha temple. Coordinates from geocoding (matched the adjacent Dodda Ganesha Temple on Bull Temple Road, ~a few hundred metres away); treat as approximate."
+  },
+  "id": "bull-temple-basavanagudi",
+  "latitude": 12.9428,
+  "longitude": 77.56808,
+  "media": [
+    "https://aisywlc.ieeebangalore.org/wp-content/uploads/2026/08/bull-temple-dodda-basavana-gudi.jpeg"
+  ],
+  "name": "Dodda Basavana Gudi (Bull Temple)",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Dodda_Basavana_Gudi",
+    "https://www.pilgrimaide.com/blog/Bull-Nandi-Temple-Bangalore-Dodda-Basavana-Gudi?journal_blog_category_id=7",
+    "https://velpu.com/temple/Dodda-Basavana-Temple/NDgz"
+  ],
+  "state": "Karnataka",
+  "town": "Bengaluru",
+  "town_description": "Bengaluru is the capital of Karnataka and India's technology hub, often called the Garden City. It is one of India's largest cities, with temples ranging from 16th-century Vijayanagara shrines to modern complexes.",
+  "tradition": "Shaivite (Nandi, vehicle of Shiva)",
+  "travel": {
+    "airport": "Kempegowda International Airport (~35 km)",
+    "railway": "Bengaluru City (KSR) railway station",
+    "road": "Bull Temple Road, Basavanagudi, Bengaluru 560004; adjacent to Dodda Ganesha Temple and Bugle Rock garden"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October-March; the annual Kadalekai Parishe (groundnut fair) is the liveliest time",
+    "opening_hours": "6:00 AM - 8:00 PM daily (per velpu.com - verify locally)"
+  }
+}

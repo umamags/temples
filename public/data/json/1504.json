@@ -1,0 +1,53 @@
+{
+  "alternate_names": [
+    "Jagat Mandir",
+    "Nija Mandir",
+    "Dwarakadheesh Temple"
+  ],
+  "deities": [
+    "Krishna (as Dwarkadhish, 'King of Dwarka')"
+  ],
+  "district": "Devbhoomi Dwarka",
+  "festivals": [
+    "Janmashtami",
+    "Holi",
+    "Rath Yatra",
+    "Diwali"
+  ],
+  "history": {
+    "dynasty": "legendary founder Vajranabh; present fabric shows 15th–16th c. Chalukya/Maru-Gurjara work after destruction by Mahmud Begada (1472/1473)",
+    "period": "legend claims >2,000–2,500 years (founded by Vajranabh); present structure 15th–16th century",
+    "summary": "The Jagat Mandir of Dwarka is one of the Char Dham and the Sapta Puri (Moksha Puri). Tradition says it was founded by Vajranabh, Krishna's great-grandson (some sources say grandson — verify), on land reclaimed from the sea; archaeology suggests the ancient city is submerged offshore. The present 5-storey, 72-pillar temple in Maru-Gurjara (Chalukya) style was rebuilt in the 15th–16th century after Mahmud Begada destroyed the earlier structure in 1472/1473; Adi Shankaracharya visited in the 8th century. The 43 m shikhara flies a 52-yard flag bearing sun and moon; entry/exit are through the Moksha Dvara and Swarga Dvara. A Pushtimarg temple following Vallabhacharya's rituals."
+  },
+  "id": "dwarkadhish-temple",
+  "latitude": 22.2378,
+  "longitude": 68.9675,
+  "media": [
+    "https://dharohar.hargharpuja.com/wp-content/uploads/2024/08/Dwarkadhish-Mandir-Gujarat.jpg"
+  ],
+  "name": "Dwarkadhish Temple (Jagat Mandir)",
+  "sources": [
+    "https://gtbooking.gujarattourism.com/saurashtra/devbhoomi-dwarka/dwarkadhish-temple.html",
+    "https://www.gosahin.com/places-to-visit/dwarkadhish-dwarka/",
+    "https://www.mandirtimings.com/dwarkadhish-temple-darshan-timings-online-booking/",
+    "https://trek.zone/en/india/places/54083/dwarkadhish-temple"
+  ],
+  "state": "Gujarat",
+  "town": "Dwarka",
+  "town_description": "Dwarka is an ancient pilgrim city on the western tip of the Kathiawar (Saurashtra) peninsula in Devbhoomi Dwarka district, where the Gomti river meets the Arabian Sea. Believed to have been founded by Krishna as his capital, it is counted among the Char Dham and Sapta Puri; offshore marine archaeology continues to explore submerged remains linked to the legendary city.",
+  "tradition": "Hinduism (Vaishnavism — Pushtimarg)",
+  "travel": {
+    "airport": "Nearest airports at Jamnagar and Porbandar (~100–140 km, verify)",
+    "railway": "Dwarka railway station in the town (verify)",
+    "road": "Well connected by road to Jamnagar, Rajkot and Somnath (verify); Sudama Setu bridge crosses the Gomti creek near the temple"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "November–February; Janmashtami is the grandest festival but very crowded",
+    "opening_hours": "CONFLICT (verify): most sources 6:30 AM–1:00 PM and 5:00 PM–9:30 PM; Gujarat Tourism lists 7 AM–12:30 PM and 5–9 PM"
+  }
+}

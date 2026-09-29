@@ -1,0 +1,47 @@
+{
+  "alternate_names": [
+    "Ganga Jamuna Temple"
+  ],
+  "deities": [
+    "Goddess Ganga",
+    "Goddess Yamuna"
+  ],
+  "district": "Papum Pare",
+  "festivals": [
+    "Ganga Dussehra (verify)",
+    "Kartik Purnima (verify)"
+  ],
+  "history": {
+    "dynasty": "Modern (verify)",
+    "period": "Unknown (verify)",
+    "summary": "TOWN CORRECTION: the CSV town 'Itanagar' is approximate - the temple stands on NH-52A at Banderdewa (Banderdawa, Ranga De-reserve, plus-code 4R4G+P93), about 20+ km from central Itanagar, near the Assam-Arunachal border. The Ganga Jamuna Mandir is a Hindu temple dedicated to the sacred rivers Ganga and Yamuna, serving the migrant Hindu community of the Itanagar capital region. No published construction date or founder could be found; travel guides list darshan 6:00 AM-8:00 PM with free entry."
+  },
+  "id": "ganga-jamuna-mandir-banderdewa",
+  "latitude": 27.10672,
+  "longitude": 93.82569,
+  "media": [],
+  "name": "Ganga Jamuna Mandir",
+  "sources": [
+    "https://wanderon.in/blogs/temples-in-itanagar",
+    "https://www.justdial.com/Itanagar/Temples/nct-10475644",
+    "https://www.instagram.com/explore/locations/118389868872687"
+  ],
+  "state": "Arunachal Pradesh",
+  "town": "Banderdewa",
+  "town_description": "Banderdewa (Banderdawa) is a border checkpoint town on NH-52A/NH-15 in Papum Pare district, the gateway into the Itanagar Capital Complex from the Assam plains. It is a transit hub of markets, transport links and roadside shrines serving travellers and the migrant workforce of the capital region.",
+  "tradition": "Hinduism",
+  "travel": {
+    "airport": "Donyi Polo Airport, Holongi (approx. 20-25 km).",
+    "railway": "Naharlagun railway station (approx. 12 km).",
+    "road": "On NH-52A at Banderdewa (Ranga De-reserve); on the Itanagar-Naharlagun road, reachable by bus, taxi and auto."
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March; Ganga Dussehra (June) and Kartik Purnima are the likely festival peaks (verify).",
+    "opening_hours": "6:00 AM-8:00 PM daily, per a travel guide (verify); free entry."
+  }
+}

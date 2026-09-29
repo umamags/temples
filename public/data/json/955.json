@@ -1,0 +1,53 @@
+{
+  "alternate_names": [
+    "Sri Venkatesa Perumal Temple (Melathiruppathi)",
+    "Mela Tirupathi",
+    "Mondipalayam Venkatesa Perumal Temple"
+  ],
+  "deities": [
+    "Sri Venkatesa Perumal (Venkatachalapathi; Swayambu image - flat on four sides and conical in the centre - with conch, disc, Saligram and Chikandi)"
+  ],
+  "district": "Tiruppur",
+  "festivals": [
+    "Purattasi festival (September-October - the key Vaishnavite month)",
+    "Temple Chariot (car) festival",
+    "Thirukalyana Utsavam (per the temple's activity listing; Satyanarayana Puja, homams and Thirumanjanam Abhishekam are also listed)"
+  ],
+  "history": {
+    "dynasty": "None documented by name; Wikipedia lists the temple as completed in the 16th century, in Kongunadu architectural style",
+    "period": "16th century (Wikipedia infobox); the Swayambu image is said to have been discovered about 300 years ago",
+    "summary": "CSV TOWN FLAG: the CSV lists the town as Tiruppur, but the best-supported referent - 'Sri Venkatesa Perumal Temple (Melathiruppathi) - Mondipalayam', the noted Kongunadu Vishnu temple with its own Wikipedia article - stands at Mondipalayam near Punjai Puliyampatti (Avinashi taluk), about 30 km from Tiruppur town via Avinashi; Tiruppur is the district, not the town. Documented as the Mondipalayam temple. AMBIGUITY FLAG: a separate, modern 'Tirupur Thirupathi Sri Venkatesa Perumal Temple' - a replica of the Tirumala temple built and managed by the Sri Venketraman and Subhadraa Family Trust - stands inside Tiruppur city itself; if the CSV meant that shrine, this file would need to move. Legend of the Mondipalayam temple: about 300 years ago a devotee named Kondamanaicker saw his cow shedding milk on a sandhill; digging there, he unearthed the image with conch and disc, and built the temple for Sri Venketachalapathi. Called Melathiruppathi ('Tirupati of the West'), it is one of the noted Vishnu temples of Kongunadu - devotees unable to reach Tirupati may fulfil their vows here. The Dwajasthambam, Bali Peetam, Kodi Maram and Garuda Azhwar stand before the sanctum, where the east-facing Swayambu Perumal gives darshan."
+  },
+  "id": "sri-venkatesa-perumal-temple-mondipalayam",
+  "latitude": 11.294238,
+  "longitude": 77.164705,
+  "media": [
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_n96T_-M3u-Pp7DtIL8B_yj4eWXFjOIRFmmGJtkzH2uVglnxR9pz8voRDqLa4YVgv0zgbbDPiZ0ZzHUr8jCFOE9Ni-1EEJkSsPxeCpqrq5H7nFpTd6T2W1inTD7hFCrWmy5fk-eRCvjI/s640/DSCN3382.JPG"
+  ],
+  "name": "Sri Venkatesa Perumal Temple",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Sri_Venkatesa_Perumal_Temple_(Melathiruppathi)_%E2%80%93_Mondipalayam",
+    "https://www.tiruppuronline.in/guide/tirupur-thirupathi-sri-venkatesa-perumal-temple",
+    "https://vimarsana.com/ampreview/sri-venkatesa-perumal-temple-mondipalayam-punjai-puliyampatti-india",
+    "https://alchetron.com/Sri-Venkatesa-Perumal-Temple-%28Melathiruppathi%29-%E2%80%93-Mondipalayam",
+    "http://veludharan.blogspot.com/2019/01/arulmigu-venkatesa-perumal-temple-mela.html"
+  ],
+  "state": "Tamil Nadu",
+  "town": "Mondipalayam",
+  "town_description": "Mondipalayam is a village in Tiruppur district on the Coimbatore-Sathyamangalam highway, about 5 km east of Pasur village and roughly 30 km from Tiruppur city via Avinashi. Known as Melathiruppathi ('Tirupati of the West'), it is a Kongunadu Vaishnavite pilgrimage centre rather than an urban temple.",
+  "tradition": "Vaishnavism",
+  "travel": {
+    "airport": "Coimbatore International Airport (approx. 55 km - verify).",
+    "railway": "Tiruppur railway station (approx. 30 km via Avinashi - verify).",
+    "road": "On the Coimbatore-Sathyamangalam highway, 5 km east of Pasur on the Annur-Sathy road; 27 km from Sathyamangalam via Punjai Puliyampatti."
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March; Purattasi (September-October) is the most auspicious month for Perumal worship.",
+    "opening_hours": "No published opening hours found for this temple - verify locally before visiting."
+  }
+}

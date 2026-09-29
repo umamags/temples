@@ -1,0 +1,58 @@
+{
+  "alternate_names": [
+    "Cave Temple",
+    "Gufa Mandir Lalghati"
+  ],
+  "deities": [
+    "Shiva",
+    "Radha-Krishna",
+    "Rama",
+    "Sita",
+    "Lakshmana",
+    "Hanuman",
+    "Durga"
+  ],
+  "district": "Bhopal",
+  "festivals": [
+    "Maha Shivaratri",
+    "Navratri",
+    "Sawan Mela",
+    "Hanuman Jayanti"
+  ],
+  "history": {
+    "dynasty": "Modern (20th century)",
+    "period": "Discovered 1949; reconstruction 2 April 1965",
+    "summary": "Gufa Mandir is a cave temple complex on a small hill at Lalghati (Nayapura), Bhopal. The widely repeated account is that seven natural caves here were discovered in 1949 by Shri Mahant Narayandas Ji Tyagi, with reconstruction work completed on 2 April 1965. One cave holds a swayambhu (self-manifested) Shiva pindi said to be bathed by natural spring water that never dries up even in summer. Below the caves are tableaux of Radha-Krishna and Ram-Janaki-Lakshman, an old Hanuman shrine, and a Durga shrine with the three goddesses; a Sanskrit college also stands on the premises. NOTE (CONFLICT): one source (yometro) claims the temple was carved in 1947 by 'Shri Ramesh Bhai Ojha' — this contradicts the Tyagi 1949 discovery account and is unverified."
+  },
+  "id": "gufa-mandir-bhopal",
+  "latitude": 23.27653,
+  "longitude": 77.3758,
+  "media": [
+    "https://www.mytownblog.com/wp-content/uploads/2023/10/Untitled-design-2023-10-03T151131.384-1024x597.png"
+  ],
+  "name": "Gufa Mandir (Cave Temple)",
+  "sources": [
+    "https://www.trawell.in/madhya-pradesh/bhopal/cave-temple-gufa-mandir",
+    "https://temple.yatradham.org/temple/gufa-mandir",
+    "https://praveenmusafir.com/madhya-pradesh/bhopal/gufa-mandir/",
+    "https://yometro.com/travel-guide/attraction-gufa-mandir-bhopal"
+  ],
+  "state": "Madhya Pradesh",
+  "town": "Bhopal",
+  "town_description": "Bhopal, the capital of Madhya Pradesh, is known as the 'City of Lakes' for its twin Upper and Lower Lakes, the larger Upper Lake (Bhojtal) attributed to the 11th-century Paramara king Raja Bhoja. The city blends historic Islamic-era architecture — the Begums of Bhopal ruled here for over a century — with modern institutions, museums and a fast-growing new city. It is the state's administrative and cultural hub, well connected by rail, air and road, and a gateway to heritage sites like Sanchi, Bhimbetka and Bhojpur.",
+  "tradition": "Hinduism (Shaivism)",
+  "travel": {
+    "airport": "Raja Bhoj Airport, Bhopal — approx 7 km (verify)",
+    "railway": "Bhopal Junction — approx 6.5–7 km",
+    "road": "Gufa Mandir Road / Idgah–Ramanand Nagar Road, Lalghati; local buses, autos and taxis from the city"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "January to April; large fairs on Mahashivaratri, Navratri and in Sawan",
+    "opening_hours": "CONFLICT (verify) — yatradham lists 6:30 AM–7:00 PM; trawell lists 7:00 AM–6:00 PM; free entry"
+  }
+}

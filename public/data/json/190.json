@@ -1,0 +1,46 @@
+{
+  "alternate_names": [
+    "Devrani-Jethani Temple Complex",
+    "Devrani Jethani Mandir, Tala"
+  ],
+  "deities": [
+    "Shiva (Rudra Shiva); the famous 7-ft composite Rudra Shiva statue excavated at the site is kept in situ"
+  ],
+  "district": "Bilaspur",
+  "festivals": [],
+  "history": {
+    "dynasty": "Sharabhpuriya dynasty (legend attributes construction to two queens of King Rajprasahad/Rajprashad for his brothers' wives, the devrani and jethani)",
+    "period": "5th-6th century CE (Wikipedia dates the complex 525-550 CE)",
+    "summary": "A pair of ruined temples in Tala (Talagram) village, ~28 km from Bilaspur on the Maniyari river, protected as an ASI monument. The Devrani temple (red sandstone, Gupta style, faces east) is well preserved; the Jethani temple (Kushan style, faces south) survives as fragments. The 1987-88 excavation in front of the Devrani temple uncovered a unique ~7-ft, ~5-tonne Rudra Shiva statue whose body parts are formed of various creatures and eight human heads. Discovered accidentally in 1974; declared a protected monument in 1984. No documented annual festivals found. CSV TOWN CORRECTION: actual town is Tala village (Bilaspur district), not Bilaspur city. Opening hours below (10 AM-5 PM, Sun closed) come from a single travel site and are unverified."
+  },
+  "id": "deorani-jethani-temple-tala",
+  "latitude": 21.9072,
+  "longitude": 82.0259,
+  "media": [
+    "https://chhattisgarhtourism.co.in/destinations/devrani_jethani.jpg"
+  ],
+  "name": "Devrani-Jethani Temple Complex",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Devrani_Jethani_Temple_Complex",
+    "https://en.wikipedia.org/wiki/Tala,_Chhattisgarh",
+    "https://travelsetu.com/guide/deoranijethani-temple-tourism"
+  ],
+  "state": "Chhattisgarh",
+  "town": "Tala",
+  "town_description": "Tala (also called Talagram or Talagaon) is a village in Bilaspur district, ~28 km from Bilaspur city, known for its ancient Devrani-Jethani temple complex and the unique Rudra Shiva statue found there.",
+  "tradition": "Shaivism (Hinduism)",
+  "travel": {
+    "airport": "Swami Vivekananda Airport, Raipur (~110 km)",
+    "railway": "Bilaspur Junction (~28 km)",
+    "road": "About 28 km from Bilaspur by road, near the Maniyari river"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March",
+    "opening_hours": "Reported as 10:00 AM - 5:00 PM Monday-Saturday, closed Sundays (single travel-site source; verify before visiting). Entry reported free."
+  }
+}

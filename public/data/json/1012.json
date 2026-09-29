@@ -1,0 +1,59 @@
+{
+ "alternate_names": [
+  "Alampuram Navabrahma Temples",
+  "Nava Brahma Temples",
+  "Navabhrama Temples"
+ ],
+ "deities": [
+  "Lord Shiva as Bala Brahma (principal/active shrine)",
+  "Lord Shiva as Taraka Brahma",
+  "Lord Shiva as Swarga Brahma",
+  "Lord Shiva as Padma Brahma",
+  "Lord Shiva as Garuda Brahma",
+  "Lord Shiva as Kumara Brahma",
+  "Lord Shiva as Arka Brahma",
+  "Lord Shiva as Vira Brahma",
+  "Lord Shiva as Vishwa (Viswa) Brahma"
+ ],
+ "district": "Jogulamba Gadwal",
+ "festivals": [
+  "Maha Shivaratri"
+ ],
+ "history": {
+  "dynasty": "Badami Chalukyas",
+  "period": "7th to 9th centuries CE (the nine temples dated 7th-8th century per most sources)",
+  "summary": "The Navabrahma Temples are nine early Badami Chalukya Hindu temples at Alampur, named 'Nava-Brahma' though all are dedicated to Shiva: Taraka, Swarga, Padma, Bala, Garuda, Kumara, Arka, Vira and Vishwa Brahma. They are early examples of Nagara (Karnata-Dravida/Vesara) stone architecture with square plans, curvilinear shikharas, and carvings of Shaiva, Vaishnava and Shakta themes including Panchatantra friezes; Bala Brahma (with a 702 CE inscription) is the principal active shrine, Swarga Brahma (built 681-696 CE) the most ornate. The temples were damaged and defaced during Islamic invasions from the 14th century; an Islamic fort, mosque and dargah were built amidst them in the 15th-17th centuries, and some temples were relocated to higher ground after the Srisailam dam project. Restored by the Archaeological Survey of India after 1980, they are an ASI-protected monument complex; the Jogulamba Shakti Peetha (see 1011.json) stands in the same courtyard. CSV CORRECTIONS: the CSV town 'Mahbubnagar' is wrong - the temples are at ALAMPUR in Jogulamba Gadwal district (Alampur is about 120 km from Mahbubnagar town, per tripadvisor sources)."
+ },
+ "id": "alampur-navabrahma-temples",
+ "latitude": 15.877806,
+ "longitude": 78.134833,
+ "media": [
+  "https://lightuptemples.com/wp-content/uploads/temple/profile_image/temp-0776.jpg"
+ ],
+ "name": "Alampur Navabrahma Temples",
+ "sources": [
+  "https://en.wikipedia.org/wiki/Alampur_Navabrahma_Temples",
+  "https://en.wikipedia.org/wiki/Alampuram_(Hemalapuram)",
+  "https://orangenews9.com/alampur-navabrahma-temples-jogulamba-gadwal-district-telangana/",
+  "https://www.tripadvisor.co.za/ShowUserReviews-g2295145-d3913315-r807423324-Navabhrama_Temples-Alampur_Jogulamba_Gadwal_District_Telangana.html",
+  "https://www.pilgrimaide.com/blog/Alampur-Navabrahma-Temples"
+ ],
+ "state": "Telangana",
+ "town": "Alampur",
+ "town_description": "Alampur (Alampuram/Hemalapuram) is a temple town in Jogulamba Gadwal district on the left bank of the Tungabhadra river near its confluence with the Krishna, about 215-220 km south of Hyderabad and 26 km from Kurnool. Known as Dakshina Kasi and the western gateway to Srisailam, it holds the Jogulamba Shakti Peetha, the Navabrahma temples, the 9th-11th century Papanasi temples and an ASI museum.",
+ "tradition": "Hinduism (Shaivism)",
+ "travel": {
+  "airport": "Rajiv Gandhi International Airport, Hyderabad, about 215 km from Alampur.",
+  "railway": "Kurnool railway station, about 26 km away (verify).",
+  "road": "On NH44 (Hyderabad-Bengaluru highway); about 1 km from the Alampur bus stand."
+ },
+ "video": {
+  "audio": "",
+  "script": "",
+  "video_file": ""
+ },
+ "visitor_information": {
+  "best_time": "October to March.",
+  "opening_hours": "Reported 7:00 AM-1:00 PM and 2:30 PM-8:30 PM (verify before visiting)."
+ }
+}

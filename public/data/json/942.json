@@ -1,0 +1,54 @@
+{
+ "alternate_names": [
+  "Sukavaneswarar Temple",
+  "Arulmigu Sri Swarnambigai Udanurai Sri Sugavanesuwarar Swamy Temple"
+ ],
+ "deities": [
+  "Sugavaneswarar (Shiva — swayambhu lingam, tilted with a scar from the hunter's arrow)",
+  "Swarnambika / Sornambigai / Maragathavalli (Parvati, consort — south-facing shrine)",
+  "Valamburi Vinayagar (rare two-faced Vinayagar)",
+  "Shiva, Parvathi and Vinayaga together as the 'Mummoorthigal'"
+ ],
+ "district": "Salem",
+ "festivals": [
+  "Maha Shivaratri (verify — not specifically documented in consulted sources)",
+  "Pradosham observances (verify)"
+ ],
+ "history": {
+  "dynasty": "Chera, Chola and Pandya (inscriptions); also attributed to Sundara Pandiyan (13th c.) — ATTRIBUTION CONFLICT flagged; Alankara mandapam built 1823 by British collector W.D. Davis",
+  "period": "Sangam-period origins claimed (2000+ years, legendary); present structure 9th century per Uttama Chola inscription; other sources say ~500 years or 13th century — BUILT-DATE CONFLICT flagged (verify)",
+  "summary": "Arulmigu Sugavaneswarar Temple at Mettu Agraharam, Cherry Road near the Fort area, in central Salem city (CSV town 'Salem' is correct; ~2-acre compact shrine with a small three-tiered east-facing Rajagopuram). Dedicated to Shiva as Sugavaneswarar ('Parrot-Shiva') with consort Swarnambika. Legend: Brahma cursed the sage Suka (Suga Brahma Rishi, of parrot voice/face) into a parrot; worshipping Shiva here, the parrots hid in an anthill from a hunter whose weapon struck the lingam — tilting it and leaving the scar still visible — and Suka shielded the lingam with his wings, attaining liberation; the forest was hence Sukavanam. The swayambhu lingam tilts slightly to the right. Saint Avvaiyar is said to have performed miracles here and married off her adopted daughter in this shrine, attended by the Chola, Chera and Pandya monarchs (legend). The Saivite saint poets sang its glories; the sthala puranam claims it as a Paadal Petra Sthalam of Sundara Nayanar, though that song is untraced (verify). Arunagirinathar sang of Subrahmanya here. Inscriptions: Uttama Chola (9th c.) and Parantaka Chola (as 'Kizhi vana nathar alayam', Tamil for Sukavaneswara). Notables: the Amanduga ('frogless') well in the 80-pillared hall's north — Adisesha is said to reside there and frogs die in its water (legend); a shrine to Avvaiyar; the 63 Nayanmars; Mysore-dynasty traces; a temple tank across the lane. One of five swayambhu Shiva sthalams on the banks of the Manimuthar river — worship at all five in a day is believed to remove sins (verify)."
+ },
+ "id": "sugavaneswarar-temple-salem",
+ "latitude": 11.657137,
+ "longitude": 78.159934,
+ "media": [
+  "https://files.yappe.in/place/full/arulmigu-sugavaneswarar-swamy-temple-1061175.webp"
+ ],
+ "name": "Sugavaneswarar Temple",
+ "sources": [
+  "https://salemsugavaneswarar.hrce.tn.gov.in/hrcehome/index_temple.php?tid=4858",
+  "https://tamilnadutourisminfo.com/sugavaneswarar-temple-salem/",
+  "http://templenet.com/Tamilnadu/sugasale.html",
+  "https://www.oneindiaonline.com/salem-temples.php",
+  "https://www.salemonline.in/guide/sugavaneshwarar-temple"
+ ],
+ "state": "Tamil Nadu",
+ "town": "Salem",
+ "town_description": "Salem is a major city in central Tamil Nadu at the foot of the Yercaud (Shevaroy) Hills — headquarters of Salem district, known for textiles, steel, sago and mangoes.",
+ "tradition": "Hinduism (Shaivism); claimed Paadal Petra Sthalam (verify)",
+ "travel": {
+  "airport": "Salem Airport — roughly 15 km (verify).",
+  "railway": "Salem Junction — roughly 2-3 km from the Old Bus Stand area (verify).",
+  "road": "Cherry Road near the Fort area, Mettu Agraharam — central Salem, near the Old Bus Stand."
+ },
+ "video": {
+  "audio": "",
+  "script": "",
+  "video_file": ""
+ },
+ "visitor_information": {
+  "best_time": "October to March for pleasant weather (verify).",
+  "opening_hours": "Reported 6:00 AM-9:00 PM daily (Friday till 9:30 PM) per a place listing (verify)."
+ }
+}

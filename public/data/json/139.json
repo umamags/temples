@@ -1,0 +1,55 @@
+{
+  "alternate_names": [
+    "Baba Garibnath Temple",
+    "Baba Garibnath Dham",
+    "Garib Sthan (Garib Asthan)"
+  ],
+  "deities": [
+    "Lord Shiva as Baba Garibnath / Garibeshwara (Swayambhu Shivalinga - self-manifested)",
+    "Lord Kartik",
+    "Lord Ganesha",
+    "Radha-Krishna and Surya Narayana (northeast shrines)",
+    "Nandi (whispered-wishes murti)"
+  ],
+  "district": "Muzaffarpur",
+  "festivals": [
+    "Maha Shivaratri",
+    "Shravani Mela / Shravan month (Wikipedia lists 'Sharabani Mela' - likely Shravani)",
+    "Naag Panchami"
+  ],
+  "history": {
+    "dynasty": "18th century - built under patronage of Rani Bhubaneshwari Devi, queen of Darbhanga (per templeyatri.in)",
+    "period": "18th century (~300 years old)",
+    "summary": "Garibnath Temple is one of Muzaffarpur's oldest Shiva temples, known as the 'Deoghar of Bihar' / second Baidyanath; the presiding deity Garibnath ('lord of the poor') is believed to relieve the problems of the poor. Legend: the site was a dense forest with seven banyan/peepal trees; when the landowner cut them, blood-red sap flowed from the sixth tree and the axe struck a hidden Shivalinga. Shiva appeared in the owner's dream that night, identifying himself as Baba Garibnath and ordering a temple built on the spot, with his devotee Shivdhari Pathak of Chapra appointed as priest. The Swayambhu lingam sits 1.5 ft below the sanctum floor with a silver-covered base and octagonal ashtadhatu argha; the main dome carries seven ashtadhatu kalashas; the complex has a sacred well (Chandrakupa) and shrines to Kartik, Ganesha, Radha-Krishna and Surya Narayana. The temple is under the Bihar State Board of Religious Trusts (per Wikipedia). Coordinates geocoded to Garib Asthan Road, corroborated by Wikipedia's 26.12444, 85.39028. DUPLICATE NOTE: this temple is the same as CSV seq 142 (same Baba Garibnath temple, Muzaffarpur); the two CSV rows are duplicates with distinct file ids."
+  },
+  "id": "baba-garibnath-temple-muzaffarpur",
+  "latitude": 26.12453,
+  "longitude": 85.39173,
+  "media": [
+    "https://files.yappe.in/place/full/garib-nath-mandir-1846898.webp"
+  ],
+  "name": "Garib Sthan Mandir (Baba Garibnath Temple)",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Garibnath_Temple",
+    "https://www.hindu-blog.com/2015/07/baba-garibnath-temple-at-muzaffarpur-in.html",
+    "https://www.garibnathdham.in/"
+  ],
+  "state": "Bihar",
+  "town": "Muzaffarpur",
+  "town_description": "Muzaffarpur is a major city in north-central Bihar on the Burhi Gandak River, famous for its litchis and known as the 'Lychee Kingdom' of India.",
+  "tradition": "Hinduism (Shaivism)",
+  "travel": {
+    "airport": "Jay Prakash Narayan International Airport, Patna (~75 km) is the nearest airport.",
+    "railway": "Muzaffarpur Junction is the nearest railway station, close to the temple within the city.",
+    "road": "Located in the city centre on Garib Asthan Road, near Purani/Purna Bazaar; well connected by road."
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March; the Shravan month and Maha Shivaratri draw very large crowds",
+    "opening_hours": "4:00 AM - 12:00 AM daily (per the temple's place listing - verify)"
+  }
+}

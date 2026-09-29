@@ -1,0 +1,43 @@
+{
+  "alternate_names": [
+    "Vyas Cave Temple",
+    "Vyas Gufa"
+  ],
+  "deities": [
+    "Maharishi Vyasa (sage memorial cave; no murti temple)"
+  ],
+  "district": "Bilaspur",
+  "festivals": "None documented",
+  "history": {
+    "dynasty": "Legendary (Mahabharata tradition)",
+    "period": "Mythological; present-day site undocumented",
+    "summary": "Local tradition holds that Maharishi Vyasa, compiler of the Vedas and author of the Mahabharata, meditated in this natural cave on the bank of the Sutlej at the foot of Bilaspur town; the town's original name 'Vyaspur' is traced to him. The cave is listed among Bilaspur's oldest religious sites (velpu.com gives altitude 610 m and ~1 km from Bilaspur town). Caution: the velpu.com page mixes in material about the separate, better-known Vyas Gufa at Mana near Badrinath, Uttarakhand — its Saraswati/Alaknanda paragraphs refer to that cave, not this one. Coordinates are approximate (town-proximate); verify locally. Media is empty because every image returned for 'Vyas Gufa Bilaspur' shows the Mana/Badrinath cave."
+  },
+  "id": "vyas-cave-bilaspur",
+  "latitude": 31.3365,
+  "longitude": 76.7525,
+  "media": [],
+  "name": "Vyas Cave",
+  "sources": [
+    "https://velpu.com/poi/Caves/VYAS-CAVE/MTA0NQ==",
+    "https://mysterioushimachal.wordpress.com/2026/08/13/the-lost-origins-of-bilaspur-how-sage-vyasa-ancient-tribes-and-an-exiled-prince-created-the-kingdom-of-kahlur/"
+  ],
+  "state": "Himachal Pradesh",
+  "town": "Bilaspur",
+  "town_description": "Bilaspur is a district headquarters town on the Sutlej in Himachal Pradesh; the old town was submerged by Gobind Sagar Lake after the Bhakra Dam, and the modern town sits beside the reservoir.",
+  "tradition": "Hindu (sage memorial / tapobhumi)",
+  "travel": {
+    "airport": "Shimla, ~85 km (per velpu.com)",
+    "railway": "Kalka, ~97 km (per velpu.com)",
+    "road": "At the foot of Bilaspur town, ~1 km from the town centre; reachable by road"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "April–October (per velpu.com)",
+    "opening_hours": "8:00 AM – 6:00 PM (per velpu.com; verify locally)"
+  }
+}

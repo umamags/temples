@@ -1,0 +1,43 @@
+{
+ "alternate_names": [],
+ "deities": [
+  "Shirdi Sai Baba (the documented Namchi shrine - seq 902/905 referent)"
+ ],
+ "district": "Gangtok",
+ "festivals": [],
+ "history": {
+  "dynasty": "None (unverified)",
+  "period": "Undocumented - no Tadong Sai temple found",
+  "summary": "CSV ERROR / PROBABLE DUPLICATE FLAG: no 'Shirdi Sai Temple' at Tadong could be found after genuine web searching (travel guides, place listings and Sikkim tourism sources all fail to document one). The well-documented Sai Mandir of Sikkim stands at Assangthang, Namchi (CSV rows 902 'Sai Mandir' and 905 'Shirdi Sai Mandir' - themselves a possible duplicate pair), built in 2010 and opened on 3 November 2010 as a gift of then Chief Minister Pawan Chamling, described as Sikkim's first Sai mandir. This row 921 is very likely a third duplicate of that same Namchi shrine or a CSV town error. Deprecate or merge with 902/905; do NOT list a phantom Tadong temple. Identity UNVERIFIED - treat as placeholder pending CSV-owner confirmation. Coordinates below are the Tadong town centre (no temple located), flagged accordingly."
+ },
+ "id": "shirdi-sai-temple-tadong-sikkim-unverified",
+ "latitude": 27.33037,
+ "longitude": 88.61221,
+ "media": [
+  "https://sikkimtourism.org/wp-content/uploads/2022/06/Sai-Mandir-Namchi.jpg"
+ ],
+ "name": "Shirdi Sai Temple",
+ "sources": [
+  "https://www.tripinvites.com/places/namchi/sai-mandir/",
+  "https://supertravelr.com/travel/finding-my-way-around-sikkim-3435118F/",
+  "https://www.sikkim.gov.in/department/departmentmenudetails?url=Menu=tourism-civil-aviation-department/pilgrimage-tourism"
+ ],
+ "state": "Sikkim",
+ "town": "Tadong (CSV town; NO Sai temple verified at Tadong - likely refers to the Sai Mandir at Assangthang, Namchi, seq 902/905)",
+ "town_description": "Tadong is a town on the eastern edge of Gangtok city in Gangtok district, East Sikkim, home to institutions including Sikkim Manipal University. No Shirdi Sai temple could be documented here; the coordinates are the Tadong town centre.",
+ "tradition": "Hindu (Sai) - IF the referent is the Namchi Sai Mandir; this row's identity is UNVERIFIED",
+ "travel": {
+  "airport": "Pakyong Airport - about 30-35 km (verify).",
+  "railway": "New Jalpaiguri (NJP) - about 125 km (verify).",
+  "road": "Tadong is ~5 km east of Gangtok on the main road; taxis/shared cabs (verify)."
+ },
+ "video": {
+  "audio": "",
+  "script": "",
+  "video_file": ""
+ },
+ "visitor_information": {
+  "best_time": "October to March (verify).",
+  "opening_hours": "Not published - no temple verified at this location (verify)."
+ }
+}

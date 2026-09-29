@@ -1,0 +1,49 @@
+{
+  "alternate_names": [
+    "Nongkhlaw Presbyterian Church (Mairang side listing; a second online listing places a church of this name near Nongstoin town — verify which is intended)"
+  ],
+  "deities": [
+    "Jesus Christ (worshipped as Lord and Saviour)",
+    "God the Father and the Holy Spirit (Trinitarian Christian worship)"
+  ],
+  "district": "Eastern West Khasi Hills",
+  "festivals": [
+    "Christmas",
+    "Good Friday",
+    "Easter Sunday",
+    "Palm Sunday",
+    "Sunday worship services (Presbyterian)"
+  ],
+  "history": {
+    "dynasty": "None (modern Presbyterian village church)",
+    "period": "Modern (founding date not published; verify)",
+    "summary": "NOT A HINDU TEMPLE — keep-or-drop decision needed. This is a Presbyterian church, not a Hindu temple. The best-supported referent is the Nongkhlaw Presbyterian Church listed at Nongkhlaw Road, Mairang (approx. 25.684485, 91.633507), serving Nongkhlaw village (Nongkhlaw A & B, Census village code 277040) in Mairang sub-division, about 17 km from Mairang, PIN 793120. Nongkhlaw is the historic site of the 4 April 1829 Nongkhlaw massacre, when Tirot Sing opened hostilities against the British, beginning the Anglo-Khasi War. CSV town 'Nongstoin' is wrong: Nongstoin is the West Khasi Hills district headquarters roughly 60 km away; the village's nearest town is Mairang, and since the 2021 district split it falls in Eastern West Khasi Hills. Identity caveat: one online listing places a 'Nongkhlaw Presbyterian Church' at Nongstoin (approx. 25.453419, 91.310714, about 5.3 miles from Nongstoin); the Mairang-side listing is adopted here as the stronger match to the actual Nongkhlaw village. No founding history, congregation size, or service timings are published online (verify). Nothing is known about when this church was built."
+  },
+  "id": "nongkhlaw-presbyterian-church-mairang",
+  "latitude": 25.684485,
+  "longitude": 91.633507,
+  "media": [],
+  "name": "Nongkhlaw Presbyterian Church",
+  "sources": [
+    "https://vill.co.in/meghalaya/west-khasi-hills/mairang-296019820/nongkhlaw-a-and-b-019822770400/",
+    "https://villageinfo.in/meghalaya/eastern-west-khasi-hills/mairang/nongkhlaw-a-b/"
+  ],
+  "state": "Meghalaya",
+  "town": "Nongkhlaw (near Mairang)",
+  "town_description": "Nongkhlaw (Nongkhlaw A & B) is a historic village in Mairang sub-division of Eastern West Khasi Hills district, Meghalaya, about 17 km from Mairang town, PIN 793120, Census village code 277040. It is the site of the 4 April 1829 Nongkhlaw massacre that opened the Anglo-Khasi War under Tirot Sing. The surrounding area is rural Khasi hill country; nearest statutory town is Mairang.",
+  "tradition": "Christianity (Presbyterian)",
+  "travel": {
+    "airport": "Shillong Airport (SHL), Umroi, about 70 km (verify); Guwahati Airport (GAU) about 150 km (verify). Taxis from Shillong or Guwahati.",
+    "railway": "Guwahati railway station (GHY), the nearest major railhead, about 150 km (verify).",
+    "road": "Nongkhlaw village lies on the Mairang–Nongstoin road (listed locally as Nongkhlaw–Guwahati Road), about 17 km from Mairang; reachable by local bus or shared taxi from Mairang (verify)."
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March for cool, dry weather; Christmas season is the most festive time in the Khasi Hills.",
+    "opening_hours": "Open for Sunday worship services; published visiting hours not found for this village church (verify)."
+  }
+}

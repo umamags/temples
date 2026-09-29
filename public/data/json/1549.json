@@ -1,0 +1,42 @@
+{
+  "alternate_names": [
+    "Shri Nabhi Kamal Temple"
+  ],
+  "deities": [
+    "Vishnu",
+    "Brahma"
+  ],
+  "district": "Kurukshetra",
+  "festivals": [],
+  "history": {
+    "dynasty": "Unknown",
+    "period": "Unknown",
+    "summary": "IDENTITY THIN / UNVERIFIED (verify): the only web source found is a 2011 blog post describing a temple near Thanesar dedicated to Vishnu and Brahma, based on the creation myth - after the deluge, from the navel of the reclining Vishnu (Vatapatrasayi) rises a lotus bearing Brahma. The geocoder matches it to 'Shri Nabhi Kamal Temple, Bagthala Road, Gurunanak Colony, Thanesar' (low-relevance match - treat coordinates as approximate). The temple is said to have numerous images of Brahma and Vishnu and a sacred tank nearby, located about 3 km from Kurukshetra Railway Station. Founder, founding date, festivals, and opening hours are all unverified; no second independent source was found. This entry should be cross-checked against any later field data before being trusted."
+  },
+  "id": "kamal-nabhi-temple",
+  "latitude": 29.97288,
+  "longitude": 76.82598,
+  "media": [],
+  "name": "Kamal Nabhi Temple (Nabhi Kamal)",
+  "sources": [
+    "https://www.hindu-blog.com/2011/12/kamal-nabhi-at-kurukshetra.html"
+  ],
+  "state": "Haryana",
+  "town": "Thanesar",
+  "town_description": "Thanesar (ancient Sthanishvara) is the old temple town that grew around the Sthaneshwar Mahadev shrine; it was the capital of the Pushyabhuti dynasty under Emperor Harshavardhana in the early 7th century CE. Today it forms the core of the Kurukshetra urban agglomeration on the Grand Trunk Road in Haryana, anchoring the 48-kos Kurukshetra pilgrimage circuit with Brahma Sarovar, the Shaktipeeth, and the Mahabharata battlefield sites. The town draws pilgrims year-round and is busiest during Gita Jayanti, solar-eclipse fairs, and Maha Shivaratri.",
+  "tradition": "Hinduism (Vaishnavism)",
+  "travel": {
+    "airport": "IGI Airport Delhi (~160 km) (verify)",
+    "railway": "Kurukshetra Junction (~3 km per the single source) (verify)",
+    "road": "Near Thanesar town off NH-44; local autos (verify)"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October-March (verify)",
+    "opening_hours": "Not published anywhere found (verify)"
+  }
+}

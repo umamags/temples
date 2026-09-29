@@ -1,0 +1,46 @@
+{
+  "alternate_names": [
+    "Laxminarayan Temple (spelling variant)"
+  ],
+  "deities": [
+    "Lakshmi",
+    "Narayana (Vishnu)"
+  ],
+  "district": "Unakoti",
+  "festivals": [
+    "Janmashtami",
+    "Diwali"
+  ],
+  "history": {
+    "dynasty": "Unknown (local community temple)",
+    "period": "Contemporary (date unverified)",
+    "summary": "A local Lakshmi-Narayana shrine on Hospital Road, Kumarghat; no published history found. Identity is provisional: the CSV name is generic and no dedicated web record exists. Coordinates are corroborated by a 'Laxminarayan temple' POI on Kumarghat Hospital Rd (24.162794, 92.039226); the geocoder itself only resolved street level (Kumarghat Chowk, 24.16304, 92.03734), so use town-level precision."
+  },
+  "id": "lakshmi-narayan-temple-kumarghat",
+  "latitude": 24.162794,
+  "longitude": 92.039226,
+  "media": [],
+  "name": "Lakshmi Narayan Temple",
+  "sources": [
+    "https://meta.ai?place_id=851543007052040",
+    "https://www.educba.com/temples-in-tripura/"
+  ],
+  "state": "Tripura",
+  "town": "Kumarghat",
+  "town_description": "Kumarghat is a town and subdivision headquarters in Unakoti district, northern Tripura, on the Lumding–Sabroom railway line and NH-8. It is the railhead for the famous Unakoti rock-cut archaeological site, about 29 km away, and a market town for the surrounding area.",
+  "tradition": "Vaishnavism (Lakshmi-Narayana worship)",
+  "travel": {
+    "airport": "Maharaja Bir Bikram Airport, Agartala (~200 km by road)",
+    "railway": "Kumarghat Junction (~2 km)",
+    "road": "Hospital Road off NH-8 through Kumarghat"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October–March, the cooler dry season",
+    "opening_hours": "Unpublished (verify); local temples generally open dawn to dusk"
+  }
+}

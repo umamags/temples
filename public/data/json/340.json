@@ -1,0 +1,42 @@
+{
+  "alternate_names": [
+    "Sheetla Mata Mandir (Masani Mata), Karnal"
+  ],
+  "deities": [
+    "Goddess Sheetla (Masani Mata)"
+  ],
+  "district": "Karnal",
+  "festivals": [],
+  "history": {
+    "dynasty": "Undocumented",
+    "period": "Undocumented",
+    "summary": "IDENTITY UNCERTAIN — PLACEHOLDER-LEVEL ENTRY. The only referent found for a Sheetla Mata temple in Karnal city is a map listing ('Sheetla mata mandir (masani mata)', address only as '554, Karnal'); no website, news, tourism, or directory coverage of it exists in searchable sources, so build date, founders, festivals, and history are all undocumented. Do NOT confuse this with the famous Sheetla Mata temple of Haryana at Gurugram (the 18th-century shrine rebuilt by King Jawahar Singh — a different temple, ~130 km away). Coordinates are taken from the map listing alone and should be treated as approximate. The festival list is intentionally blank: Sheetla Ashtami is the usual peak day for Sheetla worship, but no specific observance is documented at this Karnal shrine."
+  },
+  "id": "sheetla-mata-mandir-karnal",
+  "latitude": 29.678851,
+  "longitude": 76.961627,
+  "media": [],
+  "name": "Sheetla Mata Mandir, Karnal",
+  "sources": [
+    "https://meta.ai?place_id=1034266552055539",
+    "https://testbook.com/question-answer/in-_____-the-old-temple-of-shitala-mata-is-situat--5efee3353e1d340d0718b03d"
+  ],
+  "state": "Haryana",
+  "town": "Karnal",
+  "town_description": "Karnal, on the GT Road in Haryana's National Capital Region, is traditionally associated with Karna of the Mahabharata (a large statue of him stands in the city). It is an agricultural-trade centre known for its dairy research and agricultural institutes.",
+  "tradition": "Shaktism",
+  "travel": {
+    "airport": "Indira Gandhi International Airport, Delhi (~135 km)",
+    "railway": "Karnal railway station",
+    "road": "Address known only as '554, Karnal' from the map listing — verify on the ground"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October–March",
+    "opening_hours": "Not published (verify)"
+  }
+}

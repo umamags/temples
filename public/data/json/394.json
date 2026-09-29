@@ -1,0 +1,46 @@
+{
+  "alternate_names": [
+    "Naina Devi Temple",
+    "Mahishapeeth"
+  ],
+  "deities": [
+    "Naina Devi (form of Shakti/Sati)"
+  ],
+  "district": "Bilaspur",
+  "festivals": "Chaitra Navratri, Shravan Ashtami and Ashwin Navratri — special fairs draw large crowds",
+  "history": {
+    "dynasty": "Raja Bir Chand (founder per most sources)",
+    "period": "8th century (per most sources; templetravel.info gives 1567 — conflict flagged)",
+    "summary": "One of the 51 Shakti Peethas: legend holds that Sati's eyes (naina) fell here when Vishnu's chakra dismembered her body. Raja Bir Chand of Bilaspur (Kahlur) is said to have built the temple in the 8th century after a Gujjar boy named Naina reported a dream of the goddess's pindi. The temple stands on Naina Dhar hill (3,535 ft) overlooking Gobind Sagar lake, near Bhakra Dam and Anandpur Sahib, and is also known as Mahishapeeth from the Mahishasura legend. CSV town 'Bilaspur' corrected to Naina Devi (Bilaspur district): the shrine is ~70 km from Bilaspur town. Built-date conflict: most sources say 8th century; templetravel.info says 1567."
+  },
+  "id": "shri-naina-devi-ji-bilaspur",
+  "latitude": 31.29947,
+  "longitude": 76.55186,
+  "media": [
+    "https://www.tourmyindia.com/images/shri-naina-devi-ji-bilaspur2.jpg"
+  ],
+  "name": "Shri Naina Devi Ji Temple",
+  "sources": [
+    "https://censusindia.gov.in/nada/index.php/catalog/467/download/1516/DH_2011_0208_PART_B_DCHB_BILASPUR.pdf",
+    "https://www.tourmyindia.com/states/himachal/shri-naina-devi-ji-bilaspur.html",
+    "https://www.templetravel.info/2013/05/shri-naina-devi-temple-in-bilaspur.html"
+  ],
+  "state": "Himachal Pradesh",
+  "town": "Naina Devi",
+  "town_description": "Naina Devi is a small pilgrim town on Naina Dhar hill in Bilaspur district, overlooking Gobind Sagar lake between Anandpur Sahib and Bilaspur town, best known as the home of the Shakti Peetha.",
+  "tradition": "Hindu (Shakta)",
+  "travel": {
+    "airport": "Chandigarh, ~100 km",
+    "railway": "Kiratpur Sahib, ~30 km (Bhakra–Nangal rail line)",
+    "road": "On NH-21; motorable roads to Anandpur Sahib and Kiratpur Sahib; ~2 km on foot or cable car to the summit"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "April–October; Navratris of Chaitra and Ashwin",
+    "opening_hours": "5:00 AM – 9:00 PM (per temple-travel sources; verify locally)"
+  }
+}

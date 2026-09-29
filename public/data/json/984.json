@@ -1,0 +1,50 @@
+{
+  "alternate_names": [
+    "Venkateswara Swamy Temple Kushaiguda",
+    "Sri Venkateshwara Temple Kushaiguda"
+  ],
+  "deities": [
+    "Sri Venkateswara Swamy (presiding deity)",
+    "Sri Goda Devi",
+    "Sri Padmavathy Ammavaru",
+    "Sri Hanuman"
+  ],
+  "district": "Medchal-Malkajgiri",
+  "festivals": [
+    "Swamy Vari Kalyanam - every Sunday at 9:30 AM",
+    "Garuda Vahana Seva - every Saturday evening at 7:00 PM; devotees attend seven consecutive Saturdays to fulfil wishes"
+  ],
+  "history": {
+    "dynasty": "Modern",
+    "period": "Modern - approximately 40+ years old (per ourtemples.net listing; established circa early 1980s)",
+    "summary": "IDENTITY NOTE: 'Sri Venkateshwara Swamy Temple' is a generic name with dozens of candidates across the twin cities, so this is the best-supported referent rather than a certain match. The best-supported referent is the Sri Venkateshwara Swamy Temple at 1-9-25, Kushaiguda Road, Kushaiguda Industrial Area, Kushaiguda, Secunderabad (Telangana 500062) - it carries the exact CSV name, sits in Secunderabad, and has a dedicated web listing describing a 40+ year-old temple on the Kushaiguda main road with sub-shrines for Venkateswara, Goda Devi, Padmavathy and Hanuman, a gosala, large open space and an auditorium for functions. The temple is in Kushaiguda, which lies in Medchal-Malkajgiri district (geocoder county) though it is administratively within the Secunderabad urban area - the district is corrected to Medchal-Malkajgiri while the town is kept as Secunderabad (Kushaiguda). Alternate candidate: the famous Birla Mandir on Naubat Pahad (Khairtabad, HYDERABAD, not Secunderabad), dedicated to Lord Venkateswara with an 11-ft granite idol, built by the Birla Foundation 1966-1976 and opened in 1976 - documented as the alternative if the CSV intends the prominent Venkateswara temple of the region. Do not merge with the Tirumala (seq 16) or Venkatapalem (seq 5) entries - distinct shrines."
+  },
+  "id": "sri-venkateshwara-swamy-temple-kushaiguda-provisional",
+  "latitude": 17.47772,
+  "longitude": 78.57357,
+  "media": [],
+  "name": "Sri Venkateshwara Swamy Temple (Kushaiguda, Secunderabad) [provisional identity]",
+  "sources": [
+    "https://ourtemples.net/temple/sri-venkateshwara-swamy-temple-kushaiguda-secunderabad-telangana-500062/",
+    "https://ourtemples.info/temple/sri-venkateshwara-swamy-temple-kushaiguda-secunderabad-telangana-500062/",
+    "https://www.pajasaapartments.com/blog/birla-mandir-hyderabad/"
+  ],
+  "state": "Telangana",
+  "town": "Secunderabad (Kushaiguda)",
+  "town_description": "Kushaiguda is a locality in the Secunderabad area on the northeastern side of the twin cities, in Medchal-Malkajgiri district, Telangana. The temple stands on the Kushaiguda main road (500062) and is known locally for its spacious premises and function auditorium.",
+  "tradition": "Hinduism (Vaishnavism)",
+  "travel": {
+    "airport": "Rajiv Gandhi International Airport, Hyderabad - about 40-45 km (verify).",
+    "railway": "Secunderabad Junction railway station - about 12-15 km (verify).",
+    "road": "On the main road at Kushaiguda; bus facility available; parking available."
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March; Saturdays (Garuda Seva) and Sundays (Kalyanam) are the busiest days.",
+    "opening_hours": "6:00 AM - 11:30 AM and 5:30 PM - 8:30 PM daily (per ourtemples listing; verify before visiting). Traditional dress code."
+  }
+}

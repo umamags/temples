@@ -1,0 +1,44 @@
+{
+  "alternate_names": [
+    "Kumarghat Police Station Kali Mandir (provisional referent)"
+  ],
+  "deities": [
+    "Kali"
+  ],
+  "district": "Unakoti",
+  "festivals": [
+    "Kali Puja (Diwali)"
+  ],
+  "history": {
+    "dynasty": "",
+    "period": "",
+    "summary": "GENERIC NAME — identity provisional, uncertainty flagged. 'Kali Mandir' is a generic name with several candidates in and around Kumarghat (Unakoti district); no dedicated history or founding details could be found for any of them. The best-supported referent within Kumarghat town itself is the 'Kumarghat Police Station Kali Mandir' (24.14919, 92.030107), a documented Hindu temple at Kumarghat — coordinates are used for this file. Alternatives: the Bhubaneswari/Bhubaneshwari Kali Temple (Kumarghat area), Saidabari Kalibari (on the Kumarghat-Kailashahar Rd at Fatikroy), the Kali temple at Gournagar (~17 km), and Kali Mandir Temple at Pencharthal (~9.5 km). If the CSV row intended one of these instead, the identity needs correction. No reliable image of the specific shrine was found after genuine searching, so media is empty."
+  },
+  "id": "kali-mandir-kumarghat",
+  "latitude": 24.14919,
+  "longitude": 92.030107,
+  "media": [],
+  "name": "Kali Mandir",
+  "sources": [
+    "http://www.Onefivenine.com/india/Listing/Town/temples/North-Tripura/Kumarghat",
+    "https://www.justdial.com/North-Tripura/Temples/nct-10475644"
+  ],
+  "state": "Tripura",
+  "town": "Kumarghat",
+  "town_description": "Kumarghat is a town in Unakoti district, northern Tripura, with its own railway station on the Lumding-Sabroom line; several Kali and Durga shrines are documented in and around it.",
+  "tradition": "Shaktism",
+  "travel": {
+    "airport": "Maharaja Bir Bikram Airport, Agartala (~140 km, verify)",
+    "railway": "Kumarghat railway station (in town)",
+    "road": "Kumarghat town on the Agartala-Kailashahar highway"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October-March",
+    "opening_hours": "Verify locally"
+  }
+}

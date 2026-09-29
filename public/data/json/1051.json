@@ -1,0 +1,47 @@
+{
+  "alternate_names": [
+    "Maa Bhabatarini Mandir, Kalishashon"
+  ],
+  "deities": [
+    "Bhabatarini (form of Durga)"
+  ],
+  "district": "Unakoti",
+  "festivals": [
+    "Maa Bhabatarini Mela",
+    "Durga Puja"
+  ],
+  "history": {
+    "dynasty": "Unknown (traditional shrine; build date unpublished)",
+    "period": "Date unverified",
+    "summary": "Important Durga shrine at Kalishashon, ~6 km from Kailashahar (Unakoti district), per the Unakoti district website; dedicated to Goddess Bhabatarini, an avatar of Durga, with a Shiva idol also reported on site. Traditional stone temple with garbhagriha, torana gateway and pillared courtyard. CSV town 'Sabroom' is WRONG — corrected to Kalishashon (near Kailashahar), Unakoti; the CSV state Tripura is right. IDENTITY CAVEAT: a separate 'Bhabatarini Mondir' exists near Kumarghat (mapcarta/POI at 24.16181, 92.04282); if the CSV compiler meant that shrine, this file needs revision. Coordinates are town-level (Kailashahar) and approximate — exact village position not published; no dedicated temple history or build date found in sources."
+  },
+  "id": "maa-bhabatarini-temple-unakoti",
+  "latitude": 24.33199,
+  "longitude": 92.00391,
+  "media": [],
+  "name": "Maa Bhabatarini Temple",
+  "sources": [
+    "https://unakoti.nic.in/tourist-place/maa-bhabatarini-mandir-kalishason/",
+    "https://www.bharattemples.com/maa-bhabatarini-mandir-unakoti/",
+    "https://www.adotrip.com/blog/temples-in-tripura",
+    "https://www.educba.com/temples-in-tripura/"
+  ],
+  "state": "Tripura",
+  "town": "Kalishashon (near Kailashahar)",
+  "town_description": "Kailashahar is the headquarters of Unakoti district in northern Tripura, a municipal town on the banks of the Manu river near the Bangladesh border; its name combines 'Hara' (Shiva) with 'Kailasha', Shiva's abode. It is the gateway to the Unakoti rock-cut archaeological site and the Maa Bhabatarini mandir at nearby Kalishashon.",
+  "tradition": "Shaktism (Durga/Bengali Hindu tradition)",
+  "travel": {
+    "airport": "Maharaja Bir Bikram Airport, Agartala (~178 km from Kailashahar by road)",
+    "railway": "Kumarghat Junction (26 km from Kailashahar); buses/autos to Kailashahar",
+    "road": "Kalishashon is ~6 km from Kailashahar; Kailashahar is connected by bus to Guwahati, Silchar, Shillong and Agartala"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October–March, the cooler dry season; the annual Maa Bhabatarini Mela is the busiest period",
+    "opening_hours": "6 AM–10 PM (per travel listings; verify locally)"
+  }
+}

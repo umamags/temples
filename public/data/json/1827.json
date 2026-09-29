@@ -1,0 +1,57 @@
+{
+  "alternate_names": [
+    "Shree Venkateshwar Temple"
+  ],
+  "deities": [
+    "Venkateshwar (Lord Vishnu)",
+    "Ranganath Bhagwan (Lord Vishnu)",
+    "Swaminarayan"
+  ],
+  "district": "Satna",
+  "festivals": [
+    "Brahmotsavam (annual)",
+    "Jhulan Mahotsav",
+    "Janmashtami",
+    "Narasimha Chaturdashi",
+    "Guru Purnima",
+    "Ram Navami",
+    "Sharad Purnima"
+  ],
+  "history": {
+    "dynasty": "Rewa/Devarajnagar princely era (CONFLICT between sources on founder)",
+    "period": "1876-1925 (49-year construction, per newandolder.com)",
+    "summary": "Venkatesh Temple at Mukhtiyarganj, Satna, is dedicated to Lord Vishnu as Venkateshwar and is the only temple in the Vindhya region built in the South Indian architectural style, with a tall gopuram, intricate carvings and red stonework. One account (newandolder.com) says Maharaja Randaman Singh of the Devarajnagar royal family commissioned it, built over 49 years (1876-1925) with artisans brought from South India; the ashtadhatu main idol was crafted by Jaipur artisans, with shrines of Ranganath Bhagwan and Swami Narayan flanking the sanctum. CONFLICT (verify): another account (indialite.blogspot.com) says Maharaja Raghuraj Singh of Rewa laid the foundation stone in 1925. The complex includes a 10-acre garden, part of the Smart City Mission beautification."
+  },
+  "id": "venkatesh-temple-satna",
+  "latitude": 24.577689,
+  "longitude": 80.829235,
+  "media": [
+    "https://newandolder.com/wp-content/uploads/2024/09/satna-venkateshar-mandir-1024x557.webp"
+  ],
+  "name": "Venkatesh Temple",
+  "sources": [
+    "http://newandolder.com/2024/09/29/shree-venkateshwar-temple-satna/",
+    "http://indialite.blogspot.com/2016/09/satna-madhya-pradesh.html",
+    "https://www.tusktravel.com/blog/places-to-visit-in-satna-madhya-pradesh/",
+    "https://www.timesofgroup.com/deputy-chief-minister-rajendra-shukla-offers-prayers-at-venkatesh-temple-in-satna/",
+    "https://meta.ai?place_id=3977785109125270"
+  ],
+  "state": "Madhya Pradesh",
+  "town": "Satna",
+  "town_description": "Satna is the headquarters of Satna district in the Baghelkhand region of Madhya Pradesh, on the NH-30 corridor. Founded in 1865 by Maharaja Raghuraj Singh of Rewa, it is a commercial and educational hub of the Vindhya region. It is the gateway to the Maihar Sharda temple, Chitrakoot and Ramvan, and takes its name from the Satna river, a tributary of the Tons.",
+  "tradition": "Hinduism (Vaishnavism)",
+  "travel": {
+    "airport": "No airport in Satna; nearest is Khajuraho (~120 km, 3 hrs by road) or Jabalpur (~200 km) (per newandolder.com).",
+    "railway": "Satna Junction is a major rail junction; temple is ~5-6 km from the station (auto-rickshaw/cab, 10-15 min).",
+    "road": "Satna is on NH-30; temple is at Mukhtiyarganj (HRHH+3MH) in the heart of the city. Satna-Rewa ~50 km, Maihar ~40 km."
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October-March; Brahmotsavam draws large crowds (verify).",
+    "opening_hours": "9:00 am - 8:30 pm all day, per newandolder.com (verify)."
+  }
+}

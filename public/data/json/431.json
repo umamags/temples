@@ -1,0 +1,55 @@
+{
+  "alternate_names": [
+    "Nandan Hill Entertainment Park",
+    "Nandana Pahada"
+  ],
+  "deities": [
+    "Nandi (Shiva's vahana)",
+    "Shiva",
+    "Parvati",
+    "Kartikeya",
+    "Ganesha",
+    "Kali",
+    "Sarasvati",
+    "Hanuman"
+  ],
+  "district": "Deoghar",
+  "festivals": [
+    "Shravani Mela"
+  ],
+  "history": {
+    "dynasty": "Not applicable (natural hill; park is a modern JSTDC development)",
+    "period": "Modern (park managed by Jharkhand State Tourism Development Corporation)",
+    "summary": "NANDAN PAHAR IS A HILL, NOT A TEMPLE - CSV misclassification flagged. It is a small hill ~2-3 km from Deoghar town with an amusement/recreation park on top, managed by the Jharkhand State Tourism Development Corporation, plus several small shrines including a prominent Nandi Temple. Mythology: Ravana tried to force entry into Kailash, Nandi stopped him, and Ravana threw Nandi, who fell on this hill (an 1883 Asiatic Society paper records the hill as 'Nandana Pahada' northwest of Deoghar). The hilltop has a reservoir (Darawa river water) that supplies Deoghar's drinking water, 95 steps to the top, boating, toy train, ghost/mirror/boot houses, and views of sunrise/sunset. Coordinates are approximate (hill vicinity northwest of Deoghar town)."
+  },
+  "id": "nandan-pahar-deoghar-hill-park",
+  "latitude": 24.5,
+  "longitude": 86.68,
+  "media": [
+    "https://www.nativeplanet.com/photos/929x523x90/2019/01/photo-92-145748-1.jpg"
+  ],
+  "name": "Nandan Pahar",
+  "sources": [
+    "https://travelsetu.com/guide/nandan-pahar-tourism/nandan-pahar-faqs",
+    "https://www.theholidaystory.com/nandan-pahar-deoghar-jharkhand/",
+    "https://www.holidify.com/places/deoghar/nandan-pahar-sightseeing-1736.html"
+  ],
+  "state": "Jharkhand",
+  "town": "Deoghar",
+  "town_description": "Deoghar ('abode of gods') is a major Hindu pilgrimage city in the Santhal Pargana division of Jharkhand, famous for the Baidyanath Jyotirlinga temple. It is well connected by road and rail (Jasidih Junction) and has its own airport.",
+  "tradition": "Hindu (hill recreation park with shrines)",
+  "travel": {
+    "airport": "Deoghar Airport",
+    "railway": "Jasidih Junction / Baidyanath Dham Deoghar station",
+    "road": "~2-3 km from Deoghar town; autos and taxis from Tower Chowk or Deoghar railway station"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October-March (avoid monsoon: slippery slopes; avoid peak summer)",
+    "opening_hours": "Daytime park hours; nominal entry fee with extra charges for rides (verify locally)"
+  }
+}

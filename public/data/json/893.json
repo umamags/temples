@@ -1,0 +1,46 @@
+{
+ "alternate_names": [
+  "Kakor Fort, Tonk"
+ ],
+ "deities": [
+  "Kalyan Rai ji (Krishna) - per IGNCA record at Kakor (verify)",
+  "Jain Tirthankaras - Digambar Jain Mandir, Kakor (18th c. per IGNCA - verify)"
+ ],
+ "district": "Tonk",
+ "festivals": [],
+ "history": {
+  "dynasty": "Uniyara State (per local travel accounts - verify)",
+  "period": "Fort approx 7 centuries old (~14th c.) per local accounts - UNVERIFIED",
+  "summary": "CSV TOWN FLAG: the site is NOT in Tonk town - Kakor Fort stands at Kakor village, Tonk district (near Uniara, PIN 304032), about 20 km from Tonk bus stand. Documented with the corrected location. IDENTITY PROVISIONAL: 'Kakor Fort and Temple' is a composite CSV label; the fort itself is well attested (partially ruined fort built by the people of Uniyara State about 700 years ago per travel vloggers; site of the 1759 Kakor War - about 17 battles between the Rajputs of Jaipur State and the Marathas ending in a peace treaty; three ancient village gateways; historic stepwell/baori; visitors deterred by honeybee colonies). Which 'Temple' the label refers to is UNVERIFIED - IGNCA ASI documentation records multiple temples at Kakor village, including Shree Kalyan Rai jee ka Mandir (RJ/TNK-085) and an 18th-century Digambar Jain Mandir (RJ/TNK-086), plus chhatris. Treat the temple component as provisional until field-verified."
+ },
+ "id": "kakor-fort-and-temple-tonk",
+ "latitude": 26.02581,
+ "longitude": 75.92049,
+ "media": [],
+ "name": "Kakor Fort and Temple",
+ "sources": [
+  "https://www.youtube.com/watch?v=OH8xR6k2VrM",
+  "https://ignca.gov.in/asi_reports/rjtnk_085.pdf",
+  "https://ignca.gov.in/asi_reports/rjtnk_086.pdf",
+  "https://www.justdial.com/Tonk/Forts-in-Kookar/nct-12247889",
+  "https://ignca.gov.in/online-digital-resources/archaeological-sites/rajasthan/tonk/kakor-fort/"
+ ],
+ "state": "Rajasthan",
+ "town": "Kakor village (CSV town 'Tonk' is APPROXIMATE - the fort is ~20 km from Tonk bus stand, near Uniara)",
+ "town_description": "Kakor is a historic village in Tonk district on the Sawai Madhopur road (Gumanpura side), roughly 20 km from Tonk town, with a partially ruined hill fort, three old gateways, stepwells and several documented temples and chhatris. It is one of the least-visited heritage sites of the district.",
+ "tradition": "Hindu (composite fort site; Hindu and Jain temples recorded at Kakor - provisional)",
+ "travel": {
+  "airport": "Jaipur International Airport - about 115 km (verify).",
+  "railway": "Tonk Railway Station - about 20-25 km (verify).",
+  "road": "Regular bus services from Tonk bus stand (~20 km) per IGNCA; private vehicle via the Tonk-Uniara/Sawai Madhopur road (verify)."
+ },
+ "video": {
+  "audio": "",
+  "script": "",
+  "video_file": ""
+ },
+ "visitor_information": {
+  "best_time": "October to March (verify).",
+  "opening_hours": "Daylight hours; partially ruined site with honeybee colonies reported - confirm locally before visiting (verify)."
+ }
+}

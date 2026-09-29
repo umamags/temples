@@ -1,0 +1,48 @@
+{
+  "alternate_names": [
+    "Gentse Gaden Rabgyel Ling (lower division)"
+  ],
+  "deities": [
+    "Buddha"
+  ],
+  "district": "West Kameng",
+  "festivals": [
+    "Losar",
+    "Saka Dawa",
+    "Lhabab Duechen"
+  ],
+  "history": {
+    "dynasty": "Gelugpa school of Tibetan Buddhism",
+    "period": "1965 (as part of GRL monastery)",
+    "summary": "NOT A HINDU TEMPLE — Buddhist monastery; keep-or-drop decision needed. Lower Gompa is the market-side division of the Gentse Gaden Rabgyel Ling (GRL) Monastery at the end of Bomdila's main market area, famed for its Tibetan architecture and a massive prayer hall; local belief says spinning its prayer wheels fulfils wishes (West Kameng district site). Travel guides describe the Lower Gompa as the monastery most visitors encounter first, officially named Gentse Gaden Rabgyel Ling, established 1965 under the 12th Tsona Gontse Rinpoche — i.e. it largely IS the Bomdila Monastery of CSV row 66, not a separate foundation. Rows 66 and 67 therefore overlap; flagged so a dedup decision can be made."
+  },
+  "id": "lower-gompa-bomdila",
+  "latitude": 27.27056,
+  "longitude": 92.41873,
+  "media": [
+    "https://zinvolreizen.nl/wp-content/uploads/2025/02/LowerGompaBomdila-1024x771.jpg"
+  ],
+  "name": "Lower Gompa",
+  "sources": [
+    "https://westkameng.nic.in/tourist-place/lower-gompa/",
+    "https://www.east-himalaya.com/bomdila.php"
+  ],
+  "state": "Arunachal Pradesh",
+  "town": "Bomdila",
+  "town_description": "Bomdila is the headquarters of West Kameng district, a hill town at about 2,500-3,000 m in the eastern Himalayas on the Tezpur-Tawang road. It is the gateway to Tawang and is noted for its gompas, apple orchards, and Himalayan views.",
+  "tradition": "Tibetan Buddhism (Gelugpa school)",
+  "travel": {
+    "airport": "Tezpur / Guwahati (Assam)",
+    "railway": "Bhalukpong / Tezpur / Guwahati (Assam)",
+    "road": "Daily buses/taxis from Tezpur, Guwahati and Itanagar"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to April",
+    "opening_hours": "Daylight hours; no published official timings"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "alternate_names": [
+    "Ramakrishna Mission Silchar",
+    "Universal Temple of Sri Ramakrishna Paramhamsadeva"
+  ],
+  "deities": [
+    "Sri Ramakrishna Paramahamsa (universal temple)"
+  ],
+  "district": "Cachar",
+  "festivals": [
+    "Durga Puja (mission's pandal listed among Silchar's major pujos)",
+    "Centenary celebration and Universal Temple inauguration - March 2025"
+  ],
+  "history": {
+    "dynasty": "None (monastic institution)",
+    "period": "1915 - present (20th century)",
+    "summary": "FLAG: DUPLICATE ROW: same institution as seq 92 (\"Ramakrishna Mission, Silchar\", id ramakrishna-mission-sevashrama-silchar). One file per CSV row; keep-or-dedup decision needed.\n\nThe Ramakrishna Mission Sevashrama, Silchar traces its origin to 1915, when the Cachar district was ravaged by a devastating flood and a small group of monks arrived with relief. Their service inspired local youth to form the Ramakrishna Seva Samiti under the late Kamini Kumar Chanda; on 15 February 1939 it was formally affiliated with the Ramakrishna Mission, Belur Math, becoming an official branch centre. Its service work spans education, healthcare (Ma Sarada Charitable Dispensary), rural welfare, mobile medical services and disaster relief. It completed 100 years in 2025, when the newly built Universal Temple of Sri Ramakrishna Paramhamsadeva was inaugurated on 18 March 2025 by Ramakrishna Math/Mission president Swami Gautamananda and Assam CM Himanta Biswa Sarma (state announced Rs 5 crore for the hospital and Rs 4 crore toward the temple)."
+  },
+  "id": "ramakrishna-mission-sevashrama-silchar-duplicate",
+  "latitude": 24.81454,
+  "longitude": 92.79875,
+  "media": [
+    "https://live.staticflickr.com/65535/54406550431_724b7d94c4_h.jpg"
+  ],
+  "name": "Ramakrishna Mission Sevashrama (Universal Temple of Sri Ramakrishna)",
+  "sources": [
+    "https://www.IndianEconomicObserver.com/news/assam-cm-himanta-biswa-sarma-inaugurate-newly-built-universal-temple-in-silchar20250319062415/",
+    "https://www.latestly.com/agency-news/india-news-assam-cm-himanta-biswa-sarma-inaugurate-newly-built-universal-temple-in-silchar-6719201.html",
+    "https://kajingshai.rkmshillong.org/postdetails.php?postId=375",
+    "https://www.outlooktraveller.com/destinations/india/a-travellers-guide-to-durga-puja-in-silchar-assams-cultural-treasure",
+    "https://media.belurmath.org/centenary-celebration-and-new-temple-consecration-silchar-march-2025-15104/"
+  ],
+  "state": "Assam",
+  "town": "Silchar",
+  "town_description": "Silchar is the second-largest city of Assam and the commercial and educational hub of the Barak Valley, set on the banks of the Barak River. Known as the 'Island of Peace', it is predominantly Bengali-speaking, famous for its grand Durga Puja celebrations and tea estates, and serves as the gateway to southern Assam and the neighbouring states of Manipur, Mizoram and Tripura.",
+  "tradition": "Vedanta (Ramakrishna Mission tradition)",
+  "travel": {
+    "airport": "Silchar Airport (Kumbhirgram, IXS) - about 20-22 km (verify).",
+    "railway": "Silchar Junction - close to the city centre campus.",
+    "road": "On N S Avenue / Mission Road, Silchar; reachable by taxi, auto or city bus."
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March.",
+    "opening_hours": "No published temple timings found in available sources (verify); typical Ramakrishna Mission centres hold morning and evening prayers (verify)."
+  }
+}

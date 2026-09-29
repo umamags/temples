@@ -1,0 +1,45 @@
+{
+  "alternate_names": [
+    "Hanuman Mandir Motihari"
+  ],
+  "deities": [
+    "Hanuman"
+  ],
+  "district": "Purba Champaran",
+  "festivals": [
+    "Hanuman Jayanti",
+    "Ram Navami"
+  ],
+  "history": {
+    "dynasty": "",
+    "period": "",
+    "summary": "An in-town Hanuman shrine in Motihari, documented on a local map listing at 26.640146, 84.902855 with daily hours 9 AM-8 PM (corroboration thin; exact shrine coordinates approximate). The CSV's generic 'Hanuman Mandir' is ambiguous: several other Hanuman temples exist around Motihari (Dhaka/Kathmalia, Raghunathpur, Sugaon, Chapra Bahas), so this file uses the most central in-town referent with that ambiguity flagged. No founding date, dynasty, or founder is documented."
+  },
+  "id": "hanuman-mandir-motihari-town",
+  "latitude": 26.640146,
+  "longitude": 84.902855,
+  "media": [],
+  "name": "Hanuman Mandir",
+  "sources": [
+    "https://www.justdial.com/Motihari/Temples/nct-10475644",
+    "https://akhandapp.in/place/hanuman-mandir-240724/"
+  ],
+  "state": "Bihar",
+  "town": "Motihari",
+  "town_description": "Motihari is the headquarters of East Champaran district in northern Bihar. The town is best known as the birthplace of writer George Orwell (1903) and sits on the East-West Corridor (NH-27) near the Nepal border.",
+  "tradition": "Vaishnavism",
+  "travel": {
+    "airport": "Darbhanga Airport (~140 km) or Patna (~170 km); distances approximate",
+    "railway": "Bapudham Motihari station, on the Barauni-Gorakhpur line, in the town",
+    "road": "NH-27 (East-West Corridor) passes through Motihari; local auto-rickshaws and taxis in town"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October-March; Tuesdays and Hanuman Jayanti are the busiest",
+    "opening_hours": "9:00 AM-8:00 PM daily (per one local listing; verify on arrival)"
+  }
+}

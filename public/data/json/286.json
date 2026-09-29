@@ -1,0 +1,50 @@
+{
+  "alternate_names": [
+    "Siddhnath Mahadev Temple",
+    "Siddhnath Mandir"
+  ],
+  "deities": [
+    "Shiva (as Sidhnath Mahadev)"
+  ],
+  "district": "Jamnagar",
+  "festivals": [
+    "Mahashivratri",
+    "Shravan Mondays"
+  ],
+  "history": {
+    "dynasty": "Unknown",
+    "period": "13th century per tradition (unverified); some sources claim over 400 years old",
+    "summary": "An ancient hilltop Shiva temple in Jamnagar (listed by the Jamnagar Municipal Corporation at Ganeshwar), offering panoramic views of the city. Dates are traditional and conflicting: Wanderlog calls it over 400 years old with a history dating to the 13th century and a legend that four Siddha sages established it in Satyuga; Curly Tales adds a legend that Lord Krishna visited it during his lifetime. No archaeological confirmation of these dates was found - treat them as traditional claims. COORDINATE AMBIGUITY: multiple 'Siddhnath/Sidhnath Mahadev' listings exist in Jamnagar district (Ganeshwar, Zakavi Mohalla/Nageshwar, Gurukrupa Residency, and also Jamjodhpur and Lalpur outside the city); coordinates used are from the Ganeshwar city listing on the JMC site."
+  },
+  "id": "sidhnath-mahadev-temple-jamnagar",
+  "latitude": 22.48025,
+  "longitude": 70.08473,
+  "media": [
+    "https://images.herzindagi.info/image/2024/Mar/facts-about-siddhnath-mahadev-temple-jamnagar.jpg"
+  ],
+  "name": "Sidhnath Mahadev Temple",
+  "sources": [
+    "http://www.mcjamnagar.com/",
+    "https://wanderlog.com/place/details/11160407/siddhnath-mahadev-temple",
+    "https://curlytales.com/web-stories/5-temples-to-see-in-jamnagar/",
+    "https://templesofindia.org/temple-view/sidhnath-mahadev-temple-jamnagar-gujarat-952ron"
+  ],
+  "state": "Gujarat",
+  "town": "Jamnagar",
+  "town_description": "Jamnagar is a historic port and industrial city in Saurashtra, founded as Nawanagar by the Jadeja Rajputs in the 16th century. It is known for the Lakhota Lake and Palace, Bala Hanuman Temple, and as one of Gujarat's major trade and refining centres.",
+  "tradition": "Hinduism (Shaivism)",
+  "travel": {
+    "airport": "Jamnagar Airport (JGA) (~9 km)",
+    "railway": "Jamnagar railway station (JAM) (~3 km)",
+    "road": "City roads and autos; hilltop location may need a short climb"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October-March; Mahashivratri and Shravan month draw the largest crowds",
+    "opening_hours": "5:00 AM - 10:00 PM per the Jamnagar Municipal Corporation listing; some listings show 6:00 AM - 9:30 PM (verify)"
+  }
+}

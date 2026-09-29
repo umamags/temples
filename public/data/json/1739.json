@@ -1,0 +1,55 @@
+{
+  "alternate_names": [
+    "Gujarati Mandir",
+    "Kochi Jain Temple",
+    "Bhagwan Shri Dharmanath Jain Temple"
+  ],
+  "deities": [
+    "Dharmanatha (15th Jain Tirthankara)",
+    "Chandraprabha (8th Jain Tirthankara)"
+  ],
+  "district": "Ernakulam",
+  "festivals": [
+    "Paryushan Parva (August-September)",
+    "Mahavir Jayanti",
+    "Samvatsari"
+  ],
+  "history": {
+    "dynasty": "None (merchant community foundation)",
+    "period": "Built 1904 AD (Vikram Samvat 1960); several popular sources say 1960, which may refer to a rebuilding - CONFLICT (verify)",
+    "summary": "THIS IS A JAIN TEMPLE, NOT A HINDU TEMPLE - keep-or-drop decision needed. Dharmanath Jain Temple on Gujarati Road, Mattancherry, Kochi was built in 1904 (VS 1960) by Hirubhai Jivraj Dhanji in memory of her husband Jivraj Dhanji, and gifted to the Jain Sangh. It belongs to the Shvetambara Murtipujak tradition and is administered by the Cochin Swetamber Murtipujak Jain Sangh. The temple arose from the mercantile migration of Gujarati Jains from Kutch and Saurashtra to the port city of Kochi, where they settled as traders; about 350 Jain families in West Kochi now take part in its activities. Built in the style of Gujarat's Jain temples with white marble tiling, sculpted pillars and idols of the Tirthankaras (some said to be 1,000 years old), the compound holds two temples - the main one to Dharmanatha and another to Chandraprabha (a 1933 date is cited for the second temple - verify). DATE CONFLICT (verify): scholarship and the temple's own history give 1904, while Kerala Tourism and travel sites say the temple was built in 1960 - this may refer to a rebuilding, but no source consulted distinguishes the two clearly. CSV town corrected: the temple is in Mattancherry, not Kochi city centre."
+  },
+  "id": "dharmanath-jain-temple",
+  "latitude": 9.96153,
+  "longitude": 76.25473,
+  "media": [
+    "https://www.keralatourism.org/ktadmin/img/pages/tablet/jain-temple-mattancherry-1727239842_bf5cc6695c3b59c88845.webp"
+  ],
+  "name": "Dharmanath Jain Temple",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Kochi_Jain_temple",
+    "https://www.keralatourism.org/photo-gallery/dharmanath-jain-temple/2471/",
+    "https://www.indulgexpress.com/travel/2024/May/04/how-mattancherry-dharmanath-jain-temple-in-kochi-has-become-an-embodiment-of-cultural-harmony",
+    "https://www.tourmyindia.com/states/kerala/dharmanath-jain-temple.html",
+    "https://www.holyprasadam.com/temples/details/1113",
+    "https://www.klook.com/en-HK/destination/p50177774-jain-temple/"
+  ],
+  "state": "Kerala",
+  "town": "Mattancherry",
+  "town_description": "Mattancherry is the historic waterfront quarter of Kochi in Ernakulam district, centred on the old spice-trading harbour. Gujarati, Konkani, Jewish and other merchant communities settled here over centuries, giving it a unique multicultural character visible in its temples, synagogue, mosques and churches. The Mattancherry Palace (Dutch Palace), the Pardesi Synagogue and Fort Kochi lie within easy reach.",
+  "tradition": "Jainism (Shvetambara)",
+  "travel": {
+    "airport": "Cochin International Airport, about 40 km away (verify)",
+    "railway": "Ernakulam Junction, about 9-10 km (verify); Kochi harbour ferry terminals nearby",
+    "road": "On Gujarati Road, Mattancherry; easily reached by local buses, autos and taxis; Fort Kochi is close by (verify)"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "November to February; Paryushan Parva (August-September) is the major Jain festival period",
+    "opening_hours": "5:30 AM - 8:00 PM daily (verify); the famous daily pigeon-feeding ritual takes place around noon"
+  }
+}

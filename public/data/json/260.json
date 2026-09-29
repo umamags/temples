@@ -1,0 +1,46 @@
+{
+  "alternate_names": [
+    "Shree Hanuman Mandir, Sector 17"
+  ],
+  "deities": [
+    "Hanuman"
+  ],
+  "district": "Gandhinagar",
+  "festivals": [
+    "Hanuman Jayanti",
+    "Tuesdays and Saturdays (weekly congregation days)"
+  ],
+  "history": {
+    "dynasty": "",
+    "period": "Mid-20th century (per devotee accounts, about six decades)",
+    "summary": "IDENTITY NOTE: 'Hanumanji Temple' is a generic name with several candidates in Gandhinagar (Sector 5/G Road, Sector 23 Swaminarayan Hanumanji Mandir). This file documents the most prominent standalone shrine: Shree Hanuman Mandir on Sector 17 Road near the Helipad, Old MLA Quarters, Sector 17, described by devotees as one of the oldest Hanuman temples in Gandhinagar serving the community for about six decades; another Hanuman temple stands in the MLA quarters just behind it. Exact founding date is not documented — flagged for verification. Coordinates are from a geocoded FULL_ADDRESS match for the Sector 17 temple. No reliable on-topic image was found after genuine searching, so media is empty."
+  },
+  "id": "shri-hanuman-temple-sector-seventeen-gandhinagar",
+  "latitude": 23.22777,
+  "longitude": 72.65173,
+  "media": [],
+  "name": "Hanumanji Temple, Gandhinagar",
+  "sources": [
+    "https://Wanderlog.com/place/details/11263265/shree-hanuman-temple",
+    "https://www.justdial.com/Gandhinagar-Gujarat/Temples-in-Gandhinagar-Sector-11/nct-10475644",
+    "https://in.worldorgs.com/catalog/gandhinagar/national-park/shree-hanuman-temple"
+  ],
+  "state": "Gujarat",
+  "town": "Gandhinagar",
+  "town_description": "Gandhinagar is the capital city of Gujarat, a planned city on the west bank of the Sabarmati river named after Mahatma Gandhi. Laid out in numbered sectors, it houses the state secretariat, the legislative assembly, and major institutions alongside Akshardham.",
+  "tradition": "Vaishnavism — Hanuman devotion",
+  "travel": {
+    "airport": "Sardar Vallabhbhai Patel International Airport, Ahmedabad (~20 km)",
+    "railway": "Gandhinagar Capital railway station (~3 km)",
+    "road": "GH Road, near Helipad, Old MLA Quarters, Sector 17, Gandhinagar"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March",
+    "opening_hours": "Open daily; public listings show 24 hours (unverified — confirm locally)"
+  }
+}

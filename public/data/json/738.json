@@ -1,0 +1,47 @@
+{
+  "alternate_names": [
+    "ISKCON Temple Dimapur",
+    "Hare Krishna Temple Dimapur"
+  ],
+  "deities": [
+    "Lord Krishna (presiding deity; ISKCON temples typically also enshrine Radha)"
+  ],
+  "district": "Dimapur",
+  "festivals": [
+    "Janmashtami (August-September)",
+    "Gaura Purnima (February-March)",
+    "Radhashtami (August-September)"
+  ],
+  "history": {
+    "dynasty": "None (modern; built by the International Society for Krishna Consciousness)",
+    "period": "1995 CE (consecration/establishment year per inheritage.foundation; one passage on the same page says 'completed 2012' - conflict flagged, verify)",
+    "summary": "CRITICAL CSV FLAG: there is no verified ISKCON temple in Kohima. The only ISKCON temple documented in Nagaland is at Signal Bosti, Dimapur (Dimapur district), consecrated/established in 1995 CE per inheritage.foundation - so the CSV town 'Kohima' appears to be wrong and this file documents the Dimapur temple as the best-supported referent; the dataset owner should correct the town or merge this row. The temple is dedicated to Lord Krishna, built in a modern interpretation of the Orissan Nagara / broader Nagara style with a curvilinear shikhara, and is maintained by the ISKCON Foundation with daily rituals, festivals and community programmes. Coordinates are the Signal Bosti locality pin, not the exact shrine pin (verify). Media is empty: no image verifiably depicting the Dimapur ISKCON temple was found after genuine searching."
+  },
+  "id": "iskcon-temple-dimapur",
+  "latitude": 25.89655,
+  "longitude": 93.72097,
+  "media": [],
+  "name": "ISKCON Temple Dimapur",
+  "sources": [
+    "https://www.inheritage.foundation/heritage/iskcon-temple-dimapur",
+    "https://www.inheritage.foundation/explore/iskcon-monuments-in-nagaland"
+  ],
+  "state": "Nagaland",
+  "town": "Dimapur (CSV town 'Kohima' is incorrect - the only ISKCON temple in Nagaland is at Signal Bosti, Dimapur)",
+  "town_description": "Dimapur is the largest city and commercial hub of Nagaland, on the plains bordering Assam. It holds the Kachari Ruins (Dimasa kingdom), the Dimapur Kalibari, the ISKCON temple at Signal Bosti, and the Swayambhu Shiva temple at Singrijan; Dimapur Airport and the railway station connect it to Guwahati, Kolkata and Delhi.",
+  "tradition": "Vaishnavism (Gaudiya Vaishnavism / ISKCON)",
+  "travel": {
+    "airport": "Dimapur Airport, the nearest airport (verify distance).",
+    "railway": "Dimapur railway station, a major junction of the Northeast Frontier Railway (verify distance).",
+    "road": "Dimapur is on NH-29 (the Kohima-Guwahati highway); Signal Bosti is within the city (verify local directions)."
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March for pleasant, dry weather (15-25 degC). Janmashtami (August-September) and Gaura Purnima (February-March) are the grandest festivals (verify).",
+    "opening_hours": "Temple darshan 4:30 AM - 1:00 PM and 4:00 PM - 8:30 PM daily per inheritage.foundation (verify). Aarti timings listed: Mangala 4:30 AM, Sandhya 6:30 PM, Shayana 8:15 PM (verify on site)."
+  }
+}

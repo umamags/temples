@@ -1,0 +1,45 @@
+{
+  "alternate_names": [
+    "Durga Bari Mandir"
+  ],
+  "deities": [
+    "Durga"
+  ],
+  "district": "North Tripura",
+  "festivals": [
+    "Durga Puja (verify)"
+  ],
+  "history": {
+    "dynasty": "None documented",
+    "period": "Unknown (no published history found)",
+    "summary": "Solid generic-name match: the Durga Bari on Thana Road, Dharmanagar, North Tripura - described by cabbazar as 'a famous temple dedicated to Goddess Durga, which is a significant religious attraction in Dharmanagar', and confirmed as a town landmark by Tripura Star News (June 2026 report locates an accident 'in front of Durga Bari at Thana Road in Dharmanagar'). This is the Bari ('homestead temple') tradition entry for Dharmanagar - separate from the 'Durga Bari' rows of Agartala and other towns; do not merge. No founding history or builder is published for this shrine. CSV town (Dharmanagar) and state (Tripura) are correct; district recorded as North Tripura. Coordinates are from a public place listing for 'Durga Bari, Dharmanagar' - verify. Media: image searches returned only Agartala's Durga Bari (wrong referent), so media is left empty."
+  },
+  "id": "durga-bari-dharmanagar",
+  "latitude": 24.374944,
+  "longitude": 92.143982,
+  "media": [],
+  "name": "Durga Bari",
+  "sources": [
+    "https://cabbazar.com/taxi/cab/dharmanagar-to-soyagaon",
+    "https://www.tripurastarnews.com/dharmanagar-accident-senior-citizen-suffers-severe-injuries-after-scooter-ambulance-collision/",
+    "https://meta.ai?place_id=1732569047536295"
+  ],
+  "state": "Tripura",
+  "town": "Dharmanagar",
+  "town_description": "Dharmanagar is the second-largest town in Tripura and the headquarters of North Tripura district, on NH 8 near the Assam border - a commercial and cultural hub of the northern part of the state.",
+  "tradition": "Shaktism",
+  "travel": {
+    "airport": "Maharaja Bir Bikram Airport, Agartala (~175 km by road - verify); Silchar Airport, Assam (~145 km - verify).",
+    "railway": "Dharmanagar Railway Station (on the Lumding-Sabroom broad-gauge section - verify) connects north to Silchar/Guwahati and south to Agartala.",
+    "road": "Dharmanagar lies on NH 8, with regular bus and shared-vehicle connections to Agartala (~175 km), Kailashahar, and Karimganj (Assam)."
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March; Durga Puja (September-October) for the main festival.",
+    "opening_hours": "Not published (verify)."
+  }
+}

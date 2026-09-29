@@ -1,0 +1,49 @@
+{
+  "alternate_names": [
+    "Nagunur Fort",
+    "Naluguvonalu Fort and Temples",
+    "Trikutalayam Temple, Nagunur"
+  ],
+  "deities": [
+    "Lord Shiva - the principal Trikutalayam (triple-shrine) temple is dedicated to Shiva",
+    "Other deities of the ruined Kakatiya/Chalukya temple cluster, including a Vaishnava temple"
+  ],
+  "district": "Karimnagar",
+  "festivals": [
+    "Maha Shivaratri (typical for the Shiva temples; verify)"
+  ],
+  "history": {
+    "dynasty": "Western Chalukya (Kalyani Chalukya) and Kakatiya",
+    "period": "12th-13th centuries CE; fort of the early/expanding Kakatiya dynasty",
+    "summary": "IMPORTANT SITE-TYPE NOTE: this CSV row is NOT purely a temple - it is a fort-plus-temples heritage site (recorded as such here with the fort flag). CSV town 'Karimnagar' is approximate: the site is at Nagunur village, about 8-10 km north of Karimnagar city in Karimnagar district, Telangana (coordinates below are village-level and approximate). The Nagunur Fort was an important fort of the emerging Kakatiya dynasty and contains the ruins of a cluster of Western Chalukya and Kakatiya temples, believed built during the 12th and 13th centuries. 'Nagunur' comes from 'Naluguvonalu' - the tradition that some 400 temples once stood here. The most important surviving temple is the red-stone Shiva temple with three shrines (Trikutalayam) - the main entrance faces north while the three shrines face the other three directions; its pillars and galleries are carved with dancers, musicians and Puranic scenes. Other ruined temples line the Telangana state highway from Karimnagar to Rayapatnam. Telangana Tourism and the Archaeology department list it among Karimnagar district's heritage spots; sources describe the complex as neglected and in ruins."
+  },
+  "id": "nagunur-fort-and-temples",
+  "latitude": 18.505,
+  "longitude": 79.1443,
+  "media": [
+    "https://assets.traveltriangle.com/blog/wp-content/uploads/2025/05/Trikutalayam_Temple_Nagunur_Telangana_India_-_2-1.jpg"
+  ],
+  "name": "Nagunur Fort and Temples",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Nagunur_Fort",
+    "https://www.trawell.in/telangana/karimnagar/nagunur-fort-and-temples"
+  ],
+  "state": "Telangana",
+  "town": "Nagunur (CSV town 'Karimnagar' is approximate - the fort-temple complex is at Nagunur village, ~8-10 km north of Karimnagar city)",
+  "town_description": "Nagunur is a village in Karimnagar district, about 8-10 km north of Karimnagar city on the road towards Choppadandi. It was once the seat of Kakatiya power and is said to have held around 400 temples in its heyday; today it is a ruined heritage site drawing heritage travellers and archaeologists.",
+  "tradition": "Hinduism",
+  "travel": {
+    "airport": "Rajiv Gandhi International Airport, Hyderabad - about 177 km (verify).",
+    "railway": "Karimnagar railway station - about 10 km (verify).",
+    "road": "Nagunur village on the Karimnagar-Choppadandi road, about 8-10 km north of Karimnagar by road (verify)."
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to February (verify).",
+    "opening_hours": "8:00 am - 6:30 pm per Trawell.in (verify - not an official notice)."
+  }
+}

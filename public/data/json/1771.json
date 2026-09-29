@@ -1,0 +1,45 @@
+{
+  "alternate_names": [
+    "Krishnankovil (Ettumanoor)"
+  ],
+  "deities": [
+    "Lord Krishna"
+  ],
+  "district": "Kottayam",
+  "festivals": [
+    "Shares the festivals of the main Ettumanoor temple (Arattu/Thiruvathira, Janmashtami - UNVERIFIED for this shrine specifically)"
+  ],
+  "history": {
+    "dynasty": "Same as the main Ettumanoor Mahadeva temple (reconstructed 1542 CE)",
+    "period": "Part of the present Ettumanoor temple complex (16th century reconstruction)",
+    "summary": "SUB-SHRINE of seq 1770 (Ettumanoor Mahadeva Temple) - NOT an independent temple. The Krishna shrine (Krishnankovil) is a small temple dedicated to Lord Krishna standing just outside the main walls of the Ettumanoor Mahadeva complex, on its north-western side. It is listed alongside the Sastha, Dakshinamoorthy, Ganapathi, Bhagavati and Yakshi shrines of the complex. UNVERIFIED: dedicated history, founding date, and separate opening hours for this shrine could not be established from web sources; coordinate is that of the main complex (approximate)."
+  },
+  "id": "krishna-shrine-ettumanoor-temple-complex",
+  "latitude": 9.67349,
+  "longitude": 76.56061,
+  "media": [],
+  "name": "Krishna shrine, Ettumanoor temple complex",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Ettumanoor_Mahadevar_Temple",
+    "https://www.brahminsnet.com/forums/forum/religious/bhakthi-pooja-sthothrams/anmikam-bhakthi-pooja/5612-",
+    "https://lightuptemples.com/kottayamettumanoor-mahadevar-temple-kerala/"
+  ],
+  "state": "Kerala",
+  "town": "Ettumanoor",
+  "town_description": "Ettumanoor is a municipality in Kottayam district, about 12 km north of Kottayam city on the Kottayam-Vaikom-Ernakulam route. It is known chiefly for the Mahadeva temple, a major pilgrimage centre and home to celebrated 16th-century murals. The town sits in central Kerala's midland belt of paddy fields, coconut groves and rubber plantations, and serves as a stop on the Vaikom-Ettumanoor-Kaduthuruthy Shiva-temple circuit.",
+  "tradition": "Hinduism (Vaishnavism)",
+  "travel": {
+    "airport": "Cochin International Airport, about 75 km north (verify)",
+    "railway": "Kottayam railway station, about 13 km south (verify)",
+    "road": "Within the Ettumanoor Mahadeva temple complex, just outside the main walls on the north-western side; reached via the complex's northern entrance area"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March; with the main temple's Arattu festival (February-March)",
+    "opening_hours": "UNVERIFIED - no separate hours published for this sub-shrine; main complex hours are 4:00 AM-12:30 PM and 5:00-8:30 PM (verify)"
+  }
+}

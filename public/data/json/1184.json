@@ -1,0 +1,46 @@
+{
+  "alternate_names": [
+    "Eklakhi Masjid",
+    "Golghar",
+    "Tomb of Jalaluddin Muhammad Shah"
+  ],
+  "deities": [],
+  "district": "Malda",
+  "festivals": [],
+  "history": {
+    "dynasty": "Bengal Sultanate (Ganesha dynasty period)",
+    "period": "Early 15th century - c. 1425 (sources variously say c. 1412-1415 or c. 1433)",
+    "summary": "NOT A HINDU TEMPLE - Islamic mausoleum at Pandua; keep-or-drop decision needed. A square brick tomb housing three graves attributed to Sultan Jalaluddin Muhammad Shah (Jadu, the converted son of Raja Ganesha, the first native Muslim king of Bengal), his wife and his son Shamsuddin Ahmad Shah - the identifications are disputed. Tradition says construction cost one lakh rupees/tankas, hence 'Eklakhi' (of one lakh). It is the earliest extant square tomb in Bengal and the prototype of the distinctive Bengal Sultanate style: a thatched-village-hut form with sloping eaves, a single grand dome over an octagonal interior, and rich terracotta ornament incorporating Hindu motifs (lotus, bell themes; carved stone reused from earlier structures). Built c. 1425 per ASI/Wikipedia (some scholars cite c. 1412-1415; Banglapedia treats the date as unknown, linked to Jalaluddin's death in 1433). A contested fringe claim casts it as a converted Chandi mandir - unverified. ASI-listed monument (N-WB-100). CSV town 'Malda' corrected to Pandua (Malda is the district). Coordinates from the Wikipedia infobox (25.1388, 88.1543); the geocoder could not resolve the place name (returned the wrong Pandua in Hooghly district)."
+  },
+  "id": "eklakhi-mausoleum-malda",
+  "latitude": 25.1388,
+  "longitude": 88.1543,
+  "media": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Eklakhi_Mausoleum.jpg/1280px-Eklakhi_Mausoleum.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail"
+  ],
+  "name": "Eklakhi Mausoleum",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Eklakhi_Mausoleum",
+    "http://en.banglapedia.org/index.php?title=Eklakhi_Mausoleum",
+    "https://wanderlog.com/place/details/5646567",
+    "https://sritiochetona.org/occupied-mandirs-exhibit-8-eklakhi-mausoleum/"
+  ],
+  "state": "West Bengal",
+  "town": "Pandua",
+  "town_description": "Pandua (Hazrat Pandua) is a historic village in Malda district, about 18 km north of Malda town. It was a capital of the Bengal Sultanate in the 14th-15th centuries and holds ASI-protected monuments including the Adina Mosque and the Eklakhi Mausoleum.",
+  "tradition": "Islam",
+  "travel": {
+    "airport": "Bagdogra International Airport (IXB), roughly 230 km north, is the nearest major airport.",
+    "railway": "Malda Town Junction (MLDT), a major station, is about 17 km away.",
+    "road": "In Pandua near the Adina Mosque; bus from Rathbari More in Malda to Golghor bus stand, then a short walk west."
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October-March, the cooler months.",
+    "opening_hours": "ASI monument; typically open in daylight hours with free entry (verify)."
+  }
+}

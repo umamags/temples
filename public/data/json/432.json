@@ -1,0 +1,50 @@
+{
+  "alternate_names": [
+    "Trikut Parvat Temple",
+    "Trikut Pahar Shiva Temple",
+    "Trikutachal Mahadev Temple"
+  ],
+  "deities": [
+    "Shiva (as Trikutachal Mahadeva)"
+  ],
+  "district": "Deoghar",
+  "festivals": [
+    "Maha Shivratri",
+    "Shravan month (Shravani Mela)"
+  ],
+  "history": {
+    "dynasty": "Not documented (hill shrines of folk/regional antiquity; Dayananda ashram is modern)",
+    "period": "Ancient pilgrimage hill (temple dating not documented)",
+    "summary": "The real referent of CSV 'Trikuta Parvata Temple' is the Trikutachal Mahadeva Temple in the dense forest atop Trikut Hill (Trikut Pahar), a three-peaked hill ~15 km from Deoghar in Mohanpur block on the Deoghar-Dumka road (CSV town 'Deoghar' is approximate; corrected detail here). The peaks (2,470 ft) are named for the Trimurti - Brahma, Vishnu, Shiva. The hilltop complex includes the Trikutachal Mahadeva Temple, the altar of Goddess Trishuli, Sage Dayananda's hermitage, the Belpatra Bagan (bel leaves collected here in Shravan for Baidyanath - hence 'Garden of Shiva'), Narayan Shila, Ravana's Helipad (legend: Ravana landed his Pushpak Vimana here), Sita Deep and Ravan Gupha. The Mayurakshi river originates here. A ropeway to the summit opened in 2003 (one source says 21 July 2009 - conflict) and was Jharkhand's first ropeway; it is non-operational since the April 2022 cable-car accident. Coordinates are the Wikipedia range coordinates for Trikut Hill."
+  },
+  "id": "trikutachal-mahadeva-temple-deoghar",
+  "latitude": 24.499,
+  "longitude": 86.837,
+  "media": [
+    "https://deoghar.co/wp-content/uploads/2022/01/trikut-pahar-ropeway-beautiful-view.jpg"
+  ],
+  "name": "Trikutachal Mahadeva Temple",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Trikut_Hill",
+    "https://deoghar.co/trikut-parvat-deoghar/",
+    "https://www.outlooktraveller.com/amp/story/explore/hills/trikut-pahar-all-you-need-to-know-about-this-hill-in-deoghar"
+  ],
+  "state": "Jharkhand",
+  "town": "Deoghar",
+  "town_description": "Deoghar ('abode of gods') is a major Hindu pilgrimage city in the Santhal Pargana division of Jharkhand, famous for the Baidyanath Jyotirlinga temple. Trikut Hill lies ~15 km away in Mohanpur block, en route to Dumka.",
+  "tradition": "Shaiva",
+  "travel": {
+    "airport": "Deoghar Airport",
+    "railway": "Jasidih Junction",
+    "road": "~15 km from Deoghar on the Deoghar-Dumka road; summit reached by stairs/trekking (ropeway non-operational since April 2022 - verify current status)"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October-March; avoid monsoon (clouds, slippery, waterfalls may be dangerous)",
+    "opening_hours": "Hill open roughly 6 AM-6 PM; shrines accessible in daylight hours (verify locally)"
+  }
+}

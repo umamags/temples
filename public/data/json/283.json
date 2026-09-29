@@ -1,0 +1,49 @@
+{
+  "alternate_names": [
+    "Bala Hanuman Temple",
+    "Balaji Hanuman Temple, Rajkot"
+  ],
+  "deities": [
+    "Hanuman"
+  ],
+  "district": "Rajkot",
+  "festivals": [
+    "Hanuman Jayanti"
+  ],
+  "history": {
+    "dynasty": "Unknown (colonial-era shrine)",
+    "period": "c. 1890",
+    "summary": "The prominent Rajkot Hanuman shrine most likely meant by this row is the Shree Balaji Hanumanji Mandir at Bhupendra Road, Karanpara, Prahlad Plot. Local accounts say it was built around 1890 by Gunatitanand Swami of the Swaminarayan sect, when the area was desolate; he installed an idol of Hanuman in child form, worshipped as Kashtabhanjan (reliever of suffering). It is popularly called 'Mini Salangpur' and is one of the rare Rajkot temples open for darshan 24 hours. The same accounts link the complex to Mahatma Gandhi and minister Darbar Veeravala (single-source, unverified). AMBIGUITY FLAG: 'Bala Hanuman' is a generic name shared by several Rajkot shrines (Gondal Road, Smrudhi Park, University Road, Janakpuri); no dedicated historical source was found for a shrine of this exact CSV name, so this file documents the best-documented candidate. Coordinates are the geocoded Bhupendra Road shrine."
+  },
+  "id": "balaji-hanumanji-mandir-rajkot",
+  "latitude": 22.29448,
+  "longitude": 70.80464,
+  "media": [
+    "https://kathiyawadikhamir.com/wp-content/uploads/2014/02/balaji-hanuman-rajkot-579x556.jpg"
+  ],
+  "name": "Shree Balaji Hanumanji Mandir",
+  "sources": [
+    "https://city.webindia123.com/d-t/gujarat/rajkot/shree-balaji-hanumanji-mandir/6491/",
+    "https://www.youtube.com/watch?v=ku7Ww2VguAk",
+    "https://www.justdial.com/Rajkot/Balaji-Hanuman-University-Road-Yogi-Nagar-Janakpuri/0281PX281-X281-230222160347-B8Z8_BZDET",
+    "https://kathiyawadikhamir.com/shree-balaji-hanuman-temple-rajkot/"
+  ],
+  "state": "Gujarat",
+  "town": "Rajkot",
+  "town_description": "Rajkot is the largest city of Gujarat's Saurashtra region and a former princely-state capital. It is known as Mahatma Gandhi's school town (he studied at Alfred High School here) and as an industrial and trade hub of the region.",
+  "tradition": "Hinduism",
+  "travel": {
+    "airport": "Rajkot International Airport, Hirasar (~35 km)",
+    "railway": "Rajkot Junction (RJT), on the main western railway network",
+    "road": "Well connected by NH 27 and NH 47; city buses and autos reach Bhupendra Road"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October-March; Tuesdays and Saturdays are the peak devotional days",
+    "opening_hours": "Open 24 hours daily for darshan; Saturday evenings host a Bhajan Sandhya and collective Hanuman Chalisa paths (verify)"
+  }
+}

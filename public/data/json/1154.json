@@ -1,0 +1,49 @@
+{
+  "alternate_names": [
+    "Ananta Basudev Temple",
+    "Ananta Vasudeva Temple"
+  ],
+  "deities": [
+    "Lord Krishna (as Ananta Basudeba/Vasudeva)"
+  ],
+  "district": "Hooghly",
+  "festivals": [
+    "Janmashtami (verify)",
+    "Dol Yatra (verify)"
+  ],
+  "history": {
+    "dynasty": "Datta zamindari family of Bansberia (Mughal/Bengal zamindari era)",
+    "period": "1679",
+    "summary": "CSV TOWN ERROR: the temple is not in Howrah; it stands at Bansberia, Hooghly district, inside the Hangseshwari temple complex (town corrected in the town field). Built in 1679 by Raja Rameshwar Datta, a Vaishnava zamindar of Bansberia (his lineage traces to Raghab Dattaroy of Patuli, appointed zamindar in 1656). Eka-ratna temple with curved cornices and an octagonal tower; famed for dense terracotta panels depicting the Ramayana, Mahabharata and Krishna-lila alongside secular scenes of boats, musicians, local wildlife and European soldiers of 17th-century Hooghly. Stands beside the 19th-century Hangseswari temple, tracing nearly two centuries of Bengal's sacred architecture on one site. The Archaeological Survey of India supervises ongoing conservation; some panels show weathering and visitor graffiti."
+  },
+  "id": "ananta-basudeba-temple-bansberia",
+  "latitude": 22.96436,
+  "longitude": 88.39954,
+  "media": [
+    "https://lightup-temples.s3.ap-south-1.amazonaws.com/wp-content/uploads/IMG_20210828_161503-01_20210903020936378.jpg"
+  ],
+  "name": "Ananta Basudeba Temple",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Ananta_Basudeba_Temple",
+    "https://isharethese.com/ananta-basudeba-temple-hooghly-west-bengal/",
+    "https://lightuptemples.com/hooghly-ananta-basudeba-temple-west-bengal/"
+  ],
+  "state": "West Bengal",
+  "town": "Bansberia",
+  "town_description": "Bansberia is an industrial town in Hooghly district on the west bank of the Hooghly river, between Bandel and Tribeni. It was an important river port and religious centre of pre-Muslim Bengal, located at the sacred Tribeni confluence of the Ganga, Jamuna and Saraswati; its name derives from a bamboo grove (bans) cleared by the family of Rameshwar Datta. Today it is known for the Hanseswari-Ananta Basudeba temple complex.",
+  "tradition": "Vaishnavism",
+  "travel": {
+    "airport": "Netaji Subhas Chandra Bose International Airport, Kolkata (~55 km)",
+    "railway": "Bansberia station (Howrah-Katwa local, ~45-60 min from Howrah); short rickshaw/auto ride to the complex; Bandel Junction is an alternate interchange",
+    "road": "~50 km from Kolkata via NH 19 / Delhi Road (SH-6); private cabs and app taxis available"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March; Janmashtami is the principal festival",
+    "opening_hours": "Generally 6 AM-6 PM (daylight hours); free entry; photography of the exterior panels permitted (field guide, verify locally)"
+  }
+}

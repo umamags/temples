@@ -1,0 +1,55 @@
+{
+  "alternate_names": [
+    "Dalai Lama Temple Complex",
+    "Tsuglag Khang",
+    "Dalai Lama's Temple",
+    "Namgyal Monastery complex"
+  ],
+  "deities": [
+    "Shakyamuni Buddha (gilded 3-metre central statue)",
+    "Avalokiteshvara (Bodhisattva of Compassion)",
+    "Padmasambhava (Guru Rinpoche)"
+  ],
+  "district": "Kangra",
+  "festivals": [
+    "Losar (Tibetan New Year; celebrated by the Tibetan community)"
+  ],
+  "history": {
+    "dynasty": "Modern — established after the 14th Dalai Lama's exile in 1959",
+    "period": "1959-present",
+    "summary": "THIS IS A BUDDHIST MONASTERY/TEMPLE COMPLEX, NOT A HINDU TEMPLE — keep-or-drop decision needed. The Tsuglagkhang Complex in McLeod Ganj (a suburb of Dharamshala) is the spiritual and cultural heart of Tibetan Buddhism in exile: the residence of the 14th Dalai Lama (Tenzin Gyatso, who fled Tibet after the 1959 uprising and settled in Dharamshala in 1960), the Tsuglagkhang ('Central Cathedral', named after Lhasa's Jokhang) temple, Namgyal Monastery (the Dalai Lama's personal monastery — founded in the 16th century in Tibet, traditionally attributed to the 2nd Dalai Lama Gendun Gyatso by some sources and the 3rd by others — CONFLICT, verify), the Tibet Museum, and the Kalachakra Temple with its murals. The main temple houses gilded statues of Shakyamuni Buddha flanked by Padmasambhava and Avalokiteshvara (facing Tibet). Pilgrims walk the kora circumambulation path spinning prayer wheels; monks of Namgyal Monastery hold afternoon philosophical debates."
+  },
+  "id": "tsuglagkhang-complex",
+  "latitude": 32.23223,
+  "longitude": 76.32379,
+  "media": [
+    "https://www.distinctdestinations.in/DistinctDestinationsBackEndImg/downloads/Tsuglagkhang-Temple.jpg"
+  ],
+  "name": "Tsuglagkhang Complex (Namgyal Monastery)",
+  "sources": [
+    "https://www.trawell.in/himachal/mcleod-ganj/tsuglagkhang-dalai-lama-temple-complex",
+    "https://devbhumidarshanhp.in/discover-the-dalai-lama-temple-complex-a-spiritual-oasis-in-mcleod-ganj/",
+    "https://cultureandheritage.org/2023/07/namgyal-monastery-in-mcleod-ganj-himachal-pradesh-the-dalai-lamas-personal-monastery.html",
+    "https://wanderlog.com/place/details/31781",
+    "http://123himachal.com/dharamsala/links/namgyal.htm",
+    "https://www.illustrateddailynews.com/webstories/10-key-facts-about-dharamshala-the-seat-of-the-dalai-lama-731"
+  ],
+  "state": "Himachal Pradesh",
+  "town": "McLeod Ganj",
+  "town_description": "McLeod Ganj is a suburb of Dharamshala in Kangra district, Himachal Pradesh, set against the Dhauladhar range. It is the headquarters of the Central Tibetan Administration (the Tibetan government-in-exile) and the home of the 14th Dalai Lama, making it a global centre of Tibetan Buddhism and culture. Its streets mix Tibetan monasteries, prayer wheels and cafes with the bustle of a major tourist town.",
+  "tradition": "Buddhism (Tibetan Gelugpa school) — NOT HINDU",
+  "travel": {
+    "airport": "Nearest: Kangra (Gaggal) Airport near Dharamshala (~15-20 km; verify)",
+    "railway": "Nearest broad-gauge: Pathankot (~90 km; verify)",
+    "road": "On Temple Road in McLeod Ganj; ~2 km from McLeod Ganj bus stand, ~4 km from Dharamshala (verify)"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "March-May and October-November (verify)",
+    "opening_hours": "Sunrise to sunset (verify)"
+  }
+}

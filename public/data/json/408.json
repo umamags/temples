@@ -1,0 +1,47 @@
+{
+  "alternate_names": [
+    "Jubilee Park Shiva Temple",
+    "Sri Sri Chandramauleshwar Mahadev Kachari Baba Mandir"
+  ],
+  "deities": [
+    "Lord Shiva as Chandramauleshwar (Kachari Baba)"
+  ],
+  "district": "East Singhbhum",
+  "festivals": [
+    "Maha Shivratri",
+    "Shravan Mondays (Sawan)"
+  ],
+  "history": {
+    "dynasty": "Not documented",
+    "period": "Modern shrine; no construction date found",
+    "summary": "IDENTITY UNCERTAIN — thinly documented. 'Jubilee Park Shiva Temple' matches the 'Sri Sri Chandramauleshwar Mahadev Kachari Baba Mandir' listed at Jubilee Park, Sakchi, Jamshedpur in directory sources (coordinates cluster around 22.8114, 86.1996, just east of Jubilee Park). One review, however, describes the same temple as 'near Jamshedpur Court' and 'the only temple situated in Court Campus' — the court complex adjoins Jubilee Park in Sakchi, so this may be the same small shrine, but the location conflict is unresolved. No history, founding details or timings are published; the festivals listed are typical observances for a Shiva shrine (verify locally). If the CSV intends a different Shiva shrine inside Jubilee Park, this record must be replaced."
+  },
+  "id": "jubilee-park-shiva-temple-jamshedpur",
+  "latitude": 22.8114,
+  "longitude": 86.1996,
+  "media": [],
+  "name": "Sri Sri Chandramauleshwar Mahadev Kachari Baba Mandir",
+  "sources": [
+    "https://in.worldorgs.com/catalog/jamshedpur/hindu-temple/sri-sri-chandramauleshwar-mahadev-kachari-baba-mandir",
+    "https://in.near-place.com/sri-sri-chandramauleshwar-mahadev-kachari-baba-mandir-jubilee-park-sakchi-jamshedpur",
+    "https://www.instagram.com/explore/locations/416967058665213"
+  ],
+  "state": "Jharkhand",
+  "town": "Jamshedpur",
+  "town_description": "Jamshedpur is Jharkhand's largest urban agglomeration and India's first planned industrial city, founded by Jamshedji Tata around the Tata Steel works. Known as the 'Steel City of India', it lies in East Singhbhum district between the Subarnarekha and Kharkai rivers. Jubilee Park is its 225-acre central public park in Sakchi.",
+  "tradition": "Shaivism",
+  "travel": {
+    "airport": "Sonari Airport, Jamshedpur — limited services; Birsa Munda Airport, Ranchi — nearest major airport, about 130 km",
+    "railway": "Tatanagar Junction — about 4 km from Jubilee Park/Sakchi (verify)",
+    "road": "Jubilee Park, Sakchi — reached on foot within the park or by auto-rickshaw/taxi to the park gates"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October-March; Maha Shivratri and the Shravan month (July-August) are the main observances",
+    "opening_hours": "Not published (verify)"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "alternate_names": [
+    "Siddharoodha Swamy Math",
+    "Siddharoodha Swami Mutt"
+  ],
+  "deities": [
+    "Sri Siddharoodha Swami (samadhi shrine; marble statue)"
+  ],
+  "district": "Dharwad",
+  "festivals": [
+    "Maha Shivaratri (annual car festival)",
+    "Siddharoodha Swami Jayanti"
+  ],
+  "history": {
+    "dynasty": "",
+    "period": "Early 20th century (samadhi 1929)",
+    "summary": "Monastic institution (math) at Srinivasa Nagar, Old Hubli (Karwar Road), built around the samadhi of the Advaita saint Sri Siddharoodha Swami (born 1836/1837; took samadhi 2 August 1929), who settled in Hubli in 1877. The samadhi mandir was built 1897-1907; the complex houses a marble statue of the Swami and propagates his Advaita teaching of universal brotherhood. It was visited by Lokmanya Bal Gangadhar Tilak (1919) and Mahatma Gandhi (1924). The annual car festival is held on Maha Shivaratri. NOTE: this is a Hindu math/samsthana (a saint's samadhi shrine), not a conventional temple structure - keep-or-drop decision for a temples dataset. Sources differ on the saint's birth year (1836 vs 1837) and on daily hours (6 AM-6 PM vs 4 AM-9 PM)."
+  },
+  "id": "siddharoodha-math-hubli",
+  "latitude": 15.33507,
+  "longitude": 75.11924,
+  "media": [
+    "https://praveenmusafir.com/wp-content/uploads/2023/12/sidd-1024x766.jpg"
+  ],
+  "name": "Sri Siddharoodha Math",
+  "sources": [
+    "https://www.karnataka.com/hubli/siddharoodha-math-hubli/",
+    "https://www.trawell.in/karnataka/hubli/siddharoodha-math",
+    "https://www.templetravel.info/2016/03/siddharoodha-math-in-hubli-karnataka.html?m=0"
+  ],
+  "state": "Karnataka",
+  "town": "Hubli",
+  "town_description": "Hubli (officially Hubballi), twin city with Dharwad, is the largest city in North Karnataka and a major commercial and transport hub. It is noted for spiritual centres such as the Siddharoodha Math.",
+  "tradition": "Advaita Vedanta (Hindu monastic math)",
+  "travel": {
+    "airport": "Hubballi Airport (HBX), ~8 km",
+    "railway": "Hubli Junction (UBL), ~4 km (Old Hubli, Karwar Road)",
+    "road": "Old Hubli locality; reachable by local bus/auto via Unkal Lake Road"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to February",
+    "opening_hours": "6:00 AM - 6:00 PM (one source lists 4:00 AM - 9:00 PM; verify)"
+  }
+}
