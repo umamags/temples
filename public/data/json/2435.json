@@ -1,0 +1,52 @@
+{
+    "alternate_names": [
+        "Baghnath Mandir",
+        "Bageshwar Temple",
+        "Vyagreshwar Temple"
+    ],
+    "deities": [
+        "Lord Shiva as Bagnath / Bageshwar / Vyagreshwar ('Tiger Lord') - the presiding lingam",
+        "Subsidiary shrines: Bhairav, Dattatreya, Ganga Mai, Hanuman, Durga, Kalika, Chandika, Parvati, Ganesh and others"
+    ],
+    "district": "Bageshwar",
+    "festivals": [
+        "Uttarayani Mela (Makar Sankranti, January; ritual bath at dawn at the confluence followed by offering water to Lord Shiva; the three-day observance is called Trimaghi)",
+        "Maha Shivaratri (the temple is flooded with devotees)"
+    ],
+    "history": {
+        "dynasty": "Chand dynasty",
+        "period": "Present Nagara-style structure c. 1450 (King Laxmi Chand) per most sources; shrine tradition claims origins in the 7th century (unverified); one travel page says 1602 - dates conflict, verify",
+        "summary": "Bagnath is the most famous temple of Bageshwar district and gives the town its name ('Bageshwar' = Lord of Tigers). It stands at the confluence of the Saryu and Gomti rivers at ~1,004 m, a large temple with a conical tower in Nagara style plus a cluster of subsidiary shrines. Legend: Rishi Markandeya worshipped Lord Shiva here, and Shiva blessed him by appearing in the form of a tiger (Bagh/Vyaghra) with Parvati as a cow - hence Bagnath/Vyagreshwar. The present stone building was erected by the Chand king Laxmi Chand (c. 1450 per most sources; one source says 1640/1602 - verify); an older Sanskrit inscription on site predates it, and stone figurines in the complex range from the 7th to the 16th century. The temple finds mention in the Skanda Purana. One travel review claims Adi Shankaracharya stayed here en route to Badrinath (weak sourcing). Uttarayani (Makar Sankranti) is the big annual fair, with ritual bathing at the sangam."
+    },
+    "id": "bagnath-bageshwar",
+    "latitude": 29.83706,
+    "longitude": 79.77236,
+    "media": [
+        "https://www.trawell.in/admin/images/upload/534130593Kausani_Bagnath_Main.jpg"
+    ],
+    "name": "Bagnath Temple",
+    "sources": [
+        "https://en.wikipedia.org/wiki/Bageshwar",
+        "https://www.singhtour.com/place/bagnath-mandir/",
+        "http://www.thedivineindia.com/bagnath-mandir/6061",
+        "https://wanderlog.com/place/details/10662651/bagnath-temple-bageshwar"
+    ],
+    "state": "Uttarakhand",
+    "town": "Bageshwar",
+    "town_description": "Bageshwar is a Kumaon town in Uttarakhand at the confluence of the Saryu and Gomti rivers, at ~1,004 m, surrounded by views of the Himalayan ranges including the Pindari Glacier approaches. Named after the Bagnath temple, it is a centre of Shaivite pilgrimage and the venue of the annual Uttarayani fair.",
+    "tradition": "Hinduism (Shaivism)",
+    "travel": {
+        "airport": "Pantnagar Airport (~180 km per travel guides - verify)",
+        "railway": "Kathgodam railway station (~180 km per travel guides - verify)",
+        "road": "Bageshwar town is connected by road with Almora, Kausani and the rest of Kumaon; the temple stands at the town's river confluence (verify road distances)"
+    },
+    "video": {
+        "audio": "",
+        "script": "",
+        "video_file": ""
+    },
+    "visitor_information": {
+        "best_time": "October to May; Uttarayani (Makar Sankranti, January) is the main festival",
+        "opening_hours": "No official published timings (verify locally)"
+    }
+}

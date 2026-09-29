@@ -1,0 +1,49 @@
+{
+  "alternate_names": [
+    "Druk Thupten Sangag Choling Monastery",
+    "Druk Sangag Choling Monastery",
+    "Dali Gompa"
+  ],
+  "deities": [
+    "Gautama Buddha"
+  ],
+  "district": "Darjeeling",
+  "festivals": [
+    "Mahakala puja",
+    "Buddha Jayanti (Vesak)"
+  ],
+  "history": {
+    "dynasty": "Modern",
+    "period": "1971 (established by Kyabje Thuksey Rinpoche; gompa inaugurated by the Dalai Lama in 1993)",
+    "summary": "DUPLICATE CSV ROW - CANONICAL RECORD IS FILE 1172.json. CSV row 2467 'Dali Monastery (Druk Thupten Sangag Choeling) | Darjeeling' refers to the SAME monastery as dataset row 1172 ('Dali Monastery | Darjeeling'). This file is a cross-reference record; 1172.json (id: dali-monastery-darjeeling) is the canonical full research record and should be merged with this row or kept as the single entry. NON-HINDU: this is a Tibetan Buddhist monastery (Drukpa Kagyu / Kargyupa lineage) - keep/drop decision needed for the temple dataset. Established 1971 by Kyabje Thuksey Rinpoche (1909-1994); the gompa building was inaugurated by the 14th Dalai Lama in 1993. One of Darjeeling's largest and most important monasteries, seat of the Drukpa Kagyu order in the region. See 1172.json for the full researched entry."
+  },
+  "id": "dali-monastery-darjeeling-duplicate",
+  "latitude": 27.02325,
+  "longitude": 88.25465,
+  "media": [
+    "https://darjeelingadventuretourism.com/images/dali-monastery-780.jpg"
+  ],
+  "name": "Dali Monastery (Druk Thupten Sangag Choeling)",
+  "sources": [
+    "https://darjeelingdays.com/dali-monastery/",
+    "https://www.windhorsetours.com/sights/druk-thupten-sangag-choling-monastery-dali-monastery"
+  ],
+  "state": "West Bengal",
+  "town": "Darjeeling",
+  "town_description": "Dali is a suburb on the edge of Darjeeling town, about 5 km from the town centre on the way to Tiger Hill. See 1172.json for the full entry.",
+  "tradition": "Tibetan Buddhism (Drukpa Kagyu / Kargyupa)",
+  "travel": {
+    "airport": "Bagdogra Airport (IXB) - about 70 km (verify).",
+    "railway": "New Jalpaiguri, then Darjeeling Himalayan Railway or road to Darjeeling; monastery ~5 km from Darjeeling town (verify).",
+    "road": "In Dali, ~5 km from Darjeeling town on the Tiger Hill route (verify)."
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "March to May and October to December (verify).",
+    "opening_hours": "Morning and evening prayers; timings not published officially (verify). See 1172.json."
+  }
+}

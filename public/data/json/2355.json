@@ -1,0 +1,49 @@
+{
+  "alternate_names": [],
+  "deities": [
+    "Ganesha (multiple rock-cut figures, including a seated Ganesha about 22 ft high)",
+    "Durga on a lion (full-size figure beside the central Shiva head)",
+    "Nandi (three enormous Nandi bull images, half buried in the ground)"
+  ],
+  "district": "Unakoti",
+  "festivals": [
+    "Ashokastami Mela (site-level annual fair, March-April - the site's festival, not specific to these carvings)"
+  ],
+  "history": {
+    "dynasty": "Deva Dynasty of Sribhumi in Samatata (attributed patronage)",
+    "period": "7th-9th century CE (stylistic grounds)",
+    "summary": "NON-TEMPLE: KEEP-OR-DROP DECISION NEEDED - like seq 2237 (the Teppakulam tank precedent), this row names archaeological rock CARVINGS, not a functioning temple: the group of Ganesha figures carved into perpendicular rock on the left bank of the stream at Unakoti (including a seated Ganesha about 22 ft high), the Durga-on-lion figure flanking the central Shiva head, and three enormous half-buried Nandi bull images. RELATED RECORDS: the Unakoti site is already documented as seq 1038 (id unakoti-rock-carvings); seq 2354 covers the site's central Shiva head (Unakotiswara Kal Bhairava). Recommend folding into seq 1038 or keeping as a sub-feature entry. The carvings are part of the 7th-9th-century bas-relief complex ascribed to the pre-Manikya period under Deva Dynasty patronage of Sribhumi in Samatata; Unakoti is ASI-protected and on UNESCO's tentative World Heritage list (2022)."
+  },
+  "id": "ganesha-durga-nandi-rock-carvings-unakoti",
+  "latitude": 24.31666,
+  "longitude": 92.06701,
+  "media": [
+    "https://www.easeindiatrip.com/blog/wp-content/uploads/2025/06/Tripura-Unakoti-Rock-Carvings-04.jpg"
+  ],
+  "name": "Ganesha-Durga-Nandi Rock Carvings, Unakoti",
+  "sources": [
+    "https://tripuratourism.gov.in/single-tour.php?id=3",
+    "http://en.wikipedia.org/wiki/Unakoti",
+    "https://fihcr.com/wp-content/uploads/2026/07/Bas-relief-Sculptures-of-Unakoti-in-Tripura-Dr-Sauradeep-Nath.pdf",
+    "https://www.travelandleisureasia.com/in/destinations/india/why-unakoti-should-be-your-next-offbeat-getaway-in-northeast-india/",
+    "https://hindustanpioneer.com/travel/unakoti-in-india/"
+  ],
+  "state": "Tripura",
+  "town": "Unakoti (near Kailashahar; CSV town 'Unakoti' is the site name, ~8-9 km from Kailashahar town)",
+  "town_description": "Unakoti is a forested hill site in Unakoti district, Tripura, about 8-9 km from the subdivision town of Kailashahar and roughly 125 km from Agartala. It is Tripura's prime tourist spot: an ASI-protected open-air Shaivite pilgrimage site of 7th-9th-century rock-cut carvings in a green, landscaped forest setting, on UNESCO's tentative World Heritage list since 2022.",
+  "tradition": "Hinduism (Shaivism; archaeological carvings)",
+  "travel": {
+    "airport": "Nearest major airport: Maharaja Bir Bikram Airport, Agartala, about 125-140 km by road (verify); Kailashahar has a small non-scheduled airstrip (verify).",
+    "railway": "Kumarghat (about 27-30 km) or Dharmanagar (about 41 km) are the nearest railheads; hire a car onward (verify).",
+    "road": "About 8-9 km from Kailashahar; roughly 125 km from Agartala by road (verify). The site involves ~350 steps up and down - difficult for elderly visitors."
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March, the dry season; the Ashokastami Mela in March-April draws thousands.",
+    "opening_hours": "No entry fee and no officially published hours reported; visit during daylight hours (verify). Carry water and food - no shops at the site."
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "alternate_names": [
+    "Shree Jagannath Temple Noida"
+  ],
+  "deities": [
+    "Lord Jagannath",
+    "Balabhadra",
+    "Subhadra"
+  ],
+  "district": "Gautam Buddha Nagar",
+  "festivals": [
+    "Ratha Yatra"
+  ],
+  "history": {
+    "dynasty": "",
+    "period": "2009 (year of establishment per Justdial - verify)",
+    "summary": "DUPLICATE FLAG: this CSV row (seq 2403) is the same temple as seq 1093 (id shree-jagannath-temple-noida). Kept as a separate file per the duplicate-handling rule. IDENTITY CONFIRMED: the Shree Jagannath Temple at B-10, Jagannath Mandir Marg, Udaigiri-2, Sector 34, Noida. Established by the Shree Jagannath Seva Sangha, it is the focal point of the local Odia community - it stages an annual Ratha Yatra chariot festival and hosts cultural programs promoting Odissi and other classical dances. Reviews describe it as a small, clean, peaceful temple serving Mahaprasad. Justdial lists '17 years in business' and year of establishment 2009; no independent source confirms the founding date - flag for verification."
+  },
+  "id": "shree-jagannath-temple-noida-duplicate",
+  "latitude": 28.58255,
+  "longitude": 77.35721,
+  "media": [
+    "https://content.jdmagicbox.com/comp/noida/l5/011pxx11.xx11.170615184532.q7l5/catalogue/shree-jagannath-temple-noida-noida-sector-34-noida-temples-436txk62kh.jpg?w=3840&q=75"
+  ],
+  "name": "Shree Jagannath Temple, Sector 34",
+  "sources": [
+    "https://www.justdial.com/Delhi/Shree-Jagannath-Temple-Noida-Uday-Giri-Part-2Near-Sector-Noida-City-Metro-Centre-Noida-Sector-34/011PXX11-XX11-170615184532-Q7L5_BZDET",
+    "https://yappe.in/uttar-pradesh/noida/shree-jagannath-temple/46719",
+    "https://www.tripadvisor.co.UK/Attraction_Review-g644043-d12854135-Reviews-Shree_Jagannath_Temple_Noida-Noida_Gautam_Buddha_Nagar_District_Uttar_Pradesh.html",
+    "https://us.trip.com/travel-guide/attraction/noida/shree-jagannath-temple-58362428/",
+    "https://moovitapp.com/index/en/public_transit-Shree_Jagannath_Temple_NOIDA_in_Noida_Sector_34-Delhi-site_58877252-3801"
+  ],
+  "state": "Uttar Pradesh",
+  "town": "Noida",
+  "town_description": "Noida (New Okhla Industrial Development Authority) is a planned industrial city in Gautam Buddha Nagar district, Uttar Pradesh, part of the Delhi NCR. Known for its wide roads, corporate offices and film city, it has a large resident migrant population including Odia, Bengali and Keralite communities, each with its own community temples.",
+  "tradition": "Hinduism (Vaishnavism, Jagannath cult)",
+  "travel": {
+    "airport": "Indira Gandhi International Airport, Delhi, about 40 km (verify)",
+    "railway": "Salarpur railway station about 3 km; New Delhi railway station about 25 km (verify)",
+    "road": "B-10, Jagannath Mandir Marg, Udaigiri-2, Sector 34; Noida Sector 34 metro station (Blue Line) is about 0.4 km away"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March; Ratha Yatra draws large crowds",
+    "opening_hours": "Google listing: 6:00 AM-12:00 PM and 4:00-9:00 PM daily (Tuesdays 6:30 AM start); Justdial lists morning hours only - verify before use"
+  }
+}

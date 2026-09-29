@@ -1,0 +1,39 @@
+{
+    "alternate_names": [],
+    "deities": [],
+    "district": "Paschim Bardhaman",
+    "festivals": [],
+    "history": {
+        "dynasty": "Unknown",
+        "period": "Unknown",
+        "summary": "IDENTITY UNCONFIRMED: despite targeted web searches, NO reliable source was found for an 'Agni Mandir' in Asansol. The famous Agni Mandir of West Bengal is the Parsi fire temple on Metcalfe Lane, Kolkata (established 12 October 1912, per bharatonline.com) — a different site in a different city. One AI-generated travel blog (mytownblog.com) mentions 'Agni Mandir ... in the industrial city of Asansol' but immediately gives a contradictory address (Raninagar, Bhakuri Village, Berhampore — in Murshidabad district), so it cannot be trusted. The Asansol temple may be a small local shrine with no web footprint, or the CSV row may be an error. RECOMMEND: verify locally in Asansol, or drop/merge the row. Coordinates below are Asansol city centre as a placeholder only."
+    },
+    "id": "agni-mandir-asansol",
+    "latitude": 23.6856,
+    "longitude": 86.97926,
+    "media": [],
+    "name": "Agni Mandir, Asansol",
+    "sources": [
+        "https://www.bharatonline.com/west-bengal/travel/kolkata/religious-places/agni-mandir.html",
+        "https://www.mytownblog.com/top-temples-in-west-bengal/",
+        "https://www.tripadvisor.ca/Attraction_Review-g304558-d5792191-Reviews-Agni_Mandir-Kolkata_Calcutta_Kolkata_District_West_Bengal.html"
+    ],
+    "state": "West Bengal",
+    "town": "Asansol",
+    "town_description": "Asansol, the 'City of Brotherhood', is a major industrial and coal-mining city in Paschim Bardhaman district, West Bengal. No verifiable Agni Mandir could be located in the city; the coordinates here are the city centre, used as a placeholder only.",
+    "tradition": "Unknown (unverified)",
+    "travel": {
+        "airport": "Kazi Nazrul Islam Airport, Durgapur (Andal) — generic, temple location unverified",
+        "railway": "Asansol Junction — generic, temple location unverified",
+        "road": "Unknown (verify)"
+    },
+    "video": {
+        "audio": "",
+        "script": "",
+        "video_file": ""
+    },
+    "visitor_information": {
+        "best_time": "Unknown (verify)",
+        "opening_hours": "Unknown (verify)"
+    }
+}

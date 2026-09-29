@@ -1,0 +1,53 @@
+{
+  "alternate_names": [
+    "Thiruvarangam",
+    "Bhoologa Vaikundam (earthly Vaikuntha)",
+    "Tiruvaranga Thirupati"
+  ],
+  "deities": [
+    "Lord Ranganatha (Vishnu reclining on Adishesha; utsava murthy: Namperumal)",
+    "Goddess Ranganayaki (Lakshmi, consort)"
+  ],
+  "district": "Tiruchirappalli",
+  "festivals": [
+    "Vaikunta Ekadasi (21-day Margazhi festival, December-January; ~1 million visitors)",
+    "Panguni Uthiram (celestial wedding of Lord Ranganatha and Goddess Ranganayaki, March-April)",
+    "Brahmotsavams in the Tamil months of Chithirai, Thai and Panguni"
+  ],
+  "history": {
+    "dynasty": "Early Cholas, with major contributions from Pandyas, Hoysalas, Vijayanagara and Nayaks",
+    "period": "Origins in antiquity; major construction 9th-17th centuries CE",
+    "summary": "The Sri Ranganathaswamy Temple, Srirangam is the foremost and first of the 108 Divya Desams, glorified in the Divya Prabandha of the 6th-9th century Alvar saints, and is widely listed as the largest functioning Hindu temple complex in the world: 156 acres, seven concentric prakarams (outermost ~2.6 km), 21 sculpted gopurams, 50 sub-shrines and 9 temple tanks. The Rajagopuram rises ~236-237 ft (72 m) in eleven tiers — among Asia's tallest temple towers — above the gold-domed sanctum (Sri Vimanam) housing the reclining Ranganatha. On Srirangam island between the Kaveri and Kollidam rivers; administration streamlined by the philosopher-saint Ramanuja. OVERLAP NOTE: CSV seq 2253 ('Ranganathaswamy Temple, Tiruchirappalli') is the SAME temple — this file (2243) is the primary record. EXISTING RECORD NOTE: 946.json (id sri-ranganathaswamy-temple-srirangam) already documents this temple from another CSV row — a dedup decision is needed between them."
+  },
+  "id": "ranganathaswamy-temple-srirangam",
+  "latitude": 10.86042,
+  "longitude": 78.68995,
+  "media": [
+    "https://voldstravel.com/wp-content/uploads/2022/03/STAJTHT_Trichy_Srirangam-Sri-Ranganathaswamy-Temple.jpg"
+  ],
+  "name": "Sri Ranganathaswamy Temple",
+  "sources": [
+    "https://www.inheritage.foundation/heritage/sri-ranganathaswamy-temple-srirangam",
+    "http://www.99mustsee.com/India/Sri-Ranganathaswamy-Temple-Srirangam-Tamil-Nadu-Attractions-2297",
+    "https://www.livechennai.com/detailnews.asp?newsid=39811&catid=35",
+    "https://www.tripadvisor.in/ShowUserReviews-g317098-d478076-r24521965-Sri_Ranganathaswamy_Temple-Tiruchirappalli_Tiruchirappalli_District_Tamil_Nadu.html"
+  ],
+  "state": "Tamil Nadu",
+  "town": "Srirangam",
+  "town_description": "Srirangam is a temple town on an island between the Kaveri and Kollidam rivers, ~7-9 km north of Tiruchirappalli city. It is one of the foremost Vaishnavite pilgrimage centres in India, whose outer prakarams function as a living temple-town with streets, markets, lodges and multilingual guides.",
+  "tradition": "Vaishnavism (first of the 108 Divya Desams)",
+  "travel": {
+    "airport": "Tiruchirappalli International Airport (TRZ), ~12 km (verify)",
+    "railway": "Tiruchirappalli Junction ~7-9 km; Srirangam station (SRGM) close by (verify)",
+    "road": "Srirangam island is ~7 km north of Trichy city; well connected by bus, auto-rickshaw and taxi"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October-March (pleasant weather, 15-25C); early morning 6-9 AM or evening 6-9 PM for peaceful darshan. Vaikunta Ekadasi (December-January) is the peak festival — spectacular but very crowded",
+    "opening_hours": "6:00 AM-1:00 PM & 4:00-9:00 PM per inheritage.foundation; Viswaroopa Seva 6:00-7:15 AM; sources vary slightly — verify"
+  }
+}
