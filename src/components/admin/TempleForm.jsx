@@ -1,11 +1,16 @@
-import { useState, useEffect } from 'react'
+import { useState, useEffect, useRef, forwardRef, useImperativeHandle } from 'react'
 import { getApiBaseUrl } from '../../config/apiConfig'
 
-export default function TempleForm({ templeId, onSuccess, onCancel }) {
+const TempleForm = forwardRef(function TempleForm({ templeId, onSuccess, onCancel, hideButtons = false }, ref) {
+  const formRef = useRef(null)
   const [states, setStates] = useState([])
   const [locations, setLocations] = useState([])
   const [loading, setLoading] = useState(false)
   const [error, setError] = useState(null)
+
+  useImperativeHandle(ref, () => ({
+    submit: () => formRef.current?.requestSubmit()
+  }))
   const [formData, setFormData] = useState({
     name: '',
     deity: '',
@@ -13,8 +18,6 @@ export default function TempleForm({ templeId, onSuccess, onCancel }) {
     year_constructed: '',
     location_note: '',
     website: '',
-    image_url: '',
-    source: 'manual',
     festivals_and_events: ''
   })
 
@@ -69,8 +72,6 @@ export default function TempleForm({ templeId, onSuccess, onCancel }) {
           year_constructed: temple.year_constructed || '',
           location_note: temple.location_note || '',
           website: temple.website || '',
-          image_url: temple.image_url || '',
-          source: temple.source || 'manual',
           festivals_and_events: Array.isArray(temple.festivals_and_events)
             ? temple.festivals_and_events.join('\n')
             : ''
@@ -157,7 +158,7 @@ export default function TempleForm({ templeId, onSuccess, onCancel }) {
   )
 
   return (
-    <form onSubmit={handleSubmit} style={{ maxWidth: '700px' }}>
+    <form ref={formRef} onSubmit={handleSubmit} style={{ maxWidth: '700px' }}>
       {error && (
         <div style={{
           padding: '1rem',
@@ -333,27 +334,6 @@ export default function TempleForm({ templeId, onSuccess, onCancel }) {
 
       <div style={{ marginBottom: '1.5rem' }}>
         <label style={{ display: 'block', marginBottom: '0.5rem', fontWeight: 'bold' }}>
-          Image URL
-        </label>
-        <input
-          type="url"
-          name="image_url"
-          value={formData.image_url}
-          onChange={handleChange}
-          placeholder="https://example.com/image.jpg"
-          style={{
-            width: '100%',
-            padding: '0.75rem',
-            borderRadius: '4px',
-            border: '1px solid #ddd',
-            fontSize: '1rem',
-            boxSizing: 'border-box'
-          }}
-        />
-      </div>
-
-      <div style={{ marginBottom: '1.5rem' }}>
-        <label style={{ display: 'block', marginBottom: '0.5rem', fontWeight: 'bold' }}>
           Festivals & Events (one per line)
         </label>
         <textarea
@@ -374,64 +354,45 @@ export default function TempleForm({ templeId, onSuccess, onCancel }) {
         />
       </div>
 
-      <div style={{ marginBottom: '1.5rem' }}>
-        <label style={{ display: 'block', marginBottom: '0.5rem', fontWeight: 'bold' }}>
-          Source
-        </label>
-        <select
-          name="source"
-          value={formData.source}
-          onChange={handleChange}
-          style={{
-            width: '100%',
-            padding: '0.75rem',
-            borderRadius: '4px',
-            border: '1px solid #ddd',
-            fontSize: '1rem'
-          }}
-        >
-          <option value="manual">Manual Entry</option>
-          <option value="wikipedia">Wikipedia</option>
-          <option value="top_pick">Top Pick</option>
-          <option value="detailed">Detailed</option>
-        </select>
-      </div>
-
-      <div style={{ display: 'flex', gap: '1rem' }}>
-        <button
-          type="submit"
-          disabled={loading}
-          style={{
-            padding: '0.75rem 1.5rem',
-            backgroundColor: '#2e7d32',
-            color: 'white',
-            border: 'none',
-            borderRadius: '4px',
-            fontSize: '1rem',
-            cursor: loading ? 'not-allowed' : 'pointer',
-            opacity: loading ? 0.6 : 1
-          }}
-        >
-          {loading ? 'Saving...' : templeId ? 'Update Temple' : 'Add Temple'}
-        </button>
-        {onCancel && (
+      {!hideButtons && (
+        <div style={{ display: 'flex', gap: '1rem' }}>
           <button
-            type="button"
-            onClick={onCancel}
+            type="submit"
+            disabled={loading}
             style={{
               padding: '0.75rem 1.5rem',
-              backgroundColor: '#999',
+              backgroundColor: '#2e7d32',
               color: 'white',
               border: 'none',
               borderRadius: '4px',
               fontSize: '1rem',
-              cursor: 'pointer'
+              cursor: loading ? 'not-allowed' : 'pointer',
+              opacity: loading ? 0.6 : 1
             }}
           >
-            Cancel
+            {loading ? 'Saving...' : templeId ? 'Update Temple' : 'Add Temple'}
           </button>
-        )}
-      </div>
+          {onCancel && (
+            <button
+              type="button"
+              onClick={onCancel}
+              style={{
+                padding: '0.75rem 1.5rem',
+                backgroundColor: '#999',
+                color: 'white',
+                border: 'none',
+                borderRadius: '4px',
+                fontSize: '1rem',
+                cursor: 'pointer'
+              }}
+            >
+              Cancel
+            </button>
+          )}
+        </div>
+      )}
     </form>
   )
-}
+})
+
+export default TempleForm

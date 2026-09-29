@@ -1,4 +1,4 @@
-import { useState, useEffect } from 'react'
+import { useState, useEffect, useRef } from 'react'
 import { Link, useParams, useNavigate } from 'react-router-dom'
 import { getApiBaseUrl } from '../../config/apiConfig'
 import TempleForm from '../../components/admin/TempleForm'
@@ -7,6 +7,7 @@ import MediaUpload from '../../components/admin/MediaUpload'
 export default function AdminTemplesEditPage() {
   const { templeId } = useParams()
   const navigate = useNavigate()
+  const formRef = useRef(null)
   const [temple, setTemple] = useState(null)
   const [loading, setLoading] = useState(true)
   const [successMessage, setSuccessMessage] = useState(null)
@@ -91,9 +92,10 @@ export default function AdminTemplesEditPage() {
         <>
           <h2 style={{ marginTop: 0 }}>Temple Information</h2>
           <TempleForm
+            ref={formRef}
             templeId={parseInt(templeId)}
             onSuccess={handleSuccess}
-            onCancel={() => navigate('/admin/temples')}
+            hideButtons={true}
           />
 
           <div style={{ marginTop: '3rem', borderTop: '2px solid #eee', paddingTop: '2rem' }}>
@@ -127,6 +129,37 @@ export default function AdminTemplesEditPage() {
                 onUploadSuccess={handleMediaUpload}
               />
             </div>
+          </div>
+
+          <div style={{ marginTop: '3rem', paddingTop: '2rem', borderTop: '2px solid #eee', display: 'flex', gap: '1rem' }}>
+            <button
+              onClick={() => formRef.current?.submit()}
+              style={{
+                padding: '0.75rem 1.5rem',
+                backgroundColor: '#2e7d32',
+                color: 'white',
+                border: 'none',
+                borderRadius: '4px',
+                fontSize: '1rem',
+                cursor: 'pointer'
+              }}
+            >
+              Update Temple
+            </button>
+            <button
+              onClick={() => navigate('/admin/temples')}
+              style={{
+                padding: '0.75rem 1.5rem',
+                backgroundColor: '#999',
+                color: 'white',
+                border: 'none',
+                borderRadius: '4px',
+                fontSize: '1rem',
+                cursor: 'pointer'
+              }}
+            >
+              Cancel
+            </button>
           </div>
         </>
       ) : null}

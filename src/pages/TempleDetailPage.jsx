@@ -1,13 +1,16 @@
 import { useParams, Link, useNavigate } from 'react-router-dom'
 import { useTempleDetail2 } from '../data/useTempleDetail2'
-import TempleImageGallery from '../components/TempleImageGallery'
+import { useTempleDetailJson } from '../data/useTempleDetailJson'
 import LeafletMap from '../components/LeafletMap'
+import TempleGallery from '../components/TempleGallery'
+import TempleJsonDetails from '../components/TempleJsonDetails'
 
 export default function TempleDetailPage() {
   const { templeId } = useParams()
   const navigate = useNavigate()
 
   const { temple, status, error } = useTempleDetail2(parseInt(templeId))
+  const { data: jsonData } = useTempleDetailJson(parseInt(templeId))
 
   if (status === 'loading') {
     return (
@@ -100,9 +103,17 @@ export default function TempleDetailPage() {
               <h3 style={{ color: '#666', fontSize: '0.9rem', textTransform: 'uppercase', marginBottom: '0.5rem' }}>
                 Location
               </h3>
-              <p style={{ fontSize: '1.1rem', color: '#1a1a1a' }}>
+              <p style={{ fontSize: '1.1rem', color: '#1a1a1a', marginBottom: '0.5rem' }}>
                 {temple.city}, <strong>{temple.state}</strong>
               </p>
+              {temple.lat && temple.lon && (
+                <p style={{ fontSize: '0.9rem', color: '#666', marginTop: '0.5rem' }}>
+                  <strong>Coordinates:</strong> {temple.lat.toFixed(6)}°, {temple.lon.toFixed(6)}°
+                  {temple.temple_lat && temple.temple_lon && (
+                    <span style={{ fontSize: '0.8rem', color: '#999' }}> (Temple-specific)</span>
+                  )}
+                </p>
+              )}
             </div>
 
             {temple.type && (
@@ -142,22 +153,6 @@ export default function TempleDetailPage() {
           </section>
         )}
 
-        {/* Festivals */}
-        {temple.festivals_and_events && temple.festivals_and_events.length > 0 && (
-          <section style={{ marginBottom: '3rem' }}>
-            <h2 style={{ fontSize: '1.4rem', marginBottom: '1rem', color: '#1a1a1a' }}>
-              Festivals & Events
-            </h2>
-            <ul style={{ marginLeft: '1.5rem' }}>
-              {temple.festivals_and_events.map((event, idx) => (
-                <li key={idx} style={{ marginBottom: '0.5rem', color: '#333' }}>
-                  {typeof event === 'string' ? event : event.name || JSON.stringify(event)}
-                </li>
-              ))}
-            </ul>
-          </section>
-        )}
-
         {/* Website Link */}
         {temple.website && (
           <section style={{ marginBottom: '3rem' }}>
@@ -177,6 +172,40 @@ export default function TempleDetailPage() {
           </section>
         )}
 
+        {/* Map */}
+        {(jsonData?.latitude && jsonData?.longitude) || (temple.lat && temple.lon) ? (
+          <LeafletMap
+            lat={jsonData?.latitude || temple.lat}
+            lng={jsonData?.longitude || temple.lon}
+            title={`${temple.name} Location`}
+          />
+        ) : null}
+
+        {/* Media Gallery from JSON */}
+        {jsonData?.media && jsonData.media.length > 0 && (
+          <section style={{ marginBottom: '3rem' }}>
+            <h2 style={{ fontSize: '1.4rem', marginBottom: '1rem', color: '#1a1a1a' }}>
+              Media
+            </h2>
+            <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(300px, 1fr))', gap: '1.5rem' }}>
+              {jsonData.media.map((imageUrl, idx) => (
+                <img
+                  key={idx}
+                  src={imageUrl}
+                  alt={`${temple.name} - ${idx + 1}`}
+                  style={{ width: '100%', height: 'auto', borderRadius: '8px', objectFit: 'cover' }}
+                />
+              ))}
+            </div>
+          </section>
+        )}
+
+        {/* JSON Details */}
+        <TempleJsonDetails data={jsonData} />
+
+        {/* Photo Gallery */}
+        <TempleGallery templeId={temple.id} templeName={temple.name} />
+
         {/* Image Gallery */}
         {temple.image_url && (
           <section style={{ marginBottom: '3rem' }}>
@@ -189,11 +218,6 @@ export default function TempleDetailPage() {
               style={{ maxWidth: '100%', height: 'auto', borderRadius: '8px' }}
             />
           </section>
-        )}
-
-        {/* Map */}
-        {temple.lat && temple.lon && (
-          <LeafletMap lat={temple.lat} lng={temple.lon} title={`${temple.name} Location`} />
         )}
 
         {/* Back Button */}

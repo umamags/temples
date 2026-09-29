@@ -2,6 +2,21 @@
 // POST /backend/edit/uploadTempleMedia.php
 // Upload photos, videos, or descriptions for a temple
 
+// Set CORS headers first
+$origin = isset($_SERVER['HTTP_ORIGIN']) ? $_SERVER['HTTP_ORIGIN'] : '';
+if (in_array($origin, ['http://localhost:5173', 'http://localhost:3000', 'http://127.0.0.1:5173'])) {
+    header('Access-Control-Allow-Origin: ' . $origin);
+}
+header('Access-Control-Allow-Methods: GET, POST, PUT, DELETE, OPTIONS');
+header('Access-Control-Allow-Headers: Content-Type');
+header('Content-Type: application/json; charset=utf-8');
+
+// Handle OPTIONS preflight
+if (isset($_SERVER['REQUEST_METHOD']) && $_SERVER['REQUEST_METHOD'] === 'OPTIONS') {
+    http_response_code(200);
+    exit;
+}
+
 require_once __DIR__ . '/../query/db.php';
 
 try {
@@ -70,7 +85,22 @@ try {
 
     $file = $_FILES['file'];
     if ($file['error'] !== UPLOAD_ERR_OK) {
-        sendError('File upload error: ' . $file['error'], 'UPLOAD_ERROR', 400);
+        $errorMessages = [
+            UPLOAD_ERR_INI_SIZE => 'File size exceeds upload_max_filesize (' . ini_get('upload_max_filesize') . ')',
+            UPLOAD_ERR_FORM_SIZE => 'File size exceeds form MAX_FILE_SIZE',
+            UPLOAD_ERR_PARTIAL => 'File was only partially uploaded',
+            UPLOAD_ERR_NO_FILE => 'No file was uploaded',
+            UPLOAD_ERR_NO_TMP_DIR => 'Missing temporary folder on server',
+            UPLOAD_ERR_CANT_WRITE => 'Failed to write file to disk',
+            UPLOAD_ERR_EXTENSION => 'File upload stopped by extension'
+        ];
+
+        $errorMsg = isset($errorMessages[$file['error']])
+            ? $errorMessages[$file['error']]
+            : 'Unknown upload error (' . $file['error'] . ')';
+
+        error_log("Upload error for temple_id=$temple_id: " . $errorMsg . ", file name: " . $file['name']);
+        sendError($errorMsg, 'UPLOAD_ERROR', 400);
     }
 
     // Determine directory based on media_type
@@ -91,13 +121,17 @@ try {
 
     // Move uploaded file
     if (!move_uploaded_file($file['tmp_name'], $filePath)) {
-        sendError('Failed to save file', 'FILE_ERROR', 500);
+        $error = "Failed to move uploaded file for temple_id=$temple_id from {$file['tmp_name']} to $filePath";
+        error_log($error);
+        sendError('Failed to save file to server. Check server permissions.', 'FILE_ERROR', 500);
     }
 
+    error_log("Successfully uploaded $mediaType for temple_id=$temple_id: $filePath (size: {$file['size']} bytes)");
+
     // Get existing media URLs from database
-    $getQuery = "SELECT {$mediaDir}_urls FROM temples WHERE id = ?";
-    $stmt = $mysqli->prepare($getQuery);
     $columnName = $mediaDir === 'photos' ? 'photo_urls' : 'video_urls';
+    $getQuery = "SELECT $columnName FROM temples WHERE id = ?";
+    $stmt = $mysqli->prepare($getQuery);
     $stmt->bind_param('i', $temple_id);
     $stmt->execute();
     $result = $stmt->get_result();
@@ -113,10 +147,22 @@ try {
     $mediaUrlsJson = json_encode($mediaUrls);
 
     // Update database
-    $updateQuery = "UPDATE temples SET {$columnName} = ? WHERE id = ?";
+    $updateQuery = "UPDATE temples SET $columnName = ? WHERE id = ?";
+    error_log("Executing SQL: $updateQuery with values: mediaUrlsJson length=" . strlen($mediaUrlsJson) . ", temple_id=$temple_id");
+
     $stmt = $mysqli->prepare($updateQuery);
+    if (!$stmt) {
+        error_log("SQL prepare error: " . $mysqli->error);
+        sendError('Database prepare error: ' . $mysqli->error, 'DB_ERROR', 500);
+    }
+
     $stmt->bind_param('si', $mediaUrlsJson, $temple_id);
-    $stmt->execute();
+    if (!$stmt->execute()) {
+        error_log("SQL execute error: " . $stmt->error);
+        sendError('Database execute error: ' . $stmt->error, 'DB_ERROR', 500);
+    }
+
+    error_log("Successfully updated temples table: $columnName for temple_id=$temple_id, affected rows: " . $stmt->affected_rows);
 
     sendSuccess([
         'file_path' => $webPath,

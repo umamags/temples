@@ -27,11 +27,16 @@ try {
             t.website,
             t.festivals_and_events,
             t.source,
+            t.description,
+            t.photo_urls,
+            t.video_urls,
+            t.lat as temple_lat,
+            t.lon as temple_lon,
             l.id as location_id,
             l.name as city,
             l.kind as type,
-            l.lat,
-            l.lon,
+            l.lat as location_lat,
+            l.lon as location_lon,
             s.id as state_id,
             s.name as state
         FROM temples t
@@ -56,6 +61,10 @@ try {
 
     $row = $result->fetch_assoc();
 
+    // Use temple's lat/lon if available, otherwise fall back to location's lat/lon
+    $lat = $row['temple_lat'] !== null ? (float)$row['temple_lat'] : (float)$row['location_lat'];
+    $lon = $row['temple_lon'] !== null ? (float)$row['temple_lon'] : (float)$row['location_lon'];
+
     $templeData = [
         'id' => (int)$row['id'],
         'name' => $row['name'],
@@ -65,13 +74,20 @@ try {
         'image_url' => $row['image_url'],
         'website' => $row['website'],
         'source' => $row['source'],
+        'description' => $row['description'],
+        'photo_urls' => $row['photo_urls'] ? json_decode($row['photo_urls'], true) : [],
+        'video_urls' => $row['video_urls'] ? json_decode($row['video_urls'], true) : [],
         'festivals_and_events' => $row['festivals_and_events'] ?
             json_decode($row['festivals_and_events'], true) : [],
         'town' => $row['city'],
         'city' => $row['city'],
         'type' => $row['type'],
-        'lat' => (float)$row['lat'],
-        'lon' => (float)$row['lon'],
+        'lat' => $lat,
+        'lon' => $lon,
+        'temple_lat' => $row['temple_lat'] !== null ? (float)$row['temple_lat'] : null,
+        'temple_lon' => $row['temple_lon'] !== null ? (float)$row['temple_lon'] : null,
+        'location_lat' => (float)$row['location_lat'],
+        'location_lon' => (float)$row['location_lon'],
         'state' => $row['state'],
         'state_id' => (int)$row['state_id'],
         'location_id' => (int)$row['location_id']

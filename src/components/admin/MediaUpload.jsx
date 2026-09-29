@@ -15,6 +15,14 @@ export default function MediaUpload({ templeId, mediaType, onUploadSuccess, exis
     const selectedFile = e.target.files?.[0]
     if (!selectedFile) return
 
+    // Validate file size (20MB limit for photos, 200MB for videos)
+    const maxSize = isPhoto ? 20 * 1024 * 1024 : 200 * 1024 * 1024
+    if (selectedFile.size > maxSize) {
+      const maxSizeMB = isPhoto ? 20 : 200
+      setError(`File size exceeds ${maxSizeMB}MB limit. Selected file is ${(selectedFile.size / 1024 / 1024).toFixed(2)}MB`)
+      return
+    }
+
     setFile(selectedFile)
     setError(null)
 
@@ -51,6 +59,8 @@ export default function MediaUpload({ templeId, mediaType, onUploadSuccess, exis
       formData.append('media_type', mediaType)
       formData.append('file', file)
 
+      console.log('Uploading file:', { templeId, mediaType, filename: file.name, size: file.size })
+
       const response = await fetch(`${baseUrl}/backend/edit/uploadTempleMedia.php`, {
         method: 'POST',
         body: formData
@@ -58,8 +68,17 @@ export default function MediaUpload({ templeId, mediaType, onUploadSuccess, exis
 
       const data = await response.json()
 
+      console.log('Upload response:', { status: response.status, success: data.success, data })
+
+      if (!response.ok) {
+        setError(`HTTP Error ${response.status}: ${data.error || 'Upload failed'}`)
+        console.error('Upload HTTP error:', response.status, data)
+        return
+      }
+
       if (!data.success) {
         setError(data.error || 'Upload failed')
+        console.error('Upload failed:', data)
         return
       }
 
@@ -72,7 +91,7 @@ export default function MediaUpload({ templeId, mediaType, onUploadSuccess, exis
       }
     } catch (err) {
       console.error('Upload error:', err)
-      setError('Upload failed')
+      setError('Network error: ' + err.message)
     } finally {
       setUploading(false)
     }
@@ -179,6 +198,20 @@ export default function MediaUpload({ templeId, mediaType, onUploadSuccess, exis
                 width: '100%'
               }}
             />
+
+            {file && (
+              <div style={{
+                marginBottom: '1rem',
+                padding: '0.75rem',
+                backgroundColor: '#f0f0f0',
+                borderRadius: '4px',
+                fontSize: '0.85rem'
+              }}>
+                <strong>Selected:</strong> {file.name}<br/>
+                <strong>Size:</strong> {(file.size / 1024 / 1024).toFixed(2)}MB<br/>
+                <strong>Limit:</strong> {isPhoto ? '20MB' : '200MB'}
+              </div>
+            )}
 
             {preview && (
               <div style={{ marginBottom: '1rem' }}>
