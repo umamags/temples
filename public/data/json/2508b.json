@@ -1,0 +1,50 @@
+{
+  "alternate_names": [
+    "Meera Bai ka Mandir",
+    "Meera Mandir"
+  ],
+  "deities": [
+    "Krishna",
+    "Meera Bai"
+  ],
+  "district": "Chittorgarh",
+  "festivals": [
+    "Meera Mahotsav (reported by travel sources - verify)",
+    "Janmashtami"
+  ],
+  "history": {
+    "dynasty": "Sisodia of Mewar",
+    "period": "15th century CE (reign of Rana Kumbha, 1433-1468)",
+    "summary": "A small shrine on the north side of the Kumbha Shyam (Varaha) temple complex inside Chittorgarh Fort, dedicated to the bhakti saint Meera Bai and her deity Krishna, built in Indo-Aryan style with the distinctive 'five bodies, one head' carving (symbolising spiritual equality across castes) and a chhatri marking the footprints of Meera's guru Raidas. CHRONOLOGY CONFLICT: travel sources say Rana Kumbha built it for Meera, but Kumbha died in 1468 while Meera Bai (1498-1546) lived in the 16th century, so the attribution is chronologically inconsistent - the shrine may have been renamed/dedicated to her later. Coordinates are approximate (complex-level; the geocoder resolves both Meera Temple and Kumbha Shyam Temple to the same complex point)."
+  },
+  "id": "meera-temple-chittorgarh-fort",
+  "latitude": 24.89045,
+  "longitude": 74.64509,
+  "media": [
+    "https://www.tusktravel.com.mx/blog/wp-content/uploads/2024/12/chittorgarh-Meera-Bai-Temple-768x432.jpg"
+  ],
+  "name": "Meera Temple",
+  "sources": [
+    "https://www.trawell.in/rajasthan/chittorgarh/kumbha-shyam-temple-meerabai-temple",
+    "https://travelTriangle.com/rajasthan-tourism/chittorgarh/places-to-visit/meera-temple",
+    "https://www.tripadvisor.in/ShowUserReviews-g303888-d3704872-r737449705-Meera_Temple-Chittaurgarh_Chittorgarh_District_Rajasthan.html"
+  ],
+  "state": "Rajasthan",
+  "town": "Chittorgarh",
+  "town_description": "Chittorgarh, former capital of the Sisodia dynasty of Mewar, is dominated by its massive hill fort (a UNESCO World Heritage site), the largest fort in India, revered as a symbol of Rajput valour, sacrifice and devotion.",
+  "tradition": "Hinduism",
+  "travel": {
+    "airport": "Maharana Pratap Airport, Udaipur (~90 km)",
+    "railway": "Chittorgarh Junction (~6 km from the fort); the fort is about 350 m from the temple complex",
+    "road": "The fort sits on a hill ~2 km south of Chittorgarh town, reached by a winding 1 km road"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March",
+    "opening_hours": "Fort complex typically 6:00 AM-6:00 PM (fort entry ticket applies; ASI ticket Rs 10 Indian / Rs 100 foreign reported - verify)"
+  }
+}

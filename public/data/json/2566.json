@@ -1,0 +1,50 @@
+{
+  "alternate_names": [
+    "Kandolia Devta Temple",
+    "Kandolia Mahadev Temple"
+  ],
+  "deities": [
+    "Kandoliya Devta (folk guardian deity, identified with Shiva)"
+  ],
+  "district": "Pauri Garhwal",
+  "festivals": [
+    "Kandolia Mahotsav (annual week-long festival)",
+    "Annual bhandara"
+  ],
+  "history": {
+    "dynasty": "Katyuri (attributed)",
+    "period": "12th century CE (attributed; based on visitor reviews, not scholarly sources - verify)",
+    "summary": "Hilltop temple to Kandoliya Devta, the guardian deity of Pauri town, on Kandolia Hill overlooking Pauri in Pauri Garhwal district. DATE NOTE: a 12th-century Katyuri origin is claimed in visitor reviews only; no scholarly source found - treat as unverified (flag). Local legend says a Kumaoni bride of the Dungriyal Negi community brought the deity in a small basket (kandi), hence the name Kandoliya. The temple is surrounded by cedar and oak forest with Himalayan views; nearby are Kandoliya Park, a sports complex and the Ransi stadium. The annual Jai Kandolia Mahotsav (week-long, with folk rituals, sports and music) and an annual bhandara are major events. CSV state correction: the state column holds town names; the real state is Uttarakhand (town Pauri is correct). Opening hours not documented in any source consulted (flagged)."
+  },
+  "id": "kandoliya-devta-temple",
+  "latitude": 30.15522,
+  "longitude": 78.76022,
+  "media": [
+    "https://www.tourmyindia.com/blog//wp-content/uploads/2025/10/Kandoliya-Temple-Pauri-1024x683.jpg"
+  ],
+  "name": "Kandoliya Devta Temple",
+  "sources": [
+    "https://wanderlog.com/place/details/13192389/kandoliya-devta-mandir",
+    "https://wanderlog.com/place/details/324788",
+    "https://www.youtube.com/watch?v=A5WhB4XXOEs",
+    "http://euttaranchal.com/tourism/how-to-reach-pauri-garhwal.php"
+  ],
+  "state": "Uttarakhand",
+  "town": "Pauri",
+  "town_description": "Pauri is the headquarters town of Pauri Garhwal district, Uttarakhand, on the northern slopes of the Kandoliya Hills at about 1,765-1,814 m. Known for Himalayan views (Bandarpoonch, Kedarnath group) and Garhwali culture.",
+  "tradition": "Hinduism",
+  "travel": {
+    "airport": "Jolly Grant Airport, Dehradun (~130-155 km)",
+    "railway": "Kotdwar Railway Station (~100-108 km)",
+    "road": "Well connected by motorable roads from Dehradun, Rishikesh, Haridwar and Kotdwar; a short climb of about 200 steps (or side road) leads to the hilltop temple"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "March to November; March-June and September-November best (eUttaranchal)",
+    "opening_hours": "Not documented in sources consulted (flagged - verify locally)"
+  }
+}

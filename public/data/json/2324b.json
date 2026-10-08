@@ -1,0 +1,45 @@
+{
+  "alternate_names": [
+    "Gauranga Mandir (provisional)"
+  ],
+  "deities": [
+    "Chaitanya Mahaprabhu (Gauranga)"
+  ],
+  "district": "Dhubri",
+  "festivals": [
+    "Gaura Purnima (provisional)"
+  ],
+  "history": {
+    "dynasty": "Unknown",
+    "period": "Unknown (identity unverified)",
+    "summary": "FLAG - IDENTITY UNVERIFIED: no reliable web sources were found for a 'Mahaprabhu Temple' in Dhubri, and Pradip Sarma's 'Holy Shrines of Assam' district gazetteer lists no such shrine for Dhubri district. The only traceable lead is a 'Gauranga Mandir' listed at Subashpally, Dhubri town; Gauranga is another name of Chaitanya Mahaprabhu, but this mapping is a guess and must be verified on the ground. Note that Assam's own devotional tradition is Ekasarana Dharma (Srimanta Sankardeva), distinct from Gaudiya Vaishnavism, so a Chaitanya shrine here would be unusual. Coordinates below are those of the Subashpally Gauranga Mandir listing and are approximate. CSV state column held the town name ('Dhubri'); corrected to Assam. This row needs field verification or exclusion from the final dataset."
+  },
+  "id": "mahaprabhu-temple-dhubri",
+  "latitude": 26.091209,
+  "longitude": 89.967752,
+  "media": [],
+  "name": "Mahaprabhu Temple",
+  "sources": [
+    "https://meta.ai?place_id=476302601565435",
+    "https://en.wikipedia.org/wiki/Chaitanya_Mahaprabhu",
+    "https://archive.org/stream/in.ernet.dli.2015.125617/2015.125617.Holy-Shrines-Of-Assam_djvu.txt"
+  ],
+  "state": "Assam",
+  "town": "Dhubri",
+  "town_description": "Dhubri, on the Brahmaputra in far western Assam near the Bengal border, is the headquarters of Dhubri district and one of the region's oldest towns. It is known for Mahamaya Dham (Bogribari), the historic Rangamati Mosque, the Tegh Bahadur Gurudwara, and the Asharikandi terracotta craft village.",
+  "tradition": "Hinduism (Vaishnavism; Gaudiya - provisional)",
+  "travel": {
+    "airport": "Rupsi Airport is the nearest domestic airport (approx.)",
+    "railway": "Dhubri Railway Station",
+    "road": "Road links to Guwahati, Kokrajhar and Cooch Behar across the West Bengal border"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March (provisional)",
+    "opening_hours": "Not verified (verify)"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "alternate_names": [
+    "Parashuram Temple",
+    "Parashurama Sristi (per Goa Villa)",
+    "Shree Nrusinha Parshuram Temple (listing alias)"
+  ],
+  "deities": [
+    "Parashurama (sixth avatar of Lord Vishnu)",
+    "Lord Purushottam (enshrined together with Parashurama, per Goa Stories documentary)"
+  ],
+  "district": "South Goa",
+  "festivals": [
+    "Parashurama Jayanti (Akshaya Tritiya)",
+    "Annual jatra (reported held mid-March, e.g. 15 March 2025)"
+  ],
+  "history": {
+    "dynasty": "Not documented",
+    "period": "Unverified (local sources call it one of Goa's oldest temples; no sourced construction date found)",
+    "summary": "Temple at Poinguinim village, Canacona taluka, dedicated to Lord Parashurama, the axe-wielding sixth avatar of Vishnu. It is tied to the traditional origin legend of Goa (and of the Konkan/Kerala/Kanara coast): Parashurama reclaimed the land from the sea with an axe-throw. CSV TOWN CORRECTION: the 'state' column wrongly holds town names (all five rows are in GOA state); this row's town is the village of Poinguinim, with Canacona as the nearest municipal centre (taluka). Identity confirmed by geocoder and multiple travel sources; the building's age and dynastic origin are unsourced — treat any antique claims as (verify). Deities reportedly face each other within the shrine, an unusual feature noted in a recent Goa documentary."
+  },
+  "id": "parshuram-temple-canacona-goa",
+  "latitude": 14.96809,
+  "longitude": 74.08603,
+  "media": [
+    "https://pilgrimdata.in/wp-content/uploads/2025/12/परशुराम-मंदिर-पैंगीण-कोणकोण-5-768x576.jpg"
+  ],
+  "name": "Parshuram Temple",
+  "sources": [
+    "https://www.thegoavilla.com/goa/distanation/south-goa-canacona-parashuram-temple.html",
+    "https://www.airial.travel/attractions/india/poingunin/poinguinim-goa-7gTagcqv",
+    "https://en.wikipedia.org/wiki/List_of_Hindu_temples_in_Goa"
+  ],
+  "state": "Goa",
+  "town": "Poinguinim",
+  "town_description": "Poinguinim (also spelled Painginim/Paingyapura) is a village in Canacona taluka, South Goa, about 10 km south-east of Chaudi on NH66 towards Karwar. It is a hinterland temple village in the Western Ghats foothills, also home to the Shri Betal temple known for its triennial Gadyaanchi Jatra.",
+  "tradition": "Hinduism (Vaishnavism)",
+  "travel": {
+    "airport": "Dabolim International Airport (GOI), roughly 75 km north-west",
+    "railway": "Canacona railway station (near Chaudi), about 10 km north-west; Madgaon Junction about 40 km north",
+    "road": "On NH66 (Panvel-Kanyakumari); village buses stop at Poinguinim; ~10 km south-east of Chaudi"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March (cooler, dry season); Parashurama Jayanti (Akshaya Tritiya, April-May) and the annual March jatra for festival atmosphere",
+    "opening_hours": "Not reliably published — verify locally before visiting"
+  }
+}

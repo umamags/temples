@@ -1,0 +1,42 @@
+{
+  "alternate_names": [],
+  "deities": [
+    "Ningthou (Meitei village deity)"
+  ],
+  "district": "Bishnupur",
+  "festivals": [
+    "Lai Haraoba (typical of Meitei deity shrines; unverified for this temple)"
+  ],
+  "history": {
+    "dynasty": "",
+    "period": "",
+    "summary": "A local shrine at Kumbi dedicated to 'Ningthou' — in Meitei usage ningthou means king, and several local shrines venerate ancestral or guardian kings/spirits as village deities. No independent web source documents this temple — identity is UNCERTAIN/PROVISIONAL (thin placeholder). Nothing is known of its founding date, architecture, or rituals beyond the CSV label. FLAG: tradition is the indigenous Meitei (Sanamahism) sphere of village-deity worship, not mainstream Hinduism. FLAG: the CSV 'state' column wrongly holds the town name (Kumbi); the shrine is in MANIPUR. FLAG: media is empty — no verified image of this shrine exists online. Opening hours and founding date are unverified."
+  },
+  "id": "kumbi-ningthou-temple-kumbi",
+  "latitude": 24.43293,
+  "longitude": 93.80765,
+  "media": [],
+  "name": "Kumbi Ningthou Temple",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Thangjing_Temple,_Moirang",
+    "https://en.wikipedia.org/wiki/Lainingthou_Sanamahi_Kiyong"
+  ],
+  "state": "Manipur",
+  "town": "Kumbi",
+  "town_description": "Kumbi is a small market town in Bishnupur district, Manipur, a few kilometres south of Moirang near the Loktak Lake basin. It is a predominantly Meitei settlement serving the surrounding agricultural villages, with local temples and shrines typical of the valley's mixed Sanamahism and Vaishnavite Hindu religious landscape.",
+  "tradition": "Sanamahism (Meitei religion)",
+  "travel": {
+    "airport": "Bir Tikendrajit International Airport, Imphal (~45 km from Moirang; ~50 km from Kumbi)",
+    "railway": "Nearest major railhead is Dimapur (Nagaland), ~200 km; the nearest in-state station is Jiribam.",
+    "road": "Kumbi lies on the Moirang-Kumbi road network near the Tiddim Road, about 50 km from Imphal via Moirang; local buses and shared taxis from Moirang and Imphal."
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March",
+    "opening_hours": ""
+  }
+}

@@ -1,0 +1,57 @@
+{
+ "alternate_names": [
+  "Chamatkarik Shri Hanuman Mandir",
+  "Jam Savli Hanuman Mandir",
+  "Jamsavli Hanuman Temple",
+  "Ichhapurti Hanuman Mandir"
+ ],
+ "deities": [
+  "Hanuman (Chamatkarik Hanumanji - rare reclining/sleeping posture, ~8-10 ft idol; also called Ichhapurti Hanuman, the wish-fulfilling Hanuman)"
+ ],
+ "district": "Chhindwara",
+ "festivals": [
+  "Hanuman Jayanti",
+  "Ramnavami",
+  "Kartik Purnima",
+  "Guru Purnima",
+  "Chaitra Purnima",
+  "Vaishakh Purnima",
+  "Tripurari Purnima"
+ ],
+ "history": {
+  "dynasty": "Unknown (folk/pilgrimage shrine; revenue records mention a Mahavir Hanuman shrine under a peepal tree about 100 years ago - verify)",
+  "period": "Local tradition says centuries old; the documented shrine is about a century old (verify); one low-reliability source claims 1000 years (verify)",
+  "summary": "Jam Sawali is a popular Hanuman pilgrimage shrine in Sausar tehsil, Chhindwara district, Madhya Pradesh (the CSV 'state' column holds the town name 'Chhindwara' - the real state is Madhya Pradesh). Its main claim is a rare reclining (sleeping) Hanuman idol under a peepal tree, said to be the only such sleeping-posture Hanuman in India. Legend: the idol stood upright facing east; treasure-seekers tried to uproot it (20 oxen could not move it) and the idol 'lay down' on its own. Another legend ties the site to the Ramayana - Hanuman resting under a peepal tree while carrying the Sanjivani herb (legend only, not history). A stream of water is said to flow continuously from the idol's navel and is distributed as prasad. Devotees come for relief from evil influences/black magic and for wish fulfilment; special pujas are held on purnimas, Ramnavami and Hanuman Jayanti. Men may approach the idol closely while women take darshan from a distance, per temple committee norms. Sources disagree on exact antiquity - flag as unverified."
+ },
+ "id": "jam-sawali-hanuman-temple-chhindwara",
+ "latitude": 21.60907,
+ "longitude": 78.78043,
+ "media": [
+  "https://i.pinimg.com/originals/3c/00/8d/3c008d527f9e5a051353cef838a1cb03.jpg"
+ ],
+ "name": "Jam Sawali Hanuman Temple",
+ "sources": [
+  "https://www.mouthshut.com/review/jam-sawali-hanuman-mandir-chhindwara-review-pulnnolmqmn",
+  "https://www.tripadvisor.in/Attraction_Review-g3929047-d12567830-Reviews-Jam_Sawali_Hanuman_Mandir-Chhindwara_Chhindwara_District_Madhya_Pradesh.html",
+  "https://velpu.com/temple/JAM-SAWALI-HANUMAN-MANDIR/MTQ3NA==",
+  "https://www.youtube.com/watch?v=uda6zmxbmjU"
+ ],
+ "state": "Madhya Pradesh",
+ "town": "Jam Sawali (Sausar tehsil; CSV town 'Chhindwara' is the district HQ, ~60-65 km away)",
+ "town_description": "Jam Sawali (also spelled Jam Savli/Jamsavli) is a village in Sausar tehsil of Chhindwara district, Madhya Pradesh, on the Nagpur-Chhindwara corridor about 60 km from both Chhindwara and Nagpur. The temple, managed by a devasthan committee, has lodging, parking, shops and eateries nearby; devotees usually stay in Chhindwara or Nagpur. Rush days are Tuesday and Saturday.",
+ "tradition": "Vaishnava / Rama-bhakti (Hanuman)",
+ "travel": {
+  "airport": "Nearest major airport is Nagpur (~70-90 km - verify); Jabalpur is a farther alternative.",
+  "railway": "Nearest railheads are Pandhurna / Sausar Road locally (verify); Nagpur Junction is the major railhead.",
+  "road": "On the Nagpur-Chhindwara highway, ~60-65 km from Chhindwara and ~60 km from Nagpur; buses and taxis run from both (per visitor reviews)."
+ },
+ "video": {
+  "audio": "",
+  "script": "",
+  "video_file": ""
+ },
+ "visitor_information": {
+  "best_time": "October to March (pleasant weather); Tuesdays and Saturdays see heavy crowds.",
+  "opening_hours": "One low-reliability source lists 4:00 AM - 9:00 PM daily (verify); timings not officially published - confirm with temple trust before visiting."
+ }
+}

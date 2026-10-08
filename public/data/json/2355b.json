@@ -1,0 +1,54 @@
+{
+  "alternate_names": [
+    "Shri Saptakoteshwar Devasthan, Narve",
+    "Saptokoteshwar"
+  ],
+  "deities": [
+    "Saptakoteshwar (form of Shiva; the linga is the faceted 'Dhara-linga')"
+  ],
+  "district": "North Goa",
+  "festivals": [
+    "Gokulashtami (Krishna Janmashtami — grand celebration)",
+    "Mahashivratri",
+    "Shravan month (special pujas/abhishekams)",
+    "Navaratri",
+    "Diwali"
+  ],
+  "history": {
+    "dynasty": "Kadamba dynasty (12th c. origin); rebuilt under Vijayanagara; present temple rebuilt on the orders of Chhatrapati Shivaji Maharaj, 1668 (construction ordered 13 November 1668; carried out by Shri Shivaram Desai)",
+    "period": "12th century origin at Diwar (Naroa); rebuilt 1668 at Narve, Bicholim taluka",
+    "summary": "Hindu Shaiva temple at Narve village, Bicholim taluka, dedicated to Saptakoteshwar (Sapta + Koteswara, 'Lord of seven crores'; legend: Shiva appeared here to seven sages). One of six great Shiva temples of the Konkan and a patron deity of the Kadamba kings (12th c.; the Kadambas' birudu 'Shri Saptakotisha Labdha Varaveera' and the Saptakotisha-gadyanaka gold coins proclaim the deity's grace). The original temple stood on Diwar island (Naroa). In 1352 the Bahmani Sultan Alauddin Hasan Gangu's armies desecrated the linga; Vijayanagara king Harihararaya's forces restored it in 1367, and Madhava Mantri rebuilt the temple by the end of the 14th century (per records). The Portuguese demolished it in 1560 and the linga was reportedly used as a well shaft until Hindus rescued it and smuggled it across the river; Chhatrapati Shivaji ordered a new temple built at Narve (13 November 1668), executed by Shri Shivaram Desai — the structure standing today (restored/reopened by the Goa government in 2022 after a 2019 restoration). The sanctum incorporates a rock-cut cave; interior walls carry kaavi art; a Dipastambha with nagabandha stands before the temple; rock-cut caves, a Jain kot ruin and a spring lie nearby. CSV NOTE: 'state' column wrongly holds the town name; actual state is Goa; CSV town 'Bicholim' is the taluka/HQ — the temple is at Narve village (reached by ferry from Divar island), not Bicholim town. Hours conflict (verify): trawell.in reports 6:00 AM–7:00 PM; Justdial lists 6:00 AM–1:00 PM daily."
+  },
+  "id": "saptakoteshwar-temple-narve-bicholim",
+  "latitude": 15.55433,
+  "longitude": 73.93744,
+  "media": [
+    "https://s7ap1.scene7.com/is/image/incredibleindia/shri-saptakoteshwar-temple-at-narve-goa-goa-attr-about?qlt=82&ts=1742179700150"
+  ],
+  "name": "Saptakoteshwar Temple",
+  "sources": [
+    "https://www.indiaunveiled.in/subdestination/shree-saptakoteshwar-temple",
+    "https://holyshrines.in/saptakoteshwar-temple-goa/",
+    "https://english.telugustop.com/goa-restores-temple-rebuilt-by-shivaji-raises-hopes-for-other-portuguese-targets-latest-eng-news-1562301?amp=yes",
+    "https://www.trawell.in/goa/panjim/shri-saptakoteshwar-temple-narve",
+    "https://www.justdial.com/Goa/Shri-Saptakoteshwar-Temple-Narve-Village-Pilgao/0832PX832-X832-141225104032-X2W6_BZDET"
+  ],
+  "state": "Goa",
+  "town": "Narve (Naroa/Narva), Bicholim taluka",
+  "town_description": "Narve (also Naroa/Narva) is a village in Bicholim taluka, North Goa, about 35 km from Panaji, reachable by ferry from Divar island. It is known chiefly for this historic Shiva temple and the rock-cut caves and Jain ruins in its vicinity.",
+  "tradition": "Hinduism (Shaivism)",
+  "travel": {
+    "airport": "Manohar International Airport (Mopa) ~30 km; Dabolim Airport (GOI) ~40 km (verify distances)",
+    "railway": "Thivim junction ~20 km (verify)",
+    "road": "Road from Panaji (~35 km) via Bicholim; also reached by ferry from Divar island."
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October–March; Gokulashtami and Mahashivratri are the grandest festival occasions.",
+    "opening_hours": "Conflict across sources (verify locally): 6:00 AM–7:00 PM per trawell.in vs 6:00 AM–1:00 PM daily per Justdial"
+  }
+}

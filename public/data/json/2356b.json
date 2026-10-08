@@ -1,0 +1,52 @@
+{
+  "alternate_names": [
+    "Advat Sinhasanadheeshwara Mahapati",
+    "Adavat Sinhasanadhishwar Mahapati Canacona"
+  ],
+  "deities": [
+    "Mallikarjun (form of Shiva; the swayambhu linga is a cylindrical wooden 'nirakar' idol covered with a metallic mask, accompanied by trishula)",
+    "Devati (consort)"
+  ],
+  "district": "South Goa",
+  "festivals": [
+    "Annual Jatra (procession to Rajbag beach for the deity's ritual bath)",
+    "Shisharani (during Shigmo, alternate years)",
+    "Veeramel (during Shigmo, alternate years)",
+    "Rathasaptami",
+    "Shigmotsav"
+  ],
+  "history": {
+    "dynasty": "Built by ancestors of the Kshatriya Samaj (16th c.; per the mahajan history, descendants of the Surve royal family from Prachitgad, Maharashtra)",
+    "period": "Mid-16th century (per the plaque near the temple dome; 'completed: 16th century'); refurbished 1778",
+    "summary": "Hindu Shaiva temple at Sristhal village, Canacona taluka, South Goa, dedicated to Mallikarjun, a form of Shiva. One of the oldest shrines in Goa, set in a valley ringed by mountains, about 7 km northeast of Chaudi. Per the plaque near the dome it was built in the mid-16th century by ancestors of the Kshatriya Samaj (mahajans trace descent from the Surve family of Prachitgad, Ratnagiri district, who settled in Canacona fleeing Mahmud Gawan's wrath) and refurbished in 1778. The deity is called Advat Sinhasanadheeshwara Mahapati by devotees, consort Devati. One of about 14 Mallikarjun shrines across Goa, all with cylindrical 'nirakar' wooden idols covered with metallic masks — a feature linked to the prominence of the Natha Sampradaya in the western Deccan; the linga is believed swayambhu, said to have been uncovered by a Kunbi while clearing forest. The mandapa has six carved wooden pillars with Puranic and Mahabharata scenes (brought from southern Indian craftsmen), carved dwarpals, and altars to about 60 deities. The annual Jatra is unusual: the idol is carried 2–3 hours in procession to Rajbag beach for a ritual bath, with hundreds of devotees bathing in the sea. CSV NOTE: 'state' column wrongly holds the town name; actual state is Goa; CSV town 'Canacona' is the taluka — the temple stands at Sristhal village, ~7 km from Chaudi (taluka HQ). Coordinates from Wikipedia (approximate, verify). Opening hours not found in sources (verify locally)."
+  },
+  "id": "mallikarjun-temple-sristhal-canacona",
+  "latitude": 15.02213,
+  "longitude": 74.07682,
+  "media": [
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEik5-B8d44xhxXHLbMef_OMed-BuF3uPfrurUMMwnlZ6Qk8JdRFNbAv-_xfdIq6m7vauz4Y9gyigna4j7CZjGGkAwPyg_XJDVivIDhn0NJC9YHGYVQ3GKXkANaO_saeC-3wVFMi6b084rxK/w1200-h630-p-k-no-nu/Shri+Mallikarjuna+Temple_Sristhal-Canacona_Goa-Travel-3.JPG"
+  ],
+  "name": "Mallikarjun Temple",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Mallikarjuna_Temple,_Goa",
+    "https://Www.tripadvisor.in/Attraction_Review-g306996-d4138910-Reviews-The_Mallikarjun_Temple-Canacona_South_Goa_District_Goa.html"
+  ],
+  "state": "Goa",
+  "town": "Sristhal village, Canacona taluka",
+  "town_description": "Sristhal is a village in Canacona taluka, South Goa, about 7 km northeast of Chaudi, set in a green valley surrounded by hills. The temple is among the oldest in Goa and anchors the Kankunkar/Kshatriya samaj community of the area.",
+  "tradition": "Hinduism (Shaivism)",
+  "travel": {
+    "airport": "Dabolim Airport (GOI) ~70 km (verify); Manohar International (Mopa) further north",
+    "railway": "Canacona (CNO) station ~7 km (verify); Madgaon junction further afield",
+    "road": "By road from Chaudi (~7 km, verify); NH-66 passes through Canacona."
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October–March; the annual Jatra and Shigmo-season rituals are the grandest occasions.",
+    "opening_hours": "Not found in consulted sources (verify locally)"
+  }
+}

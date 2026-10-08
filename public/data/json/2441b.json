@@ -1,0 +1,50 @@
+{
+ "alternate_names": [
+  "Shri Kunkeshwar Temple",
+  "Shrikshetra Kunkeshwar"
+ ],
+ "deities": [
+  "Kunkeshwar (Shiva, in the form of a self-manifested lingam)"
+ ],
+ "district": "Sindhudurg",
+ "festivals": [
+  "Mahashivratri (huge annual celebration with thousands of devotees)"
+ ],
+ "history": {
+  "dynasty": "Yadava (Seuna) kings, c. 1100 AD / 12th century (per travel sites; approximate - verify); later renovated under Chhatrapati Shivaji Maharaj (per local tradition)",
+  "period": "12th century (claimed ~1100 AD; inscriptional reference to a Kunkeshwar shrine predating that era per Shivaji University field report)",
+  "summary": "CSV STATE AND TOWN FLAG: the CSV 'state' column wrongly holds the town name, and the CSV town hint 'Ratnagiri' is WRONG - the temple is at Kunkeshwar village, Devgad taluka, SINDHUDURG district, MAHARASHTRA (about 14 km from Devgad town). The ancient coastal Shiva temple, famed as the 'Kashi of South Konkan', is built in South Indian/Hemadpanti style with elaborate carvings, using local Jamba (laterite/Chira) stone. Legend: a priest's cow daily shed its milk on a self-manifested stone by the beach; the priest struck it and it bled, revealing the swayambhu lingam now enshrined in the sanctum. A Nagdev copper-plate inscription refers to a Kunkeshwar shrine, indicating the deity's antiquity before the current structure. Local tradition holds Chhatrapati Shivaji Maharaj renovated it on several occasions. The Shivaji University field report places the architecture in the Dravidian tradition. An old tale attributing construction to an Arabian/Iranian trader is described as historically refuted (per 'Katha Hi Kunkeshwarachi'). Mahashivratri is the great annual festival. The temple trust runs Bhakta Nivas rooms for pilgrims."
+ },
+ "id": "kunkeshwar-temple-devgad",
+ "latitude": 16.33365,
+ "longitude": 73.39209,
+ "media": [
+  "https://pilgrimdata.in/wp-content/uploads/2025/04/3-39.jpg"
+ ],
+ "name": "Kunkeshwar Temple",
+ "sources": [
+  "https://travelkonkan.in/kunkeshwar-temple/",
+  "https://tripxl.com/blog/kunkeshwar-temple/",
+  "https://sachinbaikar.com/wp/2018/05/14/shri-kunkeshwar-temple/",
+  "https://pilgrimdata.in/temple/kunkeshwar-temple-kunkeshwar-tal-devgad-dist-sindh",
+  "https://www.outlooktraveller.com/explore-maharashtra/discovering-kunkeshwar-where-the-sea-meets-the-sacred-in-coastal-maharashtra"
+ ],
+ "state": "Maharashtra",
+ "town": "Kunkeshwar (Devgad taluka; CSV town 'Ratnagiri' is wrong - temple is in Sindhudurg district)",
+ "town_description": "Kunkeshwar is a coastal village about 14 km from Devgad town in Sindhudurg district, Maharashtra, set by the Arabian Sea with a long white-sand beach, coconut and mango groves. It is famous for the ancient Kunkeshwar Shiva temple, called the Kashi of South Konkan, and its tranquil dolphin-spotted coastline.",
+ "tradition": "Hinduism (Shaivism)",
+ "travel": {
+  "airport": "Dabolim Airport, Goa (nearest major airport per tripxl.com; verify)",
+  "railway": "Ratnagiri railway station",
+  "road": "~14 km from Devgad town by road; scenic coastal route from Malvan to Devgad; local buses and taxis from Devgad"
+ },
+ "video": {
+  "audio": "",
+  "script": "",
+  "video_file": ""
+ },
+ "visitor_information": {
+  "best_time": "October to March",
+  "opening_hours": "UNVERIFIED (verify) - tripxl.com lists 6:00 AM-12:00 PM, 5:00 PM-9:00 PM (single source)"
+ }
+}

@@ -1,0 +1,50 @@
+{
+  "alternate_names": [
+    "Kasar Devi Mandir"
+  ],
+  "deities": [
+    "Kasar Devi (form of Shakti/Durga)"
+  ],
+  "district": "Almora",
+  "festivals": [
+    "Kasar Devi Fair (Kartik Purnima, November-December)",
+    "Navratri"
+  ],
+  "history": {
+    "dynasty": "Chand (attributed); 2nd-century origin also claimed",
+    "period": "Ancient (2nd century CE per some sources; 6th century Chand-era per others)",
+    "summary": "Hilltop Shakti temple at Kasar Devi village, about 8 km from Almora on the Almora-Bageshwar road. DATE CONFLICT: sources variously claim a 2nd-century origin and a 6th-century Chand-dynasty construction (verify). Swami Vivekananda meditated here in the 1890s; the adjacent Crank's Ridge (Hippie Hill) drew counterculture seekers in the 1960s-70s. The popular claim that the site sits on the Van Allen radiation belt is folklore, not science (no NASA study supports it). CSV town/state correction: CSV says town 'Almora Cantonment' and holds town names in the state column; actual town is Almora (Kasar Devi village) and the state is Uttarakhand. Opening-hour claims conflict across sources (6 AM-6 PM, 5 AM-7 PM, 6 AM-7 PM, 7 AM-7 PM); verify locally."
+  },
+  "id": "kasar-devi-temple",
+  "latitude": 29.64174,
+  "longitude": 79.66192,
+  "media": [
+    "https://thetravelcurry.com/wp-content/uploads/2025/02/hilltop-temple-kasar-devi.jpg"
+  ],
+  "name": "Kasar Devi Temple",
+  "sources": [
+    "http://trends450.blogspot.com/2025/06/indian-temples-kasar-devi-temple-almora.html",
+    "https://www.easeindiatrip.com/blog/kasar-devi-temple-almora-guide/",
+    "https://www.chardhamtour.in/blog/kasar-devi/",
+    "https://www.triphobo.com/places/almora-india/kasar-devi-temple",
+    "https://www.adequatetravel.com/placeguide/Uttarakhand/kasar-devi-temple-almora-in-uttarakhand-histroy-facts-worship-method-opening-timing-how-to-reach"
+  ],
+  "state": "Uttarakhand",
+  "town": "Almora",
+  "town_description": "Almora is a historic hill town in Kumaon, Uttarakhand, perched on a ridge of the Kumaon Hills at about 1,638 m. A former Chand-dynasty capital, it is known for its temples, bazaars, and panoramic Himalayan views.",
+  "tradition": "Hinduism",
+  "travel": {
+    "airport": "Pantnagar Airport (~115-125 km)",
+    "railway": "Kathgodam Railway Station (~85-90 km)",
+    "road": "About 8 km from Almora town on the Almora-Bageshwar highway; reachable by taxi/auto-rickshaw from Almora"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March (clear skies); also pleasant October to June",
+    "opening_hours": "Reported variously as 6:00 AM-6:00 PM, 5:00 AM-7:00 PM, 6:00 AM-7:00 PM and 7:00 AM-7:00 PM across sources - verify locally"
+  }
+}

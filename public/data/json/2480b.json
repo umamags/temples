@@ -1,0 +1,44 @@
+{
+  "alternate_names": [],
+  "deities": [
+    "Hanuman"
+  ],
+  "district": "Noklak",
+  "festivals": [
+    "Hanuman Jayanti",
+    "Ram Navami"
+  ],
+  "history": {
+    "dynasty": "",
+    "period": "",
+    "summary": "CSV DUPLICATE-ID FLAG: '2480b' is the second occurrence of duplicated CSV id 2480 — the 'a' row (id baba-kalyaneshwar-temple-bally) is Baba Kalyaneshwar Temple, Bally, Howrah, West Bengal, a completely different temple. CSV STATE CORRECTION: the CSV 'state' column wrongly holds the town name 'Noklak'; the actual state is Nagaland. IDENTITY UNCONFIRMED: no web footprint found for a Hanuman temple in Noklak town after targeted searches; treated as a thin placeholder. Likely a small community shrine serving Noklak's tiny Hindu minority (migrants, traders, security personnel) in an overwhelmingly Christian district of Khiamniungan Naga. No building date, founder, or history verifiable. Coordinates are town-level (map geocode of Noklak), NOT the shrine's exact location. media is empty: image search found no verifiable photo of this shrine; using an unrelated generic photo would misrepresent it. Opening hours and festivals are standard observances, not verified for this shrine."
+  },
+  "id": "hanuman-temple-noklak-nagaland",
+  "latitude": 26.20325,
+  "longitude": 95.02152,
+  "media": [],
+  "name": "Hanuman Temple",
+  "sources": [
+    "https://ipr.nagaland.gov.in/index.php/GOVERNOR-OF-NAGALAND-VISITS-SITLA-MATA-MANDIR-AND-HUNUMAN-MANDIR",
+    "https://tripxl.com/blog/temples-in-nagaland/",
+    "https://www.inheritage.foundation/explore/temple-in-nagaland"
+  ],
+  "state": "Nagaland",
+  "town": "Noklak",
+  "town_description": "Noklak is a remote town in far-eastern Nagaland, headquarters of Noklak district (carved out of Tuensang district in 2021). It is the homeland of the Khiamniungan Naga tribe and sits near the Myanmar border. The population is overwhelmingly Christian, with only a tiny Hindu presence.",
+  "tradition": "Hinduism",
+  "travel": {
+    "airport": "Dimapur (nearest major airport; long road distance; verify)",
+    "railway": "Dimapur (nearest major railhead; verify)",
+    "road": "Via Tuensang (verify)"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October-March",
+    "opening_hours": "Daytime only; hours not published (verify)"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "alternate_names": [
+    "Baneswar Shiva Mandir",
+    "Baneshwar Shiv Mandir"
+  ],
+  "deities": [
+    "Shiva (lingam)"
+  ],
+  "district": "Cooch Behar",
+  "festivals": [
+    "Shiva Chaturdashi (14th lunar day, Magha) — annual fair",
+    "Maha Shivaratri (verify)"
+  ],
+  "history": {
+    "dynasty": "Uncertain — Khen/Koch tradition",
+    "period": "Antiquity disputed",
+    "summary": "CSV town correction: the temple is at Baneswar village, ~10 km from Cooch Behar town, not in Cooch Behar town itself. Mythology links it to the asura king Banasura, who is said to have installed a Shiva-linga here. Historical dating is uncertain: one account credits King Jalpeswar (2nd-3rd century CE, per the Jalpesh Mahatya), another says it was built ~500 years ago by Raja Prasanna Narayana; Khen king Nilambar, Koch king Nara Narayan and Maharaja Pran Narayan are each said to have renovated or repaired it — treat all dates as unverified. The architecture is atypical for Bengal: a dome on a square base with a mangal kalash and trident, the lingam set ~10 ft below the plinth level. Adjacent Mohan Pukur lake is famed for protected turtles ('Mohan') revered as devotees of Shiva. Animal sacrifice on auspicious days is reported by one travel source (verify)."
+  },
+  "id": "baneshwar-shiva-temple-cooch-behar",
+  "latitude": 26.39881,
+  "longitude": 89.4984,
+  "media": [
+    "https://upload.wikimedia.org/wikipedia/commons/0/06/Baneshwar_Shiva_Temple_at_Cooch_Behar_District_in_West_Bengal_16.jpg"
+  ],
+  "name": "Baneshwar Shiva Temple",
+  "sources": [
+    "https://sritiochetona.org/baneshwar-shiva-mandir-cooch-behar/",
+    "https://www.tripadvisor.in/ShowUserReviews-g4163528-d4153549-r550435032-Baneswar_Shiva_Temple-Cooch_Behar_West_Bengal.html"
+  ],
+  "state": "West Bengal",
+  "town": "Baneswar",
+  "town_description": "Baneswar is a village ~10 km from Cooch Behar town in Cooch Behar district, northern West Bengal, best known for this ancient Shiva temple and its protected-turtle lake; the nearest railhead is Baneswar railway station on the Alipurduar-Bamanhat branch line.",
+  "tradition": "Hinduism",
+  "travel": {
+    "airport": "Bagdogra Airport near Siliguri is the nearest operating airport",
+    "railway": "Baneswar railway station (nearby, on the Alipurduar-Bamanhat branch line)",
+    "road": "~10-11 km by road from Cooch Behar town"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March; during the Shiva Chaturdashi fair",
+    "opening_hours": "Opening hours unverified — verify before visit"
+  }
+}

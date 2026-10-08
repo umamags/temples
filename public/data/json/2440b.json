@@ -1,0 +1,50 @@
+{
+ "alternate_names": [
+  "Swayambhu Ganapati Temple, Ganpatipule",
+  "Ganpati Pule Temple"
+ ],
+ "deities": [
+  "Ganesha (Swayambhu Ganapati, self-manifested idol)"
+ ],
+ "district": "Ratnagiri",
+ "festivals": [
+  "Ganesh Chaturthi"
+ ],
+ "history": {
+  "dynasty": "Peshwa/Maratha-era construction over an older swayambhu shrine (per ishtadevata.com: garbha gruha by Shivaji Maharaj, sabhamandap by Madhavrao Peshwe - single source, verify)",
+  "period": "Swayambhu idol tradition claimed ~400 years old (legend; verify)",
+  "summary": "CSV STATE FLAG: the CSV 'state' column wrongly holds the town name; the temple is in Ganpatipule, Ratnagiri district, MAHARASHTRA (CSV town 'Ratnagiri' is the district; actual town Ganpatipule). The Swayambhu Ganapati temple stands on the Konkan coast at the base of a hill by the beach. The ~400-year-old self-manifested (swayambhu) idol of Ganesha, said to have sprung from the soil, faces west - venerated as the 'Paschim Dwar-Devata' (Western Sentinel God of India), unlike most temples whose deities face east. Pilgrims perform pradakshina around the hill itself (~1 km) rather than just the temple. Legends: Ganesha moved here to Pule from his abode at Gule after a native lady's remark (hence Ganpati-pule), and a Brahmin named Keshav Bhatt/Balbhatji Bhide had a vision of the deity here. The name combines Ganapati with 'pule' (sand dune). One source (ishtadevata.com) credits the garbha gruha to Shivaji Maharaj and the sabhamandap to Madhavrao Peshwe - single source, flagged verify. Coordinates are village-level (Ganpatipule) as the geocoder could not resolve the temple precisely - pin approximate (verify)."
+ },
+ "id": "ganpatipule-temple-ratnagiri",
+ "latitude": 17.14351,
+ "longitude": 73.27668,
+ "media": [
+  "https://cdn.guidetour.in/wp-content/uploads/2024/09/Swayambhu-Ganpati-Temple.jpg.webp"
+ ],
+ "name": "Ganpatipule Temple",
+ "sources": [
+  "https://www.ishtadevata.com/temple/ganpatipule-temple-ganpatipule-ratnagiri/",
+  "https://indiaouting.com/maharashtra/ganpatipule/",
+  "http://www.eindiatourism.com/ganapatipule/",
+  "https://kirtankar.com/ganpatipule-temple/",
+  "http://www.hindupoojaritual.com/service-view/39/ganpati-temple-ganpatipule"
+ ],
+ "state": "Maharashtra",
+ "town": "Ganpatipule",
+ "town_description": "Ganpatipule is a small coastal town in Ratnagiri district on Maharashtra's Konkan coast, known for its pristine beach and the famous Swayambhu Ganapati temple. It is about 331 km from Mumbai and 300 km from Pune, reached off NH-66 via Nivali or Hathkhamba.",
+ "tradition": "Hinduism",
+ "travel": {
+  "airport": "Ratnagiri airport; Kolhapur airport ~144 km (verify)",
+  "railway": "Ratnagiri station (Konkan railway), then bus",
+  "road": "~32 km from Nivali/Hathkhamba off NH-66 (Mumbai-Goa highway); state transport buses from Ratnagiri"
+ },
+ "video": {
+  "audio": "",
+  "script": "",
+  "video_file": ""
+ },
+ "visitor_information": {
+  "best_time": "October to March (avoid monsoon)",
+  "opening_hours": "UNVERIFIED (verify) - no reliable published timings found; daily aartis (Kakad, Madhyan, Sandhya) are reported"
+ }
+}

@@ -1,0 +1,42 @@
+{
+  "alternate_names": [],
+  "deities": [
+    "Lord Krishna"
+  ],
+  "district": "Kakching",
+  "festivals": [
+    "Janmashtami (typical; unverified for this temple)"
+  ],
+  "history": {
+    "dynasty": "",
+    "period": "",
+    "summary": "A local Vaishnava temple dedicated to Lord Krishna reported at Kakching Khunou. No independent web source documents this temple — the generic name has no verifiable web footprint and identity is UNCERTAIN/PROVISIONAL (thin placeholder). It is not the well-documented Krishna Chandra temple at Kakching Bazar or the Shri Krishna Temple of Imphal; those are distinct, documented shrines. Nothing is known of its founding date, size, or managing body. FLAG: the CSV 'state' column wrongly holds the town name (Kakching Khunou); the shrine is in MANIPUR. FLAG: media is empty — no verified image of this shrine exists online. Opening hours and festivals are unverified (verify on site)."
+  },
+  "id": "krishna-temple-kakching-khunou-manipur",
+  "latitude": 24.40265,
+  "longitude": 93.90174,
+  "media": [],
+  "name": "Krishna Temple",
+  "sources": [
+    "https://www.thisismyindia.com/manipur/manipur-temple.html",
+    "https://www.scribd.com/document/279928079/Architecture-of-the-Temple-Of-Vishnu"
+  ],
+  "state": "Manipur",
+  "town": "Kakching Khunou",
+  "town_description": "Kakching Khunou is a town in Kakching district, Manipur, about 44 km southeast of Imphal. It lies in the heart of Manipur's garden belt, close to the Kakching Garden tourist site, and is a predominantly Meitei locality where Vaishnavite Hindu temples sit alongside indigenous Sanamahism traditions.",
+  "tradition": "Hinduism (Vaishnavism)",
+  "travel": {
+    "airport": "Bir Tikendrajit International Airport, Imphal (~44 km)",
+    "railway": "Nearest major railhead is Dimapur (Nagaland), ~200 km; the nearest in-state station is Jiribam.",
+    "road": "Kakching Khunou lies on the Kakching road network off NH-102 (Imphal-Moreh highway), about 44 km from Imphal; buses and shared taxis run from Imphal and Kakching town."
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March",
+    "opening_hours": ""
+  }
+}

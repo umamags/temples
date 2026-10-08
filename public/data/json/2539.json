@@ -1,0 +1,55 @@
+{
+  "alternate_names": [
+    "Sri Edupayala Vana Durga Bhavani Devalayam",
+    "Edupayala Kanaka Durga Temple"
+  ],
+  "deities": [
+    "Vana Durga Bhavani (Kanaka Durga)",
+    "Shiva",
+    "Vishnu",
+    "Ganesha",
+    "Saraswati"
+  ],
+  "district": "Medak",
+  "festivals": [
+    "Edupayala Jatara (3 days, during Shivaratri)",
+    "Dasara Navaratri",
+    "Magha Amavasya"
+  ],
+  "history": {
+    "dynasty": "Kakatiya period (per local sources)",
+    "period": "12th century CE",
+    "summary": "CSV town correction: the temple is not in Medak town - it is at Nagasanpally village, Papannapet mandal, about 18-19 km from Medak town. Built in the 12th century per the Medak district website and travel sources (dynasty attribution unverified - likely Kakatiya-era region; treat date as traditional). Situated at the confluence of seven streams of the Manjeera river - 'Edu' (seven) + 'Payalu' (streams) in Telugu. Legend: King Parikshit (Mahabharata) performed a Sarpa Yagya to escape a curse; when Garuda carried the sacrificed snakes, their blood fell at seven places forming the streams, named after the Saptarishis (Jamadagni, Atri, Kashyapa, Vishvamitra, Vasishta, Bharadwaja, Gautama). The goddess's idol stands amid the seven streams; in monsoon the river rises to her feet and the approach can submerge. About 30 lakh devotees visit annually."
+  },
+  "id": "edupayala-vana-durga-bhavani-temple",
+  "latitude": 18.00283,
+  "longitude": 78.18999,
+  "media": [
+    "https://www.edupayala.org/i/k343.jpeg"
+  ],
+  "name": "Edupayala Vana Durga Bhavani Temple",
+  "sources": [
+    "https://medak.telangana.gov.in/tourist-place/edupayala-temple/",
+    "https://medak.telangana.gov.in/edupayala-temple/",
+    "http://www.trawell.in/telangana/medak/edupayala-vana-durga-bhavani-temple",
+    "https://travelwithkalyan.com/edupayala-vana-durga-bhavani-temple/"
+  ],
+  "state": "Telangana",
+  "town": "Nagasanpally",
+  "town_description": "Nagasanpally (Nagsanpally) is a village in Papannapet mandal of Medak district, about 18 km from Medak town on the Hyderabad-Medak highway. It is known for the Edupayala temple set in a forested area with natural rock formations at the Manjeera river's seven-stream confluence.",
+  "tradition": "Hinduism",
+  "travel": {
+    "airport": "Rajiv Gandhi International Airport, Hyderabad (~110 km)",
+    "railway": "",
+    "road": "19 km from Medak Bus Station; ~110 km from Hyderabad; bus/cab"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March; rainy season for the streams spectacle (temple may be inaccessible in peak monsoon)",
+    "opening_hours": "5:30 am - 6:30 pm (weekdays); 5 am - 7 pm (Sundays); verify"
+  }
+}

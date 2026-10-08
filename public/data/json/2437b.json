@@ -1,0 +1,53 @@
+{
+ "alternate_names": [
+  "Birla Ram Mandir",
+  "Shri Ram Mandir, Tapadia Nagar"
+ ],
+ "deities": [
+  "Rama",
+  "Sita",
+  "Lakshmana",
+  "Shiva (separate shrine beside the main temple)"
+ ],
+ "district": "Akola",
+ "festivals": [
+  "Ramnavami (annual yatra)",
+  "Dussehra (Dasara)",
+  "Diwali"
+ ],
+ "history": {
+  "dynasty": "Modern (built by the Birla family; founding date not found in any source - verify)",
+  "period": "20th century (modern temple; exact year unverified)",
+  "summary": "CSV STATE FLAG: the CSV 'state' column wrongly holds the town name; the temple is in Akola, MAHARASHTRA (CSV town 'Akola' is correct). Known locally as Birla Ram Mandir or Shri Ram Mandir, this is a modern Hindu temple and the private shrine of the Birla family, built by M/s Berar Oil Industries of the Birla family (per local reviews and rkvsmakola.in). It stands in Tapadia Nagar/Jathar Peth along the railway line at Oak Marg, Akola. The main shrine houses Bhagavan Ram with Devi Sita and Lakshman, with a separate Bhagavan Shiva shrine beside it; all idols are pure white marble. The walls carry Gita verses and famous hymns/mantras selected from the Vedas and Upanishads with small paintings and photos. Local devotees describe it as an old, calm, less-crowded temple; an annual Ramnavami yatra is held. No source gives a construction date or detailed founding history (flag as unverified). One travel site (peopleplaces.in) describes this entry with Delhi Birla Mandir facts - that conflation is ignored here."
+ },
+ "id": "birla-mandir-akola",
+ "latitude": 20.72168,
+ "longitude": 77.01459,
+ "media": [],
+ "name": "Birla Mandir, Akola",
+ "sources": [
+  "https://en.wikipedia.org/wiki/Birla_Mandir",
+  "http://www.treebo.com/blog/birla-mandir/",
+  "http://rkvsmakola.in/akola.html",
+  "https://www.pickeronline.com/akola/mandir",
+  "https://in.worldorgs.com/catalog/akola/shopping-mall/the-zoomb-education"
+ ],
+ "state": "Maharashtra",
+ "town": "Akola",
+ "town_description": "Akola, known as the 'Cotton City', is a major city of the Vidarbha region in Maharashtra on the Mumbai-Nagpur rail and road corridors. It is a regional commercial and educational centre with Akola Junction as an important railway junction.",
+ "tradition": "Hinduism (Vaishnavism)",
+ "travel": {
+  "airport": "Nearest major airport Nagpur (verify)",
+  "railway": "Akola Junction (very close to the temple)",
+  "road": "Oak Marg, Tapadia Nagar / Jathar Peth area along the railway line, Akola"
+ },
+ "video": {
+  "audio": "",
+  "script": "",
+  "video_file": ""
+ },
+ "visitor_information": {
+  "best_time": "October to February (Vidarbha winters); avoid the harsh summer (verify)",
+  "opening_hours": "UNVERIFIED (verify) - treebo.com lists 9:00 AM-5:00 PM (single source); evenings noted as a pleasant time to visit"
+ }
+}

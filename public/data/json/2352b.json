@@ -1,0 +1,53 @@
+{
+  "alternate_names": [
+    "Basílica do Bom Jesus",
+    "Basilica of Good Jesus"
+  ],
+  "deities": [
+    "Infant Jesus (Bom Jesus)",
+    "St. Francis Xavier"
+  ],
+  "district": "North Goa",
+  "festivals": [
+    "Feast of St. Francis Xavier (3 December, with novenas)",
+    "Decennial exposition of the saint's relics (held every 10 years; frequency approximate, verify)"
+  ],
+  "history": {
+    "dynasty": "Portuguese colonial (Jesuit)",
+    "period": "1594–1605 (consecrated May 1605; minor basilica status granted 1946)",
+    "summary": "NOT A HINDU TEMPLE — keep-or-drop decision needed. Roman Catholic basilica in Old Goa housing the tomb and mortal remains of St. Francis Xavier, Jesuit missionary and co-founder of the Society of Jesus (died 1552 off China; body brought to Goa 1554). Construction began 1594 under the Jesuits (designed by Domingos Fernandes; foundation laid under Philip I / Governor Francisco da Gama); consecrated May 1605 by Archbishop Dom Fr. Aleixo de Menezes. India's first Minor Basilica (1946); UNESCO World Heritage Site (1986) as part of the 'Churches and Convents of Goa'. Baroque church built of laterite; the only major Goan church never plastered (plaster removed 1956). The silver-casket mausoleum (1696) was a gift of Cosimo III de' Medici, Grand Duke of Tuscany. CSV NOTE: the CSV 'state' column wrongly holds the town name; the actual state is Goa. Hours conflict (verify): most sources give 9:00 AM–6:30 PM daily; one 2025 source reports Mon–Sat 9:00 AM–5:00 PM, Sun 11:00 AM–5:00 PM."
+  },
+  "id": "basilica-of-bom-jesus-old-goa",
+  "latitude": 15.50095,
+  "longitude": 73.91158,
+  "media": [
+    "https://archgoadaman.com/wp-content/uploads/2023/11/Basilica-of-Bom-Jesus-Old-Goa-scaled.jpg"
+  ],
+  "name": "Basilica of Bom Jesus",
+  "sources": [
+    "https://www.safarmentor.com/goa-tourism/places-to-visit/basilica-bom-jesus",
+    "https://www.discoverlifetravel.com/bom-jesus-basilica-old-goa-india.html",
+    "https://remotetraveler.com/basilica-bom-jesus-goa/",
+    "https://en.advisor.travel/poi/Basilica-of-Bom-Jesus-11501",
+    "https://www.goldentriangletour.com/en/tourist-attractions/india/goa/old-goa/basilica-of-bom-jesus-goa.html",
+    "https://saveandtravel.in/5-most-popular-churches-of-goa/"
+  ],
+  "state": "Goa",
+  "town": "Old Goa",
+  "town_description": "Old Goa (Velha Goa), on the banks of the Mandovi river in Tiswadi taluka, was the capital of Portuguese India from the 16th century until its 18th-century decline. Its surviving churches and convents form a UNESCO World Heritage Site. About 10 km east of Panaji, it is the heart of Goa's Portuguese-era heritage.",
+  "tradition": "Christianity (Catholic)",
+  "travel": {
+    "airport": "Manohar International Airport (Mopa) ~35 km; Dabolim Airport (GOI) ~30 km (verify distances)",
+    "railway": "Karmali station ~2–3 km; Thivim junction further afield (verify)",
+    "road": "Frequent buses and taxis from Panaji (~10 km) and Mapusa; the complex sits on the main Old Goa road."
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "November–February; 3 December for the feast of St. Francis Xavier.",
+    "opening_hours": "9:00 AM–6:30 PM daily (verify: one 2025 source reports Mon–Sat 9:00 AM–5:00 PM, Sun 11:00 AM–5:00 PM; hours shift on feast days and masses)"
+  }
+}

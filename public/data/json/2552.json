@@ -1,0 +1,53 @@
+{
+  "alternate_names": [
+    "Shri Gorakhnath Math",
+    "Gorakhnath Math"
+  ],
+  "deities": [
+    "Gorakhnath",
+    "Shiva"
+  ],
+  "district": "Gorakhpur",
+  "festivals": [
+    "Makar Sankranti (Khichdi Mela)",
+    "Guru Purnima",
+    "Navratri",
+    "Mahashivratri",
+    "Diwali"
+  ],
+  "history": {
+    "dynasty": "Nath monastic lineage (present structure shaped under Mahants Digvijaynath and Avedyanath in the 19th century)",
+    "period": "c. 11th-12th century origins (traditional); present structure 19th century",
+    "summary": "Gorakhnath Math is the principal seat of the Nath tradition, dedicated to Yogi Gorakhnath (c. 11th century), disciple of Matsyendranath and a founder of Hatha Yoga. The city of Gorakhpur takes its name from him. The temple complex holds his samadhi shrine and gaddi; the math runs a second temple in Gorkha district, Nepal. Temple records say the structure was destroyed twice (by Alauddin Khilji in the 14th century and Aurangzeb in the 18th century) and rebuilt; the current form dates to 19th-century work under the mahants. Note: the destruction accounts come from temple tradition, not independently verified historical records."
+  },
+  "id": "gorakhnath-temple-gorakhpur",
+  "latitude": 26.77407,
+  "longitude": 83.358,
+  "media": [
+    "https://www.tusktravel.com/blog/wp-content/uploads/2023/05/Gorakhnath-Temple-in-Gorakhpur-1024x762.jpg"
+  ],
+  "name": "Gorakhnath Temple",
+  "sources": [
+    "https://www.bharattemples.com/gorakhnath-temple-gorakhpur-uttar-pradesh/",
+    "https://thetempleguru.com/listing/gorakhnath-temple-gorakhpur/",
+    "https://blog.yatradham.org/gorakhnath-temple-timings-uttar-pradesh/"
+  ],
+  "state": "Uttar Pradesh",
+  "town": "Gorakhpur",
+  "town_description": "Gorakhpur is a major city in eastern Uttar Pradesh (Purvanchal), on the Rapti river, named after Yogi Gorakhnath. It is a cultural and religious hub with Gorakhnath Math as its best-known shrine, and a rail and road gateway to Nepal and the Terai.",
+  "tradition": "Hinduism",
+  "travel": {
+    "airport": "Mahayogi Gorakhnath Airport, Gorakhpur (a few km; distance varies by source - verify)",
+    "railway": "Gorakhpur Junction (~5 km)",
+    "road": "NH-27; ~4 km from Gorakhpur bus stand"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October-March; January for the Makar Sankranti Khichdi Mela",
+    "opening_hours": "Approximately 3:00 AM-9:00 PM daily (hours vary across sources - verify)"
+  }
+}

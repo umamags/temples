@@ -1,0 +1,50 @@
+{
+ "alternate_names": [
+  "Kakanmath Shiva Temple",
+  "Kakan Math",
+  "Kakanmath Mandir Sihoniya",
+  "Kakanmath Mandir"
+ ],
+ "deities": [
+  "Shiva"
+ ],
+ "district": "Morena",
+ "festivals": [
+  "Mahashivratri (presumed - verify; no published festival calendar found)"
+ ],
+ "history": {
+  "dynasty": "Kachchhapaghata dynasty (ruler Kirttiraja, reigned 1015-1035 CE)",
+  "period": "1015-1035 CE (11th century)",
+  "summary": "Kakanmath is a ruined 11th-century Shiva temple at Sihoniya (ancient Simhapaniya), Morena district, Madhya Pradesh (the CSV 'state' column holds the town name 'Morena' - the real state is Madhya Pradesh; the actual site is the village Sihoniya, ~65 km north of Gwalior). Built by the Kachchhapaghata ruler Kirttiraja (an inscription at the Sas-Bahu temple, Gwalior, records a Shiva temple built by him at Simhapaniya); tradition says it was raised for his queen Kakanwati, from whom the name may derive (alt. theory: Kanak, 'gold' + matha, 'shrine'). The original complex had a central temple with four subsidiary shrines; only part of the central two-storey structure survives, its sikhara stripped to ~30 m. It is famous for dry-stone construction with no mortar or cement, and for the folk legend that Shiva's ganas built it overnight and fled at dawn leaving it 'unfinished'. It is an ASI Monument of National Importance. Height estimates vary (100-130 ft); the ~30 m figure is from a site study. Some sculptures from the site are now in the Gwalior archaeological museum."
+ },
+ "id": "kakanmath-temple-morena",
+ "latitude": 26.57423,
+ "longitude": 78.26638,
+ "media": [
+  "https://www.themysteriousindia.net/wp-content/uploads/2016/04/Kakanmath-temple-2.jpg"
+ ],
+ "name": "Kakanmath Temple",
+ "sources": [
+  "https://reclaimtemples.com/kakanmath-temple-morena/",
+  "https://ebnw.net/art-craft/the-ghost-built-temple-of-morena-kakanmath-madhya-pradeshs-mysterious-11th-century-marvel/",
+  "https://rohitkparmar.wixsite.com/site/post/kakanmath-sihoniya-suhaniya-morena-district-madhya-pradesh-india-parmar-rohitkumar"
+ ],
+ "state": "Madhya Pradesh",
+ "town": "Sihoniya (ancient Simhapaniya, near Ambah/Joura; CSV town 'Morena' is the district HQ town, ~40-50 km away - verify)",
+ "town_description": "Sihoniya (also spelled Suhania) is a village in Morena district, Madhya Pradesh, once the capital of the Kachchhapaghata/Kushwaha kingdom in the early 11th century. The Kakanmath temple rises over fields in the village interior, about 65 km north of Gwalior; the site is an ASI-protected monument.",
+ "tradition": "Shaiva (Hindu temple, ASI-protected monument)",
+ "travel": {
+  "airport": "Gwalior airport is the nearest major airport (~65-70 km - verify).",
+  "railway": "Nearest railheads are Ambah / Joura on the local line (verify); Morena Junction is farther south.",
+  "road": "About 65 km north of Gwalior by road; the site is in the village interior with limited signage (ask locals)."
+ },
+ "video": {
+  "audio": "",
+  "script": "",
+  "video_file": ""
+ },
+ "visitor_information": {
+  "best_time": "October to March; daylight visit recommended.",
+  "opening_hours": "No published hours found - treat as an open archaeological site visitable in daylight (verify on arrival)."
+ }
+}

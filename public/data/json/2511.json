@@ -1,0 +1,49 @@
+{
+  "alternate_names": [
+    "Harshnath Mahadev Temple"
+  ],
+  "deities": [
+    "Shiva (Harshnath)",
+    "Parvati"
+  ],
+  "district": "Sikar",
+  "festivals": [
+    "Maha Shivaratri (reported - verify)"
+  ],
+  "history": {
+    "dynasty": "Chahamana (Chauhan) of Shakambhari",
+    "period": "10th century CE (stone inscription 973 CE; plaque says commissioned CE 956)",
+    "summary": "Ancient Shiva temple complex atop Harshagiri (Mount Harsh), 14 km south of Sikar, where Shiva was venerated in his local form Harsha ('he who is full of joy'), the kuladeva of the Chahamana dynasty and presented in the 973 CE inscription as Shiva's terrestrial second home, 'like part of heaven'. Commissioned by the Pashupata ascetic Bhavarakta (alias Allata) during the reign of the Chahamana king; the ASI/Jio exhibit plaque dates the commission to V.S. 1030 (CE 973) by Allata in CE 956 under Vigraharaja I, while other sources say Vigraharaja II - regnal details conflict. The main temple is in ruins, surrounded by ruined shrines to Surya, Vishnu and Yoginis; an 18th-century Shiva temple (built 1718 by Rao Raja Devi Singh / Rao Shivsingh of Sikar from the old stones) stands adjacent and is actively worshipped. One source claims the original was destroyed under Aurangzeb in 1679 (verify). ASI-protected national monument. Coordinates from map geocode (27.49982, 75.17266) agree with published values (~27.4999 N, 75.1724 E). Town: Harshnath is a hilltop site, not a town; nearest town is Sikar."
+  },
+  "id": "harshnath-temple-sikar",
+  "latitude": 27.49982,
+  "longitude": 75.17266,
+  "media": [
+    "https://images.pexels.com/photos/16015379/pexels-photo-16015379/free-photo-of-view-of-the-harshnath-temple-in-rajasthan-india.jpeg?auto=compress&cs=tinysrgb&w=600"
+  ],
+  "name": "Harshnath Temple",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Harshnath_Temple",
+    "https://exhibits.jioinstitute.edu.in/spotlight/harshnath-temple",
+    "https://www.earthtrip.in/rajasthan/sikar/harshnath-temple_1789.html",
+    "https://luxevista.in/harsh-parvat-amp-harshnath-temple/"
+  ],
+  "state": "Rajasthan",
+  "town": "Sikar",
+  "town_description": "Sikar is a major Shekhawati town in northern Rajasthan, a historic mercantile centre with painted havelis and temples, lying on the rail and road corridor between Jaipur (~110 km) and Bikaner.",
+  "tradition": "Hinduism",
+  "travel": {
+    "airport": "Jaipur International Airport (~110 km)",
+    "railway": "Sikar Junction railway station (~14 km)",
+    "road": "14 km south of Sikar by road up Harshagiri (Harsh mountain); well-maintained approach road to the base, then hill road"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March",
+    "opening_hours": "Daylight hours typical for ASI hilltop site; exact temple hours unverified - verify before visiting"
+  }
+}

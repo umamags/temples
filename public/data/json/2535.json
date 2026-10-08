@@ -1,0 +1,51 @@
+{
+  "alternate_names": [
+    "Chaya Someshwara Swamy Temple",
+    "Trikutalayam",
+    "Sri Chaya Someswara Swamy Alayam"
+  ],
+  "deities": [
+    "Someswara (Shiva)",
+    "Vishnu",
+    "Surya"
+  ],
+  "district": "Nalgonda",
+  "festivals": [
+    "Maha Shivaratri"
+  ],
+  "history": {
+    "dynasty": "Kunduru Chodas (branch of Telugu Cholas); embellished by later Telangana dynasties including the Kakatiyas",
+    "period": "Mid-11th to early 12th century CE",
+    "summary": "Famous Shaivite shrine in Panagal village, about 4 km from Nalgonda city, celebrated for an engineered optical phenomenon: the architect placed pillars in the ardhamandapa and open spaces before the central Shiva shrine so that a consolidated, unified shadow (chaya in Telugu) falls constantly on the lingam all through the day, irrespective of the sun's position - hence the name Chaya Someshwara. It is a Trikutalayam (three-shrine complex): sanctums for Shiva, Vishnu and Surya sharing a common mandapam with pillars carved in the Telingana style with Ramayana, Mahabharata and Purana scenes. The temple was in ruins by the mid-20th century and is now partially restored; it stands east of the village amid paddy fields near the 11th-century Udayasamudram reservoir, about 1 km east of the Pachala Someshwara Temple and the Panagal archaeological museum (which houses shivalingas and sculptures from Yelleswaram village, submerged by Nagarjuna Sagar). NOTE: some travel sources credit an Ikshvaku foundation; the scholarly account (Wikipedia) attributes it to the Kunduru Cholas - treated as unverified. CONFLICT: reported timings are 6 AM-12 PM & 2-8 PM or 3-8 PM, or 6 AM-6 PM - verify locally. CSV town 'Nalgonda' corrected: actual town is Panagal. CSV state 'Nalgonda' corrected: Telangana."
+  },
+  "id": "chaya-someswara-temple",
+  "latitude": 17.07746,
+  "longitude": 79.29521,
+  "media": [
+    "https://www.tusktravel.com/blog/wp-content/uploads/2024/02/Chaya-Someswara-Temple-Panagal-Telangana.jpg"
+  ],
+  "name": "Chaya Someswara Temple",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Chaya_Someswara_Temple",
+    "https://www.telangana360.com/2023/07/sri-chaya-someshwara-temple.html",
+    "https://www.trawell.in/telangana/nalgonda/chaya-someshwara-temple-panagal"
+  ],
+  "state": "Telangana",
+  "town": "Panagal",
+  "town_description": "Panagal (also spelled Panagallu) is a village in Nalgonda district, Telangana, about 4 km east of Nalgonda city and about 107 km from Hyderabad. It has been a major Shaivism pilgrimage center for over a millennium, with clusters of 6th-14th century temples in the region, and hosts the Panagal archaeological museum beside the Pachala Someshwara temple.",
+  "tradition": "Hinduism",
+  "travel": {
+    "airport": "Rajiv Gandhi International Airport, Hyderabad (about 107 km)",
+    "railway": "Nalgonda (about 4 km)",
+    "road": "About 1.4 km from Panagal bus station, 4 km from Nalgonda city, 107 km from Hyderabad"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to February; free entry, no ticket",
+    "opening_hours": "Reported as 6:00 AM-12:00 PM & 2:00 PM-8:00 PM (some sources say 3:00-8:00 PM evening, or 6:00 AM-6:00 PM) - verify locally"
+  }
+}

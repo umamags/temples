@@ -1,0 +1,51 @@
+{
+  "alternate_names": [
+    "Mata Purnagiri Temple",
+    "Punyagiri Temple"
+  ],
+  "deities": [
+    "Goddess Purnagiri (Durga/Parvati)"
+  ],
+  "district": "Champawat",
+  "festivals": [
+    "Purnagiri Mela (Chaitra Navratri, March-May, 2-3 months)",
+    "Navratri"
+  ],
+  "history": {
+    "dynasty": "Ancient/legendary (Shakti Peetha)",
+    "period": "Ancient (mythological origin; no documented construction date)",
+    "summary": "Major Shakti Peetha atop Purnagiri hill (also called Punyagiri, 'mountain of good deeds') at ~910 m, about 20-21 km from Tanakpur in Champawat district, near the India-Nepal border on the Kali (Sharda) River. Hindu legend says the navel (nabhi) of Goddess Sati fell here during Shiva's tandava; counted among the 51 Shakti Peethas (some sources say 108 Siddha Peethas). The temple is reached via road to Thulligad/Thuniyas and a 3 km paved staircase trek; free dharmashala lodging is available at the shrine. CSV town/state correction: CSV gives 'Champawat' (which is the district); the actual nearest town is Tanakpur, and the state is Uttarakhand."
+  },
+  "id": "purnagiri-temple",
+  "latitude": 29.07254,
+  "longitude": 80.111,
+  "media": [
+    "https://t.eucdn.in/tourism/md/purnagiri-devi-temple-1301263.webp"
+  ],
+  "name": "Purnagiri Temple",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Purnagiri_Temple",
+    "https://www.chardhamtours.in/uttarakhand/tanakpur/purnagiri-temple_304.html",
+    "https://travelchardham.com/spot/purnagiri-temple",
+    "https://www.earthtrip.in/uttarakhand/tanakpur/purnagiri-temple_304.html",
+    "http://hindupad.com/purnagiri-devi-temple-tanakpur/comment-page-1/"
+  ],
+  "state": "Uttarakhand",
+  "town": "Tanakpur",
+  "town_description": "Tanakpur is a gateway town in Champawat district, Uttarakhand, on the banks of the Kali (Sharda) River near the India-Nepal border. It has its own railway station and is the base for the Purnagiri pilgrimage.",
+  "tradition": "Hinduism",
+  "travel": {
+    "airport": "Pantnagar Airport (~98 km from Tanakpur)",
+    "railway": "Tanakpur Railway Station (town has its own station)",
+    "road": "Road from Tanakpur to Thulligad (~17-20 km), then a 3 km paved staircase trek to the temple"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to May; peak during Chaitra Navratri (March-April) for the Purnagiri Mela",
+    "opening_hours": "5:00 AM to 9:00 PM generally; reported open round the clock during peak Navratri season (verify locally)"
+  }
+}

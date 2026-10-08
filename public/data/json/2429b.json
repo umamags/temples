@@ -1,0 +1,54 @@
+{
+ "alternate_names": [
+  "Batesara",
+  "Batesar",
+  "Batesvar",
+  "Bateshwar Group of Temples",
+  "Bateshwar Hindu Temples"
+ ],
+ "deities": [
+  "Shiva (majority; the largest temple is dedicated to Bhuteshvar Shiva)",
+  "Vishnu",
+  "Shakti (Goddess)",
+  "Hanuman"
+ ],
+ "district": "Morena",
+ "festivals": [
+  "Mahashivratri (presumed - verify; no published festival calendar found)"
+ ],
+ "history": {
+  "dynasty": "Gurjara-Pratihara dynasty",
+  "period": "8th-10th century CE (earliest temples ~750-800 CE per art historian Michael Meister)",
+  "summary": "The Bateshwar Hindu temples are a group of nearly 200 sandstone shrines in post-Gupta, early Gurjara-Pratihara style near the Chambal in Morena district, Madhya Pradesh (the CSV 'state' column holds the town name 'Morena' - the real state is Madhya Pradesh; the site is ~30 km east of Morena town and ~35 km north of Gwalior). Dedicated to Shiva (majority), Vishnu, Shakti and Hanuman; the complex takes its name from the Bhuteshvar temple. Destroyed after the 13th century (earthquake vs Muslim forces is unresolved), the ruins were reported by Alexander Cunningham in 1882 and protected by ASI in 1920, but languished under forest and dacoit control. From 2004/2005 to 2012 an ASI team led by archaeologist K.K. Muhammed reassembled ~60-80 shrines from thousands of fallen pieces, guided by Vastu Shastra treatises (Manasara, Mayamata). Restoration counts vary between sources (60-80 vs ~100) - flag as conflict. The largest number of temples at any single site in India (200+, counting the surroundings)."
+ },
+ "id": "bateshwar-temple-complex-morena",
+ "latitude": 26.42615,
+ "longitude": 78.19634,
+ "media": [
+  "https://www.themysteriousindia.net/wp-content/uploads/2015/10/Bateshwar-Temple-Complex-10-770x505.jpg"
+ ],
+ "name": "Bateshwar Temple Complex",
+ "sources": [
+  "https://www.Atlasobscura.Com/places/bateshwar-temple-complex",
+  "https://www.hinduismtoday.com/hpi/2023/07/26/how-the-glory-of-madhya-pradeshs-bateshwar-temple-complex-was-restored-by-asi-in-dacoit-infested-morena/",
+  "https://telugustop.com/how-the-glory-of-mps-bateshwar-temple-complex-was-restored-by-asi-in-dacoit-infested-morena-latest-eng-news-1490170"
+ ],
+ "state": "Madhya Pradesh",
+ "town": "Bateshwar/Padavali site (CSV town 'Morena' is ~30 km west; ~35 km north of Gwalior)",
+ "town_description": "Bateshwar (Batesara) is an archaeological site in the Chambal ravines of Morena district, Madhya Pradesh, spread over a low hillside near the village of Padavali. It is maintained by the ASI and MP Tourism; the rugged valley setting, once dacoit country, is now accessible with few visitors, giving the site a quiet, open-air-museum feel.",
+ "tradition": "Hindu - mixed Shaiva/Vaishnava/Shakta (ASI-protected archaeological site)",
+ "travel": {
+  "airport": "Gwalior airport is the nearest major airport (~35-40 km - verify).",
+  "railway": "Morena Junction (~30 km) and Gwalior Junction (~35 km) are the nearest railheads (verify distances).",
+  "road": "About 35 km north of Gwalior and ~30 km east of Morena town by road through the Chambal valley."
+ },
+ "video": {
+  "audio": "",
+  "script": "",
+  "video_file": ""
+ },
+ "visitor_information": {
+  "best_time": "October to March; pleasant for walking the hillside.",
+  "opening_hours": "No published hours found - ASI-protected site, normally open in daylight hours (verify before visiting)."
+ }
+}

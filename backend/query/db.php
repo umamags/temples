@@ -109,7 +109,7 @@ class Database {
 
 // Set CORS headers for localhost dev
 $origin = isset($_SERVER['HTTP_ORIGIN']) ? $_SERVER['HTTP_ORIGIN'] : '';
-if (in_array($origin, ['http://localhost:5173', 'http://localhost:3000', 'http://127.0.0.1:5173'])) {
+if (in_array($origin, ['http://localhost:5173', 'http://localhost:5174', 'http://localhost:3000', 'http://127.0.0.1:5173', 'http://127.0.0.1:5174'])) {
     header('Access-Control-Allow-Origin: ' . $origin);
 }
 // For production, set the actual domain:

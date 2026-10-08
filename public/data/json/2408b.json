@@ -1,0 +1,51 @@
+{
+  "alternate_names": [
+    "Narasimha Jharni",
+    "Jharani Narasimha Temple",
+    "Jala Narasimha Swamy Temple",
+    "Narasimha Zarna Cave Temple"
+  ],
+  "deities": [
+    "Lord Narasimha (self-manifested swayambhu image on the cave wall, presiding)",
+    "Shiva Linga (worshipped by the demon Jalasura, at the cave's end)"
+  ],
+  "district": "Bidar",
+  "festivals": [
+    "Narasimha Jayanti (likely; not confirmed in the sources consulted — verify)"
+  ],
+  "history": {
+    "dynasty": "Ancient; no dated inscription cited in sources consulted. The Bidar region was successively under the Mauryas, Satavahanas, Kadambas, Chalukyas, Rashtrakutas and Bahmanis.",
+    "period": "Antiquity undated; a living pilgrimage site",
+    "summary": "The Narasimha Jhira (Jharni) Cave Temple is excavated in a approx. 300-metre tunnel under the Manichoola hill range, about 4.8-5 km from Bidar city. Devotees wade through 4-5 feet of perennial spring water for the full length of the cave to reach a roughly carved, self-manifested (swayambhu) image of Narasimha on the laterite wall, with a Shiva Linga beside it. Legend says Narasimha, after slaying Hiranyakashipu, killed the demon Jharasura (Jalasura), a devotee of Shiva, in this cave; at the demon's dying request Narasimha took residence here, and the demon's body became the stream that has never dried up. Bats roost in the cave. FLAG: sources conflict on timings (7:00 AM-6:00 PM vs 8:00 AM-12:00 PM and 2:00-5:00 PM with a midday closure) and one source says entry through the water tunnel to the garbhalaya has been restricted since 2019 — verify on the ground before visiting. CSV NOTE: the CSV's 'state' column wrongly holds the town name 'Bidar' — the temple is in the state of Karnataka."
+  },
+  "id": "narasimha-jhira-cave-temple-bidar",
+  "latitude": 17.90259,
+  "longitude": 77.54372,
+  "media": [
+    "https://storage.googleapis.com/webydo-published-sites/A004544/catalog/1461.jpg"
+  ],
+  "name": "Narasimha Jhira Cave Temple",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Narasimha_Jharni",
+    "https://www.trawell.in/karnataka/bidar/narasimha-jhira-cave-temple",
+    "https://lightuptemples.com/bidar-jala-narasimha-swamy-temple-karnataka/"
+  ],
+  "state": "Karnataka",
+  "town": "Bidar",
+  "town_description": "Bidar is a historic town in northeastern Karnataka, once the capital of the Bahmani Sultanate, known for its fort, the Mahmud Gawan madrasa and Bidri metalwork. It lies about 120-140 km from Hyderabad and is the district headquarters of Bidar district.",
+  "tradition": "Vaishnavism (with a Shaiva presence — a Shiva Linga stands in the cave)",
+  "travel": {
+    "airport": "Bidar Airport has no scheduled commercial services; the nearest operational airport is Hyderabad, approx. 120-140 km.",
+    "railway": "Bidar railway station, approx. 5 km from the temple; Bidar-Hyderabad intercity trains operate.",
+    "road": "On Malkapur Road, Mangalpet, on the outskirts of Bidar, approx. 5 km from the railway station; reachable by auto or taxi. Carry a full change of clothes and a towel — devotees emerge soaked."
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March. Monsoon swells the cave stream, so water levels can be higher; summers are hot outside the cave.",
+    "opening_hours": "Sources conflict: reported as 7:00 AM-6:00 PM by one travel guide, but another source gives 8:00 AM-12:00 PM and 2:00-5:00 PM with a midday cleaning closure. VERIFY before visiting. The sanctum fits only about eight people at a time, so expect queues."
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "alternate_names": [
+    "Jagannath Mandir, Alwar"
+  ],
+  "deities": [
+    "Jagannath (anthropomorphic form of Vishnu, in the Puri cult tradition)",
+    "SitaramJi (Shaligram Maharaj)",
+    "JankiJi (goddess Lakshmi)",
+    "Budhe Jagannath (the older fixed idol, shown only during Rath Yatra)"
+  ],
+  "district": "Alwar",
+  "festivals": [
+    "Rath Yatra (held here as the annual wedding celebration of Jagannath and JankiJi at Roopbas)"
+  ],
+  "history": {
+    "dynasty": "Unknown founder; patronage linked to the Maharaja of Alwar, who donated the Indra Vimana elephant carriage",
+    "period": "Medieval; age disputed - '800 years' (trawell.in), 'over 160 years' (Wanderlog), 260-year tradition per a Wikipedia-cited Hindi report (conflict - verify)",
+    "summary": "The Jagannath Temple stands on a raised platform several metres above ground in the old part of Alwar city (Nangli Circle/Choti Sabji Mandi area). It is dedicated to Lord Jagannath (Vishnu) in the Puri cult tradition, with SitaramJi and JankiJi in the garbhagriha; unusually, two Jagannath idols reside simultaneously - the older fixed Budhe Jagannath, shown only for five days during Rath Yatra, and a movable utsav murthy. The temple shows medieval-style architecture with rare floral motifs on its walls and gigantic pillars. The annual Rath Yatra carries the movable deity on the Indra Vimana - originally the Maharaja of Alwar's elephant carriage, later donated to the temple - and follows local customs distinct from Puri: it is celebrated as the wedding of Lord Jagannath and JankiJi at Roopbas, with the Tourism Department organising cultural events at the Jagannathji mela. CSV STATE FLAG: the CSV 'state' column wrongly repeats the town name - actual state is Rajasthan. COORDINATES (27.53056, 76.60389) are corroborated between Wikipedia (via trek.zone) and aroundus (27.53234, 76.60542) - approximate, verify on the ground. HOURS FLAG: trawell.in lists 6 AM-12 PM & 4 PM-8 PM while aroundus lists 7 AM-7:30 PM (conflict - verify)."
+  },
+  "id": "jagannath-temple-alwar",
+  "latitude": 27.53056,
+  "longitude": 76.60389,
+  "media": [
+    "https://itin-dev.wanderlogstatic.com/freeImageSmall/pCinfLFeY8pPYQyzkUCzLdzqhmCi1VvS"
+  ],
+  "name": "Jagannath Temple, Alwar",
+  "sources": [
+    "http://en.wikipedia.org/wiki/Jagannath_Temple,_Alwar",
+    "https://www.trawell.in/rajasthan/alwar/jagannath-temple",
+    "https://holyshrines.in/jagannath-temple-alwar/",
+    "https://wanderlog.com/place/details/10221496"
+  ],
+  "state": "Rajasthan",
+  "town": "Alwar (old city)",
+  "town_description": "Alwar is a historic city in northeastern Rajasthan, about 150 km south of Delhi, once the capital of the Alwar princely state. Its old city is a dense market quarter around the City Palace, Bala Quila and Tripoliya, with the Jagannath Temple standing on a raised platform near Nangli Circle and Choti Sabji Mandi.",
+  "tradition": "Hinduism (Vaishnavism - Jagannath cult)",
+  "travel": {
+    "airport": "Jaipur International Airport, about 150 km (verify)",
+    "railway": "Alwar Junction, about 3 km (per trawell.in - verify)",
+    "road": "In the old city; reach by foot or auto-rickshaw from the station - surrounding lanes are narrow and parking at a distance is recommended (per Wanderlog)"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March; Rath Yatra season",
+    "opening_hours": "trawell.in lists 6 AM-12 PM & 4 PM-8 PM, entry free; aroundus lists 7:00 AM-7:30 PM Mon-Sat (conflict - verify)"
+  }
+}

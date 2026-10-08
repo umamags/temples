@@ -1,0 +1,51 @@
+{
+  "alternate_names": [
+    "Kalikoh Temple",
+    "Kali Kho Temple"
+  ],
+  "deities": [
+    "Kali",
+    "Mahakali"
+  ],
+  "district": "Mirzapur",
+  "festivals": [
+    "Chaitra Navratri",
+    "Sharadiya (Ashwin) Navratri",
+    "Trikon Parikrama"
+  ],
+  "history": {
+    "dynasty": "None documented (mythological tradition)",
+    "period": "Ancient/mythological (no documented founding date - verify)",
+    "summary": "An ancient cave shrine to Goddess Kali, about 2 km from the Vindhyavasini temple, forming one corner of the Trikon Parikrama triangle. Legend says Kali assumed her Khechari Mudra here (face to the sky, mouth open) to slay the demon Raktabija, drinking his blood before a drop could fall and spawn new demons. The murti is a black stone with alert, silver-decorated eyes, kept in a small modified cave garlanded with lemons; the site is an important centre of tantric worship, with a Bhairav shrine behind it. CORRECTIONS: CSV town 'Vindhya' corrected to actual town Vindhyachal; CSV state 'Vindhya' corrected to Uttar Pradesh. Coordinates are approximate (street/temple-level match of limited relevance) - verify. No documented founding date; opening hours unverified - verify."
+  },
+  "id": "kali-khoh-temple-vindhyachal",
+  "latitude": 25.16333,
+  "longitude": 82.51063,
+  "media": [
+    "https://cdn.s3waas.gov.in/s396da2f590cd7246bbde0051047b0d6f7/uploads/2026/03/17728742304103.png"
+  ],
+  "name": "Kali Khoh Temple",
+  "sources": [
+    "https://www.hindu-blog.com/2016/04/kali-khoh-temple-at-vindhyachal-in.html",
+    "https://erakina.com/about-any-place/divinity-in-mirzapur-vindhyachal-erakina/",
+    "https://mirzapur.nic.in/tourist-place/kali-kho-temple/"
+  ],
+  "state": "Uttar Pradesh",
+  "town": "Vindhyachal",
+  "town_description": "Vindhyachal is a pilgrimage town in Mirzapur district, Uttar Pradesh, on the banks of the Ganga, forming with Mirzapur a single urban agglomeration. It is one of the principal Shakti Peethas of India, centred on the Vindhyavasini temple, with the Ashtabhuja and Kali Khoh temples completing the Trikon Parikrama triangle.",
+  "tradition": "Hinduism",
+  "travel": {
+    "airport": "Prayagraj Airport (~85 km) or Lal Bahadur Shastri Airport, Varanasi (~70 km; distances vary - verify)",
+    "railway": "Mirzapur Junction (~8-9 km)",
+    "road": "NH-19; about 2 km from the Vindhyavasini temple by road"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October-March; Navratri periods",
+    "opening_hours": "Daylight hours typical - unverified, verify"
+  }
+}

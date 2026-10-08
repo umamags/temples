@@ -1,0 +1,44 @@
+{
+  "alternate_names": [],
+  "deities": [
+    "Kali"
+  ],
+  "district": "Longleng",
+  "festivals": [
+    "Navratri",
+    "Diwali"
+  ],
+  "history": {
+    "dynasty": "",
+    "period": "",
+    "summary": "CSV DUPLICATE-ID FLAG: '2478b' is the second occurrence of duplicated CSV id 2478 — the 'a' row (id shyam-mandir-ghusuri-howrah) is Shree Shyam Mandir, Ghusuri, Howrah, West Bengal, a completely different temple. CSV STATE CORRECTION: the CSV 'state' column wrongly holds the town name 'Longleng'; the actual state is Nagaland. IDENTITY UNCONFIRMED: no web footprint found for a Kali temple in Longleng town after targeted searches; treated as a thin placeholder. Likely a small community shrine serving Longleng's small Hindu minority in a district that is overwhelmingly Christian (Phom Naga). No building date, founder, or history verifiable. Coordinates are town-level (map geocode of Longleng), NOT the shrine's exact location. media is empty: image search found no verifiable photo of this shrine; using an unrelated generic photo would misrepresent it. Opening hours and festivals are standard observances, not verified for this shrine."
+  },
+  "id": "kali-temple-longleng-nagaland",
+  "latitude": 26.49461,
+  "longitude": 94.82398,
+  "media": [],
+  "name": "Kali Temple",
+  "sources": [
+    "https://www.inheritage.foundation/explore/temple-in-nagaland",
+    "https://www.inheritage.foundation/explore/ahom-nagara-architecture-in-nagaland",
+    "https://tripxl.com/blog/temples-in-nagaland/"
+  ],
+  "state": "Nagaland",
+  "town": "Longleng",
+  "town_description": "Longleng is a remote district headquarters town in northern Nagaland, home of the Phom Naga tribe. It sits in steep, forested hills and is one of the least-visited district towns in the state. The population is overwhelmingly Christian, with only a very small Hindu presence.",
+  "tradition": "Hinduism",
+  "travel": {
+    "airport": "Jorhat, Assam (~90 km by road; verify)",
+    "railway": "Dimapur (nearest major railhead; verify)",
+    "road": "Via Mokokchung-Amguri/Jorhat road (verify)"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October-March",
+    "opening_hours": "Daytime only; hours not published (verify)"
+  }
+}

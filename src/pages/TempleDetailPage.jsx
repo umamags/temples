@@ -4,6 +4,7 @@ import { useTempleDetailJson } from '../data/useTempleDetailJson'
 import LeafletMap from '../components/LeafletMap'
 import TempleGallery from '../components/TempleGallery'
 import TempleJsonDetails from '../components/TempleJsonDetails'
+import VisitTempleButton from '../components/VisitTempleButton'
 
 export default function TempleDetailPage() {
   const { templeId } = useParams()
@@ -78,9 +79,16 @@ export default function TempleDetailPage() {
       <div className="temple-detail-container" style={{ maxWidth: '900px', margin: '0 auto' }}>
         {/* Temple Header */}
         <div style={{ borderBottom: '2px solid #e0e0e0', paddingBottom: '2rem', marginBottom: '2rem' }}>
-          <h1 style={{ fontSize: '2.5rem', marginBottom: '1rem', color: '#1a1a1a' }}>
-            {temple.name}
-          </h1>
+          <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'flex-start', gap: '2rem', marginBottom: '1rem' }}>
+            <h1 style={{ fontSize: '2.5rem', margin: 0, color: '#1a1a1a' }}>
+              {temple.name}
+            </h1>
+            <VisitTempleButton
+              templeId={temple.id}
+              templeName={temple.name}
+              templeData={temple}
+            />
+          </div>
 
           <div
             style={{
@@ -127,17 +135,6 @@ export default function TempleDetailPage() {
               </div>
             )}
 
-            {temple.year_constructed && (
-              <div>
-                <h3 style={{ color: '#666', fontSize: '0.9rem', textTransform: 'uppercase', marginBottom: '0.5rem' }}>
-                  Period
-                </h3>
-                <p style={{ fontSize: '1.1rem', color: '#1a1a1a' }}>
-                  {temple.year_constructed}
-                  {temple.year_constructed < 1000 ? ' CE' : ''}
-                </p>
-              </div>
-            )}
           </div>
         </div>
 
@@ -153,24 +150,6 @@ export default function TempleDetailPage() {
           </section>
         )}
 
-        {/* Website Link */}
-        {temple.website && (
-          <section style={{ marginBottom: '3rem' }}>
-            <h2 style={{ fontSize: '1.4rem', marginBottom: '1rem', color: '#1a1a1a' }}>
-              Visit
-            </h2>
-            <p>
-              <a
-                href={temple.website}
-                target="_blank"
-                rel="noopener noreferrer"
-                style={{ color: '#0066cc', textDecoration: 'underline' }}
-              >
-                Official Website →
-              </a>
-            </p>
-          </section>
-        )}
 
         {/* Map */}
         {(jsonData?.latitude && jsonData?.longitude) || (temple.lat && temple.lon) ? (
@@ -206,19 +185,6 @@ export default function TempleDetailPage() {
         {/* Photo Gallery */}
         <TempleGallery templeId={temple.id} templeName={temple.name} />
 
-        {/* Image Gallery */}
-        {temple.image_url && (
-          <section style={{ marginBottom: '3rem' }}>
-            <h2 style={{ fontSize: '1.4rem', marginBottom: '1rem', color: '#1a1a1a' }}>
-              Gallery
-            </h2>
-            <img
-              src={temple.image_url}
-              alt={temple.name}
-              style={{ maxWidth: '100%', height: 'auto', borderRadius: '8px' }}
-            />
-          </section>
-        )}
 
         {/* Back Button */}
         <div style={{ marginTop: '3rem', paddingTop: '2rem', borderTop: '1px solid #ddd' }}>

@@ -1,0 +1,49 @@
+{
+  "alternate_names": [
+    "Veera Narayana Temple",
+    "Sri Mahalakshmi Sametha Sri Veeranarayana Temple"
+  ],
+  "deities": [
+    "Lord Vishnu as Veeranarayana, with Goddess Mahalakshmi on his chest (presiding)",
+    "Subsidiary shrines reported on site: Raghavendra Swamy, Hanuman, Eshwara and Lakshminarasimha (visitor reports — verify)"
+  ],
+  "district": "Gadag",
+  "festivals": [
+    "Vaikuntha Ekadashi (likely; not confirmed in the sources consulted — verify)"
+  ],
+  "history": {
+    "dynasty": "Hoysala — built c. 1117 CE by King Vishnuvardhana. FLAG: the Wikipedia infobox instead says '11th century, Chalukyas of Kalyani'; sources conflict on the builder/dynasty, so treat the Hoysala 1117 CE attribution as the commonly repeated tradition.",
+    "period": "c. 1117 CE (Hoysala attribution); a protected monument under the Karnataka division of the ASI",
+    "summary": "The Veeranarayana Temple at Hanuman Gardi, Agrahar in Gadag city is the town's historic Vaishnava temple. Tradition links it to Hoysala king Vishnuvardhana (r. c. 1108-1152), who converted to Srivaishnavism under the saint Ramanujacharya and built five Vishnu temples — at Gadag, Tondanur, Belur, Talakad and Melkote. The structure is an amalgam of Chalukya, Hoysala and Vijayanagara work (garbhagriha in Chalukya manner, sabha mandapa pillars in Hoysala manner, mahadwara in Vijayanagara manner), and the priests are Madhva Brahmins. The Kannada poet Kumara Vyasa is said to have composed his 'Karnataka Bharatha Katha Manjari' (a Kannada Mahabharata) seated at a pillar in the sabha mandapa. IDENTITY: well documented (Wikipedia article, ASI protection) — the thin-placeholder worry was unfounded. CSV NOTE: the CSV's 'state' column wrongly holds the town name 'Gadag' — the temple is in the state of Karnataka."
+  },
+  "id": "veeranarayana-temple-gadag",
+  "latitude": 15.431672,
+  "longitude": 75.627019,
+  "media": [
+    "https://itin-dev.wanderlogstatic.com/freeImage/AEBd0FDsanurDZRK6AYH4xAULCrEYp9O"
+  ],
+  "name": "Veeranarayana Temple",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Veeranarayana_Temple,_Gadag",
+    "https://lightuptemples.com/gadag-sri-mahalakshmi-sametha-sri-veeranarayana-temple-karnataka/",
+    "https://orangenews9.com/veeranarayana-temple-gadag/"
+  ],
+  "state": "Karnataka",
+  "town": "Gadag",
+  "town_description": "Gadag (Gadag-Betageri) is a town and district headquarters in north Karnataka, about 60 km from Hubballi. It is one of the great centres of Kalyana Chalukya art — some 50 temples were built in the region between 1050 and 1200 CE — with the temple cluster of Lakkundi about 13-17 km away.",
+  "tradition": "Vaishnavism (Sri Vaishnava; priests are Madhva Brahmins)",
+  "travel": {
+    "airport": "Hubballi Airport (HBX), approx. 55-60 km.",
+    "railway": "Gadag Junction, a short distance from the temple area, well connected to Hubballi.",
+    "road": "In the Hanuman Gardi / Agrahar area of Gadag-Betageri (pin 582101); autos within town."
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March; weekdays are quiet, weekends crowded.",
+    "opening_hours": "Sources conflict: one listing gives 5:30 AM-8:00 PM straight through, another gives 5:30 AM-12:00 PM and 5:00-8:00 PM. VERIFY locally before visiting."
+  }
+}

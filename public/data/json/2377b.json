@@ -1,0 +1,44 @@
+{
+  "alternate_names": [],
+  "deities": [
+    "Rani Sati (Narayani Devi, Dadi)"
+  ],
+  "district": "Sirsa",
+  "festivals": [
+    "Bhado Amavasya"
+  ],
+  "history": {
+    "dynasty": "Unknown",
+    "period": "Unknown",
+    "summary": "Identity uncertain/provisional: no dedicated web footprint was found for a 'Rani Sati Temple' in Sirsa town, Haryana. Sati Dadi listings exist elsewhere in Sirsa district (e.g. a 'Sati Dadi Temple' at Neharana, Sirsa sub-district, and 'Rani Sati Dadi Temple' at Kumharia, Nathusari Chopta), but none can be confirmed as this CSV row's referent. This entry is a thin local-shrine placeholder and must NOT be conflated with the famous Rani Sati Temple at Jhunjhunu, Rajasthan. Bhado Amavasya (the new-moon day of Bhadra) is the principal festival of Rani Sati worship generally; its observance at this specific Sirsa shrine is unverified. The CSV 'state' column wrongly holds the town name; the actual state is Haryana. Opening hours, build date and management details are unknown."
+  },
+  "id": "rani-sati-temple-sirsa",
+  "latitude": 29.55932,
+  "longitude": 75.07384,
+  "media": [],
+  "name": "Rani Sati Temple",
+  "sources": [
+    "https://meta.ai?place_id=1599653224755539",
+    "https://meta.ai?place_id=1142215487420188",
+    "https://en.wikipedia.org/wiki/Rani_Sati_Temple",
+    "https://thetempleguru.com/listing/rani-sati-temple/"
+  ],
+  "state": "Haryana",
+  "town": "Sirsa",
+  "town_description": "Sirsa is a city in western Haryana near the Rajasthan and Punjab borders and the headquarters of Sirsa district. It lies on the banks of the Ghaggar river and is connected to Delhi and Hisar by road and rail. The city is known for its ancient Sarasvati-basin setting and as a regional market centre.",
+  "tradition": "Hindu",
+  "travel": {
+    "airport": "Hisar Airport, ~90 km; Indira Gandhi International Airport, Delhi, ~245 km (verify)",
+    "railway": "Sirsa railway station",
+    "road": "Sirsa town; on NH-9 between Hisar and Dabwali"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October–March",
+    "opening_hours": "Unknown (verify)"
+  }
+}

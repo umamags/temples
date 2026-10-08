@@ -21,17 +21,7 @@ try {
             t.id,
             t.name,
             t.deity,
-            t.year_constructed,
             t.location_note,
-            t.image_url,
-            t.website,
-            t.festivals_and_events,
-            t.source,
-            t.description,
-            t.photo_urls,
-            t.video_urls,
-            t.lat as temple_lat,
-            t.lon as temple_lon,
             l.id as location_id,
             l.name as city,
             l.kind as type,
@@ -61,31 +51,16 @@ try {
 
     $row = $result->fetch_assoc();
 
-    // Use temple's lat/lon if available, otherwise fall back to location's lat/lon
-    $lat = $row['temple_lat'] !== null ? (float)$row['temple_lat'] : (float)$row['location_lat'];
-    $lon = $row['temple_lon'] !== null ? (float)$row['temple_lon'] : (float)$row['location_lon'];
-
     $templeData = [
         'id' => (int)$row['id'],
         'name' => $row['name'],
         'deity' => $row['deity'],
-        'year_constructed' => $row['year_constructed'] ? (int)$row['year_constructed'] : null,
         'location_note' => $row['location_note'],
-        'image_url' => $row['image_url'],
-        'website' => $row['website'],
-        'source' => $row['source'],
-        'description' => $row['description'],
-        'photo_urls' => $row['photo_urls'] ? json_decode($row['photo_urls'], true) : [],
-        'video_urls' => $row['video_urls'] ? json_decode($row['video_urls'], true) : [],
-        'festivals_and_events' => $row['festivals_and_events'] ?
-            json_decode($row['festivals_and_events'], true) : [],
         'town' => $row['city'],
         'city' => $row['city'],
         'type' => $row['type'],
-        'lat' => $lat,
-        'lon' => $lon,
-        'temple_lat' => $row['temple_lat'] !== null ? (float)$row['temple_lat'] : null,
-        'temple_lon' => $row['temple_lon'] !== null ? (float)$row['temple_lon'] : null,
+        'lat' => (float)$row['location_lat'],
+        'lon' => (float)$row['location_lon'],
         'location_lat' => (float)$row['location_lat'],
         'location_lon' => (float)$row['location_lon'],
         'state' => $row['state'],

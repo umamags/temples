@@ -1,0 +1,42 @@
+{
+  "alternate_names": [],
+  "deities": [
+    "Lord Shiva"
+  ],
+  "district": "Peren",
+  "festivals": [
+    "Maha Shivratri"
+  ],
+  "history": {
+    "dynasty": "unknown",
+    "period": "unknown",
+    "summary": "UNCERTAIN IDENTITY: No Hindu temple in Peren town appears in any web directory searched — the nearest directory listings are all 20-35 km away in the Dimapur/Medziphema belt. This entry is a thin placeholder built from the CSV hint 'Local Hindu shrine dedicated to Lord Shiva'. Coordinates are the geocoder's Peren town centre, NOT a verified shrine location. CSV correction: the 'state' column held the town name; the actual state is Nagaland."
+  },
+  "id": "shiva-temple-peren-nagaland",
+  "latitude": 25.53258,
+  "longitude": 93.73906,
+  "media": [],
+  "name": "Shiva Temple",
+  "sources": [
+    "http://www.onefivenine.com/india/Listing/Town/temples/Peren/Peren",
+    "https://www.indiainfo.net/s/hindu-temple-in-nagaland"
+  ],
+  "state": "Nagaland",
+  "town": "Peren",
+  "town_description": "Peren is the headquarters town of Peren district in southern Nagaland, in the Zeliangrong Naga (Zeme, Liangmai, Rongmei) heartland near Ntangki National Park. A small administrative hill town on the Dimapur-Kohima corridor; Indian visitors from outside Nagaland need an Inner Line Permit (ILP).",
+  "tradition": "Hinduism",
+  "travel": {
+    "airport": "Nearest airport: Dimapur (approx. 100 km; verify locally)",
+    "railway": "Nearest railhead: Dimapur, then road (verify locally)",
+    "road": "Peren town lies on the Dimapur-Kohima corridor, reached by road from Dimapur via Jalukie (distances approximate; verify locally)"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March",
+    "opening_hours": "Unverified — small local shrine, likely open morning and evening (verify on visit)."
+  }
+}

@@ -102,3 +102,5 @@ Changed on 8/3/2026 again and again
 Skill added - temple-town-top-temples
 
 php -S localhost:8000
+npm run dev 
+

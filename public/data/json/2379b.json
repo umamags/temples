@@ -1,0 +1,42 @@
+{
+  "alternate_names": [],
+  "deities": [
+    "Shiva"
+  ],
+  "district": "Fatehabad",
+  "festivals": [
+    "Maha Shivratri"
+  ],
+  "history": {
+    "dynasty": "Unknown",
+    "period": "Unknown",
+    "summary": "Identity uncertain/provisional: no specific web footprint was found for a 'Bhuna Shiv Temple' in Bhuna town, Fatehabad district, Haryana. A generic 'Shiv Temple' is listed at Bhuna (meta.ai, coords 29.536113, 75.704983), which may or may not be the intended referent. This entry is a thin local-shrine placeholder. Maha Shivratri observance is assumed by convention for a Shiva shrine but is unverified for this specific temple. The CSV 'state' column wrongly holds the town name; the actual state is Haryana. Build date, hours and management are unknown."
+  },
+  "id": "bhuna-shiv-temple-fatehabad",
+  "latitude": 29.54181,
+  "longitude": 75.70661,
+  "media": [],
+  "name": "Bhuna Shiv Temple",
+  "sources": [
+    "https://meta.ai?place_id=910796357921152",
+    "https://alchetron.com/Bhuna,-Haryana"
+  ],
+  "state": "Haryana",
+  "town": "Bhuna",
+  "town_description": "Bhuna is a small town in Fatehabad district, Haryana (PIN 125111), about 26 km from Fatehabad and 18 km from Uklana. According to local tradition it was founded by Bhun Singh, son of Raja Bhim; it is best known for the temple of Baba Ranadhir, which draws followers from across the country.",
+  "tradition": "Hindu (Shaiva)",
+  "travel": {
+    "airport": "Hisar Airport, ~75 km (verify); Indira Gandhi International Airport, Delhi, ~230 km (verify)",
+    "railway": "Fatehabad / Ratia railway stations; Hisar Junction (verify)",
+    "road": "Bhuna town, ~26 km from Fatehabad on MDR102"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October–March",
+    "opening_hours": "Unknown (verify)"
+  }
+}

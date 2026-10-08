@@ -15,10 +15,7 @@ const TempleForm = forwardRef(function TempleForm({ templeId, onSuccess, onCance
     name: '',
     deity: '',
     location_id: '',
-    year_constructed: '',
-    location_note: '',
-    website: '',
-    festivals_and_events: ''
+    location_note: ''
   })
 
   useEffect(() => {
@@ -69,12 +66,7 @@ const TempleForm = forwardRef(function TempleForm({ templeId, onSuccess, onCance
           name: temple.name || '',
           deity: temple.deity || '',
           location_id: temple.location_id || '',
-          year_constructed: temple.year_constructed || '',
-          location_note: temple.location_note || '',
-          website: temple.website || '',
-          festivals_and_events: Array.isArray(temple.festivals_and_events)
-            ? temple.festivals_and_events.join('\n')
-            : ''
+          location_note: temple.location_note || ''
         })
       }
     } catch (err) {
@@ -113,16 +105,7 @@ const TempleForm = forwardRef(function TempleForm({ templeId, onSuccess, onCance
       const baseUrl = getApiBaseUrl()
       const endpoint = templeId ? 'updateTemple' : 'addTemple'
 
-      const festivals = formData.festivals_and_events
-        .split('\n')
-        .map(f => f.trim())
-        .filter(f => f)
-
-      const payload = {
-        ...formData,
-        festivals_and_events: festivals,
-        year_constructed: formData.year_constructed ? parseInt(formData.year_constructed) : null
-      }
+      const payload = { ...formData }
 
       if (templeId) {
         payload.temple_id = templeId
@@ -270,27 +253,6 @@ const TempleForm = forwardRef(function TempleForm({ templeId, onSuccess, onCance
 
       <div style={{ marginBottom: '1.5rem' }}>
         <label style={{ display: 'block', marginBottom: '0.5rem', fontWeight: 'bold' }}>
-          Year Constructed
-        </label>
-        <input
-          type="number"
-          name="year_constructed"
-          value={formData.year_constructed}
-          onChange={handleChange}
-          placeholder="e.g., 1623"
-          style={{
-            width: '100%',
-            padding: '0.75rem',
-            borderRadius: '4px',
-            border: '1px solid #ddd',
-            fontSize: '1rem',
-            boxSizing: 'border-box'
-          }}
-        />
-      </div>
-
-      <div style={{ marginBottom: '1.5rem' }}>
-        <label style={{ display: 'block', marginBottom: '0.5rem', fontWeight: 'bold' }}>
           Location Note
         </label>
         <textarea
@@ -298,49 +260,6 @@ const TempleForm = forwardRef(function TempleForm({ templeId, onSuccess, onCance
           value={formData.location_note}
           onChange={handleChange}
           placeholder="Additional location details..."
-          rows="3"
-          style={{
-            width: '100%',
-            padding: '0.75rem',
-            borderRadius: '4px',
-            border: '1px solid #ddd',
-            fontSize: '1rem',
-            boxSizing: 'border-box',
-            fontFamily: 'inherit'
-          }}
-        />
-      </div>
-
-      <div style={{ marginBottom: '1.5rem' }}>
-        <label style={{ display: 'block', marginBottom: '0.5rem', fontWeight: 'bold' }}>
-          Website
-        </label>
-        <input
-          type="url"
-          name="website"
-          value={formData.website}
-          onChange={handleChange}
-          placeholder="https://example.com"
-          style={{
-            width: '100%',
-            padding: '0.75rem',
-            borderRadius: '4px',
-            border: '1px solid #ddd',
-            fontSize: '1rem',
-            boxSizing: 'border-box'
-          }}
-        />
-      </div>
-
-      <div style={{ marginBottom: '1.5rem' }}>
-        <label style={{ display: 'block', marginBottom: '0.5rem', fontWeight: 'bold' }}>
-          Festivals & Events (one per line)
-        </label>
-        <textarea
-          name="festivals_and_events"
-          value={formData.festivals_and_events}
-          onChange={handleChange}
-          placeholder="Panguni Peruvizha&#10;Arubathimoovar Festival"
           rows="3"
           style={{
             width: '100%',

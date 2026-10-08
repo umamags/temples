@@ -1,0 +1,51 @@
+{
+  "alternate_names": [
+    "Gudem Satyanarayana Swamy Temple",
+    "Gudem Gutta Satyanarayana Temple",
+    "Annavaram of Telangana"
+  ],
+  "deities": [
+    "Satyanarayana Swamy (Vishnu)",
+    "Rama Devi (Lakshmi)"
+  ],
+  "district": "Mancherial",
+  "festivals": [
+    "Karthika Masam",
+    "Satyanarayana Vratam",
+    "Purnima (full moon)"
+  ],
+  "history": {
+    "dynasty": "Uncertain (local medieval shrine; no sourced dynastic attribution found)",
+    "period": "Medieval (date unverified; sources call it a medieval temple)",
+    "summary": "Hilltop Vaishnava shrine at Gudem village (Dandepally mandal), on a hill overlooking the Godavari, about 40 km from Mancherial. Presiding deity is Vishnu worshipped as Satyanarayana Swamy with consort Lakshmi as Rama Devi; the complex also has an Ayyappa shrine and ~220 steps to the sanctum. Popularly called the 'Annavaram of Telangana'. Karthika Masam (Oct-Nov) draws the largest crowds, when devotees take a holy dip in the Godavari and perform Satyanarayana Vratam. CSV town 'Adilabad' corrected: actual town is Gudem village; Dandepally mandal lies in Mancherial district (carved out of Adilabad in 2016). CSV state 'Adilabad' corrected: Telangana. CONFLICT: sources disagree on opening hours (6:00 AM-9:00 AM & 5:30-8:00 PM vs 8:30 AM-10:00 PM vs 9:00 AM-5:00 PM) and on distance from Mancherial (32-40 km) - verify locally."
+  },
+  "id": "gudem-satyanarayana-swamy-temple",
+  "latitude": 18.90698,
+  "longitude": 79.17162,
+  "media": [],
+  "name": "Gudem Satyana Narayana Swamy Temple",
+  "sources": [
+    "https://www.hindu-blog.com/2015/07/gudem-temple-in-telangana-gudem.html",
+    "https://www.blogbadi.com/2024/11/gudem-satyanarayana-swamy-temple-in-telangana-state.html",
+    "https://holyshrines.in/satyanarayana-swamy-temple-gudem-gutta/",
+    "https://www.indiainfo.net/place/Satyanarayana-swamy-temple-gudem-gutta-1882570"
+  ],
+  "state": "Telangana",
+  "town": "Gudem",
+  "town_description": "Gudem is a village in Dandepally mandal of Mancherial district, Telangana, set on the banks of the Godavari on the Karimnagar-Adilabad border belt. Its claim to fame is the Gudem Gutta hilltop Satyanarayana Swamy temple, reached by road from Mancherial (about 32-40 km), Luxettipet (about 7 km) and Karimnagar (about 61 km).",
+  "tradition": "Hinduism",
+  "travel": {
+    "airport": "Rajiv Gandhi International Airport, Hyderabad (about 226-260 km; sources differ)",
+    "railway": "Mancherial (about 32-40 km; sources differ)",
+    "road": "Buses from Mancherial (about 32 km), Luxettipet (about 7 km) and Karimnagar (about 61 km); Hyderabad about 226 km"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to February; Karthika Masam (October-November) is the peak season with the heaviest crowds",
+    "opening_hours": "CONFLICT across sources: 6:00 AM-9:00 AM & 5:30-8:00 PM vs 8:30 AM-10:00 PM vs 9:00 AM-5:00 PM - verify locally"
+  }
+}

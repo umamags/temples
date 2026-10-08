@@ -1,0 +1,50 @@
+{
+  "alternate_names": [
+    "Ibudhou Pakhangba Laiseng"
+  ],
+  "deities": [
+    "Ibudhou Pakhangba"
+  ],
+  "district": "Bishnupur",
+  "festivals": [
+    "Pakhangba Cheng Hongba",
+    "Moirang Lai Haraoba (May)"
+  ],
+  "history": {
+    "dynasty": "",
+    "period": "",
+    "summary": "A shrine (laiseng) dedicated to Ibudhou Pakhangba, a primordial deity of the Meitei Sanamahism tradition, reported at Moirang. No independent web source documents a Pakhangba shrine at Moirang specifically — documented Pakhangba shrines are at Kangla (Imphal, rebuilt and consecrated 2010), Uyal Cheirao Ching (Thoubal district), Puruk Shoubi (Kongba Uchekon, Imphal, with legend from the reign of King Charairongba 1697-1709 CE), and Kakching Garden — so identity and exact location are PROVISIONAL and should be verified on the ground. Moirang itself is the principal seat of Ibudhou Thangjing worship. FLAG: tradition is Sanamahism (indigenous Meitei religion), not Hinduism. FLAG: the CSV 'state' column wrongly holds the town name (Moirang); the shrine is in MANIPUR. FLAG: the media image shows the Pakhangba Temple inside Kangla fort (a representative Pakhangba laiseng), not this Moirang shrine itself. Opening hours and founding date are unverified (verify on site)."
+  },
+  "id": "ebudhou-pakhang-laiseng-moirang",
+  "latitude": 24.49721,
+  "longitude": 93.76521,
+  "media": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Southeastern_view_of_the_Pakhangba_Temple_inside_the_Kangla_fort_in_Imphal.jpg/1280px-Southeastern_view_of_the_Pakhangba_Temple_inside_the_Kangla_fort_in_Imphal.jpg?utm_source=en.wikivoyage.org&utm_campaign=index&utm_content=thumbnail"
+  ],
+  "name": "Ebudhou Pakhang Laiseng",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pakhangba_Temple,_Kangla",
+    "https://en.wikipedia.org/wiki/Pakhangba_Temple,_Uyal_Cheirao_Ching",
+    "https://en.wikipedia.org/wiki/Thangjing_Temple,_Moirang",
+    "https://en.wikipedia.org/wiki/Iputhou_Pakhangba_Laishang",
+    "https://www.youtube.com/watch?v=KmpQFZ9NB14"
+  ],
+  "state": "Manipur",
+  "town": "Moirang",
+  "town_description": "Moirang, in Bishnupur district of Manipur about 45 km from Imphal on the Tiddim Road, is one of the oldest towns of the Manipur valley. It was the seat of the ancient Keke Moirang kingdom and remains a major centre of Meitei culture — home to the historic Ibudhou Thangjing Temple, the Khamba-Thoibi dance tradition, the annual Moirang Lai Haraoba festival, the INA Memorial, and the Loktak Lake shoreline.",
+  "tradition": "Sanamahism (Meitei religion)",
+  "travel": {
+    "airport": "Bir Tikendrajit International Airport, Imphal (~45 km from Moirang; ~50 km from Kumbi)",
+    "railway": "Nearest major railhead is Dimapur (Nagaland), ~200 km; the nearest in-state station is Jiribam.",
+    "road": "Moirang lies on the Tiddim Road (Imphal-Churachandpur road), about 45 km south of Imphal; well connected by buses and shared taxis from Imphal."
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March (and May for the Moirang Lai Haraoba festival)",
+    "opening_hours": "Not documented; typical Meitei shrines open around sunrise to sunset (verify on site)"
+  }
+}

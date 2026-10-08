@@ -157,9 +157,6 @@ export default function TempleTable({ temples, title = 'Temples', showStateCity 
                   {showStateCity &&
                     (format === 'temples2' ? <th>Town</th> : <th>City</th>)}
                   {format === 'temples2' && <th>Location Note</th>}
-                  <th>Year Constructed</th>
-                  <th>Festivals</th>
-                  {format !== 'temples2' && <th>Wiki URL</th>}
                 </tr>
               </thead>
               <tbody>
@@ -218,28 +215,6 @@ export default function TempleTable({ temples, title = 'Temples', showStateCity 
                       {format === 'temples2' && (
                         <td style={{ fontSize: '0.9rem', color: '#555' }}>
                           {temple.location_note}
-                        </td>
-                      )}
-                      <td>{temple.year_constructed || '—'}</td>
-                      <td>
-                        {temple.festivals_and_events &&
-                        temple.festivals_and_events.length > 0
-                          ? temple.festivals_and_events.join(', ')
-                          : '—'}
-                      </td>
-                      {format !== 'temples2' && (
-                        <td>
-                          {temple.wiki_url ? (
-                            <a
-                              href={temple.wiki_url}
-                              target="_blank"
-                              rel="noopener noreferrer"
-                            >
-                              Link
-                            </a>
-                          ) : (
-                            '—'
-                          )}
                         </td>
                       )}
                     </tr>

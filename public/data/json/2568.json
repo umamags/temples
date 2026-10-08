@@ -1,0 +1,48 @@
+{
+  "alternate_names": [
+    "Surkanda Devi Temple, Dhanaulti"
+  ],
+  "deities": [
+    "Surkanda Devi (form of Parvati/Durga)"
+  ],
+  "district": "Tehri Garhwal",
+  "festivals": [
+    "Ganga Dussehra",
+    "Navratri"
+  ],
+  "history": {
+    "dynasty": "Unknown - early shrine; temple complex attributed to Garhwal rulers",
+    "period": "Ancient (Puranic); masonry structure medieval or later (exact construction date uncertain)",
+    "summary": "Revered Shakti Peetha on Surkut mountain at about 2,756 m, where Sati's head ('sir') is believed to have fallen - 'Surkanda' from 'Sirkhanda'. Exact construction date is uncertain; one source attributes the built structure to the Parmar-era Garhwal rulers (8th-12th c. CE), unverified. Local discovery legend credits Anand Singh Jardhari of Jardhar village. Reached by a 2-3 km uphill trek from Kaddukhal. CSV town 'Tehri' is wrong - the temple is near Dhanaulti (about 8 km), not Tehri town; corrected to Dhanaulti. CSV 'state' column holds town names - corrected to Uttarakhand."
+  },
+  "id": "surkanda-devi-temple",
+  "latitude": 30.41139,
+  "longitude": 78.28846,
+  "media": [
+    "https://www.tusktravel.com/blog/wp-content/uploads/2022/02/Surkanda-devi-Temple-Uttarakhand.jpg"
+  ],
+  "name": "Surkanda Devi Temple",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Surkanda_Devi",
+    "https://cultureandheritage.org/surkanda-devi-temple-dhanaulti-uttarakhand",
+    "https://www.makemytrip.com/tripideas/attractions/pray-at-surkanda-devi-temple?pdtCtx=eyJqaWQiOiJqb3VybmV5XzE3ODc3MTc1NTc4NTRfaHVveWg3MWk5Iiwic2MiOm51bGwsInBwIjoiZGVzdGluYXRpb25fY2l0eSJ9"
+  ],
+  "state": "Uttarakhand",
+  "town": "Dhanaulti",
+  "town_description": "Dhanaulti is a quiet Himalayan hill station in Tehri Garhwal, about 25 km from Mussoorie, known for deodar forests, mountain views and its proximity to Kanatal.",
+  "tradition": "Hinduism",
+  "travel": {
+    "airport": "Jolly Grant Airport, Dehradun (nearest airport)",
+    "railway": "Dehradun and Rishikesh (nearest railheads)",
+    "road": "About 8 km from Dhanaulti and 33 km from Mussoorie; a 2-3 km uphill trek from Kaddukhal village where vehicles are parked."
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March; Ganga Dussehra (May-June) draws large crowds.",
+    "opening_hours": "Summer 5 AM to 7 PM, winter 7 AM to 5 PM (verify before visiting)."
+  }
+}

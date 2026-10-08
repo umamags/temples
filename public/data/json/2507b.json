@@ -1,0 +1,48 @@
+{
+  "alternate_names": [
+    "Sukh Nivas Mahal"
+  ],
+  "deities": [
+    "Shiva"
+  ],
+  "district": "Bundi",
+  "festivals": [
+    "Bundi Utsav (November, town-wide, reported - verify)"
+  ],
+  "history": {
+    "dynasty": "Hada Chauhan of Bundi",
+    "period": "18th century CE (1773; some sources give 1776)",
+    "summary": "Sukh Mahal (Sukh Nivas Mahal) is a lakeside palace on the Jait Sagar (Sukh Sagar) lake built in 1773 (some sources 1776) by Rao Raja Vishnu Singh, under Diwan Sukhram, as a royal summer retreat; Rudyard Kipling is traditionally said to have stayed here. UNCERTAIN IDENTITY: no consulted source documents a Shiva temple named 'Sukh Mahal Shiva Temple'. The CSV name appears to be a misnomer conflating the palace with a shrine; a small Shiva shrine may exist in or near the complex (a generic 'Shiv Mandir' is listed near the lake on map services) but this is unverified - treat deities, festivals and opening hours below as provisional. Composite ticket (Rs 75) covers Sukh Mahal, Rani Ji ki Baori and the 84 Pillared Cenotaph."
+  },
+  "id": "sukh-mahal-shiva-temple-bundi",
+  "latitude": 25.45282,
+  "longitude": 75.64179,
+  "media": [
+    "https://www.beyondyatra.com/assets/images/imgtg/bundi/pv/sukh_mahal_bundi_rajasthan_india.jpg"
+  ],
+  "name": "Sukh Mahal Shiva Temple",
+  "sources": [
+    "https://newsmakhani.com/ministry-of-tourism-organises-a-webinar-on-bundi-architectural-heritage-of-a-forgotten-rajput-capital/",
+    "https://ignca.gov.in/asi_reports/rjbun_190.pdf",
+    "https://www.koreatripguide.com/culture/cultural-exploration-around-bundi-taragarh-fort-sukh-mahal",
+    "https://www.thisismyindia.com/rajasthan/travel/bundi.html"
+  ],
+  "state": "Rajasthan",
+  "town": "Bundi",
+  "town_description": "Bundi, the 'City of Stepwells', is a historic Hadoti town in southeastern Rajasthan centred on the Taragarh Fort and the Garh Palace, famous for its ornate baoris (Rani Ji ki Baori), cenotaphs and lakes including Jait Sagar.",
+  "tradition": "Hinduism",
+  "travel": {
+    "airport": "Jaipur International Airport (~210 km)",
+    "railway": "Bundi railway station (well connected on the Delhi-Mumbai route)",
+    "road": "NH-116A via Kota (42 km) or Jaipur; Sukh Mahal is ~3 km from the Bundi bus stand"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March (also the Bundi Utsav season)",
+    "opening_hours": "Temple hours unverified; the Sukh Mahal museum/compound is visited during daylight hours (typically around 9:30 AM-5:30 PM) - verify before visiting"
+  }
+}

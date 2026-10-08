@@ -1,0 +1,48 @@
+{
+  "alternate_names": [
+    "Katarmal Surya Temple",
+    "Bara Aditya Temple",
+    "Baraditya Temple"
+  ],
+  "deities": [
+    "Surya (as Burhadita/Vriddhaditya, the old Sun God)"
+  ],
+  "district": "Almora",
+  "festivals": [],
+  "history": {
+    "dynasty": "Katyuri (built by King Katarmalla)",
+    "period": "9th century CE (some architectural analysis suggests 13th century - verify)",
+    "summary": "Ancient Sun temple at Katarmal village, about 17 km from Almora, at ~2,116 m. Built in the 9th century by Katyuri king Katarmalla; dedicated to Surya as Burhadita/Vriddhaditya. Called the second most important Sun temple in India after Konark. East-facing main shrine surrounded by 44-45 subsidiary shrines (Shiva-Parvati, Lakshmi-Narayana); fine carved wooden doors were moved to the National Museum, Delhi after theft of the original deity. Designated a monument of national importance. PERIOD NOTE: one architectural analysis places it around the 13th century (verify). No documented annual festival found in sources (flagged). CSV town/state correction: CSV says 'Almora Cantonment'; actual town is Almora, and the state is Uttarakhand."
+  },
+  "id": "katarmal-sun-temple",
+  "latitude": 29.63192,
+  "longitude": 79.61487,
+  "media": [
+    "https://www.easeindiatrip.com/blog/wp-content/uploads/2026/05/Katarmal-Sun-Temple-Almora.jpg"
+  ],
+  "name": "Katarmal Sun Temple",
+  "sources": [
+    "https://www.trawell.in/uttarakhand/almora/katarmal-sun-temple",
+    "https://traveltriangle.com/blog/katarmal-sun-temple/?utm_campaign=blog_rel_link&utm_source=blog&utm_medium=organic&referer=blog_rel_link",
+    "https://travelchardham.com/spot/katarmal-sun-temple",
+    "https://testbook.com/question-answer/the-katarmal-sun-temple-an-architecturally-sign--69f45ad86c454973a03d8ebc"
+  ],
+  "state": "Uttarakhand",
+  "town": "Almora",
+  "town_description": "Almora is a historic hill town in Kumaon, Uttarakhand, perched on a ridge of the Kumaon Hills at about 1,638 m. A former Chand-dynasty capital, it is known for its temples, bazaars, and panoramic Himalayan views.",
+  "tradition": "Hinduism",
+  "travel": {
+    "airport": "Pantnagar Airport (~142 km)",
+    "railway": "Kathgodam Railway Station (~90 km)",
+    "road": "Motorable road to Kosi (nearest town, ~1.5 km from temple); final ~2 km is a foot trek through villages"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "May to September ideal per travel guides; monsoon (heavy rains) should be avoided",
+    "opening_hours": "9:00 AM to 6:00 PM (single-source claim - verify)"
+  }
+}

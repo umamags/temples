@@ -1,0 +1,53 @@
+{
+  "alternate_names": [
+    "Sé Catedral de Santa Catarina",
+    "St. Catherine of Alexandria Cathedral"
+  ],
+  "deities": [
+    "St. Catherine of Alexandria"
+  ],
+  "district": "North Goa",
+  "festivals": [
+    "Feast of St. Catherine (25 November)",
+    "Christmas",
+    "Easter"
+  ],
+  "history": {
+    "dynasty": "Portuguese colonial",
+    "period": "1562–1619 (construction begun 1562 under King Dom Sebastião; consecrated 1640; present-building completion also given as 1631 by one source — conflict, verify)",
+    "summary": "NOT A HINDU TEMPLE — keep-or-drop decision needed. Roman Catholic cathedral in Old Goa dedicated to St. Catherine of Alexandria, patron saint of the city. Built to commemorate the Portuguese capture of Goa on 25 November 1510 (St. Catherine's feast day) by Afonso de Albuquerque; it replaced an earlier church (chapel 1510–11, church completed 1531, raised to cathedral 1533, metropolitan see by papal bull 'Etsi Sancta', 1558). Commissioned in the 16th century by Governor George Cabral, designed by Julio Simao and Ambrosio Argueiro; actual construction began 1562, completed 1619 (consecrated 1640; goanchurches.info dates the present building's completion to 1631 — verify). At 76 m × 55 m, among the largest churches in Asia; Portuguese-Manueline exterior (Tuscan) with Corinthian interior and barrel vault. One of two facade towers collapsed in 1776 (lightning) and was never rebuilt. The surviving tower holds the Golden Bell (cast at Cuncolim, 1652). Part of the UNESCO 'Churches and Convents of Goa' World Heritage Site. CSV NOTE: the CSV 'state' column wrongly holds the town name; the actual state is Goa."
+  },
+  "id": "se-cathedral-old-goa",
+  "latitude": 15.50382,
+  "longitude": 73.91234,
+  "media": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Goa_vecchia%2C_cattedrale_della_s%C3%A9%2C_esterno_02.jpg/3840px-Goa_vecchia%2C_cattedrale_della_s%C3%A9%2C_esterno_02.jpg"
+  ],
+  "name": "Se Cathedral",
+  "sources": [
+    "https://remotetraveler.com/se-cathedral-goa/",
+    "https://traveltriangle.com/blog/st-catherine-of-alexandria-church/",
+    "https://cultureandheritage.org/2024/03/se-cathedral-the-largest-church-in-asia-and-a-testament-to-goas-portuguese-heritage.html",
+    "https://goanchurches.info/church/st-catherine-of-alexandria-cathedral-church-old-goa-goa/",
+    "https://www.tripoto.com/goa/places-to-visit/se-cathedral",
+    "https://saveandtravel.in/5-most-popular-churches-of-goa/"
+  ],
+  "state": "Goa",
+  "town": "Old Goa",
+  "town_description": "Old Goa (Velha Goa), on the banks of the Mandovi river in Tiswadi taluka, was the capital of Portuguese India from the 16th century until its 18th-century decline. Its surviving churches and convents form a UNESCO World Heritage Site. About 10 km east of Panaji, it is the heart of Goa's Portuguese-era heritage.",
+  "tradition": "Christianity (Catholic)",
+  "travel": {
+    "airport": "Manohar International Airport (Mopa) ~35 km; Dabolim Airport (GOI) ~30 km (verify distances)",
+    "railway": "Karmali station ~2–3 km; Thivim junction further afield (verify)",
+    "road": "Frequent buses and taxis from Panaji (~10 km) and Mapusa; the complex sits on the main Old Goa road."
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "November–February; 25 November for the feast of St. Catherine.",
+    "opening_hours": "7:30 AM–6:00 PM daily (verify; Sunday hours vary by source — some report 7:15 AM–4:00 PM — and hours shift during masses and services)"
+  }
+}

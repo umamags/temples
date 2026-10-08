@@ -1,0 +1,42 @@
+{
+  "alternate_names": [
+    "Sri Ram Mandhir Temple, Jagtial"
+  ],
+  "deities": [
+    "Rama"
+  ],
+  "district": "Jagtial",
+  "festivals": [],
+  "history": {
+    "dynasty": "",
+    "period": "Unknown",
+    "summary": "Uncertain identity - thin placeholder. The Telangana government's Revenue (Endowments) Department records a 'Sri Ram Mandhir Temple, Jagitial Town & District' and constituted a 14-member Renovation Committee for it (G.O.Rt.No.168, 20-04-2021; term extended one year by G.O.Rt.No.313, 30-07-2021), which is the strongest evidence for the local Rama temple in Jagtial town that this row likely refers to. 'Sri Ramalayam' may be the same shrine under a variant name, but this is unconfirmed from published sources. No reliable published history, founding date, festival or timing details were found. Coordinates are Jagtial town centre - exact temple location unverified. CSV 'state' column held the district/town name; actual state is Telangana."
+  },
+  "id": "sri-ramalayam-jagtial",
+  "latitude": 18.78827,
+  "longitude": 78.91405,
+  "media": [],
+  "name": "Sri Ramalayam",
+  "sources": [
+    "https://archive.org/download/in.gov.telangana.goir.2021-04-20.revenue-routine-168/revenue-routine-168.pdf",
+    "https://archive.org/download/in.gov.telangana.goir.2021-07-30.revenue-routine-313/revenue-routine-313.pdf"
+  ],
+  "state": "Telangana",
+  "town": "Jagtial",
+  "town_description": "Jagtial (Jagitial) is a town and district headquarters in northern Telangana, about 190 km from Hyderabad. It is a regional trade centre for the surrounding agricultural area, close to the Godavari river towns of Dharmapuri and the Kondagattu Anjaneya Swamy temple.",
+  "tradition": "Hinduism",
+  "travel": {
+    "airport": "Rajiv Gandhi International Airport, Hyderabad (~190 km; verify)",
+    "railway": "",
+    "road": "By road from Hyderabad via Karimnagar (~190 km; verify)"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to February (verify)",
+    "opening_hours": "Not verified from published sources"
+  }
+}

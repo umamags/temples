@@ -1,0 +1,49 @@
+{
+  "alternate_names": [
+    "Church of Mae de Deus",
+    "Mother of God Church, Saligao"
+  ],
+  "deities": [
+    "Our Lady (Mae de Deus / Mother of God)",
+    "Sacred Heart of Jesus, Our Lady of Assumption, St. Francis Xavier and others on side altars"
+  ],
+  "district": "North Goa",
+  "festivals": [
+    "Feast of Mae de Deus (Feast of the Mother of God), first Sunday of May, preceded by a nine-day novena"
+  ],
+  "history": {
+    "dynasty": "Portuguese colonial period (19th century)",
+    "period": "1867-1873 (foundation stone 7 Feb 1867; inaugurated 26 Nov 1873)",
+    "summary": "NOT A HINDU TEMPLE — keep-or-drop decision needed. This is a Roman Catholic parish church at Saligao, Bardez taluka, North Goa. Dedicated to Mae de Deus (Mother of God), it is widely described as the finest example of Neo-Gothic architecture in Goa, with whitewashed walls, pointed spires, buttresses and a belfry; attractively illuminated at night. Built partly from stones of the ruined Mae de Deus convent at Daujim (Old Goa), and holds the convent's miraculous gold-painted wooden statue of the Mother of God (possession ordered 20 June 1865), plus a black-stone Mae de Deus statue in the courtyard. Design credited to Goan architect Jeronimo Gomes under Portuguese/British influence. CSV STATE COLUMN ERROR: all five rows list towns under 'state'; this record is in GOA state."
+  },
+  "id": "mae-de-deus-church-saligao-goa",
+  "latitude": 15.54614,
+  "longitude": 73.78575,
+  "media": [
+    "https://vl-prod-static.b-cdn.net/system/images/000/664/245/3fa8e22551d8822394f31d8f16d334b7/x400gt/Saligao-G1-8.jpg"
+  ],
+  "name": "Mae De Deus Church",
+  "sources": [
+    "https://goa-tourism.com/church/church-of-mae-de-deus-saligao/",
+    "https://itsgoa.com/celebrate-the-feast-of-mae-de-deus-church-in-saligao-goa",
+    "https://www.gomantaktimes.com/ampstories/web-stories/saligaos-neo-gothic-styled-church-is-150-years-old"
+  ],
+  "state": "Goa",
+  "town": "Saligao",
+  "town_description": "Saligao is a large village in Bardez taluka, North Goa, a few kilometres east of Mapusa, set among coconut groves, rice fields and laterite hills. It is known for its Portuguese-era houses, the Saligao hill church landmark, and a long tradition of communal village institutions.",
+  "tradition": "Christianity (Catholic)",
+  "travel": {
+    "airport": "Dabolim International Airport (GOI), roughly 40 km south",
+    "railway": "Thivim railway station, roughly 10 km north-east",
+    "road": "On Chogm Road near Saligao; well connected by road from Mapusa (5-6 km) and Panaji (~20 km); local buses and taxis"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "November to February for pleasant weather; first Sunday of May for the Feast of Mae de Deus",
+    "opening_hours": "Open to tourists daily 9:00 AM-12:30 PM and 3:00 PM-5:00 PM (per GTDC); Mass Mon-Sat 7:00 AM and 8:00 AM, Sunday 7:00 AM, 8:30 AM and 9:30 AM — verify locally as timings can change"
+  }
+}

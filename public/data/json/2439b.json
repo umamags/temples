@@ -1,0 +1,47 @@
+{
+ "alternate_names": [
+  "Shri Ekvira Devi Temple, Amravati"
+ ],
+ "deities": [
+  "Ekvira Devi (form of Goddess Renuka / Durga, per Zilla Parishad Amravati)"
+ ],
+ "district": "Amravati",
+ "festivals": [
+  "Navratri (celebrated with grand processions alongside Ambadevi Temple)"
+ ],
+ "history": {
+  "dynasty": "Modern (recent construction; no founding date documented - verify)",
+  "period": "Modern",
+  "summary": "CSV STATE FLAG: the CSV 'state' column wrongly holds the town name; the temple is in Amravati, MAHARASHTRA (CSV town 'Amravati' is correct). Identity is solid (not the Ekvira temple at Karla near Lonavala): Zilla Parishad Amravati's official tourism page documents an 'Ekvira Devi Temple' dedicated to Goddess Ekvira, a form of Goddess Renuka or Durga, located near the famous Ambadevi Temple in Amravati; a Tripadvisor review of Ambadevi Temple notes 'the Ekvira temple is adjacent to it and is newly constructed'. So this is the recently built Ekvira shrine beside Ambadevi Temple in central Amravati. Navratri is the main festival here too. The geocoder resolved the Ekvira shrine to the same coordinates as Ambadevi Temple (pin approximate; the shrine is adjacent to Ambadevi - exact pin unverified). No published founding date or detailed history found for this shrine (flag)."
+ },
+ "id": "ekvira-devi-temple-amravati",
+ "latitude": 20.92676,
+ "longitude": 77.74936,
+ "media": [
+  "https://files.yappe.in/place/full/shri-ekvira-devi-temple-amravati-966506.webp"
+ ],
+ "name": "Ekvira Devi Temple",
+ "sources": [
+  "https://zpamravati.gov.in/en/places-centres/ambadevi-ekvira-devi-temple-amravati/",
+  "https://www.tripadvisor.in/ShowUserReviews-g1156419-d2009050-r679733343-Shri_Ambadevi_Temple-Amravati_Amravati_District_Maharashtra.html",
+  "https://yappe.in/maharashtra/amravati/shri-ekvira-devi-temple-amravati/27569"
+ ],
+ "state": "Maharashtra",
+ "town": "Amravati",
+ "town_description": "Amravati is a major city of the Vidarbha region in Maharashtra and the administrative centre of Amravati district, said to take its name from the goddess Amba. It sits at about 340 m above sea level with the Pohara and Chirodi hills to its east, and is the main centre of west Vidarbha.",
+ "tradition": "Hinduism (Shaktism)",
+ "travel": {
+  "airport": "Nearest major airport Nagpur (~155 km, verify)",
+  "railway": "Amravati railway station (temple in the city centre)",
+  "road": "Adjacent to Ambadevi Temple in central Amravati; visit both together"
+ },
+ "video": {
+  "audio": "",
+  "script": "",
+  "video_file": ""
+ },
+ "visitor_information": {
+  "best_time": "Navratri and October to February",
+  "opening_hours": "UNVERIFIED (verify) - no published timings found"
+ }
+}

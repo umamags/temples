@@ -1,0 +1,51 @@
+{
+  "alternate_names": [
+    "Kumbhaswamini Temple",
+    "Kumbha Swamy Temple"
+  ],
+  "deities": [
+    "Vishnu (Varaha)",
+    "Krishna",
+    "Balarama"
+  ],
+  "district": "Chittorgarh",
+  "festivals": [
+    "Janmashtami"
+  ],
+  "history": {
+    "dynasty": "Sisodia of Mewar",
+    "period": "8th century CE origin; renovated 1448 by Rana Kumbha (reigned 1433-1468)",
+    "summary": "Vaishnava temple inside Chittorgarh Fort on a raised plinth in Indo-Aryan style, with mandapa, ardha-mandapa, antarala, garbhagriha, pyramidal roof and a rare Garuda image under a canopy facing the temple. Originally dedicated to Vishnu as Varaha (an ancient Varaha image remains in the rear of the sanctum), with Krishna and Balarama consecrated later; sculptural evidence (Devi panels on the plinth) suggests it may originally have been a Shakti shrine before renovation by Maharana Kumbha in 1448, after whom it is named. SOURCE CONFLICTS: one source wrongly places it in Madhya Pradesh and claims Meera Bai married Rana Kumbha (she married Bhoj Raj in 1513; Kumbha died 1468). Coordinates approximate (complex-level)."
+  },
+  "id": "kumbha-shyam-temple-chittorgarh-fort",
+  "latitude": 24.89045,
+  "longitude": 74.64509,
+  "media": [
+    "https://chittordarpan.com/wp-content/uploads/2023/05/kumbha-shyam-temple-Chittorgarh-tourist-palace-chittor-darpan.jpg"
+  ],
+  "name": "Kumbha Shyam Temple",
+  "sources": [
+    "http://sahasa.in/2023/05/17/kumbha-shyam-temple-chittorgarh-fort-chittorgarh-rajasthan/",
+    "https://www.trawell.in/rajasthan/chittorgarh/kumbha-shyam-temple-meerabai-temple",
+    "http://lightuptemples.com/Chittorgarh-Kumbha-Shyam-Temple-Rajasthan/",
+    "https://www.pilgrimaide.com/blog/Kumbha-Shyam-Temple?journal_blog_category_id=7"
+  ],
+  "state": "Rajasthan",
+  "town": "Chittorgarh",
+  "town_description": "Chittorgarh, former capital of the Sisodia dynasty of Mewar, is dominated by its massive hill fort (a UNESCO World Heritage site), the largest fort in India, revered as a symbol of Rajput valour, sacrifice and devotion.",
+  "tradition": "Hinduism",
+  "travel": {
+    "airport": "Maharana Pratap Airport, Udaipur (~90 km)",
+    "railway": "Chittorgarh Junction (~6 km from the fort)",
+    "road": "The temple is inside Chittorgarh Fort, ~350 m from Kumbha Palace, reached by the fort's hill road"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March",
+    "opening_hours": "Fort complex typically 6:00 AM-6:00 PM (fort entry ticket applies - verify)"
+  }
+}

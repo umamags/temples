@@ -64,12 +64,6 @@ try {
             sendError('Failed to save description file', 'FILE_ERROR', 500);
         }
 
-        // Update database
-        $updateQuery = "UPDATE temples SET description = ? WHERE id = ?";
-        $stmt = $mysqli->prepare($updateQuery);
-        $stmt->bind_param('si', $description, $temple_id);
-        $stmt->execute();
-
         sendSuccess([
             'file_path' => "/data/temples/descriptions/temple_$temple_id.txt",
             'media_type' => 'description',
@@ -126,48 +120,12 @@ try {
         sendError('Failed to save file to server. Check server permissions.', 'FILE_ERROR', 500);
     }
 
-    error_log("Successfully uploaded $mediaType for temple_id=$temple_id: $filePath (size: {$file['size']} bytes)");
-
-    // Get existing media URLs from database
-    $columnName = $mediaDir === 'photos' ? 'photo_urls' : 'video_urls';
-    $getQuery = "SELECT $columnName FROM temples WHERE id = ?";
-    $stmt = $mysqli->prepare($getQuery);
-    $stmt->bind_param('i', $temple_id);
-    $stmt->execute();
-    $result = $stmt->get_result();
-    $row = $result->fetch_assoc();
-
-    $mediaUrls = $row[$columnName] ? json_decode($row[$columnName], true) : [];
-    if (!is_array($mediaUrls)) {
-        $mediaUrls = [];
-    }
-
-    // Add new URL
-    $mediaUrls[] = $webPath;
-    $mediaUrlsJson = json_encode($mediaUrls);
-
-    // Update database
-    $updateQuery = "UPDATE temples SET $columnName = ? WHERE id = ?";
-    error_log("Executing SQL: $updateQuery with values: mediaUrlsJson length=" . strlen($mediaUrlsJson) . ", temple_id=$temple_id");
-
-    $stmt = $mysqli->prepare($updateQuery);
-    if (!$stmt) {
-        error_log("SQL prepare error: " . $mysqli->error);
-        sendError('Database prepare error: ' . $mysqli->error, 'DB_ERROR', 500);
-    }
-
-    $stmt->bind_param('si', $mediaUrlsJson, $temple_id);
-    if (!$stmt->execute()) {
-        error_log("SQL execute error: " . $stmt->error);
-        sendError('Database execute error: ' . $stmt->error, 'DB_ERROR', 500);
-    }
-
-    error_log("Successfully updated temples table: $columnName for temple_id=$temple_id, affected rows: " . $stmt->affected_rows);
+    error_log("Successfully uploaded $media_type for temple_id=$temple_id: $filePath (size: {$file['size']} bytes)");
 
     sendSuccess([
         'file_path' => $webPath,
         'media_type' => $media_type,
-        'message' => ucfirst($media_type) . ' uploaded successfully'
+        'message' => ucfirst($media_type) . ' uploaded successfully. Media URL: ' . $webPath
     ]);
 
 } catch (Exception $e) {

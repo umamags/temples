@@ -1,0 +1,44 @@
+{
+  "alternate_names": [],
+  "deities": [
+    "Goddess Durga"
+  ],
+  "district": "Tuensang",
+  "festivals": [
+    "Durga Puja",
+    "Dussehra",
+    "Navratri"
+  ],
+  "history": {
+    "dynasty": "unknown",
+    "period": "unknown",
+    "summary": "PROVISIONAL IDENTITY: A reviewer of the Assam Rifles Temple at Tuensang describes the camp temple complex as having 'two adjoining temples — the Durga temple hosts the Dussehra and Durga Puja', which is the most likely match for the CSV's 'Local Hindu shrine dedicated to Goddess Durga'. The linkage is provisional: the camp temple sits inside a security-forces installation and civilian access is unconfirmed, and no standalone Durga temple in Tuensang is otherwise documented. Coordinates are the camp temple's map-listing location. CSV correction: the 'state' column held the town name; the actual state is Nagaland."
+  },
+  "id": "durga-temple-tuensang-nagaland",
+  "latitude": 26.227741,
+  "longitude": 94.812123,
+  "media": [],
+  "name": "Durga Temple",
+  "sources": [
+    "https://inmap24.com/hindu-temple/nagaland/630448",
+    "http://www.onefivenine.com/india/Listing/Town/temples/Tuensang/Tuensang"
+  ],
+  "state": "Nagaland",
+  "town": "Tuensang",
+  "town_description": "Tuensang is the headquarters of Tuensang district, the largest district of Nagaland, on the eastern edge of the state bordering Myanmar. A high-altitude hill town in the territory of the Chang, Khiamniungan, Yimkhiung, Sangtam and Phom Naga tribes, known for its ridge-top setting and tribal culture; Indian visitors from outside Nagaland need an Inner Line Permit (ILP).",
+  "tradition": "Hinduism",
+  "travel": {
+    "airport": "Nearest airport: Dimapur, then road via Mokokchung (distances approximate; verify locally)",
+    "railway": "Nearest railhead: Dimapur/Mariani, then road (verify locally)",
+    "road": "Tuensang is reached by hill road via Mokokchung (NH 202 corridor); the Assam Rifles camp is within the town (verify access locally)"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March",
+    "opening_hours": "Unverified — camp temple; opening hours unknown, civilian access unconfirmed (verify on visit)."
+  }
+}

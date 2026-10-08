@@ -1,0 +1,48 @@
+{
+  "alternate_names": [
+    "Church of St. Cajetan",
+    "Church of Divine Providence (Igreja da Divina Providencia)",
+    "St. Cajetan Church, Old Goa"
+  ],
+  "deities": [
+    "Our Lady of Divine Providence (main altar)",
+    "St. Cajetan of Thiene (founder of the Theatine order; church's patron name)"
+  ],
+  "district": "North Goa",
+  "festivals": [],
+  "history": {
+    "dynasty": "Portuguese colonial period (17th century)",
+    "period": "1640-1661 (Theatine friars settled at Old Goa 1640; church permission 1655; completed 1661)",
+    "summary": "NOT A HINDU TEMPLE — keep-or-drop decision needed. Roman Catholic church at Old Goa (Velha Goa), the former Portuguese capital. Built by Italian friars of the Theatine order: they arrived in 1639 intending to preach in Golconda, were refused, settled at Old Goa in 1640, were initially banished by Viceroy Filipe Mascarenhas, then secured permission from King John IV of Portugal (hospital 1650; church and convent 1655). Construction was supervised by Italian architects Carlo Ferrarini and Francesco Maria Milazzo. Modelled on St. Peter's Basilica in Rome (laterite blocks, lime plaster, Greek-cross plan, hemispherical dome), it is the only surviving domed church in Goa and part of the UNESCO World Heritage Site 'Churches and Convents of Goa'. Named for St. Cajetan of Thiene, founder of the Theatines; main altar dedicated to Our Lady of Divine Providence. CSV TOWN IMPRECISION: the row lists 'Bardez' as town, but the church stands at OLD GOA in TISWADI taluka (North Goa), not Bardez — documented with a town correction flag. CSV state-column error also applies: state is GOA."
+  },
+  "id": "st-cajetan-church-old-goa",
+  "latitude": 15.50564,
+  "longitude": 73.91494,
+  "media": [
+    "https://www.tourmyindia.com/socialimg/saint-cajetan-church-goa.jpg"
+  ],
+  "name": "St. Cajetan Church",
+  "sources": [
+    "https://goa-tourism.com/church/st-cajetans-church/",
+    "https://www.trawell.in/goa/panjim/st-cajetan-church",
+    "https://goa-tourism.org.in/church-of-st-cajetan-goa"
+  ],
+  "state": "Goa",
+  "town": "Old Goa",
+  "town_description": "Old Goa (Velha Goa) is the historic former capital of Portuguese India on the Mandovi river in Tiswadi taluka, North Goa, about 10 km east of Panaji. Its surviving churches and convents form a UNESCO World Heritage Site, drawing heritage and religious tourists year-round.",
+  "tradition": "Christianity (Catholic)",
+  "travel": {
+    "airport": "Dabolim International Airport (GOI), roughly 25 km south-west",
+    "railway": "Madgaon Junction, roughly 25-30 km south; Thivim, roughly 25 km north",
+    "road": "On the Old Goa heritage circuit near Se Cathedral and Basilica of Bom Jesus; frequent buses and taxis from Panaji (10 km)"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "November to February (dry, pleasant); October-March window widely recommended",
+    "opening_hours": "Sources conflict — reported as daily 9:00 AM-7:00 PM, or split hours 9:00 AM-12:00 PM and 4:00 PM-7:00 PM (verify). Entry free; modest dress expected"
+  }
+}

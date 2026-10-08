@@ -1,0 +1,54 @@
+{
+  "alternate_names": [
+    "Kinkaleshwar Mahadev Temple",
+    "Kankaleshwar Temple"
+  ],
+  "deities": [
+    "Shiva",
+    "Parvati",
+    "Ganapati",
+    "Kartikeya",
+    "Rama",
+    "Sita",
+    "Lakshmana"
+  ],
+  "district": "Pauri Garhwal",
+  "festivals": [
+    "Maha Shivaratri"
+  ],
+  "history": {
+    "dynasty": "Unknown - tradition credits Adi Shankaracharya",
+    "period": "8th century CE (traditional; not independently verified)",
+    "summary": "Ancient Shiva shrine about 2.5 km from the main market in Pauri, on Mount Keenash (Kedarkhand of the Skanda Purana). Believed established by Adi Shankaracharya in the 8th century; the 8th-century date is a traditional attribution, not independently verified. Local lore says Yama performed penance here, giving the older names Kankaleshwar/Kinkaleshwar (from 'kanka', skeleton). The hill-style temple holds a Shiva lingam, Nandi, an ancient drum and idols of Parvati, Ganapati, Kartikeya, Rama, Sita and Lakshmana, with views of the Alaknanda valley and snow ranges. CSV town Pauri is correct; CSV 'state' column holds town names - corrected to Uttarakhand."
+  },
+  "id": "kyunkaleshwar-mahadev-temple",
+  "latitude": 30.15777,
+  "longitude": 78.75836,
+  "media": [
+    "https://t.eucdn.in/tourism/lg-jpg/kyunkaleshwar-mahadev-temple-6651725.jpg"
+  ],
+  "name": "Kyunkaleshwar Mahadev Temple",
+  "sources": [
+    "https://www.nativeplanet.com/pauri/attractions/kyunkaleshwar-mahadev-temple/",
+    "https://travelsetu.com/guide/kyunkaleshwar-mahadev-temple-tourism",
+    "https://www.gosahin.com/places-to-visit/kyunkaleshwar-mahadev/"
+  ],
+  "state": "Uttarakhand",
+  "town": "Pauri",
+  "town_description": "Pauri is the headquarters town of Pauri Garhwal district, perched on a ridge in the Garhwal Himalaya amid pine and deodar forests, overlooking the Alaknanda valley and snow-capped ranges.",
+  "tradition": "Hinduism",
+  "travel": {
+    "airport": "Jolly Grant Airport, Dehradun (nearest airport)",
+    "railway": "Kotdwara (nearest railhead)",
+    "road": "About 2.5 km from Pauri main market, near Ransi stadium; walkable from town."
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "March to June and September to November.",
+    "opening_hours": "6 AM to 7 PM daily (verify before visiting)."
+  }
+}

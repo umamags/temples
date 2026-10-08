@@ -31,12 +31,7 @@ try {
             t.id,
             t.name,
             t.deity,
-            t.year_constructed,
             t.location_note,
-            t.image_url,
-            t.website,
-            t.festivals_and_events,
-            t.source,
             l.id as location_id,
             l.name as city,
             l.kind as type,
@@ -70,19 +65,14 @@ try {
             'id' => (int)$row['id'],
             'name' => $row['name'],
             'deity' => $row['deity'],
-            'year_constructed' => $row['year_constructed'] ? (int)$row['year_constructed'] : null,
             'location_note' => $row['location_note'],
-            'image_url' => $row['image_url'],
-            'website' => $row['website'],
-            'source' => $row['source'],
-            'festivals_and_events' => $row['festivals_and_events'] ?
-                json_decode($row['festivals_and_events'], true) : [],
             'city' => $row['city'],
             'type' => $row['type'],
             'lat' => (float)$row['lat'],
             'lon' => (float)$row['lon'],
             'state' => $row['state'],
-            'state_id' => (int)$row['state_id']
+            'state_id' => (int)$row['state_id'],
+            'location_id' => (int)$row['location_id']
         ];
     }
 

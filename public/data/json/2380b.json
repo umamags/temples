@@ -1,0 +1,53 @@
+{
+  "alternate_names": [
+    "Kirori Mal Mandir",
+    "Kirorimal Mandir"
+  ],
+  "deities": [
+    "Shiva (Shankar)",
+    "Parvati (Gauri)",
+    "Lakshmi-Narayana",
+    "Radha-Krishna"
+  ],
+  "district": "Bhiwani",
+  "festivals": [
+    "Maha Shivratri",
+    "Janmashtami"
+  ],
+  "history": {
+    "dynasty": "Modern (20th century)",
+    "period": "1951",
+    "summary": "Solid entry. The Gauri Shankar Mandir, also known as the Kirori Mal Mandir, stands in the heart of Bhiwani town, Haryana — the 'Chhoti Kashi' of India. Built by the philanthropist Seth Kirori Mal in 1951, it is a marble temple exemplifying modern Hindu architecture, with carvings of Hindu mythological scenes and the text of the Srimad Bhagavad Gita on its pillars and walls. The central shrine holds Gauri and Shankar, with Lakshmi-Narayan to the right and Radha-Krishna to the left. Thousands of devotees visit daily; Shri Krishna Janmashtami is celebrated with great pomp on Ashtami of Bhadon. One travel site reports hours of 5:00 AM–12:00 PM and 4:00–9:00 PM (single-source, verify). The CSV 'state' column wrongly holds the town name; the actual state is Haryana. Coordinates are an approximate POI match (Shankar Ji Mandir, Teliwara, Bhiwani — verify)."
+  },
+  "id": "gauri-shankar-temple-bhiwani",
+  "latitude": 28.79088,
+  "longitude": 76.14448,
+  "media": [
+    "https://images.jdmagicbox.com/comp/bhiwani/h7/9999p1664.1664.180228195237.g5h7/catalogue/kirori-mal-mandir-bhiwani-temples-wx3s74146i.jpg"
+  ],
+  "name": "Gauri Shankar Temple",
+  "sources": [
+    "https://censusindia.gov.in/nada/index.php/catalog/452/download/1456/DH_2011_0613_PART_A_DCHB_BHIWANI.pdf",
+    "https://Www.tripadvisor.in/Attraction_Review-g3935134-d3932982-Reviews-Gauri_Shankar_Mandir-Bhiwani_Bhiwani_District_Haryana.html",
+    "https://www.optfind.com/Tourism/TourismDetails.php?tid=Place-to-Visit-and-Things-To-Do-in-Bhiwani-Haryana-India",
+    "https://www.earthtrip.in/haryana/bhiwani/"
+  ],
+  "state": "Haryana",
+  "town": "Bhiwani",
+  "town_description": "Bhiwani is a city in southern Haryana and the headquarters of Bhiwani district. Popularly called 'Chhoti Kashi' for its numerous temples, it is a historic merchant and textile-trade town that has grown into a regional educational and industrial centre.",
+  "tradition": "Hindu (Shaiva)",
+  "travel": {
+    "airport": "Hisar Airport, ~65 km (verify); Indira Gandhi International Airport, Delhi, ~125 km (verify)",
+    "railway": "Bhiwani Junction and Bhiwani City railway stations",
+    "road": "Bhiwani town centre; old-town/market area"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October–March; Maha Shivratri and Shravan are the busiest periods",
+    "opening_hours": "Reported as 5:00 AM–12:00 PM and 4:00–9:00 PM (single travel-site source; verify)"
+  }
+}

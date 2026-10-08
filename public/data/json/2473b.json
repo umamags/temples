@@ -1,0 +1,42 @@
+{
+  "alternate_names": [],
+  "deities": [
+    "Lord Hanuman"
+  ],
+  "district": "Mon",
+  "festivals": [
+    "Hanuman Jayanti"
+  ],
+  "history": {
+    "dynasty": "unknown",
+    "period": "unknown",
+    "summary": "UNCERTAIN IDENTITY: No web source names a specific Hanuman temple in Mon town (Mon district, Nagaland). The only directory listing for any Hindu temple in the Mon area is '6Nap Unit Mandir' at Mon Village (a unit mandir near the 6th Nagaland Armed Police battalion), whose deities are unspecified. This entry is a thin placeholder built from the CSV hint 'Local Hindu shrine dedicated to Lord Hanuman'. Coordinates are the geocoder's Mon district centre, NOT a verified shrine location. CSV correction: the 'state' column held the town name; the actual state is Nagaland."
+  },
+  "id": "hanuman-temple-mon-nagaland",
+  "latitude": 26.67241,
+  "longitude": 95.02303,
+  "media": [],
+  "name": "Hanuman Temple",
+  "sources": [
+    "https://inmap24.com/hindu-temple/nagaland/755359",
+    "https://www.indiainfo.net/s/hindu-temple-in-nagaland"
+  ],
+  "state": "Nagaland",
+  "town": "Mon",
+  "town_description": "Mon is the headquarters town of Mon district in northern Nagaland, the heartland of the Konyak Naga tribe, reached by a long hill road from Assam via Naharkatia/Sonari. Remote and predominantly Christian, it is known for traditional Konyak villages, woodcraft and the nearby Myanmar border; Indian visitors from outside Nagaland need an Inner Line Permit (ILP).",
+  "tradition": "Hinduism",
+  "travel": {
+    "airport": "Nearest major airport: Dibrugarh, Assam (approx. 200 km; verify locally)",
+    "railway": "Nearest railhead in Assam (e.g. Simaluguri Jn or Dibrugarh), then road to Mon (verify locally)",
+    "road": "Mon town is reached by hill road from the Assam side via Naharkatia/Sonari (distances approximate; verify locally)"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March",
+    "opening_hours": "Unverified — small local shrine, likely open morning and evening (verify on visit)."
+  }
+}

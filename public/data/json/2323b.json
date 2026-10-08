@@ -1,0 +1,49 @@
+{
+  "alternate_names": [
+    "Bhairabi Devalaya",
+    "Sri Sri Maa Bhairabi Mandir",
+    "Maithan"
+  ],
+  "deities": [
+    "Goddess Bhairavi (a Mahavidya of Durga)"
+  ],
+  "district": "Sonitpur",
+  "festivals": [
+    "Durga Puja"
+  ],
+  "history": {
+    "dynasty": "Unknown; attributed locally to c. 17th century",
+    "period": "c. 400 years old (attributed); 9th-century stone carvings nearby",
+    "summary": "Historic Shakti temple on a hillock on the outskirts of Tezpur, locally called Bhairabi Devalaya. Legend says Usha, daughter of the asura king Banasura, regularly came here to worship the Goddess. The present structure is locally described as about 400 years old and has reportedly tilted after an earthquake (the specific quake is not identified in sources - verify); one source reports that daily rituals halted after the damage, while others describe ongoing daily worship and sacrificial offerings (goats, ducks, pigeons) - conflict flagged. The temple is reached by a long staircase and overlooks the Kolia Bhomora Setu across the Brahmaputra; the Bamuni Hills with 9th-century stone carvings lie a couple of kilometres away. Historically associated with the Borthakur family of Tezpur, it is now managed by the Government through the Deputy Commissioner, Sonitpur. Coordinates taken from the Wikipedia infobox and are approximate. CSV state column held the town name ('Tezpur'); corrected to Assam."
+  },
+  "id": "bhairabi-temple-tezpur-sonitpur",
+  "latitude": 26.6185,
+  "longitude": 92.819,
+  "media": [
+    "https://tezpuronline.in/wp-content/uploads/2024/12/wmremove-transformed.jpeg"
+  ],
+  "name": "Bhairabi Temple",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Bhairabi_Temple",
+    "https://get2knowindia.com/bhairabi-temple/",
+    "https://wanderlog.com/place/details/334061/sri-sri-maa-bhairabi-mandir"
+  ],
+  "state": "Assam",
+  "town": "Tezpur",
+  "town_description": "Tezpur, on the north bank of the Brahmaputra in Sonitpur district, is one of Assam's oldest towns, associated in legend with Banasura's capital Sonitpur and with a cluster of ancient temples and ruins (Mahabhairav, Bhairabi, Agnigarh). It is a cultural and educational centre of Upper Assam.",
+  "tradition": "Hinduism (Shaktism)",
+  "travel": {
+    "airport": "Tezpur Airport (Salonibari)",
+    "railway": "Tezpur Railway Station",
+    "road": "On the outskirts of Tezpur; a long staircase leads from the approach road to the hilltop shrine"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March; Durga Puja (September/October) is the main festival",
+    "opening_hours": "Listed as roughly 6:00 AM-8:00 PM on travel sites (verify)"
+  }
+}

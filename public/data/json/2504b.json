@@ -1,0 +1,55 @@
+{
+  "alternate_names": [
+    "Prachin Ganga Mandir",
+    "Shri Ganga Maharani Ji Mandir",
+    "Ganga Maharani Temple"
+  ],
+  "deities": [
+    "Goddess Ganga (Ganga Maharani - white-marble idol seated on a crocodile)",
+    "Lord Krishna (sculpture holding Govardhan at the entrance)",
+    "Shiva and Parvati",
+    "Lakshmi-Narayan",
+    "King Bhagirath (four-foot idol)"
+  ],
+  "district": "Bharatpur",
+  "festivals": [
+    "Ganga Dussehra (draws large crowds)",
+    "Ganga Saptami"
+  ],
+  "history": {
+    "dynasty": "Jat rulers of Bharatpur; Maharaja Balwant Singh",
+    "period": "Mid-19th century; construction begun 1845, reportedly completed after about nine decades (per tourmyindia - verify)",
+    "summary": "The Ganga Mandir stands in the heart of Bharatpur city near Lohagarh Fort. Maharaja Balwant Singh began construction in 1845; funding was unusual - state employees and affluent residents were asked to donate a month's pay - and the work reportedly took about nine decades. Balwant Singh's fifth descendant, Brijendra Singh, later installed the white-marble idol of Goddess Ganga seated on a crocodile, giving the temple its name. The two-storey red-sandstone structure blends Rajput, Mughal and South Indian styles with elaborate carvings on pillars and panels (one source likens its look to a French neo-classical chateau). Noted features: a gong audible from a distance, a four-foot idol of King Bhagirath, and entrance sculptures of Krishna lifting Govardhan alongside Shiva-Parvati and Lakshmi-Narayan; a window of the royal palace is said to face the sanctum for the royal family's darshan (verify). CSV STATE FLAG: the CSV 'state' column wrongly repeats the town name - actual state is Rajasthan. COORDINATES from a geocoder POI match (27.20814, 77.4916), relevance 100 - verify on the ground. HOURS FLAG: no published opening hours found - verify locally."
+  },
+  "id": "ganga-mandir-bharatpur",
+  "latitude": 27.20814,
+  "longitude": 77.4916,
+  "media": [
+    "https://www.rajasthantourplanner.com/images/bharatpur-ganga-mandir.jpg"
+  ],
+  "name": "Ganga Mandir",
+  "sources": [
+    "https://www.tourmyindia.com/states/rajasthan/ganga-mandir-bharatpur.html",
+    "https://travelandleisureasia.com/in/destinations/guide-to-bharatpur-for-history-and-wildlife-in-rajasthan/",
+    "https://www.rajasthantourplanner.com/blog/ganga-maharani-temple/",
+    "https://www.rajasthandirect.com/tourism/temples/ganga-maharani-temple"
+  ],
+  "state": "Rajasthan",
+  "town": "Bharatpur (city centre, near Lohagarh Fort)",
+  "town_description": "Bharatpur is a city in eastern Rajasthan, the former capital of the Jat kingdom of the same name, famous for the Lohagarh Fort and the Keoladeo National Park. The Ganga Mandir sits in the city centre near Mathura Gate and Pai Bagh, close to the fort.",
+  "tradition": "Hinduism",
+  "travel": {
+    "airport": "Agra's Kheria Airport, about 55-60 km (verify)",
+    "railway": "Bharatpur Junction, about 2-3 km from the temple (verify)",
+    "road": "City centre near Mathura Gate; auto-rickshaw or e-rickshaw from the station"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March; Ganga Dussehra is the busiest festival",
+    "opening_hours": "No published timings found - verify locally (expect typical temple hours with a midday break)"
+  }
+}

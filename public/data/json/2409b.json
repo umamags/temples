@@ -1,0 +1,49 @@
+{
+  "alternate_names": [
+    "Papanasha Shiva Temple",
+    "Shri Papnasha Mahadeva Swami Temple"
+  ],
+  "deities": [
+    "Lord Shiva (large Shivalinga, presiding)",
+    "Smaller lingams in the temple precinct"
+  ],
+  "district": "Bidar",
+  "festivals": [
+    "Maha Shivaratri (main festival, draws thousands of devotees)"
+  ],
+  "history": {
+    "dynasty": "Kalyana Chalukya, 12th century origins (documented in the Karnataka District Gazetteer: Bidar); modified during the Bahmani Sultanate era",
+    "period": "12th century, with later additions",
+    "summary": "The Papnash Shiva Temple is a 12th-century Shiva temple in a green valley on the edge of Bidar, built in the Kalyana Chalukya idiom with later Bahmani-era arches and motifs, and laid out in the trikuta (three-shrine) plan. Its name comes from the natural spring 'Papnash' (destroyer of sins) that feeds the pond and stepped kalyani in front of the temple; devotees believe a dip washes away sins. Local legend holds that the lingam was installed by Lord Rama on his return from Lanka. NOTE: some recent web articles attach precise claims to the temple (e.g. specific PRASHAD-scheme funding figures) that were not independently verified — stick to the gazetteer and established press coverage. CSV NOTE: the CSV's 'state' column wrongly holds the town name 'Bidar' — the temple is in the state of Karnataka."
+  },
+  "id": "papnash-shiva-temple-bidar",
+  "latitude": 17.92852,
+  "longitude": 77.49167,
+  "media": [
+    "https://s7ap1.scene7.com/is/image/incredibleindia/papnash-shiva-temple-bidar-karnataka-1-attr-hero?qlt=82&ts=1726719062130"
+  ],
+  "name": "Papnash Shiva Temple",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Papnash_Shiva_Temple",
+    "https://www.makemytrip.com/tripideas/attractions/papnash-shiva-temple",
+    "https://Wanderlog.com/place/details/364714"
+  ],
+  "state": "Karnataka",
+  "town": "Bidar",
+  "town_description": "Bidar is a historic town in northeastern Karnataka, once the capital of the Bahmani Sultanate, known for its fort, the Mahmud Gawan madrasa and Bidri metalwork. It lies about 120-140 km from Hyderabad and is the district headquarters of Bidar district.",
+  "tradition": "Shaivism",
+  "travel": {
+    "airport": "Bidar Airport has no scheduled commercial services; the nearest operational airport is Hyderabad, approx. 130-140 km.",
+    "railway": "Bidar railway station, a few kilometres from the temple complex.",
+    "road": "On the outskirts of Bidar in a valley, a short auto or taxi ride from the city; Papnash lake lies beside the temple."
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March. Maha Shivaratri is the grand celebration and draws the biggest crowds.",
+    "opening_hours": "Daytime darshan; exact opening hours are not published in the sources consulted — verify locally before visiting."
+  }
+}

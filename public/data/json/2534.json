@@ -1,0 +1,60 @@
+{
+  "alternate_names": [
+    "Sri Lakshmi Narasimha Swamy Temple",
+    "Yadagirigutta Temple",
+    "Yadadri Temple",
+    "Telangana's Tirupati"
+  ],
+  "deities": [
+    "Lakshmi Narasimha Swamy",
+    "Jwala Narasimha",
+    "Yoga Narasimha",
+    "Gandabherunda Narasimha",
+    "Ugra Narasimha"
+  ],
+  "district": "Yadadri Bhuvanagiri",
+  "festivals": [
+    "Brahmotsavams (February-March, 11 days)",
+    "Narasimha Jayanti",
+    "Vaikuntha Ekadasi",
+    "Ugadi",
+    "Karthika Pournami",
+    "Srirama Navami"
+  ],
+  "history": {
+    "dynasty": "Traditional/legendary origin; major recent reconstruction (Telangana government, 2016-2023)",
+    "period": "Legendary (ancient shrine); massive renovation completed in recent years",
+    "summary": "DUPLICATE/OVERLAP: this temple is already documented in the dataset as file 2335.json, id 'sri-lakshmi-narasimha-swamy-temple-yadadri' ('Sri Lakshmi Narasimha Swamy Temple (Yadadri)'). Research notes: Telangana's most famous Vaishnavite shrine ('Telangana's Tirupati'), a Pancha Narasimha Kshetram on a hillock about 60 km from Hyderabad. Legend: sage Yadarishi meditated in a cave here and Vishnu appeared before him in five forms (Lakshmi Narasimha, Jwala, Gandabherunda, Yoga, Ugra); the cave remains the garbhagriha. In recent years the temple underwent a massive Agama-Shastra-based reconstruction in black granite (no steel/concrete) with a 90-foot rajagopuram and expanded queue complexes. Worship follows Vaikhanasa Agama; full-moon Lakshmi Narasimha Maha Yagam is a noted rite. CSV town 'Nalgonda' corrected: actual town is Yadagirigutta (also called Yadadri), Yadadri Bhuvanagiri district. CSV state 'Nalgonda' corrected: Telangana. CONFLICT: opening hours vary across sources (4:00 AM, 4:30 AM or 5:00 AM open; 9:00/9:30 PM close); nearest-station distances also vary (Raigiri 3-6 km, Bhongir 14 km)."
+  },
+  "id": "yadadri-lakshmi-narasimha-temple",
+  "latitude": 17.57936,
+  "longitude": 78.94717,
+  "media": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Yadagirigutta_temple_main_Gopuram.jpg/500px-Yadagirigutta_temple_main_Gopuram.jpg"
+  ],
+  "name": "Yadadri Lakshmi Narasimha Temple",
+  "sources": [
+    "http://touradvisorhub.com/yadagirigutta-the-abode-of-lakshmi-narasimha-swamy/",
+    "https://www.trawell.in/andhra/yadagirigutta",
+    "https://mytempletrips.in/yadagirigutta-sri-lakshmi-narasimha-swamy-temple-guide/",
+    "https://www.orientalzenz.com/yadagiri-gutta-narasimha-temple-telangana/"
+  ],
+  "state": "Telangana",
+  "town": "Yadagirigutta",
+  "town_description": "Yadagirigutta (also rendered Yadadri) is a temple town in Yadadri Bhuvanagiri district, Telangana, about 60-65 km from Hyderabad via NH163. It is built around the Lakshmi Narasimha Swamy hill shrine, with TSRTC buses, nearby railway stations at Raigiri (about 3-5 km) and Bhongir (about 14 km), and attractions like Surendrapuri and Bhongir Fort nearby.",
+  "tradition": "Hinduism",
+  "travel": {
+    "airport": "Rajiv Gandhi International Airport, Hyderabad (about 90-100 km; sources differ)",
+    "railway": "Raigiri (about 3-5 km); major stations Bhongir and Aler (about 14 km)",
+    "road": "Hyderabad about 60-65 km via NH163; regular TSRTC and private buses from Hyderabad and Secunderabad"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March; heavy rush on weekends, holidays and during Brahmotsavams (February-March)",
+    "opening_hours": "About 4:00 AM - 9:30 PM; sources vary on exact opening (4:00/4:30/5:00 AM) and closing (9:00/9:30 PM) - verify locally"
+  }
+}

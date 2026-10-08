@@ -1,0 +1,62 @@
+{
+  "alternate_names": [
+    "Shri Damodara Sansthaan",
+    "Shree Damodar Saunsthan",
+    "Damodar Sansthaan, Zambaulim"
+  ],
+  "deities": [
+    "Lord Damodar (form of Lord Shiva)",
+    "Lakshmi Narayana (idol inside the sanctum)",
+    "Shree Ramnath (form of Shiva)",
+    "Goddess Chamundeshwari",
+    "Goddess Mahakali",
+    "Mahesha (form of Shiva)"
+  ],
+  "district": "South Goa",
+  "festivals": [
+    "Shigmo (week-long Goan Hindu spring festival of colours)",
+    "Rama Navami",
+    "Mahashivratri",
+    "Navaratri",
+    "Padwa (Hindu new year)",
+    "Akshaya Tritiya",
+    "Magha Poornima (Jatrotsav)",
+    "Dussera and Diwali"
+  ],
+  "history": {
+    "dynasty": "Original shrine pre-Portuguese; relocated under Mahajan trusteeship during Portuguese rule",
+    "period": "1565 (relocation to Zambaulim); present structure later",
+    "summary": "Important Shaiva pilgrimage temple on the bank of the Kushawati river at Zambaulim village, near Quepem, South Goa. The Damodar deity (a form of Shiva) was originally at Mathagram (Margao), on the spot where the Church of the Holy Spirit now stands; when the Portuguese destroyed the temple in 1565, the Mahajans of Madgaon moved the deities — Damodar with Ramnath, Lakshmi Narayan, Chamundeshwari, Mahakali and Mahesha — to Zambaulim, where the Desais of Rivona granted land (vatan payments are said to continue). It belongs to the Gowda Saraswath Brahmin (GSB) community. The Kushawati (Panti) river beside the temple is believed to have healing powers, and the deity is revered by Hindus and Catholics alike. CSV TOWN IMPRECISION: the row lists 'Curchorem' as town, but sources (incl. Wikipedia) place the temple at ZAMBAULIM (PIN 403705), near Quepem — actual-town correction applied and flagged. Taluka is also inconsistently reported: Wikipedia says Quepem; some travel sources say Sanguem — verify. CSV state-column error also applies: state is GOA."
+  },
+  "id": "shri-damodar-temple-zambaulim-goa",
+  "latitude": 15.1866443,
+  "longitude": 74.0948358,
+  "media": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Shri_Damodar_Temple_entrence_2_Zambaulim.jpg/500px-Shri_Damodar_Temple_entrence_2_Zambaulim.jpg"
+  ],
+  "name": "Shri Damodar Temple",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Damodar_Sansthaan",
+    "https://www.trawell.in/goa/panjim/shri-damodar-temple-zambaulim",
+    "https://www.joonsquare.com/religious-building/shri-damodar-temple-zambaulim-south-goa",
+    "https://www.bestgoadeals.com/About-Goa/Temples-of-Goa/Shri-Damodar-Temple.html"
+  ],
+  "state": "Goa",
+  "town": "Zambaulim",
+  "town_description": "Zambaulim is a village in Quepem taluka, South Goa, on the Kushawati river about 22 km from Margao. A quiet temple settlement on the edge of Goa's mining hinterland, it is best known for the Damodar temple complex and the river's reputedly medicinal waters.",
+  "tradition": "Hinduism (Shaivism)",
+  "travel": {
+    "airport": "Dabolim International Airport (GOI), roughly 65 km north-west",
+    "railway": "Balli railway station is the nearest; Madgaon Junction roughly 22 km north-west",
+    "road": "Via NH66 to Margao, then the Margao-Quepem road; ~5 km from Quepem; regular buses run from the Margao bus stand"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March; Shigmo (March) is the principal festival week",
+    "opening_hours": "Sources conflict — 5:30 AM-9:45 PM (Trawell) vs 6:00 AM-8:30 PM (Joonsquare) — verify locally. Free lunch/prasad reported for devotees after the midday aarti"
+  }
+}

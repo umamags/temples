@@ -1,0 +1,53 @@
+{
+  "alternate_names": [
+    "Shri Shantadurga (Kalangutkarin) Devasthan Nanora"
+  ],
+  "deities": [
+    "Shantadurga (worshipped as Vishweshwari)",
+    "Santeri (colloquial name of the goddess)"
+  ],
+  "district": "North Goa",
+  "festivals": [
+    "Shishirotsav (Shigmo, 10-day main festival)",
+    "Navaratri",
+    "Vasant Panchami",
+    "Akshaya Tritiya",
+    "Shravani Somvar",
+    "Dasara"
+  ],
+  "history": {
+    "dynasty": "Temple relocated during Portuguese rule; present structure rebuilt over centuries",
+    "period": "Original temple at Calangute (Bardez); shifted to Nanoda/Nanora, Bicholim taluka, in the 17th century; modern temple 17th century; marble renovation in the 1990s (verify exact dates)",
+    "summary": "Hindu temple at Nanoda (Nanora) village, Bicholim taluka, dedicated to Shantadurga, the goddess who mediates between Vishnu and Shiva (legend: she placed Vishnu on her right hand and Shiva on her left to end their battle; depicted holding a serpent in each hand). Worshipped here as Vishweshwari; colloquially 'Santeri'. The 800+-year-old idol in the sanctum is in lingam form (verify age claim). The original temple stood at Calangute, Bardez; in the 17th century, during the Portuguese-era forced conversions, the deity was moved to Nanora, where the modern temple (17th century) was built; it was reclad as a marble 'masterpiece' in the 1990s. The temple has a Dipa Stambha and agrashalas (guest houses); the main priest is traditionally from the Bhuskute family (Kokanstha Brahmins). IDENTIFICATION NOTE: the CSV name 'Shantadurga Temple, Bicholim' is ambiguous — Bicholim has no Shantadurga temple of this name in the town proper; the prominent Shantadurga temple in Bicholim taluka is the Kalangutkarin Devasthan at Nanoda/Nanora (Nanora lies between Assonora and Mulgaon, east of it Bicholim town), distinct from the famous Shanta Durga temple at Kavlem (Ponda). Chosen identity documented as provisional. CSV NOTE: 'state' column wrongly holds the town name; actual state is Goa; CSV town 'Bicholim' is the taluka/HQ, not the village (Nanoda ~5–7 km from Bicholim town — verify). Opening hours not found in sources (verify locally). Coordinates from Wikipedia (approximate, verify)."
+  },
+  "id": "shantadurga-kalangutkarin-temple-nanoda",
+  "latitude": 15.6346,
+  "longitude": 73.9253,
+  "media": [
+    "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Shantadurga_Kalangutkarin_Idol.JPG/1280px-Shantadurga_Kalangutkarin_Idol.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  ],
+  "name": "Shantadurga Temple, Bicholim",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Shantadurga_Kalangutkarin_Temple",
+    "https://myadhyatm.com/shantadurga-kalangutkarin-temple/",
+    "https://viharadarshani.in/2023/09/shantadurga-kalangutkarin-temple-timings-history-goa.html/"
+  ],
+  "state": "Goa",
+  "town": "Nanoda (Nanora), Bicholim taluka",
+  "town_description": "Nanoda (Nanora) is a village in Bicholim taluka, North Goa, lying between Assonora and Mulgaon east of Bicholim town. Like Mulgaon, it became a refuge in the 17th century for temples and deities relocated from Portuguese-held Bardez and Salcete; several important Goan temples cluster in this belt.",
+  "tradition": "Hinduism (Shaktism)",
+  "travel": {
+    "airport": "Manohar International Airport (Mopa) ~30 km; Dabolim Airport (GOI) ~40 km (verify distances)",
+    "railway": "Thivim junction ~18–20 km (verify); local buses from Mapusa and Bicholim town",
+    "road": "Accessible by road from Bicholim town (~5–7 km, verify) and Mapusa via Assonora."
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October–March; the 10-day Shishirotsav/Shigmo season is the main festival period (dates vary yearly).",
+    "opening_hours": "Not found in consulted sources (verify locally)"
+  }
+}

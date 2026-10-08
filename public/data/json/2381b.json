@@ -1,0 +1,42 @@
+{
+  "alternate_names": [],
+  "deities": [
+    "Hanuman"
+  ],
+  "district": "Bhiwani",
+  "festivals": [
+    "Hanuman Jayanti"
+  ],
+  "history": {
+    "dynasty": "Unknown",
+    "period": "Unknown",
+    "summary": "Identity uncertain/provisional: 'Hanuman Temple' is a generic name and Bhiwani has several Hanuman shrines, so the CSV row cannot be pinned to one. The most likely referent described in travel copy is the Hanuman temple in Jattan Mohalla, described by one (AI-generated) travel site as the oldest surviving religious structure in Bhiwani, 'believed to be over 300 years old' — single-source, unverified, flagged. Justdial separately lists 'Hanuman Mandir' at D.C. Colony Chowk, Stadium Road, Bhiwani (82 ratings) and 'Shree Hanuman Ji Mandir' at Lajpat Nagar (reported hours 6:00 AM–1:00 PM; a different shrine). Hanuman Jayanti and Tuesday/Saturday crowds are typical of such shrines but unverified for any specific one. The CSV 'state' column wrongly holds the town name; the actual state is Haryana. Coordinates are a town-level approximation (verify)."
+  },
+  "id": "hanuman-temple-bhiwani",
+  "latitude": 28.8061,
+  "longitude": 76.11031,
+  "media": [],
+  "name": "Hanuman Temple",
+  "sources": [
+    "https://www.optfind.com/Tourism/TourismDetails.php?tid=Place-to-Visit-and-Things-To-Do-in-Bhiwani-Haryana-India",
+    "https://www.justdial.com/Bhiwani/Temples/nct-10475644"
+  ],
+  "state": "Haryana",
+  "town": "Bhiwani",
+  "town_description": "Bhiwani is a city in southern Haryana and the headquarters of Bhiwani district. Popularly called 'Chhoti Kashi' for its numerous temples, it is a historic merchant and textile-trade town that has grown into a regional educational and industrial centre.",
+  "tradition": "Hindu",
+  "travel": {
+    "airport": "Hisar Airport, ~65 km (verify); Indira Gandhi International Airport, Delhi, ~125 km (verify)",
+    "railway": "Bhiwani Junction and Bhiwani City railway stations",
+    "road": "Bhiwani town; Jattan Mohalla (per one travel source) or D.C. Colony Stadium Road area (verify which)"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October–March; Hanuman Jayanti sees large crowds",
+    "opening_hours": "Unknown (verify)"
+  }
+}

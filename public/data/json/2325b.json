@@ -1,0 +1,42 @@
+{
+  "alternate_names": [],
+  "deities": [
+    "Goddess Siddheswari (Sakti)"
+  ],
+  "district": "Dhubri",
+  "festivals": [
+    "Durga Puja (provisional)"
+  ],
+  "history": {
+    "dynasty": "Unknown",
+    "period": "Unknown (identity unverified)",
+    "summary": "FLAG - IDENTITY UNVERIFIED: no web footprint whatsoever was found for a 'Siddheswari Temple' in Dhubri town or district, and it appears in no published temple list (including the 'Holy Shrines of Assam' Dhubri chapter, which lists Alokjharir Thaan, Dudhnath Devalaya, Kamakhya Thaan, Mahamaya Thaan, Matherjhar Siva Temple and Sal kosa Kali Thaan). Do NOT conflate with the well-documented Siddheswari temple at Sualkuchi (Kamrup district, Assam) or the Siddheswari temple at Cooch Behar (West Bengal). Coordinates below are a Dhubri-town fallback and are approximate. CSV state column held the town name ('Dhubri'); corrected to Assam. This row needs field verification or exclusion from the final dataset."
+  },
+  "id": "siddheswari-temple-dhubri",
+  "latitude": 26.01752,
+  "longitude": 89.99305,
+  "media": [],
+  "name": "Siddheswari Temple",
+  "sources": [
+    "https://en.wikivoyage.org/wiki/Ambika_Kalna",
+    "https://archive.org/stream/in.ernet.dli.2015.125617/2015.125617.Holy-Shrines-Of-Assam_djvu.txt"
+  ],
+  "state": "Assam",
+  "town": "Dhubri",
+  "town_description": "Dhubri, on the Brahmaputra in far western Assam near the Bengal border, is the headquarters of Dhubri district and one of the region's oldest towns. It is known for Mahamaya Dham (Bogribari), the historic Rangamati Mosque, the Tegh Bahadur Gurudwara, and the Asharikandi terracotta craft village.",
+  "tradition": "Hinduism (Shaktism - provisional)",
+  "travel": {
+    "airport": "Rupsi Airport is the nearest domestic airport (approx.)",
+    "railway": "Dhubri Railway Station",
+    "road": "Road links to Guwahati, Kokrajhar and Cooch Behar across the West Bengal border"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March (provisional)",
+    "opening_hours": "Not verified (verify)"
+  }
+}

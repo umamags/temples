@@ -1,0 +1,54 @@
+{
+  "alternate_names": [
+    "Surya Pahar",
+    "Srisurya Devalaya"
+  ],
+  "deities": [
+    "Shiva (rock-cut lingams)",
+    "Surya",
+    "Vishnu",
+    "Ardhanarisvara",
+    "Jain Tirthankaras Adinath and Neminath",
+    "Buddha (votive stupas)"
+  ],
+  "district": "Goalpara",
+  "festivals": [
+    "Sri Sri Surya Mela (around Maghi Purnima, January)"
+  ],
+  "history": {
+    "dynasty": "Various Kamarupa and later kingdoms",
+    "period": "c. 100 BC-100 AD (earliest stupa phase) through 10th-12th century AD",
+    "summary": "FLAG - INTERFAITH SITE, not a Hindu-only temple: Sri Surya Pahar, about 13 km southeast of Goalpara, is a hilly archaeological landscape (c. 1 sq km) where Hindu, Buddhist and Jain remains coexist. Hindu remains include hundreds of rock-cut Shiva lingams scattered over the hills, low-relief figures of Surya, Vishnu and Ardhanarisvara, and the stone-paved Ganesh kunda stream; Buddhist remains include rock-cut monolithic stupas (earliest phase c. 100 BC-100 AD), votive stupas and an excavated monastic complex; Jain remains include rock-cut figures of Tirthankaras Adinath and Neminath under a rock shelter, plus remains of brick and stone temples. Local tradition credits Vyasa with carving 99,999 lingams to make a second Kashi (traditional claim, not an archaeological count). The ASI excavated the site over nine seasons in 1992-2001 (archaeologist K. K. Muhammed); the site has been under ASI protection since the 1960s and has a site museum. Nearby Dekdhuwa Pahar and Mahadev Pahar (protected by the Directorate of Archaeology, Assam) share the same complex character. Coordinates are approximate and differ from the Wikipedia infobox figure. CSV state column held the town name ('Goalpara'); corrected to Assam."
+  },
+  "id": "sri-surya-pahar-temple-complex-goalpara",
+  "latitude": 26.16248,
+  "longitude": 90.6213,
+  "media": [
+    "https://srisuryapahar.com/images/Shri%20Surya%20Pahar/HOME%20SECTION/Buddhist%20stupas%20scattered%20across%20the%20slopes..jpg"
+  ],
+  "name": "Sri Surya Pahar Temple Complex",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Sri_Surya_Pahar",
+    "https://assaminfo.com/tourist-places/sri-surya-pahar",
+    "https://pdfs.semanticscholar.org/0baf/e2f140146e9dcbbbc90c7fc3ac769f1b547c.pdf",
+    "https://archive.org/stream/in.ernet.dli.2015.125617/2015.125617.Holy-Shrines-Of-Assam_djvu.txt"
+  ],
+  "state": "Assam",
+  "town": "Goalpara",
+  "town_description": "Goalpara, on the south bank of the Brahmaputra in western Assam, is the headquarters of Goalpara district and a gateway town between Upper Assam and the North Bengal hills. Its surroundings hold one of Assam's richest archaeological clusters, led by Sri Surya Pahar.",
+  "tradition": "Interfaith: Hinduism (Shaivism), Buddhism, Jainism",
+  "travel": {
+    "airport": "Lokpriya Gopinath Bordoloi International Airport, Guwahati (approx. 130-140 km per travel sources)",
+    "railway": "Goalpara Town Railway Station",
+    "road": "About 13 km from Goalpara town by road; taxis and local transport available"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "November to February",
+    "opening_hours": "Commonly listed as roughly 9:00 AM-5:00 PM (verify)"
+  }
+}

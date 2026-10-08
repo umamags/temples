@@ -1,0 +1,48 @@
+{
+  "alternate_names": [
+    "Durga Shakti Temple, Uttarkashi"
+  ],
+  "deities": [
+    "Durga/Shakti (worshipped in the form of a giant trishul)"
+  ],
+  "district": "Uttarkashi",
+  "festivals": [
+    "Navratri",
+    "Dussehra"
+  ],
+  "history": {
+    "dynasty": "Unknown",
+    "period": "Ancient (mentioned in the Skanda Purana's Kedar Khanda); age of the trishul variously estimated over 1500 years (weakly sourced, unverified)",
+    "summary": "Prominent Shakti shrine within the Vishwanath temple complex, opposite the Vishwanath shrine on the Bhagirathi bank. Its centrepiece is a 6-metre iron-and-copper trident believed to be Durga's weapon against demons; local belief says it cannot be moved by force but vibrates at a gentle touch. Legends include a failed Gorkha-period excavation attempt and Tibetan/Naga-dynasty inscriptions on the trident - all unverified. OVERLAP NOTE: this temple stands in the same complex as the Vishwanath Temple (row 4, id vishwanath-temple-uttarkashi); consider whether the CSV's two rows should be kept separate or merged. CSV town Uttarkashi is correct; CSV 'state' column holds town names - corrected to Uttarakhand."
+  },
+  "id": "shakti-temple-uttarkashi",
+  "latitude": 30.72893,
+  "longitude": 78.44169,
+  "media": [
+    "https://www.chinmayamission.com/_next/image?url=https%3A%2F%2Fimages.chinmayamission.com%2Fuploads%2FTrishul_at_Uttarkashi_9ef543b0da.jpg&w=828&q=75"
+  ],
+  "name": "Shakti Temple",
+  "sources": [
+    "https://www.thrillophilia.com/attractions/shakti-temple-uttarkashi",
+    "https://www.tripadvisor.in/Attraction_Review-g1222155-d4089033-Reviews-Shakti_Temple-Uttarkashi_Uttarkashi_District_Uttarakhand.html",
+    "https://Wanderlog.com/place/details/597858/shakti-temple-at-uttarkasi"
+  ],
+  "state": "Uttarakhand",
+  "town": "Uttarkashi",
+  "town_description": "Uttarkashi is a pilgrim town in the Garhwal Himalaya on the Bhagirathi river, the district headquarters and a key Char Dham stopover en route to Gangotri.",
+  "tradition": "Hinduism",
+  "travel": {
+    "airport": "Jolly Grant Airport, Dehradun (nearest airport)",
+    "railway": "Rishikesh (nearest railhead)",
+    "road": "In the main town of Uttarkashi, about 1 km from the bus stand, inside the Vishwanath temple complex."
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "March to May and September to November; Navratri and Dussehra draw the largest crowds.",
+    "opening_hours": "5 AM to 1 PM and 4 PM to 8 PM (verify before visiting)."
+  }
+}

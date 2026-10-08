@@ -1,0 +1,43 @@
+{
+  "alternate_names": [
+    "Shree Sateri Temple"
+  ],
+  "deities": [
+    "Goddess Sateri (Santeri — the ancient Mother-goddess form widely worshipped in Goa as a form of Shantadurga/Durga)"
+  ],
+  "district": "South Goa",
+  "festivals": [],
+  "history": {
+    "dynasty": "Not documented",
+    "period": "Not documented",
+    "summary": "IDENTITY UNCERTAIN — thin placeholder. The CSV row 'Shri Sateri Temple, Curchorem' has no dedicated web footprint: no temple website, history page, address, or hours could be found. The only evidence is generic travel-site listings naming a 'Shree Sateri Temple' among Curchorem's attractions (e.g. DDCab pages). Sateri/Santeri is a real and very widely worshipped Mother-goddess in Goa (form of Shantadurga), and there are multiple distinct Sateri shrines across the state (Merces near Panaji, Bicholim, Mardol, Keri, etc.), so this row may refer to a small local village shrine in the Curchorem area — but that is NOT confirmed. This entry is therefore provisional: flag for Mahesh to confirm, drop, or merge. CSV STATE COLUMN ERROR: the row's 'state' column holds the town name; actual state is GOA. Coordinates are town-level (Curchorem) only — approximate. No verified image found; media intentionally empty."
+  },
+  "id": "shri-sateri-temple-curchorem-goa",
+  "latitude": 15.23202,
+  "longitude": 74.0954,
+  "media": [],
+  "name": "Shri Sateri Temple",
+  "sources": [
+    "https://ddcab.com/solapur-to-curchorem-cabs",
+    "https://en.wikipedia.org/wiki/Shantadurga",
+    "https://vimarsana.com/review/sateri-temple-merces-gram-devi-panaji-goa-india"
+  ],
+  "state": "Goa",
+  "town": "Curchorem",
+  "town_description": "Curchorem (Curchorem-Cacora) is a municipal town in Quepem taluka, South Goa, on the Zuari river hinterland about 35 km south-east of Margao. Once a mining centre, it is a market town for surrounding villages, near the Bhagwan Mahaveer Sanctuary and a cluster of local Hindu and Catholic shrines.",
+  "tradition": "Hinduism (Shaktism)",
+  "travel": {
+    "airport": "Dabolim International Airport (GOI), roughly 60 km north-west",
+    "railway": "Madgaon Junction, roughly 35 km north-west; Sanvordem/Curchorem rail halt locally",
+    "road": "On the Margao-Curchorem-Quepem road network; buses and taxis from Margao and Quepem"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "November to February",
+    "opening_hours": "Not documented — verify locally"
+  }
+}

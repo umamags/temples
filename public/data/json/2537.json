@@ -1,0 +1,40 @@
+{
+  "alternate_names": [],
+  "deities": [
+    "Venkateswara"
+  ],
+  "district": "Suryapet",
+  "festivals": [],
+  "history": {
+    "dynasty": "",
+    "period": "Unknown",
+    "summary": "Thinly sourced record. ETV Telugu's Teerthayatra programme aired an episode on 'Sri Venkateswara Temple, Suryapet' (9 Aug 2025), confirming a notable local Vaishnava shrine in Suryapet town, and Justdial lists a Venkateswara Temple at Madhavaram, Suryapet. No reliable published history, founding date, architecture, festival or timing details were found online. Coordinates are Suryapet town centre - exact temple location unverified. CSV 'state' column held the town name; actual state is Telangana."
+  },
+  "id": "sri-venkateswara-temple-suryapet",
+  "latitude": 17.15349,
+  "longitude": 79.62006,
+  "media": [],
+  "name": "Sri Venkateswara Temple",
+  "sources": [
+    "https://www.youtube.com/watch?v=Dskw9rz4pXs",
+    "https://www.justdial.com/Suryapet/Temples/nct-10475644/page-8"
+  ],
+  "state": "Telangana",
+  "town": "Suryapet",
+  "town_description": "Suryapet is a town and district headquarters in eastern Telangana, about 140 km from Hyderabad on the Hyderabad-Vijayawada highway (NH65). It is a regional commercial hub and the district's main urban centre, with the Musi river flowing nearby.",
+  "tradition": "Hinduism",
+  "travel": {
+    "airport": "Rajiv Gandhi International Airport, Hyderabad (~140 km; verify)",
+    "railway": "",
+    "road": "NH65 (Hyderabad-Vijayawada); local transport in Suryapet town"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to February (verify)",
+    "opening_hours": "Not verified from published sources"
+  }
+}

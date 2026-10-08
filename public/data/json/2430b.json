@@ -1,0 +1,48 @@
+{
+ "alternate_names": [
+  "Chhatris of Shivpuri",
+  "Scindia Chhatris",
+  "Shivpuri Chhatris",
+  "Cenotaphs of the Scindia Dynasty"
+ ],
+ "deities": [
+  "Royal memorial shrines (samadhis) of deceased Scindia rulers - includes a Shri Ram mandir within the complex; not a consecrated Hindu temple"
+ ],
+ "district": "Shivpuri",
+ "festivals": [],
+ "history": {
+  "dynasty": "Scindia (Shinde) dynasty of Gwalior (Maratha)",
+  "period": "19th-early 20th century (cenotaph complex; individual chhatris added over the Scindia era)",
+  "summary": "The Shivpuri Chhatris are a MEMORIAL/HERITAGE COMPLEX, not a conventional temple - document accordingly. They are the royal cenotaphs (samadhis) of the Scindia dynasty rulers of Gwalior, set in a formal Mughal-style garden with a water tank, in Shivpuri, Madhya Pradesh (the CSV 'state' column holds the town name 'Shivpuri' - the real state is Madhya Pradesh). Notable cenotaphs include those of Madho Rao Scindia and the dowager queen Maharani Sakhya Raje Scindia, facing each other. The architecture blends Mughal, Malwa and Hindu-Islamic styles; life-size portraits of the Scindias are kept within and worshipped with flowers and incense. A Shri Ram mandir stands inside the complex. Entry fee Rs 15 per head plus Rs 10 photography charge was reported in a 2021 visitor review (verify - may be outdated). Visitor reports conflict on hours: 9 AM - 5 PM vs 8 AM - 8 PM - flag as conflict. A Madhav National Park temple is a separate site; do not conflate. Keep-or-drop decision for the temples dataset."
+ },
+ "id": "chhatri-temple-complex-shivpuri",
+ "latitude": 25.42573,
+ "longitude": 77.68212,
+ "media": [
+  "https://assets.traveltriangle.com/blog/wp-content/uploads/2020/01/Sindhiyas_Chhatri_No_5_Shivpuri.jpg?tr=w-400"
+ ],
+ "name": "Chhatri Temple Complex",
+ "sources": [
+  "https://www.tripadvisor.ca/ShowUserReviews-g1156411-d3912935-r886508037-Chhatris-Shivpuri_Shivpuri_District_Madhya_Pradesh.html",
+  "http://WWW.onefivenine.com/india/Travel/Place/Shivpuri",
+  "https://www.theweekendleader.com/Culture/1703/natures-gift.html"
+ ],
+ "state": "Madhya Pradesh",
+ "town": "Shivpuri",
+ "town_description": "Shivpuri, once the summer capital of the Scindias, is a historic town in northern Madhya Pradesh amid the Vindhyan forests. Besides the chhatris it hosts Madhav National Park (with the Sakhya Sagar lake), Madhav Vilas Palace and George Castle; the chhatris stand near the MPT Tourist Village on Chhatri Road.",
+ "tradition": "Royal memorial complex (Scindia samadhis in Mughal-garden setting with a Shri Ram shrine inside) - NOT a conventional consecrated Hindu temple; keep-or-drop decision needed.",
+ "travel": {
+  "airport": "Gwalior airport is the nearest major airport (~115-120 km - verify).",
+  "railway": "Shivpuri Junction on the Gwalior-Shivpuri line (verify).",
+  "road": "Shivpuri town on NH-25, ~115 km south of Gwalior (verify); the chhatris are on Chhatri Road near the MPT Tourist Village."
+ },
+ "video": {
+  "audio": "",
+  "script": "",
+  "video_file": ""
+ },
+ "visitor_information": {
+  "best_time": "October to March (pleasant; winter mornings best).",
+  "opening_hours": "CONFLICT between visitor sources: one reports 9 AM - 5 PM, another reports 8 AM - 8 PM; entry fee Rs 15/head + Rs 10 photography per a 2021 review - all unverified; confirm locally before visiting."
+ }
+}

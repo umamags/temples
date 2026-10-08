@@ -1,0 +1,44 @@
+{
+ "alternate_names": [
+  "Hanuman Mandir near Sakhya Sagar",
+  "Shivpuri Hanuman Temple (Sakhya Sagar)"
+ ],
+ "deities": [
+  "Hanuman (identity of the shrine is unverified - provisional placeholder)"
+ ],
+ "district": "Shivpuri",
+ "festivals": [],
+ "history": {
+  "dynasty": "Unknown (no published history found)",
+  "period": "Unknown - identity uncertain/provisional",
+  "summary": "PROVISIONAL PLACEHOLDER: no reliable web footprint exists for a specific 'Sakhya Sagar Hanuman Temple'. Web searches confirm the Sakhya Sagar lake itself - a Ramsar site (declared 26 July 2022) in Madhav National Park, Shivpuri, Madhya Pradesh, created in 1918 when the Maharaja of Gwalior built a dam across the Manihar river - and a generic 'Hanuman Temple, Shivpuri' listing, but no history, dates, photos or dedicated page for a Hanuman shrine at Sakhya Sagar. The CSV 'state' column holds the town name 'Shivpuri' - the real state is Madhya Pradesh. Do not treat this row as a verified temple; field verification needed before publishing."
+ },
+ "id": "sakhya-sagar-hanuman-temple-shivpuri",
+ "latitude": 25.43056,
+ "longitude": 77.63688,
+ "media": [],
+ "name": "Sakhya Sagar Hanuman Temple",
+ "sources": [
+  "https://www.tripclap.com/places/shivpuri/sakhya-sagar-lake-sightseeing-4739",
+  "http://testbook.com/question-answer/sakhya-sagar-recently-declared-as-ramsar-site-is--63806b98a449d546ba4d76f5/amp",
+  "https://mail.jatland.com/w/index.php?title=Tourism_in_Shivpuri&diff=prev&oldid=656846"
+ ],
+ "state": "Madhya Pradesh",
+ "town": "Shivpuri (Sakhya Sagar lake area, Madhav National Park - approximate; shrine identity unverified)",
+ "town_description": "Sakhya Sagar is a lake inside Madhav National Park at Shivpuri, Madhya Pradesh, created in 1918 by damming the Manihar river under the Gwalior Maharaja. Declared a Ramsar wetland in July 2022, it is a key water source for the park's wildlife (including marsh crocodiles and migratory waterfowl). A Hanuman shrine is locally reported near the lake but no verified details exist.",
+ "tradition": "Unknown (provisional placeholder - verify before treating as a Hindu temple record)",
+ "travel": {
+  "airport": "Gwalior airport (~115-120 km - verify).",
+  "railway": "Shivpuri Junction (verify).",
+  "road": "Shivpuri town is ~115 km south of Gwalior on NH-25 (verify); the lake lies inside Madhav National Park - entry and access subject to forest department rules."
+ },
+ "video": {
+  "audio": "",
+  "script": "",
+  "video_file": ""
+ },
+ "visitor_information": {
+  "best_time": "October to March.",
+  "opening_hours": "Unknown - unverified placeholder; do not publish hours."
+ }
+}

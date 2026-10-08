@@ -1,0 +1,48 @@
+{
+  "alternate_names": [
+    "Medak Cathedral",
+    "Church of South India Diocese of Medak"
+  ],
+  "deities": [],
+  "district": "Medak",
+  "festivals": [
+    "Christmas (25 December - consecration anniversary; centenary celebrated December 2024)"
+  ],
+  "history": {
+    "dynasty": "British colonial era",
+    "period": "1914-1924",
+    "summary": "NOT A HINDU TEMPLE - keep-or-drop decision needed. Medak Cathedral is a Christian (Church of South India) cathedral, not a Hindu temple. Built 1914-1924 under Rev. Charles Walker Posnett of the British Wesleyan Methodists on 1,000 acres in the Ghusnabad area; construction gave famine-relief employment ('food for work') during the 1919-1921 famine instead of a free kitchen. Consecrated 25 December 1924. From 1924-1947 it was the Wesleyan Methodist Church; it became the cathedral of the Diocese of Medak when the Church of South India formed in October 1947. Gothic Revival structure, 200 ft x 100 ft, 175 ft bell tower, capacity ~5,000; mosaic tiles imported from Britain laid by Italian masons from Bombay; three major stained-glass windows (Nativity, Crucifixion, Ascension) installed 1927-1958. Seat of the Medak diocese, claimed as Asia's largest and the world's second largest diocese after the Vatican (diocese claim unverified)."
+  },
+  "id": "medak-church",
+  "latitude": 18.05831,
+  "longitude": 78.26674,
+  "media": [
+    "https://www.csimedakdiocese.org/images/gallery/2.jpg"
+  ],
+  "name": "Medak Church",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Medak_Cathedral",
+    "https://medak.telangana.gov.in/medak-cathedral-church/",
+    "https://www.telangana360.com/2016/01/medak-cathedral.html",
+    "https://www.exploretelangana.com/medak-church-cathedral/",
+    "https://hiindia.com/telangana-cm-participates-in-centenary-celebrations-of-medak-church/"
+  ],
+  "state": "Telangana",
+  "town": "Medak",
+  "town_description": "Medak is a historic town and district headquarters in northern Telangana, about 100 km from Hyderabad. It is known for the Medak Fort (Kakatiya-era) and the Medak Cathedral; the name Medak is said to derive from 'methuku' (cooked rice) in Telugu.",
+  "tradition": "Christianity",
+  "travel": {
+    "airport": "Rajiv Gandhi International Airport, Hyderabad (~100 km)",
+    "railway": "",
+    "road": "By road from Hyderabad (~100 km)"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March",
+    "opening_hours": "Daily; free public viewing (verify exact hours)"
+  }
+}

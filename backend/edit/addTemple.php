@@ -22,15 +22,7 @@ try {
     $name = trim($data['name']);
     $location_id = intval($data['location_id']);
     $deity = isset($data['deity']) ? trim($data['deity']) : null;
-    $year_constructed = isset($data['year_constructed']) ? intval($data['year_constructed']) : null;
     $location_note = isset($data['location_note']) ? trim($data['location_note']) : null;
-    $website = isset($data['website']) ? trim($data['website']) : null;
-    $image_url = isset($data['image_url']) ? trim($data['image_url']) : null;
-    $source = isset($data['source']) ? trim($data['source']) : 'manual';
-
-    // Handle festivals_and_events as JSON
-    $festivals = isset($data['festivals_and_events']) ? $data['festivals_and_events'] : [];
-    $festivals_json = is_array($festivals) ? json_encode($festivals) : null;
 
     $db = Database::getInstance();
     $mysqli = $db->getConnection();
@@ -46,8 +38,8 @@ try {
 
     // Insert temple
     $insertQuery = "
-        INSERT INTO temples (name, deity, location_id, year_constructed, location_note, website, image_url, festivals_and_events, source)
-        VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)
+        INSERT INTO temples (name, deity, location_id, location_note)
+        VALUES (?, ?, ?, ?)
     ";
 
     $stmt = $mysqli->prepare($insertQuery);
@@ -55,7 +47,7 @@ try {
         sendError('Prepare failed: ' . $mysqli->error, 'QUERY_ERROR', 500);
     }
 
-    $stmt->bind_param('ssiissss', $name, $deity, $location_id, $year_constructed, $location_note, $website, $image_url, $festivals_json, $source);
+    $stmt->bind_param('ssis', $name, $deity, $location_id, $location_note);
 
     if (!$stmt->execute()) {
         sendError('Insert failed: ' . $stmt->error, 'INSERT_ERROR', 500);

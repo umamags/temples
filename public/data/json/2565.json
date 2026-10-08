@@ -1,0 +1,51 @@
+{
+  "alternate_names": [
+    "Baleshwar Mahadev Temple"
+  ],
+  "deities": [
+    "Shiva (as Baleshwar)",
+    "Ratneshwar (Shiva)",
+    "Champawati Durga"
+  ],
+  "district": "Champawat",
+  "festivals": [
+    "Mahashivratri (large fair)"
+  ],
+  "history": {
+    "dynasty": "Chand (rulers of Kumaon; reconstruction under Uday Chand and Hari Chand)",
+    "period": "10th-12th centuries CE (per Wikipedia infobox); 13th-century construction (1390 CE by Garud Gyan Chand) also claimed",
+    "summary": "Ancient Shiva temple complex in Champawat town, famous for its stone carving. DATE CONFLICT: Wikipedia's infobox dates it to the 10th-12th centuries under the Chand dynasty, while its text cites a belief that Garud Gyan Chand built it in 1390 CE, with reconstruction by Uday Chand (1420-1421) and Hari Chand (1423-1427, copperplate inscription of 1423 CE) (verify). The compound holds the main Baleshwar shrine plus Ratneshwar and Champawati Durga temples, with carved exteriors and a nearby naula (freshwater spring); a crowded fair is held on Mahashivratri. Maintained by the Archaeological Survey of India since 1952 (designated national heritage monument). CSV state correction: the state column holds town names; the real state is Uttarakhand (town Champawat is correct)."
+  },
+  "id": "baleshwar-temple",
+  "latitude": 29.33657,
+  "longitude": 80.08988,
+  "media": [
+    "https://www.indiaunveiled.in/sites/default/files/Baleshwar%20temple.jpg"
+  ],
+  "name": "Baleshwar Temple",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Baleshwar_Temple",
+    "https://www.poojn.in/post/19344/baleshwar-temple-champawat-your-spiritual-journey",
+    "https://traveltriangle.com/blog/baleshwar-temple/",
+    "https://devdhamyatra.com/blog/baleshwar-mahadev-temple-champawat-uttarakhand",
+    "https://templeyatri.in/baleshwar-temple-champawat-timings/"
+  ],
+  "state": "Uttarakhand",
+  "town": "Champawat",
+  "town_description": "Champawat is the historic former capital of the Chand dynasty in Kumaon, Uttarakhand, set amid forested hills. It is rich in medieval temples, including the Baleshwar complex and Kranteshwar Mahadev.",
+  "tradition": "Hinduism",
+  "travel": {
+    "airport": "Pantnagar Airport (~160 km)",
+    "railway": "Tanakpur Railway Station (~60 km)",
+    "road": "Well connected by motorable roads from Tanakpur, Haldwani and other Kumaon towns; temple is within Champawat town"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "April to June (pleasant summer); September to November (clear mountain views)",
+    "opening_hours": "Dawn to evening (typically reported 6:00 AM-8:00 PM; exact hours shift seasonally - verify locally)"
+  }
+}

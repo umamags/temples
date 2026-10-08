@@ -1,0 +1,44 @@
+{
+  "alternate_names": [],
+  "deities": [
+    "Hanuman"
+  ],
+  "district": "Peren",
+  "festivals": [
+    "Hanuman Jayanti",
+    "Ram Navami"
+  ],
+  "history": {
+    "dynasty": "",
+    "period": "",
+    "summary": "CSV DUPLICATE-ID FLAG: '2477b' is the second occurrence of duplicated CSV id 2477 — the 'a' row (id belur-math-howrah-duplicate) is Belur Math, Howrah, West Bengal, a completely different temple. CSV STATE CORRECTION: the CSV 'state' column wrongly holds the town name 'Peren'; the actual state is Nagaland. IDENTITY UNCONFIRMED: no web footprint found for a Hanuman temple in Peren town after targeted searches; treated as a thin placeholder. Likely a small community shrine serving Peren's small Hindu minority (migrants, traders, security personnel), as Peren district is overwhelmingly Christian. No building date, founder, or history verifiable. Coordinates are town-level (map geocode of Peren), NOT the shrine's exact location. media is empty: image search found no verifiable photo of this shrine; using an unrelated generic photo would misrepresent it. Opening hours and festivals are standard observances, not verified for this shrine."
+  },
+  "id": "hanuman-temple-peren-nagaland",
+  "latitude": 25.53259,
+  "longitude": 93.73906,
+  "media": [],
+  "name": "Hanuman Temple",
+  "sources": [
+    "http://www.onefivenine.com/india/Listing/Town/temples/Peren/Peren",
+    "https://ipr.nagaland.gov.in/index.php/GOVERNOR-OF-NAGALAND-VISITS-SITLA-MATA-MANDIR-AND-HUNUMAN-MANDIR",
+    "https://yappe.in/nagaland/dimapur/hanuman-temple/481072"
+  ],
+  "state": "Nagaland",
+  "town": "Peren",
+  "town_description": "Peren is the district headquarters town of Peren district in western Nagaland, set in the foothills adjoining Assam. It is a small administrative centre serving Zeliang Naga communities and a gateway to Intangki National Park. Like most of Nagaland, the town is overwhelmingly Christian, with only a small Hindu population.",
+  "tradition": "Hinduism",
+  "travel": {
+    "airport": "Dimapur (~75 km, nearest; verify)",
+    "railway": "Dimapur (verify)",
+    "road": "Peren-Jalukie road connecting to NH 129A via Dimapur (verify)"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October-March",
+    "opening_hours": "Daytime only; hours not published (verify)"
+  }
+}

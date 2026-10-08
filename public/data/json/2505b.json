@@ -1,0 +1,51 @@
+{
+  "alternate_names": [
+    "Laxman Mandir, Bharatpur",
+    "New Laxman Temple (listing name)"
+  ],
+  "deities": [
+    "Lakshman (brother of Rama)",
+    "Smaller idols of Ram, Bharat, Shatrughan and Hanuman (per velpu)"
+  ],
+  "district": "Bharatpur",
+  "festivals": [
+    "Ram Navami (verify - typical but not confirmed in sources)"
+  ],
+  "history": {
+    "dynasty": "Jat rulers of Bharatpur; founded by Maharaja Baldev Singh, completed by his son Maharaja Balwant Singh",
+    "period": "18th-19th century; idols enshrined in Vikram Samvat 1947 (1890 CE, per velpu - verify)",
+    "summary": "IDENTITY FLAG: Bharatpur's city centre holds TWO Laxman temples - an older ~400-year-old shrine in the main market said to have been established by the sage Naga Baba, and this royal temple on Laxman Mandir Road (Gur Ki Mandi/Pai Bagh) founded by Maharaja Baldev Singh and completed by his son Balwant Singh; travel writers note the two stand close together, so the CSV row may refer to either (verify which). The royal temple's legend: Baldev Singh met the saint Sant Dass, a great devotee of Laxmanji, laid the foundation, and then declared his son Balwant Singh his successor; the idols were enshrined in Vikram Samvat 1947 (1890 CE). It is built of almond-coloured Bansi Paharpur sandstone with white marble on the first storey, with ornate relief work - floral patterns and birds on the jagmohan front, ceiling, doors, pillars, walls and arches - and smaller idols of Hanuman, Shatrughan, Bharat and Ram. The Bharatpur royal family regards this and the Deeg Laxmanji temple as their royal temples (per a pujari account on velpu). CSV STATE FLAG: the CSV 'state' column wrongly repeats the town name - actual state is Rajasthan. COORDINATES (27.21333, 77.49114) are a street-level geocode for Laxman Mandir Road - approximate, verify. HOURS FLAG: velpu lists 7:00 AM-7:00 PM daily while a visitor review reports afternoon closure with reopening around 5:30 PM (conflict - verify)."
+  },
+  "id": "laxman-temple-bharatpur",
+  "latitude": 27.21333,
+  "longitude": 77.49114,
+  "media": [
+    "https://www.tusktravel.com.mx/blog/wp-content/uploads/2025/07/Rajasthan-Laxman-Mandir-Bharatpur.jpg"
+  ],
+  "name": "Laxman Temple",
+  "sources": [
+    "https://velpu.com/temple/LAXMAN-TEMPLE/MTIwMQ==",
+    "http://www.99mustsee.com/India/Laxman-Temple-Bharatpur-Rajasthan-Attractions-4091",
+    "https://travelandleisureasia.com/in/destinations/guide-to-bharatpur-for-history-and-wildlife-in-rajasthan/",
+    "https://www.triphobo.com/places/bharatpur-rajasthan-india/things-to-do/family-and-kids",
+    "https://www.airial.travel/attractions/india/bharatpur/new-laxman-temple-cndW1cpa"
+  ],
+  "state": "Rajasthan",
+  "town": "Bharatpur (Laxman Mandir Road, Gur Ki Mandi/Pai Bagh)",
+  "town_description": "Bharatpur is a city in eastern Rajasthan, former capital of the Jat kingdom, known for the Lohagarh Fort and the Keoladeo National Park. The Laxman Mandir stands on Laxman Mandir Road in the Gur Ki Mandi/Pai Bagh area of the city centre, close to the main market where a second, older Laxman shrine also stands.",
+  "tradition": "Hinduism (Vaishnavism)",
+  "travel": {
+    "airport": "Agra's Kheria Airport, about 55-60 km (verify)",
+    "railway": "Bharatpur Junction, about 2-3 km (verify)",
+    "road": "Central city on Laxman Mandir Road; no parking at the temple - walk or take an e-rickshaw/auto (per visitor reviews)"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March",
+    "opening_hours": "velpu lists 7:00 AM-7:00 PM daily; a visitor review reports afternoon closure with reopening around 5:30 PM (conflict - verify)"
+  }
+}

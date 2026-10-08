@@ -1,0 +1,50 @@
+{
+  "alternate_names": [
+    "Dharmapuri Sri Lakshmi Narasimha Swamy Temple",
+    "Dakshina Kashi"
+  ],
+  "deities": [
+    "Lakshmi Narasimha Swamy"
+  ],
+  "district": "Jagtial",
+  "festivals": [
+    "Narasimha Jayanti",
+    "Vaikuntha Ekadashi",
+    "Kartika Pournami"
+  ],
+  "history": {
+    "dynasty": "Chalukya/Kakatiya foundations; rebuilt 17th century",
+    "period": "1018 CE (per inscriptions); present structure 17th century",
+    "summary": "On the west bank of the Godavari at Dharmapuri, ~30 km from Jagtial town. Temple inscriptions date the original foundation to 1018 CE; it was damaged/destroyed during 14th-15th century conquests (one temple was converted into a mosque by Rustumdikhan in the mid-15th century, per local history) and rebuilt by Hindus in the 17th century, re-dedicated to Lakshmi Narasimha. The town is said to take its name from King Dharma Varma and is called Dakshina Kashi ('Banaras of the South'). The site is mentioned in the Dharmapuri Kshetra Mahatmya and in the Padma and Brahmanda Puranas; a Kurikyala inscription of the Vemulavada Chalukyas attests its antiquity. One of the Nava Narasimha kshetras of the Deccan. The Kakatiya-era four-pillared kalyanamandapam with carved pillars survives. FLAG: three existing dataset ids ('lakshmi-narasimha-swamy-temple-dharmapuri', '-csv-duplicate', 'sri-lakshmi-narasimha-swamy-temple-dharmapuri-duplicate') already cover this temple - possible duplicate/overlap."
+  },
+  "id": "dharmapuri-lakshmi-narasimha-temple",
+  "latitude": 18.95027,
+  "longitude": 79.09758,
+  "media": [
+    "https://famoustemplesofindia.com/wp-content/uploads/2023/12/Dharmapuri-Temple-1-1024x768.jpg.webp"
+  ],
+  "name": "Dharmapuri Lakshmi Narasimha Temple",
+  "sources": [
+    "https://www.tripadvisor.in/Attraction_Review-g17829013-d23413054-Reviews-Dharmapuri_Sri_Lakshmi_Narasimha_Swamy_Temple-Dharmapuri_Jagtial_District_Tela.html",
+    "https://picryl.com/amp/media/lakshmi-narasimha-swamy-temple-dharmapuri-telangana-25-b270f6",
+    "https://famoustemplesofindia.com/6th-century-dharmapuri-temple-jagtial/"
+  ],
+  "state": "Telangana",
+  "town": "Dharmapuri",
+  "town_description": "Dharmapuri is a temple town on the west bank of the Godavari river in Jagtial district, Telangana, near the district's border with Mancherial district. Known as Dakshina Kashi, it is an ancient centre of Vedic learning and Vaishnava pilgrimage.",
+  "tradition": "Hinduism",
+  "travel": {
+    "airport": "Rajiv Gandhi International Airport, Hyderabad (~230 km; verify)",
+    "railway": "Nearest: Mancherial (~40 km; verify)",
+    "road": "~30 km by road from Jagtial town"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March",
+    "opening_hours": "5:00 am - 2:00 pm; 4:00 - 8:00 pm (verify)"
+  }
+}

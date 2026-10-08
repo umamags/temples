@@ -1,0 +1,53 @@
+{
+  "alternate_names": [
+    "Dwarkadheesh Temple",
+    "Dwarkadhish Mandir"
+  ],
+  "deities": [
+    "Krishna",
+    "Radha"
+  ],
+  "district": "Mathura",
+  "festivals": [
+    "Janmashtami",
+    "Holi",
+    "Jhulan Yatra (Jhulan Leela)",
+    "Radhashtami",
+    "Diwali"
+  ],
+  "history": {
+    "dynasty": "Maratha (Scindia patronage of Gwalior)",
+    "period": "1814-1815 (early 19th century)",
+    "summary": "A major Krishna temple in the heart of Mathura, near Vishram Ghat/Holi Gate, worshipping Krishna as Dwarkadhish, 'Lord of Dwarka', in his royal form (black marble idol with Radha). Built in 1814 (some sources say 1815) by the devotee-merchant Seth Gokul Das Parikh, treasurer of the Scindia dynasty, with patronage and funds from Maharaja Daulatrao Scindia of Gwalior. It is known for its Rajasthani/Maru-Gurjara architecture with intricate carving, painted ceilings depicting Krishna's life, and an especially festive Holi and Janmashtami. CORRECTION: CSV town 'Mathura Cantonment' corrected to actual town Mathura (the temple is in the old city near Holi Gate); CSV state 'Mathura Cantonment' corrected to Uttar Pradesh."
+  },
+  "id": "dwarikadhish-temple-mathura",
+  "latitude": 27.50603,
+  "longitude": 77.68376,
+  "media": [
+    "https://visitplacesindia.com/wp-content/uploads/2024/11/dwarkadhish-temple-mathura.jpg"
+  ],
+  "name": "Dwarikadhish Temple",
+  "sources": [
+    "https://www.rajasthantourplanner.com/blog/dwarkadhish-temple-mathura/?amp",
+    "https://www.vedaz.io/temples/dwarikadhish-mandir",
+    "https://brajbhoomitourandtravels.com/dwarkadhish-temple.html"
+  ],
+  "state": "Uttar Pradesh",
+  "town": "Mathura",
+  "town_description": "Mathura is one of the oldest cities of India, on the Yamuna in western Uttar Pradesh, revered as the birthplace of Krishna and the centre of the Braj region. It draws millions of pilgrims, with major temples including Shri Krishna Janmasthan, Dwarkadhish, Banke Bihari (in adjacent Vrindavan) and the ghats along the river.",
+  "tradition": "Hinduism",
+  "travel": {
+    "airport": "Agra Airport (~65 km) or Delhi IGI (~150 km; distances vary - verify)",
+    "railway": "Mathura Junction (~2-3 km)",
+    "road": "NH-19 (Agra-Delhi highway); temple sits in the crowded market area near Holi Gate"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October-March; Janmashtami and Holi are the grandest festivals",
+    "opening_hours": "6:30 AM-10:30 AM and 4:00 PM-7:00 PM (per brajbhoomitourandtravels - verify)"
+  }
+}

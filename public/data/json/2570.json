@@ -1,0 +1,48 @@
+{
+  "alternate_names": [
+    "Kashi Vishwanath Temple, Uttarkashi",
+    "Shree Kashi Vishwanath Temple"
+  ],
+  "deities": [
+    "Shiva (Vishwanath)",
+    "Shakti (separate shrine in the complex)"
+  ],
+  "district": "Uttarkashi",
+  "festivals": [
+    "Maha Shivaratri",
+    "Magh Mela"
+  ],
+  "history": {
+    "dynasty": "Unknown - tradition credits Parashuram; renovated 1857 by Maharani Khaneti",
+    "period": "Ancient (mentioned in the Skanda Purana's Kedar Khanda); renovation dated 1857 (traditional account)",
+    "summary": "One of the oldest temples in Uttarkashi, on the Bhagirathi bank on the Char Dham route. Tradition credits its founding to Parashuram and its 1857 renovation to Maharani Khaneti - both accounts need verification. Belief holds that when Varanasi is submerged, Kashi Vishwanath will shift to this temple, and that Markandeya was saved from Yama here. The complex also houses the Shakti shrine with the famous giant trishul (documented separately). Opening hours not verified (verify). CSV town Uttarkashi is correct; CSV 'state' column holds town names - corrected to Uttarakhand."
+  },
+  "id": "vishwanath-temple-uttarkashi",
+  "latitude": 30.72899,
+  "longitude": 78.44169,
+  "media": [
+    "https://www.tusktravel.com/blog/wp-content/uploads/2024/02/Vishwanath-Temple-Uttarkashi.jpg"
+  ],
+  "name": "Vishwanath Temple",
+  "sources": [
+    "https://www.tripadvisor.in/Attraction_Review-g1222155-d10596676-Reviews-Shree_Kashi_Vishwanath_Temple_Uttarkashi-Uttarkashi_Uttarkashi_District_Uttarak.html"
+  ],
+  "state": "Uttarakhand",
+  "town": "Uttarkashi",
+  "town_description": "Uttarkashi is a pilgrim town in the Garhwal Himalaya on the Bhagirathi river, the district headquarters and a key Char Dham stopover en route to Gangotri.",
+  "tradition": "Hinduism",
+  "travel": {
+    "airport": "Jolly Grant Airport, Dehradun (nearest airport)",
+    "railway": "Rishikesh (nearest railhead)",
+    "road": "In the main town of Uttarkashi, on the Char Dham route on the Bhagirathi bank."
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "March to June and September to November; Mahashivaratri and Magh Mela are the main gatherings.",
+    "opening_hours": "Not verified - confirm locally (verify)."
+  }
+}

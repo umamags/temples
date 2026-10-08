@@ -1,0 +1,49 @@
+{
+  "alternate_names": [
+    "Trikutesvara",
+    "Trikut Eshwara"
+  ],
+  "deities": [
+    "Shiva (three lingams mounted on a single stone in the east-facing sanctum — interpreted as Brahma, Vishnu and Shiva; presiding)",
+    "Goddess Saraswati (separate shrine within the complex)"
+  ],
+  "district": "Gadag",
+  "festivals": [
+    "Maha Shivaratri"
+  ],
+  "history": {
+    "dynasty": "Kalyana (Later) Chalukya; traditionally attributed to the master architect Jakanachari",
+    "period": "Original shrine completed c. 1040 CE; expansions complete by the early 12th century",
+    "summary": "The Trikuteshwara complex is the great Kalyana Chalukya trikuta (triple-shrine) temple of Gadag. The original east-facing shrine with its vimana was completed around 1040 CE; it was then expanded with a larger mandapa and a western sanctum, and a Saraswati shrine was added to the south, axially aligned with the main temple — the complex was likely complete by the early 12th century, and its many inscriptions help date the work. The ornate carved pillars, chiselled stone screens and figurative panels made it a celebrated model of Chalukya architecture for colonial-era scholars such as James Fergusson. NOTE: the Saraswati shrine was vandalised in the past and regular pooja is not offered there (verify current status). Sources conflict slightly on architect attribution (traditional Jakanachari credit) — documented as tradition. CSV NOTE: the CSV's 'state' column wrongly holds the town name 'Gadag' — the temple is in the state of Karnataka."
+  },
+  "id": "trikuteshwara-temple-gadag",
+  "latitude": 15.42459,
+  "longitude": 75.6261,
+  "media": [
+    "https://thetempleguru.com/wp-content/uploads/2024/02/Trikuteshwara-Temple-Gadag-14.jpg"
+  ],
+  "name": "Trikuteshwara Temple",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Trikuteshwara_Temple,_Gadag",
+    "https://picryl.com/media/11th-century-trikuteshvara-temple-gadag-karnataka-india-32-1759e8",
+    "http://www.templenet.com/Karnataka/kalyani_chalukya.html"
+  ],
+  "state": "Karnataka",
+  "town": "Gadag",
+  "town_description": "Gadag (Gadag-Betageri) is a town and district headquarters in north Karnataka, about 60 km from Hubballi. It is one of the great centres of Kalyana Chalukya art — some 50 temples were built in the region between 1050 and 1200 CE — with the temple cluster of Lakkundi about 13-17 km away.",
+  "tradition": "Shaivism",
+  "travel": {
+    "airport": "Hubballi Airport (HBX), approx. 55-60 km.",
+    "railway": "Gadag Junction, a few kilometres from the temple, well connected to Hubballi and beyond.",
+    "road": "In the southern part of Gadag town, near the NH 67 corridor between Hubballi and Hampi; autos within town, and an easy day trip from Hubballi."
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March.",
+    "opening_hours": "One travel blog gives 7:00 AM-12:30 PM and 5:00-8:30 PM — blog-sourced only, VERIFY locally before visiting."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "alternate_names": [
+    "Banawali",
+    "Vanavali"
+  ],
+  "deities": [],
+  "district": "Fatehabad",
+  "festivals": [],
+  "history": {
+    "dynasty": "Indus Valley Civilization",
+    "period": "c. 2500–1700 BCE",
+    "summary": "NOT a conventional temple: this row refers to the Banawali archaeological site, an Indus Valley Civilization settlement in Fatehabad district, Haryana, on the left bank of the dried-up Sarasvati river, about 16 km from Fatehabad town and ~120 km northeast of Kalibangan (coords per Wikipedia 29.59833, 75.39194). Excavated by R.S. Bisht of the ASI in 1974 (some sources report discovery in 1973 — discrepancy flagged). Three occupation phases: Period I pre-Harappan (c. 2500–2300 BCE), Period II mature Harappan (c. 2300–1700 BCE) with a well-planned fortified township on a radial street pattern, and Period III post-Harappan/Banawali-Bara (c. 1700–1500/1450 BCE). Finds include seals, terracotta figurines, copper fish-hooks, charred barley, and the notable terracotta plough replica. The CSV 'state' column wrongly holds the town name; the actual state is Haryana. There are no regular visitor hours; access is an ASI-site matter (verify)."
+  },
+  "id": "banawali-temple-site-fatehabad",
+  "latitude": 29.59833,
+  "longitude": 75.39194,
+  "media": [
+    "http://myindianproducts.com/images/travel/places/banawali-archaeological-site-fatehabad-haryana-india.webp"
+  ],
+  "name": "Banawali Temple Site",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Banawali",
+    "https://www.gktoday.in/banawali/",
+    "https://www.myindianproducts.com/travel/haryana/fatehabad"
+  ],
+  "state": "Haryana",
+  "town": "Banawali",
+  "town_description": "Banawali is a village in Fatehabad district, Haryana, on the bed of the ancient Sarasvati (Ghaggar-Hakra) river, about 16 km from Fatehabad town. It is known principally for the excavated Harappan-period archaeological mound adjacent to the village.",
+  "tradition": "Hindu",
+  "travel": {
+    "airport": "Hisar Airport, ~110 km (verify); Indira Gandhi International Airport, Delhi, ~230 km (verify)",
+    "railway": "Fatehabad / Ratia railway stations; Hisar Junction, ~55 km (verify)",
+    "road": "About 16 km from Fatehabad town on the ancient Sarasvati river bed"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October–March",
+    "opening_hours": "No regular visitor hours (archaeological site; verify access)"
+  }
+}

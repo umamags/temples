@@ -1,0 +1,52 @@
+{
+ "alternate_names": [
+  "Shri Ambadevi Temple",
+  "Ambabai Temple, Amravati"
+ ],
+ "deities": [
+  "Ambadevi (Goddess Amba, incarnation of Durga / Mahishasurmardini)",
+  "Ganpati, Mahadev, Vishnu and Parvati (idols in the garbhagriha)"
+ ],
+ "district": "Amravati",
+ "festivals": [
+  "Navratri (nine-day festival with a big annual mela before Dussehra)"
+ ],
+ "history": {
+  "dynasty": "Unknown (one weak secondary source claims a 14th-century Shilahara origin - verify)",
+  "period": "Ancient (age claimed 500 to 1000+ years; sources conflict - verify)",
+  "summary": "CSV STATE FLAG: the CSV 'state' column wrongly holds the town name; the temple is in Amravati, MAHARASHTRA (CSV town 'Amravati' is correct). The Shri Ambadevi Temple, dedicated to Goddess Amba (a form of Durga), stands at the heart of Amravati (per testbook.com, at Gandhi Square); the city is said to be named after the goddess, and it is the district's oldest and most sacred shrine. The garbhagriha is split into three arches with a sandstone idol of Goddess Ambabai alongside Ganpati, Mahadev, Vishnu and Parvati; the walls are adorned with sculptures narrating Puranic tales. Mythology says Lord Krishna eloped with Rukmini from this temple and married her here. Navratri is the grand annual festival, drawing over two lakh devotees in some years, with a large mela. Founding-date claims conflict: a seawatersports.com page says 14th-century Shilahara, Zilla Parishad Amravati says over a thousand years old, travelsetu.com says at least 500 years - none is firmly documented, so the date is flagged unverified. Note: the geocoder resolved the temple to Ravi Nagar Road/Patwipura while testbook.com places it at Gandhi Square - both are central Amravati; exact pin is the geocoder's Ambadevi Temple point (verify)."
+ },
+ "id": "ambadevi-temple-amravati",
+ "latitude": 20.92676,
+ "longitude": 77.74936,
+ "media": [
+  "https://s7ap1.scene7.com/is/image/incredibleindia/ambadevi-temple-amravati-maharashtra-1-attr-nearby?qlt=82&ts=1726668363457"
+ ],
+ "name": "Ambadevi Temple",
+ "sources": [
+  "https://zpamravati.gov.in/en/places-centres/ambadevi-ekvira-devi-temple-amravati/",
+  "https://travelsetu.com/guide/ambadevi-temple-amravati-tourism",
+  "https://tourmyindia.com/states/maharashtra/ambadevi-temple-amravati.html",
+  "https://www.amravationline.in/guide/ambadevi-temple-in-amravati",
+  "http://testbook.com/question-answer/ambadevi-temple-is-located-in-which-of-the-followi--633e95dfef04a12237a8f7c3/amp",
+  "https://www.incredibleindia.gov.in/en/maharashtra/amravati"
+ ],
+ "state": "Maharashtra",
+ "town": "Amravati",
+ "town_description": "Amravati is a major city of the Vidarbha region in Maharashtra and the administrative centre of Amravati district, said to take its name from the goddess Amba. It sits at about 340 m above sea level with the Pohara and Chirodi hills to its east, and is the main centre of west Vidarbha.",
+ "tradition": "Hinduism (Shaktism)",
+ "travel": {
+  "airport": "Nearest major airport Nagpur (~155 km, verify)",
+  "railway": "Amravati railway station (temple in the city centre)",
+  "road": "Central Amravati (Gandhi Square area); well connected by road within the city"
+ },
+ "video": {
+  "audio": "",
+  "script": "",
+  "video_file": ""
+ },
+ "visitor_information": {
+  "best_time": "Navratri and October to February",
+  "opening_hours": "UNVERIFIED (verify) - travelsetu.com lists 6:00 AM-8:00 PM daily (single source); entry is free"
+ }
+}

@@ -1,0 +1,48 @@
+{
+  "alternate_names": [
+    "Chandrabadani Temple",
+    "Chandrabadni Devi Temple"
+  ],
+  "deities": [
+    "Chandrabadni Devi (Goddess Sati, form of Parvati)"
+  ],
+  "district": "Tehri Garhwal",
+  "festivals": [
+    "Navratri"
+  ],
+  "history": {
+    "dynasty": "Unknown",
+    "period": "Ancient (Skanda Purana reference); present structure early medieval or later (exact construction date uncertain)",
+    "summary": "Siddhapeetha atop Chandrakoot mountain (about 2,277 m) on the border of Devaprayag and Pratapnagar tehsils, where Sati's torso ('badan') is believed to have fallen. Uniquely, the sanctum holds no idol - a Shri Yantra is worshipped, and priests (Semalty Brahmins of Pujar Gaon) traditionally veil their eyes during puja. Tridents and old statues lie scattered around the shrine. Exact construction date is uncertain; nearby artifacts suggest an early medieval religious site. Festival list is lightly sourced and should be verified. Opening hours not verified (verify). CSV town 'Tehri' is wrong - the temple is about 32-33 km from Devprayag on the Srinagar-Tehri road; corrected to Devprayag. CSV 'state' column holds town names - corrected to Uttarakhand."
+  },
+  "id": "chandrabadni-temple",
+  "latitude": 30.30417,
+  "longitude": 78.61923,
+  "media": [
+    "https://blog.byoh.in/wp-content/uploads/2016/04/Chandrabadni-Temple.jpg"
+  ],
+  "name": "Chandrabadni Temple",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Chandrabadani_Devi",
+    "https://subkuz.com/english-story/dharma-karma/itihas-aur-virasat/chandrabadani-temple-uttarakhand-shakti-peeth/44998",
+    "https://templeyatri.in/chandrabadni-temple-tehri-garhwal/"
+  ],
+  "state": "Uttarakhand",
+  "town": "Devprayag",
+  "town_description": "Devprayag is the sacred confluence town of the Alaknanda and Bhagirathi rivers forming the Ganga, in Tehri Garhwal, a major pilgrimage stop on the Char Dham route.",
+  "tradition": "Hinduism",
+  "travel": {
+    "airport": "Jolly Grant Airport, Dehradun (nearest airport)",
+    "railway": "Rishikesh (nearest railhead)",
+    "road": "About 33 km from Devprayag on the Srinagar-Tehri road; a roughly 1 km moderate trek from Jamnikhal/Jhanau village to the peak."
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "March to June and September to November.",
+    "opening_hours": "Not verified - confirm locally (verify)."
+  }
+}

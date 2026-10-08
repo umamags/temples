@@ -1,0 +1,43 @@
+{
+  "alternate_names": [],
+  "deities": [
+    "Lord Shiva"
+  ],
+  "district": "Tuensang",
+  "festivals": [
+    "Maha Shivratri"
+  ],
+  "history": {
+    "dynasty": "unknown",
+    "period": "unknown",
+    "summary": "PROVISIONAL IDENTITY: Map directories list a generic 'Hindu Temple' in Tuensang town (PIN 798612) whose deity is unspecified, alongside a separate 'Assam Rifles Temple' at the Assam Rifles camp. No web source names a distinct Shiva temple in Tuensang. This entry is provisionally linked to the generic Tuensang 'Hindu Temple' listing based on the CSV hint 'Local Hindu shrine dedicated to Lord Shiva'; the deity identification is unconfirmed, and the listing's coordinates are used here. CSV correction: the 'state' column held the town name; the actual state is Nagaland."
+  },
+  "id": "shiva-temple-tuensang-nagaland",
+  "latitude": 26.234652,
+  "longitude": 94.81434,
+  "media": [],
+  "name": "Shiva Temple",
+  "sources": [
+    "https://www.indiainfo.net/s/hindu-temple-in-nagaland",
+    "http://www.onefivenine.com/india/Listing/Town/temples/Tuensang/Tuensang",
+    "https://meta.ai?place_id=1305711274214388"
+  ],
+  "state": "Nagaland",
+  "town": "Tuensang",
+  "town_description": "Tuensang is the headquarters of Tuensang district, the largest district of Nagaland, on the eastern edge of the state bordering Myanmar. A high-altitude hill town in the territory of the Chang, Khiamniungan, Yimkhiung, Sangtam and Phom Naga tribes, known for its ridge-top setting and tribal culture; Indian visitors from outside Nagaland need an Inner Line Permit (ILP).",
+  "tradition": "Hinduism",
+  "travel": {
+    "airport": "Nearest airport: Dimapur, then road via Mokokchung (distances approximate; verify locally)",
+    "railway": "Nearest railhead: Dimapur/Mariani, then road (verify locally)",
+    "road": "Tuensang is reached by hill road via Mokokchung (NH 202 corridor); the town is approx. 140 km from Mokokchung (verify locally)"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March",
+    "opening_hours": "Unverified — small local shrine, likely open morning and evening (verify on visit)."
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "alternate_names": [
+    "Sri Gnana Saraswathi Temple",
+    "Basara Saraswati Temple",
+    "Vasara"
+  ],
+  "deities": [
+    "Gnana Saraswathi (Saraswati)",
+    "Lakshmi",
+    "Mahakali"
+  ],
+  "district": "Nirmal",
+  "festivals": [
+    "Vasantha Panchami (peak Akshara Abhyasam)",
+    "Maha Shivaratri",
+    "Devi Navarathri/Dussehra"
+  ],
+  "history": {
+    "dynasty": "Bijialudu of Nandagiri/Nanded (traditional 6th-century attribution, unverified)",
+    "period": "6th century (traditional); idols reinstated 17th century",
+    "summary": "DUPLICATE/OVERLAP: this temple is already documented in the dataset as file 2287.json, id 'gnana-saraswathi-temple-basara' ('Sri Gnana Saraswathi Temple (Basara)'). Research notes: one of India's very few temples where Saraswati is the presiding deity, on the banks of the Godavari at Basara. Legend: after the Kurukshetra war, Maharishi Vyasa settled in this Dandakaranya spot and made sand murtis of Saraswati, Lakshmi and Kali; the place was called Vasara, later Basara. Traditionally built in the 6th century by Bijialudu, a Karnataka king ruling Nandagiri (Nanded); idols were reinstated in the 17th century by a Nandagiri chieftain after destruction by Muslim invaders (per Wikipedia). The goddess sits holding a veena; Lakshmi stands beside her in the sanctum and Mahakali is on the first floor - Basara is considered the abode of the divine trinity. Famous for the Akshara Abhyasam ritual (formal induction of children into education). CSV town 'Adilabad' corrected: actual town is Basara (census town, Nirmal district). CSV state 'Adilabad' corrected: Telangana."
+  },
+  "id": "basara-saraswati-temple",
+  "latitude": 18.87821,
+  "longitude": 77.95691,
+  "media": [
+    "https://d2zfbyesi0qka0.cloudfront.net/wp-content/uploads/2021/06/Basara.jpg"
+  ],
+  "name": "Basara Saraswati Temple",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Gnana_Saraswati_Temple",
+    "https://endowments.ts.nic.in/basara.html",
+    "https://travellerkaka.com/basara-temple-the-only-saraswati-temple-in-south-india-a-complete-guide/"
+  ],
+  "state": "Telangana",
+  "town": "Basara",
+  "town_description": "Basara (also spelled Basar) is a census town in Nirmal district, Telangana, on the banks of the Godavari near its confluence belt with the Manjira, about 205-210 km from Hyderabad and 70 km from Nirmal. It is a major pilgrimage town centered on the Gnana Saraswathi temple, with an own railway station (Basar, BSX) about 2.4 km away.",
+  "tradition": "Hinduism",
+  "travel": {
+    "airport": "Rajiv Gandhi International Airport, Hyderabad (about 210 km)",
+    "railway": "Basar (BSX), about 2.4 km; Nizamabad about 34.8 km",
+    "road": "Well connected by TSRTC/MSRTC buses; Hyderabad about 205-210 km, Nizamabad about 34.8 km, Bhainsa about 30 km"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March; Vasantha Panchami (January-February) is the peak for Akshara Abhyasam",
+    "opening_hours": "4:00 AM - 12:30 PM, 2:00 PM - 8:30 PM (Telangana Endowments Department)"
+  }
+}

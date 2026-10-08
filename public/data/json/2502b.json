@@ -1,0 +1,51 @@
+{
+  "alternate_names": [
+    "Neelkanth Temple",
+    "Nilkantheshwar Temple",
+    "Neelkantheshwar Temple"
+  ],
+  "deities": [
+    "Shiva (worshipped as Neelkanth, the blue-throated)"
+  ],
+  "district": "Alwar",
+  "festivals": [
+    "Maha Shivratri (verify - typical for a Shiva temple; not confirmed in sources)"
+  ],
+  "history": {
+    "dynasty": "Gurjara-Pratihara; commissioned under feudatory Maharajadhiraj Parmeshwara Mathanadeva",
+    "period": "6th-9th century CE; inscription dated 961 CE",
+    "summary": "The Neelkanth (Nilkantheshwar) Mahadev Temple stands on a hill at Tehla village in Rajgarh tehsil, Alwar district, inside the buffer zone of the Sariska Tiger Reserve. It was built between the 6th and 9th centuries by Maharajadhiraj Parmeshwara Mathanadeva, a feudatory of the Gurjara-Pratihara Empire (per an inscription dated 961 CE); the local Pratihara line later became known as the Badgujar. The site was anciently called Rajyapura and later Paranagar, and the surviving temple gives its name to a group of over a dozen shrines, said to be the sole intact one amid the ruins of some 200. It is trikuta (three sanctums) with an intact nagara shikhara over the central sanctum and richly sculpted pancharatha outer walls (Harihara, Narasimha, Tripurantaka, surasundaris, mithuna, dikpalas; erotic panels in Khajuraho style noted). Legends link a Shivalinga to the Pandavas (brought from Kashi) and tell of Aurangzeb's troops being repelled by swarms of bees (folklore - verify). The linga remains in active worship. CSV TOWN/STATE FLAG: CSV town 'Alwar' is approximate (the temple is ~72 km from Alwar city) and the CSV 'state' column wrongly repeats the town name - actual state is Rajasthan. COORDINATES are a geocoder POI match (27.25379, 76.40683), moderate relevance - verify on the ground."
+  },
+  "id": "neelkanth-mahadev-temple-alwar",
+  "latitude": 27.25379,
+  "longitude": 76.40683,
+  "media": [
+    "https://www.trawell.in/admin/images/upload/673296199Neelkanth-Mahadev-Temple.jpg"
+  ],
+  "name": "Neelkanth Mahadev Temple",
+  "sources": [
+    "https://www.trawell.in/rajasthan/alwar/neelkanth-mahadev-temple",
+    "https://jaipurexplore.com/explore-sariska-beyond/neelkanth-temple-alwar-sariska/",
+    "https://en.wikipedia.org/wiki/Neelkanth_temple,_Alwar_district",
+    "https://exhibits.jioinstitute.edu.in/spotlight/neelkanth-mahadev-group-of-temples/feature/neelkanth-mahadev-temple-visual-walkthrough-of-the-shiva-temple-in-ancient-rajorgarh",
+    "https://www.optimatravels.com/alwar-rajasthan/neelkanth-mahadev-temple-alwar-rajasthan-india.aspx"
+  ],
+  "state": "Rajasthan",
+  "town": "Tehla village, Rajgarh tehsil (CSV town 'Alwar' is approximate - ~72 km away)",
+  "town_description": "Tehla is a village in Rajgarh tehsil of Alwar district, Rajasthan, on the edge of the Aravalli hills at the boundary of the Sariska Tiger Reserve's buffer zone. The Neelkanth temple complex sits on a hill above the village, reached by a steep track; the wider area was the early-medieval temple town of Rajyapura/Paranagar, whose ruins of some 200 temples still dot the landscape.",
+  "tradition": "Hinduism (Shaivism)",
+  "travel": {
+    "airport": "Jaipur International Airport, about 140-150 km (verify)",
+    "railway": "Alwar Junction, about 72 km (per trawell.in); private taxi onward (verify)",
+    "road": "Isolated hilltop inside the Sariska buffer zone; steep track from Tehla village, reached by private vehicle or taxi from Alwar or Rajgarh (verify)"
+  },
+  "video": {
+    "audio": "",
+    "script": "",
+    "video_file": ""
+  },
+  "visitor_information": {
+    "best_time": "October to March",
+    "opening_hours": "No published timings found - verify locally (expect daytime visits; hours may be restricted since the site lies inside a tiger-reserve buffer zone)"
+  }
+}
